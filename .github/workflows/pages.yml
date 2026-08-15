@@ -3,6 +3,13 @@ name: Deploy GitHub Pages
 on:
   push:
     branches: [main]
+  # Commits pushed by fetch.yml use the automatic GITHUB_TOKEN, which GitHub
+  # deliberately excludes from triggering other workflows' `push` events (an
+  # anti-loop safeguard). workflow_run isn't subject to that exclusion, so
+  # this is what actually gets Pages to redeploy after each data refresh.
+  workflow_run:
+    workflows: ["Fetch catalysts & enrich drugs"]
+    types: [completed]
   workflow_dispatch: {}
 
 permissions:
@@ -16,6 +23,7 @@ concurrency:
 
 jobs:
   deploy:
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
     runs-on: ubuntu-latest
     environment:
       name: github-pages
@@ -23,6 +31,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.workflow_run.head_sha || github.sha }}
 
       - name: Upload site
         uses: actions/upload-pages-artifact@v3
