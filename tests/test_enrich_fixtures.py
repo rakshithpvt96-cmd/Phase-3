@@ -15,6 +15,7 @@ Two drugs are exercised:
                        fallback for "related drugs".
 """
 
+import json
 import sys
 import tempfile
 from pathlib import Path
@@ -278,6 +279,78 @@ def run():
         "needs_refresh: stale profile triggers refresh",
         ed.needs_refresh({"enriched_at": "2000-01-01T00:00:00Z"}, 30) is True,
     )
+
+    # --- ACTIVE_NOT_RECRUITING drugs jump the enrichment queue ---
+    priority_trials = {
+        "NCT1": {"status": "ACTIVE_NOT_RECRUITING"},
+        "NCT2": {"status": "RECRUITING"},
+        "NCT3": {"status": "ACTIVE_NOT_RECRUITING"},
+    }
+    priority_drugs = {
+        "zeta": {"trial_ids": {"NCT2"}},
+        "alpha": {"trial_ids": {"NCT1"}},
+        "mid": {"trial_ids": {"NCT3"}},
+    }
+    ordered_slugs = [
+        s for s, _ in sorted(priority_drugs.items(), key=lambda si: ed.drug_priority_key(si[0], si[1], priority_trials))
+    ]
+    check(
+        "drug_priority_key: ACTIVE_NOT_RECRUITING drugs sort before others, alphabetical within each tier",
+        ordered_slugs == ["alpha", "mid", "zeta"],
+    )
+
+    tmp_dir = Path(tempfile.mkdtemp(prefix="enrich-test-main-"))
+    orig_drugs_dir, orig_conditions_dir, orig_catalysts_file, orig_max = (
+        ed.DRUGS_DIR,
+        ed.CONDITIONS_CACHE_DIR,
+        ed.CATALYSTS_FILE,
+        ed.MAX_DRUGS_PER_RUN,
+    )
+    ed.DRUGS_DIR = tmp_dir / "drugs"
+    ed.CONDITIONS_CACHE_DIR = tmp_dir / "drugs" / "_conditions_cache"
+    ed.CATALYSTS_FILE = tmp_dir / "catalysts.json"
+    ed.MAX_DRUGS_PER_RUN = 2
+    ed.CATALYSTS_FILE.parent.mkdir(parents=True, exist_ok=True)
+    ed.CATALYSTS_FILE.write_text(
+        json.dumps(
+            {
+                "trials": [
+                    {"nct_id": "NCT1", "status": "ACTIVE_NOT_RECRUITING", "sponsor": "S1", "conditions": ["C"], "drug_names": ["Zdrug"], "has_results": False, "title": "T1", "url": "u1"},
+                    {"nct_id": "NCT2", "status": "RECRUITING", "sponsor": "S2", "conditions": ["C"], "drug_names": ["Adrug"], "has_results": False, "title": "T2", "url": "u2"},
+                    {"nct_id": "NCT3", "status": "COMPLETED", "sponsor": "S3", "conditions": ["C"], "drug_names": ["Mdrug"], "has_results": False, "title": "T3", "url": "u3"},
+                ]
+            }
+        )
+    )
+
+    call_order = []
+    orig_enrich_drug = ed.enrich_drug
+
+    def stub_enrich_drug(slug, name, condition, sponsor, trial_ids, trials_index):
+        call_order.append(slug)
+        return {
+            "drug_name": name, "slug": slug, "enriched_at": ed.now_iso(), "source_trial_ids": sorted(trial_ids),
+            "sponsors": [], "identity": {}, "mechanism": {}, "fda_label": {"has_label": False},
+            "condition": {"raw": condition, "slug": None}, "source_trials": [],
+            "prior_results": {"ctgov_results_urls": [], "pubmed_articles": []},
+            "related_drugs": {"method": "x", "label": "x", "items": []},
+        }
+
+    ed.enrich_drug = stub_enrich_drug
+    try:
+        ed.main()
+    finally:
+        ed.enrich_drug = orig_enrich_drug
+        ed.DRUGS_DIR, ed.CONDITIONS_CACHE_DIR, ed.CATALYSTS_FILE, ed.MAX_DRUGS_PER_RUN = (
+            orig_drugs_dir,
+            orig_conditions_dir,
+            orig_catalysts_file,
+            orig_max,
+        )
+
+    check("main(): ACTIVE_NOT_RECRUITING drug processed first despite alphabetical order", call_order[:1] == ["zdrug"])
+    check("main(): MAX_DRUGS_PER_RUN caps candidates processed this run", len(call_order) == 2)
+    check("main(): remaining slot goes to next-priority drug in alphabetical order", call_order == ["zdrug", "adrug"])
 
     print()
     if FAILURES:

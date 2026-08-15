@@ -535,6 +535,16 @@ def collect_unique_drugs(catalysts):
     return drugs
 
 
+def drug_priority_key(slug, info, trials_index):
+    """ACTIVE_NOT_RECRUITING trials have stopped enrolling and are the most
+    likely to be sitting on an unreleased readout -- their drugs jump the
+    queue. Everything else follows in alphabetical order for determinism."""
+    is_urgent = any(
+        (trials_index.get(tid) or {}).get("status") == "ACTIVE_NOT_RECRUITING" for tid in info["trial_ids"]
+    )
+    return (0 if is_urgent else 1, slug)
+
+
 def needs_refresh(existing, refresh_days):
     if existing is None:
         return True
@@ -637,13 +647,9 @@ def main():
     trials_index = {t.get("nct_id"): t for t in catalysts.get("trials", [])}
     drugs = collect_unique_drugs(catalysts)
 
-    processed = 0
     skipped = 0
+    candidates = []
     for slug, info in sorted(drugs.items()):
-        if processed >= MAX_DRUGS_PER_RUN:
-            print(f"Reached MAX_DRUGS_PER_RUN={MAX_DRUGS_PER_RUN}; remaining drugs will be picked up next run.")
-            break
-
         out_file = DRUGS_DIR / f"{slug}.json"
         existing = None
         if out_file.exists():
@@ -660,8 +666,21 @@ def main():
             skipped += 1
             continue
 
+        candidates.append((slug, info))
+
+    candidates.sort(key=lambda si: drug_priority_key(si[0], si[1], trials_index))
+    if candidates:
+        urgent_count = sum(1 for slug, info in candidates if drug_priority_key(slug, info, trials_index)[0] == 0)
+        print(f"{len(candidates)} drug(s) need enrichment this run ({urgent_count} from ACTIVE_NOT_RECRUITING trials, prioritized first).")
+
+    processed = 0
+    for slug, info in candidates:
+        if processed >= MAX_DRUGS_PER_RUN:
+            print(f"Reached MAX_DRUGS_PER_RUN={MAX_DRUGS_PER_RUN}; remaining drugs will be picked up next run.")
+            break
+
         profile = enrich_drug(slug, info["name"], info["condition"], info["sponsor"], info["trial_ids"], trials_index)
-        out_file.write_text(json.dumps(profile, indent=2, ensure_ascii=False) + "\n")
+        (DRUGS_DIR / f"{slug}.json").write_text(json.dumps(profile, indent=2, ensure_ascii=False) + "\n")
         processed += 1
 
     print(f"Enrichment complete: {processed} drug(s) processed, {skipped} skipped (cached).")
