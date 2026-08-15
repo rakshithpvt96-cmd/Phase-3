@@ -19,12 +19,14 @@ index.html + assets/app.js   -> sortable/filterable catalyst table, links to dru
 drug.html + assets/drug.js   -> per-drug detail page, reads data/drugs/{slug}.json
 ```
 
-`.github/workflows/fetch.yml` runs both scripts 5x a day (00:00, 05:00,
-10:00, 15:00, 20:00 UTC) and on manual dispatch, and commits any changed
-`data/*.json` back to the repo using the built-in `GITHUB_TOKEN` — no
-personal access token needed. A concurrency group serializes runs, so a
-scheduled trigger that lands while a previous run is still going just
-waits its turn instead of overlapping.
+`.github/workflows/fetch.yml` runs both scripts 5x a day, back-to-back
+30 minutes apart (07:00, 07:30, 08:00, 08:30, 09:00 UTC -- targeting
+3:00am-5:00am US Eastern; cron is fixed UTC and doesn't shift for DST, so
+this lands an hour earlier during Eastern Standard Time) and on manual
+dispatch, and commits any changed `data/*.json` back to the repo using the
+built-in `GITHUB_TOKEN` — no personal access token needed. A concurrency
+group serializes runs, so a scheduled trigger that lands while a previous
+run is still going just waits its turn instead of overlapping.
 
 `.github/workflows/pages.yml` deploys the static site (root of the repo) to
 GitHub Pages on every push to `main`, and also on completion of
