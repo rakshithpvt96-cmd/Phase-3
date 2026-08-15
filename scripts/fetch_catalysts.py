@@ -37,15 +37,19 @@ DATA_DIR = ROOT / "data"
 CATALYSTS_FILE = DATA_DIR / "catalysts.json"
 HISTORY_DIR = DATA_DIR / "history"
 NEW_SINCE_FILE = DATA_DIR / "new_since_last_run.json"
+COMPANIES_DIR = DATA_DIR / "companies"
 
 CTGOV_BASE = "https://clinicaltrials.gov/api/v2/studies"
 EDGAR_FTS_BASE = "https://efts.sec.gov/LATEST/search-index"
+SEC_TICKERS_URL = "https://www.sec.gov/files/company_tickers.json"
+SEC_XBRL_FACTS_BASE = "https://data.sec.gov/api/xbrl/companyfacts"
 
 UPCOMING_WINDOW_DAYS = int(os.environ.get("UPCOMING_WINDOW_DAYS", "14"))
 LOOKBACK_MIN_DAYS = int(os.environ.get("LOOKBACK_MIN_DAYS", "30"))
 LOOKBACK_MAX_DAYS = int(os.environ.get("LOOKBACK_MAX_DAYS", "75"))
 EDGAR_LOOKBACK_DAYS = int(os.environ.get("EDGAR_LOOKBACK_DAYS", "120"))
 HISTORY_RETENTION = int(os.environ.get("HISTORY_RETENTION", "90"))
+REFRESH_DAYS_COMPANY = int(os.environ.get("REFRESH_DAYS_COMPANY", "7"))
 
 CTGOV_PAGE_SIZE = 100
 CTGOV_MAX_PAGES = 30  # safety cap: 3000 studies per window is far beyond any real query
@@ -98,8 +102,40 @@ def http_get_json(url, params=None, headers=None, retries=RETRY_COUNT):
     return None
 
 
+def http_get_text(url, params=None, headers=None, retries=RETRY_COUNT):
+    if params:
+        url = f"{url}?{urllib.parse.urlencode(params)}"
+    req_headers = dict(headers or {})
+    last_err = None
+    for attempt in range(1, retries + 1):
+        try:
+            req = urllib.request.Request(url, headers=req_headers)
+            with urllib.request.urlopen(req, timeout=REQUEST_TIMEOUT) as resp:
+                body = resp.read().decode("utf-8", errors="replace")
+            time.sleep(SLEEP_BETWEEN_CALLS)
+            return body
+        except urllib.error.HTTPError as e:
+            if e.code == 404:
+                time.sleep(SLEEP_BETWEEN_CALLS)
+                return None
+            last_err = e
+            time.sleep(SLEEP_BETWEEN_CALLS * (2 ** attempt))
+        except (urllib.error.URLError, TimeoutError) as e:
+            last_err = e
+            time.sleep(SLEEP_BETWEEN_CALLS * (2 ** attempt))
+    print(f"  ! text request failed after {retries} attempts: {url} ({last_err})", file=sys.stderr)
+    return None
+
+
 def now_iso():
     return datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+
+
+def slugify(name):
+    s = (name or "").strip().lower()
+    s = re.sub(r"[^a-z0-9]+", "-", s)
+    s = re.sub(r"-{2,}", "-", s).strip("-")
+    return s or "unknown"
 
 
 # ---------------------------------------------------------------------------
@@ -245,6 +281,143 @@ def edgar_search_sponsor(sponsor_name, cache):
 
 
 # ---------------------------------------------------------------------------
+# Company identity / market cap (SEC-registered sponsors only)
+#
+# Deliberately conservative: a sponsor is only matched to a ticker on an
+# exact normalized-name match against SEC's own company_tickers.json. No
+# fuzzy/substring matching -- attaching the wrong company's market cap to a
+# similarly-named sponsor would be worse than showing nothing. Most Phase 3
+# sponsors are private or file trials under a subsidiary name that doesn't
+# match their public parent, so an unmatched sponsor is the common case,
+# not a bug.
+# ---------------------------------------------------------------------------
+
+def canonical_key(name):
+    s = normalize_sponsor(name)
+    s = re.sub(r"[^A-Za-z0-9]+", " ", s).strip().upper()
+    return s
+
+
+def load_sec_ticker_map():
+    data = http_get_json(SEC_TICKERS_URL, headers={"User-Agent": SEC_EDGAR_USER_AGENT})
+    ticker_map = {}
+    if not data:
+        return ticker_map
+    for entry in data.values():
+        title = entry.get("title")
+        cik_raw = entry.get("cik_str")
+        ticker = entry.get("ticker")
+        if not title or not cik_raw or not ticker:
+            continue
+        key = canonical_key(title)
+        if key and key not in ticker_map:
+            ticker_map[key] = {"cik": str(cik_raw).zfill(10), "ticker": ticker, "title": title}
+    return ticker_map
+
+
+def fetch_shares_outstanding(cik):
+    data = http_get_json(f"{SEC_XBRL_FACTS_BASE}/CIK{cik}.json", headers={"User-Agent": SEC_EDGAR_USER_AGENT})
+    facts = (data or {}).get("facts") or {}
+    for taxonomy, tag in (("dei", "EntityCommonStockSharesOutstanding"), ("us-gaap", "CommonStockSharesOutstanding")):
+        try:
+            units = facts[taxonomy][tag]["units"]
+        except (KeyError, TypeError):
+            continue
+        entries = []
+        for unit_list in units.values():
+            entries.extend(unit_list or [])
+        if not entries:
+            continue
+        entries.sort(key=lambda e: e.get("end") or e.get("filed") or "", reverse=True)
+        val = entries[0].get("val")
+        if val:
+            return float(val)
+    return None
+
+
+def fetch_last_price(ticker):
+    symbol = ticker.lower().replace(".", "-") + ".us"
+    text = http_get_text("https://stooq.com/q/l/", params={"s": symbol, "f": "sd2t2ohlcv", "h": "", "e": "csv"})
+    if not text:
+        return None
+    lines = text.strip().splitlines()
+    if len(lines) < 2:
+        return None
+    row = lines[1].split(",")
+    if len(row) < 7:
+        return None
+    close = row[6]
+    if not close or close == "N/D":
+        return None
+    try:
+        return float(close)
+    except ValueError:
+        return None
+
+
+def format_market_cap(value):
+    if value is None:
+        return None
+    abs_v = abs(value)
+    if abs_v >= 1e12:
+        return f"${value / 1e12:.2f}T"
+    if abs_v >= 1e9:
+        return f"${value / 1e9:.2f}B"
+    if abs_v >= 1e6:
+        return f"${value / 1e6:.1f}M"
+    return f"${value:,.0f}"
+
+
+def edgar_company_url(sponsor, cik):
+    if cik:
+        return f"https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK={cik}&type=10-K&dateb=&owner=include&count=40"
+    q = urllib.parse.quote(sponsor)
+    return f"https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company={q}&type=10-K&dateb=&owner=include&count=40"
+
+
+def resolve_company(sponsor, ticker_map):
+    slug = slugify(sponsor)
+    cache_file = COMPANIES_DIR / f"{slug}.json"
+    if cache_file.exists():
+        try:
+            cached = json.loads(cache_file.read_text())
+            ts = datetime.strptime(cached["cached_at"], "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)
+            if (datetime.now(timezone.utc) - ts) < timedelta(days=REFRESH_DAYS_COMPANY):
+                return cached
+        except (json.JSONDecodeError, KeyError, ValueError):
+            pass
+
+    match = ticker_map.get(canonical_key(sponsor))
+
+    info = {
+        "sponsor": sponsor,
+        "ticker": None,
+        "cik": None,
+        "market_cap": None,
+        "market_cap_display": None,
+        "market_cap_asof": None,
+        "edgar_url": edgar_company_url(sponsor, None),
+        "cached_at": now_iso(),
+    }
+
+    if match:
+        info["ticker"] = match["ticker"]
+        info["cik"] = match["cik"]
+        info["edgar_url"] = edgar_company_url(sponsor, match["cik"])
+        shares = fetch_shares_outstanding(match["cik"])
+        price = fetch_last_price(match["ticker"]) if shares else None
+        if shares and price:
+            market_cap = shares * price
+            info["market_cap"] = market_cap
+            info["market_cap_display"] = format_market_cap(market_cap)
+            info["market_cap_asof"] = date.today().isoformat()
+
+    COMPANIES_DIR.mkdir(parents=True, exist_ok=True)
+    cache_file.write_text(json.dumps(info, indent=2, ensure_ascii=False) + "\n")
+    return info
+
+
+# ---------------------------------------------------------------------------
 # Orchestration
 # ---------------------------------------------------------------------------
 
@@ -289,6 +462,22 @@ def build_dataset():
     for t in trials.values():
         t.setdefault("sec_8k_matches", [])
 
+    print("Loading SEC company ticker list for market-cap matching...")
+    ticker_map = load_sec_ticker_map()
+    print(f"  -> {len(ticker_map)} SEC-registered companies loaded")
+    matched = 0
+    print(f"Resolving company info for {len(sponsors)} sponsor(s)...")
+    for sponsor in sponsors:
+        info = resolve_company(sponsor, ticker_map)
+        if info.get("ticker"):
+            matched += 1
+        for t in trials.values():
+            if t["sponsor"] == sponsor:
+                t["company_info"] = info
+    for t in trials.values():
+        t.setdefault("company_info", None)
+    print(f"  -> {matched}/{len(sponsors)} sponsor(s) matched to a public ticker")
+
     dataset = {
         "generated_at": now_iso(),
         "window_upcoming_days": UPCOMING_WINDOW_DAYS,
@@ -323,6 +512,7 @@ def prune_history(keep=HISTORY_RETENTION):
 def main():
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     HISTORY_DIR.mkdir(parents=True, exist_ok=True)
+    COMPANIES_DIR.mkdir(parents=True, exist_ok=True)
 
     previous = None
     if CATALYSTS_FILE.exists():

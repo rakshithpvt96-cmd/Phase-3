@@ -2,8 +2,10 @@ name: Fetch catalysts & enrich drugs
 
 on:
   schedule:
-    # 06:00 and 18:00 UTC, daily
-    - cron: '0 6,18 * * *'
+    # 5 evenly-spaced runs/day (UTC): 00:00, 05:00, 10:00, 15:00, 20:00.
+    # The concurrency group below serializes these -- if one run is still
+    # going when the next is due, the next just waits, it never overlaps.
+    - cron: '0 0,5,10,15,20 * * *'
   workflow_dispatch: {}
 
 permissions:

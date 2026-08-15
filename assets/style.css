@@ -266,6 +266,8 @@ footer.site-footer {
 
 footer.site-footer .icon { width: 12px; height: 12px; color: var(--border-bright); vertical-align: -0.1em; }
 
+.mcap { color: var(--green); font-size: 0.82em; font-variant-numeric: tabular-nums; }
+
 /* ---- badges (bracket / tag style) ---- */
 
 .badge {

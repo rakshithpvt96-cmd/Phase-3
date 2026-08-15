@@ -36,6 +36,16 @@
   const PILL_ICON =
     '<svg class="icon" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round"><rect x="3" y="9" width="18" height="6" rx="3" transform="rotate(-45 12 12)"/><line x1="12" y1="7.5" x2="12" y2="16.5" transform="rotate(-45 12 12)"/></svg>';
 
+  function sponsorLink(t) {
+    if (!t.sponsor) return "—";
+    const info = t.company_info || {};
+    const capSuffix = info.market_cap_display ? ` <span class="mcap">(${escapeHtml(info.market_cap_display)})</span>` : "";
+    if (!info.edgar_url) return `${escapeHtml(t.sponsor)}${capSuffix}`;
+    return `<a href="${escapeHtml(info.edgar_url)}" target="_blank" rel="noopener" title="View SEC filings">${escapeHtml(
+      t.sponsor
+    )}</a>${capSuffix}`;
+  }
+
   function drugLinks(t) {
     if (!t.drug_names || !t.drug_names.length) return "—";
     return t.drug_names
@@ -104,7 +114,7 @@
           : "";
         return `<tr>
           <td>${drugLinks(t)}</td>
-          <td>${escapeHtml(t.sponsor || "—")}</td>
+          <td>${sponsorLink(t)}</td>
           <td>${escapeHtml((t.conditions || [])[0] || "—")}</td>
           <td>${escapeHtml(t.primary_completion_date || "—")}${dateType}</td>
           <td>${windowBadge}</td>

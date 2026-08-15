@@ -586,15 +586,22 @@ def enrich_drug(slug, name, condition, sponsor, trial_ids, trials_index):
 
     results_urls = []
     source_trials = []
-    sponsors = set()
+    sponsors_by_name = {}
     for tid in sorted(trial_ids):
         trial = trials_index.get(tid)
         if not trial:
             continue
         if trial.get("has_results"):
             results_urls.append(f"https://clinicaltrials.gov/study/{tid}?tab=results")
-        if trial.get("sponsor"):
-            sponsors.add(trial["sponsor"])
+        sponsor_name = trial.get("sponsor")
+        if sponsor_name and sponsor_name not in sponsors_by_name:
+            company_info = trial.get("company_info") or {}
+            sponsors_by_name[sponsor_name] = {
+                "name": sponsor_name,
+                "ticker": company_info.get("ticker"),
+                "market_cap_display": company_info.get("market_cap_display"),
+                "edgar_url": company_info.get("edgar_url"),
+            }
         source_trials.append(
             {
                 "nct_id": tid,
@@ -604,13 +611,14 @@ def enrich_drug(slug, name, condition, sponsor, trial_ids, trials_index):
                 "has_results": bool(trial.get("has_results")),
             }
         )
+    sponsors = [sponsors_by_name[n] for n in sorted(sponsors_by_name)]
 
     return {
         "drug_name": name,
         "slug": slug,
         "enriched_at": now_iso(),
         "source_trial_ids": sorted(trial_ids),
-        "sponsors": sorted(sponsors),
+        "sponsors": sponsors,
         "identity": identity,
         "mechanism": mechanism,
         "fda_label": fda_label,

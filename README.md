@@ -12,19 +12,25 @@ rate limits; see below).
 ## How it works
 
 ```
-scripts/fetch_catalysts.py   -> data/catalysts.json, data/history/*.json, data/new_since_last_run.json
+scripts/fetch_catalysts.py   -> data/catalysts.json, data/history/*.json, data/new_since_last_run.json, data/companies/{slug}.json
 scripts/enrich_drugs.py      -> data/drugs/{slug}.json, data/drugs/_conditions_cache/{slug}.json
 index.html + assets/app.js   -> sortable/filterable catalyst table, links to drug.html
 drug.html + assets/drug.js   -> per-drug detail page, reads data/drugs/{slug}.json
 ```
 
-`.github/workflows/fetch.yml` runs both scripts twice a day (06:00 and
-18:00 UTC) and on manual dispatch, and commits any changed `data/*.json`
-back to the repo using the built-in `GITHUB_TOKEN` — no personal access
-token needed.
+`.github/workflows/fetch.yml` runs both scripts 5x a day (00:00, 05:00,
+10:00, 15:00, 20:00 UTC) and on manual dispatch, and commits any changed
+`data/*.json` back to the repo using the built-in `GITHUB_TOKEN` — no
+personal access token needed. A concurrency group serializes runs, so a
+scheduled trigger that lands while a previous run is still going just
+waits its turn instead of overlapping.
 
 `.github/workflows/pages.yml` deploys the static site (root of the repo) to
-GitHub Pages on every push to `main`.
+GitHub Pages on every push to `main`, and also on completion of
+`fetch.yml` — commits authored by `GITHUB_TOKEN` don't trigger other
+workflows' `push` events (a GitHub anti-loop safeguard), so `pages.yml`
+listens for `fetch.yml`'s completion via `workflow_run` instead; without
+that, the site would never pick up new data automatically.
 
 Both Python scripts use **only the standard library** (`urllib`, `json`,
 `xml.etree`) — nothing to `pip install`.
@@ -41,7 +47,7 @@ Both Python scripts use **only the standard library** (`urllib`, `json`,
    scripts to *run*, but is required for SEC EDGAR to reliably accept
    requests from your run.
 3. **Kick off the first run**: Actions tab → "Fetch catalysts & enrich
-   drugs" → Run workflow. Subsequent runs happen automatically twice daily.
+   drugs" → Run workflow. Subsequent runs happen automatically 5x daily.
 4. Once `data/catalysts.json` has content and Pages has deployed, your site
    is live at `https://<owner>.github.io/<repo>/`.
 
@@ -77,6 +83,34 @@ defaults): `SEC_EDGAR_USER_AGENT`, `MAX_DRUGS_PER_RUN`.
 - `data/drugs/_conditions_cache/{condition-slug}.json` — MedlinePlus
   disease summary, cached once per condition (not per drug, since many
   trials in the same indication share one).
+- `data/companies/{sponsor-slug}.json` — sponsor identity/market-cap cache,
+  re-resolved every `REFRESH_DAYS_COMPANY` (default 7) days. Every trial in
+  `catalysts.json` carries a copy of its sponsor's current record as
+  `company_info`, and drug profiles carry the same per sponsor in
+  `sponsors[]` — see "Sponsor identity & market cap" below.
+
+## Sponsor identity & market cap
+
+Each trial's sponsor name links directly to that company's SEC EDGAR
+filings page, and — only when the match is solid — shows an approximate
+market cap in brackets, e.g. `Acme Biopharma, Inc. ($4.20B)`.
+
+This is deliberately conservative:
+- A sponsor is matched to a public company only on an **exact** normalized
+  name match against SEC's own `company_tickers.json`. There is no
+  fuzzy/substring matching — attaching the wrong company's financials to a
+  similarly-named sponsor would be worse than showing nothing. Most Phase 3
+  sponsors are private, or file trials under a subsidiary/DBA name that
+  doesn't match their public parent's SEC-registered name, so **an
+  unmatched sponsor is the common case, not a bug**.
+- Market cap = most recent SEC-filed shares outstanding (XBRL
+  `dei:EntityCommonStockSharesOutstanding`) × latest close price (free,
+  no-key quote from Stooq). If either figure is unavailable, `market_cap`
+  and `market_cap_display` stay `null` — never estimated or guessed.
+- The EDGAR link itself is always shown, matched or not: matched sponsors
+  link straight to their CIK's filing history; unmatched sponsors get an
+  EDGAR company-name search link instead, which still gets you to the
+  right place if the company files under a close variant of that name.
 
 ## The no-fabrication rule
 

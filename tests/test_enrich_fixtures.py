@@ -171,6 +171,11 @@ TRIALS_INDEX = {
         "conditions": ["Example Condition"],
         "drug_names": ["Approvimab"],
         "has_results": True,
+        "company_info": {
+            "ticker": "ACME",
+            "market_cap_display": "$4.20B",
+            "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001234567&type=10-K&dateb=&owner=include&count=40",
+        },
     },
     "NCT00000002": {
         "nct_id": "NCT00000002",
@@ -178,6 +183,11 @@ TRIALS_INDEX = {
         "conditions": ["Example Condition"],
         "drug_names": ["Investigazumab"],
         "has_results": False,
+        "company_info": {
+            "ticker": None,
+            "market_cap_display": None,
+            "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Beta+Therapeutics&type=10-K&dateb=&owner=include&count=40",
+        },
     },
     "NCT00000003": {
         "nct_id": "NCT00000003",
@@ -220,6 +230,9 @@ def run():
     check("approved: ctgov results url populated (has_results=True)", len(approved["prior_results"]["ctgov_results_urls"]) == 1)
     check("approved: pubmed articles fetched", len(approved["prior_results"]["pubmed_articles"]) == 2)
     check("approved: condition summary cached", (ed.CONDITIONS_CACHE_DIR / "example-condition.json").exists())
+    check("approved: sponsors carries ticker from trial's company_info", approved["sponsors"][0]["ticker"] == "ACME")
+    check("approved: sponsors carries market_cap_display", approved["sponsors"][0]["market_cap_display"] == "$4.20B")
+    check("approved: sponsors carries edgar_url", approved["sponsors"][0]["edgar_url"].startswith("https://www.sec.gov/"))
 
     # --- unapproved drug: THE critical no-fabrication contract ---
     check("unapproved: fda_label.has_label is False", unapproved["fda_label"]["has_label"] is False)
@@ -249,6 +262,9 @@ def run():
         all(i["name"] != "Investigazumab" for i in unapproved["related_drugs"]["items"]),
     )
     check("unapproved: no ctgov results url (has_results=False)", unapproved["prior_results"]["ctgov_results_urls"] == [])
+    check("unapproved: sponsor with no matched ticker stays null (not guessed)", unapproved["sponsors"][0]["ticker"] is None)
+    check("unapproved: sponsor market cap stays null (not guessed)", unapproved["sponsors"][0]["market_cap_display"] is None)
+    check("unapproved: sponsor still gets an edgar_url fallback link", unapproved["sponsors"][0]["edgar_url"] is not None)
 
     # --- slugify + refresh helpers ---
     check("slugify basic", ed.slugify("Investigazumab (INV-101)") == "investigazumab-inv-101")

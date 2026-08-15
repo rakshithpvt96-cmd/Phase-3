@@ -40,6 +40,19 @@
       : `<span class="source-tag literature-only">${ICON.flask} LITERATURE ONLY</span>`;
   }
 
+  function sponsorLinks(sponsors) {
+    if (!sponsors || !sponsors.length) return "—";
+    return sponsors
+      .map((s) => {
+        const capSuffix = s.market_cap_display ? ` <span class="mcap">(${escapeHtml(s.market_cap_display)})</span>` : "";
+        if (!s.edgar_url) return `${escapeHtml(s.name)}${capSuffix}`;
+        return `<a href="${escapeHtml(s.edgar_url)}" target="_blank" rel="noopener" title="View SEC filings">${escapeHtml(
+          s.name
+        )}</a>${capSuffix}`;
+      })
+      .join(", ");
+  }
+
   function renderIdentity(drug) {
     const id = drug.identity || {};
     const rx = id.rxnorm || {};
@@ -58,7 +71,7 @@
               ? `<a href="https://pubchem.ncbi.nlm.nih.gov/compound/${id.pubchem_cid}" target="_blank" rel="noopener">${id.pubchem_cid}</a>`
               : "—"
           }</dd>
-          <dt>Sponsor(s)</dt><dd>${val(fmtList(drug.sponsors))}</dd>
+          <dt>Sponsor(s)</dt><dd>${sponsorLinks(drug.sponsors)}</dd>
         </dl>
       </section>`;
   }
