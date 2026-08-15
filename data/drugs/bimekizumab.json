@@ -1,0 +1,166 @@
+{
+  "drug_name": "Bimekizumab",
+  "slug": "bimekizumab",
+  "enriched_at": "2026-08-15T22:13:15Z",
+  "source_trial_ids": [
+    "NCT04009499",
+    "NCT04436640",
+    "NCT04901195"
+  ],
+  "sponsors": [
+    {
+      "name": "UCB Biopharma SRL",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=UCB%20Biopharma%20SRL&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2668041",
+      "generic_name": "bimekizumab",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4297700",
+    "target_chembl_id": "CHEMBL3390822",
+    "target_name": "Interleukin-17A",
+    "mechanism_of_action_chembl": "Interleukin 17A inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Bimekizumab-bkzx is a humanized immunoglobulin IgG1/ κ monoclonal antibody with two identical antigen binding regions that selectively bind to human interleukin 17A (IL-17A), interleukin 17F (IL-17F), and interleukin 17-AF cytokines, and inhibits their interaction with the IL-17 receptor complex. IL-17A and IL-17F are naturally occurring cytokines that are involved in normal inflammatory and immune responses. Bimekizumab-bkzx inhibits the release of proinflammatory cytokines and chemokines.",
+    "pharmacokinetics": "12.3 Pharmacokinetics Bimekizumab-bkzx pharmacokinetics are comparable in adult patients with moderate to severe plaque psoriasis, psoriatic arthritis, non-radiographic axial spondyloarthritis, and ankylosing spondylitis. The median peak plasma concentration of bimekizumab-bkzx was 25 (range: 12-50) μg/mL and was reached in 3-4 days. Bimekizumab-bkzx exhibited dose-proportional pharmacokinetics in patients with plaque psoriasis over a dose range of 64 mg to 480 mg (0.2 to 1.5 times the approved recommended dosage) following subcutaneous administration. The median steady-state trough concentration of bimekizumab-bkzx was approximately 40% lower in HS subjects than that of PSO subjects. Absorption The absolute bioavailability of bimekizumab-bkzx was 70% in healthy subjects. Distribution The median volume of distribution at steady state was 11.2 L in subjects with moderate to severe plaque psoriasis. The volume of distribution in subjects with moderate to severe hidradenitis suppurativa was estimated to be approximately 18% higher than in subjects with moderate to severe plaque psoriasis. Elimination The median (coefficient of variation %) clearance (CL/F) of bimekizumab-bkzx was 0.337 L/day (32.7%). The mean terminal elimination half-life was 23 days, with clearance independent of dose. The apparent clearance in subjects with moderate to severe hidradenitis suppurativa was estimated to be approximately 31% higher than in subjects with moderate to severe plaque psoriasis. Metabolism: Bimekizumab-bkzx is expected to be degraded into small peptides by catabolic pathways. Specific Populations No significant differences in the pharmacokinetics of bimekizumab-bkzx were observed based on age (≥18 years). Body Weight: The average plasma concentration in adult subjects weighing ≥120 kg was predicted to be at least 30% lower than those weighing < 120 kg (median of 87 kg) [see Dosage and Administration (2.2) ].",
+    "indications_and_usage": "1 INDICATIONS AND USAGE BIMZELX is a humanized interleukin-17A and F antagonist indicated for the treatment of: Moderate to severe plaque psoriasis (PSO) in adults who are candidates for systemic therapy or phototherapy. ( 1.1 ) Adults with active psoriatic arthritis (PsA) . ( 1.2 ) Adults with active non-radiographic axial spondyloarthritis ( nr-axSpA ) with objective signs of inflammation. ( 1.3 ) Adults with active ankylosing spondylitis ( AS ). ( 1.4 ) Adults with moderate to severe hidradenitis suppurativa (HS) . ( 1.5 ) 1.1 Plaque Psoriasis BIMZELX is indicated for the treatment of moderate to severe plaque psoriasis in adults who are candidates for systemic therapy or phototherapy. 1.2 Psoriatic Arthritis BIMZELX is indicated for the treatment of adults with active psoriatic arthritis. 1.3 Non-Radiographic Axial Spondyloarthritis BIMZELX is indicated for the treatment of adults with active non-radiographic axial spondyloarthritis with objective signs of inflammation. 1.4 Ankylosing Spondylitis BIMZELX is indicated for the treatment of adults with active ankylosing spondylitis. 1.5 Hidradenitis Suppurativa BIMZELX is indicated for the treatment of adults with moderate to severe hidradenitis suppurativa.",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "Bimzelx"
+    ],
+    "openfda_generic_names": [
+      "BIMEKIZUMAB"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=26b88358-871f-4c80-9d80-b2fb16477f81",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Psoriatic Arthritis",
+    "slug": "psoriatic-arthritis"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04009499",
+      "title": "A Study to Assess the Long-term Safety, Tolerability, and Efficacy of Bimekizumab in the Treatment of Subjects With Active Psoriatic Arthritis",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT04009499",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT04436640",
+      "title": "A Study to Evaluate the Long-term Safety, Tolerability and Efficacy of Bimekizumab in Subjects With Active Axial Spondyloarthritis Including Ankylosing Spondylitis and Nonradiographic Axial Spondyloarthritis",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04436640",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT04901195",
+      "title": "A Study to Test the Long-term Treatment of Bimekizumab in Study Participants With Moderate to Severe Hidradenitis Suppurativa",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04901195",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42577288",
+        "title": "Dose Reduction of IL17 and IL23 Inhibitors in Psoriasis (BeNeBio study): An International, Pragmatic, Multicentre, Randomised, Controlled, Non-Inferiority Trial.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42577288/"
+      },
+      {
+        "pmid": "42555037",
+        "title": "Approved Monoclonal Antibody Therapies for Hidradenitis Suppurativa.",
+        "pubdate": "2026 Aug 5",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42555037/"
+      },
+      {
+        "pmid": "42536134",
+        "title": "Measuring success in HS treatment from the physician's and the patient's perspective.",
+        "pubdate": "2026 Jul 31",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42536134/"
+      },
+      {
+        "pmid": "42452698",
+        "title": "Medical and Surgical Management of Hidradenitis Suppurativa.",
+        "pubdate": "2026 Jul 4",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42452698/"
+      },
+      {
+        "pmid": "42342652",
+        "title": "Emerging synthetic drugs for the management of hidradenitis suppurativa: a comprehensive update.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42342652/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "SECUKINUMAB",
+        "chembl_id": "CHEMBL1743068",
+        "reason": "same target: Interleukin-17A"
+      },
+      {
+        "name": "IXEKIZUMAB",
+        "chembl_id": "CHEMBL1743034",
+        "reason": "same target: Interleukin-17A"
+      },
+      {
+        "name": "AFASEVIKUMAB",
+        "chembl_id": "CHEMBL2109469",
+        "reason": "same target: Interleukin-17A"
+      },
+      {
+        "name": "PERAKIZUMAB",
+        "chembl_id": "CHEMBL2109470",
+        "reason": "same target: Interleukin-17A"
+      },
+      {
+        "name": "CJM-112",
+        "chembl_id": "CHEMBL4297926",
+        "reason": "same target: Interleukin-17A"
+      },
+      {
+        "name": "M-1095",
+        "chembl_id": "CHEMBL4298023",
+        "reason": "same target: Interleukin-17A"
+      },
+      {
+        "name": "REMTOLUMAB",
+        "chembl_id": "CHEMBL4297863",
+        "reason": "same target: Interleukin-17A"
+      },
+      {
+        "name": "IZOKIBEP",
+        "chembl_id": "CHEMBL4297686",
+        "reason": "same target: Interleukin-17A"
+      },
+      {
+        "name": "TIBULIZUMAB",
+        "chembl_id": "CHEMBL3990000",
+        "reason": "same target: Interleukin-17A"
+      },
+      {
+        "name": "VUNAKIZUMAB",
+        "chembl_id": "CHEMBL4298102",
+        "reason": "same target: Interleukin-17A"
+      }
+    ]
+  }
+}

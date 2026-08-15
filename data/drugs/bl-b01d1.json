@@ -1,0 +1,95 @@
+{
+  "drug_name": "BL-B01D1",
+  "slug": "bl-b01d1",
+  "enriched_at": "2026-08-15T22:13:23Z",
+  "source_trial_ids": [
+    "NCT06343948",
+    "NCT06382116"
+  ],
+  "sponsors": [
+    {
+      "name": "Sichuan Baili Pharmaceutical Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Sichuan%20Baili%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2731636",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2110771",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=BL-B01D1+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=BL-B01D1+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=BL-B01D1+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "HR+HER2- Breast Cancer",
+    "slug": "hr-her2-breast-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06343948",
+      "title": "A Study Comparing BL-B01D1 With Chemotherapy of Physician's Choice in Patients With Unresectable Locally Advanced, Recurrent, or Metastatic HR+HER2- Breast Cancer(PANKU-Breast01)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06343948",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06382116",
+      "title": "A Study Comparing BL-B01D1 With Platinum Based Chemotherapy in Patients With Locally Advanced or Metastatic Non-small Cell Lung Cancer(PANKU-Lung01)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06382116",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "41125110",
+        "title": "Izalontamab brengitecan, an EGFR and HER3 bispecific antibody-drug conjugate, versus chemotherapy in heavily pretreated recurrent or metastatic nasopharyngeal carcinoma: a multicentre, randomised, open-label, phase 3 study in China.",
+        "pubdate": "2025 Nov 8",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41125110/"
+      },
+      {
+        "pmid": "41061200",
+        "title": "Efficacy and Safety of BL-B01D1 in Patients With Locally Advanced or Metastatic Urothelial Carcinoma: A Phase II Clinical Trial.",
+        "pubdate": "2025 Nov 10",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41061200/"
+      },
+      {
+        "pmid": "40640393",
+        "title": "A bispecific antibody-drug conjugate targeting EGFR and HER3 in metastatic esophageal squamous cell carcinoma: a phase 1b trial.",
+        "pubdate": "2025 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40640393/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

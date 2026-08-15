@@ -1,0 +1,86 @@
+{
+  "drug_name": "CYB003",
+  "slug": "cyb003",
+  "enriched_at": "2026-08-15T22:15:25Z",
+  "source_trial_ids": [
+    "NCT06564818"
+  ],
+  "sponsors": [
+    {
+      "name": "Cybin IRL Limited",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Cybin%20IRL%20Limited&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 117065176,
+    "iupac_name": "3-[2-[bis(trideuteriomethyl)amino]-1,1,2,2-tetradeuterioethyl]-1H-indol-4-ol",
+    "molecular_formula": "C12H16N2O",
+    "molecular_weight": "214.33",
+    "canonical_smiles": null,
+    "inchikey": "SPCIYGNTAMCTRO-HXOHQZFQSA-N",
+    "rxnorm": null
+  },
+  "mechanism": {
+    "chembl_id": null,
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=CYB003+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=CYB003+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=CYB003+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Major Depressive Disorder",
+    "slug": "major-depressive-disorder"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06564818",
+      "title": "\"A Study of a Deuterated Psilocin Analog (CYB003) in Humans With Major Depressive Disorder\"",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06564818",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "DT120",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Definium Therapeutics US, Inc."
+      },
+      {
+        "name": "Azetukalner",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Xenon Pharmaceuticals Inc."
+      },
+      {
+        "name": "Placebo",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Xenon Pharmaceuticals Inc."
+      }
+    ]
+  }
+}

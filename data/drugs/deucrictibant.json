@@ -1,0 +1,87 @@
+{
+  "drug_name": "Deucrictibant",
+  "slug": "deucrictibant",
+  "enriched_at": "2026-08-15T22:15:40Z",
+  "source_trial_ids": [
+    "NCT06669754"
+  ],
+  "sponsors": [
+    {
+      "name": "Pharvaris Netherlands B.V.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Pharvaris%20Netherlands%20B.V.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 154623230,
+    "iupac_name": "N-[(1S)-1-[3-chloro-5-fluoro-2-[[2-methyl-4-(2-methyl-1,2,4-triazol-3-yl)quinolin-8-yl]oxymethyl]phenyl]-1-deuterioethyl]-2-(difluoromethoxy)acetamide",
+    "molecular_formula": "C25H23ClF3N5O3",
+    "molecular_weight": "534.9",
+    "canonical_smiles": null,
+    "inchikey": "ZTCLCSCHTACERP-WTDRUJNCSA-N",
+    "rxnorm": {
+      "rxcui": "2666822",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL5095059",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Deucrictibant+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Deucrictibant+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Deucrictibant+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Hereditary Angioedema (HAE)",
+    "slug": "hereditary-angioedema-hae"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06669754",
+      "title": "Study of Oral Deucrictibant Extended-Release Tablet for Prophylaxis Against Angioedema Attacks in Adolescents and Adults With HAE",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06669754",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "39724968",
+        "title": "Interplay between on-demand treatment trials for hereditary angioedema and treatment guidelines.",
+        "pubdate": "2025 Mar",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39724968/"
+      },
+      {
+        "pmid": "39331535",
+        "title": "Advent of oral medications for the treatment of hereditary angioedema.",
+        "pubdate": "2024 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39331535/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

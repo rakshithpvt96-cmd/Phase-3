@@ -1,0 +1,150 @@
+{
+  "drug_name": "Insulin Glargine U100",
+  "slug": "insulin-glargine-u100",
+  "enriched_at": "2026-08-15T22:18:11Z",
+  "source_trial_ids": [
+    "NCT06767735"
+  ],
+  "sponsors": [
+    {
+      "name": "Gan & Lee Pharmaceuticals.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Gan%20%26%20Lee%20Pharmaceuticals.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "274783",
+      "generic_name": "insulin glargine",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1201497",
+    "target_chembl_id": "CHEMBL1981",
+    "target_name": "Insulin receptor",
+    "mechanism_of_action_chembl": "Insulin receptor agonist"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Insulin%20Glargine%20U100+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Insulin%20Glargine%20U100+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Insulin%20Glargine%20U100+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Diabetes",
+    "slug": "diabetes"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06767735",
+      "title": "A Phase III Clinical Study to Assess the Efficacy and Safety of GZR4 in Insulin-naive Subjects With Type 2 Diabetes Mellitus (T2DM)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06767735",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42168822",
+        "title": "Simplified Switching to Once-Weekly Insulin Icodec Without an Initial One-Time Additional Dose Versus Once-Daily Insulin Glargine U100 in Basal Insulin-Treated Type 2 Diabetes (ONWARDS 10): A Randomised Controlled Trial.",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42168822/"
+      },
+      {
+        "pmid": "42070786",
+        "title": "Glycaemic Control According to the Final Insulin Dose Using an Innovative Fixed-Dose Titration of Weekly Insulin Efsitora in Insulin-Naïve Type 2 Diabetes.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42070786/"
+      },
+      {
+        "pmid": "41998571",
+        "title": "Real-world experience with insulin glargine U300 in pediatric type 1 diabetes: glycemic control, insulin requirements, and patient-reported outcomes.",
+        "pubdate": "2026 Apr 17",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41998571/"
+      },
+      {
+        "pmid": "40853353",
+        "title": "Cost-effectiveness of insulin icodec for the treatment of type 2 diabetes in Canada.",
+        "pubdate": "2025 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40853353/"
+      },
+      {
+        "pmid": "40840711",
+        "title": "Effectiveness and Safety of Early Insulin Glargine U100 and Glargine U300 Administration in the Management of Diabetic Ketoacidosis in Adults With Type 1 Diabetes Mellitus: A Randomized Clinical Trial.",
+        "pubdate": "2025 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40840711/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "INSULIN SUSP ISOPHANE RECOMBINANT HUMAN",
+        "chembl_id": "CHEMBL1201540",
+        "reason": "same target: Insulin receptor"
+      },
+      {
+        "name": "INSULIN PURIFIED BEEF",
+        "chembl_id": "CHEMBL1201629",
+        "reason": "same target: Insulin receptor"
+      },
+      {
+        "name": "INSULIN ZINC SUSP RECOMBINANT HUMAN",
+        "chembl_id": "CHEMBL1201644",
+        "reason": "same target: Insulin receptor"
+      },
+      {
+        "name": "INSULIN HUMAN",
+        "chembl_id": "CHEMBL1201631",
+        "reason": "same target: Insulin receptor"
+      },
+      {
+        "name": "INSULIN PURIFIED PORK",
+        "chembl_id": "CHEMBL1201630",
+        "reason": "same target: Insulin receptor"
+      },
+      {
+        "name": "INSULIN SUSP ISOPHANE BEEF",
+        "chembl_id": "CHEMBL1201545",
+        "reason": "same target: Insulin receptor"
+      },
+      {
+        "name": "INSULIN LISPRO PROTAMINE RECOMBINANT",
+        "chembl_id": "CHEMBL1201611",
+        "reason": "same target: Insulin receptor"
+      },
+      {
+        "name": "INSULIN LISPRO",
+        "chembl_id": "CHEMBL1201538",
+        "reason": "same target: Insulin receptor"
+      },
+      {
+        "name": "INSULIN GLULISINE",
+        "chembl_id": "CHEMBL1201613",
+        "reason": "same target: Insulin receptor"
+      },
+      {
+        "name": "INSULIN PORK",
+        "chembl_id": "CHEMBL1201539",
+        "reason": "same target: Insulin receptor"
+      }
+    ]
+  }
+}

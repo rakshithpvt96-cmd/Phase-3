@@ -1,0 +1,113 @@
+{
+  "drug_name": "Fianlimab",
+  "slug": "fianlimab",
+  "enriched_at": "2026-08-15T22:17:04Z",
+  "source_trial_ids": [
+    "NCT05608291"
+  ],
+  "sponsors": [
+    {
+      "name": "Regeneron Pharmaceuticals",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Regeneron%20Pharmaceuticals&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2686496",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4298085",
+    "target_chembl_id": "CHEMBL4630881",
+    "target_name": "Lymphocyte activation gene 3 protein",
+    "mechanism_of_action_chembl": "Lymphocyte activation gene 3 protein inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Fianlimab+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Fianlimab+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Fianlimab+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Melanoma",
+    "slug": "melanoma"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05608291",
+      "title": "A Trial to See if the Combination of Fianlimab With Cemiplimab Works Better Than Pembrolizumab for Preventing or Delaying Melanoma From Coming Back After it Has Been Removed With Surgery",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05608291",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42530945",
+        "title": "Cemiplimab and Fianlimab With Neoadjuvant Chemotherapy in Early-Stage High-Risk ERBB2-Negative Breast Cancer: The I-SPY2 Randomized Clinical Trial.",
+        "pubdate": "2026 Jul 30",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42530945/"
+      },
+      {
+        "pmid": "42345857",
+        "title": "EMPIRE (NSABP FC-13): a biomarker-driven phase II platform trial evaluating cemiplimab-based immunotherapy in microsatellite-stable colorectal cancer with ctDNA-defined minimal residual disease.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42345857/"
+      },
+      {
+        "pmid": "39422598",
+        "title": "First-in-Human Dose-Escalation Study of Fianlimab, an Antilymphocyte Activation Gene-3 Antibody, with Cemiplimab in Patients with Advanced Malignancies.",
+        "pubdate": "2024 Dec 16",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39422598/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "IERAMILIMAB",
+        "chembl_id": "CHEMBL4298009",
+        "reason": "same target: Lymphocyte activation gene 3 protein"
+      },
+      {
+        "name": "RELATLIMAB",
+        "chembl_id": "CHEMBL3990044",
+        "reason": "same target: Lymphocyte activation gene 3 protein"
+      },
+      {
+        "name": "FAVEZELIMAB",
+        "chembl_id": "CHEMBL4297784",
+        "reason": "same target: Lymphocyte activation gene 3 protein"
+      },
+      {
+        "name": "TEBOTELIMAB",
+        "chembl_id": "CHEMBL4594578",
+        "reason": "same target: Lymphocyte activation gene 3 protein"
+      },
+      {
+        "name": "EFTILAGIMOD ALFA",
+        "chembl_id": "CHEMBL4594557",
+        "reason": "same target: Lymphocyte activation gene 3 protein"
+      }
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "drug_name": "GZR4",
+  "slug": "gzr4",
+  "enriched_at": "2026-08-15T22:17:55Z",
+  "source_trial_ids": [
+    "NCT06767735"
+  ],
+  "sponsors": [
+    {
+      "name": "Gan & Lee Pharmaceuticals.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Gan%20%26%20Lee%20Pharmaceuticals.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": null
+  },
+  "mechanism": {
+    "chembl_id": null,
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=GZR4+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=GZR4+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=GZR4+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Diabetes",
+    "slug": "diabetes"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06767735",
+      "title": "A Phase III Clinical Study to Assess the Efficacy and Safety of GZR4 in Insulin-naive Subjects With Type 2 Diabetes Mellitus (T2DM)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06767735",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "41833659",
+        "title": "Once-weekly insulin GZR4 versus once-daily insulin degludec in Chinese people with type 2 diabetes: A multicenter, open-label, randomized, phase 2 trial.",
+        "pubdate": "2026 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41833659/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

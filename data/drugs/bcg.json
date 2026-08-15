@@ -1,0 +1,99 @@
+{
+  "drug_name": "BCG",
+  "slug": "bcg",
+  "enriched_at": "2026-08-15T22:13:07Z",
+  "source_trial_ids": [
+    "NCT03711032"
+  ],
+  "sponsors": [
+    {
+      "name": "Merck Sharp & Dohme LLC",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Merck%20Sharp%20%26%20Dohme%20LLC&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "42579",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2108905",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": "INDICATIONS AND USAGE TICE ® BCG is indicated for: the treatment and prophylaxis of carcinoma in situ (CIS) of the urinary bladder the prophylaxis of primary or recurrent stage Ta and/or T1 papillary tumors following transurethral resection (TUR) Limitations of Use: TICE BCG is not recommended for stage TaG1 papillary tumors, unless they are judged to be at high risk of tumor recurrence. TICE BCG is not indicated for papillary tumors of stages higher than T1.",
+    "boxed_warning": "WARNING TICE ® BCG contains live, attenuated mycobacteria. Because of the potential risk for transmission, prepare, handle, and dispose of TICE ® BCG as a biohazard material (see PRECAUTIONS and DOSAGE AND ADMINISTRATION sections). BCG infections have been reported in health care workers, primarily from exposures resulting from accidental needle sticks or skin lacerations during the preparation of BCG for administration. Nosocomial infections have been reported in patients receiving parenteral drugs that were prepared in areas in which BCG was reconstituted. BCG is capable of dissemination when administered by the intravesical route, and serious infections, including fatal infections, have been reported in patients receiving intravesical BCG (see WARNINGS , PRECAUTIONS , and ADVERSE REACTIONS sections).",
+    "openfda_brand_names": [
+      "TICE BCG"
+    ],
+    "openfda_generic_names": [
+      "BACILLUS CALMETTE-GUERIN"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=c9b74876-e665-442b-87ad-b7333bc9a67a",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "High-risk Non-muscle Invasive Bladder Cancer",
+    "slug": "high-risk-non-muscle-invasive-bladder-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT03711032",
+      "title": "Efficacy and Safety of Pembrolizumab (MK-3475) in Combination With Bacillus Calmette-Guerin (BCG) in High-Risk Non-Muscle Invasive Bladder Cancer (HR NMIBC) (MK-3475-676/KEYNOTE-676)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT03711032",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42588271",
+        "title": "Structural Misalignment Between Regulatory Definitions of BCG-Unresponsive Non-Muscle-Invasive Bladder Cancer and Real-World Clinical Practice.",
+        "pubdate": "2026 Jul 30",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42588271/"
+      },
+      {
+        "pmid": "42556596",
+        "title": "Bacillus Calmette-Guérin (BCG) with or without immune checkpoint blockade in BCG-naïve high-risk non-muscle-invasive bladder cancer: A systematic review and reconstructed individual patient data meta-analysis.",
+        "pubdate": "2026 Aug 5",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42556596/"
+      },
+      {
+        "pmid": "42526489",
+        "title": "Advances in development of tuberculosis vaccines and preventive drug therapies: current pipeline, evidence, and access.",
+        "pubdate": "2027 Apr 26",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42526489/"
+      },
+      {
+        "pmid": "42508433",
+        "title": "Intravesical cretostimogene grenadenorepvec oncolytic immunotherapy in high-risk, BCG-unresponsive, non-muscle-invasive bladder cancer with carcinoma in situ (BOND-003 Cohort C): a single-arm, phase 3 trial.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42508433/"
+      },
+      {
+        "pmid": "42493340",
+        "title": "Re: Kitamura H, Tsukamoto T, Kakehi Y, et al. Active Surveillance Versus Intravesical Bacillus Calmette-Guérin for High-grade T1 Bladder Cancer with Negative Second Transurethral Resection: The Randomized Noninferiority Phase 3 JCOG1019 Trial. Eur Urol 2026;89:437-45.",
+        "pubdate": "2026 Jul 23",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42493340/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

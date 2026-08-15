@@ -1,0 +1,126 @@
+{
+  "drug_name": "Olaparib",
+  "slug": "olaparib",
+  "enriched_at": "2026-08-15T22:20:48Z",
+  "source_trial_ids": [
+    "NCT04884360"
+  ],
+  "sponsors": [
+    {
+      "name": "AstraZeneca",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=AstraZeneca&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 23725625,
+    "iupac_name": "4-[[3-[4-(cyclopropanecarbonyl)piperazine-1-carbonyl]-4-fluorophenyl]methyl]-2H-phthalazin-1-one",
+    "molecular_formula": "C24H23FN4O3",
+    "molecular_weight": "434.5",
+    "canonical_smiles": null,
+    "inchikey": "FDLYAMZZIXQODN-UHFFFAOYSA-N",
+    "rxnorm": {
+      "rxcui": "1597582",
+      "generic_name": "olaparib",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL521686",
+    "target_chembl_id": "CHEMBL3390820",
+    "target_name": "PARP 1, 2 and 3",
+    "mechanism_of_action_chembl": "PARP 1, 2 and 3 inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Olaparib is an inhibitor of poly (ADP-ribose) polymerase (PARP) enzymes, including PARP1, PARP2, and PARP3. PARP enzymes are involved in normal cellular functions, such as DNA transcription and DNA repair. Olaparib has been shown to inhibit growth of select tumor cell lines in vitro and decrease tumor growth in mouse xenograft models of human cancer, both as monotherapy or following platinum-based chemotherapy. Increased cytotoxicity and anti-tumor activity following treatment with olaparib were noted in cell lines and mouse tumor models with deficiencies in BRCA1/2 , ATM , or other genes involved in the homologous recombination repair (HRR) of DNA damage and correlated with platinum response. In vitro studies have shown that olaparib-induced cytotoxicity may involve inhibition of PARP enzymatic activity and increased formation of PARP-DNA complexes, resulting in DNA damage and cancer cell death. In prostate cancer models, PARP1 has been shown to contribute to androgen receptor (AR) activity regulation; the combination of olaparib and AR inhibition resulted in cytotoxicity in vitro and anti-tumor activity in mouse xenograft models.",
+    "pharmacokinetics": "12.3 Pharmacokinetics The area under the curve (AUC) of olaparib increases approximately proportionally following administration of single doses of 25 mg to 450 mg (0.08 to 1.5 times the recommended dose) and maximal concentrations (C max ) increased slightly less than proportionally for the same dose range. Olaparib showed time-dependent pharmacokinetics and an AUC mean accumulation ratio of 1.8 is observed at steady state following a dose of 300 mg twice daily. The mean (CV%) olaparib C max is 5.4 μg/mL (32%) and AUC is 39.2 μg*h/mL (44%) following a single 300 mg dose. The mean steady state olaparib C max and AUC is 7.6 μg/mL (35%) and 49.2 μg*h/mL (44%), following a dose of 300 mg twice daily. Absorption Following oral administration of olaparib, the median time to peak plasma concentration is 1.5 hours. Effect of Food Co-administration of a high fat and high calorie meal (800-1000 kcal, 50% of the calorie content made up from fat) with olaparib slowed the rate (t max delayed by 2.5 hours) of absorption, but did not significantly alter the extent of olaparib absorption (mean AUC increased by approximately 8%). Distribution The mean (± standard deviation) apparent volume of distribution of olaparib is 158 ± 136 L following a single 300 mg dose of Lynparza. The protein binding of olaparib is approximately 82% in vitro. Elimination The mean (± standard deviation) terminal plasma half-life of olaparib is 14.9 ± 8.2 hours and the apparent plasma clearance is 7.4 ± 3.9 L/h following a single 300 mg dose of Lynparza. Metabolism Olaparib is metabolized by cytochrome P450 (CYP) 3A in vitro. Following an oral dose of radiolabeled olaparib to female patients, unchanged olaparib accounted for 70% of the circulating radioactivity in plasma. It was extensively metabolized with unchanged drug accounting for 15% and 6% of radioactivity in urine and feces, respectively. The majority of the metabolism is attributable to oxidation reactions with a number of the components produced undergoing subsequent glucuronide or sulfate conjugation. Excretion Following a single dose of radiolabeled olaparib, 86% of the dosed radioactivity was recovered within a 7-day collection period, 44% via the urine and 42% via the feces. The majority of the material was excreted as metabolites. Specific Populations Patients with Renal Impairment In a renal impairment trial, the mean AUC increased by 24% and C max by 15%, when olaparib was dosed in patients with mild renal impairment (CLcr=51-80 mL/min defined by the Cockcroft-Gault equation; n=13) and by 44% and 26%, respectively, when olaparib was dosed in patients with moderate renal impairment (CLcr=31-50 mL/min; n=13), compared to those with normal renal function (CLcr ≥81 mL/min; n=12). There was no evidence of a relationship between the extent of plasma protein binding of olaparib and creatinine clearance. There are no data in patients with severe renal impairment or end-stage renal disease (CLcr ≤30 mL/min). Patients with Hepatic Impairment In a hepatic impairment trial, the mean AUC increased by 15% and the mean C max increased by 13% when olaparib was dosed in patients with mild hepatic impairment (Child-Pugh classification A; n=10) and the mean AUC increased by 8% and the mean C max decreased by 13% when olaparib was dosed in patients with moderate hepatic impairment (Child-Pugh classification B; n=8), compared to patients with normal hepatic function (n=13). Hepatic impairment has no effect on the protein binding of olaparib and, therefore, total plasma exposure was representative of free drug. There are no data in patients with severe hepatic impairment (Child-Pugh classification C). Drug Interaction Studies Clinical Studies CYP3A Inhibitors: Concomitant use of itraconazole (strong CYP3A inhibitor) increased olaparib C max by 42% and AUC by 170%. Concomitant use of fluconazole (moderate CYP3A inhibitor) is predicted to increase olaparib C max by 14% and AUC by 121%. CYP3A Inducers : Concomitant use of rifampicin (strong CYP3A inducer) decreased olaparib C max by 71% and AUC by 87%. Concomitant use of efavirenz (moderate CYP3A inducer) is predicted to decrease olaparib C max by 31% and AUC by 60%. In vitro Studies CYP Enzymes : Olaparib is both an inhibitor and inducer of CYP3A and an inducer of CYP2B6. Olaparib is predicted to be a weak CYP3A inhibitor in humans. UGT Enzymes : Olaparib is an inhibitor of UGT1A1. Transporters : Olaparib is an inhibitor of BCRP, OATP1B1, OCT1, OCT2, OAT3, MATE1, and MATE2K. Olaparib is a substrate and inhibitor of the efflux transporter P-gp. The potential for olaparib to induce P-gp has not been evaluated.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE Lynparza is a poly (ADP-ribose) polymerase (PARP) inhibitor indicated: Ovarian cancer • for the maintenance treatment of adult patients with deleterious or suspected deleterious germline or somatic BRCA -mutated advanced epithelial ovarian, fallopian tube or primary peritoneal cancer who are in complete or partial response to first-line platinum-based chemotherapy. Select patients for therapy based on an FDA-approved companion diagnostic for Lynparza. ( 1.1 , 2.1 ) • in combination with bevacizumab for the maintenance treatment of adult patients with advanced epithelial ovarian, fallopian tube or primary peritoneal cancer who are in complete or partial response to first-line platinum-based chemotherapy and whose cancer is associated with homologous recombination deficiency (HRD)-positive status defined by either: • a deleterious or suspected deleterious BRCA mutation, and/or • genomic instability. Select patients for therapy based on an FDA-approved companion diagnostic for Lynparza. ( 1.2 , 2.1 ) • for the maintenance treatment of adult patients with deleterious or suspected deleterious germline or somatic BRCA-mutated recurrent epithelial ovarian, fallopian tube or primary peritoneal cancer, who are in complete or partial response to platinum-based chemotherapy. Select patients for therapy based on an FDA-approved companion diagnostic for Lynparza. ( 1.3 , 2.1 ) Breast cancer • for the adjuvant treatment of adult patients with deleterious or suspected deleterious g BRCA m human epidermal growth factor receptor 2 (HER2)-negative high risk early breast cancer who have been treated with neoadjuvant or adjuvant chemotherapy. Select patients for therapy based on an FDA-approved companion diagnostic for Lynparza. ( 1.4 , 2.1 ) • for the treatment of adult patients with deleterious or suspected deleterious gBRCA m, HER2-negative metastatic breast cancer who have been treated with chemotherapy in the neoadjuvant, adjuvant or metastatic setting. Patients with hormone receptor (HR)-positive breast cancer should have been treated with a prior endocrine therapy or be considered inappropriate for endocrine therapy. Select patients for therapy based on an FDA-approved companion diagnostic for Lynparza. ( 1.5 , 2.1 ) Pancreatic cancer • for the maintenance treatment of adult patients with deleterious or suspected deleterious gBRCA m metastatic pancreatic adenocarcinoma whose disease has not progressed on at least 16 weeks of a first-line platinum-based chemotherapy regimen. Select patients for therapy based on an FDA-approved companion diagnostic for Lynparza. ( 1.6 , 2.1 ) Prostate cancer • for the treatment of adult patients with deleterious or suspected deleterious germline or somatic homologous recombination repair (HRR) gene-mutated metastatic castration-resistant prostate cancer (mCRPC) who have progressed following prior treatment with enzalutamide or abiraterone. Select patients for therapy based on an FDA-approved companion diagnostic for Lynparza. ( 1.7 , 2.1 ) • in combination with abiraterone and prednisone or prednisolone for the treatment of adult patients with deleterious or suspected deleterious BRCA -mutated ( BRCA m) metastatic castration-resistant prostate cancer (mCRPC). Select patients for therapy based on an FDA-approved companion diagnostic for Lynparza. ( 1.8 , 2.1 ) 1.1 First-Line Maintenance Treatment of BRCA -mutated Advanced Ovarian Cancer Lynparza is indicated for the maintenance treatment of adult patients with deleterious or suspected deleterious germline or somatic BRCA -mutated advanced epithelial ovarian, fallopian tube or primary peritoneal cancer who are in complete or partial response to first-line platinum-based chemotherapy. Select patients for therapy based on an FDA-approved companion diagnostic for Lynparza [see Dosage and Administration (2.1) ] . 1.2 First-line Maintenance Treatment of HRD-positive Advanced Ovarian Cancer in Combination with Bevacizumab Lynparza is indicated in combination with bevacizumab for the maintenance treatment of adult patients with advanced epithelial ovarian, fallopian tube or primary peritoneal cancer who are in complete or partial response to first-line platinum-based chemotherapy and whose cancer is associated with homologous recombination deficiency (HRD)-positive status defined by either: • a deleterious or suspected deleterious BRCA mutation, and/or • genomic instability. Select patients for therapy based on an FDA-approved companion diagnostic for Lynparza [see Dosage and Administration (2.1) ]. 1.3 Maintenance Treatment of BRCA-mutated Recurrent Ovarian Cancer Lynparza is indicated for the maintenance treatment of adult patients with deleterious or suspected deleterious germline or somatic BRCA-mutated recurrent epithelial ovarian, fallopian tube or primary peritoneal cancer, who are in complete or partial response to platinum-based chemotherapy. Select patients for therapy based on an FDA-approved companion diagnostic for Lynparza [see Dosage and Administration (2.1) ]. 1.4 Adjuvant Treatment of Germline BRCA -mutated HER2-negative High Risk Early Breast Cancer Lynparza is indicated for the adjuvant treatment of adult patients with deleterious or suspected deleterious gBRCA m human epidermal growth factor receptor 2 (HER2)-negative high risk early breast cancer who have been treated with neoadjuvant or adjuvant chemotherapy. Select patients for therapy based on an FDA-approved companion diagnostic for Lynparza [ see Dosage and Administration (2.1) ]. 1.5 Germline BRCA -mutated HER2-negative Metastatic Breast Cancer Lynparza is indicated for the treatment of adult patients with deleterious or suspected deleterious gBRCA m, HER2-negative metastatic breast cancer, who have been treated with chemotherapy in the neoadjuvant, adjuvant, or metastatic setting. Patients with hormone receptor (HR)-positive breast cancer should have been treated with a prior endocrine therapy or be considered inappropriate for endocrine therapy. Select patients for therapy based on an FDA-approved companion diagnostic for Lynparza [see Dosage and Administration (2.1) ] . 1.6 First-Line Maintenance Treatment of Germline BRCA -mutated Metastatic Pancreatic Adenocarcinoma Lynparza is indicated for the maintenance treatment of adult patients with deleterious or suspected deleterious gBRCA m metastatic pancreatic adenocarcinoma whose disease has not progressed on at least 16 weeks of a first-line platinum-based chemotherapy regimen. Select patients for therapy based on an FDA-approved companion diagnostic for Lynparza [see Dosage and Administration (2.1) ] . 1.7 HRR Gene-mutated Metastatic Castration-Resistant Prostate Cancer Lynparza is indicated for the treatment of adult patients with deleterious or suspected deleterious germline or somatic homologous recombination repair (HRR) gene-mutated metastatic castration-resistant prostate cancer (mCRPC) who have progressed following prior treatment with enzalutamide or abiraterone. Select patients for therapy based on an FDA-approved companion diagnostic for Lynparza [see Dosage and Administration (2.1) ]. 1.8 Treatment of BRCA -mutated Metastatic Castration-Resistant Prostate Cancer in Combination with Abiraterone and Prednisone or Prednisolone Lynparza is indicated in combination with abiraterone and prednisone or prednisolone for the treatment of adult patients with deleterious or suspected deleterious BRCA-mutated (BRCAm) metastatic castration-resistant prostate cancer (mCRPC). Select patients for therapy based on an FDA-approved companion diagnostic for Lynparza [see Dosage and Administration (2.1) ] .",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "Lynparza"
+    ],
+    "openfda_generic_names": [
+      "OLAPARIB"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9d25e526-6b0d-4e86-b0f0-b8bfed20c7ac",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Ovarian Cancer",
+    "slug": "ovarian-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04884360",
+      "title": "D9319C00001- 1L OC Mono Global RCT",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04884360",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42595654",
+        "title": "Efficacy of Olaparib Plus Abiraterone for Patients with Metastatic Castration-resistant Prostate Cancer and Single Homologous Recombination Repair Gene Mutations in PROpel.",
+        "pubdate": "2026 Aug 13",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42595654/"
+      },
+      {
+        "pmid": "42584787",
+        "title": "The course of platinum-based chemotherapy is associated with the risk of hematological complications during poly(ADP-ribose) polymerase (PARP) inhibitor therapy in patients with ovarian cancer.",
+        "pubdate": "2026 Aug 12",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42584787/"
+      },
+      {
+        "pmid": "42431822",
+        "title": "Real-world clinical outcomes, genetic testing patterns, and treatment patterns of patients with metastatic castration-resistant prostate cancer treated with olaparib monotherapy in the United States.",
+        "pubdate": "2026 Jul 10",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42431822/"
+      },
+      {
+        "pmid": "42386344",
+        "title": "PARP inhibition combined with a T-cell receptor β chain-directed antibody fusion molecule drives polyclonal antitumor immunity and tumor regression.",
+        "pubdate": "2026 Jul 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42386344/"
+      },
+      {
+        "pmid": "42372741",
+        "title": "Targeting homologous recombination deficiency with intensified chemotherapy versus standard chemotherapy followed by olaparib in stage III breast cancer (SUBITO): an open-label, randomised, controlled, phase 3 trial.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42372741/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "VELIPARIB",
+        "chembl_id": "CHEMBL506871",
+        "reason": "same target: PARP 1, 2 and 3"
+      },
+      {
+        "name": "RUCAPARIB",
+        "chembl_id": "CHEMBL1173055",
+        "reason": "same target: PARP 1, 2 and 3"
+      },
+      {
+        "name": "RUCAPARIB CAMSYLATE",
+        "chembl_id": "CHEMBL3833368",
+        "reason": "same target: PARP 1, 2 and 3"
+      },
+      {
+        "name": "E-7016",
+        "chembl_id": "CHEMBL3527000",
+        "reason": "same target: PARP 1, 2 and 3"
+      }
+    ]
+  }
+}

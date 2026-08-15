@@ -1,0 +1,116 @@
+{
+  "drug_name": "Apatinib",
+  "slug": "apatinib",
+  "enriched_at": "2026-08-15T22:12:43Z",
+  "source_trial_ids": [
+    "NCT06346392"
+  ],
+  "sponsors": [
+    {
+      "name": "AstraZeneca",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=AstraZeneca&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 45139106,
+    "iupac_name": "N-[4-(1-cyanocyclopentyl)phenyl]-2-(pyridin-4-ylmethylamino)pyridine-3-carboxamide;methanesulfonic acid",
+    "molecular_formula": "C25H27N5O4S",
+    "molecular_weight": "493.6",
+    "canonical_smiles": null,
+    "inchikey": "FYJROXRIVQPKRY-UHFFFAOYSA-N",
+    "rxnorm": {
+      "rxcui": "815252",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL3186534",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Apatinib+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Apatinib+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Apatinib+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Gastric Cancer",
+    "slug": "gastric-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06346392",
+      "title": "AZD0901 Compared With Investigator's Choice of Therapy in Participants With Second- or Later-line Advanced or Metastatic Gastric or Gastroesophageal Junction Adenocarcinoma Expressing Claudin18.2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06346392",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42317124",
+        "title": "Adiposity enhances the anti-metastatic efficacy of apatinib via PKA-mediated lipid metabolism.",
+        "pubdate": "2026 May 20",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42317124/"
+      },
+      {
+        "pmid": "42256684",
+        "title": "Efficacy and safety of camrelizumab plus apatinib in advanced urachal cancer (RUN-SC-0102): a single-arm, multicentre, phase 2 trial in China.",
+        "pubdate": "2026 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42256684/"
+      },
+      {
+        "pmid": "42241673",
+        "title": "Erratum: Efficacy and Safety of Camrelizumab Plus Apatinib in Patients With Refractory Chordoma: A Phase II Clinical Trial.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42241673/"
+      },
+      {
+        "pmid": "42127327",
+        "title": "Efficacy and Safety of Camrelizumab Plus Apatinib in Patients With Refractory Chordoma: A Phase II Clinical Trial.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42127327/"
+      },
+      {
+        "pmid": "42093981",
+        "title": "Real-world study of SHR-1210 plus apatinib in the treatment of BRAF-negative mucosal melanoma: efficacy, safety and implications of precision medicine.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42093981/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "Docetaxel for injection (Albumin-bound)",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: CSPC ZhongQi Pharmaceutical Technology Co., Ltd."
+      },
+      {
+        "name": "Taxotere (docetaxel)",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: CSPC ZhongQi Pharmaceutical Technology Co., Ltd."
+      }
+    ]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "drug_name": "ABBV-444",
+  "slug": "abbv-444",
+  "enriched_at": "2026-08-15T22:11:17Z",
+  "source_trial_ids": [
+    "NCT07284381"
+  ],
+  "sponsors": [
+    {
+      "name": "AbbVie",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=AbbVie&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2631779",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4297572",
+    "target_chembl_id": "CHEMBL1825",
+    "target_name": "Tumor necrosis factor",
+    "mechanism_of_action_chembl": "TNF-alpha binding agent"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=ABBV-444+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=ABBV-444+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=ABBV-444+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Dry Eye Disease",
+    "slug": "dry-eye-disease"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07284381",
+      "title": "A Clinical Study to Evaluate the Effect and Side Effect of a New Artificial Tear Formulation (ABBV-444) Compared to Refresh Optive Unit Dose in Adult Participants With Dry Eye Disease",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07284381",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "INFLIXIMAB",
+        "chembl_id": "CHEMBL1201581",
+        "reason": "same target: Tumor necrosis factor"
+      },
+      {
+        "name": "CERTOLIZUMAB PEGOL",
+        "chembl_id": "CHEMBL1201831",
+        "reason": "same target: Tumor necrosis factor"
+      },
+      {
+        "name": "ADALIMUMAB",
+        "chembl_id": "CHEMBL1201580",
+        "reason": "same target: Tumor necrosis factor"
+      },
+      {
+        "name": "ETANERCEPT",
+        "chembl_id": "CHEMBL1201572",
+        "reason": "same target: Tumor necrosis factor"
+      },
+      {
+        "name": "GOLIMUMAB",
+        "chembl_id": "CHEMBL1201833",
+        "reason": "same target: Tumor necrosis factor"
+      },
+      {
+        "name": "LENERCEPT",
+        "chembl_id": "CHEMBL2108208",
+        "reason": "same target: Tumor necrosis factor"
+      },
+      {
+        "name": "NERELIMOMAB",
+        "chembl_id": "CHEMBL2108566",
+        "reason": "same target: Tumor necrosis factor"
+      },
+      {
+        "name": "AFELIMOMAB",
+        "chembl_id": "CHEMBL2108887",
+        "reason": "same target: Tumor necrosis factor"
+      },
+      {
+        "name": "ONERCEPT",
+        "chembl_id": "CHEMBL2107911",
+        "reason": "same target: Tumor necrosis factor"
+      },
+      {
+        "name": "OZORALIZUMAB",
+        "chembl_id": "CHEMBL1743054",
+        "reason": "same target: Tumor necrosis factor"
+      }
+    ]
+  }
+}

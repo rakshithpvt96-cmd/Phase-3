@@ -1,12 +1,19 @@
 {
   "drug_name": "Lenvatinib",
   "slug": "lenvatinib",
-  "enriched_at": "2026-08-15T21:36:43Z",
+  "enriched_at": "2026-08-15T22:19:03Z",
   "source_trial_ids": [
     "NCT04039607",
+    "NCT04164199",
     "NCT04770896"
   ],
   "sponsors": [
+    {
+      "name": "BeOne Medicines",
+      "ticker": "ONC",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001651308&type=10-K&dateb=&owner=include&count=40"
+    },
     {
       "name": "Bristol-Myers Squibb",
       "ticker": null,
@@ -57,8 +64,8 @@
     "further_reading": null
   },
   "condition": {
-    "raw": "Unresectable Hepatocellular Carcinoma",
-    "slug": "unresectable-hepatocellular-carcinoma"
+    "raw": "Advanced Malignancies",
+    "slug": "advanced-malignancies"
   },
   "source_trials": [
     {
@@ -66,6 +73,13 @@
       "title": "A Study of Nivolumab in Combination With Ipilimumab in Participants With Advanced Hepatocellular Carcinoma",
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT04039607",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT04164199",
+      "title": "Study of Tislelizumab, Pamiparib, and Other Investigational Agents in Participants With Advanced Malignancies",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT04164199",
       "has_results": false
     },
     {

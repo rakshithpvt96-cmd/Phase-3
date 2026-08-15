@@ -1,11 +1,18 @@
 {
   "drug_name": "leucovorin",
   "slug": "leucovorin",
-  "enriched_at": "2026-08-15T21:36:49Z",
+  "enriched_at": "2026-08-15T22:19:10Z",
   "source_trial_ids": [
+    "NCT05568095",
     "NCT06625320"
   ],
   "sponsors": [
+    {
+      "name": "Arcus Biosciences, Inc.",
+      "ticker": "RCUS",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001724521&type=10-K&dateb=&owner=include&count=40"
+    },
     {
       "name": "Revolution Medicines, Inc.",
       "ticker": null,
@@ -54,6 +61,13 @@
     "slug": "pancreatic-cancer"
   },
   "source_trials": [
+    {
+      "nct_id": "NCT05568095",
+      "title": "A Clinical Trial of a New Combination Treatment, Domvanalimab and Zimberelimab, Plus Chemotherapy, for People With an Upper Gastrointestinal Tract Cancer That Cannot be Removed With Surgery That Has Spread to Other Parts of the Body",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05568095",
+      "has_results": false
+    },
     {
       "nct_id": "NCT06625320",
       "title": "Phase 3 Study of Daraxonrasib (RMC-6236) in Patients With Previously Treated Metastatic Pancreatic Ductal Adenocarcinoma (PDAC)",

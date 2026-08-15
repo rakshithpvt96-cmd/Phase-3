@@ -1,0 +1,119 @@
+{
+  "drug_name": "Dexamethasone",
+  "slug": "dexamethasone",
+  "enriched_at": "2026-08-15T22:15:46Z",
+  "source_trial_ids": [
+    "NCT03539744",
+    "NCT05552976"
+  ],
+  "sponsors": [
+    {
+      "name": "AbbVie",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=AbbVie&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Bristol-Myers Squibb",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Bristol-Myers%20Squibb&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 5743,
+    "iupac_name": "(8S,9R,10S,11S,13S,14S,16R,17R)-9-fluoro-11,17-dihydroxy-17-(2-hydroxyacetyl)-10,13,16-trimethyl-6,7,8,11,12,14,15,16-octahydrocyclopenta[a]phenanthren-3-one",
+    "molecular_formula": "C22H29FO5",
+    "molecular_weight": "392.5",
+    "canonical_smiles": null,
+    "inchikey": "UREBDLICKHMUKA-CXSFZGCWSA-N",
+    "rxnorm": {
+      "rxcui": "3264",
+      "generic_name": "dexamethasone",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1697787",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": "INDICATIONS AND USAGE A l l ergic States: Control of severe or incapacitating a llergic conditions intractable to adequate trials of conventional treatment in asthma, atopic dermatitis, contact dermatitis, drug hypersensitivity reactions, perennial or seasonal allergic rhinitis, and serum sickness. Dermatologic Diseases: Bul l ous dermatitis herpetiformis, exfoliative erythroderma, mycosis fungoides, pemphigus, and severe erythema multiforme (Stevens-Johnson syndrome). Endocrine Disorders: Primary or secondary adrenocortical insufficiency (hydrocortisone or cortisone is the drug of choice; may be used in conjunction with synthetic mineralocorticoid analogs where applicable; in infancy mineralocorticoid supplementation is of particular importance), congenital adrenal hyperplasia, hypercalcemia associated with cancer, and nonsuppurative thyroiditis. Gastrointestinal Diseases: To tide the patient over a critical period of the disease in regional enteritis and ulcerative colitis. Hematologic Disorders: Acquired (autoimmune) hemolytic anemia, congenital (erythroid) hypoplastic anemia (Diamond-Blackfan anemia), idiopathic thrombocytopenic purpura in adults, pure red cell aplasia, and selected cases of secondary thrombocytopenia. Misce l l aneous: Diagnostic testing of adrenocortical hyperfunction, trichinosis with neurologic or myocardial involvement, tuberculous meningitis with subarachnoid block or impending block when used with appropriate antituberculous chemotherapy. Neoplastic Diseases: For the palliative management of leukemias and lymphomas. Nervous System: Acute exacerbations of multiple sclerosis, cerebral edema associated with primary or metastatic brain tumor, craniotomy, or head injury. Ophthalmic Diseases: Sympathetic ophthalmia, temporal arteritis, uveitis, and ocular inflammatory conditions unresponsive to topical corticosteroids. Renal Diseases: To induce a diuresis or remission of proteinuria in idiopathic nephrotic syndrome or that due to lupus erythematosus. Respiratory Diseases: Berylliosis, fulminating or disseminated pulmonary tuberculosis when used concurrently with appropriate antituberculous chemotherapy, idiopathic eosinophilic pneumonias, symptomatic sarcoidosis. Rheumatic Disorders: As adjunctive therapy for short-term administration (to tide the patient over an acute episode or exacerbation) in acute gouty arthritis, acute rheumatic carditis, ankylosing spondylitis, psoriatic arthritis, rheumatoid arthritis, including juvenile rheumatoid arthritis (selected cases may require low-dose maintenance therapy). For the treatment of dermatomyositis, polymyositis, and systemic lupus erythematosus.",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "Dexamethasone"
+    ],
+    "openfda_generic_names": [
+      "DEXAMETHASONE"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a31b013f-924c-42f8-b8ab-ce60bb8ad7b8",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Relapsed or Refractory Multiple Myeloma",
+    "slug": "relapsed-or-refractory-multiple-myeloma"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT03539744",
+      "title": "A Study Designed to Evaluate the Safety and Efficacy of Venetoclax Plus Dexamethasone (VenDex) Compared With Pomalidomide Plus Dexamethasone (PomDex) in Participants With t(11;14)-Positive Relapsed or Refractory Multiple Myeloma.",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT03539744",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT05552976",
+      "title": "A Study to Evaluate Mezigdomide in Combination With Carfilzomib and Dexamethasone (MeziKD) Versus Carfilzomib and Dexamethasone (Kd) in Participants With Relapsed or Refractory Multiple Myeloma (SUCCESSOR-2)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05552976",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42600624",
+        "title": "Neurological effects of encapsulated dexamethasone sodium phosphate in children aged 6-9 years with ataxia telangiectasia (NEAT): a multicentre, randomised, double-blind, placebo-controlled, phase 3 trial.",
+        "pubdate": "2026 Aug 14",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42600624/"
+      },
+      {
+        "pmid": "42599090",
+        "title": "Glucagon-Like Peptide-1 Receptor Agonists for Patients with Conservatively Managed Nontraumatic Subdural Hematoma.",
+        "pubdate": "2026 Aug 14",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42599090/"
+      },
+      {
+        "pmid": "42582108",
+        "title": "Innovations in conservative and surgical therapy for Ménière's disease-narrative review.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42582108/"
+      },
+      {
+        "pmid": "42570798",
+        "title": "Ultra-hypofractionated versus conventional chemoradiation for newly diagnosed glioblastoma: Survival and toxicity results of a multicenter randomized trial.",
+        "pubdate": "2026 Aug 8",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42570798/"
+      },
+      {
+        "pmid": "42566269",
+        "title": "Author Reply to Letter to the Editor Regarding \"Intratympanic Dexamethasone Efficacy in Preventing Cisplatin-Induced Tinnitus: A Randomized Controlled Phase IIIB Clinical Trial\".",
+        "pubdate": "2026 Aug 6",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42566269/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

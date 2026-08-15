@@ -1,0 +1,105 @@
+{
+  "drug_name": "Boric acid",
+  "slug": "boric-acid",
+  "enriched_at": "2026-08-15T22:13:46Z",
+  "source_trial_ids": [
+    "NCT07109869"
+  ],
+  "sponsors": [
+    {
+      "name": "pH-D Feminine Health LLC",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=pH-D%20Feminine%20Health%20LLC&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 7628,
+    "iupac_name": "boric acid",
+    "molecular_formula": "BH3O3",
+    "molecular_weight": "61.84",
+    "canonical_smiles": null,
+    "inchikey": "KGBXLFKZBHKPEV-UHFFFAOYSA-N",
+    "rxnorm": {
+      "rxcui": "1700",
+      "generic_name": "boric acid",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL42403",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": "Uses ● Antimicrobial action: Effectively targets and eliminates harmful bacteria to maintain natural balance. ● UTI Defense: Actively helps to prevent urinary tract infections. ● Odor Control: Neutralizes odors, leaving you feeling fresh and clean.",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "Medicated Foaming Feminine"
+    ],
+    "openfda_generic_names": [
+      "LACTIC ACID, BORIC ACID, CHLORHEXIDINE GLUCONATE, CNIDIUM MONNIERI FRUIT, LEVOMENOL"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e4855b64-c462-46f3-8051-26da228ceaf8",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Vulvovaginal Candidiases",
+    "slug": "vulvovaginal-candidiases"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07109869",
+      "title": "Safety and Efficacy of Boric Acid Inserts for Treatment of Vulvovaginal Candidiasis",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07109869",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42011319",
+        "title": "Effect of temperature and preservative selection on C-peptide degradation in randomly voided urine.",
+        "pubdate": "2026 May",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42011319/"
+      },
+      {
+        "pmid": "40986202",
+        "title": "Clinical, cytological, and microbiological evaluation of a topical boric acid-alcohol solution for the treatment of canine otitis externa: a randomized, open-label controlled clinical trial.",
+        "pubdate": "2025 Sep 23",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40986202/"
+      },
+      {
+        "pmid": "40951753",
+        "title": "Chairside clinicomicrobiological assessment of subgingival boric acid irrigation in periodontitis patients: A randomized controlled trial.",
+        "pubdate": "2025 Mar-Apr",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40951753/"
+      },
+      {
+        "pmid": "40792045",
+        "title": "The Effect of Boron Supplementation on Kidney Stones in Patients With Nephrolithiasis: A Double-Blind Randomized Controlled Trial.",
+        "pubdate": "2025 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40792045/"
+      },
+      {
+        "pmid": "40655674",
+        "title": "Comparative Evaluation of Demineralized Freeze-Dried Bone Allograft Combined with 0.75% Boric Acid Gel versus Demineralized Freeze-Dried Bone Allograft Alone in the Management of Subclass-B Furcation Defects.",
+        "pubdate": "2025 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40655674/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

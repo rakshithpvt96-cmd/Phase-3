@@ -1,12 +1,18 @@
 {
   "drug_name": "Botulinum toxin type A",
   "slug": "botulinum-toxin-type-a",
-  "enriched_at": "2026-08-15T21:08:16Z",
+  "enriched_at": "2026-08-15T22:13:56Z",
   "source_trial_ids": [
+    "NCT06047444",
     "NCT06047457"
   ],
   "sponsors": [
-    "Ipsen"
+    {
+      "name": "Ipsen",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Ipsen&type=10-K&dateb=&owner=include&count=40"
+    }
   ],
   "identity": {
     "rxnorm": {
@@ -39,10 +45,17 @@
     "further_reading": null
   },
   "condition": {
-    "raw": "Episodic Migraine",
-    "slug": "episodic-migraine"
+    "raw": "Chronic Migraine",
+    "slug": "chronic-migraine"
   },
   "source_trials": [
+    {
+      "nct_id": "NCT06047444",
+      "title": "A Study to Evaluate the Effectiveness and Safety of Dysport® for the Prevention of Chronic Migraine in Adults",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06047444",
+      "has_results": false
+    },
     {
       "nct_id": "NCT06047457",
       "title": "A Study to Evaluate the Effectiveness and Safety of Dysport® for the Prevention of Episodic Migraine in Adults",

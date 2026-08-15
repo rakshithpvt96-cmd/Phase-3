@@ -1,0 +1,68 @@
+{
+  "drug_name": "Matching Placebo for selinexor",
+  "slug": "matching-placebo-for-selinexor",
+  "enriched_at": "2026-08-15T22:19:34Z",
+  "source_trial_ids": [
+    "NCT05611931"
+  ],
+  "sponsors": [
+    {
+      "name": "Karyopharm Therapeutics Inc",
+      "ticker": "KPTI",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001503802&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2178390",
+      "generic_name": "selinexor",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL3545185",
+    "target_chembl_id": "CHEMBL5661",
+    "target_name": "Exportin-1",
+    "mechanism_of_action_chembl": "Exportin-1 inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Matching%20Placebo%20for%20selinexor+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Matching%20Placebo%20for%20selinexor+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Matching%20Placebo%20for%20selinexor+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Endometrial Cancer",
+    "slug": "endometrial-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05611931",
+      "title": "Selinexor in Maintenance Therapy After Systemic Therapy for Participants With p53 Wild-Type, Advanced or Recurrent Endometrial Carcinoma",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05611931",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

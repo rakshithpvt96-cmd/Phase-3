@@ -1,0 +1,108 @@
+{
+  "drug_name": "Divarasib",
+  "slug": "divarasib",
+  "enriched_at": "2026-08-15T22:15:52Z",
+  "source_trial_ids": [
+    "NCT06497556"
+  ],
+  "sponsors": [
+    {
+      "name": "Hoffmann-La Roche",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hoffmann-La%20Roche&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 146624881,
+    "iupac_name": "1-[(3S)-4-[7-[6-amino-4-methyl-3-(trifluoromethyl)-2-pyridinyl]-6-chloro-8-fluoro-2-[[(2S)-1-methylpyrrolidin-2-yl]methoxy]quinazolin-4-yl]-3-methylpiperazin-1-yl]prop-2-en-1-one",
+    "molecular_formula": "C29H32ClF4N7O2",
+    "molecular_weight": "622.1",
+    "canonical_smiles": null,
+    "inchikey": "ZRBPIAWWRPFDPY-IRXDYDNUSA-N",
+    "rxnorm": {
+      "rxcui": "2629290",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL5314604",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Divarasib+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Divarasib+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Divarasib+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Non-Small Cell Lung Cancer",
+    "slug": "non-small-cell-lung-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06497556",
+      "title": "A Study Evaluating the Efficacy and Safety of Divarasib Versus Sotorasib or Adagrasib in Participants With Previously Treated KRAS G12C-positive Advanced or Metastatic Non-Small Cell Lung Cancer",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06497556",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42485897",
+        "title": "Development and validation of an LC-MS/MS method for the quantification of the KRAS(G12C) inhibitor divarasib.",
+        "pubdate": "2026 Jul 18",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42485897/"
+      },
+      {
+        "pmid": "40447141",
+        "title": "Recent advances in therapeutic targeting of the KRAS pathway in cancer.",
+        "pubdate": "2025 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40447141/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "BL-B01D1",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Sichuan Baili Pharmaceutical Co., Ltd."
+      },
+      {
+        "name": "Pemetrexed+Cisplatin or Carboplatin",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Sichuan Baili Pharmaceutical Co., Ltd."
+      },
+      {
+        "name": "JDQ443",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Novartis Pharmaceuticals"
+      },
+      {
+        "name": "docetaxel",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Novartis Pharmaceuticals"
+      }
+    ]
+  }
+}

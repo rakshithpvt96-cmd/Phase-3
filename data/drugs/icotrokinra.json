@@ -1,0 +1,105 @@
+{
+  "drug_name": "Icotrokinra",
+  "slug": "icotrokinra",
+  "enriched_at": "2026-08-15T22:18:01Z",
+  "source_trial_ids": [
+    "NCT06878404"
+  ],
+  "sponsors": [
+    {
+      "name": "Janssen Research & Development, LLC",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Janssen%20Research%20%26%20Development%2C%20LLC&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 162462321,
+    "iupac_name": "(4S)-4-[[4-[[(2S)-2-[[(2S)-2-[[(4R,7S,10S,13S,16S,19R)-19-acetamido-7-(4-acetamidobutyl)-16-(2-amino-2-oxoethyl)-13-[(1R)-1-hydroxyethyl]-3,3,20,20-tetramethyl-10-[(7-methyl-1H-indol-3-yl)methyl]-6,9,12,15,18-pentaoxo-1,2-dithia-5,8,11,14,17-pentazacycloicosane-4-carbonyl]amino]-3-[4-(2-aminoethoxy)phenyl]propanoyl]amino]-3-naphthalen-2-ylpropanoyl]amino]oxane-4-carbonyl]amino]-5-[[(2S)-4-amino-1-[[(2S)-1-[(2-amino-2-oxoethyl)-methylamino]-1-oxo-3-pyridin-3-ylpropan-2-yl]amino]-1,4-dioxobutan-2-yl]amino]-5-oxopentanoic acid",
+    "molecular_formula": "C90H120N20O22S2",
+    "molecular_weight": "1898.2",
+    "canonical_smiles": null,
+    "inchikey": "IVFNYXYPMJQSGF-QMRCQSNESA-N",
+    "rxnorm": {
+      "rxcui": "2739030",
+      "generic_name": "icotrokinra",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL6068124",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Icotrokinra is a peptide that selectively binds to the IL-23 receptor (IL-23R) with a dissociation constant of 7 pM and antagonizes the binding of IL-23. IL-23 is a naturally occurring cytokine that is involved in inflammatory and immune responses. Icotrokinra inhibits the IL-23/IL-23R-dependent release of proinflammatory cytokines.",
+    "pharmacokinetics": "12.3 Pharmacokinetics Following the administration of icotrokinra 200 mg, the mean (standard deviation) maximum concentration (C max ) is 3.62 (1.48) ng/mL and total systemic exposure (AUC inf ) is 44.8 (11.4) ng*h/mL. Icotrokinra C max and AUC increase in a dose-proportional manner between 0.05 to 5 times the recommended dosage in healthy subjects. Following multiple dose administration accumulation for C max was up to 1.6-fold and for AUC was up to 1.5-fold. Icotrokinra steady state is reached in approximately 3 days. No clinically relevant differences in icotrokinra pharmacokinetics were observed between healthy subjects and patients with moderate-to-severe plaque psoriasis. Absorption Icotrokinra median (min, max) time to maximum plasma concentration (T max ) is 2 (0.25, 8) hours. Effect of Food Icotrokinra AUC decreased by 43% and C max decreased by 59% following administration with a high-fat meal (1000 calories, 50% fat) [see Dosage and Administration (2.2) ]. No clinically significant differences in icotrokinra pharmacokinetics were observed following administration of caffeine. Distribution Icotrokinra is 52% bound to plasma protein. Blood to plasma partition ratio is 0.53. Icotrokinra steady state apparent (oral) volume of distribution is 92800 L. Elimination Icotrokinra median elimination half-life is 12 hours with an apparent (oral) clearance of 6550 L/h. Metabolism Icotrokinra is a peptide and it is metabolized by peptide catabolism into smaller peptides. Excretion Following oral administration of icotrokinra to healthy subjects, approximately 37% to 81% of the dose was recovered in feces within 24 hours as unchanged icotrokinra, and 0.001% of the dose was recovered in urine as unchanged icotrokinra. Specific Populations No clinically significant differences in the pharmacokinetics of icotrokinra were observed based on age (range: 12 to 87 years), body weight (range: 39 to 211 kg), sex, race (76% White, 20.1% Asian, 1.7% Black), ethnicity, immunogenicity, mild (eGFR ≥60 to <90 mL/min, [calculated according to Chronic Kidney Disease Epidemiology Collaboration]) renal impairment. The effect of mild (Child-Pugh Class A) to severe (Child-Pugh Class C) hepatic impairment on icotrokinra pharmacokinetics is unknown. Hepatic impairment is unlikely to affect icotrokinra elimination since the drug is not metabolized hepatically. However, patients with severe hepatic impairment were not studied in clinical trials. Pediatric Patients No clinically relevant differences in icotrokinra pharmacokinetics were observed in pediatric patients with moderate-to-severe plaque psoriasis 12 years of age and older who weigh at least 40 kg compared to adults. Patients with Renal Impairment Icotrokinra AUC increased by 2.47-fold in patients with moderate (eGFR ≥30 to <60 mL/min, [calculated according to Chronic Kidney Disease Epidemiology Collaboration]) and 2.78-fold in severe (eGFR ≥15 to <30 mL/min) renal impairment. No clinically significant differences in the pharmacokinetics of icotrokinra were observed in patients with mild renal impairment (eGFR ≥60 to <90 mL/min) based on population pharmacokinetic analysis. Drug Interaction Studies Clinical Studies No formal drug-drug interaction studies have been conducted with icotrokinra. No clinically significant drug interactions have been identified. In Vitro Studies CYP450 Enzymes: Icotrokinra does not inhibit CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP2E1, and CYP3A4. Icotrokinra does not induce CYP1A2, CYP2B6, and CYP3A4. Transporter systems: Icotrokinra is not a substrate of P-gp, BCRP, OATP1B1, OATP1B3, OAT1, OAT3, OCT2, MATE1, and MATE2-K. Icotrokinra does not inhibit P-gp, BCRP, OATP1B1, OATP1B3, OAT1, OAT3, OCT2, MATE1, MATE2-K, and BSEP.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE ICOTYDE is indicated for the treatment of moderate-to-severe plaque psoriasis in adults and pediatric patients 12 years of age and older who weigh at least 40 kg who are candidates for systemic therapy or phototherapy. ICOTYDE is an interleukin-23 (IL-23) receptor antagonist indicated for the treatment of moderate-to-severe plaque psoriasis in adults and pediatric patients 12 years of age and older who weigh at least 40 kg who are candidates for systemic therapy or phototherapy. ( 1 )",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "ICOTYDE"
+    ],
+    "openfda_generic_names": [
+      "ICOTROKINRA"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=aee3c963-edc0-4252-8769-cdf6c7cdc21a",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Arthritis, Psoriatic",
+    "slug": "arthritis-psoriatic"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06878404",
+      "title": "A Study to Evaluate the Efficacy and Safety of JNJ-77242113 (Icotrokinra) in Biologic-naïve Participants With Active Psoriatic Arthritis",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06878404",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42397072",
+        "title": "Durability of Response to Icotrokinra in Adults With Moderate-to-Severe Plaque Psoriasis: One-Year Results From the Phase 3, Placebo- and Active Comparator-Controlled ICONIC-ADVANCE 1 & ICONIC-ADVANCE 2 Trials.",
+        "pubdate": "2026 Jul 3",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42397072/"
+      },
+      {
+        "pmid": "42393457",
+        "title": "Matching-Adjusted Indirect Comparison of Risankizumab Versus Icotrokinra in Adult Patients with Moderate-to-Severe Plaque Psoriasis.",
+        "pubdate": "2026 Jul 2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42393457/"
+      },
+      {
+        "pmid": "42308521",
+        "title": "Efficacy and Safety of Icotrokinra for Plaque Psoriasis: A Systematic Review and Meta-analysis.",
+        "pubdate": "2026 Jun 17",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42308521/"
+      },
+      {
+        "pmid": "42176706",
+        "title": "Maintenance of response with icotrokinra, a targeted oral peptide, for the treatment of moderate-to-severe plaque psoriasis: Randomized treatment withdrawal in adults from the phase 3, ICONIC-LEAD study.",
+        "pubdate": "2026 May 22",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42176706/"
+      },
+      {
+        "pmid": "42175814",
+        "title": "Durability of response to icotrokinra for high-impact site psoriasis: 1-year ICONIC-TOTAL findings.",
+        "pubdate": "2026 May 23",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42175814/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

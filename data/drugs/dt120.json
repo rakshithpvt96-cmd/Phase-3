@@ -1,12 +1,19 @@
 {
   "drug_name": "DT120",
   "slug": "dt120",
-  "enriched_at": "2026-08-15T21:12:28Z",
+  "enriched_at": "2026-08-15T22:16:18Z",
   "source_trial_ids": [
-    "NCT06741228"
+    "NCT06741228",
+    "NCT06809595",
+    "NCT06941844"
   ],
   "sponsors": [
-    "Definium Therapeutics US, Inc."
+    {
+      "name": "Definium Therapeutics US, Inc.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Definium%20Therapeutics%20US%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
+    }
   ],
   "identity": {
     "rxnorm": null
@@ -35,8 +42,8 @@
     }
   },
   "condition": {
-    "raw": "Generalized Anxiety Disorder",
-    "slug": "generalized-anxiety-disorder"
+    "raw": "Major Depressive Disorder",
+    "slug": "major-depressive-disorder"
   },
   "source_trials": [
     {
@@ -44,6 +51,20 @@
       "title": "A Phase 3 Trial of DT120 for Generalized Anxiety Disorder (Voyage)",
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT06741228",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06809595",
+      "title": "A Phase 3 Trial of MM120 for Generalized Anxiety Disorder (Panorama)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06809595",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06941844",
+      "title": "A Phase 3 Trial of DT120 for Major Depressive Disorder (Emerge)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06941844",
       "has_results": false
     }
   ],
@@ -56,24 +77,19 @@
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
     "items": [
       {
-        "name": "Buagafuran capsules, 15mg/ capsule",
+        "name": "CYB003",
         "chembl_id": null,
-        "reason": "same indication trial, sponsor: Beijing Union Pharmaceutical Factory Ltd"
+        "reason": "same indication trial, sponsor: Cybin IRL Limited"
       },
       {
-        "name": "Buspirone tablets, 5mg/ tablet",
+        "name": "Placebo",
         "chembl_id": null,
-        "reason": "same indication trial, sponsor: Beijing Union Pharmaceutical Factory Ltd"
+        "reason": "same indication trial, sponsor: Cybin IRL Limited"
       },
       {
-        "name": "Buagafuran capsules mimic, 0mg/ capsule",
+        "name": "Azetukalner",
         "chembl_id": null,
-        "reason": "same indication trial, sponsor: Beijing Union Pharmaceutical Factory Ltd"
-      },
-      {
-        "name": "Buspirone tablets mimic, 0mg/ tablet",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Beijing Union Pharmaceutical Factory Ltd"
+        "reason": "same indication trial, sponsor: Xenon Pharmaceuticals Inc."
       }
     ]
   }

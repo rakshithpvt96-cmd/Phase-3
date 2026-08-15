@@ -1,0 +1,99 @@
+{
+  "drug_name": "Active reference comparator",
+  "slug": "active-reference-comparator",
+  "enriched_at": "2026-08-15T22:11:26Z",
+  "source_trial_ids": [
+    "NCT06878404"
+  ],
+  "sponsors": [
+    {
+      "name": "Janssen Research & Development, LLC",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Janssen%20Research%20%26%20Development%2C%20LLC&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "215010",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL3983509",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Active%20reference%20comparator+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Active%20reference%20comparator+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Active%20reference%20comparator+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Arthritis, Psoriatic",
+    "slug": "arthritis-psoriatic"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06878404",
+      "title": "A Study to Evaluate the Efficacy and Safety of JNJ-77242113 (Icotrokinra) in Biologic-naïve Participants With Active Psoriatic Arthritis",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06878404",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42598626",
+        "title": "Efficacy and safety of semaglutide injection in Indian patients with type 2 diabetes mellitus inadequately controlled on metformin: A phase 3, randomized, active-controlled, multicenter, non-inferiority trial (WIN-IND study).",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42598626/"
+      },
+      {
+        "pmid": "42587279",
+        "title": "Efficacy and safety of BAFF/APRIL-pathway inhibitors versus placebo in adults with IgA nephropathy: a systematic review with pairwise and network meta-analysis.",
+        "pubdate": "2026 Aug 11",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42587279/"
+      },
+      {
+        "pmid": "42570301",
+        "title": "Severity of Structural Lumbar Spinal Stenosis Does Not Impact Responsiveness to Exercise-Based Rehabilitation.",
+        "pubdate": "2026 Aug 8",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42570301/"
+      },
+      {
+        "pmid": "42533223",
+        "title": "PDE10A Inhibition in Schizophrenia: A Randomised, Placebo-Controlled Phase 2 Study of Alofropodect (CPL'36) in Patients Experiencing Acute Schizophrenia.",
+        "pubdate": "2026 Jul 31",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42533223/"
+      },
+      {
+        "pmid": "42518911",
+        "title": "Real-World Comparative Weight Loss of GLP-1 Receptor Agonists in the All of Us Research Program: A Retrospective Cohort Study.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42518911/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

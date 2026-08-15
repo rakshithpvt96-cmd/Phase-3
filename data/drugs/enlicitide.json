@@ -1,0 +1,101 @@
+{
+  "drug_name": "Enlicitide",
+  "slug": "enlicitide",
+  "enriched_at": "2026-08-15T22:16:25Z",
+  "source_trial_ids": [
+    "NCT07216482"
+  ],
+  "sponsors": [
+    {
+      "name": "Merck Sharp & Dohme LLC",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Merck%20Sharp%20%26%20Dohme%20LLC&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 164933665,
+    "iupac_name": "[6-[[(11S,17S,20S,23S,27S,39S,42S,63S,66R)-47-fluoro-20-[(1R)-1-hydroxyethyl]-17-[(4-methoxyphenyl)methyl]-11,63-dimethyl-10,16,19,22,30,40,58,61,64,67,70-undecaoxo-28-oxa-1,9,15,18,21,24,31,41,51,62,65,68-dodecazanonacyclo[37.18.11.23,6.124,42.133,37.144,51.011,15.023,27.045,50]triheptaconta-3(73),4,6(72),33,35,37(71),44(69),45(50),46,48-decaen-66-yl]methylamino]-6-oxohexyl]-trimethylazanium",
+    "molecular_formula": "C82H110FN14O15+",
+    "molecular_weight": "1550.8",
+    "canonical_smiles": null,
+    "inchikey": "ZJMSWDDEBKNMLX-HMPNVHCESA-O",
+    "rxnorm": null
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL6068420",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Enlicitide is a macrocyclic peptide that binds to PCSK9. PCSK9 binds to the low-density lipoprotein receptors (LDLR) on the surface of hepatocytes to promote LDLR degradation within the liver. By inhibiting the binding of PCSK9 to LDLR, enlicitide increases the number of LDLRs available to clear LDL-C, thereby lowering LDL-C levels.",
+    "pharmacokinetics": "12.3 Pharmacokinetics The geometric means (% coefficient of variation) of steady-state enlicitide AUC and C max following once daily enlicitide 20 mg were 308 nM•h (28%) and 15.5 nM (29%), respectively, in participants with hypercholesterolemia. Enlicitide plasma exposures were less than dose-proportional between 0.25 times and 15 times the recommended dosage of 20 mg. Steady-state is achieved by approximately 7 days with an accumulation ratio of 1.42. Absorption Each LIPFENDRA tablet contains sodium caprate, which facilitates the oral absorption of enlicitide. The oral bioavailability of enlicitide is approximately 1%. When LIPFENDRA is orally administered on an empty stomach in the morning with a meal given at least 30 minutes after the enlicitide dose, enlicitide is rapidly absorbed with a T max of approximately 0.5–1 hour. Effect of Food LIPFENDRA administration on an empty stomach in the morning, at least 30 minutes before a meal, does not affect the exposure of enlicitide. LIPFENDRA administration 30 minutes after a meal reduces steady-state AUC and C max by 48% and 50%, respectively, and delays T max . Effect of Beverages The administration of LIPFENDRA with black coffee or plain tea does not result in a clinically meaningful change in enlicitide exposure. Distribution The apparent steady-state volume of distribution of enlicitide is 2,384 L. Enlicitide exhibits concentration dependent plasma protein binding, ranging from 93% bound at 2 nM to 32% bound at 1 µM. Enlicitide blood to plasma ratio is approximately 0.6. Elimination The steady-state apparent clearance in participants with hypercholesterolemia is approximately 41 L/h at the 20 mg once daily dose. Enlicitide clearance increases with increasing concentration, resulting in non-linear pharmacokinetics (PK). Enlicitide has an effective half-life of approximately 14 hours and a terminal half-life of approximately 244 hours. Metabolism Enlicitide is minimally metabolized. No major metabolites of enlicitide have been identified. Excretion Enlicitide is primarily eliminated via glomerular filtration following IV administration, with approximately 73% and 8% of the dose excreted in urine and feces, respectively. Specific Populations Age, Sex, and Race/Ethnicity There is no clinically meaningful effect of age (18 to 88 years), body weight (40 to 174 kg), sex, race (American Indian or Alaskan Native, Asian, Black or African American, White, or multi-racial), or ethnicity (Hispanic or Latino) on the PK of enlicitide. Patients with Renal Impairment Patients with mild (eGFR 60 to 89 mL/min), moderate (eGFR 30 to 59 mL/min), and severe renal impairment (eGFR less than 30 mL/min) are expected to have 5%, 11%, and 26% higher enlicitide steady-state exposure compared to patients with normal renal function. These increases in exposure are not clinically meaningful. Compared to participants with normal renal function, single dose enlicitide exposure (AUC 0-inf ) was 17% and 75% higher in participants with end-stage renal disease (ESRD) on hemodialysis when enlicitide was administered before hemodialysis and after hemodialysis, respectively. These increases in exposure are not clinically meaningful. Patients with Hepatic Impairment The PK of enlicitide is not impacted by moderate hepatic impairment (Child-Pugh Class B). The PK of enlicitide in participants with severe hepatic impairment (Child-Pugh Class C) was not evaluated. Drug Interaction Studies No clinically meaningful drug interactions have been observed with LIPFENDRA. LIPFENDRA (formulated with the permeation enhancer, sodium caprate) did not affect the exposure of lithium, levothyroxine, digoxin, warfarin, atorvastatin, alendronate, lisinopril, or oral semaglutide tablets. Oral semaglutide tablets (formulated with salcaprozate sodium to facilitate absorption) or atorvastatin did not affect the exposure of enlicitide. Based on in vitro studies, LIPFENDRA has very low drug interaction potential via cytochrome P450 enzymes or drug transporters at the therapeutic dose.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE LIPFENDRA ® is indicated as an adjunct to diet and exercise to reduce low-density lipoprotein cholesterol (LDL-C) in adults with hypercholesterolemia, including heterozygous familial hypercholesterolemia (HeFH). Cardiovascular outcomes trials have demonstrated that reducing LDL-C lowers the risk for major adverse cardiovascular events (MACE) in adults at increased risk when treated with statins or monoclonal antibody proprotein convertase subtilisin kexin type 9 (PCSK9) inhibitors as an add-on to statin therapy. LIPFENDRA is a proprotein convertase subtilisin kexin type 9 (PCSK9) inhibitor indicated as an adjunct to diet and exercise to reduce low-density lipoprotein cholesterol (LDL-C) in adults with hypercholesterolemia, including heterozygous familial hypercholesterolemia (HeFH). Cardiovascular outcomes trials have demonstrated that reducing LDL-C lowers the risk for major adverse cardiovascular events (MACE) in adults at increased risk when treated with statins or monoclonal antibody PCSK9 inhibitors as an add-on to statin therapy. ( 1 )",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "LIPFENDRA"
+    ],
+    "openfda_generic_names": [
+      "LIPFENDRA"
+    ],
+    "dailymed_url": null,
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Hyperlipidemia",
+    "slug": "hyperlipidemia"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07216482",
+      "title": "A Clinical Study of Enlicitide in Participants With High Cholesterol (MK-0616-037)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07216482",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42391098",
+        "title": "A Comprehensive Review of PCSK9 Inhibitor Therapy.",
+        "pubdate": "2026 Jul 2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42391098/"
+      },
+      {
+        "pmid": "42017875",
+        "title": "Oral PCSK9 Inhibitor Enlicitide Versus Oral Nonstatin Therapies: A Phase 3 Randomized Clinical Trial.",
+        "pubdate": "2026 Jul 21",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42017875/"
+      },
+      {
+        "pmid": "41966715",
+        "title": "Phase 3 study results for oral PCSK9 inhibition with enlicitide.",
+        "pubdate": "2026 Apr 10",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41966715/"
+      },
+      {
+        "pmid": "41907045",
+        "title": "PCSK9 in vascular smooth muscle cells: biology, pathology, and inhibition to fight atherosclerosis.",
+        "pubdate": "2026 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41907045/"
+      },
+      {
+        "pmid": "41702283",
+        "title": "In silico prediction of the lipid-lowering efficacy of the oral PCSK9 inhibitor enlicitide using a mechanistic computational model.",
+        "pubdate": "2026 Apr",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41702283/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

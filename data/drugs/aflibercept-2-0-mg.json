@@ -1,0 +1,150 @@
+{
+  "drug_name": "Aflibercept (2.0 mg)",
+  "slug": "aflibercept-2-0-mg",
+  "enriched_at": "2026-08-15T22:12:02Z",
+  "source_trial_ids": [
+    "NCT06668064"
+  ],
+  "sponsors": [
+    {
+      "name": "EyePoint Pharmaceuticals, Inc.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=EyePoint%20Pharmaceuticals%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1232150",
+      "generic_name": "aflibercept",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1742982",
+    "target_chembl_id": "CHEMBL1783",
+    "target_name": "Vascular endothelial growth factor A, long form",
+    "mechanism_of_action_chembl": "Vascular endothelial growth factor A inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Aflibercept%20%282.0%20mg%29+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Aflibercept%20%282.0%20mg%29+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Aflibercept%20%282.0%20mg%29+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Wet Age Related Macular Degeneration",
+    "slug": "wet-age-related-macular-degeneration"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06668064",
+      "title": "A 2-year Study of EYP-1901 in Subjects With Wet Age Related Macular Degeneration (wAMD) (LUGANO) Primary Efficacy Will be Determined at Week 56",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06668064",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42313241",
+        "title": "Summary of Research: Four-Year Outcomes of Faricimab in Diabetic Macular Edema: Results From the RHONE-X Extension Trial.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42313241/"
+      },
+      {
+        "pmid": "41961203",
+        "title": "Efficacy, Durability, and Safety of Faricimab for Diabetic Macular Edema: 1-Year Results from the China RHINE Subpopulation.",
+        "pubdate": "2026 May",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41961203/"
+      },
+      {
+        "pmid": "41807615",
+        "title": "Real-world treatment patterns and visual outcomes of faricimab in patients with neovascular age-related macular degeneration in the UK at 12 months: the FARWIDE-nAMD study.",
+        "pubdate": "2026 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41807615/"
+      },
+      {
+        "pmid": "41534798",
+        "title": "Four-Year Outcomes of Faricimab in Diabetic Macular Edema: Results from the RHONE-X Extension Trial.",
+        "pubdate": "2026 May",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41534798/"
+      },
+      {
+        "pmid": "36749332",
+        "title": "Four-Year Visual Outcomes in the Protocol W Randomized Trial of Intravitreous Aflibercept for Prevention of Vision-Threatening Complications of Diabetic Retinopathy.",
+        "pubdate": "2023 Feb 7",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36749332/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "PEGAPTANIB SODIUM",
+        "chembl_id": "CHEMBL1201421",
+        "reason": "same target: Vascular endothelial growth factor A, long form"
+      },
+      {
+        "name": "RANIBIZUMAB",
+        "chembl_id": "CHEMBL1201825",
+        "reason": "same target: Vascular endothelial growth factor A, long form"
+      },
+      {
+        "name": "BEVACIZUMAB",
+        "chembl_id": "CHEMBL1201583",
+        "reason": "same target: Vascular endothelial growth factor A, long form"
+      },
+      {
+        "name": "BEVACIZUMAB 111IN",
+        "chembl_id": "CHEMBL3707253",
+        "reason": "same target: Vascular endothelial growth factor A, long form"
+      },
+      {
+        "name": "MUPARFOSTAT",
+        "chembl_id": "CHEMBL4297163",
+        "reason": "same target: Vascular endothelial growth factor A, long form"
+      },
+      {
+        "name": "CONBERCEPT",
+        "chembl_id": "CHEMBL2108313",
+        "reason": "same target: Vascular endothelial growth factor A, long form"
+      },
+      {
+        "name": "BROLUCIZUMAB",
+        "chembl_id": "CHEMBL3707357",
+        "reason": "same target: Vascular endothelial growth factor A, long form"
+      },
+      {
+        "name": "VANUCIZUMAB",
+        "chembl_id": "CHEMBL3545259",
+        "reason": "same target: Vascular endothelial growth factor A, long form"
+      },
+      {
+        "name": "FARICIMAB",
+        "chembl_id": "CHEMBL4297750",
+        "reason": "same target: Vascular endothelial growth factor A, long form"
+      },
+      {
+        "name": "ABICIPAR PEGOL",
+        "chembl_id": "CHEMBL4297684",
+        "reason": "same target: Vascular endothelial growth factor A, long form"
+      }
+    ]
+  }
+}

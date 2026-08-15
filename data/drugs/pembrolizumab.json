@@ -1,10 +1,13 @@
 {
   "drug_name": "Pembrolizumab",
   "slug": "pembrolizumab",
-  "enriched_at": "2026-08-15T21:44:03Z",
+  "enriched_at": "2026-08-15T22:21:16Z",
   "source_trial_ids": [
+    "NCT03711032",
     "NCT05048797",
-    "NCT06472076"
+    "NCT05608291",
+    "NCT06472076",
+    "NCT06980272"
   ],
   "sponsors": [
     {
@@ -18,6 +21,24 @@
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=GlaxoSmithKline&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Merck Sharp & Dohme LLC",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Merck%20Sharp%20%26%20Dohme%20LLC&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Regeneron Pharmaceuticals",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Regeneron%20Pharmaceuticals&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Shenyang Sunshine Pharmaceutical Co., LTD.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Shenyang%20Sunshine%20Pharmaceutical%20Co.%2C%20LTD.&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
@@ -56,6 +77,13 @@
   },
   "source_trials": [
     {
+      "nct_id": "NCT03711032",
+      "title": "Efficacy and Safety of Pembrolizumab (MK-3475) in Combination With Bacillus Calmette-Guerin (BCG) in High-Risk Non-Muscle Invasive Bladder Cancer (HR NMIBC) (MK-3475-676/KEYNOTE-676)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT03711032",
+      "has_results": false
+    },
+    {
       "nct_id": "NCT05048797",
       "title": "A Study to Investigate the Efficacy and Safety of Trastuzumab Deruxtecan as the First Treatment Option for Unresectable, Locally Advanced/Metastatic Non-Small Cell Lung Cancer With HER2 Mutations",
       "status": "ACTIVE_NOT_RECRUITING",
@@ -63,10 +91,24 @@
       "has_results": false
     },
     {
+      "nct_id": "NCT05608291",
+      "title": "A Trial to See if the Combination of Fianlimab With Cemiplimab Works Better Than Pembrolizumab for Preventing or Delaying Melanoma From Coming Back After it Has Been Removed With Surgery",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05608291",
+      "has_results": false
+    },
+    {
       "nct_id": "NCT06472076",
       "title": "A Study of Belrestotug Plus Dostarlimab Compared With Placebo Plus Pembrolizumab in Previously Untreated Participants With Programmed Death Ligand 1 (PD-L1) High Non-small-cell Lung Cancer (NSCLC)",
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT06472076",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06980272",
+      "title": "SSGJ-707 in Advanced Non-Small Cell Lung Cancer",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06980272",
       "has_results": false
     }
   ],

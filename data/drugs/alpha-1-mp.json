@@ -1,0 +1,81 @@
+{
+  "drug_name": "Alpha-1 MP",
+  "slug": "alpha-1-mp",
+  "enriched_at": "2026-08-15T22:12:29Z",
+  "source_trial_ids": [
+    "NCT01983241"
+  ],
+  "sponsors": [
+    {
+      "name": "Grifols Therapeutics LLC",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Grifols%20Therapeutics%20LLC&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "991743",
+      "generic_name": "alpha 1-proteinase inhibitor, human",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4594369",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Alpha-1%20MP+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Alpha-1%20MP+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Alpha-1%20MP+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Pulmonary Emphysema in Alpha-1 PI Deficiency",
+    "slug": "pulmonary-emphysema-in-alpha-1-pi-deficiency"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT01983241",
+      "title": "Efficacy and Safety of Alpha1-Proteinase Inhibitor (Human), Modified Process (Alpha-1 MP) in Subjects With Pulmonary Emphysema Due to Alpha1 Antitrypsin Deficiency (AATD)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT01983241",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "38350291",
+        "title": "A phase 3, randomized, placebo-controlled, trial to evaluate the efficacy and safety of bedtime sublingual cyclobenzaprine (TNX-102 SL) in military-related posttraumatic stress disorder.",
+        "pubdate": "2024 Apr",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38350291/"
+      },
+      {
+        "pmid": "35970714",
+        "title": "Long-term safety of Prolastin®-C, an alpha1-proteinase inhibitor, in Japanese patients with alpha1-antitrypsin deficiency.",
+        "pubdate": "2022 Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35970714/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

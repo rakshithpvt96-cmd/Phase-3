@@ -1,12 +1,24 @@
 {
   "drug_name": "Fluorouracil",
   "slug": "fluorouracil",
-  "enriched_at": "2026-08-15T21:14:39Z",
+  "enriched_at": "2026-08-15T22:17:12Z",
   "source_trial_ids": [
-    "NCT01954992"
+    "NCT01954992",
+    "NCT05568095"
   ],
   "sponsors": [
-    "Eleison Pharmaceuticals LLC."
+    {
+      "name": "Arcus Biosciences, Inc.",
+      "ticker": "RCUS",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001724521&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Eleison Pharmaceuticals LLC.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Eleison%20Pharmaceuticals%20LLC.&type=10-K&dateb=&owner=include&count=40"
+    }
   ],
   "identity": {
     "pubchem_cid": 3385,
@@ -54,6 +66,13 @@
       "title": "Glufosfamide Versus 5-FU in Second Line Metastatic Pancreatic Cancer",
       "status": "RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT01954992",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT05568095",
+      "title": "A Clinical Trial of a New Combination Treatment, Domvanalimab and Zimberelimab, Plus Chemotherapy, for People With an Upper Gastrointestinal Tract Cancer That Cannot be Removed With Surgery That Has Spread to Other Parts of the Body",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05568095",
       "has_results": false
     }
   ],

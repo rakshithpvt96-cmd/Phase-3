@@ -1,12 +1,13 @@
 {
   "drug_name": "Pemetrexed",
   "slug": "pemetrexed",
-  "enriched_at": "2026-08-15T21:45:12Z",
+  "enriched_at": "2026-08-15T22:21:25Z",
   "source_trial_ids": [
     "NCT05048797",
     "NCT05261399",
     "NCT05298423",
-    "NCT06687369"
+    "NCT06687369",
+    "NCT06927986"
   ],
   "sponsors": [
     {
@@ -14,6 +15,12 @@
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=AstraZeneca&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "CSPC Megalith Biopharmaceutical Co.,Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=CSPC%20Megalith%20Biopharmaceutical%20Co.%2CLtd.&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Merck Sharp & Dohme LLC",
@@ -95,6 +102,13 @@
       "title": "A Study to Compare Pharmacokinetics, Efficacy, Safety, and Immunogenicity of MB12 (Proposed Pembrolizumab Biosimilar) to Keytruda® in Non-small Cell Lung Cancer (BENITO Study)",
       "status": "RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT06687369",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06927986",
+      "title": "Phase III Trial of SYS6010 Versus Platinum-based Chemotherapy for EGFR-mutated NSCLC（SYNSTAR01）",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06927986",
       "has_results": false
     }
   ],

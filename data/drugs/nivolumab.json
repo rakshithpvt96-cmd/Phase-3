@@ -1,11 +1,19 @@
 {
   "drug_name": "Nivolumab",
   "slug": "nivolumab",
-  "enriched_at": "2026-08-15T21:38:46Z",
+  "enriched_at": "2026-08-15T22:20:39Z",
   "source_trial_ids": [
-    "NCT04039607"
+    "NCT03383458",
+    "NCT04039607",
+    "NCT05568095"
   ],
   "sponsors": [
+    {
+      "name": "Arcus Biosciences, Inc.",
+      "ticker": "RCUS",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001724521&type=10-K&dateb=&owner=include&count=40"
+    },
     {
       "name": "Bristol-Myers Squibb",
       "ticker": null,
@@ -49,10 +57,24 @@
   },
   "source_trials": [
     {
+      "nct_id": "NCT03383458",
+      "title": "A Study of Nivolumab in Participants With Hepatocellular Carcinoma Who Are at High Risk of Recurrence After Curative Hepatic Resection or Ablation",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT03383458",
+      "has_results": false
+    },
+    {
       "nct_id": "NCT04039607",
       "title": "A Study of Nivolumab in Combination With Ipilimumab in Participants With Advanced Hepatocellular Carcinoma",
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT04039607",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT05568095",
+      "title": "A Clinical Trial of a New Combination Treatment, Domvanalimab and Zimberelimab, Plus Chemotherapy, for People With an Upper Gastrointestinal Tract Cancer That Cannot be Removed With Surgery That Has Spread to Other Parts of the Body",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05568095",
       "has_results": false
     }
   ],

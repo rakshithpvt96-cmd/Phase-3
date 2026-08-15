@@ -1,0 +1,105 @@
+{
+  "drug_name": "BMS-986165",
+  "slug": "bms-986165",
+  "enriched_at": "2026-08-15T22:13:31Z",
+  "source_trial_ids": [
+    "NCT04036435"
+  ],
+  "sponsors": [
+    {
+      "name": "Bristol-Myers Squibb",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Bristol-Myers%20Squibb&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 134821691,
+    "iupac_name": "6-(cyclopropanecarbonylamino)-4-[2-methoxy-3-(1-methyl-1,2,4-triazol-3-yl)anilino]-N-(trideuteriomethyl)pyridazine-3-carboxamide",
+    "molecular_formula": "C20H22N8O3",
+    "molecular_weight": "425.5",
+    "canonical_smiles": null,
+    "inchikey": "BZZKEPGENYLQSC-FIBGUPNXSA-N",
+    "rxnorm": {
+      "rxcui": "2169504",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4596392",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=BMS-986165+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=BMS-986165+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=BMS-986165+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Psoriasis",
+    "slug": "psoriasis"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04036435",
+      "title": "Long-Term Study That Measures the Safety and Efficacy of Deucravacitinib (BMS-986165) in Participants With Psoriasis",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04036435",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42563042",
+        "title": "Deucravacitinib 5-Year Safety and Efficacy Results in Plaque Psoriasis: A Phase 3 Open-Label Extension of Randomized Clinical Trials.",
+        "pubdate": "2026 Aug 7",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42563042/"
+      },
+      {
+        "pmid": "42562758",
+        "title": "Efficacy and safety of deucravacitinib, an oral, selective tyrosine kinase 2 inhibitor, in patients with active psoriatic arthritis: 52-week results from the randomised, double-blind, placebo-controlled phase 3 POETYK PsA-1 trial.",
+        "pubdate": "2026 Aug 6",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42562758/"
+      },
+      {
+        "pmid": "42557591",
+        "title": "Safety and Efficacy of Deucravacitinib in Japanese Patients With Moderate to Severe Plaque Psoriasis: 5-Year Analysis of the Phase 3 POETYK PSO-1, PSO-4, and Long-Term Extension Trials.",
+        "pubdate": "2026 Aug 5",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42557591/"
+      },
+      {
+        "pmid": "42473780",
+        "title": "Deucravacitinib in Active Psoriatic Arthritis: Efficacy and Safety up to 52 Weeks From the Randomized, Double-Blind, Phase 3 POETYK PsA-2 Trial.",
+        "pubdate": "2026 Jul 20",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42473780/"
+      },
+      {
+        "pmid": "42397595",
+        "title": "TYK2 signaling as a molecular bridge between cytokine storm and chronic inflammation: therapeutic implications of deucravacitinib.",
+        "pubdate": "2026 Jul 3",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42397595/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

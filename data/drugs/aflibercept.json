@@ -1,12 +1,24 @@
 {
   "drug_name": "Aflibercept",
   "slug": "aflibercept",
-  "enriched_at": "2026-08-15T20:50:32Z",
+  "enriched_at": "2026-08-15T22:11:50Z",
   "source_trial_ids": [
-    "NCT05885503"
+    "NCT05885503",
+    "NCT06556368"
   ],
   "sponsors": [
-    "RemeGen Co., Ltd."
+    {
+      "name": "Kodiak Sciences Inc",
+      "ticker": "KOD",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001468748&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "RemeGen Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=RemeGen%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
   ],
   "identity": {
     "rxnorm": {
@@ -48,6 +60,13 @@
       "title": "Efficacy and Safety of RC28-E Versus Aflibercept in Diabetic Macular Edema",
       "status": "UNKNOWN",
       "url": "https://clinicaltrials.gov/study/NCT05885503",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06556368",
+      "title": "A Study to Evaluate the Efficacy and Safety of Tarcocimab Tedromer and Tabirafusp Tedromer Compared to Aflibercept in Participants With Neovascular (Wet) Age-related Macular Degeneration (wAMD) - DAYBREAK",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06556368",
       "has_results": false
     }
   ],

@@ -1,0 +1,105 @@
+{
+  "drug_name": "Mezigdomide",
+  "slug": "mezigdomide",
+  "enriched_at": "2026-08-15T22:19:55Z",
+  "source_trial_ids": [
+    "NCT05552976"
+  ],
+  "sponsors": [
+    {
+      "name": "Bristol-Myers Squibb",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Bristol-Myers%20Squibb&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 137379043,
+    "iupac_name": "4-[4-[[4-[[2-[(3S)-2,6-dioxopiperidin-3-yl]-1-oxo-3H-isoindol-4-yl]oxymethyl]phenyl]methyl]piperazin-1-yl]-3-fluorobenzonitrile",
+    "molecular_formula": "C32H30FN5O4",
+    "molecular_weight": "567.6",
+    "canonical_smiles": null,
+    "inchikey": "YTINZZFBHWSAGL-NDEPHWFRSA-N",
+    "rxnorm": {
+      "rxcui": "2631778",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4648616",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Mezigdomide+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Mezigdomide+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Mezigdomide+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Relapsed or Refractory Multiple Myeloma",
+    "slug": "relapsed-or-refractory-multiple-myeloma"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05552976",
+      "title": "A Study to Evaluate Mezigdomide in Combination With Carfilzomib and Dexamethasone (MeziKD) Versus Carfilzomib and Dexamethasone (Kd) in Participants With Relapsed or Refractory Multiple Myeloma (SUCCESSOR-2)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05552976",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42289183",
+        "title": "Mezigdomide, carfilzomib, and dexamethasone versus carfilzomib and dexamethasone in patients with relapsed or refractory multiple myeloma (SUCCESSOR-2): a phase 3, open-label, randomised controlled trial.",
+        "pubdate": "2026 Jul 18",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42289183/"
+      },
+      {
+        "pmid": "41163399",
+        "title": "Mezigdomide for multiple myeloma: a focus on phase 2 trial data.",
+        "pubdate": "2025 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41163399/"
+      },
+      {
+        "pmid": "41058119",
+        "title": "Application of Physiologically Based Pharmacokinetic Modeling to Inform Dose Selection of Mezigdomide in a Phase I Drug-Drug Interaction Study.",
+        "pubdate": "2026 Mar",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41058119/"
+      },
+      {
+        "pmid": "39054911",
+        "title": "Targeting Ikaros and Aiolos: reviewing novel protein degraders for the treatment of multiple myeloma, with a focus on iberdomide and mezigdomide.",
+        "pubdate": "2024 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39054911/"
+      },
+      {
+        "pmid": "38539501",
+        "title": "Mezigdomide-A Novel Cereblon E3 Ligase Modulator under Investigation in Relapsed/Refractory Multiple Myeloma.",
+        "pubdate": "2024 Mar 15",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38539501/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

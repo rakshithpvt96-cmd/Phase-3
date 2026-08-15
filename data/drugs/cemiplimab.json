@@ -1,0 +1,150 @@
+{
+  "drug_name": "Cemiplimab",
+  "slug": "cemiplimab",
+  "enriched_at": "2026-08-15T22:14:55Z",
+  "source_trial_ids": [
+    "NCT05608291"
+  ],
+  "sponsors": [
+    {
+      "name": "Regeneron Pharmaceuticals",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Regeneron%20Pharmaceuticals&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2058826",
+      "generic_name": "cemiplimab",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4297723",
+    "target_chembl_id": "CHEMBL3307223",
+    "target_name": "Programmed cell death protein 1",
+    "mechanism_of_action_chembl": "Programmed cell death protein 1 inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Binding of the PD-1 ligands PD-L1 and PD-L2 to the PD-1 receptor found on T cells inhibits T-cell proliferation and cytokine production. Upregulation of PD-1 ligands occurs in some tumors and signaling through this pathway can contribute to inhibition of active T-cell immune surveillance of tumors. Cemiplimab-rwlc is a recombinant human immunoglobulin G4 (IgG4) monoclonal antibody that binds to PD-1 and blocks its interaction with PD-L1 and PD-L2, releasing PD-1 pathway-mediated inhibition of the immune response, including the anti-tumor immune response. In syngeneic mouse tumor models, blocking PD-1 activity resulted in decreased tumor growth.",
+    "pharmacokinetics": "12.3 Pharmacokinetics Cemiplimab-rwlc pharmacokinetics were observed at steady state in patients with various solid tumors and are presented as mean (% coefficient of variation) unless otherwise specified. The pharmacokinetics of cemiplimab-rwlc increase in a dose proportional manner over the dose range of 1 mg/kg to 10 mg/kg (0.2 to 2 times the highest recommended approved dose; assuming a 70 kg patient) administered intravenously every 2 weeks. At a dosing regimen of 350 mg every 3 weeks, cemiplimab-rwlc minimum concentration is 59 mg/L (47%) and maximum concentration is 171 mg/L (27%). Steady-state is reached in about 4 months. At a dosing regimen of 350 mg every 3 weeks for 12 weeks followed by 700 mg every 6 weeks, cemiplimab-rwlc minimum concentration after 30 weeks is 50 mg/L (32%). Distribution The volume of distribution of cemiplimab-rwlc is 5.9 L (29%). Elimination Cemiplimab-rwlc clearance after the first dose is 0.25 L/day (41%) and decreases over time by 11%, resulting in a steady-state clearance of 0.22 L/day (44%). The elimination half-life is 22 days (42%). Specific Populations No clinically significant differences in the pharmacokinetics of cemiplimab-rwlc were observed based on age (27 to 96 years), race [White (N=932), Asian (N=47), Black (N=21)], sex, body weight (31 to 172 kg), cancer type, albumin level (20 to 93 g/L), renal function (creatinine clearance determined by Cockcroft-Gault) and hepatic function (total bilirubin ≥1 to 3× ULN). The effect of severe hepatic impairment (total bilirubin 3× ULN) on the pharmacokinetics of cemiplimab-rwlc is unknown.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE LIBTAYO is a programmed death receptor-1 (PD-1) blocking antibody indicated: Cutaneous Squamous Cell Carcinoma (CSCC) for the treatment of adult patients with metastatic cutaneous squamous cell carcinoma (mCSCC) or locally advanced CSCC (laCSCC) who are not candidates for curative surgery or curative radiation. ( 1.1 ) for the adjuvant treatment of adult patients with CSCC at high risk of recurrence after surgery and radiation. ( 1.1 , 14.1 ) Basal Cell Carcinoma (BCC) for the treatment of adult patients with locally advanced or metastatic BCC (laBCC or mBCC) who have been previously treated with a hedgehog pathway inhibitor or for whom a hedgehog pathway inhibitor is not appropriate. ( 1.2 ) Non-Small Cell Lung Cancer (NSCLC) in combination with platinum‐based chemotherapy for the first‐line treatment of adult patients with non-small cell lung cancer (NSCLC) with no EGFR, ALK or ROS1 aberrations and is: locally advanced where patients are not candidates for surgical resection or definitive chemoradiation or metastatic. ( 1.3 ) as single agent for the first-line treatment of adult patients with NSCLC whose tumors have high PD-L1 expression [Tumor Proportion Score (TPS) ≥50%] as determined by an FDA-approved test, with no EGFR, ALK or ROS1 aberrations, and is: locally advanced where patients are not candidates for surgical resection or definitive chemoradiation or metastatic. ( 1.3 , 2.1 ) 1.1 Cutaneous Squamous Cell Carcinoma LIBTAYO is indicated for the treatment of adult patients with metastatic cutaneous squamous cell carcinoma (mCSCC) or locally advanced CSCC (laCSCC) who are not candidates for curative surgery or curative radiation. LIBTAYO is indicated for the adjuvant treatment of adult patients with CSCC at high risk of recurrence [see Clinical Studies (14.1) ] after surgery and radiation . 1.2 Basal Cell Carcinoma LIBTAYO is indicated for the treatment of adult patients with locally advanced or metastatic basal cell carcinoma (laBCC or mBCC) who have been previously treated with a hedgehog pathway inhibitor or for whom a hedgehog pathway inhibitor is not appropriate. 1.3 Non-Small Cell Lung Cancer LIBTAYO in combination with platinum‐based chemotherapy is indicated for the first‐line treatment of adult patients with non-small cell lung cancer (NSCLC) with no EGFR, ALK or ROS1 aberrations and is: locally advanced where patients are not candidates for surgical resection or definitive chemoradiation or metastatic. LIBTAYO as a single agent is indicated for the first-line treatment of adult patients with NSCLC whose tumors have high PD-L1 expression [Tumor Proportion Score (TPS) ≥50%] as determined by an FDA-approved test [see Dosage and Administration (2.1) ] , with no EGFR, ALK or ROS1 aberrations, and is: locally advanced where patients are not candidates for surgical resection or definitive chemoradiation or metastatic.",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "LIBTAYO"
+    ],
+    "openfda_generic_names": [
+      "CEMIPLIMAB-RWLC"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4347ae1f-d397-4f18-8b70-03897e1c054a",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Melanoma",
+    "slug": "melanoma"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05608291",
+      "title": "A Trial to See if the Combination of Fianlimab With Cemiplimab Works Better Than Pembrolizumab for Preventing or Delaying Melanoma From Coming Back After it Has Been Removed With Surgery",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05608291",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42530945",
+        "title": "Cemiplimab and Fianlimab With Neoadjuvant Chemotherapy in Early-Stage High-Risk ERBB2-Negative Breast Cancer: The I-SPY2 Randomized Clinical Trial.",
+        "pubdate": "2026 Jul 30",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42530945/"
+      },
+      {
+        "pmid": "42515946",
+        "title": "Cure rate joint model for time-to-event data and longitudinal tumor burden with potential change points.",
+        "pubdate": "2026 Jan 20",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42515946/"
+      },
+      {
+        "pmid": "42345857",
+        "title": "EMPIRE (NSABP FC-13): a biomarker-driven phase II platform trial evaluating cemiplimab-based immunotherapy in microsatellite-stable colorectal cancer with ctDNA-defined minimal residual disease.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42345857/"
+      },
+      {
+        "pmid": "42330318",
+        "title": "Phase I Study of Oncolytic Virus VV1 as Monotherapy or in Combination with Avelumab in Patients with Relapsed Refractory Solid Tumors.",
+        "pubdate": "2026 Aug 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42330318/"
+      },
+      {
+        "pmid": "42317330",
+        "title": "Effect of histology on the efficacy of first-line immune checkpoint inhibitors in advanced non-small cell lung cancer: a systematic review and network meta-analysis.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42317330/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "PEMBROLIZUMAB",
+        "chembl_id": "CHEMBL3137343",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "NIVOLUMAB",
+        "chembl_id": "CHEMBL2108738",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "PIDILIZUMAB",
+        "chembl_id": "CHEMBL2108680",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "DOSTARLIMAB",
+        "chembl_id": "CHEMBL4298124",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "CAMRELIZUMAB",
+        "chembl_id": "CHEMBL4297715",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "SERPLULIMAB",
+        "chembl_id": "CHEMBL4594550",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "RETIFANLIMAB",
+        "chembl_id": "CHEMBL4298037",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "SPARTALIZUMAB",
+        "chembl_id": "CHEMBL4297831",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "SASANLIMAB",
+        "chembl_id": "CHEMBL4298191",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "SINTILIMAB",
+        "chembl_id": "CHEMBL4297829",
+        "reason": "same target: Programmed cell death protein 1"
+      }
+    ]
+  }
+}

@@ -1,20 +1,52 @@
 {
   "drug_name": "Gemcitabine",
   "slug": "gemcitabine",
-  "enriched_at": "2026-08-15T21:15:00Z",
+  "enriched_at": "2026-08-15T22:17:19Z",
   "source_trial_ids": [
     "NCT03257033",
     "NCT05254171",
+    "NCT06343948",
     "NCT06370871",
     "NCT06519370",
     "NCT06625320"
   ],
   "sponsors": [
-    "Boehringer Ingelheim",
-    "Panbela Therapeutics, Inc.",
-    "RenovoRx",
-    "Revolution Medicines, Inc.",
-    "Shanghai Fudan-Zhangjiang Bio-Pharmaceutical Co., Ltd."
+    {
+      "name": "Boehringer Ingelheim",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Boehringer%20Ingelheim&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Panbela Therapeutics, Inc.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Panbela%20Therapeutics%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "RenovoRx",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=RenovoRx&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Revolution Medicines, Inc.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Revolution%20Medicines%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Shanghai Fudan-Zhangjiang Bio-Pharmaceutical Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Shanghai%20Fudan-Zhangjiang%20Bio-Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Sichuan Baili Pharmaceutical Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Sichuan%20Baili%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
   ],
   "identity": {
     "pubchem_cid": 60750,
@@ -69,6 +101,13 @@
       "title": "Study of Nab-Paclitaxel and Gemcitabine With or Without SBP-101 in Pancreatic Cancer",
       "status": "RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT05254171",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06343948",
+      "title": "A Study Comparing BL-B01D1 With Chemotherapy of Physician's Choice in Patients With Unresectable Locally Advanced, Recurrent, or Metastatic HR+HER2- Breast Cancer(PANKU-Breast01)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06343948",
       "has_results": false
     },
     {

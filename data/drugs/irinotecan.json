@@ -1,11 +1,18 @@
 {
   "drug_name": "Irinotecan",
   "slug": "irinotecan",
-  "enriched_at": "2026-08-15T21:36:04Z",
+  "enriched_at": "2026-08-15T22:18:20Z",
   "source_trial_ids": [
+    "NCT06346392",
     "NCT06625320"
   ],
   "sponsors": [
+    {
+      "name": "AstraZeneca",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=AstraZeneca&type=10-K&dateb=&owner=include&count=40"
+    },
     {
       "name": "Revolution Medicines, Inc.",
       "ticker": null,
@@ -50,10 +57,17 @@
     "further_reading": null
   },
   "condition": {
-    "raw": "Pancreatic Cancer",
-    "slug": "pancreatic-cancer"
+    "raw": "Gastric Cancer",
+    "slug": "gastric-cancer"
   },
   "source_trials": [
+    {
+      "nct_id": "NCT06346392",
+      "title": "AZD0901 Compared With Investigator's Choice of Therapy in Participants With Second- or Later-line Advanced or Metastatic Gastric or Gastroesophageal Junction Adenocarcinoma Expressing Claudin18.2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06346392",
+      "has_results": false
+    },
     {
       "nct_id": "NCT06625320",
       "title": "Phase 3 Study of Daraxonrasib (RMC-6236) in Patients With Previously Treated Metastatic Pancreatic Ductal Adenocarcinoma (PDAC)",

@@ -1,0 +1,99 @@
+{
+  "drug_name": "IV Placebo",
+  "slug": "iv-placebo",
+  "enriched_at": "2026-08-15T22:18:29Z",
+  "source_trial_ids": [
+    "NCT06052059"
+  ],
+  "sponsors": [
+    {
+      "name": "Merck Sharp & Dohme LLC",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Merck%20Sharp%20%26%20Dohme%20LLC&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "8375",
+      "generic_name": "placebo",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL3121562",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=IV%20Placebo+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=IV%20Placebo+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=IV%20Placebo+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Ulcerative Colitis",
+    "slug": "ulcerative-colitis"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06052059",
+      "title": "A Study to Evaluate Efficacy and Safety of Tulisokibart (MK-7240) in Participants With Moderately to Severely Active Ulcerative Colitis (MK-7240-001)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06052059",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42580781",
+        "title": "A randomized controlled trial of intravenous magnesium sulfate shows no analgesic or anti-inflammatory benefit in dogs undergoing thoracolumbar disk herniation surgery.",
+        "pubdate": "2026 Aug 11",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42580781/"
+      },
+      {
+        "pmid": "42571384",
+        "title": "SheVari4(®), a proprietary root extract from Asparagus racemosus, ameliorates menopausal health: insights from a randomized, double-blind, placebo controlled clinical trial.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42571384/"
+      },
+      {
+        "pmid": "42563153",
+        "title": "DECIDER-2: Prospective randomized multicenter phase III trial of decitabine and venetoclax administered in combination with all-trans retinoic acid or placebo in patients with acute myeloid leukemia who are ineligible for induction chemotherapy.",
+        "pubdate": "2026 Aug 5",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42563153/"
+      },
+      {
+        "pmid": "42563131",
+        "title": "The occurrence and potential role of mystical experiences in MDMA-assisted therapy for PTSD: A secondary analysis.",
+        "pubdate": "2026 Aug 6",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42563131/"
+      },
+      {
+        "pmid": "42561565",
+        "title": "Relationships between cannabis and cocaine use in a randomized trial of combined buprenorphine and naltrexone for DSM-IV cocaine dependence.",
+        "pubdate": "2026 Jul 29",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42561565/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

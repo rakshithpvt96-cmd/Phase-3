@@ -1,0 +1,105 @@
+{
+  "drug_name": "18F-MFBG",
+  "slug": "18f-mfbg",
+  "enriched_at": "2026-08-15T22:10:57Z",
+  "source_trial_ids": [
+    "NCT04724369"
+  ],
+  "sponsors": [
+    {
+      "name": "Innervate Radiopharmaceuticals LLC (Formerly: Illumina Radiopharmaceuticals LLC)",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Innervate%20Radiopharmaceuticals%20LLC%20%28Formerly%3A%20Illumina%20Radiopharmaceuticals%20LLC%29&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 450547,
+    "iupac_name": "2-[(3-fluorophenyl)methyl]guanidine",
+    "molecular_formula": "C8H10FN3",
+    "molecular_weight": "166.19",
+    "canonical_smiles": null,
+    "inchikey": "HNPHEZIYSZIWHH-RVRFMXCPSA-N",
+    "rxnorm": {
+      "rxcui": "1546273",
+      "generic_name": "fluoride ion F-18",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4650354",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=18F-MFBG+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=18F-MFBG+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=18F-MFBG+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Neuroblastoma",
+    "slug": "neuroblastoma"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04724369",
+      "title": "Open-Label Study of 18F-mFBG for Imaging Neuroblastoma",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04724369",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42377904",
+        "title": "18F-MFBG Uptake From Multiple Focal \"Hot Spots\" to Superscan in a Pediatric Patient With High-risk Neuroblastoma.",
+        "pubdate": "2026 Jun 29",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42377904/"
+      },
+      {
+        "pmid": "42335300",
+        "title": "Prominent 18F-MFBG Uptake in Brown Adipose Tissue in a Pediatric Patient With Pheochromocytoma.",
+        "pubdate": "2026 Jun 24",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42335300/"
+      },
+      {
+        "pmid": "42080616",
+        "title": "False Positive Findings on 18F-MFBG PET/CT Attributable to Benign Neural Differentiation in a Pediatric Patient With Neuroblastoma.",
+        "pubdate": "2026 Sep 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42080616/"
+      },
+      {
+        "pmid": "41941230",
+        "title": "Abnormal 18F-FDG and 18F-MFBG Uptake in the Skeletal System of an Adult Patient With Neuroblastoma in the Absence of a Detectable Primary Tumor.",
+        "pubdate": "2026 Jul 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41941230/"
+      },
+      {
+        "pmid": "41894584",
+        "title": "False Uptake of 18F-MFBG and 68Ga-DOTATATE in the Stellate Ganglion in a Pediatric Patient With Neuroblastoma.",
+        "pubdate": "2026 Aug 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41894584/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

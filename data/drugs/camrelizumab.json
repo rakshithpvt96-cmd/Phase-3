@@ -1,0 +1,150 @@
+{
+  "drug_name": "Camrelizumab",
+  "slug": "camrelizumab",
+  "enriched_at": "2026-08-15T22:14:19Z",
+  "source_trial_ids": [
+    "NCT04639180"
+  ],
+  "sponsors": [
+    {
+      "name": "Jiangsu HengRui Medicine Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Jiangsu%20HengRui%20Medicine%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2169823",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4297715",
+    "target_chembl_id": "CHEMBL3307223",
+    "target_name": "Programmed cell death protein 1",
+    "mechanism_of_action_chembl": "Programmed cell death protein 1 antagonist"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Camrelizumab+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Camrelizumab+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Camrelizumab+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Hepatocellular Carcinoma (HCC)",
+    "slug": "hepatocellular-carcinoma-hcc"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04639180",
+      "title": "A Study to Evaluate Camrelizumab Plus Rivoceranib (Apatinib) as Adjuvant Therapy in Patients With Hepatocellular Carcinoma (HCC) at High Risk of Recurrence After Curative Resection or Ablation",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04639180",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42577673",
+        "title": "Reactive Cutaneous Capillary Endothelial Proliferation in Esophageal Squamous Cell Carcinoma Patients Treated With Camrelizumab-Based Therapy: A Pooled Analysis of Two Phase 3 Trials.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42577673/"
+      },
+      {
+        "pmid": "42546669",
+        "title": "Efficacy and Safety of Camrelizumab Combined with Concurrent Chemoradiotherapy in Locally Advanced Cervical Cancer: A Phase II Single-Arm Clinical Trial.",
+        "pubdate": "2026 Jul 11",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42546669/"
+      },
+      {
+        "pmid": "42488577",
+        "title": "Camrelizumab plus CAPOX versus CAPOX for HER2-negative gastric or gastro-oesophageal junction adenocarcinoma: a cost-effectiveness analysis.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42488577/"
+      },
+      {
+        "pmid": "42471761",
+        "title": "Camrelizumab combined with chemotherapy as postoperative adjuvant therapy after radical surgery for cervical cancer patients with pathologically positive lymph nodes: a prospective multicenter phase II clinical trial.",
+        "pubdate": "2026 Jul 9",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42471761/"
+      },
+      {
+        "pmid": "42292847",
+        "title": "Gut microbiome components predict response to neoadjuvant short-course radiotherapy followed by camrelizumab and chemotherapy in locally advanced rectal cancer (UNION): a prospective study.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42292847/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "PEMBROLIZUMAB",
+        "chembl_id": "CHEMBL3137343",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "NIVOLUMAB",
+        "chembl_id": "CHEMBL2108738",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "PIDILIZUMAB",
+        "chembl_id": "CHEMBL2108680",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "CEMIPLIMAB",
+        "chembl_id": "CHEMBL4297723",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "DOSTARLIMAB",
+        "chembl_id": "CHEMBL4298124",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "SERPLULIMAB",
+        "chembl_id": "CHEMBL4594550",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "RETIFANLIMAB",
+        "chembl_id": "CHEMBL4298037",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "SPARTALIZUMAB",
+        "chembl_id": "CHEMBL4297831",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "SASANLIMAB",
+        "chembl_id": "CHEMBL4298191",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "SINTILIMAB",
+        "chembl_id": "CHEMBL4297829",
+        "reason": "same target: Programmed cell death protein 1"
+      }
+    ]
+  }
+}

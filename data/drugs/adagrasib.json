@@ -1,0 +1,111 @@
+{
+  "drug_name": "Adagrasib",
+  "slug": "adagrasib",
+  "enriched_at": "2026-08-15T22:11:34Z",
+  "source_trial_ids": [
+    "NCT06497556"
+  ],
+  "sponsors": [
+    {
+      "name": "Hoffmann-La Roche",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hoffmann-La%20Roche&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 138611145,
+    "iupac_name": "2-[(2S)-4-[7-(8-chloronaphthalen-1-yl)-2-[[(2S)-1-methylpyrrolidin-2-yl]methoxy]-6,8-dihydro-5H-pyrido[3,4-d]pyrimidin-4-yl]-1-(2-fluoroprop-2-enoyl)piperazin-2-yl]acetonitrile",
+    "molecular_formula": "C32H35ClFN7O2",
+    "molecular_weight": "604.1",
+    "canonical_smiles": null,
+    "inchikey": "PEMUGDMSUDYLHU-ZEQRLZLVSA-N",
+    "rxnorm": {
+      "rxcui": "2625882",
+      "generic_name": "adagrasib",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4594350",
+    "target_chembl_id": "CHEMBL2189121",
+    "target_name": "GTPase KRas",
+    "mechanism_of_action_chembl": "GTPase KRas inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Adagrasib is an irreversible inhibitor of KRAS G12C that covalently binds to the mutant cysteine in KRAS G12C and locks the mutant KRAS protein in its inactive state that prevents downstream signaling without affecting wild-type KRAS protein. Adagrasib inhibited tumor cell growth and viability in cells harboring KRAS G12C mutations and resulted in tumor regression in KRAS G12C-mutated tumor xenograft models with minimal off-target activity. Adagrasib in combination with cetuximab had increased antitumor activity in some cell line-derived and patient-derived KRAS G12C-mutant CRC tumor xenograft models compared to adagrasib or cetuximab alone.",
+    "pharmacokinetics": "12.3 Pharmacokinetics The pharmacokinetics of adagrasib were studied in healthy subjects and in patients with KRAS G12C-mutated NSCLC or CRC. Adagrasib pharmacokinetic data are presented as mean (percent coefficient of variation) unless otherwise specified. Adagrasib AUC and C max increase dose proportionally over the dose range of 400 mg to 600 mg (0.67 to 1 times the approved recommended dose). Adagrasib steady-state was reached within 8 days following administration of the approved recommended dosage and accumulation was approximately 6-fold. Absorption The median (min, max) T max of adagrasib is approximately 6 (6, 12) hours. Effect of Food No clinically significant differences in the pharmacokinetics of adagrasib were observed following administration of a high-fat and high-calorie meal (containing approximately 900 to 1000 calories, 50% from fat). Distribution The apparent volume of distribution of adagrasib is 942 L (57%). Human plasma protein binding of adagrasib is approximately 98% in vitro. Elimination The adagrasib terminal elimination half-life is 23 hours (16%) and the apparent oral clearance (CL/F) is 37 L/h (54%) in patients. Metabolism Adagrasib is metabolized primarily by CYP3A4 following single dose administration. Adagrasib inhibits its own CYP3A4 metabolism following multiple dosing to steady-state which permits CYP2C8, CYP1A2, CYP2B6, CYP2C9, and CYP2D6 to contribute to its metabolism at steady-state. Excretion Following a single oral dose of radiolabeled adagrasib, approximately 75% of the dose was recovered in feces (14% as unchanged) and 4.5% recovered in urine (2% as unchanged). Specific Populations No clinically significant differences in the pharmacokinetics of adagrasib based on age (19 to 89 years), sex, race (White, Black or African American, or Asian), body weight (36 to 146 kg), ECOG PS (0, 1), tumor type (NSCLC or CRC), or tumor burden. No clinically significant differences in the pharmacokinetics of adagrasib are expected in patients with mild to severe renal impairment (CLcr 15 to < 90 mL/min estimated by Cockcroft-Gault equation) or in patients with mild to severe hepatic impairment (Child-Pugh classes A to C). Drug Interaction Studies Clinical Studies and Model-Informed Approaches The following table describes the effect of other drugs on the pharmacokinetics of adagrasib. Table 7: Effect of Other Drugs on Adagrasib C max = maximum plasma concentration; AUC = area under the plasma concentration-time curve Concomitant Drug Adagrasib Dosage Changes in C max or AUC of Adagrasib C max % Decrease AUC % Decrease Rifampin (a strong CYP3A inducer) 600 mg single dose 88% 95% 600 mg multiple doses > 61% Predicted changes in C max or AUC of adagrasib. > 66% Strong CYP3A Inhibitors: Adagrasib C max increased by 2.4-fold and AUC increased by 4-fold following concomitant use of a single dose of 200 mg (0.33 times the approved recommended dose) with itraconazole (a strong CYP3A inhibitor). No clinically significant differences in the pharmacokinetics of adagrasib at steady state were predicted when used concomitantly with itraconazole. No clinically significant differences in the pharmacokinetics of adagrasib were predicted or observed when used concomitantly with efavirenz (a moderate CYP3A inducer), pantoprazole (a proton pump inhibitor), rosuvastatin (a BCRP/OATP substrate), or eltrombopag (a BCRP inhibitor). The following table describes the effect of adagrasib on the pharmacokinetics of other drugs. Table 8: Effect of Adagrasib on Other Drugs C max = maximum plasma concentration; AUC = area under the plasma concentration-time curve Concomitant Drug Adagrasib Dosage Fold Increase of Concomitant Drug C max AUC Midazolam (a sensitive CYP3A substrate) 400 mg 0.66 times the approved recommended dosage. twice daily 4.8-fold 21-fold 600 mg twice daily 3.1-fold Predicted changes in C max or AUC of concomitant drug. 31-fold Warfarin (a sensitive CYP2C9 substrate) 600 mg twice daily 1.1-fold 2.9-fold Dextromethorphan (a sensitive CYP2D6 substrate) 400 mg twice daily 1.9-fold 1.8-fold 600 mg twice daily 1.7-fold 2.4-fold Digoxin (a P-gp substrate) 600 mg twice daily 1.9-fold 1.5-fold In Vitro Studies Cytochrome P450 (CYP) Enzymes: Adagrasib may inhibit CYP2B6. Transporter Systems: Adagrasib may be a substrate of BCRP and may inhibit MATE-1/MATE-2K.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE KRAZATI is an inhibitor of the RAS GTPase family indicated for: Non-small cell lung cancer (NSCLC)* • As a single agent, for the treatment of adult patients with KRAS G12C-mutated locally advanced or metastatic NSCLC, as determined by an FDA-approved test, who have received at least one prior systemic therapy. ( 1.1 ) Colorectal cancer (CRC)* • In combination with cetuximab, for the treatment of adult patients with KRAS G12C-mutated locally advanced or metastatic CRC, as determined by an FDA-approved test, who have received prior treatment with fluoropyrimidine-, oxaliplatin-, and irinotecan-based chemotherapy. ( 1.2 ) *These indications are approved under accelerated approval based on objective response rate (ORR) and duration of response (DOR). Continued approval for these indications may be contingent upon verification and description of a clinical benefit in confirmatory trials. ( 1.1 , 1.2 ) 1.1 KRAS G12C-Mutated Locally Advanced or Metastatic Non-Small Cell Lung Cancer KRAZATI, as a single-agent, is indicated for the treatment of adult patients with KRAS G12C-mutated locally advanced or metastatic non-small cell lung cancer (NSCLC), as determined by an FDA-approved test [see Dosage and Administration (2.1) ] , who have received at least one prior systemic therapy. This indication is approved under accelerated approval based on objective response rate (ORR) and duration of response (DOR) [see Clinical Studies (14.1) ]. Continued approval for this indication may be contingent upon verification and description of a clinical benefit in a confirmatory trial. 1.2 KRAS G12C-Mutated Locally Advanced or Metastatic Colorectal Cancer KRAZATI in combination with cetuximab is indicated for the treatment of adult patients with KRAS G12C-mutated locally advanced or metastatic colorectal cancer (CRC), as determined by an FDA-approved test [see Dosage and Administration (2.1) ] , who have received prior treatment with fluoropyrimidine-, oxaliplatin-, and irinotecan-based chemotherapy. This indication is approved under accelerated approval based on ORR and DOR [see Clinical Studies (14.2) ] . Continued approval for this indication may be contingent upon verification and description of a clinical benefit in a confirmatory trial.",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "KRAZATI"
+    ],
+    "openfda_generic_names": [
+      "ADAGRASIB"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0b8bf078-34c2-4f45-9012-38a8ac082b01",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Non-Small Cell Lung Cancer",
+    "slug": "non-small-cell-lung-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06497556",
+      "title": "A Study Evaluating the Efficacy and Safety of Divarasib Versus Sotorasib or Adagrasib in Participants With Previously Treated KRAS G12C-positive Advanced or Metastatic Non-Small Cell Lung Cancer",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06497556",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42283833",
+        "title": "Drug repurposing in KRAS G12C-mutant NSCLC: a focus on resistance mechanisms and clinical strategies.",
+        "pubdate": "2026 Jun 12",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42283833/"
+      },
+      {
+        "pmid": "42041157",
+        "title": "MRTX1133 Suppresses ERK Signaling but Elicits Context-Dependent Antiproliferative Responses in KRAS (G12C) Cancer Cells.",
+        "pubdate": "2026 Apr 27",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42041157/"
+      },
+      {
+        "pmid": "41830517",
+        "title": "MRTX1133 suppresses ERK signaling but elicits context-dependent antiproliferative responses in KRAS (G12C) cancer cells.",
+        "pubdate": "2026 Mar 14",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41830517/"
+      },
+      {
+        "pmid": "41158260",
+        "title": "Adagrasib in the treatment of KRAS(G12C)-mutated non-small cell lung cancer: a cost-effectiveness analysis.",
+        "pubdate": "2025 Sep 30",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41158260/"
+      },
+      {
+        "pmid": "40783289",
+        "title": "Adagrasib versus docetaxel in KRAS(G12C)-mutated non-small-cell lung cancer (KRYSTAL-12): a randomised, open-label, phase 3 trial.",
+        "pubdate": "2025 Aug 9",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40783289/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "SOTORASIB",
+        "chembl_id": "CHEMBL4535757",
+        "reason": "same target: GTPase KRas"
+      }
+    ]
+  }
+}

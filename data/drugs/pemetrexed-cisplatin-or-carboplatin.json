@@ -1,0 +1,150 @@
+{
+  "drug_name": "Pemetrexed+Cisplatin or Carboplatin",
+  "slug": "pemetrexed-cisplatin-or-carboplatin",
+  "enriched_at": "2026-08-15T22:21:35Z",
+  "source_trial_ids": [
+    "NCT06382116"
+  ],
+  "sponsors": [
+    {
+      "name": "Sichuan Baili Pharmaceutical Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Sichuan%20Baili%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2555",
+      "generic_name": "cisplatin",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1351",
+    "target_chembl_id": "CHEMBL2311221",
+    "target_name": "DNA",
+    "mechanism_of_action_chembl": "DNA inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Pemetrexed%2BCisplatin%20or%20Carboplatin+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Pemetrexed%2BCisplatin%20or%20Carboplatin+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Pemetrexed%2BCisplatin%20or%20Carboplatin+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Non-small Cell Lung Cancer",
+    "slug": "non-small-cell-lung-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06382116",
+      "title": "A Study Comparing BL-B01D1 With Platinum Based Chemotherapy in Patients With Locally Advanced or Metastatic Non-small Cell Lung Cancer(PANKU-Lung01)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06382116",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42578486",
+        "title": "First-line systemic treatment for people with extensive-stage small cell lung cancer: a network meta-analysis.",
+        "pubdate": "2026 Aug 11",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42578486/"
+      },
+      {
+        "pmid": "42574006",
+        "title": "Osimertinib With or Without Chemotherapy in Advanced Non-Small Cell Lung Cancer With EGFR and Concurrent TP53 Mutations: A Randomized Clinical Trial.",
+        "pubdate": "2026 Aug 10",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42574006/"
+      },
+      {
+        "pmid": "42535874",
+        "title": "TroFuse-011 study design: sacituzumab tirumotecan with or without pembrolizumab for advanced triple-negative breast cancer with PD-L1 CPS <10.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42535874/"
+      },
+      {
+        "pmid": "42534780",
+        "title": "Extensive-stage small cell lung cancer in Hungary: a real-world analysis (2013-2022).",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42534780/"
+      },
+      {
+        "pmid": "42523785",
+        "title": "An exploratory study of nimotuzumab combined with toripalimab and chemotherapy for locally advanced tonsillar cancer.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42523785/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "DORNASE ALFA",
+        "chembl_id": "CHEMBL1201431",
+        "reason": "same target: DNA"
+      },
+      {
+        "name": "DESOXYRIBONUCLEASE",
+        "chembl_id": "CHEMBL1201459",
+        "reason": "same target: DNA"
+      },
+      {
+        "name": "GEMTUZUMAB OZOGAMICIN",
+        "chembl_id": "CHEMBL1201506",
+        "reason": "same target: DNA"
+      },
+      {
+        "name": "BENDAMUSTINE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1201734",
+        "reason": "same target: DNA"
+      },
+      {
+        "name": "DACTINOMYCIN",
+        "chembl_id": "CHEMBL1554",
+        "reason": "same target: DNA"
+      },
+      {
+        "name": "CYCLOPHOSPHAMIDE",
+        "chembl_id": "CHEMBL1200796",
+        "reason": "same target: DNA"
+      },
+      {
+        "name": "MECHLORETHAMINE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1201001",
+        "reason": "same target: DNA"
+      },
+      {
+        "name": "STREPTOZOCIN",
+        "chembl_id": "CHEMBL1977579",
+        "reason": "same target: DNA"
+      },
+      {
+        "name": "NELARABINE",
+        "chembl_id": "CHEMBL1201112",
+        "reason": "same target: DNA"
+      },
+      {
+        "name": "EPIRUBICIN HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1200981",
+        "reason": "same target: DNA"
+      }
+    ]
+  }
+}

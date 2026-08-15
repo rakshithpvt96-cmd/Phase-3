@@ -1,0 +1,140 @@
+{
+  "drug_name": "BNT162b2 Vaccine",
+  "slug": "bnt162b2-vaccine",
+  "enriched_at": "2026-08-15T22:13:39Z",
+  "source_trial_ids": [
+    "NCT07300839"
+  ],
+  "sponsors": [
+    {
+      "name": "BioNTech SE",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=BioNTech%20SE&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2656263",
+      "generic_name": "SARS-CoV-2 (COVID-19) vaccine, mRNA-BNT162b2 Injectable Suspension [Comirnaty]",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2108573",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": "Biological vaccine - induces immune response"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=BNT162b2%20Vaccine+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=BNT162b2%20Vaccine+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=BNT162b2%20Vaccine+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "COVID-19",
+    "slug": "covid-19"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07300839",
+      "title": "A Study to Learn About a COVID-19 Vaccine in Healthy Adults 50 Through 64 Years of Age",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07300839",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42520645",
+        "title": "The Platform trial In COVID-19 priming and BOOsting (PICOBOO): The immunogenicity, reactogenicity and safety of seven licensed COVID-19 vaccines delivered as fifth dose or subsequent boosters in immunocompetent adults.",
+        "pubdate": "2026 Aug 13",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42520645/"
+      },
+      {
+        "pmid": "42501282",
+        "title": "Immunogenicity, Tolerability, and Safety of BA.1-Adapted BNT162b2 Vaccine in 18- to 55-Year-Olds Previously Vaccinated with BNT162b2 or Who Were COVID-19 Vaccine-Naive.",
+        "pubdate": "2026 Jul 25",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42501282/"
+      },
+      {
+        "pmid": "42480193",
+        "title": "Immunogenicity and reactogenicity of fractional vs. full booster doses of COVID-19 vaccines: A non-inferiority, randomized, double-blind, phase IV clinical trial in Pakistan.",
+        "pubdate": "2026 Aug 13",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42480193/"
+      },
+      {
+        "pmid": "42347602",
+        "title": "Safety and Immunogenicity of a Locally Produced Inactivated NDV-HXP-S COVID-19 Vaccine (HXP-GPOVac) Compared with BNT162b2: A Phase II Randomized, Controlled, Double-Blind Noninferiority Trial in Thai Adults.",
+        "pubdate": "2026 May 28",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42347602/"
+      },
+      {
+        "pmid": "42245650",
+        "title": "Long-term immune response to mRNA anti-SARS-CoV-2 vaccination in patients with cancer.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42245650/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "nirmatrelvir",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Pfizer"
+      },
+      {
+        "name": "ritonavir",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Pfizer"
+      },
+      {
+        "name": "VYD2311-SD",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Invivyd, Inc."
+      },
+      {
+        "name": "VYD2311-MD",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Invivyd, Inc."
+      },
+      {
+        "name": "Placebo",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Invivyd, Inc."
+      },
+      {
+        "name": "COVID-19 mRNA vaccine",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Invivyd, Inc."
+      },
+      {
+        "name": "VYD2311",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Invivyd, Inc."
+      },
+      {
+        "name": "Placebo (Normal Saline)",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Invivyd, Inc."
+      }
+    ]
+  }
+}

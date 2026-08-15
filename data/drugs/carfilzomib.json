@@ -1,0 +1,131 @@
+{
+  "drug_name": "Carfilzomib",
+  "slug": "carfilzomib",
+  "enriched_at": "2026-08-15T22:14:46Z",
+  "source_trial_ids": [
+    "NCT05552976"
+  ],
+  "sponsors": [
+    {
+      "name": "Bristol-Myers Squibb",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Bristol-Myers%20Squibb&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 11556711,
+    "iupac_name": "(2S)-4-methyl-N-[(2S)-1-[[(2S)-4-methyl-1-[(2R)-2-methyloxiran-2-yl]-1-oxopentan-2-yl]amino]-1-oxo-3-phenylpropan-2-yl]-2-[[(2S)-2-[(2-morpholin-4-ylacetyl)amino]-4-phenylbutanoyl]amino]pentanamide",
+    "molecular_formula": "C40H57N5O7",
+    "molecular_weight": "719.9",
+    "canonical_smiles": null,
+    "inchikey": "BLMPQMFVWMYDKT-NZTKNTHTSA-N",
+    "rxnorm": {
+      "rxcui": "1302966",
+      "generic_name": "carfilzomib",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL451887",
+    "target_chembl_id": "CHEMBL2364701",
+    "target_name": "26S proteasome",
+    "mechanism_of_action_chembl": "26S proteasome inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Carfilzomib is a tetrapeptide epoxyketone proteasome inhibitor that irreversibly binds to the N-terminal threonine-containing active sites of the 20S proteasome, the proteolytic core particle within the 26S proteasome. Carfilzomib had antiproliferative and proapoptotic activities in vitro in solid and hematologic tumor cells. In animals, carfilzomib inhibited proteasome activity in blood and tissue and delayed tumor growth in models of multiple myeloma, hematologic, and solid tumors.",
+    "pharmacokinetics": "12.3 Pharmacokinetics Carfilzomib at doses between 20 mg/m 2 and 70 mg/m 2 administered as a 30-minute infusion resulted in dose-dependent increases in maximum plasma concentrations (C max ) and area under the curve over time to infinity (AUC 0-INF ) in patients with multiple myeloma. A dose-dependent increase in C max and AUC 0-INF was also observed between carfilzomib 20 mg/m 2 and 56 mg/m 2 as a 2- to 10-minute infusion in patients with relapsed or refractory multiple myeloma. A 30-minute infusion resulted in a similar AUC 0-INF , but 2- to 3-fold lower C max than that observed with a 2- to 10-minute infusion at the same dose. There was no evidence of carfilzomib accumulation following repeated administration of carfilzomib 70 mg/m 2 as a 30-minute once weekly infusion or 15 and 20 mg/m 2 as a 2- to 10-minute twice weekly infusion. Table 21 lists the estimated mean average daily area under the curve in the first cycle (AUC C1,avg ), average daily area under the curve at steady-state (AUC ss ) and C max at the highest dose in the first cycle (C max,C1 ) for the different dosing regimens. Table 21: Carfilzomib Exposure Parameters for Different Dosing Regimens Estimated Parameters (%CV) 20/27 mg/m 2 twice weekly with 2- to 10-minute infusion 20/56 mg/m 2 twice weekly with 30-minute infusion 20/70 mg/m 2 once weekly with 30-minute infusion CV = Coefficient of variation AUC C1,avg (ng∙hr/mL) 95 (40) 170 (35) 114 (36) AUC ss (ng∙hr/mL) 111 (34) 228 (28) 150 (35) C max,C1 (ng/mL) 1282 (17) 1166 (29) 1595 (36) Distribution The mean steady-state volume of distribution of a 20 mg/m 2 dose of carfilzomib was 28 L. Carfilzomib is 97% bound to human plasma proteins over the concentration range of 0.4 to 4 micromolar in vitro. Elimination Carfilzomib has a half-life of ≤ 1 hour on Day 1 of Cycle 1 following intravenous doses ≥ 15 mg/m 2 . The half-life was similar when administered either as a 30-minute infusion or a 2- to 10-minute infusion. The systemic clearance ranged from 151 to 263 L/hour. Metabolism Carfilzomib is rapidly metabolized. Peptidase cleavage and epoxide hydrolysis were the principal pathways of metabolism. Cytochrome P450 (CYP)-mediated mechanisms contribute a minor role in overall carfilzomib metabolism. Excretion Approximately 25% of the administered dose of carfilzomib was excreted in urine as metabolites in 24 hours. Urinary and fecal excretion of the parent compound was negligible (0.3% of total dose). Specific Populations Age (35-89 years), sex, race or ethnicity (80% White, 11% Black, 6% Asians, 3% Hispanics), and mild to severe renal impairment (creatinine clearance 15-89 mL/min) did not have clinically meaningful effects on the pharmacokinetics of carfilzomib. Patients with Hepatic Impairment Compared to patients with normal hepatic function, patients with mild (total bilirubin 1 to 1.5 × ULN and any AST or total bilirubin ≤ ULN and AST > ULN) and moderate (total bilirubin > 1.5 to 3 × ULN and any AST) hepatic impairment had approximately 50% higher carfilzomib AUC. The pharmacokinetics of carfilzomib has not been evaluated in patients with severe hepatic impairment (total bilirubin > 3 × ULN and any AST). Patients with Renal Impairment Relative to patients with normal renal function, ESRD patients on hemodialysis showed 33% higher carfilzomib AUC. Since hemodialysis clearance of Kyprolis concentrations has not been studied, the drug should be administered after the hemodialysis procedure. Drug Interaction Studies Clinical Studies Effect of Carfilzomib on Sensitive CYP3A Substrate: Midazolam (a sensitive CYP3A substrate) pharmacokinetics was not affected by concomitant administration of carfilzomib. In Vitro Studies Effect of Carfilzomib on Cytochrome P450 (CYP) Enzymes: Carfilzomib showed direct and time-dependent inhibition of CYP3A but did not induce CYP1A2 and CYP3A4 in vitro. Effect of Transporters on Carfilzomib: Carfilzomib is a P-glycoprotein (P-gp) substrate in vitro. Effect of Carfilzomib on Transporters: Carfilzomib inhibits P-gp in vitro. However, given that Kyprolis is administered intravenously and is extensively metabolized, the pharmacokinetics of Kyprolis is unlikely to be affected by P-gp inhibitors or inducers.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE Kyprolis is a proteasome inhibitor that is indicated: for the treatment of adult patients with relapsed or refractory multiple myeloma who have received one to three lines of therapy in combination with Lenalidomide and dexamethasone; or Dexamethasone; or Daratumumab and dexamethasone; or Daratumumab and hyaluronidase-fihj and dexamethasone; or Isatuximab and dexamethasone. ( 1 , 14 ) as a single agent for the treatment of patients with relapsed or refractory multiple myeloma who have received one or more lines of therapy. ( 1 , 14 ) 1.1 Relapsed or Refractory Multiple Myeloma Kyprolis is indicated for the treatment of adult patients with relapsed or refractory multiple myeloma who have received one to three lines of therapy in combination with: Lenalidomide and dexamethasone; or Dexamethasone; or Daratumumab and dexamethasone; or Daratumumab and hyaluronidase-fihj and dexamethasone; or Isatuximab and dexamethasone. Kyprolis is indicated as a single agent for the treatment of adult patients with relapsed or refractory multiple myeloma who have received one or more lines of therapy.",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "KYPROLIS"
+    ],
+    "openfda_generic_names": [
+      "CARFILZOMIB"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ea66eb30-e665-4693-99a1-a9d3b4bbe2d6",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Relapsed or Refractory Multiple Myeloma",
+    "slug": "relapsed-or-refractory-multiple-myeloma"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05552976",
+      "title": "A Study to Evaluate Mezigdomide in Combination With Carfilzomib and Dexamethasone (MeziKD) Versus Carfilzomib and Dexamethasone (Kd) in Participants With Relapsed or Refractory Multiple Myeloma (SUCCESSOR-2)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05552976",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42515832",
+        "title": "A Simulation-Based Assessment of Dosage Regimen Appropriateness for Multiple Myeloma Medicines Reflecting Demographic and Ethnic Differences.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42515832/"
+      },
+      {
+        "pmid": "42456135",
+        "title": "Continuous or Fixed-Duration Maintenance Therapy in Multiple Myeloma.",
+        "pubdate": "2026 Jul 16",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42456135/"
+      },
+      {
+        "pmid": "42363804",
+        "title": "Plain language summary of publication of how long people with relapsed multiple myeloma lived after treatment in the IKEMA study: Isatuximab plus carfilzomib and dexamethasone versus carfilzomib and dexamethasone.",
+        "pubdate": "2026 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42363804/"
+      },
+      {
+        "pmid": "42289183",
+        "title": "Mezigdomide, carfilzomib, and dexamethasone versus carfilzomib and dexamethasone in patients with relapsed or refractory multiple myeloma (SUCCESSOR-2): a phase 3, open-label, randomised controlled trial.",
+        "pubdate": "2026 Jul 18",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42289183/"
+      },
+      {
+        "pmid": "41942646",
+        "title": "Isatuximab, carfilzomib, lenalidomide and dexamethasone in newly diagnosed multiple myeloma: a randomized phase 3 trial.",
+        "pubdate": "2026 May",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41942646/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "BORTEZOMIB",
+        "chembl_id": "CHEMBL325041",
+        "reason": "same target: 26S proteasome"
+      },
+      {
+        "name": "IXAZOMIB CITRATE",
+        "chembl_id": "CHEMBL3545432",
+        "reason": "same target: 26S proteasome"
+      },
+      {
+        "name": "OPROZOMIB",
+        "chembl_id": "CHEMBL2103884",
+        "reason": "same target: 26S proteasome"
+      },
+      {
+        "name": "IXAZOMIB",
+        "chembl_id": "CHEMBL2141296",
+        "reason": "same target: 26S proteasome"
+      },
+      {
+        "name": "BORTEZOMIB D-MANNITOL",
+        "chembl_id": "CHEMBL5315122",
+        "reason": "same target: 26S proteasome"
+      }
+    ]
+  }
+}

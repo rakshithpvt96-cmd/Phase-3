@@ -1,0 +1,116 @@
+{
+  "drug_name": "Agalsidase alfa",
+  "slug": "agalsidase-alfa",
+  "enriched_at": "2026-08-15T22:12:12Z",
+  "source_trial_ids": [
+    "NCT05280548"
+  ],
+  "sponsors": [
+    {
+      "name": "Sanofi",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Sanofi&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 52918379,
+    "iupac_name": "bis(N-[(1R,2R)-1-(2,3-dihydro-1,4-benzodioxin-6-yl)-1-hydroxy-3-pyrrolidin-1-ylpropan-2-yl]octanamide);(2R,3R)-2,3-dihydroxybutanedioic acid",
+    "molecular_formula": "C50H78N4O14",
+    "molecular_weight": "959.2",
+    "canonical_smiles": null,
+    "inchikey": "KUBARPMUNHKBIQ-VTHUDJRQSA-N",
+    "rxnorm": {
+      "rxcui": "2691830",
+      "generic_name": "agalsidase alfa",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2108214",
+    "target_chembl_id": "CHEMBL2366040",
+    "target_name": "Globotriosylceramide",
+    "mechanism_of_action_chembl": "Globotriosylceramide hydrolytic enzyme"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Agalsidase%20alfa+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Agalsidase%20alfa+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Agalsidase%20alfa+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Fabry Disease",
+    "slug": "fabry-disease"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05280548",
+      "title": "A Study to Evaluate the Effect of Venglustat Tablets on Left Ventricular Mass Index in Male and Female Adult Participants With Fabry Disease",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05280548",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42464344",
+        "title": "Evaluating the relationship between antidrug antibodies and efficacy and safety outcomes in patients with Fabry disease receiving enzyme replacement therapy: a systematic literature review.",
+        "pubdate": "2026 Jul 16",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42464344/"
+      },
+      {
+        "pmid": "42118888",
+        "title": "",
+        "pubdate": "2026 Feb",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42118888/"
+      },
+      {
+        "pmid": "39847314",
+        "title": "Health State Utility Values in Fabry Disease: Insights from the Pegunigalsidase Alfa Clinical Trials.",
+        "pubdate": "2025 Mar",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39847314/"
+      },
+      {
+        "pmid": "39381863",
+        "title": "A phase III, open-label clinical trial evaluating pegunigalsidase alfa administered every 4 weeks in adults with Fabry disease previously treated with other enzyme replacement therapies.",
+        "pubdate": "2025 Jan",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39381863/"
+      },
+      {
+        "pmid": "38680424",
+        "title": "Pegunigalsidase alfa: a novel, pegylated recombinant alpha-galactosidase enzyme for the treatment of Fabry disease.",
+        "pubdate": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38680424/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "AGALSIDASE BETA",
+        "chembl_id": "CHEMBL2108888",
+        "reason": "same target: Globotriosylceramide"
+      },
+      {
+        "name": "PEGUNIGALSIDASE ALFA",
+        "chembl_id": "CHEMBL4297801",
+        "reason": "same target: Globotriosylceramide"
+      }
+    ]
+  }
+}

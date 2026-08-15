@@ -1,0 +1,99 @@
+{
+  "drug_name": "Erythropoiesis-Stimulating Agent (ESA)",
+  "slug": "erythropoiesis-stimulating-agent-esa",
+  "enriched_at": "2026-08-15T22:16:47Z",
+  "source_trial_ids": [
+    "NCT06901505"
+  ],
+  "sponsors": [
+    {
+      "name": "Akebia Therapeutics",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Akebia%20Therapeutics&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2566912",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4802227",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Erythropoiesis-Stimulating%20Agent%20%28ESA%29+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Erythropoiesis-Stimulating%20Agent%20%28ESA%29+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Erythropoiesis-Stimulating%20Agent%20%28ESA%29+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Anemia of Chronic Kidney Disease",
+    "slug": "anemia-of-chronic-kidney-disease"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06901505",
+      "title": "To Evaluate the Efficacy of Three Times Weekly (TIW) Vadadustat Compared to Standard of Care ESA in Patients With Anemia of CKD Receiving In-Center Hemodialysis",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06901505",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "41781902",
+        "title": "Roxadustat induced fetal hemoglobin in anemic CKD patients: a dual-center real-world observational cohort study.",
+        "pubdate": "2026 Mar 4",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41781902/"
+      },
+      {
+        "pmid": "41654788",
+        "title": "Efficacy and safety analysis of different treatment schemes of erythropoiesis-stimulating agents for chronic kidney disease with anemia: a meta analysis between 2000-2024.",
+        "pubdate": "2026 Feb 7",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41654788/"
+      },
+      {
+        "pmid": "41376433",
+        "title": "Safety and Efficacy of Vadadustat Versus Darbepoetin Alfa for Chronic Kidney Disease-Related Anemia in Patients Receiving Dialysis by Baseline Erythropoiesis-Stimulating Agent Dose.",
+        "pubdate": "2026 Jan",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41376433/"
+      },
+      {
+        "pmid": "41077829",
+        "title": "Plain language summary of IMerge, a Phase 3 study of imetelstat versus placebo in people with lower-risk myelodysplastic syndromes and anemia.",
+        "pubdate": "2025 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41077829/"
+      },
+      {
+        "pmid": "40442681",
+        "title": "Explore the effect of HIF-PHI on blood pressure variation rate and anemia efficacy in maintenance hemodialysis patients.",
+        "pubdate": "2025 May 29",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40442681/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}
