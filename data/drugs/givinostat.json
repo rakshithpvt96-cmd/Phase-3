@@ -1,0 +1,100 @@
+{
+  "drug_name": "Givinostat",
+  "slug": "givinostat",
+  "enriched_at": "2026-08-15T21:15:16Z",
+  "source_trial_ids": [
+    "NCT06093672"
+  ],
+  "sponsors": [
+    "Italfarmaco"
+  ],
+  "identity": {
+    "pubchem_cid": 9804992,
+    "iupac_name": "[6-(diethylaminomethyl)naphthalen-2-yl]methyl N-[4-(hydroxycarbamoyl)phenyl]carbamate",
+    "molecular_formula": "C24H27N3O4",
+    "molecular_weight": "421.5",
+    "canonical_smiles": null,
+    "inchikey": "YALNUENQHAQXEA-UHFFFAOYSA-N",
+    "rxnorm": {
+      "rxcui": "2678889",
+      "generic_name": "givinostat",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1213492",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action DUVYZAT is a histone deacetylase inhibitor. The precise mechanism by which DUVYZAT exerts its effect in patients with DMD is unknown.",
+    "pharmacokinetics": "12.3 Pharmacokinetics Givinostat exhibits linear kinetics with the studied dose range. Systemic exposure to givinostat was dose-proportional across the therapeutic dose range. Steady-state concentrations are achieved within 5 to 7 days after twice daily dosing. An accumulation of less than 2-fold was observed for givinostat after twice daily administration. Absorption Absolute bioavailability was not determined. The time to maximum plasma concentrations is about 2 to 3 hours after oral administration. Effect of Food A high fat standard meal resulted in an increase in the exposure (about 40% increase in area under the plasma concentration-time curve [AUC] and about 23% increase in maximum plasma concentration [C max ]) and a delay in time to maximum concentration (T max ) from 2 to 3 hours [see Dosage and Administration (2.2) ] . Distribution Givinostat is approximately 96% bound to human plasma proteins and is slightly partitioned into red blood cells (blood to plasma ratio = 1.3). Elimination In plasma, apparent elimination half-life of givinostat is about 6 hours. Metabolism In vitro studies with human enzymatic preparations together with animal metabolism showed that givinostat is extensively metabolized forming several metabolites. CYP450 and UGTs are not involved in the main metabolic reactions. Four major metabolites, which are not active with respect to the efficacy of givinostat, have been characterized in humans and preclinical species. Excretion The elimination of givinostat is likely dependent on metabolism followed by renal and biliary excretion of the resulting metabolites as suggested by the mass balance study in the rat. Urinary excretion of givinostat in humans is minimal (<3% of the dose). Specific Populations The population PK analyses show that the PK of givinostat can be affected by body weight, while age has no effects on the pharmacokinetics of givinostat. Patients with Hepatic Impairment The pharmacokinetics and safety of givinostat have not been studied in patients with hepatic impairment. Givinostat is highly metabolized and therefore the impact of hepatic impairment on the exposure of givinostat cannot be excluded [see Use in Specific Populations (8.6) ] . Patients with Renal Impairment The pharmacokinetics and safety of givinostat have not been studied in patients with renal impairment. However, renal impairment is not expected to impact the exposure of givinostat because renal excretion is not a significant route of givinostat elimination. Drug Interaction Studies In Vitro Givinostat is not a substrate of cytochrome P450 (CYP450) enzymes and uridine diphosphate glucuronosyltransferase (UGT). Therefore, coadministration of drugs that are inducers or inhibitors of major metabolizing enzymes will not significantly affect the systemic exposure of givinostat. Givinostat and its metabolites ITF2374, ITF2375, ITF2440, and ITF2563 were investigated as inhibitors of the main CYP450 subfamilies, and the results indicated no inhibition is expected of CYP1A2, 2C9, 2C19, 2D6, 2B6, 2C8, and 3A4. Givinostat showed induction of CYP1A2, 2B6, and CYP3A4. In vitro studies indicate that givinostat is a substrate of the intestinal transporters: P-glycoprotein (P-gp) and breast cancer resistance protein (BCRP). Givinostat showed the potential to inhibit the intestinal transporter P-gp (MDR1) and BCRP based on in vitro results. However, these interactions are not expected to be clinically meaningful. In Vivo A weak inhibition of the renal uptake transporter OCT2 by givinostat was seen in clinical trials by creatinine (OCT2 substate) measurements [see Drug Interactions (7.1) ] . A clinical drug interaction study was conducted in healthy volunteers to assess the effects of coadministration of givinostat with other drugs and results indicated that: givinostat has a weak inhibition of the intestinal CYP3A4 enzyme based on the exposure of a CYP3A4 substrate, midazolam, [see Drug Interactions (7.1) ] givinostat does not likely inhibit P-gp transporters based on the exposure of dabigatran strong P-gp inhibitors have a weak effect on givinostat based on exposure of clarithromycin, which had an increase in C max by about 40% without a significant change of AUC. The effect of BCRP inhibitors on givinostat PK was not studied in a clinical study. However, the effect of BCRP inhibitors on givinostat PK is expected to be smaller than P-gp inhibitors based on the comparison of the two transporters mediated efflux ratios determined in the in vitro cell models.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE DUVYZAT is indicated for the treatment of Duchenne muscular dystrophy (DMD) in patients 6 years of age and older. DUVYZAT is a histone deacetylase inhibitor indicated for the treatment of Duchenne muscular dystrophy (DMD) in patients 6 years of age and older. ( 1 )",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "DUVYZAT"
+    ],
+    "openfda_generic_names": [
+      "GIVINOSTAT"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1a28a3db-7880-4ac2-a2f2-2b4e362aafb6",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Polycythemia Vera",
+    "slug": "polycythemia-vera"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06093672",
+      "title": "Study on Efficacy and Safety of Givinostat Versus Hydroxyurea in Patients With Polycythemia Vera",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06093672",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "40830818",
+        "title": "Long-Term Evaluation of Givinostat in Duchenne Muscular Dystrophy, and Natural History Comparisons.",
+        "pubdate": "2025 Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40830818/"
+      },
+      {
+        "pmid": "40330090",
+        "title": "Unleashing the Potential of Givinostat: A Novel Therapy for Duchenne Muscular Dystrophy.",
+        "pubdate": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40330090/"
+      },
+      {
+        "pmid": "38985784",
+        "title": "Meaningful changes in motor function in Duchenne muscular dystrophy (DMD): A multi-center study.",
+        "pubdate": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38985784/"
+      },
+      {
+        "pmid": "38508835",
+        "title": "Safety and efficacy of givinostat in boys with Duchenne muscular dystrophy (EPIDYS): a multicentre, randomised, double-blind, placebo-controlled, phase 3 trial.",
+        "pubdate": "2024 Apr",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38508835/"
+      },
+      {
+        "pmid": "38327117",
+        "title": "In silico trial for the assessment of givinostat dose adjustment rules based on the management of key hematological parameters in polycythemia vera patients.",
+        "pubdate": "2024 Mar",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38327117/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

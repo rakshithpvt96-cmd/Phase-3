@@ -1,0 +1,66 @@
+{
+  "drug_name": "EN3835",
+  "slug": "en3835",
+  "enriched_at": "2026-08-15T21:13:34Z",
+  "source_trial_ids": [
+    "NCT06151197"
+  ],
+  "sponsors": [
+    "Endo USA Inc., a Keenova Therapeutics Company"
+  ],
+  "identity": {
+    "rxnorm": null
+  },
+  "mechanism": {
+    "chembl_id": null,
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=EN3835+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=EN3835+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=EN3835+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Plantar Fibromatosis",
+    "slug": "plantar-fibromatosis"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06151197",
+      "title": "Study to Assess EN3835 in the Treatment of Plantar Fibromatosis (Also Known as Ledderhose Disease)",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT06151197",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "33914296",
+        "title": "A Phase I Clinical Trial to Assess Safety and Tolerability of Injectable Collagenase in Women with Symptomatic Uterine Fibroids.",
+        "pubdate": "2021 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33914296/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

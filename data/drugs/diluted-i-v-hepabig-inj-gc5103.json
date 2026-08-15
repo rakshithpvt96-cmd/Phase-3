@@ -1,0 +1,63 @@
+{
+  "drug_name": "Diluted I.V.-Hepabig inj(GC5103)",
+  "slug": "diluted-i-v-hepabig-inj-gc5103",
+  "enriched_at": "2026-08-15T21:11:56Z",
+  "source_trial_ids": [
+    "NCT05686759"
+  ],
+  "sponsors": [
+    "GC Biopharma Corp"
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2639151",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL32",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Diluted%20I.V.-Hepabig%20inj%28GC5103%29+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Diluted%20I.V.-Hepabig%20inj%28GC5103%29+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Diluted%20I.V.-Hepabig%20inj%28GC5103%29+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Hepatitis B",
+    "slug": "hepatitis-b"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05686759",
+      "title": "A Study to Investigate the Safety and Efficacy of Undiluted Intravenous Infusion of I.V.-Hepabig Inj.",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05686759",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

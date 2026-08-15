@@ -1,0 +1,151 @@
+{
+  "drug_name": "Dexamethasone phosphate",
+  "slug": "dexamethasone-phosphate",
+  "enriched_at": "2026-08-15T21:11:51Z",
+  "source_trial_ids": [
+    "NCT07305987"
+  ],
+  "sponsors": [
+    "Laboratorios Sophia S.A de C.V."
+  ],
+  "identity": {
+    "pubchem_cid": 9400,
+    "iupac_name": "[2-[(8S,9R,10S,11S,13S,14S,16R,17R)-9-fluoro-11,17-dihydroxy-10,13,16-trimethyl-3-oxo-6,7,8,11,12,14,15,16-octahydrocyclopenta[a]phenanthren-17-yl]-2-oxoethyl] dihydrogen phosphate",
+    "molecular_formula": "C22H30FO8P",
+    "molecular_weight": "472.4",
+    "canonical_smiles": null,
+    "inchikey": "VQODGRNSFPNSQE-CXSFZGCWSA-N",
+    "rxnorm": {
+      "rxcui": "235486",
+      "generic_name": "dexamethasone phosphate",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2021430",
+    "target_chembl_id": "CHEMBL2034",
+    "target_name": "Glucocorticoid receptor",
+    "mechanism_of_action_chembl": "Glucocorticoid receptor agonist"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "DailyMed",
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a31b013f-924c-42f8-b8ab-ce60bb8ad7b8",
+    "note": "A label exists in DailyMed but structured sections could not be parsed automatically -- see dailymed_url for the full label.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Dexamethasone%20phosphate+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Dexamethasone%20phosphate+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Dexamethasone%20phosphate+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Cataract Extraction",
+    "slug": "cataract-extraction"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07305987",
+      "title": "PRO-232 in Patients Subjected to Cataract Surgery",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07305987",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "41789550",
+        "title": "A randomized, masked, crossover, clinical trial of the efficacy and safety of nebulized albuterol sulfate and dexamethasone sodium phosphate in asthmatic horses.",
+        "pubdate": "2026 Mar 2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41789550/"
+      },
+      {
+        "pmid": "40984042",
+        "title": "Population Pharmacokinetic Modeling and Pediatric Exposure of Dexamethasone Sodium Phosphate Encapsulated in Erythrocytes (eDSP) Administered Monthly for Treatment of Neurological Symptoms of Patients With Ataxia Telangiectasia.",
+        "pubdate": "2025 Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40984042/"
+      },
+      {
+        "pmid": "40699120",
+        "title": "Intravitreal aflibercept alone versus combination with dexamethasone phosphate for diabetic macular edema: A randomized phase-2 clinical trial.",
+        "pubdate": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40699120/"
+      },
+      {
+        "pmid": "39979951",
+        "title": "Effectiveness of topical application with dexamethasone during sagittal split osteotomy of the mandible in minimising clinical symptoms of postoperative neurosensory disorders.",
+        "pubdate": "2025 Feb 20",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39979951/"
+      },
+      {
+        "pmid": "39152028",
+        "title": "Safety and efficacy of intra-erythrocyte dexamethasone sodium phosphate in children with ataxia telangiectasia (ATTeST): a multicentre, randomised, double-blind, placebo-controlled phase 3 trial.",
+        "pubdate": "2024 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39152028/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "PREDNISONE",
+        "chembl_id": "CHEMBL635",
+        "reason": "same target: Glucocorticoid receptor"
+      },
+      {
+        "name": "HALCINONIDE",
+        "chembl_id": "CHEMBL1200845",
+        "reason": "same target: Glucocorticoid receptor"
+      },
+      {
+        "name": "MEDRYSONE",
+        "chembl_id": "CHEMBL1201173",
+        "reason": "same target: Glucocorticoid receptor"
+      },
+      {
+        "name": "DIFLUPREDNATE",
+        "chembl_id": "CHEMBL1201749",
+        "reason": "same target: Glucocorticoid receptor"
+      },
+      {
+        "name": "BETAMETHASONE",
+        "chembl_id": "CHEMBL632",
+        "reason": "same target: Glucocorticoid receptor"
+      },
+      {
+        "name": "HYDROCORTISONE",
+        "chembl_id": "CHEMBL389621",
+        "reason": "same target: Glucocorticoid receptor"
+      },
+      {
+        "name": "TRIAMCINOLONE ACETONIDE",
+        "chembl_id": "CHEMBL1504",
+        "reason": "same target: Glucocorticoid receptor"
+      },
+      {
+        "name": "HYDROCORTISONE CYPIONATE",
+        "chembl_id": "CHEMBL1549",
+        "reason": "same target: Glucocorticoid receptor"
+      },
+      {
+        "name": "CLOBETASOL PROPIONATE",
+        "chembl_id": "CHEMBL1159650",
+        "reason": "same target: Glucocorticoid receptor"
+      },
+      {
+        "name": "HYDROCORTISONE SODIUM SUCCINATE",
+        "chembl_id": "CHEMBL1200495",
+        "reason": "same target: Glucocorticoid receptor"
+      }
+    ]
+  }
+}

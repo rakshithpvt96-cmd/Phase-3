@@ -1,0 +1,94 @@
+{
+  "drug_name": "Coagadex(R)",
+  "slug": "coagadex-r",
+  "enriched_at": "2026-08-15T21:10:21Z",
+  "source_trial_ids": [
+    "NCT06963216"
+  ],
+  "sponsors": [
+    "Kedrion S.p.A."
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1719236",
+      "generic_name": "Coagadex",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL89731",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Coagadex%28R%29+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Coagadex%28R%29+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Coagadex%28R%29+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Acquired Factor X Deficiency",
+    "slug": "acquired-factor-x-deficiency"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06963216",
+      "title": "A Study Investigating Coagadex in the Treatment AFXD Associated With AL Amyloidosis",
+      "status": "WITHDRAWN",
+      "url": "https://clinicaltrials.gov/study/NCT06963216",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "39331637",
+        "title": "Modelling the effects of 4-factor prothrombin complex concentrate for the management of factor Xa-associated bleeding.",
+        "pubdate": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39331637/"
+      },
+      {
+        "pmid": "33608658",
+        "title": "CRS-related coagulopathy in BCMA targeted CAR-T therapy: a retrospective analysis in a phase I/II clinical trial.",
+        "pubdate": "2021 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33608658/"
+      },
+      {
+        "pmid": "32898246",
+        "title": "Pharmacometric modeling to explore 4F-PCC dosing strategies for VKA reversal in patients with INR below 2.",
+        "pubdate": "2020 Sep 8",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32898246/"
+      },
+      {
+        "pmid": "31094731",
+        "title": "Andexanet Alfa (Andexxa) Formulary Review.",
+        "pubdate": "2019 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31094731/"
+      },
+      {
+        "pmid": "23212720",
+        "title": "Renal dysfunction as a predictor of stroke and systemic embolism in patients with nonvalvular atrial fibrillation: validation of the R(2)CHADS(2) index in the ROCKET AF (Rivaroxaban Once-daily, oral, direct factor Xa inhibition Compared with vitamin K antagonism for prevention of stroke and Embolism Trial in Atrial Fibrillation) and ATRIA (AnTicoagulation and Risk factors In Atrial fibrillation) study cohorts.",
+        "pubdate": "2013 Jan 15",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23212720/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "drug_name": "Fezolinetant",
+  "slug": "fezolinetant",
+  "enriched_at": "2026-08-15T21:14:20Z",
+  "source_trial_ids": [
+    "NCT06440967"
+  ],
+  "sponsors": [
+    "Astellas Pharma Global Development, Inc."
+  ],
+  "identity": {
+    "pubchem_cid": 117604931,
+    "iupac_name": "(4-fluorophenyl)-[(8R)-8-methyl-3-(3-methyl-1,2,4-thiadiazol-5-yl)-6,8-dihydro-5H-[1,2,4]triazolo[4,3-a]pyrazin-7-yl]methanone",
+    "molecular_formula": "C16H15FN6OS",
+    "molecular_weight": "358.4",
+    "canonical_smiles": null,
+    "inchikey": "PPSNFPASKFYPMN-SECBINFHSA-N",
+    "rxnorm": {
+      "rxcui": "2637134",
+      "generic_name": "fezolinetant",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL3608680",
+    "target_chembl_id": "CHEMBL4429",
+    "target_name": "Neuromedin-K receptor",
+    "mechanism_of_action_chembl": "Neurokinin 3 receptor antagonist"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action VEOZAH is a neurokinin 3 (NK3) receptor antagonist that blocks neurokinin B (NKB) binding on the kisspeptin/neurokinin B/dynorphin (KNDy) neuron to modulate neuronal activity in the thermoregulatory center. Fezolinetant has high affinity for the NK3 receptor (Ki value of 19.9 to 22.1 nmol/L), which is more than 450-fold higher than binding affinity to NK1 or NK2 receptors.",
+    "pharmacokinetics": "12.3 Pharmacokinetics In healthy women, fezolinetant C max and AUC increased proportionally over a dosage range from 20 to 60 mg once daily (0.44 to 1.33 times the approved recommended dosage). Steady-state plasma concentrations of fezolinetant were reached after two once daily doses, with minimal fezolinetant accumulation. Absorption The median (range) time to reach fezolinetant C max is 1.5 (1 to 4) hours in healthy women. Effect of Food No clinically significant differences in fezolinetant pharmacokinetics were observed following administration with a high‑calorie, high-fat meal containing approximately 1000 calories (500-600 calories from fat, 250 calories from carbohydrates, and 150 calories from protein). Distribution The mean apparent volume of distribution (V z /F) of fezolinetant is 189 L. The plasma protein binding of fezolinetant is 51%. The blood-to-plasma ratio is 0.9. Elimination The effective half-life (t 1/2 ) of fezolinetant is 9.6 hours in women with vasomotor symptoms. The apparent clearance at steady-state of fezolinetant is 10.8 L/h. Metabolism Fezolinetant is primarily metabolized by CYP1A2 and to a lesser extent by CYP2C9 and CYP2C19. A major metabolite of fezolinetant, ES259564, was identified in plasma. ES259564 is approximately 20-fold less potent than the parent. The metabolite-to-parent ratio ranges from 0.7 to 1.8. Excretion Following oral administration of fezolinetant, 76.9% of the dose was excreted in urine (1.1% unchanged) and 14.7% in feces (0.1% unchanged). Specific Populations There were no substantive differences in the pharmacokinetics of VEOZAH based on race and body weight (93 to 278 pounds). Women with Renal Impairment Following single-dose administration of 30 mg fezolinetant, there was no effect on VEOZAH exposure (C max and AUC) in women with mild (eGFR 60 to less than 90 mL/min/1.73 m 2 ) to severe (eGFR 15 to less than 30 mL/min/1.73 m 2 ) renal impairment. The AUC of ES259564 (a major metabolite of fezolinetant) in women with moderate (eGFR 30 to less than 60 mL/min/1.73 m 2 ) and severe (eGFR 15 to less than 30 mL/min/1.73 m 2 ) renal impairment increased by approximately 75% and 380%, respectively. VEOZAH has not been studied in individuals with end-stage renal disease (eGFR less than 15 mL/min/1.73 m 2 ). Women with Hepatic Impairment Following single-dose administration of 30 mg fezolinetant in women with mild Child-Pugh Class A cirrhosis, the mean C max increased by 23% and AUC inf increased by 56%, relative to women with normal hepatic function. In women with moderate Child-Pugh Class B cirrhosis, the mean C max of fezolinetant decreased by 15% and AUC inf increased by 96%. The C max of ES259564 decreased in both mild and moderate cirrhosis while AUC inf and AUC last increased less than 15%. VEOZAH has not been studied in individuals with severe Child-Pugh Class C cirrhosis. Drug Interaction Studies Clinical Studies and Model-Informed Approaches Strong CYP1A2 Inhibitors: Fezolinetant C max increased by 80% and AUC increased by 840% following concomitant use with fluvoxamine (strong CYP1A2 inhibitor). Moderate CYP1A2 Inhibitors: Fezolinetant C max increased by 40% and AUC increased by 360% following concomitant use with mexiletine (moderate CYP1A2 inhibitor) 400 mg every 8 hours. Weak CYP1A2 Inhibitors: Fezolinetant C max increased by 30% and AUC increased by 100% following concomitant use with cimetidine (weak CYP1A2 inhibitor) 300 mg every 6 hours. No clinically significant differences in fezolinetant exposure were observed in smokers (moderate CYP1A2 inducer). In Vitro Studies Cytochrome P450 (CYP) Enzymes: Fezolinetant and ES259564 are not inhibitors of CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, and CYP3A4. Fezolinetant and ES259564 are not inducers of CYP1A2, CYP2B6, and CYP3A4. Transporter Systems Fezolinetant is not a substrate nor an inhibitor of P-glycoprotein (P-gp). ES259564 is a substrate of P-gp, but not an inhibitor of P-gp. Both fezolinetant and ES259564 are not a substrate of BCRP, OATP1B1, and OATP1B3. In addition, ES259564 is not a substrate of OAT1, OAT3, OCT2, MATE1, and MATE2-K.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE VEOZAH ® is indicated for the treatment of moderate to severe vasomotor symptoms due to menopause. VEOZAH is a neurokinin 3 (NK3) receptor antagonist indicated for the treatment of moderate to severe vasomotor symptoms due to menopause. ( 1 )",
+    "boxed_warning": "WARNING: RISKS OF HEPATOTOXICITY Hepatotoxicity has occurred with the use of VEOZAH in the postmarketing setting ( 5.1 ). • Perform hepatic laboratory tests prior to initiation of treatment to evaluate for hepatic function and injury. Do not start VEOZAH if either aminotransferase is ≥ 2 x the upper limit of normal (ULN) or if the total bilirubin is ≥ 2 x ULN for the evaluating laboratory. • Perform follow-up hepatic laboratory testing monthly for the first 3 months, at 6 months, and 9 months of treatment ( 2.1 , 5.1 ). • Advise patients to discontinue VEOZAH immediately and seek medical attention including hepatic laboratory tests if they experience signs or symptoms that may suggest liver injury (new onset fatigue, decreased appetite, nausea, vomiting, pruritus, jaundice, pale feces, dark urine, or abdominal pain) ( 2.1 , 5.1 ). • Discontinue VEOZAH if transaminase elevations are > 5 x ULN, or if transaminase elevations are > 3 x ULN and the total bilirubin level is > 2 x ULN. • If transaminase elevations > 3 x ULN occur, perform more frequent follow-up hepatic laboratory tests until resolution ( 5.1 ). WARNING: RISKS OF HEPATOTOXICITY See full prescribing information for complete boxed warning. Hepatotoxicity has occurred with the use of VEOZAH in the postmarketing setting ( 5.1 ). • Perform hepatic laboratory tests prior to initiation of treatment to evaluate for hepatic function and injury. Do not start VEOZAH if either aminotransferase is ≥ 2 x ULN or if the total bilirubin is ≥ 2 x ULN for the evaluating laboratory. • Perform follow-up hepatic laboratory testing monthly for the first 3 months, at 6 months, and 9 months of treatment ( 2.1 , 5.1 ). • Advise patients to discontinue VEOZAH immediately and seek medical attention including hepatic laboratory tests if they experience signs or symptoms that may suggest liver injury (new onset fatigue, decreased appetite, nausea, vomiting, pruritus, jaundice, pale feces, dark urine, or abdominal pain) ( 2.1 , 5.1 ). • Discontinue VEOZAH if transaminase elevations are > 5 x ULN, or if transaminase elevations are > 3 x ULN and the total bilirubin level is > 2 x ULN. • If transaminase elevations > 3 x ULN occur, perform more frequent follow-up hepatic laboratory tests until resolution ( 5.1 ).",
+    "openfda_brand_names": [
+      "VEOZAH"
+    ],
+    "openfda_generic_names": [
+      "FEZOLINETANT"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cae9f798-24f9-4580-a4fc-e6c710cbda3c",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Hot Flashes",
+    "slug": "hot-flashes"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06440967",
+      "title": "A Study to Confirm if Fezolinetant Helps Reduce Hot Flashes in Women With Breast Cancer Who Are Having Hormone Therapy",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06440967",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42547587",
+        "title": "Real-world safety profile of fezolinetant: a disproportionality analysis based on the FAERS database.",
+        "pubdate": "2026 Aug 4",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42547587/"
+      },
+      {
+        "pmid": "42159172",
+        "title": "Patient-reported outcome data from a randomized phase II study (STARLIGHT) of fezolinetant in women in Japan with vasomotor symptoms associated with menopause.",
+        "pubdate": "2026 May 20",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42159172/"
+      },
+      {
+        "pmid": "42045091",
+        "title": "Elinzanetant: Defining the Role of Dual Neurokinin-1 and Neurokinin-3 Receptor Antagonism for Management of Vasomotor Symptoms in Menopause.",
+        "pubdate": "2026 Apr",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42045091/"
+      },
+      {
+        "pmid": "41849128",
+        "title": "Liver Safety of the Dual Neurokinin-1/-3 Receptor Antagonist Elinzanetant.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41849128/"
+      },
+      {
+        "pmid": "41834312",
+        "title": "Comparative Efficacy of Elinzanetant Versus Other Non-Hormonal Pharmaceutical Therapies for the Treatment of Moderate-to-Severe Vasomotor Symptoms Associated With Menopause: A Network Meta-Analysis.",
+        "pubdate": "2026 Mar 15",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41834312/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "TALNETANT",
+        "chembl_id": "CHEMBL10188",
+        "reason": "same target: Neuromedin-K receptor"
+      },
+      {
+        "name": "PAVINETANT",
+        "chembl_id": "CHEMBL3545233",
+        "reason": "same target: Neuromedin-K receptor"
+      },
+      {
+        "name": "ELINZANETANT",
+        "chembl_id": "CHEMBL4802157",
+        "reason": "same target: Neuromedin-K receptor"
+      }
+    ]
+  }
+}

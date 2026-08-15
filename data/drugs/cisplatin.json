@@ -1,0 +1,126 @@
+{
+  "drug_name": "Cisplatin",
+  "slug": "cisplatin",
+  "enriched_at": "2026-08-15T21:10:09Z",
+  "source_trial_ids": [
+    "NCT05048797",
+    "NCT05261399",
+    "NCT05298423",
+    "NCT06687369"
+  ],
+  "sponsors": [
+    "AstraZeneca",
+    "Merck Sharp & Dohme LLC",
+    "mAbxience Research S.L."
+  ],
+  "identity": {
+    "pubchem_cid": 5702198,
+    "iupac_name": "azane;dichloroplatinum",
+    "molecular_formula": "Cl2H6N2Pt",
+    "molecular_weight": "300.05",
+    "canonical_smiles": null,
+    "inchikey": "LXZZYRPGZAFOLE-UHFFFAOYSA-L",
+    "rxnorm": {
+      "rxcui": "2555",
+      "generic_name": "cisplatin",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL197201",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": "INDICATIONS AND USAGE Cisplatin Injection is indicated as therapy to be employed as follows: Metastatic Testicular Tumors In established combination therapy with other approved chemotherapeutic agents in patients with metastatic testicular tumors who have already received appropriate surgical and/or radio therapeutic procedures. Metastatic Ovarian Tumors In established combination therapy with other approved chemotherapeutic agents in patients with metastatic ovarian tumors who have already received appropriate surgical and/or radiotherapeutic procedures. An established combination consists of cisplatin and cyclophosphamide. Cisplatin Injection, as a single agent, is indicated as secondary therapy in patients with metastatic ovarian tumors refractory to standard chemotherapy who have not previously received Cisplatin Injection therapy. Advanced Bladder Cancer Cisplatin Injection is indicated as a single agent for patients with transitional cell bladder cancer which is no longer amenable to local treatments, such as surgery and/or radiotherapy.",
+    "boxed_warning": "WARNING Cisplatin should be administered under the supervision of a qualified physician experienced in the use of cancer chemotherapeutic agents. Appropriate management of therapy and complications is possible only when adequate diagnostic and treatment facilities are readily available. Cumulative renal toxicity associated with cisplatin is severe. Other major dose-related toxicities are myelosuppression, nausea, and vomiting. Ototoxicity, which may be more pronounced in children, and is manifested by tinnitus, and/or loss of high frequency hearing and occasionally deafness, is significant. Anaphylactic-like reactions to cisplatin have been reported. Facial edema, bronchoconstriction, tachycardia, and hypotension may occur within minutes of cisplatin administration. Epinephrine, corticosteroids, and antihistamines have been effectively employed to alleviate symptoms (see WARNINGS and ADVERSE REACTIONS ). Exercise caution to prevent inadvertent cisplatin overdose . Doses greater than 100 mg/m 2 /cycle once every 3 to 4 weeks are rarely used. Care must be taken to avoid inadvertent cisplatin overdose due to confusion with carboplatin or prescribing practices that fail to differentiate daily doses from total dose per cycle.",
+    "openfda_brand_names": [
+      "Cisplatin"
+    ],
+    "openfda_generic_names": [
+      "CISPLATIN"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=508496cb-3441-46b3-a4fe-e0d440e6adc6",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Non Squamous Non Small Cell Lung Cancer",
+    "slug": "non-squamous-non-small-cell-lung-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05048797",
+      "title": "A Study to Investigate the Efficacy and Safety of Trastuzumab Deruxtecan as the First Treatment Option for Unresectable, Locally Advanced/Metastatic Non-Small Cell Lung Cancer With HER2 Mutations",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05048797",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT05261399",
+      "title": "Savolitinib Plus Osimertinib Versus Platinum-based Doublet Chemotherapy in Participants With Non-Small Cell Lung Cancer Who Have Progressed on Osimertinib Treatment",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05261399",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT05298423",
+      "title": "Study of Pembrolizumab/Vibostolimab (MK-7684A) in Combination With Concurrent Chemoradiotherapy Followed by Pembrolizumab/Vibostolimab Versus Concurrent Chemoradiotherapy Followed by Durvalumab in Participants With Stage III Non-small Cell Lung Cancer (MK-7684A-006)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05298423",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06687369",
+      "title": "A Study to Compare Pharmacokinetics, Efficacy, Safety, and Immunogenicity of MB12 (Proposed Pembrolizumab Biosimilar) to Keytruda® in Non-small Cell Lung Cancer (BENITO Study)",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06687369",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42578486",
+        "title": "First-line systemic treatment for people with extensive-stage small cell lung cancer: a network meta-analysis.",
+        "pubdate": "2026 Aug 11",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42578486/"
+      },
+      {
+        "pmid": "42574460",
+        "title": "Co-Clinical Evaluation of Synthetic Vitamin D and Chemotherapy in Pancreatic Cancer by Integrated Imaging and Molecular Analyses.",
+        "pubdate": "2026 Aug 10",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42574460/"
+      },
+      {
+        "pmid": "42566269",
+        "title": "Author Reply to Letter to the Editor Regarding \"Intratympanic Dexamethasone Efficacy in Preventing Cisplatin-Induced Tinnitus: A Randomized Controlled Phase IIIB Clinical Trial\".",
+        "pubdate": "2026 Aug 6",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42566269/"
+      },
+      {
+        "pmid": "42561946",
+        "title": "Biomarker-guided responses in patient-derived organoids predict effective therapies in breast cancer.",
+        "pubdate": "2026 Aug 6",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42561946/"
+      },
+      {
+        "pmid": "42546669",
+        "title": "Efficacy and Safety of Camrelizumab Combined with Concurrent Chemoradiotherapy in Locally Advanced Cervical Cancer: A Phase II Single-Arm Clinical Trial.",
+        "pubdate": "2026 Jul 11",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42546669/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

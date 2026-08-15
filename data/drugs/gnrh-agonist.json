@@ -1,0 +1,94 @@
+{
+  "drug_name": "GnRH (agonist)",
+  "slug": "gnrh-agonist",
+  "enriched_at": "2026-08-15T21:15:48Z",
+  "source_trial_ids": [
+    "NCT02531516"
+  ],
+  "sponsors": [
+    "Aragon Pharmaceuticals, Inc."
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "6384",
+      "generic_name": "gonadorelin",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL442806",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=GnRH%20%28agonist%29+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=GnRH%20%28agonist%29+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=GnRH%20%28agonist%29+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Prostatic Neoplasms",
+    "slug": "prostatic-neoplasms"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT02531516",
+      "title": "An Efficacy and Safety Study of JNJ-56021927 (Apalutamide) in High-risk Prostate Cancer Subjects Receiving Primary Radiation Therapy: ATLAS",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT02531516",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42574969",
+        "title": "A phase II study of androgen receptor inhibition by darolutamide in combination with leuprolide acetate and exemestane in recurrent adult-type ovarian granulosa cell tumor.",
+        "pubdate": "2026 Aug 10",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42574969/"
+      },
+      {
+        "pmid": "42571060",
+        "title": "The Effect of Intramuscular Human Chorionic Gonadotropin on Endometrial Preparation in Frozen-Thawed Embryo Transfer: A Randomized Clinical Trial.",
+        "pubdate": "2026 Jul 27",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42571060/"
+      },
+      {
+        "pmid": "42471694",
+        "title": "Interpretable, internally validated prognostic modelling of cumulative clinical pregnancy in women with diminished ovarian reserve.",
+        "pubdate": "2026 Jul 18",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42471694/"
+      },
+      {
+        "pmid": "42425545",
+        "title": "Progestogen-primed ovarian stimulation vs GnRH antagonists and/or agonists for women undergoing assisted reproduction: systematic review and meta-analysis.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42425545/"
+      },
+      {
+        "pmid": "42406777",
+        "title": "Linzagolix versus leuprorelin in Japanese women with uterine leiomyomas: a phase 3, randomized, active-controlled, non-inferiority trial.",
+        "pubdate": "2026 Jul 6",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42406777/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

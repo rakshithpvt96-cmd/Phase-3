@@ -1,0 +1,154 @@
+{
+  "drug_name": "Durvalumab",
+  "slug": "durvalumab",
+  "enriched_at": "2026-08-15T21:12:46Z",
+  "source_trial_ids": [
+    "NCT03682068",
+    "NCT05298423"
+  ],
+  "sponsors": [
+    "AstraZeneca",
+    "Merck Sharp & Dohme LLC"
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1919503",
+      "generic_name": "durvalumab",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL3301587",
+    "target_chembl_id": "CHEMBL3580522",
+    "target_name": "Programmed cell death 1 ligand 1",
+    "mechanism_of_action_chembl": "Programmed cell death 1 ligand 1 inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Expression of programmed cell death ligand-1 (PD-L1) can be induced by inflammatory signals (e.g., IFN-gamma) and can be expressed on both tumor cells and tumor-associated immune cells in the tumor microenvironment. PD-L1 blocks T-cell function and activation through interaction with PD-1 and CD80 (B7.1). By binding to its receptors, PD-L1 reduces cytotoxic T-cell activity, proliferation, and cytokine production. Durvalumab is a human immunoglobulin G1 kappa (IgG1κ) monoclonal antibody that binds to PD-L1 and blocks the interaction of PD-L1 with PD-1 and CD80 (B7.1). Blockade of PD-L1/PD-1 and PD-L1/CD80 interactions releases the inhibition of immune responses, without inducing antibody dependent cell-mediated cytotoxicity (ADCC). PD-L1 blockade with durvalumab led to increased T-cell activation in vitro and decreased tumor size in co-engrafted human tumor and immune cell xenograft mouse models.",
+    "pharmacokinetics": "12.3 Pharmacokinetics The pharmacokinetics of durvalumab as a single agent was studied in patients with doses ranging from 0.1 mg/kg (0.01 times the approved recommended dosage) to 20 mg/kg (2 times the approved recommended dosage) administered once every two, three, or four weeks. PK exposure increased more than dose-proportionally at doses < 3 mg/kg (0.3 times the approved recommended dosage) and dose proportionally at doses ≥ 3 mg/kg every 2 weeks. Steady state was achieved at approximately 16 weeks. The pharmacokinetics of durvalumab is similar when assessed as a single agent, when in combination with chemotherapy, when in combination with tremelimumab-actl and when in combination with tremelimumab-actl and platinum-based chemotherapy. Distribution The geometric mean (% coefficient of variation [CV%]) steady state volume of distribution (Vss) was 5.4 (13.1%) L. Elimination Durvalumab clearance decreases over time, with a mean maximal reduction (CV%) from baseline values of approximately 23% (57%) resulting in a geometric mean (CV%) steady state clearance (CLss) of 8 mL/h (39%) at day 365; the decrease in CLss is not considered clinically relevant. The geometric mean (CV%) terminal half-life, based on baseline CL was approximately 21 (26%) days. Specific Populations There were no clinically significant differences in the pharmacokinetics of durvalumab based on body weight (31 to 175 kg), age (18 to 96 years), sex, race (White, Black, Asian, Native Hawaiian, Pacific Islander, or Native American), albumin levels (4 to 57 g/L), lactate dehydrogenase levels (18 to 15,800 U/L), soluble PD-L1 (67 to 3,470 pg/mL), tumor type (NSCLC, SCLC, BTC and HCC), mild or moderate renal impairment (CLcr 30 to 89 mL/min), and mild or moderate hepatic impairment (bilirubin ≤ 3x ULN and any AST). The effect of severe renal impairment (CLcr 15 to 29 mL/min) or severe hepatic impairment (bilirubin > 3x ULN and any AST) on the pharmacokinetics of durvalumab is unknown.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE IMFINZI is a programmed death-ligand 1 (PD-L1) blocking antibody indicated: • in combination with platinum-containing chemotherapy as neoadjuvant treatment, followed by IMFINZI continued as a single agent as adjuvant treatment after surgery, for the treatment of adult patients with resectable (tumors ≥ 4 cm and/or node positive) non-small cell lung cancer (NSCLC) and no known epidermal growth factor receptor (EGFR) mutations or anaplastic lymphoma kinase (ALK) rearrangements. ( 1.1 ) • as a single agent, for the treatment of adult patients with unresectable, Stage III NSCLC whose disease has not progressed following concurrent platinum-based chemotherapy and radiation therapy. ( 1.1 ) • in combination with tremelimumab-actl and platinum-based chemotherapy, for the treatment of adult patients with metastatic NSCLC with no sensitizing EGFR mutations or ALK genomic tumor aberrations. ( 1.1 ) • as a single agent, for the treatment of adult patients with limited-stage small cell lung cancer (LS-SCLC) whose disease has not progressed following concurrent platinum-based chemotherapy and radiation therapy. ( 1.2 ) • in combination with etoposide and either carboplatin or cisplatin, as first-line treatment of adult patients with extensive-stage small cell lung cancer (ES-SCLC). ( 1.2 ) • in combination with gemcitabine and cisplatin, as treatment of adult patients with locally advanced or metastatic biliary tract cancer (BTC). ( 1.3 ) • in combination with tremelimumab-actl, for the treatment of adult patients with unresectable hepatocellular carcinoma (uHCC). ( 1.4 ) • in combination with carboplatin and paclitaxel followed by IMFINZI as a single agent, for the treatment of adult patients with primary advanced or recurrent endometrial cancer that is mismatch repair deficient (dMMR) as determined by an FDA-authorized test. ( 1.5 , 2.1 ) • in combination with Bacillus Calmette-Guérin (BCG) for the treatment of adult patients with BCG-naive, high-risk non-muscle-invasive bladder cancer (NMIBC). ( 1.6 ) • in combination with gemcitabine and cisplatin as neoadjuvant treatment, followed by single agent IMFINZI as adjuvant treatment following radical cystectomy, for the treatment of adult patients with muscle invasive bladder cancer (MIBC). ( 1.6 ) • in combination with fluorouracil, leucovorin, oxaliplatin, and docetaxel (FLOT) chemotherapy as neoadjuvant and adjuvant treatment, followed by single agent IMFINZI, for the treatment of adult patients with resectable gastric or gastroesophageal junction adenocarcinoma (GC/GEJC). ( 1.7 ) 1.1 Non-Small Cell Lung Cancer • IMFINZI in combination with platinum-containing chemotherapy as neoadjuvant treatment, followed by IMFINZI continued as a single agent as adjuvant treatment after surgery, is indicated for the treatment of adult patients with resectable (tumors ≥ 4 cm and/or node positive) non-small cell lung cancer (NSCLC) and no known epidermal growth factor receptor (EGFR) mutations or anaplastic lymphoma kinase (ALK) rearrangements. • IMFINZI, as a single agent, is indicated for the treatment of adult patients with unresectable Stage III NSCLC whose disease has not progressed following concurrent platinum-based chemotherapy and radiation therapy (cCRT). • IMFINZI, in combination with tremelimumab-actl and platinum-based chemotherapy, is indicated for the treatment of adult patients with metastatic NSCLC with no sensitizing EGFR mutations or ALK genomic tumor aberrations. 1.2 Small Cell Lung Cancer • IMFINZI, as a single agent, is indicated for the treatment of adult patients with limited-stage small cell lung cancer (LS-SCLC) whose disease has not progressed following concurrent platinum-based chemotherapy and radiation therapy (cCRT). • IMFINZI, in combination with etoposide and either carboplatin or cisplatin, is indicated for the first-line treatment of adult patients with extensive-stage small cell lung cancer (ES-SCLC). 1.3 Biliary Tract Cancers IMFINZI, in combination with gemcitabine and cisplatin, is indicated for the treatment of adult patients with locally advanced or metastatic biliary tract cancer (BTC). 1.4 Hepatocellular Carcinoma IMFINZI, in combination with tremelimumab-actl, is indicated for the treatment of adult patients with unresectable hepatocellular carcinoma (uHCC). 1.5 Endometrial Cancer IMFINZI, in combination with carboplatin and paclitaxel followed by IMFINZI as a single agent, is indicated for the treatment of adult patients with primary advanced or recurrent endometrial cancer that is mismatch repair deficient (dMMR) as determined by an FDA-approved test [see Dosage and Administration (2.1) ] . 1.6 Bladder Cancer • IMFINZI in combination with Bacillus Calmette-Guérin (BCG) is indicated for the treatment of adult patients with BCG-naive, high-risk non-muscle-invasive bladder cancer (NMIBC). • IMFINZI in combination with gemcitabine and cisplatin as neoadjuvant treatment, followed by single agent IMFINZI as adjuvant treatment following radical cystectomy, is indicated for the treatment of adult patients with muscle invasive bladder cancer (MIBC). 1. 7 Gastric or gastroesophageal junction adeno carcinoma IMFINZI in combination with fluorouracil, leucovorin, oxaliplatin and docetaxel (FLOT) as neoadjuvant and adjuvant treatment, followed by single-agent IMFINZI, is indicated for the treatment of adult patients with resectable gastric or gastroesophageal junction adenocarcinoma (GC/GEJC).",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "IMFINZI"
+    ],
+    "openfda_generic_names": [
+      "DURVALUMAB"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8baba4ea-2855-42fa-9bd9-5a7548d4cec3",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Unresectable Locally Advanced Urothelial Cancer",
+    "slug": "unresectable-locally-advanced-urothelial-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT03682068",
+      "title": "Study of Durvalumab Given With Chemotherapy, Durvalumab in Combination With Tremelimumab Given With Chemotherapy, or Chemotherapy in Patients With Unresectable Urothelial Cancer",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT03682068",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT05298423",
+      "title": "Study of Pembrolizumab/Vibostolimab (MK-7684A) in Combination With Concurrent Chemoradiotherapy Followed by Pembrolizumab/Vibostolimab Versus Concurrent Chemoradiotherapy Followed by Durvalumab in Participants With Stage III Non-small Cell Lung Cancer (MK-7684A-006)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05298423",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42578486",
+        "title": "First-line systemic treatment for people with extensive-stage small cell lung cancer: a network meta-analysis.",
+        "pubdate": "2026 Aug 11",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42578486/"
+      },
+      {
+        "pmid": "42563422",
+        "title": "Response to the Letter Regarding \"Outcomes of Patients With Hepatocellular Carcinoma Treated With Durvalumab Plus Tremelimumab in Real-World Clinical Practice Who Met or Did Not Meet the Inclusion Criteria for the Phase 3 HIMALAYA Trial\".",
+        "pubdate": "2026 Aug 6",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42563422/"
+      },
+      {
+        "pmid": "42556446",
+        "title": "CHIO3: CHemotherapy Combined with Immune Checkpoint Inhibitor for Operable Stage IIIA/B (N2) Non-Small Cell Lung Cancer: Surgical Outcomes.",
+        "pubdate": "2026 Aug 5",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42556446/"
+      },
+      {
+        "pmid": "42552515",
+        "title": "Comment on Outcomes of Patients With Hepatocellular Carcinoma Treated With Durvalumab Plus Tremelimumab in Real-World Clinical Practice Who Met or Did Not Meet the Inclusion Criteria for the Phase 3 HIMALAYA Trial.",
+        "pubdate": "2026 Aug 4",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42552515/"
+      },
+      {
+        "pmid": "42529258",
+        "title": "Durvalumab Consolidation Treatment Following Concurrent Chemoradiotherapy in Limited-Stage SCLC: ADRIATIC China Subgroup Analysis.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42529258/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "ATEZOLIZUMAB",
+        "chembl_id": "CHEMBL3707227",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      },
+      {
+        "name": "AVELUMAB",
+        "chembl_id": "CHEMBL3833373",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      },
+      {
+        "name": "SUGEMALIMAB",
+        "chembl_id": "CHEMBL4594535",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      },
+      {
+        "name": "BINTRAFUSP ALFA",
+        "chembl_id": "CHEMBL4298024",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      },
+      {
+        "name": "ENVAFOLIMAB",
+        "chembl_id": "CHEMBL4298006",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      },
+      {
+        "name": "PACMILIMAB",
+        "chembl_id": "CHEMBL4297563",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      },
+      {
+        "name": "ERFONRILIMAB",
+        "chembl_id": "CHEMBL4650483",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      },
+      {
+        "name": "SOCAZOLIMAB",
+        "chembl_id": "CHEMBL4802221",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      },
+      {
+        "name": "ADEBRELIMAB",
+        "chembl_id": "CHEMBL4297828",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      },
+      {
+        "name": "COSIBELIMAB",
+        "chembl_id": "CHEMBL4297729",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      }
+    ]
+  }
+}

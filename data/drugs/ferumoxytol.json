@@ -1,0 +1,100 @@
+{
+  "drug_name": "ferumoxytol",
+  "slug": "ferumoxytol",
+  "enriched_at": "2026-08-15T21:14:14Z",
+  "source_trial_ids": [
+    "NCT03893045"
+  ],
+  "sponsors": [
+    "AMAG Pharmaceuticals, Inc."
+  ],
+  "identity": {
+    "pubchem_cid": 6432052,
+    "iupac_name": "iron(2+);bis(iron(3+));tetrakis(oxygen(2-))",
+    "molecular_formula": "Fe3O4",
+    "molecular_weight": "231.53",
+    "canonical_smiles": null,
+    "inchikey": "WTFXARWRTYJXII-UHFFFAOYSA-N",
+    "rxnorm": {
+      "rxcui": "473387",
+      "generic_name": "ferumoxytol",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1201867",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": "Unknown"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Feraheme consists of a superparamagnetic iron oxide that is coated with a carbohydrate shell, which helps to isolate the bioactive iron from plasma components until the iron-carbohydrate complex enters the reticuloendothelial system macrophages of the liver, spleen and bone marrow. The iron is released from the iron-carbohydrate complex within vesicles in the macrophages. Iron then either enters the intracellular storage iron pool (e.g., ferritin) or is transferred to plasma transferrin for transport to erythroid precursor cells for incorporation into hemoglobin.",
+    "pharmacokinetics": "12.3 Pharmacokinetics The pharmacokinetic (PK) behavior of Feraheme has been examined in healthy subjects and in patients with CKD stage 5D on hemodialysis. Feraheme exhibited dose-dependent, capacity-limited elimination from plasma with a half-life of approximately 15 hours in humans. The clearance (CL) was decreased by increasing the dose of Feraheme. Volume of distribution (Vd) was consistent with plasma volume, and the mean maximum observed plasma concentration (C max ) and terminal half-life (t 1/2 ) values increased with dose. The estimated values of CL and Vd following two 510 mg doses of Feraheme administered intravenously within 24 hours were 69.1 mL/hr and 3.16 L, respectively. The C max and time of maximum concentration (t max ) were 206 mcg/mL and 0.32 hr, respectively. Rate of infusion had no influence on Feraheme PK parameters. No gender differences in Feraheme PK parameters were observed. Feraheme is not removed by hemodialysis.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE Feraheme is indicated for the treatment of iron deficiency anemia (IDA) in adult patients: • who have intolerance to oral iron or have had unsatisfactory response to oral iron or • who have chronic kidney disease (CKD). Feraheme is an iron replacement product indicated for the treatment of iron deficiency anemia (IDA) in adult patients: • who have intolerance to oral iron or have had unsatisfactory response to oral iron ( 1 ) or • who have chronic kidney disease (CKD). ( 1 )",
+    "boxed_warning": "WARNING: RISK FOR SERIOUS HYPERSENSITIVITY/ANAPHYLAXIS REACTIONS Fatal and serious hypersensitivity reactions including anaphylaxis have occurred in patients receiving Feraheme. Initial symptoms may include hypotension, syncope, unresponsiveness, cardiac/cardiorespiratory arrest. • Only administer Feraheme as an intravenous infusion over at least 15 minutes and only when personnel and therapies are immediately available for the treatment of anaphylaxis and other hypersensitivity reactions [see Warnings and Precautions ( 5.1 )] . • Observe for signs or symptoms of hypersensitivity reactions during and for at least 30 minutes following Feraheme infusion including monitoring of blood pressure and pulse during and after Feraheme administration [see Warnings and Precautions ( 5.1 )]. • Hypersensitivity reactions have occurred in patients in whom a previous Feraheme dose was tolerated [see Warnings and Precautions ( 5.1 )]. WARNING: RISK FOR SERIOUS HYPERSENSITIVITY/ANAPHYLAXIS REACTIONS See full prescribing information for complete boxed warning. Fatal and serious hypersensitivity reactions including anaphylaxis have occurred in patients receiving Feraheme. Initial symptoms may include hypotension, syncope, unresponsiveness, cardiac/cardiorespiratory arrest. • Only administer Feraheme as an intravenous infusion over at least 15 minutes and only when personnel and therapies are immediately available for the treatment of anaphylaxis and other hypersensitivity reactions. ( 5.1 ) • Observe for signs or symptoms of hypersensitivity reactions during and for at least 30 minutes following Feraheme infusion including monitoring of blood pressure and pulse during and after Feraheme administration. ( 5.1 ) • Hypersensitivity reactions have occurred in patients in whom a previous Feraheme dose was tolerated. ( 5.1 )",
+    "openfda_brand_names": [
+      "Feraheme"
+    ],
+    "openfda_generic_names": [
+      "FERUMOXYTOL"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=32b0e320-a739-11dc-a704-0002a5d5c51b",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Iron Deficiency Anemia",
+    "slug": "iron-deficiency-anemia"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT03893045",
+      "title": "A Study to Evaluate Ferumoxytol for the Treatment of Iron Deficiency Anemia (IDA) in Pediatric Subjects",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT03893045",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42549404",
+        "title": "Interappointment pain reduction with three intracanal medicaments: A randomized clinical trial.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42549404/"
+      },
+      {
+        "pmid": "42464573",
+        "title": "Cost-effectiveness of ferumoxtran-enhanced macrophage-specific-MRI and PSMA-PET/CT versus ePLND for nodal staging in primary prostate cancer: a decision analysis based on updated phase-3 trial data.",
+        "pubdate": "2026 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42464573/"
+      },
+      {
+        "pmid": "41860281",
+        "title": "Intravenous Ferumoxytol Compared With Oral Ferrous Sulfate for Iron Deficiency Anemia in Pregnancy: A Randomized Controlled Trial.",
+        "pubdate": "2026 May 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41860281/"
+      },
+      {
+        "pmid": "41430711",
+        "title": "Darbepoetin plus slow-release IntraVenous Iron to decrease transfusions and improve iron status and neurodevelopment in preterm infants (DIVI): study protocol for a randomized, blinded phase II trial.",
+        "pubdate": "2025 Dec 22",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41430711/"
+      },
+      {
+        "pmid": "40625824",
+        "title": "Cutaneous Reactions to Iron Infusions: A Case Report and Clinical Review.",
+        "pubdate": "2025 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40625824/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

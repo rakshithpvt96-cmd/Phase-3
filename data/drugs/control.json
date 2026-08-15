@@ -1,0 +1,100 @@
+{
+  "drug_name": "Control",
+  "slug": "control",
+  "enriched_at": "2026-08-15T21:11:10Z",
+  "source_trial_ids": [
+    "NCT04850118"
+  ],
+  "sponsors": [
+    "Beacon Therapeutics"
+  ],
+  "identity": {
+    "pubchem_cid": 2712,
+    "iupac_name": "7-chloro-4-hydroxy-N-methyl-5-phenyl-3H-1,4-benzodiazepin-2-imine",
+    "molecular_formula": "C16H14ClN3O",
+    "molecular_weight": "299.75",
+    "canonical_smiles": null,
+    "inchikey": "BUCORZSTKDOEKQ-UHFFFAOYSA-N",
+    "rxnorm": {
+      "rxcui": "2611496",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1643772",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": "Uses reduces underarm wetness",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "Degree"
+    ],
+    "openfda_generic_names": [
+      "ADVANCED STRESS CONTROL DRY SPRAY 72H ANTIPERSPIRANT DEODORANT"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=07cb1c7c-5188-49d5-916e-e2161b5ca3b0",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "X-Linked Retinitis Pigmentosa",
+    "slug": "x-linked-retinitis-pigmentosa"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04850118",
+      "title": "A Clinical Trial Evaluating the Safety and Efficacy of a Single Subretinal Injection of AGTC-501 in Participants With XLRP",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04850118",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42602754",
+        "title": "Liposomal bupivacaine surgical site injection for decrease of narcotic use in hip fractures: a pilot multicenter randomized trial.",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42602754/"
+      },
+      {
+        "pmid": "42602753",
+        "title": "The effect of high-intensity interval training on cardiorespiratory fitness for non-ambulatory stroke survivors: a randomized controlled trial.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42602753/"
+      },
+      {
+        "pmid": "42602644",
+        "title": "Effects of Preemptive Analgesia Using Wrist-Ankle Acupuncture on Postoperative Pain and Urinary Retention After Haemorrhoidectomy: A Randomised, Three-Arm, Clinical Trial.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42602644/"
+      },
+      {
+        "pmid": "42602524",
+        "title": "Comparison of double-blind and open-label decline rates in lecanemab and donanemab trials in Alzheimer's disease.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42602524/"
+      },
+      {
+        "pmid": "42602197",
+        "title": "Empowering change: a prospective cohort study of an integrated cognitive behavioral therapy-based outpatient intervention for substance use disorder.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42602197/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

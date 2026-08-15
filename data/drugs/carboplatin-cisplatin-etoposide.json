@@ -1,0 +1,114 @@
+{
+  "drug_name": "carboplatin/cisplatin-etoposide",
+  "slug": "carboplatin-cisplatin-etoposide",
+  "enriched_at": "2026-08-15T21:09:36Z",
+  "source_trial_ids": [
+    "NCT05353257"
+  ],
+  "sponsors": [
+    "Shanghai Henlius Biotech"
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2555",
+      "generic_name": "cisplatin",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1351",
+    "target_chembl_id": "CHEMBL2311221",
+    "target_name": "DNA",
+    "mechanism_of_action_chembl": "DNA inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=carboplatin/cisplatin-etoposide+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=carboplatin/cisplatin-etoposide+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=carboplatin/cisplatin-etoposide+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Limited-Stage Small Cell Lung Cancer",
+    "slug": "limited-stage-small-cell-lung-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05353257",
+      "title": "A Study to Evaluate the Efficacy and Safety of Serplulimab in Combination With Chemotherapy and Concurrent Radiotherapy in Patients With Limited-Stage Small Cell Lung Cancer",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05353257",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "DORNASE ALFA",
+        "chembl_id": "CHEMBL1201431",
+        "reason": "same target: DNA"
+      },
+      {
+        "name": "DESOXYRIBONUCLEASE",
+        "chembl_id": "CHEMBL1201459",
+        "reason": "same target: DNA"
+      },
+      {
+        "name": "GEMTUZUMAB OZOGAMICIN",
+        "chembl_id": "CHEMBL1201506",
+        "reason": "same target: DNA"
+      },
+      {
+        "name": "BENDAMUSTINE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1201734",
+        "reason": "same target: DNA"
+      },
+      {
+        "name": "DACTINOMYCIN",
+        "chembl_id": "CHEMBL1554",
+        "reason": "same target: DNA"
+      },
+      {
+        "name": "CYCLOPHOSPHAMIDE",
+        "chembl_id": "CHEMBL1200796",
+        "reason": "same target: DNA"
+      },
+      {
+        "name": "MECHLORETHAMINE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1201001",
+        "reason": "same target: DNA"
+      },
+      {
+        "name": "STREPTOZOCIN",
+        "chembl_id": "CHEMBL1977579",
+        "reason": "same target: DNA"
+      },
+      {
+        "name": "NELARABINE",
+        "chembl_id": "CHEMBL1201112",
+        "reason": "same target: DNA"
+      },
+      {
+        "name": "EPIRUBICIN HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1200981",
+        "reason": "same target: DNA"
+      }
+    ]
+  }
+}

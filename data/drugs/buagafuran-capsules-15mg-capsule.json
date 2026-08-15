@@ -1,0 +1,118 @@
+{
+  "drug_name": "Buagafuran capsules, 15mg/ capsule",
+  "slug": "buagafuran-capsules-15mg-capsule",
+  "enriched_at": "2026-08-15T21:08:37Z",
+  "source_trial_ids": [
+    "NCT06243614",
+    "NCT06243640"
+  ],
+  "sponsors": [
+    "Beijing Union Pharmaceutical Factory Ltd"
+  ],
+  "identity": {
+    "rxnorm": null
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL139",
+    "target_chembl_id": "CHEMBL2094253",
+    "target_name": "Cyclooxygenase",
+    "mechanism_of_action_chembl": "Cyclooxygenase inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Buagafuran%20capsules%2C%2015mg/%20capsule+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Buagafuran%20capsules%2C%2015mg/%20capsule+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Buagafuran%20capsules%2C%2015mg/%20capsule+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Generalized Anxiety Disorder",
+    "slug": "generalized-anxiety-disorder"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06243614",
+      "title": "Phase Ⅲ Clinical Trial of Buagafuran Capsules in the Treatment of GAD",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06243614",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06243640",
+      "title": "Phase 3 Clinical Trial of Buagafuran Capsules in the Treatment of GAD",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06243640",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "IBUPROFEN SODIUM",
+        "chembl_id": "CHEMBL3989408",
+        "reason": "same target: Cyclooxygenase"
+      },
+      {
+        "name": "ACETAMINOPHEN",
+        "chembl_id": "CHEMBL112",
+        "reason": "same target: Cyclooxygenase"
+      },
+      {
+        "name": "NAPROXEN",
+        "chembl_id": "CHEMBL154",
+        "reason": "same target: Cyclooxygenase"
+      },
+      {
+        "name": "NAPROXEN SODIUM",
+        "chembl_id": "CHEMBL1200806",
+        "reason": "same target: Cyclooxygenase"
+      },
+      {
+        "name": "DICLOFENAC EPOLAMINE",
+        "chembl_id": "CHEMBL1201180",
+        "reason": "same target: Cyclooxygenase"
+      },
+      {
+        "name": "DICLOFENAC SODIUM",
+        "chembl_id": "CHEMBL1034",
+        "reason": "same target: Cyclooxygenase"
+      },
+      {
+        "name": "FENOPROFEN CALCIUM",
+        "chembl_id": "CHEMBL2103736",
+        "reason": "same target: Cyclooxygenase"
+      },
+      {
+        "name": "DIFLUNISAL",
+        "chembl_id": "CHEMBL898",
+        "reason": "same target: Cyclooxygenase"
+      },
+      {
+        "name": "SULFASALAZINE",
+        "chembl_id": "CHEMBL421",
+        "reason": "same target: Cyclooxygenase"
+      },
+      {
+        "name": "IBUPROFEN",
+        "chembl_id": "CHEMBL521",
+        "reason": "same target: Cyclooxygenase"
+      }
+    ]
+  }
+}

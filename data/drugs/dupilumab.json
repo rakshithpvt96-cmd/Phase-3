@@ -1,0 +1,102 @@
+{
+  "drug_name": "Dupilumab",
+  "slug": "dupilumab",
+  "enriched_at": "2026-08-15T21:12:40Z",
+  "source_trial_ids": [
+    "NCT06687967",
+    "NCT06687980"
+  ],
+  "sponsors": [
+    "Sanofi"
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1876376",
+      "generic_name": "dupilumab",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2108675",
+    "target_chembl_id": "CHEMBL3580490",
+    "target_name": "Interleukin-4 receptor subunit alpha",
+    "mechanism_of_action_chembl": "Interleukin-4 receptor subunit alpha antagonist"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Dupilumab is a human monoclonal IgG4 antibody that inhibits interleukin-4 (IL-4) and interleukin-13 (IL-13) signaling by specifically binding to the IL-4Rα subunit shared by the IL-4 and IL-13 receptor complexes. Dupilumab inhibits IL-4 signaling via the Type I receptor and both IL-4 and IL-13 signaling through the Type II receptor. Inflammation driven by IL-4 and IL-13 is an important component in the pathogenesis of asthma, AD, CRSwNP, EoE, PN, COPD, CSU, BP, and AFRS. Multiple cell types that express IL-4Rα (e.g., mast cells, basophils, eosinophils, macrophages, lymphocytes, epithelial cells, goblet cells) and inflammatory mediators (e.g., histamine, eicosanoids, leukotrienes, cytokines, chemokines) are involved in inflammation. Blocking IL-4Rα with dupilumab inhibits IL-4 and IL-13 cytokine-induced inflammatory responses, including the release of proinflammatory cytokines, chemokines, nitric oxide, and IgE. The mechanism of dupilumab action has not been definitively established.",
+    "pharmacokinetics": "12.3 Pharmacokinetics The pharmacokinetics of dupilumab is similar in subjects with AD, asthma, CRSwNP, EoE, PN, COPD, CSU, BP, and AFRS. Absorption Following an initial subcutaneous (SC) dose of 600 mg, 400 mg, or 300 mg, dupilumab reached peak mean ± SD concentrations (C max ) of 70.1±24.1 mcg/mL, 41.8±12.4 mcg/mL, or 30.5±9.39 mcg/mL, respectively, by approximately 1 week post dose. Steady-state concentrations were achieved by Week 16 following the administration of 600 mg starting dose and 300 mg dose either weekly or Q2W, or 400 mg starting dose and 200 mg dose Q2W, or 300 mg Q2W without a loading dose. Across clinical trials, the mean ± SD steady-state trough concentrations ranged from 55.3±34.3 mcg/mL to 80.2±35.3 mcg/mL for 300 mg administered Q2W, from 173±75.9 mcg/mL to 195±71.7 mcg/mL for 300 mg administered weekly, and from 29.2±18.7 to 36.5±22.2 mcg/mL for 200 mg administered Q2W. The bioavailability of dupilumab following a SC dose is similar between AD, asthma, CRSwNP, EoE, PN, COPD, CSU, BP, and AFRS subjects, ranging between 61% and 66%. Distribution The estimated total volume of distribution was approximately 4.8±1.3 L. Elimination The metabolic pathway of dupilumab has not been characterized. As a human monoclonal IgG4 antibody, dupilumab is expected to be degraded into small peptides and amino acids via catabolic pathways in the same manner as endogenous IgG. After the last steady-state dose of 300 mg QW, 300 mg Q2W, 200 mg Q2W, 300 mg Q4W, or 200 mg Q4W dupilumab, the median times to non-detectable concentration (<78 ng/mL) ranged from 9 to 13 weeks in adults and pediatric subjects 12 years of age and older. Population pharmacokinetic analyses indicate the median times to non-detectable concentration are approximately 1.5 times (up to 19 weeks) and 2.5 times (up to 32 weeks) longer in pediatric subjects 6 to 11 years of age and pediatric subjects 6 months to 5 years of age, respectively. Dose Linearity Dupilumab exhibited nonlinear target-mediated pharmacokinetics with exposures increasing in a greater than dose-proportional manner. The systemic exposure increased by 30-fold when the dose increased 8-fold following a single dose of dupilumab from 75 mg to 600 mg (i.e., 0.25-times to 2-times the recommended dose). Weight Dupilumab trough concentrations were lower in subjects with higher body weight. Immunogenicity Development of antibodies to dupilumab was associated with lower serum dupilumab concentrations. A few subjects who had high antibody titers also had no detectable serum dupilumab concentrations. Specific Populations Age Based on population pharmacokinetic analysis, age did not affect dupilumab clearance in adults and in pediatric subjects 6 to 17 years of age. In pediatric subjects 6 months to 5 years of age, clearance increased with age. Geriatric Patients No overall differences in the pharmacokinetics of dupilumab were observed between elderly and younger adult subjects. Pediatric Patients Atopic Dermatitis For pediatric subjects 12 years of age and older with AD receiving every 2 week dosing (Q2W) with either 200 mg (<60 kg) or 300 mg (≥60 kg), the mean ± SD steady-state trough concentration of dupilumab was 54.5±27.0 mcg/mL. For pediatric subjects 6 to 11 years of age with AD receiving every 2 week dosing (Q2W) with 200 mg (≥30 kg) or every 4 week dosing (Q4W) with 300 mg (<30 kg), mean ± SD steady-state trough concentration was 86.0±34.6 mcg/mL and 98.7±33.2 mcg/mL, respectively. For pediatric subjects 6 months to 5 years of age with AD receiving every 4 week dosing (Q4W) with 300 mg (≥15 to <30 kg) or 200 mg (≥5 to <15 kg), the mean ± SD steady-state trough concentration was 110±42.8 mcg/mL and 109±50.8 mcg/mL, respectively. Asthma A total of 107 pediatric subjects 12 to 17 years of age with asthma were enrolled in QUEST. The mean ± SD steady-state trough concentrations of dupilumab were 107±51.6 mcg/mL and 46.7±26.9 mcg/mL, respectively, for 300 mg or 200 mg administered Q2W. In VOYAGE, dupilumab pharmacokinetics was investigated in 270 subjects with moderate-to-severe asthma following subcutaneous administration of either 100 mg Q2W (for 91 pediatric subjects weighing <30 kg) or 200 mg Q2W (for 179 pediatric subjects weighing ≥30 kg). The mean ± SD steady-state trough concentration was 58.4±28.0 mcg/mL and 85.1±44.9 mcg/mL, respectively. Simulation of a 300 mg Q4W subcutaneous dose in pediatric subjects 6 to 11 years of age with body weight of ≥15 to <30 kg resulted in predicted steady-state trough concentrations (98.7±41.0 mcg/mL) and average concentrations higher than the observed trough concentrations and average concentrations of 100 mg Q2W (<30 kg). CRSwNP Clinical studies have not been conducted in pediatric patients aged 12 years and older with CRSwNP. Dupilumab exposures are expected to be comparable between adults and pediatric patients aged 12 years and older at the recommended dosage for CRSwNP (300 mg every 2 weeks). Eosinophilic Esophagitis In Study EoE-1, dupilumab pharmacokinetics were investigated in 35 pediatric subjects 12 to 17 years of age, weighing at least 40 kg, with EoE, receiving 300 mg QW. The mean ± SD steady-state trough concentration of dupilumab was 227±95.3 mcg/mL. In Study EoE-2 Part A, dupilumab pharmacokinetics were investigated in 20 pediatric subjects 1 to 11 years of age with EoE receiving the following weight-based dosing regimens: ≥15 to <30 kg (200 mg Q2W) and ≥30 to <40 kg (300 mg Q2W). At Week 16, the mean ± SD steady-state trough concentration of dupilumab was 174±66.2 mcg/mL. The systemic exposure in pediatric subjects 1 to 11 years of age with a body weight ≥40 kg receiving 300 mg QW is expected to be comparable to adult and pediatric subjects 12 years and older with a body weight ≥40 kg. The systemic exposure in pediatric subjects 12 to 17 years of age with a body weight <40 kg receiving 300 mg Q2W is expected to be comparable to pediatric subjects 6 to 11 years of age. Chronic Spontaneous Urticaria A total of 12 pediatric subjects 12 to 17 years of age with CSU were enrolled in CUPID (Study A, B, and C), including 6 subjects who received DUPIXENT 200 mg Q2W (≥30 to <60 kg) and 300 mg Q2W (≥60 kg). At week 24, the mean ± SD observed steady-state trough concentration was 53.6 ± 19.4 mcg/mL, which was within the range of steady-state trough concentrations in adult subjects with CSU who received DUPIXENT 300 mg Q2W. A total of 20 pediatric subjects 2 to 11 years of age with CSU were enrolled in clinical trials and pharmacokinetic Study PKM16982, including 18 subjects who received DUPIXENT 200 mg Q4W (≥5 to <15 kg), 300 mg Q4W (≥15 to <30 kg), or 200 mg Q2W (≥30 to <60 kg). At week 24, the mean ± SD steady-state trough concentration was 91.1 ± 39.4 mcg/mL. Allergic Fungal Rhinosinusitis A total of 6 pediatric subjects 6 to 17 years of age with AFRS were enrolled in AIMS, including 3 subjects who received DUPIXENT 200 mg Q2W (≥30 to <60 kg) and 300 mg Q2W (≥60 kg). At week 52, the mean ± SD observed steady-state trough concentration was 72.3 ± 28.8 mcg/mL, which was within the range of steady-state trough concentrations in adult subjects with AFRS who received DUPIXENT 300 mg Q2W. Drug Interaction Studies An effect of dupilumab on the PK of co-administered medications is not expected. Based on the population analysis, commonly co-administered medications had no effect on DUPIXENT pharmacokinetics in subjects with moderate-to-severe asthma. Cytochrome P450 Substrates The effects of dupilumab on the pharmacokinetics of midazolam (metabolized by CYP3A4), warfarin (metabolized by CYP2C9), omeprazole (metabolized by CYP2C19), metoprolol (metabolized by CYP2D6), and caffeine (metabolized by CYP1A2) were evaluated in a study with 12-13 evaluable subjects with AD (a SC loading dose of 600 mg followed by 300 mg SC weekly for six weeks). No clinically significant changes in AUC were observed. The largest effect was observed for metoprolol (CYP2D6) with an increase in AUC of 29%.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE DUPIXENT is an interleukin-4 receptor alpha antagonist indicated: Atopic Dermatitis for the treatment of adult and pediatric patients aged 6 months and older with moderate-to-severe AD whose disease is not adequately controlled with topical prescription therapies or when those therapies are not advisable. DUPIXENT can be used with or without topical corticosteroids. ( 1.1 ) Asthma as an add-on maintenance treatment of adult and pediatric patients aged 6 years and older with moderate-to-severe asthma characterized by an eosinophilic phenotype or with oral corticosteroid dependent asthma. ( 1.2 ) Limitations of Use: Not for the relief of acute bronchospasm or status asthmaticus. ( 1.2 ) Chronic Rhinosinusitis with Nasal Polyps as an add-on maintenance treatment in adult and pediatric patients aged 12 years and older with inadequately controlled chronic rhinosinusitis with nasal polyps (CRSwNP). ( 1.3 ) Eosinophilic Esophagitis for the treatment of adult and pediatric patients aged 1 year and older, weighing at least 15 kg, with eosinophilic esophagitis (EoE). ( 1.4 ) Prurigo Nodularis for the treatment of adult patients with prurigo nodularis (PN). ( 1.5 ) Chronic Obstructive Pulmonary Disease as an add-on maintenance treatment of adult patients with inadequately controlled chronic obstructive pulmonary disease (COPD) and an eosinophilic phenotype. ( 1.6 ) Limitations of Use: Not for the relief of acute bronchospasm. ( 1.6 ) Chronic Spontaneous Urticaria for the treatment of adult and pediatric patients aged 2 years and older with chronic spontaneous urticaria (CSU) who remain symptomatic despite H1 antihistamine treatment. ( 1.7 ) Limitations of Use: Not indicated for other forms of urticaria. ( 1.7 ) Bullous Pemphigoid for the treatment of adult patients with bullous pemphigoid (BP). ( 1.8 ) Allergic Fungal Rhinosinusitis for the treatment of adult and pediatric patients aged 6 years and older with allergic fungal rhinosinusitis (AFRS) who have a history of sino-nasal surgery. ( 1.9 ) 1.1 Atopic Dermatitis DUPIXENT is indicated for the treatment of adult and pediatric patients aged 6 months and older with moderate-to-severe atopic dermatitis (AD) whose disease is not adequately controlled with topical prescription therapies or when those therapies are not advisable. DUPIXENT can be used with or without topical corticosteroids. 1.2 Asthma DUPIXENT is indicated as an add-on maintenance treatment of adult and pediatric patients aged 6 years and older with moderate-to-severe asthma characterized by an eosinophilic phenotype or with oral corticosteroid dependent asthma. Limitations of Use DUPIXENT is not indicated for the relief of acute bronchospasm or status asthmaticus. 1.3 Chronic Rhinosinusitis with Nasal Polyps DUPIXENT is indicated as an add-on maintenance treatment in adult and pediatric patients aged 12 years and older with inadequately controlled chronic rhinosinusitis with nasal polyps (CRSwNP). 1.4 Eosinophilic Esophagitis DUPIXENT is indicated for the treatment of adult and pediatric patients aged 1 year and older, weighing at least 15 kg, with eosinophilic esophagitis (EoE). 1.5 Prurigo Nodularis DUPIXENT is indicated for the treatment of adult patients with prurigo nodularis (PN). 1.6 Chronic Obstructive Pulmonary Disease DUPIXENT is indicated as an add-on maintenance treatment of adult patients with inadequately controlled chronic obstructive pulmonary disease (COPD) and an eosinophilic phenotype. Limitations of Use DUPIXENT is not indicated for the relief of acute bronchospasm. 1.7 Chronic Spontaneous Urticaria DUPIXENT is indicated for the treatment of adult and pediatric patients aged 2 years and older with chronic spontaneous urticaria (CSU) who remain symptomatic despite H1 antihistamine treatment. Limitations of Use: DUPIXENT is not indicated for treatment of other forms of urticaria. 1.8 Bullous Pemphigoid DUPIXENT is indicated for the treatment of adult patients with bullous pemphigoid (BP). 1.9 Allergic Fungal Rhinosinusitis DUPIXENT is indicated for the treatment of adult and pediatric patients aged 6 years and older with allergic fungal rhinosinusitis (AFRS) who have a history of sino-nasal surgery.",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "Dupixent"
+    ],
+    "openfda_generic_names": [
+      "DUPILUMAB"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=595f437d-2729-40bb-9c62-c8ece1f82780",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Lichen Simplex Chronicus",
+    "slug": "lichen-simplex-chronicus"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06687967",
+      "title": "A Study to Investigate Improvement in Pruritus of Lichen Simplex Chronicus With Dupilumab Injections Compared With Placebo in Male and Female Participants Aged at Least 18 Years (STYLE 1)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06687967",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06687980",
+      "title": "A Study to Investigate Improvement in Pruritus of Lichen Simplex Chronicus With Dupilumab Injections Compared With Placebo in Male and Female Participants Aged at Least 18 Years (STYLE 2)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06687980",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42589941",
+        "title": "The Use of Biological Therapies in the Treatment of Chronic Rhinosinusitis with Nasal Polyps: Current State of Knowledge.",
+        "pubdate": "2026 Jul 26",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42589941/"
+      },
+      {
+        "pmid": "42508565",
+        "title": "Dupilumab effectiveness and safety in patients with CRSwNP: two year results from AROMA registry.",
+        "pubdate": "2026 Jul 27",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42508565/"
+      },
+      {
+        "pmid": "42498125",
+        "title": "Dupilumab for patients with allergic fungal rhinosinusitis.",
+        "pubdate": "2026 Jul 24",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42498125/"
+      },
+      {
+        "pmid": "42496183",
+        "title": "Dual REmission in moderate-to-severe AsthMa and Nasal Polyps: a multicentric observational Phase IV real-life study (DREAM-NP).",
+        "pubdate": "2026 Jul 26",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42496183/"
+      },
+      {
+        "pmid": "42430733",
+        "title": "Dupilumab Improves Endoscopic Features in Children Aged 1-11 Years With Eosinophilic Esophagitis: EoE KIDS Study Results.",
+        "pubdate": "2026 Jul 9",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42430733/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

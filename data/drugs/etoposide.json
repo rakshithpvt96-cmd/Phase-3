@@ -1,0 +1,151 @@
+{
+  "drug_name": "etoposide",
+  "slug": "etoposide",
+  "enriched_at": "2026-08-15T21:13:46Z",
+  "source_trial_ids": [
+    "NCT05298423"
+  ],
+  "sponsors": [
+    "Merck Sharp & Dohme LLC"
+  ],
+  "identity": {
+    "pubchem_cid": 36462,
+    "iupac_name": "(5S,5aR,8aR,9R)-5-[[(2R,4aR,6R,7R,8R,8aS)-7,8-dihydroxy-2-methyl-4,4a,6,7,8,8a-hexahydropyrano[3,2-d][1,3]dioxin-6-yl]oxy]-9-(4-hydroxy-3,5-dimethoxyphenyl)-5a,6,8a,9-tetrahydro-5H-[2]benzofuro[6,5-f][1,3]benzodioxol-8-one",
+    "molecular_formula": "C29H32O13",
+    "molecular_weight": "588.6",
+    "canonical_smiles": null,
+    "inchikey": "VJJPUSNTGOMMGY-MRVIYFEKSA-N",
+    "rxnorm": {
+      "rxcui": "4179",
+      "generic_name": "etoposide",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1200645",
+    "target_chembl_id": "CHEMBL1806",
+    "target_name": "DNA topoisomerase 2-alpha",
+    "mechanism_of_action_chembl": "DNA topoisomerase II alpha inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": null,
+    "pharmacokinetics": "Pharmacokinetics On intravenous administration, the disposition of etoposide is best described as a biphasic process with a distribution half-life of about 1.5 hours and terminal elimination half-life ranging from 4 to 11 hours. Total body clearance values range from 33 to 48 mL/min or 16 to 36 mL/min/m 2 and, like the terminal elimination half-life, are independent of dose over a range 100 to 600 mg/m 2 . Over the same dose range, the areas under the plasma concentration vs time curves (AUC) and the maximum plasma concentration (C max ) values increase linearly with dose. Etoposide does not accumulate in the plasma following daily administration of 100 mg/m 2 for 4 to 5 days. The mean volumes of distribution at steady state fall in the range of 18 to 29 liters or 7 to 17 L/m 2 . Etoposide enters the CSF poorly. Although it is detectable in CSF and intracerebral tumors, the concentrations are lower than in extracerebral tumors and in plasma. Etoposide concentrations are higher in normal lung than in lung metastases and are similar in primary tumors and normal tissues of the myometrium. In vitro , etoposide is highly protein bound (97%) to human plasma proteins. An inverse relationship between plasma albumin levels and etoposide renal clearance is found in children. In a study determining the effect of other therapeutic agents on the in vitro binding of carbon-14 labeled etoposide to human serum proteins, only phenylbutazone, sodium salicylate, and aspirin displaced protein-bound etoposide at concentrations achieved in vivo . Etoposide binding ratio correlates directly with serum albumin in patients with cancer and in normal volunteers. The unbound fraction of etoposide significantly correlated with bilirubin in a population of cancer patients. Data have suggested a significant inverse correlation between serum albumin concentration and free fraction of etoposide (see PRECAUTIONS section). After intravenous administration of 14 C-etoposide (100 to 124 mg/m 2 ), mean recovery of radioactivity in the urine was 56% of the dose at 120 hours, 45% of which was excreted as etoposide; fecal recovery of radioactivity was 44% of the dose at 120 hours. In children, approximately 55% of the dose is excreted in the urine as etoposide in 24 hours. The mean renal clearance of etoposide is 7 to 10 mL/min/m 2 or about 35% of the total body clearance over a dose range of 80 to 600 mg/m 2 . Etoposide, therefore, is cleared by both renal and nonrenal processes, i.e., metabolism and biliary excretion. The effect of renal disease on plasma etoposide clearance is not known. Biliary excretion of unchanged drug and/or metabolites is an important route of etoposide elimination as fecal recovery of radioactivity is 44% of the intravenous dose. The hydroxy acid metabolite [4'-demethylepipodophyllic acid-9-(4,6-O-(R)-ethylidene-β-D-glucopyranoside)], formed by opening of the lactone ring, is found in the urine of adults and children. It is also present in human plasma, presumably as the trans isomer. Glucuronide and/or sulfate conjugates of etoposide are also excreted in human urine. Only 8% or less of an intravenous dose is excreted in the urine as radiolabeled metabolites of 14 C-etoposide. In addition, O-demethylation of the dimethoxyphenol ring occurs through the CYP450 3A4 isoenzyme pathway to produce the corresponding catechol. After either intravenous infusion or oral capsule administration, the C max and AUC values exhibit marked intra- and inter-subject variability. In adults, the total body clearance of etoposide is correlated with creatinine clearance, serum albumin concentration, and nonrenal clearance. Patients with impaired renal function receiving etoposide have exhibited reduced total body clearance, increased AUC and a lower volume of distribution at steady state (see PRECAUTIONS section). Use of cisplatin therapy is associated with reduced total body clearance. In children, elevated serum SGPT levels are associated with reduced drug total body clearance. Prior use of cisplatin may also result in a decrease of etoposide total body clearance in children. Although some minor differences in pharmacokinetic parameters between age and gender have been observed, these differences were not considered clinically significant.",
+    "indications_and_usage": "INDICATIONS AND USAGE Etoposide Injection is indicated in the management of the following neoplasms: Refractory Testicular Tumors Etoposide Injection in combination therapy with other approved chemotherapeutic agents in patients with refractory testicular tumors who have already received appropriate surgical, chemotherapeutic, and radiotherapeutic therapy. Small Cell Lung Cancer Etoposide Injection and/or capsules in combination with other approved chemotherapeutic agents as first line treatment in patients with small cell lung cancer.",
+    "boxed_warning": "WARNINGS Etoposide injection should be administered under the supervision of a qualified physician experienced in the use of cancer chemotherapeutic agents. Severe myelosuppression with resulting infection or bleeding may occur.",
+    "openfda_brand_names": [
+      "Etoposide"
+    ],
+    "openfda_generic_names": [
+      "ETOPOSIDE"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fe870629-104d-4d67-a7c6-f53bc588121e",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Carcinoma, Non-Small-Cell Lung",
+    "slug": "carcinoma-non-small-cell-lung"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05298423",
+      "title": "Study of Pembrolizumab/Vibostolimab (MK-7684A) in Combination With Concurrent Chemoradiotherapy Followed by Pembrolizumab/Vibostolimab Versus Concurrent Chemoradiotherapy Followed by Durvalumab in Participants With Stage III Non-small Cell Lung Cancer (MK-7684A-006)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05298423",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42592685",
+        "title": "Redefining the Role of Chemotherapy and Targeted Cytotoxic Delivery in Lung Neuroendocrine Tumors.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42592685/"
+      },
+      {
+        "pmid": "42578486",
+        "title": "First-line systemic treatment for people with extensive-stage small cell lung cancer: a network meta-analysis.",
+        "pubdate": "2026 Aug 11",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42578486/"
+      },
+      {
+        "pmid": "42534780",
+        "title": "Extensive-stage small cell lung cancer in Hungary: a real-world analysis (2013-2022).",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42534780/"
+      },
+      {
+        "pmid": "42529258",
+        "title": "Durvalumab Consolidation Treatment Following Concurrent Chemoradiotherapy in Limited-Stage SCLC: ADRIATIC China Subgroup Analysis.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42529258/"
+      },
+      {
+        "pmid": "42526918",
+        "title": "Development of an externally controlled trial from a single-arm study to assess first-line immunochemotherapy in advanced large cell neuroendocrine lung carcinomas: a study protocol from the FIRST-NEC GFPC 01-2022 trial.",
+        "pubdate": "2026 Jul 29",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42526918/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "DAUNORUBICIN CITRATE",
+        "chembl_id": "CHEMBL1200475",
+        "reason": "same target: DNA topoisomerase 2-alpha"
+      },
+      {
+        "name": "DAUNORUBICIN HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1563",
+        "reason": "same target: DNA topoisomerase 2-alpha"
+      },
+      {
+        "name": "DOXORUBICIN HYDROCHLORIDE",
+        "chembl_id": "CHEMBL359744",
+        "reason": "same target: DNA topoisomerase 2-alpha"
+      },
+      {
+        "name": "MITOXANTRONE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1417019",
+        "reason": "same target: DNA topoisomerase 2-alpha"
+      },
+      {
+        "name": "VALRUBICIN",
+        "chembl_id": "CHEMBL1096885",
+        "reason": "same target: DNA topoisomerase 2-alpha"
+      },
+      {
+        "name": "IDARUBICIN HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1200976",
+        "reason": "same target: DNA topoisomerase 2-alpha"
+      },
+      {
+        "name": "AMRUBICIN HYDROCHLORIDE",
+        "chembl_id": "CHEMBL481958",
+        "reason": "same target: DNA topoisomerase 2-alpha"
+      },
+      {
+        "name": "ALDOXORUBICIN",
+        "chembl_id": "CHEMBL2107818",
+        "reason": "same target: DNA topoisomerase 2-alpha"
+      },
+      {
+        "name": "AMRUBICIN",
+        "chembl_id": "CHEMBL1186894",
+        "reason": "same target: DNA topoisomerase 2-alpha"
+      },
+      {
+        "name": "GANCOTAMAB",
+        "chembl_id": "CHEMBL3833344",
+        "reason": "same target: DNA topoisomerase 2-alpha"
+      }
+    ]
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "drug_name": "Gemcitabine Hydrochloride for Injection",
+  "slug": "gemcitabine-hydrochloride-for-injection",
+  "enriched_at": "2026-08-15T21:15:12Z",
+  "source_trial_ids": [
+    "NCT06738251"
+  ],
+  "sponsors": [
+    "Shanghai Hengrui Pharmaceutical Co., Ltd."
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1718999",
+      "generic_name": "gemcitabine Injection",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1637",
+    "target_chembl_id": "CHEMBL2095215",
+    "target_name": "Ribonucleoside-diphosphate reductase RR1",
+    "mechanism_of_action_chembl": "Ribonucleoside-diphosphate reductase RR1 inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Gemcitabine%20Hydrochloride%20for%20Injection+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Gemcitabine%20Hydrochloride%20for%20Injection+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Gemcitabine%20Hydrochloride%20for%20Injection+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Advanced Urothelial Carcinoma",
+    "slug": "advanced-urothelial-carcinoma"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06738251",
+      "title": "A Phase III Study of SHR-A2102 Versus Investigator-selected Therapy in Advanced Urothelial Carcinoma",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06738251",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42365236",
+        "title": "Study protocol: targeted delivery of interleukin-12 in combination with hepatic artery infusion pump therapy for patients with adrenocortical carcinoma liver metastases.",
+        "pubdate": "2026 Jun 27",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42365236/"
+      },
+      {
+        "pmid": "42206900",
+        "title": "Computed tomography-derived extracellular volume fraction is associated with high-grade recurrence in non-muscle-invasive bladder cancer treated with intravesical gemcitabine and docetaxel.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42206900/"
+      },
+      {
+        "pmid": "42053989",
+        "title": "Tumor Microenvironment Gene Engineering with LOAd703 in Patients with Solid Malignancies: LOKON002 Phase I/IIb Clinical Trial.",
+        "pubdate": "2026 Aug 3",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42053989/"
+      },
+      {
+        "pmid": "38796193",
+        "title": "Oral azacitidine compared with standard therapy in patients with relapsed or refractory follicular helper T-cell lymphoma (ORACLE): an open-label randomised, phase 3 study.",
+        "pubdate": "2024 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38796193/"
+      },
+      {
+        "pmid": "36406167",
+        "title": "Chemical-induced lung tumor in Tg-rasH2 mice: a novel mouse tumor model to assess immune checkpoint inhibitors combined with a chemotherapy drug.",
+        "pubdate": "2022 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36406167/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "HYDROXYUREA",
+        "chembl_id": "CHEMBL467",
+        "reason": "same target: Ribonucleoside-diphosphate reductase RR1"
+      },
+      {
+        "name": "CLOFARABINE",
+        "chembl_id": "CHEMBL1750",
+        "reason": "same target: Ribonucleoside-diphosphate reductase RR1"
+      },
+      {
+        "name": "FLUDARABINE PHOSPHATE",
+        "chembl_id": "CHEMBL1096882",
+        "reason": "same target: Ribonucleoside-diphosphate reductase RR1"
+      },
+      {
+        "name": "GALLIUM NITRATE",
+        "chembl_id": "CHEMBL1200983",
+        "reason": "same target: Ribonucleoside-diphosphate reductase RR1"
+      },
+      {
+        "name": "TEZACITABINE",
+        "chembl_id": "CHEMBL3989496",
+        "reason": "same target: Ribonucleoside-diphosphate reductase RR1"
+      },
+      {
+        "name": "MOTEXAFIN GADOLINIUM",
+        "chembl_id": "CHEMBL3544910",
+        "reason": "same target: Ribonucleoside-diphosphate reductase RR1"
+      }
+    ]
+  }
+}

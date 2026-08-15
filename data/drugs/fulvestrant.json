@@ -1,0 +1,100 @@
+{
+  "drug_name": "Fulvestrant",
+  "slug": "fulvestrant",
+  "enriched_at": "2026-08-15T21:14:43Z",
+  "source_trial_ids": [
+    "NCT05501886"
+  ],
+  "sponsors": [
+    "Celcuity Inc"
+  ],
+  "identity": {
+    "pubchem_cid": 104741,
+    "iupac_name": "(7R,8R,9S,13S,14S,17S)-13-methyl-7-[9-(4,4,5,5,5-pentafluoropentylsulfinyl)nonyl]-6,7,8,9,11,12,14,15,16,17-decahydrocyclopenta[a]phenanthrene-3,17-diol",
+    "molecular_formula": "C32H47F5O3S",
+    "molecular_weight": "606.8",
+    "canonical_smiles": null,
+    "inchikey": "VWUXBMIQPBEWFH-WCCTWKNTSA-N",
+    "rxnorm": {
+      "rxcui": "282357",
+      "generic_name": "fulvestrant",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4760678",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Many breast cancers have estrogen receptors (ER) and the growth of these tumors can be stimulated by estrogen. Fulvestrant is an estrogen receptor antagonist that binds to the estrogen receptor in a competitive manner with affinity comparable to that of estradiol and downregulates the ER protein in human breast cancer cells. In vitro studies demonstrated that fulvestrant is a reversible inhibitor of the growth of tamoxifen-resistant, as well as estrogen-sensitive human breast cancer (MCF-7) cell lines. In in vivo tumor studies, fulvestrant delayed the establishment of tumors from xenografts of human breast cancer MCF-7 cells in nude mice. Fulvestrant inhibited the growth of established MCF-7 xenografts and of tamoxifen-resistant breast tumor xenografts. Fulvestrant showed no agonist-type effects in in vivo uterotrophic assays in immature or ovariectomized mice and rats. In in vivo studies in immature rats and ovariectomized monkeys, fulvestrant blocked the uterotrophic action of estradiol. In postmenopausal women, the absence of changes in plasma concentrations of FSH and LH in response to fulvestrant treatment (250 mg monthly) suggests no peripheral steroidal effects.",
+    "pharmacokinetics": "12.3 Pharmacokinetics Absorption The single dose and multiple dose PK parameters for the 500 mg dosing regimen with an additional dose (AD) at Day 15 are reported in Table 11 . The additional dose of Fulvestrant Injection given two weeks after the initial dose allows for steady state concentrations to be reached within the first month of dosing. Table 11: Summary of Fulvestrant Pharmacokinetic Parameters [gMean (CV%)] in Postmenopausal Advanced Breast Cancer Patients after Intramuscular Administration 500 mg + AD Dosing Regimen 1 Additional 500 mg dose given on Day 15 2 Month 3 C max (ng/mL) C min (ng/mL) AUC (ng.hr/mL) 500 mg + AD 1 Single dose 25.1 (35.3) 16.3 (25.9) 11400 (33.4) Multiple dose steady state 2 28.0 (27.9) 12.2 (21.7) 13100 (23.4) Distribution The apparent volume of distribution at steady state is approximately 3 to 5 L/kg. This suggests that distribution is largely extravascular. Fulvestrant is highly (99%) bound to plasma proteins; VLDL, LDL and HDL lipoprotein fractions appear to be the major binding components. The role of sex hormone-binding globulin, if any, could not be determined. Metabolism Biotransformation and disposition of fulvestrant in humans have been determined following intramuscular and intravenous administration of 14 C-labeled fulvestrant. Metabolism of fulvestrant appears to involve combinations of a number of possible biotransformation pathways analogous to those of endogenous steroids, including oxidation, aromatic hydroxylation, conjugation with glucuronic acid and/or sulphate at the 2, 3 and 17 positions of the steroid nucleus, and oxidation of the side chain sulphoxide. Identified metabolites are either less active or exhibit similar activity to fulvestrant in antiestrogen models. Studies using human liver preparations and recombinant human enzymes indicate that cytochrome P-450 3A4 (CYP 3A4) is the only P-450 isoenzyme involved in the oxidation of fulvestrant; however, the relative contribution of P-450 and non-P-450 routes in vivo is unknown. Excretion Fulvestrant was rapidly cleared by the hepatobiliary route with excretion primarily via the feces (approximately 90%). Renal elimination was negligible (less than 1%). After an intramuscular injection of 250 mg, the clearance (Mean ± SD) was 690 ± 226 mL/min with an apparent half-life about 40 days. Special Populations Geriatric In patients with breast cancer, there was no difference in fulvestrant pharmacokinetic profile related to age (range 33 to 89 years). Gender Following administration of a single intravenous dose, there were no pharmacokinetic differences between men and women or between premenopausal and postmenopausal women. Similarly, there were no differences between men and postmenopausal women after intramuscular administration. Race In the advanced breast cancer treatment trials, the potential for pharmacokinetic differences due to race have been evaluated in 294 women including 87.4% Caucasian, 7.8% Black, and 4.4% Hispanic. No differences in fulvestrant plasma pharmacokinetics were observed among these groups. In a separate trial, pharmacokinetic data from postmenopausal ethnic Japanese women were similar to those obtained in non-Japanese patients. Drug-Drug Interactions There are no known drug-drug interactions. Fulvestrant does not significantly inhibit any of the major CYP isoenzymes, including CYP 1A2, 2C9, 2C19, 2D6, and 3A4 in vitro , and studies of co-administration of fulvestrant with midazolam indicate that therapeutic doses of fulvestrant have no inhibitory effects on CYP 3A4 or alter blood levels of drug metabolized by that enzyme. Although fulvestrant is partly metabolized by CYP 3A4, a clinical study with rifampin, an inducer of CYP 3A4, showed no effect on the pharmacokinetics of fulvestrant. Also results from a healthy volunteer study with ketoconazole, a potent inhibitor of CYP 3A4, indicated that ketoconazole had no effect on the pharmacokinetics of fulvestrant and dosage adjustment is not necessary in patients co-prescribed CYP 3A4 inhibitors or inducers [see Drug Interactions ( 7 )] . Data from a clinical trial in patients with breast cancer showed that there was no clinically relevant drug interaction when fulvestrant is co-administered with palbociclib, abemaciclib, or ribociclib.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE Fulvestrant Injection is an estrogen receptor antagonist indicated for the treatment of: Hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative advanced breast cancer in postmenopausal women not previously treated with endocrine therapy. ( 1 ) HR-positive advanced breast cancer in postmenopausal women with disease progression following endocrine therapy. ( 1 ) HR-positive, HER2-negative advanced or metastatic breast cancer in postmenopausal women in combination with ribociclib, as initial endocrine based therapy or following disease progression on endocrine therapy. ( 1 ) HR-positive, HER2-negative advanced or metastatic breast cancer in combination with palbociclib or abemaciclib in women with disease progression after endocrine therapy. ( 1 ) Monotherapy Fulvestrant Injection is indicated for the treatment of: Hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative advanced breast cancer in postmenopausal women not previously treated with endocrine therapy, or HR-positive advanced breast cancer in postmenopausal women with disease progression following endocrine therapy. Combination Therapy Fulvestrant Injection is indicated for the treatment of: HR-positive, HER2-negative advanced or metastatic breast cancer in postmenopausal women in combination with ribociclib as initial endocrine based therapy or following disease progression on endocrine therapy. HR-positive, HER2-negative advanced or metastatic breast cancer in combination with palbociclib or abemaciclib in women with disease progression after endocrine therapy.",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "Fulvestrant"
+    ],
+    "openfda_generic_names": [
+      "FULVESTRANT"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e20d8ca3-8837-4003-8b01-1ebec342062a",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Breast Cancer",
+    "slug": "breast-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05501886",
+      "title": "Gedatolisib Plus Fulvestrant With or Without Palbociclib vs Standard-of-Care for the Treatment of Patients With Advanced or Metastatic HR+/HER2- Breast Cancer (VIKTORIA-1)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05501886",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42543051",
+        "title": "Cost-effectiveness of inavolisib-based therapy in PIK3CA-mutated advanced breast cancer in the USA.",
+        "pubdate": "2026 Jul 27",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42543051/"
+      },
+      {
+        "pmid": "42265710",
+        "title": "Targeting drug resistance in breast cancer: a dual-perspective landscape analysis of PROTACs from bench to bedside.",
+        "pubdate": "2026 Jun 9",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42265710/"
+      },
+      {
+        "pmid": "42216212",
+        "title": "Real-world data for a CDK4/6 inhibitor, palbociclib, as 1st- or 2nd-line therapy in HR+/HER2- metastatic breast cancer: a multicenter prospective cohort study.",
+        "pubdate": "2026 May 29",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42216212/"
+      },
+      {
+        "pmid": "42168151",
+        "title": "Fulvestrant versus capecitabine as maintenance therapy in hormone receptor-positive, HER2-negative metastatic breast cancer after first-line chemotherapy (FAMILY): a multicenter, open-label, randomized, phase 3 trial.",
+        "pubdate": "2026 May 22",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42168151/"
+      },
+      {
+        "pmid": "41902997",
+        "title": "The logarithmic phase as a therapeutic direction: evaluating pharmacological strategies against cancer progression.",
+        "pubdate": "2026 Mar 28",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41902997/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

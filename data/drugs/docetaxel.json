@@ -1,0 +1,178 @@
+{
+  "drug_name": "Docetaxel",
+  "slug": "docetaxel",
+  "enriched_at": "2026-08-15T21:12:04Z",
+  "source_trial_ids": [
+    "NCT05132075",
+    "NCT05943795",
+    "NCT06319313",
+    "NCT06370871"
+  ],
+  "sponsors": [
+    "Boehringer Ingelheim",
+    "Novartis Pharmaceuticals",
+    "Shanghai JMT-Bio Inc.",
+    "Sichuan Baili Pharmaceutical Co., Ltd."
+  ],
+  "identity": {
+    "pubchem_cid": 148124,
+    "iupac_name": "[(1S,2S,3R,4S,7R,9S,10S,12R,15S)-4-acetyloxy-1,9,12-trihydroxy-15-[(2R,3S)-2-hydroxy-3-[(2-methylpropan-2-yl)oxycarbonylamino]-3-phenylpropanoyl]oxy-10,14,17,17-tetramethyl-11-oxo-6-oxatetracyclo[11.3.1.03,10.04,7]heptadec-13-en-2-yl] benzoate",
+    "molecular_formula": "C43H53NO14",
+    "molecular_weight": "807.9",
+    "canonical_smiles": null,
+    "inchikey": "ZDZOTLJHXYCWBA-VCVYQWHSSA-N",
+    "rxnorm": {
+      "rxcui": "72962",
+      "generic_name": "docetaxel",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL92",
+    "target_chembl_id": "CHEMBL2095182",
+    "target_name": "Tubulin",
+    "mechanism_of_action_chembl": "Tubulin stabiliser"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Docetaxel is an antineoplastic agent that acts by disrupting the microtubular network in cells that is essential for mitotic and interphase cellular functions. Docetaxel binds to free tubulin and promotes the assembly of tubulin into stable microtubules while simultaneously inhibiting their disassembly. This leads to the production of microtubule bundles without normal function and to the stabilization of microtubules, which results in the inhibition of mitosis in cells. Docetaxel's binding to microtubules does not alter the number of protofilaments in the bound microtubules, a feature which differs from most spindle poisons currently in clinical use.",
+    "pharmacokinetics": "12.3 Pharmacokinetics Absorption The pharmacokinetics of docetaxel has been evaluated in cancer patients after administration of 20 mg/m 2 to 115 mg/m 2 in phase 1 studies. The area under the curve (AUC) was dose proportional following doses of 70 mg/m 2 to 115 mg/m 2 with infusion times of 1 to 2 hours. Docetaxel’s pharmacokinetic profile is consistent with a three-compartment pharmacokinetic model, with initial rapid distribution phase and the late (terminal) phase. Distribution Mean steady state volume of distribution was 113 L. Docetaxel is approximately 94% protein bound in vitro , mainly to α1-acid glycoprotein, albumin, and lipoproteins. In three cancer patients, the in vitro binding to plasma proteins was approximately 97%. Dexamethasone does not affect the protein binding of docetaxel. Elimination With extended plasma sampling up to 8 to 22 days post infusion, the estimated mean total body clearance was 18 L/h/m 2 (range of means: 14 to 23) and mean terminal elimination half-life was 116 hours (range of means: 92 to 135). Metabolism Docetaxel is metabolized by the CYP3A4 isoenzyme in vitro [see Drug Interactions (7) ]. Excretion In three cancer patients urinary and fecal excretion accounted for approximately 6% and 75% of the administered radioactivity, respectively, within 7 days. About 80% of the radioactivity recovered in feces was excreted during the first 48 hours as 1 major and 3 minor metabolites with less than 8% as unchanged drug. Specific Populations Effect of Age A population pharmacokinetic analysis was carried out after docetaxel treatment of 535 patients dosed at 100 mg/m 2 . Pharmacokinetic parameters estimated by this analysis were very close to those estimated from phase 1 studies. The pharmacokinetics of docetaxel was not influenced by age. Effect of Gender The population pharmacokinetics analysis described above also indicated that gender did not influence the pharmacokinetics of docetaxel. Hepatic Impairment The population pharmacokinetic analysis described above indicated that in patients with clinical chemistry data suggestive of mild to moderate liver impairment (AST and/or ALT >1.5 times ULN concomitant with alkaline phosphatase >2.5 times ULN), total body clearance was lowered by an average of 27%, resulting in a 38% increase in systemic exposure (AUC). This average, however, includes a substantial range and there is, at present, no measurement that would allow recommendation for dose adjustment in such patients. Patients with combined abnormalities of transaminase and alkaline phosphatase should not be treated with Docetaxel Injection. Patients with severe hepatic impairment have not been studied [ see Warnings and Precautions (5.2) , Use in Specific Populations (8.6) ]. Effect of Race Mean total body clearance for Japanese patients dosed at the range of 10 mg/m 2 to 90 mg/m 2 was similar to that of European/American populations dosed at 100 mg/m 2 , suggesting no significant difference in the elimination of docetaxel in the two populations. Drug Interaction Studies Effect of Ketoconazole The effect of ketoconazole (a strong CYP3A4 inhibitor) on the pharmacokinetics of docetaxel was investigated in 7 cancer patients. Patients were randomized to receive either docetaxel (100 mg/m 2 intravenous) alone or docetaxel (10 mg/m 2 intravenous) in combination with ketoconazole (200 mg orally once daily for 3 days) in a crossover design with a 3-week washout period. The results of this study indicated that the mean dose-normalized AUC of docetaxel was increased 2.2-fold and its clearance was reduced by 49% when docetaxel was coadministered with ketoconazole [ see Dosage and Administration (2.7) , Drug Interactions (7) ]. Effect of Combination Therapies • Dexamethasone: Docetaxel total body clearance was not modified by pretreatment with dexamethasone. • Cisplatin: Clearance of docetaxel in combination therapy with cisplatin was similar to that previously observed following monotherapy with docetaxel. The pharmacokinetic profile of cisplatin in combination therapy with docetaxel was similar to that observed with cisplatin alone. • Cisplatin and Fluorouracil: The combined administration of docetaxel, cisplatin and fluorouracil in 12 patients with solid tumors had no influence on the pharmacokinetics of each individual drug. • Prednisone: A population pharmacokinetic analysis of plasma data from 40 patients with metastatic castration-resistant prostate cancer indicated that docetaxel systemic clearance in combination with prednisone is similar to that observed following administration of docetaxel alone. • Cyclophosphamide and Doxorubicin: A study was conducted in 30 patients with advanced breast cancer to determine the potential for drug-drug interactions between docetaxel (75 mg/m 2 ), doxorubicin (50 mg/m 2 ), and cyclophosphamide (500 mg/m 2 ) when administered in combination. The coadministration of docetaxel had no effect on the pharmacokinetics of doxorubicin and cyclophosphamide when the three drugs were given in combination compared to coadministration of doxorubicin and cyclophosphamide only. In addition, doxorubicin and cyclophosphamide had no effect on docetaxel plasma clearance when the three drugs were given in combination compared to historical data for docetaxel monotherapy.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE Docetaxel Injection is a microtubule inhibitor indicated for: • Breast Cancer (BC): single agent for locally advanced or metastatic BC after chemotherapy failure; and with doxorubicin and cyclophosphamide as adjuvant treatment of operable node-positive BC ( 1.1 ) • Non-small Cell Lung Cancer (NSCLC): single agent for locally advanced or metastatic NSCLC after platinum therapy failure; and with cisplatin for unresectable, locally advanced or metastatic untreated NSCLC ( 1.2 ) • Castration-Resistant Prostate Cancer (CRPC): with prednisone in metastatic castration-resistant prostate cancer ( 1.3 ) • Gastric Adenocarcinoma (GC): with cisplatin and fluorouracil for untreated, advanced GC, including the gastroesophageal junction ( 1.4 ) • Squamous Cell Carcinoma of the Head and Neck (SCCHN): with cisplatin and fluorouracil for induction treatment of locally advanced SCCHN ( 1.5 ) 1.1 Breast Cancer Docetaxel Injection is indicated for the treatment of patients with locally advanced or metastatic breast cancer after failure of prior chemotherapy. Docetaxel Injection in combination with doxorubicin and cyclophosphamide is indicated for the adjuvant treatment of patients with operable node-positive breast cancer. 1.2 Non-small Cell Lung Cancer Docetaxel Injection as a single agent is indicated for the treatment of patients with locally advanced or metastatic non-small cell lung cancer after failure of prior platinum-based chemotherapy. Docetaxel Injection in combination with cisplatin is indicated for the treatment of patients with unresectable, locally advanced or metastatic non-small cell lung cancer who have not previously received chemotherapy for this condition. 1.3 Prostate Cancer Docetaxel Injection in combination with prednisone is indicated for the treatment of patients with metastatic castration-resistant prostate cancer. 1.4 Gastric Adenocarcinoma Docetaxel Injection in combination with cisplatin and fluorouracil is indicated for the treatment of patients with advanced gastric adenocarcinoma, including adenocarcinoma of the gastroesophageal junction, who have not received prior chemotherapy for advanced disease. 1.5 Head and Neck Cancer Docetaxel Injection in combination with cisplatin and fluorouracil is indicated for the induction treatment of patients with locally advanced squamous cell carcinoma of the head and neck (SCCHN).",
+    "boxed_warning": "WARNING: TOXIC DEATHS, HEPATOTOXICITY, NEUTROPENIA, HYPERSENSITIVITY REACTIONS, and FLUID RETENTION Treatment-related mortality associated with docetaxel is increased in patients with abnormal liver function, in patients receiving higher doses, and in patients with non-small cell lung carcinoma and a history of prior treatment with platinum-based chemotherapy who receive docetaxel as a single agent at a dose of 100 mg/m 2 [ see Warnings and Precautions (5.1) ] . Avoid the use of Docetaxel Injection in patients with bilirubin > upper limit of normal (ULN), or to patients with AST and/or ALT >1.5 × ULN concomitant with alkaline phosphatase >2.5 × ULN. Patients with elevations of bilirubin or abnormalities of transaminase concurrent with alkaline phosphatase are at increased risk for the development of severe neutropenia, febrile neutropenia, infections, severe thrombocytopenia, severe stomatitis, severe skin toxicity, and toxic death. Patients with isolated elevations of transaminase >1.5 × ULN also had a higher rate of febrile neutropenia. Measure bilirubin, AST or ALT, and alkaline phosphatase prior to each cycle of Docetaxel Injection [ see Warnings and Precautions (5.2) ]. Do not administer Docetaxel Injection to patients with neutrophil counts of <1500 cells/mm 3 . Monitor blood counts frequently as neutropenia may be severe and result in infection [ see Warnings and Precautions (5.3) ]. Do not administer Docetaxel Injection to patients who have a history of severe hypersensitivity reactions to docetaxel or to other drugs formulated with polysorbate 80 [ see Contraindications (4) ]. Severe hypersensitivity reactions have been reported in patients despite dexamethasone premedication. Hypersensitivity reactions require immediate discontinuation of the Docetaxel Injection infusion and administration of appropriate therapy [ see Warnings and Precautions (5.5) ]. Severe fluid retention occurred in 6.5% (6/92) of patients despite use of dexamethasone premedication. It was characterized by one or more of the following events: poorly tolerated peripheral edema, generalized edema, pleural effusion requiring urgent drainage, dyspnea at rest, cardiac tamponade, or pronounced abdominal distention (due to ascites) [ see Warnings and Precautions (5.6) ]. WARNING: TOXIC DEATHS, HEPATOTOXICITY, NEUTROPENIA, HYPERSENSITIVITY REACTIONS, and FLUID RETENTION See full prescribing information for complete boxed warning. • Treatment-related mortality increases with abnormal liver function, at higher doses, and in patients with NSCLC and prior platinum-based therapy receiving docetaxel at 100 mg/m 2 ( 5.1 ) • Avoid use of Docetaxel Injection if bilirubin > ULN, or if AST and/or ALT >1.5 × ULN concomitant with alkaline phosphatase >2.5 × ULN. LFT elevations increase risk of severe or life-threatening complications. Obtain LFTs before each treatment cycle ( 5.2 ) • Do not administer Docetaxel Injection to patients with neutrophil counts <1500 cells/mm 3 . Obtain frequent blood counts to monitor for neutropenia ( 4 , 5.3 ) • Severe hypersensitivity, including fatal anaphylaxis, has been reported in patients who received dexamethasone premedication. Severe reactions require immediate discontinuation of Docetaxel Injection and administration of appropriate therapy ( 5.5 ) • Contraindicated if history of severe hypersensitivity reactions to docetaxel or to drugs formulated with polysorbate 80 ( 4 ) • Severe fluid retention may occur despite dexamethasone ( 5.6 )",
+    "openfda_brand_names": [
+      "Docetaxel"
+    ],
+    "openfda_generic_names": [
+      "DOCETAXEL ANHYDROUS"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2992d633-08fa-44f3-b14d-41700f24686b",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Non-small Cell Lung Adenocarcinoma",
+    "slug": "non-small-cell-lung-adenocarcinoma"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05132075",
+      "title": "Study of JDQ443 in Comparison With Docetaxel in Participants With Locally Advanced or Metastatic KRAS G12C Mutant Non-small Cell Lung Cancer",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05132075",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT05943795",
+      "title": "A Clinical Study of SI-B001 Combined With Docetaxel in the Treatment of Non-small Cell Lung Adenocarcinoma and Lung Squamous Cell Carcinoma",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05943795",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06319313",
+      "title": "Efficacy and Safety of JMT101 Combined Wth Docetaxel / HB1801 in Patients With Squamous Cell Non-Small Cell Lung Cancer",
+      "status": "NOT_YET_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06319313",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06370871",
+      "title": "Brightline-3: A Study to Find Out Whether Brigimadlin in Combination With Ezabenlimab Helps People With Advanced Soft Tissue Sarcoma",
+      "status": "WITHDRAWN",
+      "url": "https://clinicaltrials.gov/study/NCT06370871",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42598911",
+        "title": "Evaluation of triplet therapy combined with robot-assisted cytoreductive prostatectomy for high-volume metastatic prostate cancer: a multicentre randomised controlled trial protocol.",
+        "pubdate": "2026 Aug 14",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42598911/"
+      },
+      {
+        "pmid": "42577021",
+        "title": "Triplet Therapy (Androgen Deprivation Therapy + Darolutamide + Biweekly Docetaxel) for High-risk Metastatic Castration-sensitive Prostate Cancer (TRIC Study): A Study Protocol for Open-labelled Single-Arm Phase II Clinical Trial.",
+        "pubdate": "2026 Jul 15",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42577021/"
+      },
+      {
+        "pmid": "42529140",
+        "title": "RATIONALE-303: Long-Term Outcomes of Tislelizumab in Previously Treated Advanced/Metastatic NSCLC.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42529140/"
+      },
+      {
+        "pmid": "42518513",
+        "title": "Automated measurement of CD8+ T-cell distribution at the tumor epithelial-stromal interface is associated with NSCLC immunotherapy benefit and transcriptomic pathways.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42518513/"
+      },
+      {
+        "pmid": "42516476",
+        "title": "Upper Gastrointestinal Cancer Audit: A Retrospective Analysis of Patient Outcomes in North Wales.",
+        "pubdate": "2026 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42516476/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "TRASTUZUMAB EMTANSINE",
+        "chembl_id": "CHEMBL1743082",
+        "reason": "same target: Tubulin"
+      },
+      {
+        "name": "BRENTUXIMAB VEDOTIN",
+        "chembl_id": "CHEMBL1742994",
+        "reason": "same target: Tubulin"
+      },
+      {
+        "name": "PACLITAXEL",
+        "chembl_id": "CHEMBL428647",
+        "reason": "same target: Tubulin"
+      },
+      {
+        "name": "DOCETAXEL",
+        "chembl_id": "CHEMBL3545252",
+        "reason": "same target: Tubulin"
+      },
+      {
+        "name": "ERIBULIN MESYLATE",
+        "chembl_id": "CHEMBL1683544",
+        "reason": "same target: Tubulin"
+      },
+      {
+        "name": "CABAZITAXEL",
+        "chembl_id": "CHEMBL1201748",
+        "reason": "same target: Tubulin"
+      },
+      {
+        "name": "COLCHICINE",
+        "chembl_id": "CHEMBL107",
+        "reason": "same target: Tubulin"
+      },
+      {
+        "name": "IXABEPILONE",
+        "chembl_id": "CHEMBL1201752",
+        "reason": "same target: Tubulin"
+      },
+      {
+        "name": "VINCRISTINE SULFATE",
+        "chembl_id": "CHEMBL501867",
+        "reason": "same target: Tubulin"
+      },
+      {
+        "name": "VINORELBINE TARTRATE",
+        "chembl_id": "CHEMBL538943",
+        "reason": "same target: Tubulin"
+      }
+    ]
+  }
+}

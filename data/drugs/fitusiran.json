@@ -1,0 +1,94 @@
+{
+  "drug_name": "Fitusiran",
+  "slug": "fitusiran",
+  "enriched_at": "2026-08-15T21:14:26Z",
+  "source_trial_ids": [
+    "NCT03974113"
+  ],
+  "sponsors": [
+    "Genzyme, a Sanofi Company"
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2709439",
+      "generic_name": "fitusiran",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4297754",
+    "target_chembl_id": "CHEMBL4634874",
+    "target_name": "Antithrombin mRNA",
+    "mechanism_of_action_chembl": "Antithrombin mRNA RNAi inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action QFITLIA is a double-stranded siRNA that causes degradation of AT messenger RNA (mRNA) through RNA interference, reducing plasma AT levels.",
+    "pharmacokinetics": "12.3 Pharmacokinetics The pharmacokinetic (PK) properties of fitusiran were evaluated following administration of QFITLIA in patients with hemophilia A or B, with or without inhibitors as summarized in Table 4. QFITLIA PD is driven by liver PK rather than plasma PK. The QFITLIA dosing strategy is based on maintaining plasma AT activity levels between 15–35% with 10, 20 or 50 mg dosing every month or every two months. Table 4: Pharmacokinetic Parameters of QFITLIA PK Parameters Unless otherwise indicated, the PK parameters in this table are from Study LTE15174. All PK parameters are estimated using non-compartmental analysis and are presented as Mean (SD) [CV%], except for t max which is presented as median (range) QFITLIA 20 mg QFITLIA 50 mg AUC = area under the plasma concentration-time curve extrapolated to infinity; CL/F = apparent clearance; C max = maximum plasma concentration; CV = coefficient of variation; PK = pharmacokinetic(s); SD = standard deviation; t 1/2 = terminal elimination half-life; t max = time to maximum concentration; Vss/F = apparent volume of distribution General Information Steady State Exposure: C max (ng/mL) 34.4 (10.1) [29%] 84.1 (58.7) [70%] AUC (ng ∙ h/mL) 491 (83.8) [17%] 1290 (377) [29%] Dose Proportionality QFITLIA exhibited a dose proportional increase in plasma exposure after SC administration. Accumulation Study TDR14767 (ALN-AT3SC-001) No accumulation of QFITLIA was observed following multiple once monthly dosing. Absorption t max (h) 2.88 (0.5 – 4.33) 3.78 (0.42 – 11.9) Distribution QFITLIA distributes primarily to the liver after subcutaneous injection. Vss/F 431 (135) [31%] 570 (713) [125%] Protein Binding In vitro data 96.6% at clinically relevant exposure (0.5 microgram/ml) Elimination t 1/2 (h) 5.57 (2.36) [42%] 7.98 (4.74) [59%] CL/F 41.9 (8.39) [20%] 50.8 (71.1) [140%] Metabolism Primary Pathway QFITLIA is metabolized by endo- and exo-nucleases to oligonucleotides of varying lengths, which are further metabolized to oligonucleotides of even shorter lengths. QFITLIA is not a substrate for CYP450 or transporters. Main Metabolite AS(N-1)3' Excretion Primary Pathway Not evaluated 14.6% (mean) of the administered 50 mg dose of QFITLIA is recovered unchanged in 0–24 hour urine Specific Populations QFITLIA has only been studied in male patients. The pharmacokinetics of fitusiran is not influenced by race. QFITLIA has not been studied in children <12 years old. No clinical study to evaluate the effect of hepatic impairment or renal impairment on the pharmacokinetics of QFITLIA was conducted. In the pivotal studies, 12 patients had mild renal impairment (eGFR ≥60 to <90 mL/min/1.73 m 2 ) and 1 patient had moderate renal impairment (eGFR 30 mL/min/1.73 m 2 to <60 mL/min/1.73 m 2 ). Population PK analysis indicated no impact of renal impairment on the exposure (C max and AUC) of QFITLIA in patients with mild renal impairment. Drug Interaction Studies Clinical Studies No clinical drug-drug interaction studies have been conducted to evaluate the potential of QFITLIA to interact with other co-administered drugs which are either substrates, inhibitors or inducers of CYP isozymes, or are substrates or inhibitors of drug transporters. In Vitro Studies Results from in vitro studies evaluating the potential of co-administered drugs to increase the PK exposure of QFITLIA, and the potential of QFITLIA to increase the PK exposure of co-administered drugs, indicate that CYP- or transporter-mediated interactions between QFITLIA and co-administered drugs are unlikely at clinically relevant concentrations.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE QFITLIA is indicated for routine prophylaxis to prevent or reduce the frequency of bleeding episodes in adult and pediatric patients aged 12 years and older with hemophilia A or B with or without factor VIII or IX inhibitors. QFITLIA is an antithrombin-directed small interfering ribonucleic acid indicated for routine prophylaxis to prevent or reduce the frequency of bleeding episodes in adult and pediatric patients aged 12 years and older with hemophilia A or B with or without factor VIII or IX inhibitors. ( 1 )",
+    "boxed_warning": "WARNING: THROMBOTIC EVENTS AND ACUTE AND RECURRENT GALLBLADDER DISEASE WARNING: THROMBOTIC EVENTS and ACUTE AND RECURRENT GALLBLADDER DISEASE See full prescribing information for complete boxed warning. Thrombotic Events Serious thrombotic events have occurred in QFITLIA-treated patients with risk factors including persistent antithrombin (AT) activity less than 15%, QFITLIA 80 mg once monthly dosing, an indwelling venous catheter, and the post-operative setting when bleed management guidelines were not followed. Interrupt QFITLIA in patients with a thrombotic event and manage as clinically indicated. ( 5.1 ) Acute and Recurrent Gallbladder Disease Gallbladder disease has occurred in QFITLIA-treated patients, some requiring cholecystectomy or developing complications (e.g., pancreatitis). Monitor for signs and symptoms of gallbladder disease. Consider interruption or discontinuation of QFITLIA if gallbladder disease occurs. Consider alternative treatment for hemophilia if history of symptomatic gallbladder disease. ( 5.2 ) Thrombotic Events Serious thrombotic events have occurred in QFITLIA-treated patients with risk factors for thromboembolism including persistent antithrombin (AT) activity less than 15%, use of QFITLIA 80 mg once monthly, presence of indwelling venous catheters, and in the post-operative setting when bleed management guidelines were not followed. Monitor AT activity using an FDA-cleared test and target AT activity 15–35% to reduce the risk of thrombosis. Monitor patients for signs and symptoms of thrombotic events. Interrupt QFITLIA in patients with a thrombotic event and manage as clinically indicated. (5.1) Acute and Recurrent Gallbladder Disease Acute and recurrent gallbladder disease, including cholelithiasis and cholecystitis have occurred in QFITLIA-treated patients, some of whom required cholecystectomy or had complications (e.g., pancreatitis) related to gallbladder disease. Monitor patients for signs and symptoms of acute and recurrent gallbladder disease. Consider interruption or discontinuation of QFITLIA if gallbladder disease occurs. Consider alternative treatment for hemophilia in patients with a history of symptomatic gallbladder disease. (5.2)",
+    "openfda_brand_names": [
+      "Qfitlia"
+    ],
+    "openfda_generic_names": [
+      "FITUSIRAN"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6dd2f8ac-6f90-4cbf-b197-97d74964135c",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Hemophilia",
+    "slug": "hemophilia"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT03974113",
+      "title": "Fitusiran Prophylaxis in Male Pediatric Subjects Aged 1 to Less Than 12 Years With Hemophilia A or B",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT03974113",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "41473775",
+        "title": "Rebalancing Hemostasis: Fitusiran as a First-in-Class RNAi Therapy in Hemophilia A and B.",
+        "pubdate": "2026 Jan",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41473775/"
+      },
+      {
+        "pmid": "41450180",
+        "title": "Fitusiran: A Novel Antithrombin-Targeting Therapy for Hemophilia A and B, With or Without Inhibitors.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41450180/"
+      },
+      {
+        "pmid": "40053895",
+        "title": "Safety and efficacy of a fitusiran antithrombin-based dose regimen in people with hemophilia A or B: the ATLAS-OLE study.",
+        "pubdate": "2025 Jun 19",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40053895/"
+      },
+      {
+        "pmid": "38452197",
+        "title": "Fitusiran prophylaxis in people with hemophilia A or B who switched from prior BPA/CFC prophylaxis: the ATLAS-PPX trial.",
+        "pubdate": "2024 May 30",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38452197/"
+      },
+      {
+        "pmid": "38224699",
+        "title": "Shifting Paradigms and Arising Concerns in Severe Hemophilia A Treatment.",
+        "pubdate": "2024 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38224699/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

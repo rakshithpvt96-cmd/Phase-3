@@ -1,0 +1,94 @@
+{
+  "drug_name": "Cisplatin + Gemcitabine",
+  "slug": "cisplatin-gemcitabine",
+  "enriched_at": "2026-08-15T21:10:15Z",
+  "source_trial_ids": [
+    "NCT03682068"
+  ],
+  "sponsors": [
+    "AstraZeneca"
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2555",
+      "generic_name": "cisplatin",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL3039516",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Cisplatin%20%2B%20Gemcitabine+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Cisplatin%20%2B%20Gemcitabine+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Cisplatin%20%2B%20Gemcitabine+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Unresectable Locally Advanced Urothelial Cancer",
+    "slug": "unresectable-locally-advanced-urothelial-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT03682068",
+      "title": "Study of Durvalumab Given With Chemotherapy, Durvalumab in Combination With Tremelimumab Given With Chemotherapy, or Chemotherapy in Patients With Unresectable Urothelial Cancer",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT03682068",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42574460",
+        "title": "Co-Clinical Evaluation of Synthetic Vitamin D and Chemotherapy in Pancreatic Cancer by Integrated Imaging and Molecular Analyses.",
+        "pubdate": "2026 Aug 10",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42574460/"
+      },
+      {
+        "pmid": "42485627",
+        "title": "Enfortumab Vedotin and Pembrolizumab in Cisplatin-Eligible Bladder Cancer.",
+        "pubdate": "2026 Jul 23",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42485627/"
+      },
+      {
+        "pmid": "42429125",
+        "title": "Real-World Use of Avelumab First-Line Maintenance for Locally Advanced or Metastatic Urothelial Carcinoma in Japan: Treatment Patterns, Effectiveness, and Safety.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42429125/"
+      },
+      {
+        "pmid": "42424063",
+        "title": "Durvalumab Plus Chemotherapy for Advanced Biliary Tract Cancer: A Post Hoc Analysis of the TOPAZ-1 Randomized Clinical Trial.",
+        "pubdate": "2026 Jul 9",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42424063/"
+      },
+      {
+        "pmid": "42409321",
+        "title": "Ivonescimab plus gemcitabine and cisplatin as first-line therapy for advanced biliary tract cancer: a multicenter, open-label phase 2 trial.",
+        "pubdate": "2026 Jul 6",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42409321/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

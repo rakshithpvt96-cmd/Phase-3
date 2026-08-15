@@ -1,0 +1,133 @@
+{
+  "drug_name": "Glufosfamide",
+  "slug": "glufosfamide",
+  "enriched_at": "2026-08-15T21:15:24Z",
+  "source_trial_ids": [
+    "NCT01954992"
+  ],
+  "sponsors": [
+    "Eleison Pharmaceuticals LLC."
+  ],
+  "identity": {
+    "pubchem_cid": 123628,
+    "iupac_name": "(2S,3R,4S,5S,6R)-2-bis(2-chloroethylamino)phosphoryloxy-6-(hydroxymethyl)oxane-3,4,5-triol",
+    "molecular_formula": "C10H21Cl2N2O7P",
+    "molecular_weight": "383.16",
+    "canonical_smiles": null,
+    "inchikey": "PSVUJBVBCOISSP-SPFKKGSWSA-N",
+    "rxnorm": {
+      "rxcui": "277928",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2107143",
+    "target_chembl_id": "CHEMBL2311221",
+    "target_name": "DNA",
+    "mechanism_of_action_chembl": "DNA disrupting agent"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Glufosfamide+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Glufosfamide+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Glufosfamide+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Metastatic Pancreatic Adenocarcinoma",
+    "slug": "metastatic-pancreatic-adenocarcinoma"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT01954992",
+      "title": "Glufosfamide Versus 5-FU in Second Line Metastatic Pancreatic Cancer",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT01954992",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "22424104",
+        "title": "Glufosfamide: can we improve the process of anticancer agent development?",
+        "pubdate": "2012 May",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22424104/"
+      },
+      {
+        "pmid": "15010066",
+        "title": "Glufosfamide administered by 1-hour infusion as a second-line treatment for advanced non-small cell lung cancer; a phase II trial of the EORTC-New Drug Development Group.",
+        "pubdate": "2004 Mar",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15010066/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "DORNASE ALFA",
+        "chembl_id": "CHEMBL1201431",
+        "reason": "same target: DNA"
+      },
+      {
+        "name": "DESOXYRIBONUCLEASE",
+        "chembl_id": "CHEMBL1201459",
+        "reason": "same target: DNA"
+      },
+      {
+        "name": "GEMTUZUMAB OZOGAMICIN",
+        "chembl_id": "CHEMBL1201506",
+        "reason": "same target: DNA"
+      },
+      {
+        "name": "BENDAMUSTINE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1201734",
+        "reason": "same target: DNA"
+      },
+      {
+        "name": "DACTINOMYCIN",
+        "chembl_id": "CHEMBL1554",
+        "reason": "same target: DNA"
+      },
+      {
+        "name": "CYCLOPHOSPHAMIDE",
+        "chembl_id": "CHEMBL1200796",
+        "reason": "same target: DNA"
+      },
+      {
+        "name": "MECHLORETHAMINE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1201001",
+        "reason": "same target: DNA"
+      },
+      {
+        "name": "STREPTOZOCIN",
+        "chembl_id": "CHEMBL1977579",
+        "reason": "same target: DNA"
+      },
+      {
+        "name": "NELARABINE",
+        "chembl_id": "CHEMBL1201112",
+        "reason": "same target: DNA"
+      },
+      {
+        "name": "EPIRUBICIN HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1200981",
+        "reason": "same target: DNA"
+      }
+    ]
+  }
+}

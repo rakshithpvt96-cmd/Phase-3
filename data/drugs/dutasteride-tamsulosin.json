@@ -1,0 +1,82 @@
+{
+  "drug_name": "Dutasteride-Tamsulosin",
+  "slug": "dutasteride-tamsulosin",
+  "enriched_at": "2026-08-15T21:12:53Z",
+  "source_trial_ids": [
+    "NCT06264414"
+  ],
+  "sponsors": [
+    "EMS"
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1001472",
+      "generic_name": "dutasteride / tamsulosin",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1200969",
+    "target_chembl_id": "CHEMBL2363075",
+    "target_name": "Steroid 5-alpha-reductase",
+    "mechanism_of_action_chembl": "Steroid 5-alpha-reductase inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Dutasteride-Tamsulosin+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Dutasteride-Tamsulosin+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Dutasteride-Tamsulosin+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Prostatic Hyperplasia, Benign",
+    "slug": "prostatic-hyperplasia-benign"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06264414",
+      "title": "Efficacy and Safety of the DTT106 in the Treatment of Erectile Dysfunction Associated With Benign Prostatic Hyperplasia",
+      "status": "NOT_YET_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06264414",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "34690761",
+        "title": "Effects of Cytochrome P450 and Transporter Polymorphisms on the Bioavailability and Safety of Dutasteride and Tamsulosin.",
+        "pubdate": "2021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34690761/"
+      },
+      {
+        "pmid": "33337513",
+        "title": "Impact of early vs. delayed initiation of dutasteride/tamsulosin combination therapy on the risk of acute urinary retention or BPH-related surgery in LUTS/BPH patients with moderate-to-severe symptoms at risk of disease progression.",
+        "pubdate": "2021 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33337513/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "ABIRATERONE",
+        "chembl_id": "CHEMBL254328",
+        "reason": "same target: Steroid 5-alpha-reductase"
+      }
+    ]
+  }
+}

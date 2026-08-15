@@ -1,0 +1,114 @@
+{
+  "drug_name": "Buspirone tablets, 5mg/ tablet",
+  "slug": "buspirone-tablets-5mg-tablet",
+  "enriched_at": "2026-08-15T21:08:57Z",
+  "source_trial_ids": [
+    "NCT06243614"
+  ],
+  "sponsors": [
+    "Beijing Union Pharmaceutical Factory Ltd"
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "866094",
+      "generic_name": "buspirone hydrochloride 5 MG Oral Tablet",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1200399",
+    "target_chembl_id": "CHEMBL214",
+    "target_name": "5-hydroxytryptamine receptor 1A",
+    "mechanism_of_action_chembl": "Serotonin 1a (5-HT1a) receptor partial agonist"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Buspirone%20tablets%2C%205mg/%20tablet+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Buspirone%20tablets%2C%205mg/%20tablet+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Buspirone%20tablets%2C%205mg/%20tablet+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Generalized Anxiety Disorder",
+    "slug": "generalized-anxiety-disorder"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06243614",
+      "title": "Phase Ⅲ Clinical Trial of Buagafuran Capsules in the Treatment of GAD",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06243614",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "ERGOLOID MESYLATES",
+        "chembl_id": "CHEMBL2311030",
+        "reason": "same target: 5-hydroxytryptamine receptor 1A"
+      },
+      {
+        "name": "METHYSERGIDE MALEATE",
+        "chembl_id": "CHEMBL1200938",
+        "reason": "same target: 5-hydroxytryptamine receptor 1A"
+      },
+      {
+        "name": "ARIPIPRAZOLE",
+        "chembl_id": "CHEMBL1112",
+        "reason": "same target: 5-hydroxytryptamine receptor 1A"
+      },
+      {
+        "name": "VILAZODONE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1615374",
+        "reason": "same target: 5-hydroxytryptamine receptor 1A"
+      },
+      {
+        "name": "VORTIOXETINE HYDROBROMIDE",
+        "chembl_id": "CHEMBL2107387",
+        "reason": "same target: 5-hydroxytryptamine receptor 1A"
+      },
+      {
+        "name": "BREXPIPRAZOLE",
+        "chembl_id": "CHEMBL2105760",
+        "reason": "same target: 5-hydroxytryptamine receptor 1A"
+      },
+      {
+        "name": "ARIPIPRAZOLE LAUROXIL",
+        "chembl_id": "CHEMBL2219425",
+        "reason": "same target: 5-hydroxytryptamine receptor 1A"
+      },
+      {
+        "name": "GSK163090",
+        "chembl_id": "CHEMBL1631540",
+        "reason": "same target: 5-hydroxytryptamine receptor 1A"
+      },
+      {
+        "name": "BEFIRADOL",
+        "chembl_id": "CHEMBL45305",
+        "reason": "same target: 5-hydroxytryptamine receptor 1A"
+      },
+      {
+        "name": "PICLOZOTAN",
+        "chembl_id": "CHEMBL345237",
+        "reason": "same target: 5-hydroxytryptamine receptor 1A"
+      }
+    ]
+  }
+}

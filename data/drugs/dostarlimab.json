@@ -1,0 +1,145 @@
+{
+  "drug_name": "Dostarlimab",
+  "slug": "dostarlimab",
+  "enriched_at": "2026-08-15T21:12:23Z",
+  "source_trial_ids": [
+    "NCT06472076"
+  ],
+  "sponsors": [
+    "GlaxoSmithKline"
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2539967",
+      "generic_name": "dostarlimab",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4298124",
+    "target_chembl_id": "CHEMBL3307223",
+    "target_name": "Programmed cell death protein 1",
+    "mechanism_of_action_chembl": "Programmed cell death protein 1 antagonist"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Binding of the PD-1 ligands, PD-L1 and PD-L2, to the PD-1 receptor found on T cells inhibits T-cell proliferation and cytokine production. Upregulation of PD-1 ligands occurs in some tumors, and signaling through this pathway can contribute to inhibition of active T-cell immune surveillance of tumors. Dostarlimab-gxly is a humanized monoclonal antibody of the IgG4 isotype that binds to the PD-1 receptor and blocks its interaction with PD-L1 and PD-L2, releasing PD-1 pathway-mediated inhibition of the immune response, including the anti-tumor immune response. In syngeneic mouse tumor models, blocking PD-1 activity resulted in decreased tumor growth.",
+    "pharmacokinetics": "12.3 Pharmacokinetics The pharmacokinetics of dostarlimab-gxly as a single agent and in combination with carboplatin and paclitaxel were evaluated in patients with various solid tumors, including patients with EC. Mean C max , AUC 0-inf , and AUC 0-tau increased proportionally over the dose range of 1 to 10 mg/kg. The Cycle 1 mean (coefficient of variation [%CV]) C max and AUC 0-tau of dostarlimab-gxly as a single agent were 171 mcg/mL (20%) and 35,730 mcg*h/mL (20%), respectively at the dosage of 500 mg once every 3 weeks and 309 mcg/mL (31%) and 95,820 mcg*h/mL (29%), respectively at the dosage of 1,000 mg every 6 weeks. Distribution The mean (%CV) volume of distribution of dostarlimab-gxly at steady state is approximately 5.8 L (15%). Elimination The mean terminal elimination half-life of dostarlimab-gxly at steady state is 23.5 days and its mean (%CV) clearance at steady state is 0.007 L/h (30%). Metabolism: Dostarlimab-gxly is expected to be metabolized into small peptides and amino acids by catabolic pathways. Specific Populations No clinically significant differences in the pharmacokinetics of dostarlimab-gxly were observed based on age (24 to 86 years), sex, race/ethnicity (75% White, 2% Asian, and 5% African American), tumor type, and renal impairment based on the estimated creatinine clearance (eGFR ≥15 mL/min/1.73 m 2 ), and mild to moderate hepatic impairment [total bilirubin (TB) >ULN to 3 times ULN or AST>ULN to any AST]. Drug Interaction Studies Dostarlimab exposure when administered in combination with carboplatin and paclitaxel was comparable to single agent exposure and there was no evidence to suggest a clinically relevant change of dostarlimab-gxly clearance over time in patients with recurrent or advanced EC.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE JEMPERLI is a programmed death receptor-1 (PD-1)–blocking antibody indicated: Endometrial Cancer • in combination with carboplatin and paclitaxel, followed by JEMPERLI as a single agent, for the treatment of adult patients with primary advanced or recurrent endometrial cancer (EC). ( 1.1 ) • as a single agent for the treatment of adult patients with mismatch repair deficient (dMMR) recurrent or advanced EC, as determined by an FDA-approved test, that has progressed on or following prior treatment with a platinum-containing regimen in any setting and are not candidates for curative surgery or radiation. ( 1.1 , 2.1 ) Mismatch Repair Deficient Recurrent or Advanced Solid Tumors • as a single agent for the treatment of adult patients with dMMR recurrent or advanced solid tumors, as determined by an FDA-approved test, that have progressed on or following prior treatment and who have no satisfactory alternative treatment options. 1 ( 1.2 , 2.1 ) 1 This indication is approved under accelerated approval based on tumor response rate and durability of response. Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial(s). ( 1.2 ) 1.1 Endometrial Cancer JEMPERLI, in combination with carboplatin and paclitaxel, followed by JEMPERLI as a single agent, is indicated for the treatment of adult patients with primary advanced or recurrent endometrial cancer (EC). JEMPERLI, as a single agent, is indicated for the treatment of adult patients with mismatch repair deficient (dMMR) recurrent or advanced EC, as determined by an FDA-approved test, that has progressed on or following prior treatment with a platinum-containing regimen in any setting and are not candidates for curative surgery or radiation [see Dosage and Administration ( 2.1 )]. 1.2 Mismatch Repair Deficient Recurrent or Advanced Solid Tumors JEMPERLI, as a single agent, is indicated for the treatment of adult patients with dMMR recurrent or advanced solid tumors, as determined by an FDA-approved test, that have progressed on or following prior treatment and who have no satisfactory alternative treatment options [see Dosage and Administration ( 2.1 )]. This indication is approved under accelerated approval based on tumor response rate and durability of response [see Clinical Studies ( 14.2 )]. Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial(s).",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "Jemperli"
+    ],
+    "openfda_generic_names": [
+      "DOSTARLIMAB"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=095eab9f-545a-4f12-bfb7-19477fb901a5",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Lung Cancer, Non-Small Cell",
+    "slug": "lung-cancer-non-small-cell"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06472076",
+      "title": "A Study of Belrestotug Plus Dostarlimab Compared With Placebo Plus Pembrolizumab in Previously Untreated Participants With Programmed Death Ligand 1 (PD-L1) High Non-small-cell Lung Cancer (NSCLC)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06472076",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42391799",
+        "title": "Poly(adenosine diphosphate-ribose) polymerase inhibitor maintenance therapy with niraparib in patients with primary advanced or recurrent endometrial cancer receiving dostarlimab plus chemotherapy.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42391799/"
+      },
+      {
+        "pmid": "42215378",
+        "title": "Four-year survival outcomes with dostarlimab plus chemotherapy in mismatch repair deficient/microsatellite instability-high primary advanced or recurrent endometrial cancer in the RUBY trial.",
+        "pubdate": "2026 May 29",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42215378/"
+      },
+      {
+        "pmid": "41626151",
+        "title": "Recent therapeutic advances in gynecologic oncology: evolving roles of immunotherapy, antibody-drug conjugates, and clinical trial innovations.",
+        "pubdate": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41626151/"
+      },
+      {
+        "pmid": "41617622",
+        "title": "[French recommendations for clinical practice, Nice/Saint-Paul-de-Vence 2024-2025: Management of advanced/relapsing endometrial cancer].",
+        "pubdate": "2026 Feb",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41617622/"
+      },
+      {
+        "pmid": "41612885",
+        "title": "JADE: phase 3 study of sequential dostarlimab post chemoradiotherapy in patients with locally advanced unresected HNSCC.",
+        "pubdate": "2026 Feb",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41612885/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "PEMBROLIZUMAB",
+        "chembl_id": "CHEMBL3137343",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "NIVOLUMAB",
+        "chembl_id": "CHEMBL2108738",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "PIDILIZUMAB",
+        "chembl_id": "CHEMBL2108680",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "CEMIPLIMAB",
+        "chembl_id": "CHEMBL4297723",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "CAMRELIZUMAB",
+        "chembl_id": "CHEMBL4297715",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "SERPLULIMAB",
+        "chembl_id": "CHEMBL4594550",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "RETIFANLIMAB",
+        "chembl_id": "CHEMBL4298037",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "SPARTALIZUMAB",
+        "chembl_id": "CHEMBL4297831",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "SASANLIMAB",
+        "chembl_id": "CHEMBL4298191",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "SINTILIMAB",
+        "chembl_id": "CHEMBL4297829",
+        "reason": "same target: Programmed cell death protein 1"
+      }
+    ]
+  }
+}

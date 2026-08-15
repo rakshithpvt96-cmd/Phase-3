@@ -1,0 +1,88 @@
+{
+  "drug_name": "denifanstat",
+  "slug": "denifanstat",
+  "enriched_at": "2026-08-15T21:11:42Z",
+  "source_trial_ids": [
+    "NCT06692283"
+  ],
+  "sponsors": [
+    "Sagimet Biosciences Inc."
+  ],
+  "identity": {
+    "pubchem_cid": 66548316,
+    "iupac_name": "4-[1-[4-cyclobutyl-2-methyl-5-(5-methyl-1H-1,2,4-triazol-3-yl)benzoyl]piperidin-4-yl]benzonitrile",
+    "molecular_formula": "C27H29N5O",
+    "molecular_weight": "439.6",
+    "canonical_smiles": null,
+    "inchikey": "BBGOSBDSLYHMRA-UHFFFAOYSA-N",
+    "rxnorm": {
+      "rxcui": "2631772",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL3661754",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=denifanstat+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=denifanstat+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=denifanstat+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "MASLD",
+    "slug": "masld"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06692283",
+      "title": "A Phase 3 Study Evaluating the Safety and Efficacy of Denifanstat in Patients With MASLD and MASH",
+      "status": "WITHDRAWN",
+      "url": "https://clinicaltrials.gov/study/NCT06692283",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "41186280",
+        "title": "Denifanstat for moderate-to-severe acne: A Phase 2, randomized, double-blind, placebo-controlled trial.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41186280/"
+      },
+      {
+        "pmid": "39903735",
+        "title": "Comparison of pharmacological therapies in metabolic dysfunction-associated steatohepatitis for fibrosis regression and MASH resolution: Systematic review and network meta-analysis.",
+        "pubdate": "2025 Dec 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39903735/"
+      },
+      {
+        "pmid": "39396529",
+        "title": "Denifanstat for the treatment of metabolic dysfunction-associated steatohepatitis: a multicentre, double-blind, randomised, placebo-controlled, phase 2b trial.",
+        "pubdate": "2024 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39396529/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

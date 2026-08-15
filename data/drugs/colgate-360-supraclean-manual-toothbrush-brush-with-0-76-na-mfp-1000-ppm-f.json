@@ -1,0 +1,63 @@
+{
+  "drug_name": "Colgate 360 SupraClean Manual Toothbrush brush with 0.76% Na MFP, (1000 ppm F)",
+  "slug": "colgate-360-supraclean-manual-toothbrush-brush-with-0-76-na-mfp-1000-ppm-f",
+  "enriched_at": "2026-08-15T21:10:28Z",
+  "source_trial_ids": [
+    "NCT07471477"
+  ],
+  "sponsors": [
+    "Colgate Palmolive"
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2622499",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL3642616",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Colgate%20360%20SupraClean%20Manual%20Toothbrush%20brush%20with%200.76%25%20Na%20MFP%2C%20%281000%20ppm%20F%29+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Colgate%20360%20SupraClean%20Manual%20Toothbrush%20brush%20with%200.76%25%20Na%20MFP%2C%20%281000%20ppm%20F%29+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Colgate%20360%20SupraClean%20Manual%20Toothbrush%20brush%20with%200.76%25%20Na%20MFP%2C%20%281000%20ppm%20F%29+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Bacterial Load Reduction",
+    "slug": "bacterial-load-reduction"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07471477",
+      "title": "Bacterial Reduction for a Manual Toothbrush With a 360-Degree Mouth Cleaner Design Versus a Standard Toothbrush",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT07471477",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

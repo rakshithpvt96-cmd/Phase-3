@@ -1,0 +1,69 @@
+{
+  "drug_name": "Buspirone tablets mimic, 0mg/ tablet",
+  "slug": "buspirone-tablets-mimic-0mg-tablet",
+  "enriched_at": "2026-08-15T21:09:02Z",
+  "source_trial_ids": [
+    "NCT06243614"
+  ],
+  "sponsors": [
+    "Beijing Union Pharmaceutical Factory Ltd"
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "371164",
+      "generic_name": "buspirone Oral Tablet",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL217308",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Buspirone%20tablets%20mimic%2C%200mg/%20tablet+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Buspirone%20tablets%20mimic%2C%200mg/%20tablet+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Buspirone%20tablets%20mimic%2C%200mg/%20tablet+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Generalized Anxiety Disorder",
+    "slug": "generalized-anxiety-disorder"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06243614",
+      "title": "Phase Ⅲ Clinical Trial of Buagafuran Capsules in the Treatment of GAD",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06243614",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "DT120",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Definium Therapeutics US, Inc."
+      }
+    ]
+  }
+}

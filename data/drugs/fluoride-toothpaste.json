@@ -1,0 +1,100 @@
+{
+  "drug_name": "Fluoride Toothpaste",
+  "slug": "fluoride-toothpaste",
+  "enriched_at": "2026-08-15T21:14:31Z",
+  "source_trial_ids": [
+    "NCT07442136"
+  ],
+  "sponsors": [
+    "Colgate Palmolive"
+  ],
+  "identity": {
+    "pubchem_cid": 5235,
+    "iupac_name": "sodium fluoride",
+    "molecular_formula": "FNa",
+    "molecular_weight": "41.9881724",
+    "canonical_smiles": null,
+    "inchikey": "PUZPDOWCWNUUKD-UHFFFAOYSA-M",
+    "rxnorm": {
+      "rxcui": "617623",
+      "generic_name": "sodium fluoride Toothpaste [Fluoridex]",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1362",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": "Aids in the prevention of dental cavities.",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "DawnMist Gel Fluoride"
+    ],
+    "openfda_generic_names": [
+      "GEL FLUORIDE TOOTHPASTE"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=202c6c62-e16a-4716-babe-d5414006c79e",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Enamel Erosion",
+    "slug": "enamel-erosion"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07442136",
+      "title": "Clinical Study to Assess the Efficacy of New Toothpaste Containing SnF as Compared to Colgate Cavity Protection Toothpaste on the Reduction of Enamel Erosion",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT07442136",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42571895",
+        "title": "Oral malodor control with a stabilized stannous fluoride toothpaste compared to sodium monofluorophosphate: A randomized controlled trial.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42571895/"
+      },
+      {
+        "pmid": "42533623",
+        "title": "Zinc-stabilized stannous fluoride modulates the periodontal microbiome, reducing Fusobacteria, key Gram-negative species, and overall inflammation within an experimental gingivitis clinical trial.",
+        "pubdate": "2026 Jul 31",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42533623/"
+      },
+      {
+        "pmid": "42377198",
+        "title": "Comparative effectiveness of biotic-based toothpastes in children with special health care needs: A randomized controlled trial.",
+        "pubdate": "2026 May 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42377198/"
+      },
+      {
+        "pmid": "42357830",
+        "title": "Clinical and Digital Imaging Assessment of Dental Plaque With Two Different Toothpastes in Children: A Randomized Crossover Clinical Trial.",
+        "pubdate": "2026 Jun 25",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42357830/"
+      },
+      {
+        "pmid": "42218470",
+        "title": "Comparative assessment of four treatments for post orthodontic white spot lesions over a 24-month period: a randomized controlled clinical trial.",
+        "pubdate": "2026 May 30",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42218470/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

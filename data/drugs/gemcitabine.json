@@ -1,0 +1,136 @@
+{
+  "drug_name": "Gemcitabine",
+  "slug": "gemcitabine",
+  "enriched_at": "2026-08-15T21:15:00Z",
+  "source_trial_ids": [
+    "NCT03257033",
+    "NCT05254171",
+    "NCT06370871",
+    "NCT06519370",
+    "NCT06625320"
+  ],
+  "sponsors": [
+    "Boehringer Ingelheim",
+    "Panbela Therapeutics, Inc.",
+    "RenovoRx",
+    "Revolution Medicines, Inc.",
+    "Shanghai Fudan-Zhangjiang Bio-Pharmaceutical Co., Ltd."
+  ],
+  "identity": {
+    "pubchem_cid": 60750,
+    "iupac_name": "4-amino-1-[(2R,4R,5R)-3,3-difluoro-4-hydroxy-5-(hydroxymethyl)oxolan-2-yl]pyrimidin-2-one",
+    "molecular_formula": "C9H11F2N3O4",
+    "molecular_weight": "263.20",
+    "canonical_smiles": null,
+    "inchikey": "SDUQYLNIPVEERB-QPPQHZFASA-N",
+    "rxnorm": {
+      "rxcui": "12574",
+      "generic_name": "gemcitabine",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL3039516",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Gemcitabine kills cells undergoing DNA synthesis and blocks the progression of cells through the G1/S-phase boundary. Gemcitabine is metabolized by nucleoside kinases to diphosphate (dFdCDP) and triphosphate (dFdCTP) nucleosides. Gemcitabine diphosphate inhibits ribonucleotide reductase, an enzyme responsible for catalyzing the reactions that generate deoxynucleoside triphosphates for DNA synthesis, resulting in reductions in deoxynucleotide concentrations, including dCTP. Gemcitabine triphosphate competes with dCTP for incorporation into DNA. The reduction in the intracellular concentration of dCTP by the action of the diphosphate enhances the incorporation of gemcitabine triphosphate into DNA (self-potentiation). After the gemcitabine nucleotide is incorporated into DNA, only one additional nucleotide is added to the growing DNA strands which eventually results in the initiation of apoptotic cell death.",
+    "pharmacokinetics": "12.3 Pharmacokinetics The pharmacokinetics of gemcitabine were examined in 353 patients, with various solid tumors. Pharmacokinetic parameters were derived using data from patients treated for varying durations of therapy given weekly with periodic rest weeks and using both short infusions (<70 minutes) and long infusions (70 to 285 minutes). The total gemcitabine dose varied from 500 mg/m 2 to 3600 mg/m 2 . Distribution The volume of distribution was increased with infusion length. Volume of distribution of gemcitabine was 50 L/m 2 following infusions lasting <70 minutes. For long infusions, the volume of distribution rose to 370 L/m 2 . Gemcitabine pharmacokinetics are linear and are described by a 2-compartment model. Population pharmacokinetic analyses of combined single and multiple dose studies showed that the volume of distribution of gemcitabine was significantly influenced by duration of infusion and sex. Gemcitabine plasma protein binding is negligible. Elimination Metabolism The active metabolite, gemcitabine triphosphate, can be extracted from peripheral blood mononuclear cells. The half-life of the terminal phase for gemcitabine triphosphate from mononuclear cells ranges from 1.7 to 19.4 hours. Excretion Gemcitabine disposition was studied in 5 patients who received a single 1000 mg/m 2 of radiolabeled drug as a 30-minute infusion. Within one (1) week, 92% to 98% of the dose was recovered, almost entirely in the urine. Gemcitabine (<10%) and the inactive uracil metabolite, 2´-deoxy-2´,2´-difluorouridine (dFdU), accounted for 99% of the excreted dose. The metabolite dFdU is also found in plasma. Specific Populations Geriatric Patients Clearance of gemcitabine was affected by age. The lower clearance in geriatric patients results in higher concentrations of gemcitabine for any given dose. Differences in either clearance or volume of distribution based on patient characteristics or the duration of infusion result in changes in half-life and plasma concentrations. Table 15 shows plasma clearance and half-life of gemcitabine following short infusions for typical patients by age and sex. Gemcitabine half-life for short infusions ranged from 42 to 94 minutes, and for long infusions varied from 245 to 638 minutes, depending on age and sex, reflecting a greatly increased volume of distribution with longer infusions. Male and Female Patients Females have lower clearance and longer half-lives than male patients as described in Table 15. Table 15: Gemcitabine Clearance and Half-Life for the “Typical” Patient Age Clearance Men (L/hr/m 2 ) Clearance Women (L/hr/m 2 ) Half-Life Half-life for patients receiving a <70 minute infusion. Men (min) Half-Lifea Women (min) 29 92.2 69.4 42 49 45 75.7 57.0 48 57 65 55.1 41.5 61 73 79 40.7 30.7 79 94 Patients with Renal Impairment No clinical studies have been conducted with gemcitabine in patients with decreased renal function. Patients with Hepatic Impairment No clinical studies have been conducted with gemcitabine in patients with decreased hepatic function. Drug Interaction Studies When gemcitabine (1250 mg/m 2 on Days 1 and 8) and cisplatin (75 mg/m 2 on Day 1) were administered in patients with NSCLC, the clearance of gemcitabine on Day 1 was 128 L/hr/m 2 and on Day 8 was 107 L/hr/m 2 . Data from patients with NSCLC demonstrate that gemcitabine and carboplatin given in combination does not alter the pharmacokinetics of gemcitabine or carboplatin compared to administration of either single agent, however, due to wide confidence intervals and small sample size, interpatient variability may be observed. Data from patients with metastatic breast cancer shows that gemcitabine has little or no effect on the pharmacokinetics (clearance and half-life) of paclitaxel and paclitaxel has little or no effect on the pharmacokinetics of gemcitabine.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE Gemcitabine Injection is a nucleoside metabolic inhibitor indicated: • in combination with carboplatin, for the treatment of advanced ovarian cancer that has relapsed at least 6 months after completion of platinum-based therapy. ( 1.1 ) • in combination with paclitaxel, for first-line treatment of metastatic breast cancer after failure of prior anthracycline-containing adjuvant chemotherapy, unless anthracyclines were clinically contraindicated. ( 1.2 ) • in combination with cisplatin for the treatment of non-small cell lung cancer. ( 1.3 ) • as a single agent for the treatment of pancreatic cancer. ( 1.4 ) 1.1 Ovarian Cancer Gemcitabine Injection in combination with carboplatin is indicated for the treatment of patients with advanced ovarian cancer that has relapsed at least 6 months after completion of platinum-based therapy. 1.2 Breast Cancer Gemcitabine Injection in combination with paclitaxel is indicated for the first-line treatment of patients with metastatic breast cancer after failure of prior anthracycline-containing adjuvant chemotherapy, unless anthracyclines were clinically contraindicated. 1.3 Non-Small Cell Lung Cancer Gemcitabine Injection in combination with cisplatin is indicated for the first-line treatment of patients with inoperable, locally advanced (Stage IIIA or IIIB) or metastatic (Stage IV) non-small cell lung cancer (NSCLC). 1.4 Pancreatic Cancer Gemcitabine Injection is indicated as first-line treatment for patients with locally advanced (nonresectable Stage II or Stage III) or metastatic (Stage IV) adenocarcinoma of the pancreas. Gemcitabine Injection is indicated for patients previously treated with fluorouracil.",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "Gemcitabine"
+    ],
+    "openfda_generic_names": [
+      "GEMCITABINE HYDROCHLORIDE"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e11eeff7-bcaf-4bf1-8da8-88138e01af84",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Locally Advanced Pancreatic Cancer",
+    "slug": "locally-advanced-pancreatic-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT03257033",
+      "title": "Intra-arterial Gemcitabine vs. IV Gemcitabine and Nab-Paclitaxel Following Radiotherapy for LAPC",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT03257033",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT05254171",
+      "title": "Study of Nab-Paclitaxel and Gemcitabine With or Without SBP-101 in Pancreatic Cancer",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05254171",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06370871",
+      "title": "Brightline-3: A Study to Find Out Whether Brigimadlin in Combination With Ezabenlimab Helps People With Advanced Soft Tissue Sarcoma",
+      "status": "WITHDRAWN",
+      "url": "https://clinicaltrials.gov/study/NCT06370871",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06519370",
+      "title": "FDA018-ADC vs Investigator's Choice Chemotherapy to Treat Locally Advanced, Recurrent or Metastatic Triple-negative Breast Cancer",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06519370",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06625320",
+      "title": "Phase 3 Study of Daraxonrasib (RMC-6236) in Patients With Previously Treated Metastatic Pancreatic Ductal Adenocarcinoma (PDAC)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06625320",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42598252",
+        "title": "A Real-World Study Characterizing a US Population of Patients Receiving Rituximab With Gemcitabine and Oxaliplatin for Relapsed or Refractory Large B-Cell Lymphoma.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42598252/"
+      },
+      {
+        "pmid": "42574460",
+        "title": "Co-Clinical Evaluation of Synthetic Vitamin D and Chemotherapy in Pancreatic Cancer by Integrated Imaging and Molecular Analyses.",
+        "pubdate": "2026 Aug 10",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42574460/"
+      },
+      {
+        "pmid": "42535874",
+        "title": "TroFuse-011 study design: sacituzumab tirumotecan with or without pembrolizumab for advanced triple-negative breast cancer with PD-L1 CPS <10.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42535874/"
+      },
+      {
+        "pmid": "42525419",
+        "title": "Maximal Ablative Irradiation Because of Encasement for Patients With Locally Advanced Pancreatic Cancer: A Nonrandomized Clinical Trial.",
+        "pubdate": "2026 Jul 29",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42525419/"
+      },
+      {
+        "pmid": "42517235",
+        "title": "Estimating the cost-effectiveness of tumor treating fields for locally advanced pancreatic cancer patients.",
+        "pubdate": "2026 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42517235/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

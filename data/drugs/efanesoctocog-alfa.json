@@ -1,0 +1,145 @@
+{
+  "drug_name": "Efanesoctocog alfa",
+  "slug": "efanesoctocog-alfa",
+  "enriched_at": "2026-08-15T21:13:01Z",
+  "source_trial_ids": [
+    "NCT05817812"
+  ],
+  "sponsors": [
+    "Swedish Orphan Biovitrum"
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2631084",
+      "generic_name": "antihemophilic factor (recombinant), Fc-VWF-XTEN fusion protein",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL5095275",
+    "target_chembl_id": "CHEMBL3143",
+    "target_name": "Coagulation factor VIII",
+    "mechanism_of_action_chembl": "Coagulation factor VIII exogenous protein"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "DailyMed",
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=01411972-df40-4ccf-88f0-d3220e5abda9",
+    "note": "A label exists in DailyMed but structured sections could not be parsed automatically -- see dailymed_url for the full label.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Efanesoctocog%20alfa+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Efanesoctocog%20alfa+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Efanesoctocog%20alfa+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Hemophilia A, Severe",
+    "slug": "hemophilia-a-severe"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05817812",
+      "title": "A Study Evaluating Physical Activity and Joint Health in Severe Haemophilia A Patients ≥12 Years Treated Once Weekly With Efanesoctocog Alfa",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT05817812",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42598540",
+        "title": "Treatment satisfaction and patient preference for efanesoctocog alfa over previous hemophilia A treatment: Results from the XTEND-1 phase 3 clinical trial.",
+        "pubdate": "2026 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42598540/"
+      },
+      {
+        "pmid": "42254090",
+        "title": "Cost comparison of efanesoctocog alfa vs conventional factor VIII therapies for major surgeries in patients with severe hemophilia A.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42254090/"
+      },
+      {
+        "pmid": "41789959",
+        "title": "A Psychometric Analysis of the Haemophilia Quality of Life Questionnaire for Adults Physical Health Subscale and Total Scores: Data From the Phase 3 XTEND-1 Trial in Patients With Severe Haemophilia A.",
+        "pubdate": "2026 May-Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41789959/"
+      },
+      {
+        "pmid": "40701256",
+        "title": "Post hoc analysis of bleeding episodes and clinically relevant pharmacokinetic parameters among children <12 years old with severe hemophilia A receiving once-weekly efanesoctocog alfa prophylaxis in the XTEND-Kids phase 3 multinational trial.",
+        "pubdate": "2025 Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40701256/"
+      },
+      {
+        "pmid": "40123211",
+        "title": "Efanesoctocog Alfa Population Pharmacokinetics and Repeated Time-To-Event Analysis of Bleeds in Adults, Adolescents, and Children with Severe Hemophilia A.",
+        "pubdate": "2025 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40123211/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "DROTRECOGIN ALFA (ACTIVATED)",
+        "chembl_id": "CHEMBL2109065",
+        "reason": "same target: Coagulation factor VIII"
+      },
+      {
+        "name": "TB-402",
+        "chembl_id": "CHEMBL2109410",
+        "reason": "same target: Coagulation factor VIII"
+      },
+      {
+        "name": "GIROCTOCOGENE FITELPARVOVEC",
+        "chembl_id": "CHEMBL4298194",
+        "reason": "same target: Coagulation factor VIII"
+      },
+      {
+        "name": "ANTIHEMOPHILIC FACTOR, PEGYLATED (MW 20000) HUMAN SEQUENCE RECOMBINANT",
+        "chembl_id": "CHEMBL4594584",
+        "reason": "same target: Coagulation factor VIII"
+      },
+      {
+        "name": "OMFILOCTOCOG ALFA",
+        "chembl_id": "CHEMBL4594605",
+        "reason": "same target: Coagulation factor VIII"
+      },
+      {
+        "name": "EFMOROCTOCOG ALFA",
+        "chembl_id": "CHEMBL4297945",
+        "reason": "same target: Coagulation factor VIII"
+      },
+      {
+        "name": "OCTOCOG ALFA",
+        "chembl_id": "CHEMBL4297873",
+        "reason": "same target: Coagulation factor VIII"
+      },
+      {
+        "name": "DAMOCTOCOG ALFA PEGOL",
+        "chembl_id": "CHEMBL5315069",
+        "reason": "same target: Coagulation factor VIII"
+      },
+      {
+        "name": "TUROCTOCOG ALFA PEGOL",
+        "chembl_id": "CHEMBL5315071",
+        "reason": "same target: Coagulation factor VIII"
+      },
+      {
+        "name": "SIMOCTOCOG ALFA",
+        "chembl_id": "CHEMBL2108319",
+        "reason": "same target: Coagulation factor VIII"
+      }
+    ]
+  }
+}

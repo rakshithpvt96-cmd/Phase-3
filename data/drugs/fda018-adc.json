@@ -1,0 +1,94 @@
+{
+  "drug_name": "FDA018-ADC",
+  "slug": "fda018-adc",
+  "enriched_at": "2026-08-15T21:14:02Z",
+  "source_trial_ids": [
+    "NCT06519370"
+  ],
+  "sponsors": [
+    "Shanghai Fudan-Zhangjiang Bio-Pharmaceutical Co., Ltd."
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2622205",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL192473",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=FDA018-ADC+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=FDA018-ADC+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=FDA018-ADC+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Triple Negative Breast Cancer",
+    "slug": "triple-negative-breast-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06519370",
+      "title": "FDA018-ADC vs Investigator's Choice Chemotherapy to Treat Locally Advanced, Recurrent or Metastatic Triple-negative Breast Cancer",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06519370",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "SKB264",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Sichuan Kelun-Biotech Biopharmaceutical Co., Ltd."
+      },
+      {
+        "name": "Paclitaxel",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Sichuan Kelun-Biotech Biopharmaceutical Co., Ltd."
+      },
+      {
+        "name": "Nab-paclitaxel",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Sichuan Kelun-Biotech Biopharmaceutical Co., Ltd."
+      },
+      {
+        "name": "Capecitabine",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Sichuan Kelun-Biotech Biopharmaceutical Co., Ltd."
+      },
+      {
+        "name": "Eribulin",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Sichuan Kelun-Biotech Biopharmaceutical Co., Ltd."
+      },
+      {
+        "name": "Carboplatin",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Sichuan Kelun-Biotech Biopharmaceutical Co., Ltd."
+      }
+    ]
+  }
+}

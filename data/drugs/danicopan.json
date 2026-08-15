@@ -1,0 +1,106 @@
+{
+  "drug_name": "Danicopan",
+  "slug": "danicopan",
+  "enriched_at": "2026-08-15T21:11:23Z",
+  "source_trial_ids": [
+    "NCT05389449"
+  ],
+  "sponsors": [
+    "Alexion Pharmaceuticals, Inc."
+  ],
+  "identity": {
+    "pubchem_cid": 118323590,
+    "iupac_name": "(2S,4R)-1-[2-[3-acetyl-5-(2-methylpyrimidin-5-yl)indazol-1-yl]acetyl]-N-(6-bromo-2-pyridinyl)-4-fluoropyrrolidine-2-carboxamide",
+    "molecular_formula": "C26H23BrFN7O3",
+    "molecular_weight": "580.4",
+    "canonical_smiles": null,
+    "inchikey": "PIBARDGJJAGJAJ-NQIIRXRSSA-N",
+    "rxnorm": {
+      "rxcui": "2678952",
+      "generic_name": "danicopan",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4250860",
+    "target_chembl_id": "CHEMBL2176771",
+    "target_name": "Complement factor D",
+    "mechanism_of_action_chembl": "Complement factor D inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Danicopan binds reversibly to complement Factor D and selectively inhibits the alternative complement pathway. Danicopan prevents the cleavage of complement Factor B into the Ba and Bb fragments which are required for the formation of the alternative pathway (AP) complement component C3 convertase (C3bBb), the generation of downstream effectors including C3 fragment opsonization, and the amplification of the terminal pathway. In PNH, intravascular hemolysis (IVH) is mediated by the terminal membrane attack complex (MAC), while extravascular hemolysis (EVH) is facilitated by C3 fragment opsonization. Danicopan acts proximally in the alternative pathway of the complement cascade to control preferentially C3 fragment-mediated EVH, while co-administered ravulizumab or eculizumab is anticipated to maintain control over MAC-mediated IVH.",
+    "pharmacokinetics": "12.3 Pharmacokinetics At the recommended dosages of 150 or 200 mg three times a day, the median systemic exposure of danicopan at steady state has a maximum plasma concentration (C max,ss ) of 535 or 665 ng/mL, respectively, and has an area under the plasma drug concentration time curve (AUC 24,ss ) of 8180 or 10200 ng × h/mL, respectively. Danicopan exposures at steady state generally increase in a dose-proportional manner from 150 mg three times a day to 200 mg three times a day. Danicopan systemic exposure reaches steady state in approximately 2 days. An approximately 2-fold accumulation of danicopan exposure is expected at steady state following thrice daily dosing compared to a single dose. Absorption The median time to maximum drug concentration (T max ) is 3.7 hours following oral administration of 150 mg danicopan in patients with PNH. Effect of Food When the danicopan tablet was administered with a high-fat meal, danicopan AUC and C max were approximately 25%, and 93% higher, respectively, compared to the fasted state. Median time to maximum drug concentration (T max ) was comparable when danicopan was administered in the fed or fasted state at approximately 3.0 and 2.5 hours, respectively. Distribution Plasma protein binding of danicopan is 91.5% to 94.3%. Danicopan is mainly distributed in plasma with a whole blood to plasma distribution ratio of 0.545. The apparent volume of distribution for a 75 kg person was 395 L. Elimination The mean half-life (t ½ ) is 7.9 hours. The mean apparent clearance of danicopan is 63 L/h. Metabolism Danicopan is extensively metabolized (96%) via oxidation, reduction, and hydrolysis pathways, with amide hydrolysis being the major pathway of elimination. Metabolism by CYP-mediated pathways is minimal. Excretion After a single oral administration of 150 mg [ 14 C]-danicopan in humans, 69% of total radioactivity (danicopan plus metabolites) was excreted in feces and 25% was excreted in urine. Unchanged danicopan accounted for 3.57% and 0.48% of the dose excreted in feces and urine, respectively. Specific Populations No clinically significant differences in the pharmacokinetics of danicopan were observed based on sex, age (16.9 to 82 years), or race (Caucasians and Asians) based on population pharmacokinetic (PK) assessment. Renal Impairment Following oral administration of danicopan 200 mg in subjects with severe renal impairment (eGFR < 30 mL/min/1.73 m 2 ), the extent of danicopan exposure (AUC 0-inf ) increased by 52% as compared to subjects with normal renal function. There was no clinically meaningful change in C max and T max . Hepatic Impairment Danicopan C max decreased by 27% and AUC 0-inf decreased by 8% in subjects with moderate hepatic impairment (Child-Pugh B). Studies have not been conducted in patients with severe hepatic impairment (Child-Pugh Class C). Drug Interaction Studies Clinical Studies Effect of Danicopan on the Pharmacokinetics of Other Drugs: Dedicated clinical drug interaction studies showed no clinically significant drug interactions with danicopan as an inhibitor or inducer of CYP2B6 (bupropion), CYP2C9 (warfarin), CYP2C19 (omeprazole), CYP3A4 (midazolam), and UGT1A1 and UGT2B7 (mycophenolic acid). BCRP Substrates Co-administration of a single oral dose of rosuvastatin 20 mg with danicopan dosed to steady state (200 mg three times a day for 4 days) resulted in increased rosuvastatin C max and AUC 0-inf by 3.3-fold and 2.2-fold, respectively. P-gp Substrates Co-administration of a single oral dose of fexofenadine 180 mg with danicopan dosed to steady state (150 mg three times a day for 4 days) resulted in increased fexofenadine C max and AUC 0-inf by 1.4-fold and 1.6-fold, respectively. Co-administration of a single oral dose of tacrolimus 2 mg with danicopan dosed to steady state (200 mg three times a day for 5 days) resulted in increased tacrolimus C max and AUC 0-inf by 1.1-fold and 1.5-fold, respectively. Effect of Other Drugs on the Pharmacokinetics of Danicopan: No clinically significant drug interactions were observed for danicopan as a victim when co-administered with antacid drugs (calcium carbonate, aluminum/magnesium hydroxide/simethicone) or a proton pump inhibitor (omeprazole). In Vitro Studies Non-CYP based metabolism is the predominant clearance pathway for danicopan. The minimal contribution of CYP metabolism in human hepatocytes is suggestive of a very low likelihood of danicopan as a victim of CYP-based drug-drug interactions. Danicopan is a substrate of P-gp, but not a substrate of BCRP, Organic Anion Transporting Polypeptide 1B1 (OATP1B1), or OATP1B3. Danicopan is not an inducer of CYP1A2, CYP2B6 or CYP2C9. Danicopan is an inhibitor of BCRP and P-gp, but not an inhibitor of transporters OATP1B1, OATP1B3, Organic Anion Transporter (OAT)1, OAT3, Organic Cation Transporter 2 (OCT2), or Multidrug And Toxin Extrusion 1 and 2K (MATE1 and MATE2-K).",
+    "indications_and_usage": "1 INDICATIONS AND USAGE VOYDEYA is indicated as add-on therapy to ravulizumab or eculizumab for the treatment of extravascular hemolysis (EVH) in adults with paroxysmal nocturnal hemoglobinuria (PNH). VOYDEYA is a complement factor D inhibitor indicated as add-on therapy to ravulizumab or eculizumab for the treatment of extravascular hemolysis (EVH) in adults with paroxysmal nocturnal hemoglobinuria (PNH) ( 1 ). Limitations of Use VOYDEYA has not been shown to be effective as monotherapy and should only be prescribed as an add-on to ravulizumab or eculizumab. Limitations of Use VOYDEYA has not been shown to be effective as monotherapy and should only be prescribed as an add-on to ravulizumab or eculizumab.",
+    "boxed_warning": "WARNING: SERIOUS INFECTIONS CAUSED BY ENCAPSULATED BACTERIA VOYDEYA, a complement inhibitor, increases the risk of serious infections, especially those caused by encapsulated bacteria, such as Neisseria meningitidis , Streptococcus pneumoniae , and Haemophilus influenzae type B [ see Warnings and Precautions (5.1) ]. Life-threatening and fatal infections with encapsulated bacteria have occurred in patients treated with complement inhibitors. These infections may become rapidly life-threatening or fatal if not recognized and treated early. Complete or update vaccination for encapsulated bacteria specifically, Neisseria meningitidis and Streptococcus pneumoniae at least 2 weeks prior to the first dose of VOYDEYA, unless the risks of delaying therapy with VOYDEYA outweigh the risk of developing a serious infection. Comply with the most current Advisory Committee on Immunization Practices (ACIP) recommendations for vaccinations against encapsulated bacteria in patients receiving a complement inhibitor. See Warnings and Precautions (5.1) for additional guidance on the management of the risk of serious infections caused by encapsulated bacteria. Patients receiving VOYDEYA are at increased risk for invasive disease caused by encapsulated bacteria, even if they develop antibodies following vaccination. Monitor patients for early signs and symptoms of serious infections and evaluate immediately if infection is suspected. Because of the risk of serious infections caused by encapsulated bacteria, VOYDEYA is available only through a restricted program under a Risk Evaluation and Mitigation Strategy (REMS) called the VOYDEYA REMS [see Warnings and Precautions (5.2) ] . WARNING: SERIOUS INFECTIONS CAUSED BY ENCAPSULATED BACTERIA See full prescribing information for complete boxed warning. VOYDEYA increases the risk of serious and life-threatening infections, caused by encapsulated bacteria, including Neisseria meningitidis , Streptococcus pneumoniae , and Haemophilus influenzae type B ( 5.1 ). Complete or update vaccination for encapsulated bacteria at least 2 weeks prior to the first dose of VOYDEYA, unless the risks of delaying VOYDEYA outweigh the risk of developing a serious infection. Comply with the most current Advisory Committee on Immunization Practices (ACIP) recommendations for vaccinations against encapsulated bacteria in patients receiving a complement inhibitor ( 5.1 ). Patients receiving VOYDEYA are at increased risk for invasive disease caused by encapsulated bacteria, even if they develop antibodies following vaccination. Monitor patients for early signs and symptoms of serious infections and evaluate immediately if infection is suspected ( 5.1 ). VOYDEYA is available only through a restricted program called VOYDEYA REMS ( 5.2 ).",
+    "openfda_brand_names": [
+      "Voydeya"
+    ],
+    "openfda_generic_names": [
+      "DANICOPAN"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ab8d1cbd-a28b-4d49-82ab-5c7460719ac7",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Paroxysmal Nocturnal Hemoglobinuria",
+    "slug": "paroxysmal-nocturnal-hemoglobinuria"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05389449",
+      "title": "A Long-term Safety and Efficacy Study of Danicopan as an Add-on Therapy to Complement Component 5 Inhibitor (C5i) in Participants With PNH",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05389449",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42279078",
+        "title": "Efficacy and Safety of Treatments for Paroxysmal Nocturnal Hemoglobinuria: A Systematic Literature Review.",
+        "pubdate": "2026 May 29",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42279078/"
+      },
+      {
+        "pmid": "41124654",
+        "title": "Efficacy and safety of vemircopan as monotherapy in patients with paroxysmal nocturnal hemoglobinuria.",
+        "pubdate": "2026 Feb 10",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41124654/"
+      },
+      {
+        "pmid": "40233322",
+        "title": "Breakthrough hemolysis in paroxysmal nocturnal hemoglobinuria throughout clinical trials: from definition to clinical practice.",
+        "pubdate": "2025 Jul 24",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40233322/"
+      },
+      {
+        "pmid": "39700502",
+        "title": "Long-term efficacy and safety of danicopan as add-on therapy to ravulizumab or eculizumab in PNH with significant EVH.",
+        "pubdate": "2025 Feb 20",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39700502/"
+      },
+      {
+        "pmid": "39693457",
+        "title": "",
+        "pubdate": "2024 Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39693457/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "LAMPALIZUMAB",
+        "chembl_id": "CHEMBL2109408",
+        "reason": "same target: Complement factor D"
+      }
+    ]
+  }
+}

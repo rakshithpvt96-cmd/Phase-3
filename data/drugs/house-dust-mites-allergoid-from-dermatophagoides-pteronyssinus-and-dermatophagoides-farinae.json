@@ -1,0 +1,82 @@
+{
+  "drug_name": "House dust mites allergoid from Dermatophagoides pteronyssinus and Dermatophagoides farinae",
+  "slug": "house-dust-mites-allergoid-from-dermatophagoides-pteronyssinus-and-dermatophagoides-farinae",
+  "enriched_at": "2026-08-15T21:16:25Z",
+  "source_trial_ids": [
+    "NCT05395689"
+  ],
+  "sponsors": [
+    "Probelte Pharma S.L.U."
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1116977",
+      "generic_name": "American house dust mite allergenic extract",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL5776358",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=House%20dust%20mites%20allergoid%20from%20Dermatophagoides%20pteronyssinus%20and%20Dermatophagoides%20farinae+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=House%20dust%20mites%20allergoid%20from%20Dermatophagoides%20pteronyssinus%20and%20Dermatophagoides%20farinae+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=House%20dust%20mites%20allergoid%20from%20Dermatophagoides%20pteronyssinus%20and%20Dermatophagoides%20farinae+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "House Dust Mite Allergy",
+    "slug": "house-dust-mite-allergy"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05395689",
+      "title": "Efficacy and Safety Assessment of Beltavac® With Polymerized Extract of HDM",
+      "status": "UNKNOWN",
+      "url": "https://clinicaltrials.gov/study/NCT05395689",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "40437636",
+        "title": "Efficacy and safety of a house dust mites allergoid in patients with allergic rhinitis-PROACAROS study: protocol for a randomized controlled trial.",
+        "pubdate": "2025 May 28",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40437636/"
+      },
+      {
+        "pmid": "35570712",
+        "title": "First-in-human phase 2 trial with mite allergoids coupled to mannan in subcutaneous and sublingual immunotherapy.",
+        "pubdate": "2022 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35570712/"
+      },
+      {
+        "pmid": "30089430",
+        "title": "Efficacy and tolerability of a house dust mite allergoid in allergic bronchial asthma: a randomized dose-ranging trial.",
+        "pubdate": "2018 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30089430/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

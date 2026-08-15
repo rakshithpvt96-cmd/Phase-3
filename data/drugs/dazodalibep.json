@@ -1,0 +1,108 @@
+{
+  "drug_name": "Dazodalibep",
+  "slug": "dazodalibep",
+  "enriched_at": "2026-08-15T21:11:31Z",
+  "source_trial_ids": [
+    "NCT06104124"
+  ],
+  "sponsors": [
+    "Amgen"
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2686379",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4594331",
+    "target_chembl_id": "CHEMBL3580491",
+    "target_name": "CD40 ligand",
+    "mechanism_of_action_chembl": "CD40 ligand antagonist"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Dazodalibep+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Dazodalibep+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Dazodalibep+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Sjogren's Syndrome",
+    "slug": "sjogren-s-syndrome"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06104124",
+      "title": "A Study to Evaluate the Efficacy and Safety of Dazodalibep in Participants With Sjögren's Syndrome (SS) With Moderate-to-severe Systemic Disease Activity",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06104124",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42449965",
+        "title": "From Molecular Pathophysiology to Clinical Trial Design in Sjögren's Disease: A Three-Axis Framework.",
+        "pubdate": "2026 Jun 24",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42449965/"
+      },
+      {
+        "pmid": "41638945",
+        "title": "Dual costimulation blockade with the CD154-specific fusion protein dazodalibep and belatacept for prophylaxis of kidney allograft rejection.",
+        "pubdate": "2026 Apr",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41638945/"
+      },
+      {
+        "pmid": "41200734",
+        "title": "Plain language summary: treatment of Sjögren's disease with dazodalibep.",
+        "pubdate": "2025 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41200734/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "RUPLIZUMAB",
+        "chembl_id": "CHEMBL2108767",
+        "reason": "same target: CD40 ligand"
+      },
+      {
+        "name": "TORALIZUMAB",
+        "chembl_id": "CHEMBL2108747",
+        "reason": "same target: CD40 ligand"
+      },
+      {
+        "name": "DAPIROLIZUMAB PEGOL",
+        "chembl_id": "CHEMBL2109478",
+        "reason": "same target: CD40 ligand"
+      },
+      {
+        "name": "RAVAGALIMAB",
+        "chembl_id": "CHEMBL4298212",
+        "reason": "same target: CD40 ligand"
+      },
+      {
+        "name": "TEGOPRUBART",
+        "chembl_id": "CHEMBL4594460",
+        "reason": "same target: CD40 ligand"
+      }
+    ]
+  }
+}

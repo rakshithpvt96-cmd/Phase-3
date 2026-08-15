@@ -1,0 +1,151 @@
+{
+  "drug_name": "Elafibranor",
+  "slug": "elafibranor",
+  "enriched_at": "2026-08-15T21:13:13Z",
+  "source_trial_ids": [
+    "NCT06383403"
+  ],
+  "sponsors": [
+    "Ipsen"
+  ],
+  "identity": {
+    "pubchem_cid": 9864881,
+    "iupac_name": "2-[2,6-dimethyl-4-[(E)-3-(4-methylsulfanylphenyl)-3-oxoprop-1-enyl]phenoxy]-2-methylpropanoic acid",
+    "molecular_formula": "C22H24O4S",
+    "molecular_weight": "384.5",
+    "canonical_smiles": null,
+    "inchikey": "AFLFKFHDSCQHOL-IZZDOVSWSA-N",
+    "rxnorm": {
+      "rxcui": "2684941",
+      "generic_name": "elafibranor",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL3707395",
+    "target_chembl_id": "CHEMBL239",
+    "target_name": "Peroxisome proliferator-activated receptor alpha",
+    "mechanism_of_action_chembl": "Peroxisome proliferator-activated receptor alpha agonist"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Elafibranor and its main active metabolite GFT1007 are peroxisome proliferator-activated receptor (PPAR) agonists, both of which activate PPAR-alpha, PPAR-gamma, and PPAR-delta in vitro. However, the mechanism by which elafibranor exerts its therapeutic effects in patients with PBC is not well understood. Pharmacological activity that is potentially relevant to therapeutic effects includes inhibition of bile acid synthesis through activation of PPAR-alpha and PPAR-delta. The signaling pathway for PPAR-delta was reported to include Fibroblast Growth Factor 21 (FGF21)-dependent downregulation of CYP7A1, the key enzyme for the synthesis of bile acids from cholesterol. An in vitro PPAR functional assay showed that both elafibranor and GFT1007 produced activation of PPAR-alpha (EC 50 = 46 nM and 14 nM, respectively, and E max = 56% and 61%, respectively, relative to reference agonists). The potency of elafibranor and GFT1007 for PPAR-alpha activation exceeded the respective potencies for PPAR-gamma and PPAR-delta activation by approximately 3- to 8-fold. Although the in vitro pharmacology studies detected PPAR-gamma activation by elafibranor and its metabolite GFT1007, toxicology studies in rats and monkeys (species with plasma metabolite profiles comparable to human) showed none of the adverse effects that are associated with PPAR-gamma activation.",
+    "pharmacokinetics": "12.3 Pharmacokinetics Following once daily dosing, steady state of elafibranor was achieved by Day 14, while steady state of GFT1007 was achieved by Day 7. The pharmacokinetics (PK) of elafibranor and GFT1007 were time-independent after 16-day repeated administration. At steady state, mean AUC0-24h of elafibranor and GFT1007 increased 3.3-fold and 2.6-fold for a 2.5-fold dose increase from 40 mg to 100 mg and 2.9-fold and 2.2-fold, respectively from 120 mg to 300 mg. Mean AUC 0-24 of GFT1007 was 3.2-fold higher than the elafibranor exposure in patients with PBC at steady state. Table 5: Elafibranor and GFT1007 Systemic Exposures at Steady State in Patients with PBC Following 80 mg Once Daily C max,ss (ng/mL) Day 15 following repeated elafibranor 80 mg once daily administration in patients with PBC Mean (SD) AUC 0-24 (ng ∙ h/mL) Mean (SD) AUC ratio between Day 15/Day 1 Mean (min, max) Abbreviations: AUC = area under the concentration-versus-time curve; C max = maximum concentration; SS= Steady State Elafibranor 802 (443) 3758 (1749) 2.9 (0.86- to 13) GFT1007 2058 (459) 11985 (7149) 1.3 (0.6- to 3) Absorption Following once daily dosing of 80 mg in patients with PBC, median time to peak plasma concentrations (T max ) of elafibranor and GFT1007 was 1.25 hours (range: 0.5-2 hours). Effect of Food When administered with a high-fat and high-calorie meal, T max was delayed by 30 minutes for elafibranor and by 1-hour for GFT1007 compared to in fasted conditions. Under fed condition, mean C max and AUC of elafibranor decreased by 50% and 15% respectively and mean C max of GFT1007 decreased by 30%, but the AUC was not affected compared to fasted conditions. The difference was not clinically meaningful. Distribution Plasma protein binding of both elafibranor and GFT1007 was approximately 99.7% (mainly to serum albumin). The mean apparent volume of distribution (Vd/F) of elafibranor in healthy subjects was 4731 L, following a single dose of elafibranor at 80 mg in fasted conditions. Elimination Following a single 80 mg dose under fasted conditions, median elimination half-life was 70.2 hours (range 37.1 to 92.2 hours) for elafibranor, and 15.4 hours (range 9.39 to 21.7 hours) for major active metabolite GFT1007. Elafibranor mean apparent total clearance (CL/F) was 50.0 L/h after a single 80 mg dose under fasted conditions. Metabolism Elafibranor is extensively metabolized to form a major active metabolite, GFT1007. The mean systemic exposure (AUC) to GFT1007 was 3.2-fold higher than that of elafibranor at steady state. Additional major inactive metabolite, an acyl glucuronide conjugate GFT3351 that consisted of four stereoisomers was formed. In vitro studies showed that elafibranor was metabolized by cytosolic enzyme, 15-ketoprostaglandin 13-Δ reductase (PTGR1), to form GFT1007. Elafibranor was also metabolized by CYP2J2, and uridine diphosphate (UDP)-glucuronosyltransferase (UGT) isoforms, UGT1A3, UGT1A4, and UGT2B7. GFT1007 was further metabolized by CYP2C8 and UGT1A3 and UGT2B7. Excretion Following a single 120 mg oral dose (1.5-times the recommended dose) of 14 C-radiolabelled elafibranor in healthy subjects, approximately 77.1% of the dose was recovered in feces, primarily as elafibranor (56.7% of the administered dose) and its major metabolite GFT1007 (6.08% of the administered dose). Approximately 19.3% was recovered in urine, primarily as glucuronide conjugate GFT3351 (11.8% of the administered dose). A negligible amount of unchanged elafibranor or GFT1007 was detectable in the urine. Biliary excretion of elafibranor in humans was suggested by the excretion of 60% of orally administered elafibranor in the bile of rats. Specific Populations There was no evidence that sex and body mass index (BMI) (14.5 to 53.5 kg/m 2 ) or body weight (43 kg to 120 kg) had any clinically meaningful impact on PK of elafibranor and GFT1007. Age Following single dose 120 mg elafibranor administration (1.5-times the recommended dose), the AUC inf of elafibranor and GFT1007 was 23% and 51% higher, respectively in healthy elderly subjects (age range 75-80 years) than in healthy young subjects (age 26-42 years) [see Use in Specific Populations (8.5) ] . Patients with Renal Impairment Following a single dose of 120 mg elafibranor administration (1.5-times the recommended dose), the systemic exposure of elafibranor was 32% lower and GFT1007 was not significantly different between patients with normal renal function and patients with severe renal impairment (eGFR < 15 mL/min/1.73 m 2 , Modification of Diet in Renal Disease (MDRD)) but not yet on dialysis. The unbound fraction of elafibranor was 21% lower and GFT1007 was not significantly different between patients with normal renal function and patients with severe renal impairment [see Use in Specific Populations (8.6) ] . Patients with Hepatic Impairment Following a single dose 120 mg elafibranor administration (1.5-times the recommended dose), no clinically significant differences in the pharmacokinetics of elafibranor or GFT1007 (mean change < 30%) were observed in patients with hepatic impairment (Child-Pugh A, B and C). However, the unbound fraction of elafibranor and GFT1007 was significantly increased by 2-fold and 2.6-fold, respectively, in patients with severe hepatic impairment (Child-Pugh C) [see Use in Specific Populations (8.7) ] . Drug Interactions Effect of IQIRVO on the Pharmacokinetics of Other Drugs In vitro Studies: Elafibranor, GFT1007 and GFT3351 did not inhibit CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, and CYP3A4. No time dependent CYP inhibition is observed. Elafibranor and GFT1007 did not induce CYP1A2, CYP2B6, and CYP3A4. The CYP induction potential for GFT3351 was not assessed. Elafibranor is not expected to inhibit UGT1A1, 1A3, 1A4, 1A6, 1A9, 2B7, 2B10, and 2B15 at the clinically relevant concentrations. GFT1007 is not expected to inhibit UGT1A1, 1A3, 1A4, 1A9, 2B7, 2B10, and 2B15 at the clinically relevant concentrations. GFT1007 inhibited UGT1A6 but the clinical relevance of UGT1A6 inhibition is unknown. Elafibranor is an inhibitor of bile salt export pump (BSEP) and breast cancer resistance protein (BCRP) and the clinical significance of BSEP and BCRP inhibition by elafibranor is unknown. GFT3351 is an inhibitor of multidrug resistance associated protein 2 (MRP2) and MRP3 and the clinical significance of MRP2 and MRP3 inhibition by GFT3351 is unknown. Elafibranor did not inhibit permeability-glycoprotein/multidrug resistance protein 1 (P-gp/MDR1), organic anion transporting polypeptides 1B1 (OATP1B1), organic cation transporter 1 (OCT1), OCT2, organic anion transporter 1 (OAT1), multidrug and toxin extrusion protein 1 (MATE1), MATE2-K and OAT3 and OATP1B3. GFT1007 did not inhibit OAT3, OATP1B3, BSEP, P-gp/MDR1, BCRP, OATP1B1, OCT1, OCT2, OAT1, MATE1 and MATE2-K. GFT3351 did not inhibit BCRP, P-gp, OATP1B1, OATP1B3, OAT1, OAT2, OAT3, OCT1, OCT2, MATE1, MATE2-K, and BSEP. Clinical Studies: Warfarin (CYP2C9 Substrate): No clinically significant differences in C max and AUC of S-warfarin and R-warfarin were observed when a single dose of warfarin 15 mg was administered with elafibranor 120 mg once daily at steady state compared to administered alone. No difference in international normalized ratio (INR) was observed. Simvastatin (CYP3A4, OATP1B1 and OATP1B3 Substrates): The active metabolite of simvastatin, simvastatin β-hydroxyacid C max decreased by 26% and AUC inf decreased by 32% following concomitant use of a single dose of simvastatin 20 mg and elafibranor 80 mg once daily at steady state. The change in simvastatin β-hydroxyacid exposure was not considered clinically meaningful. The results indicate that IQIRVO is a weak CYP3A4 inducer [see Drug Interaction (7.1) ] . Atorvastatin (CYP3A, OATP1B1 and OATP1B3 Substrates): Atorvastatin C max decreased by 28% and AUC inf decreased by 12% following concomitant use of a single dose of atorvastatin 40 mg and elafibranor 180 mg once daily at steady state. The change in atorvastatin exposure was not considered clinically meaningful. Sitagliptin (dipeptidyl peptidase-IV (DPP-IV) Inhibitor): In healthy subjects, no significant differences in plasma glucose and glucagon-like peptide-1 (GLP-1) were observed when elafibranor 120 mg was co-administered with sitagliptin 75 mg BID in comparison to administering sitagliptin alone. The relevance of the results to patients is unclear. Effect of Other Drugs on the Pharmacokinetics of IQIRVO In vitro Studies: Elafibranor is a substrate of PTGR1 as well as CYP2J2 and UGT enzymes (e.g., UGT1A3, UGT1A4, and UGT2B7). GFT1007 is a substrate of CYP2C8 and UGT enzymes (e.g., UGT1A3 and UGT2B7). Elafibranor is a substrate for MRP2 and BCRP. Potential impact of concomitant MRP2 or BCRP inhibitors was not studied in humans; thus, the clinical significance is unknown. GFT1007 is not a substrate for BCRP or MRP2. Neither elafibranor nor GFT1007 is a substrate of P-gp, OATP1B1, OATP1B3, OAT1, OAT3 and OCT2. Clinical Study: Indomethacin (PTGR1 Inhibitor): No clinically significant differences in the pharmacokinetics (C max and AUC) of elafibranor and GFT1007 were observed when a single dose of elafibranor 120 mg was administered with indomethacin 75 mg after indomethacin was administered alone twice daily for 5 days.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE IQIRVO is indicated for the treatment of primary biliary cholangitis (PBC) in combination with ursodeoxycholic acid (UDCA) in adults who have had an inadequate response to UDCA, or as monotherapy in patients unable to tolerate UDCA. This indication is approved under accelerated approval based on reduction of alkaline phosphatase (ALP) [see Clinical Studies (14) ] . Improvement in survival or prevention of liver decompensation events have not been demonstrated. Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trial(s). IQIRVO is a peroxisome proliferator-activated receptor (PPAR) agonist indicated for the treatment of primary biliary cholangitis (PBC) in combination with ursodeoxycholic acid (UDCA) in adults who have an inadequate response to UDCA, or as monotherapy in patients unable to tolerate UDCA. This indication is approved under accelerated approval based on reduction of alkaline phosphatase (ALP). Improvement in survival or prevention of liver decompensation events have not been demonstrated. Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trial(s). ( 1 ) Limitations of Use Use of IQIRVO is not recommended in patients who have or develop decompensated cirrhosis (e.g., ascites, variceal bleeding, hepatic encephalopathy). ( 8.7 , 12.3 ) Limitations of Use Use of IQIRVO is not recommended in patients who have or develop decompensated cirrhosis (e.g., ascites, variceal bleeding, hepatic encephalopathy) [see Use in Specific Populations (8.7) , Clinical Pharmacology (12.3) ] .",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "IQIRVO"
+    ],
+    "openfda_generic_names": [
+      "ELAFIBRANOR"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d78aa14f-6ec1-4b1d-a4ae-e48658137a25",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Primary Biliary Cholangitis",
+    "slug": "primary-biliary-cholangitis"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06383403",
+      "title": "A Study of Elafibranor in Adults With Primary Biliary Cholangitis and Inadequate Response or Intolerance to Ursodeoxycholic Acid.",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT06383403",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "41991386",
+        "title": "From unmet needs to new possibilities: PPAR-targeted therapies in the journey of people living with Primary Biliary Cholangitis.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41991386/"
+      },
+      {
+        "pmid": "41974026",
+        "title": "Seladelpar in patients with primary biliary cholangitis and compensated cirrhosis: Efficacy and safety from RESPONSE and ASSURE studies.",
+        "pubdate": "2026 May 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41974026/"
+      },
+      {
+        "pmid": "41864758",
+        "title": "AISF practice guidance on pharmacological treatment of metabolic-dysfunction associated steatotic liver disease and steatohepatitis (MASLD/MASH): A 2026 Update.",
+        "pubdate": "2026 May",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41864758/"
+      },
+      {
+        "pmid": "42118891",
+        "title": "",
+        "pubdate": "2026 Feb",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42118891/"
+      },
+      {
+        "pmid": "41153623",
+        "title": "Second-Line Therapies in Primary Biliary Cholangitis: A Comparative Review of Obeticholic Acid, Fibrates, Seladelpar, and Elafibranor.",
+        "pubdate": "2025 Sep 24",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41153623/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "CHOLINE FENOFIBRATE",
+        "chembl_id": "CHEMBL1201745",
+        "reason": "same target: Peroxisome proliferator-activated receptor alpha"
+      },
+      {
+        "name": "GEMFIBROZIL",
+        "chembl_id": "CHEMBL457",
+        "reason": "same target: Peroxisome proliferator-activated receptor alpha"
+      },
+      {
+        "name": "FENOFIBRATE",
+        "chembl_id": "CHEMBL672",
+        "reason": "same target: Peroxisome proliferator-activated receptor alpha"
+      },
+      {
+        "name": "CLOFIBRATE",
+        "chembl_id": "CHEMBL565",
+        "reason": "same target: Peroxisome proliferator-activated receptor alpha"
+      },
+      {
+        "name": "FENOFIBRIC ACID",
+        "chembl_id": "CHEMBL981",
+        "reason": "same target: Peroxisome proliferator-activated receptor alpha"
+      },
+      {
+        "name": "ZYH7",
+        "chembl_id": "CHEMBL3545093",
+        "reason": "same target: Peroxisome proliferator-activated receptor alpha"
+      },
+      {
+        "name": "CP-778875",
+        "chembl_id": "CHEMBL5314385",
+        "reason": "same target: Peroxisome proliferator-activated receptor alpha"
+      },
+      {
+        "name": "LY-518674",
+        "chembl_id": "CHEMBL424133",
+        "reason": "same target: Peroxisome proliferator-activated receptor alpha"
+      },
+      {
+        "name": "DRF-10945",
+        "chembl_id": "CHEMBL3545394",
+        "reason": "same target: Peroxisome proliferator-activated receptor alpha"
+      },
+      {
+        "name": "GW590735",
+        "chembl_id": "CHEMBL219586",
+        "reason": "same target: Peroxisome proliferator-activated receptor alpha"
+      }
+    ]
+  }
+}

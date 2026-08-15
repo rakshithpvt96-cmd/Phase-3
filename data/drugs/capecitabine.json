@@ -1,0 +1,169 @@
+{
+  "drug_name": "Capecitabine",
+  "slug": "capecitabine",
+  "enriched_at": "2026-08-15T21:09:22Z",
+  "source_trial_ids": [
+    "NCT06018337",
+    "NCT06279364",
+    "NCT06519370"
+  ],
+  "sponsors": [
+    "DualityBio Inc.",
+    "Shanghai Fudan-Zhangjiang Bio-Pharmaceutical Co., Ltd.",
+    "Sichuan Kelun-Biotech Biopharmaceutical Co., Ltd."
+  ],
+  "identity": {
+    "pubchem_cid": 60953,
+    "iupac_name": "pentyl N-[1-[(2R,3R,4S,5R)-3,4-dihydroxy-5-methyloxolan-2-yl]-5-fluoro-2-oxopyrimidin-4-yl]carbamate",
+    "molecular_formula": "C15H22FN3O6",
+    "molecular_weight": "359.35",
+    "canonical_smiles": null,
+    "inchikey": "GAGWJHPBXLXJQN-UORFTKCHSA-N",
+    "rxnorm": {
+      "rxcui": "194000",
+      "generic_name": "capecitabine",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1773",
+    "target_chembl_id": "CHEMBL1952",
+    "target_name": "Thymidylate synthase",
+    "mechanism_of_action_chembl": "Thymidylate synthase inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Capecitabine is metabolized to fluorouracil in vivo. Both normal and tumor cells metabolize fluorouracil to 5-fluoro-2’-deoxyuridine monophosphate (FdUMP) and 5-fluorouridine triphosphate (FUTP). These metabolites cause cell injury by two different mechanisms. First, FdUMP and the folate cofactor, N 5-10 -methylenetetrahydrofolate, bind to thymidylate synthase (TS) to form a covalently bound ternary complex. This binding inhibits the formation of thymidylate from 2’-deoxyuridylate. Thymidylate is the necessary precursor of thymidine triphosphate, which is essential for the synthesis of DNA, so that a deficiency of this compound can inhibit cell division. Second, nuclear transcriptional enzymes can mistakenly incorporate FUTP in place of uridine triphosphate (UTP) during the synthesis of RNA. This metabolic error can interfere with RNA processing and protein synthesis.",
+    "pharmacokinetics": "12.3 Pharmacokinetics The AUC of capecitabine and its metabolite 5’-DFCR increases proportionally over a dosage range of 500 mg/m 2 /day to 3,500 mg/m 2 /day (0.2 to 1.4 times the approved recommended dosage). The AUC of capecitabine’s metabolites 5’-DFUR and fluorouracil increased greater than proportional to the dose. The interpatient variability in the Cmax and AUC of fluorouracil was greater than 85%. Absorption Following oral administration of capecitabine tablets 1,255 mg/m 2 orally twice daily (the recommended dosage when used as single agent), the median Tmax of capecitabine and its metabolite fluorouracil was approximately 1.5 hours and 2 hours, respectively. Effect of Food Following administration of a meal (breakfast medium-rich in fat and carbohydrates), the mean Cmax and AUC0-INF of capecitabine was decreased by 60% and 34%, respectively. The mean Cmax and AUC0-INF of fluorouracil were also decreased by 37 % and 12%, respectively. The Tmax of both capecitabine and fluorouracil was delayed by 1.5 hours. Distribution Plasma protein binding of capecitabine and its metabolites is less than 60% and is not concentration-dependent. Capecitabine was primarily bound to human albumin (approximately 35%). Following oral administration of capecitabine tablets 7 days before surgery in patients with colorectal cancer, the median ratio of concentration for the active metabolite fluorouracil in colorectal tumors to adjacent tissues was 2.9 (range: 0.9 to 8.0). Elimination The elimination half-lives of capecitabine and fluorouracil were approximately 0.75 hour. Metabolism Capecitabine undergoes metabolism by carboxylesterase and is hydrolyzed to 5’-DFCR. 5’- DFCR is subsequently converted to 5’-DFUR by cytidine deaminase. 5’-DFUR is then hydrolized by thymidine phosphorylase (dThdPase) enzymes to the active metabolite fluorouracil. Fluorouracil is subsequently metabolized by dihydropyrimidine dehydrogenase to 5-fluoro-5, 6- dihydro-fluorouracil (FUH2). The pyrimidine ring of FUH2 is cleaved by dihydropyrimidinase to yield 5-fluoro-ureido-propionic acid (FUPA). Finally, FUPA is cleaved by β-ureido-propionase to α-fluoro-β-alanine (FBAL). Excretion Following administration of radiolabeled capecitabine, 96% of the administered capecitabine dose was recovered in urine (3% unchanged and 57% as metabolite FBAL) and 2.6% in feces. Specific Populations Following therapeutic doses of capecitabine tablets, no clinically meaningful difference in the pharmacokinetics of 5’-DFUR, fluorouracil or FBAL were observed based on sex (202 females and 303 males) and race (455 White, 22 Black, and 28 Other). No clinically meaningful difference on the pharmacokinetics of 5’-DFUR and fluorouracil were observed based on age (range: 27 to 86 years); however, the AUC of FBAL increased by 15% following a 20% increase in age. Racial or Ethnic Groups Following administration of capecitabine tablets 825 mg/m 2 orally twice daily for 14 days (0.66 times the recommended dosage), the Cmax and AUC of capecitabine decreased by 36% and 24%, respectively in Japanese patients (n=18) compared to White patients (n=22). The Cmax and AUC of FBAL decreased by approximately 25% and 34%, respectively in Japanese patients compared to White patients; however, the clinical significance of these differences is unknown. No clinically significant differences in the pharmacokinetics of 5’-DFCR, 5’-DFUR or fluorouracil were observed. Patients with Renal Impairment Table 8 Effect of Renal Impairment on the Pharmacokinetics of Capecitabine, 5’-DFUR, and FBAL Renal Impairment a Changes in AUC b Capecitabine 5’-DFUR c FBAL c 5-FU CLcr 30 to 50 mL/min Increased by 25% Increased by 42% Increased by 85% No relevant change CLcr <30 mL/min Increased by 25% Increased by 71% Increased by 258% Increased by 24% a Comparedto patients withCLcr >80 mL/min b Followingadministration of capecitabine tablets 1,250 mg/m 2 orally twice daily;day 1 observations c Capecitabine metaboliteCLcr= Creatine Clearance, AUC= Area under the plasma concentration-time curve Patients with Hepatic Impairment AUC0-INF and Cmax of capecitabine’s active principle, fluorouracil, were not affected in patients with mild or moderate hepatic impairment compared to patients with normal hepatic function. The AUC0-INF and Cmax of capecitabine increased by 60%. The effect of severe hepatic impairment on the pharmacokinetics of capecitabine and its metabolites are unknown. Drug Interaction Studies Clinical Studies Effect of Capecitabine on Warfarin: In four patients with cancer, chronic administration of capecitabine tablets 1,250 mg/m 2 twice daily with a single dose of warfarin 20 mg increased the mean AUC of S-warfarin by 57% and decreased its clearance by 37%. Baseline corrected AUC of INR in these 4 patients increased by 2.8-fold, and the maximum observed mean INR value was increased by 91%. Effect of Capecitabine on Celecoxib : Concomitant administration of multiple doses of capecitabine (capecitabine tablets 1,000 mg/m 2 twice daily for 14 days) increased celecoxib (sensitive CYP2C9 substrate) AUC by 28%, Cmax by 24% and Ctrough by 30%. Effect of Antacids on Capecitabine: When an aluminum hydroxide- and magnesium hydroxide- containing antacid was administered immediately after a capecitabine tablets dose of 1,250 mg/m 2 in patients with cancer, AUC and Cmax increased by 16% and 35%, respectively, for capecitabine and by 18% and 22%, respectively, for 5’-DFCR. No effect was observed on the other three major metabolites (5’-DFUR, fluorouracil, FBAL) of capecitabine tablets. Effect of Allopurinol on Capecitabine: Concomitant use with allopurinol may decrease conversion of capecitabine to the active metabolites, FdUMP and FUTP. Effect of Capecitabine on Docetaxel and Effect of Docetaxel on Capecitabine: capecitabine tablets had no effect on the pharmacokinetics of docetaxel (Cmax and AUC) and docetaxel has no effect on the pharmacokinetics of capecitabine and the fluorouracil precursor 5’-DFUR. In Vitro Studies Cytochrome P450 (CYP) Enzymes: Capecitabine and its metabolites (5’-DFUR, 5’-DFCR, fluorouracil, and FBAL) did not inhibit CYP1A2, CYP2A6, CYP3A4, CYP2C19, CYP2D6, or CYP2E1 in vitro.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE Capecitabine tablet is a nucleoside metabolic inhibitor indicated for: Colorectal Cancer • adjuvant treatment of patients with Stage III colon cancer as a single agent or as a component of a combination chemotherapy regimen. ( 1.1 ) • perioperative treatment of adults with locally advanced rectal cancer as a component of chemoradiotherapy. ( 1.1 ) • treatment of patients with unresectable or metastatic colorectal cancer as a single agent or as a component of a combination chemotherapy regimen. ( 1.1 ) Breast Cancer • treatment of patients with advanced or metastatic breast cancer as a single agent if an anthracycline-or taxane-containing chemotherapy is not indicated. ( 1.2 ) • treatment of patients with advanced or metastatic breast cancer in combination with docetaxel after disease progression on prior anthracycline-containing chemotherapy. ( 1.2 ) Gastric, Esophageal, or Gastroesophageal Junction Cancer • treatment of adults with unresectable or metastatic gastric, esophageal, or gastroesophageal junction cancer as a component of a combination chemotherapy regimen. ( 1.3 ) • treatment of adults with HER2-overexpressing metastatic gastric or gastroesophageal junction adenocarcinoma who have not received prior treatment for metastatic disease as a component of a combination regimen. ( 1.3 ) Pancreatic Cancer • adjuvant treatment of adults with pancreatic adenocarcinoma as a component of a combination chemotherapy regimen. ( 1.4 ) 1.1 Colorectal Cancer Capecitabine tablets are indicated for the: adjuvant treatment of patients with Stage III colon cancer as a single agent or as a component of a combination chemotherapy regimen. perioperative treatment of adults with locally advanced rectal cancer as a component of chemoradiotherapy. treatment of patients with unresectable or metastatic colorectal cancer as a single agent or as a component of a combination chemotherapy regimen. 1.2 Breast Cancer Capecitabine tablets are indicated for the: • treatment of patients with advanced or metastatic breast cancer as a single agent if an anthracycline- or taxanecontaining chemotherapy is not indicated. • treatment of patients with advanced or metastatic breast cancer in combination with docetaxel after disease progression on prior anthracycline-containing chemotherapy. 1.3 Gastric, Esophageal, or Gastroesophageal Junction Cancer Capecitabine tablets are indicated for the: • treatment of adults with unresectable or metastatic gastric, esophageal, or gastroesophageal junction cancer as a component of a combination chemotherapy regimen. • treatment of adults with HER2-overexpressing metastatic gastric or gastroesophageal junction adenocarcinoma who have not received prior treatment for metastatic disease as a component of a combination regimen. 1.4 Pancreatic Cancer Capecitabine tablets are indicated for the adjuvant treatment of adults with pancreatic adenocarcinoma as a component of a combination chemotherapy regimen.",
+    "boxed_warning": "WARNING: SERIOUS ADVERSE REACTIONS OR DEATH IN PATIENTS WITH COMPLETE DPD DEFICIENCY and BLEEDING WITH CONCOMITANT USE OF VITAMIN K ANTAGONISTS Increased risk of serious adverse reactions or death in patients with complete DPD deficiency Test patients for genetic variants of DPYD prior to initiating capecitabine tablets unless immediate treatment is necessary. Avoid use of capecitabine tablets in patients with certain homozygous or compound heterozygous DPYD variants that result in complete DPD deficiency [see Warnings and Precautions ( 5.1 )]. Increased risk of bleeding with concomitant use of Vitamin K antagonists Altered coagulation parameters and/or bleeding, including death, have been reported in patients taking c apecitabine tablets concomitantly with oral vitamin K antagonists, such as warfarin [see Warnings and Precautions ( 5.2 ) , Drug Interactions (7.2 ) ] . Clinically significant increases in prothrombin time (PT) and international normalized ratio (INR) have been reported in patients who were on stable doses of a vitamin K antagonist at the time capecitabine tablets was introduced. These events occurred in patients with and without liver metastases. Monitor INR more frequently and adjust the dose of the vitamin K antagonist as appropriate [see Drug Interactions (7.2) ] . WARNING: SERIOUS ADVERSE REACTIONS OR DEATH IN PATIENTS WITH COMPLETE DPD DEFICIENCY and BLEEDING WITH CONCOMITANT USE OF VITAMIN K ANTAGONISTS See full prescribing information for complete boxed warning. Serious adverse reactions or death may occur in patients with complete DPD deficiency. Test patients for genetic variants of DPYD prior to initiating capecitabine tablets unless immediate treatment is necessary. Avoid use of capecitabine tablets in patients with certain homozygous or compound heterozygous DPYD variants that result in complete DPD deficiency. ( 5.1 ) Altered coagulation parameters and/or bleeding, including death, have been reported in patients taking capecitabine tablets concomitantly with oral vitamin K antagonists. ( 5.2, 7.2 ) Monitor international normalized ratio (INR) more frequently and adjust the dose of the vitamin K antagonist as appropriate. ( 7.2 )",
+    "openfda_brand_names": [
+      "capecitabine"
+    ],
+    "openfda_generic_names": [
+      "CAPECITABINE"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0b59e98c-5b34-4b93-90f6-20526f4d4f88",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Metastatic Breast Cancer",
+    "slug": "metastatic-breast-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06018337",
+      "title": "A Study of DB-1303/BNT323 vs Investigator's Choice Chemotherapy in HER2-Low, Hormone Receptor Positive Metastatic Breast Cancer (DYNASTY-Breast02)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06018337",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06279364",
+      "title": "A Study of SKB264 Versus Investigator's Choice Chemotherapy in Patients With Unresectable Recurrent or Metastatic Triple-Negative Breast Cancer",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06279364",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06519370",
+      "title": "FDA018-ADC vs Investigator's Choice Chemotherapy to Treat Locally Advanced, Recurrent or Metastatic Triple-negative Breast Cancer",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06519370",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42592685",
+        "title": "Redefining the Role of Chemotherapy and Targeted Cytotoxic Delivery in Lung Neuroendocrine Tumors.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42592685/"
+      },
+      {
+        "pmid": "42584742",
+        "title": "Real-world clinical outcomes of patients with early-stage TNBC and BRCAm who were treated with adjuvant capecitabine in the United States.",
+        "pubdate": "2026 Aug 12",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42584742/"
+      },
+      {
+        "pmid": "42525419",
+        "title": "Maximal Ablative Irradiation Because of Encasement for Patients With Locally Advanced Pancreatic Cancer: A Nonrandomized Clinical Trial.",
+        "pubdate": "2026 Jul 29",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42525419/"
+      },
+      {
+        "pmid": "42520930",
+        "title": "Adjuvant capecitabine in resected biliary tract cancer: a real-world data from the BILCAP-Real study (ACABi multicentre cohort).",
+        "pubdate": "2026 Jul 28",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42520930/"
+      },
+      {
+        "pmid": "42509089",
+        "title": "Tumour cell density quantified by artificial intelligence is associated with differential benefit from irinotecan-based chemo-radiotherapy in locally advanced rectal cancer: a post-hoc study of the phase 3 ARISTOTLE trial.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42509089/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "FLOXURIDINE",
+        "chembl_id": "CHEMBL917",
+        "reason": "same target: Thymidylate synthase"
+      },
+      {
+        "name": "PEMETREXED DISODIUM",
+        "chembl_id": "CHEMBL2360464",
+        "reason": "same target: Thymidylate synthase"
+      },
+      {
+        "name": "FLUOROURACIL",
+        "chembl_id": "CHEMBL185",
+        "reason": "same target: Thymidylate synthase"
+      },
+      {
+        "name": "RALTITREXED",
+        "chembl_id": "CHEMBL225071",
+        "reason": "same target: Thymidylate synthase"
+      },
+      {
+        "name": "OSI-7904",
+        "chembl_id": "CHEMBL169896",
+        "reason": "same target: Thymidylate synthase"
+      },
+      {
+        "name": "NOLATREXED",
+        "chembl_id": "CHEMBL320775",
+        "reason": "same target: Thymidylate synthase"
+      },
+      {
+        "name": "DOXIFLURIDINE",
+        "chembl_id": "CHEMBL1130",
+        "reason": "same target: Thymidylate synthase"
+      },
+      {
+        "name": "TEGAFUR",
+        "chembl_id": "CHEMBL20883",
+        "reason": "same target: Thymidylate synthase"
+      },
+      {
+        "name": "PEMETREXED",
+        "chembl_id": "CHEMBL225072",
+        "reason": "same target: Thymidylate synthase"
+      },
+      {
+        "name": "PEMETREXED MONOHYDRATE",
+        "chembl_id": "CHEMBL5315053",
+        "reason": "same target: Thymidylate synthase"
+      }
+    ]
+  }
+}

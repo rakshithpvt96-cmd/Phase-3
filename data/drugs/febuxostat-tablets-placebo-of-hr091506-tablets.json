@@ -1,0 +1,89 @@
+{
+  "drug_name": "febuxostat tablets + placebo of HR091506 tablets",
+  "slug": "febuxostat-tablets-placebo-of-hr091506-tablets",
+  "enriched_at": "2026-08-15T21:14:10Z",
+  "source_trial_ids": [
+    "NCT06414837"
+  ],
+  "sponsors": [
+    "Jiangsu HengRui Medicine Co., Ltd."
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "834234",
+      "generic_name": "febuxostat Oral Tablet",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1164729",
+    "target_chembl_id": "CHEMBL1929",
+    "target_name": "Xanthine dehydrogenase/oxidase",
+    "mechanism_of_action_chembl": "Xanthine dehydrogenase inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=febuxostat%20tablets%20%2B%20placebo%20of%20HR091506%20tablets+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=febuxostat%20tablets%20%2B%20placebo%20of%20HR091506%20tablets+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=febuxostat%20tablets%20%2B%20placebo%20of%20HR091506%20tablets+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Gout With Hyperuricemia in Adults",
+    "slug": "gout-with-hyperuricemia-in-adults"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06414837",
+      "title": "Clinical Trial of HR091506 Tablets in Treatment of Gout With Hyperuricemia in Adults",
+      "status": "UNKNOWN",
+      "url": "https://clinicaltrials.gov/study/NCT06414837",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "ALLOPURINOL SODIUM",
+        "chembl_id": "CHEMBL1200477",
+        "reason": "same target: Xanthine dehydrogenase/oxidase"
+      },
+      {
+        "name": "ALLOPURINOL",
+        "chembl_id": "CHEMBL1467",
+        "reason": "same target: Xanthine dehydrogenase/oxidase"
+      },
+      {
+        "name": "BENDAZAC",
+        "chembl_id": "CHEMBL1089221",
+        "reason": "same target: Xanthine dehydrogenase/oxidase"
+      },
+      {
+        "name": "TOPIROXOSTAT",
+        "chembl_id": "CHEMBL1078685",
+        "reason": "same target: Xanthine dehydrogenase/oxidase"
+      },
+      {
+        "name": "OXYPURINOL",
+        "chembl_id": "CHEMBL859",
+        "reason": "same target: Xanthine dehydrogenase/oxidase"
+      }
+    ]
+  }
+}

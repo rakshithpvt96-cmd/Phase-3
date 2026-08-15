@@ -1,0 +1,63 @@
+{
+  "drug_name": "CDE100 association",
+  "slug": "cde100-association",
+  "enriched_at": "2026-08-15T21:09:49Z",
+  "source_trial_ids": [
+    "NCT05640232"
+  ],
+  "sponsors": [
+    "EMS"
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "265349",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2303849",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=CDE100%20association+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=CDE100%20association+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=CDE100%20association+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Primary Dysmenorrhea",
+    "slug": "primary-dysmenorrhea"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05640232",
+      "title": "Efficacy and Safety of CDE100 in the Treatment of Menstrual Cramp Pain Associated With Primary Dysmenorrhea",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05640232",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

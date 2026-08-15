@@ -1,0 +1,65 @@
+{
+  "drug_name": "HB1801",
+  "slug": "hb1801",
+  "enriched_at": "2026-08-15T21:16:03Z",
+  "source_trial_ids": [
+    "NCT06319313"
+  ],
+  "sponsors": [
+    "Shanghai JMT-Bio Inc."
+  ],
+  "identity": {
+    "pubchem_cid": 60857,
+    "iupac_name": "(4S)-4-[[3-[2-(dimethylamino)ethyl]-1H-indol-5-yl]methyl]-1,3-oxazolidin-2-one",
+    "molecular_formula": "C16H21N3O2",
+    "molecular_weight": "287.36",
+    "canonical_smiles": null,
+    "inchikey": "ULSDMUVEXKOYBU-ZDUSSCGKSA-N",
+    "rxnorm": null
+  },
+  "mechanism": {
+    "chembl_id": null,
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=HB1801+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=HB1801+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=HB1801+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Squamous Cell Non-small Cell Lung Cancer",
+    "slug": "squamous-cell-non-small-cell-lung-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06319313",
+      "title": "Efficacy and Safety of JMT101 Combined Wth Docetaxel / HB1801 in Patients With Squamous Cell Non-Small Cell Lung Cancer",
+      "status": "NOT_YET_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06319313",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

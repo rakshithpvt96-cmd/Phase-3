@@ -1,0 +1,94 @@
+{
+  "drug_name": "Gadobutrol Injection",
+  "slug": "gadobutrol-injection",
+  "enriched_at": "2026-08-15T21:14:49Z",
+  "source_trial_ids": [
+    "NCT07275814"
+  ],
+  "sponsors": [
+    "Shanghai Shengdi Pharmaceutical Co., Ltd"
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "84990",
+      "generic_name": "gadobutrol",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2218860",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": "Diagnostic agent"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Gadobutrol%20Injection+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Gadobutrol%20Injection+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Gadobutrol%20Injection+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "For Contrast-enhanced Magnetic Resonance Imaging (MRI) of Central Nervous System (CNS) Lesions",
+    "slug": "for-contrast-enhanced-magnetic-resonance-imaging-mri-of-central-nervous-system-cns-lesions"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07275814",
+      "title": "A Study of a Gadolinium-Based Contrast Agent (GBCA) for Adults Undergoing Magnetic Resonance Imaging (MRI) for Known or Highly Suspected Central Nervous System (CNS) Lesions",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT07275814",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "40495655",
+        "title": "Pharmacokinetics, Excretion, and Organ Distribution of the Novel Gadolinium-Based MRI Contrast Agent Gadoquatrane in Female Cynomolgus Monkeys.",
+        "pubdate": "2025 Dec 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40495655/"
+      },
+      {
+        "pmid": "40359923",
+        "title": "In Vitro and In Vivo Stability Assessment of the Novel, Macrocyclic Gadolinium-Based Contrast Agent Gadoquatrane.",
+        "pubdate": "2025 Nov 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40359923/"
+      },
+      {
+        "pmid": "40215351",
+        "title": "Pharmacokinetics, Safety, and Dialyzability of Gadoquatrane in Patients With Impaired Renal Function: A Comprehensive Investigation Using Clinical Trial Data, Modeling and Simulation, and In Vitro Data.",
+        "pubdate": "2025 Nov 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40215351/"
+      },
+      {
+        "pmid": "37462494",
+        "title": "Efficacy and Safety of Half-Dose Gadopiclenol versus Full-Dose Gadobutrol for Contrast-enhanced Body MRI.",
+        "pubdate": "2023 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37462494/"
+      },
+      {
+        "pmid": "36729404",
+        "title": "Efficacy and Safety of Gadopiclenol for Contrast-Enhanced MRI of the Central Nervous System: The PICTURE Randomized Clinical Trial.",
+        "pubdate": "2023 May 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36729404/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "drug_name": "Carboplatin",
+  "slug": "carboplatin",
+  "enriched_at": "2026-08-15T21:09:28Z",
+  "source_trial_ids": [
+    "NCT05048797",
+    "NCT05261399",
+    "NCT05298423",
+    "NCT06211023",
+    "NCT06279364",
+    "NCT06687369"
+  ],
+  "sponsors": [
+    "AstraZeneca",
+    "Merck Sharp & Dohme LLC",
+    "Sichuan Kelun-Biotech Biopharmaceutical Co., Ltd.",
+    "Suzhou Suncadia Biopharmaceuticals Co., Ltd.",
+    "mAbxience Research S.L."
+  ],
+  "identity": {
+    "pubchem_cid": 426756,
+    "iupac_name": "azanide;cyclobutane-1,1-dicarboxylic acid;platinum(2+)",
+    "molecular_formula": "C6H12N2O4Pt",
+    "molecular_weight": "371.25",
+    "canonical_smiles": null,
+    "inchikey": "VSRXQHXAPYXROS-UHFFFAOYSA-N",
+    "rxnorm": {
+      "rxcui": "40048",
+      "generic_name": "carboplatin",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1351",
+    "target_chembl_id": "CHEMBL2311221",
+    "target_name": "DNA",
+    "mechanism_of_action_chembl": "DNA inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": "INDICATIONS Initial Treatment of Advanced Ovarian Carcinoma Carboplatin injection is indicated for the initial treatment of advanced ovarian carcinoma in established combination with other approved chemotherapeutic agents. One established combination regimen consists of carboplatin and cyclophosphamide. Two randomized controlled studies conducted by the NCIC and SWOG with carboplatin versus cisplatin, both in combination with cyclophosphamide, have demonstrated equivalent overall survival between the two groups (see CLINICAL STUDIES ). There is limited statistical power to demonstrate equivalence in overall pathologic complete response rates and long-term survival (≥ 3 years) because of the small number of patients with these outcomes: the small number of patients with residual tumor < 2 cm after initial surgery also limits the statistical power to demonstrate equivalence in this subgroup. Secondary Treatment of Advanced Ovarian Carcinoma Carboplatin injection is indicated for the palliative treatment of patients with ovarian carcinoma recurrent after prior chemotherapy, including patients who have been previously treated with cisplatin. Within the group of patients previously treated with cisplatin, those who have developed progressive disease while receiving cisplatin therapy may have a decreased response rate.",
+    "boxed_warning": "Carboplatin injection should be administered under the supervision of a qualified physician experienced in the use of cancer chemotherapeutic agents. Appropriate management of therapy and complications is possible only when adequate treatment facilities are readily available. Bone marrow suppression is dose related and may be severe, resulting in infection and/or bleeding. Anemia may be cumulative and may require transfusion support. Vomiting is another frequent drug related side effect. Anaphylactic-like reactions to carboplatin have been reported and may occur within minutes of carboplatin injection administration. Epinephrine, corticosteroids, and antihistamines have been employed to alleviate symptoms.",
+    "openfda_brand_names": [
+      "CARBOPLATIN"
+    ],
+    "openfda_generic_names": [
+      "CARBOPLATIN"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4c89cedc-e48b-445c-ad05-54dbe60e4fb0",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Non Squamous Non Small Cell Lung Cancer",
+    "slug": "non-squamous-non-small-cell-lung-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05048797",
+      "title": "A Study to Investigate the Efficacy and Safety of Trastuzumab Deruxtecan as the First Treatment Option for Unresectable, Locally Advanced/Metastatic Non-Small Cell Lung Cancer With HER2 Mutations",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05048797",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT05261399",
+      "title": "Savolitinib Plus Osimertinib Versus Platinum-based Doublet Chemotherapy in Participants With Non-Small Cell Lung Cancer Who Have Progressed on Osimertinib Treatment",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05261399",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT05298423",
+      "title": "Study of Pembrolizumab/Vibostolimab (MK-7684A) in Combination With Concurrent Chemoradiotherapy Followed by Pembrolizumab/Vibostolimab Versus Concurrent Chemoradiotherapy Followed by Durvalumab in Participants With Stage III Non-small Cell Lung Cancer (MK-7684A-006)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05298423",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06211023",
+      "title": "A Study of SHR-A1921 With or Without Carboplatin in Subjects With Ovarian Cancer",
+      "status": "UNKNOWN",
+      "url": "https://clinicaltrials.gov/study/NCT06211023",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06279364",
+      "title": "A Study of SKB264 Versus Investigator's Choice Chemotherapy in Patients With Unresectable Recurrent or Metastatic Triple-Negative Breast Cancer",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06279364",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06687369",
+      "title": "A Study to Compare Pharmacokinetics, Efficacy, Safety, and Immunogenicity of MB12 (Proposed Pembrolizumab Biosimilar) to Keytruda® in Non-small Cell Lung Cancer (BENITO Study)",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06687369",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42578486",
+        "title": "First-line systemic treatment for people with extensive-stage small cell lung cancer: a network meta-analysis.",
+        "pubdate": "2026 Aug 11",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42578486/"
+      },
+      {
+        "pmid": "42574006",
+        "title": "Osimertinib With or Without Chemotherapy in Advanced Non-Small Cell Lung Cancer With EGFR and Concurrent TP53 Mutations: A Randomized Clinical Trial.",
+        "pubdate": "2026 Aug 10",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42574006/"
+      },
+      {
+        "pmid": "42535874",
+        "title": "TroFuse-011 study design: sacituzumab tirumotecan with or without pembrolizumab for advanced triple-negative breast cancer with PD-L1 CPS <10.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42535874/"
+      },
+      {
+        "pmid": "42534780",
+        "title": "Extensive-stage small cell lung cancer in Hungary: a real-world analysis (2013-2022).",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42534780/"
+      },
+      {
+        "pmid": "42523785",
+        "title": "An exploratory study of nimotuzumab combined with toripalimab and chemotherapy for locally advanced tonsillar cancer.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42523785/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "DORNASE ALFA",
+        "chembl_id": "CHEMBL1201431",
+        "reason": "same target: DNA"
+      },
+      {
+        "name": "DESOXYRIBONUCLEASE",
+        "chembl_id": "CHEMBL1201459",
+        "reason": "same target: DNA"
+      },
+      {
+        "name": "GEMTUZUMAB OZOGAMICIN",
+        "chembl_id": "CHEMBL1201506",
+        "reason": "same target: DNA"
+      },
+      {
+        "name": "BENDAMUSTINE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1201734",
+        "reason": "same target: DNA"
+      },
+      {
+        "name": "DACTINOMYCIN",
+        "chembl_id": "CHEMBL1554",
+        "reason": "same target: DNA"
+      },
+      {
+        "name": "CYCLOPHOSPHAMIDE",
+        "chembl_id": "CHEMBL1200796",
+        "reason": "same target: DNA"
+      },
+      {
+        "name": "MECHLORETHAMINE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1201001",
+        "reason": "same target: DNA"
+      },
+      {
+        "name": "STREPTOZOCIN",
+        "chembl_id": "CHEMBL1977579",
+        "reason": "same target: DNA"
+      },
+      {
+        "name": "NELARABINE",
+        "chembl_id": "CHEMBL1201112",
+        "reason": "same target: DNA"
+      },
+      {
+        "name": "EPIRUBICIN HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1200981",
+        "reason": "same target: DNA"
+      }
+    ]
+  }
+}

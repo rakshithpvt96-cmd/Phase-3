@@ -1,0 +1,94 @@
+{
+  "drug_name": "Brigimadlin",
+  "slug": "brigimadlin",
+  "enriched_at": "2026-08-15T21:08:22Z",
+  "source_trial_ids": [
+    "NCT06370871"
+  ],
+  "sponsors": [
+    "Boehringer Ingelheim"
+  ],
+  "identity": {
+    "pubchem_cid": 129264140,
+    "iupac_name": "(3S,10'S,11'S,14'S)-6-chloro-11'-(3-chloro-2-fluorophenyl)-13'-(cyclopropylmethyl)-6'-methyl-2-oxospiro[1H-indole-3,12'-8,9,13-triazatetracyclo[7.6.0.02,7.010,14]pentadeca-1,3,5,7-tetraene]-5'-carboxylic acid",
+    "molecular_formula": "C31H25Cl2FN4O3",
+    "molecular_weight": "591.5",
+    "canonical_smiles": null,
+    "inchikey": "AMTXDBGKYPDTTA-SJVQGLCSSA-N",
+    "rxnorm": {
+      "rxcui": "2666954",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL5314455",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Brigimadlin+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Brigimadlin+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Brigimadlin+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Advanced Soft Tissue Sarcoma",
+    "slug": "advanced-soft-tissue-sarcoma"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06370871",
+      "title": "Brightline-3: A Study to Find Out Whether Brigimadlin in Combination With Ezabenlimab Helps People With Advanced Soft Tissue Sarcoma",
+      "status": "WITHDRAWN",
+      "url": "https://clinicaltrials.gov/study/NCT06370871",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42268294",
+        "title": "Brigimadlin Versus Doxorubicin in Advanced Dedifferentiated Liposarcoma: Efficacy, Safety and Translational Data from Brightline-1, a Randomized Phase 2/3 Trial.",
+        "pubdate": "2026 Jun 10",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42268294/"
+      },
+      {
+        "pmid": "41664821",
+        "title": "Pharmacokinetic-pharmacodynamic-efficacy modeling of the MDM2 inhibitor brigimadlin in glioblastoma patient-derived xenografts.",
+        "pubdate": "2026 Jan-Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41664821/"
+      },
+      {
+        "pmid": "40130688",
+        "title": "Real-World Experience Using Brigimadlin (MDM2 Inhibitor) in an Australian Sarcoma Specialist Center Compared to Pivotal Clinical Trial Results.",
+        "pubdate": "2025 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40130688/"
+      },
+      {
+        "pmid": "38214149",
+        "title": "Brightline-2: a phase IIa/IIb trial of brigimadlin (BI 907828) in advanced biliary tract cancer, pancreatic ductal adenocarcinoma or other solid tumors.",
+        "pubdate": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38214149/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

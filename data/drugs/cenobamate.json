@@ -1,0 +1,153 @@
+{
+  "drug_name": "Cenobamate",
+  "slug": "cenobamate",
+  "enriched_at": "2026-08-15T21:09:56Z",
+  "source_trial_ids": [
+    "NCT03961568"
+  ],
+  "sponsors": [
+    "SK Life Science, Inc."
+  ],
+  "identity": {
+    "pubchem_cid": 11962412,
+    "iupac_name": "[(1R)-1-(2-chlorophenyl)-2-(tetrazol-2-yl)ethyl] carbamate",
+    "molecular_formula": "C10H10ClN5O2",
+    "molecular_weight": "267.67",
+    "canonical_smiles": null,
+    "inchikey": "GFHAXPJGXSQLPT-VIFPVBQESA-N",
+    "rxnorm": {
+      "rxcui": "2265690",
+      "generic_name": "cenobamate",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL3989949",
+    "target_chembl_id": "CHEMBL2093872",
+    "target_name": "GABA-A receptor; anion channel",
+    "mechanism_of_action_chembl": "GABA-A receptor; anion channel positive allosteric modulator"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action The precise mechanism by which cenobamate exerts its therapeutic effects in patients with partial-onset seizures is unknown. Cenobamate has been demonstrated to reduce repetitive neuronal firing by inhibiting voltage-gated sodium currents. It is also a positive allosteric modulator of the γ-aminobutyric acid (GABA A ) ion channel.",
+    "pharmacokinetics": "12.3 Pharmacokinetics Cenobamate AUC increases in a greater than dose-proportional manner following single oral doses from 5 to 750 mg (0.0125 to 1.88 times the maximum recommended dosage). Cenobamate C max increases in a dose proportional manner. Steady-state plasma concentrations are attained after approximately two weeks of once daily dosing. The pharmacokinetics of cenobamate are similar when used as monotherapy or as adjunctive therapy for the treatment of partial-onset seizures, except plasma cenobamate multiple-dose exposure (C max , AUC) decreased with co-administration of phenytoin by 27-28%. Absorption At least 88% of XCOPRI is absorbed following oral administration, with median T max ranging from 1 to 4 hours. Plasma C max and AUC for XCOPRI crushed tablets mixed in water, administered either orally or through a nasogastric tube, were similar to whole tablets. The median T max for crushed tablets is 0.5 hours. Effect of Food No clinically significant differences in cenobamate pharmacokinetics were observed following administration of a high-fat meal (800 -1000 calories with 50% fat). Distribution The apparent volume of distribution (Vd/F) of cenobamate after oral administration of XCOPRI is approximately 40-50 L. Plasma protein binding of cenobamate is 60% and independent of concentration in vitro . Cenobamate primarily binds with human albumin protein. Elimination The apparent terminal half-life of cenobamate is 50-60 hours and apparent oral clearance is approximately 0.45-0.63 L/hour over a dose range from 100 mg/day to 400 mg/day. Metabolism Cenobamate is extensively metabolized. The primary metabolic pathways are by glucuronidation via UGT2B7 and to a lesser extent by UGT2B4, and by oxidation via CYP2E1, CYP2A6, CYP2B6, and to a lesser extent by CYP2C19 and CYP3A4/5. Following administration of radiolabeled cenobamate, unchanged cenobamate accounted for greater than 98% of the total AUC of radioactivity in plasma. Unchanged cenobamate accounted for 6.8% of the dose which was mainly excreted in the urine (6.4%). Excretion Following administration of radiolabeled cenobamate, a mean of 93.0% of the total radioactive dose was recovered in urine (87.8%) and feces (5.2%). More than 50% of the radioactivity was excreted within 72 hours of dosing. Specific Populations No clinically significant differences in the pharmacokinetics of cenobamate were observed based on age based on data from subjects age 18 years to 77 years, sex, or race/ethnicity based on data from subjects categorized as Asian, Black, Caucasian, Hispanic, or Other. Patients with Renal Impairment Cenobamate plasma AUC was 1.4 fold to 1.5 fold higher in subjects with mild (CLcr 60 to less than 90 mL/min) and moderate (CLcr 30 to less than 60 mL/min) following a single oral 200 mg dose of XCOPRI compared to healthy controls. In subjects with severe (CLcr less than 30 mL/min) renal impairment, cenobamate plasma AUC did not change significantly compared to healthy controls following single oral 100 mg dose of XCOPRI [see Use in Specific Populations ( 8.6 )] . The effect of hemodialysis on cenobamate pharmacokinetics has not been studied. Patients with Hepatic Impairment Cenobamate plasma AUC was 1.9-fold, 2.3-fold, and 4.2-fold higher in subjects with mild (5-6 points, Child-Pugh Class A), moderate (7-9 points, Child-Pugh Class B), and severe (10-15 points, Child-Pugh Class C) hepatic impairment, respectively, following a single oral 200 mg dose of XCOPRI in subjects with mild and moderate hepatic impairment and 100 mg dose of XCOPRI in subjects with severe hepatic impairment compared to matched healthy controls [see Dosage and Administration ( 2.2 ) and Use in Specific Populations ( 8.7 )] . Drug Interaction Studies Clinical Studies Alcohol No clinically significant pharmacokinetic differences were observed for either cenobamate or alcohol when administered concomitantly. AEDs Multiple doses of concomitant XCOPRI 200 mg once daily increased phenytoin mean C max and AUC by 70% and 84%, respectively, and phenobarbital mean C max and AUC by 34% and 37%, respectively [see Drug Interactions ( 7.1 )] . Multiple doses of concomitant XCOPRI 200 mg once daily decreased carbamazepine mean C max and AUC each by 23% [see Drug Interactions ( 7.1 ] . No clinically significant differences in the pharmacokinetics of the following drugs were observed when used concomitantly with cenobamate: valproic acid, levetiracetam or lacosamide. Based on population PK analyses, during treatment within the 100-400 mg/day XCOPRI dose range, lamotrigine concentrations are expected to decrease by 21-52% [see Drug Interactions ( 7.1 )] ; and levetiracetam concentrations are expected to decrease by 4-13%, which is not expected to be clinically significant. In subjects treated with XCOPRI in Study 1 and Study 2, there was no clear relationship between efficacy and concomitant oxcarbazepine use. As such, the efficacy data from Study 1 and Study 2 do not support the existence of a clinically relevant interaction perpetrated by XCOPRI against oxcarbazepine. CYP Substrates Multiple doses of concomitant XCOPRI 200 mg once daily decreased total bupropion (CYP2B6 substrate) mean C max and AUC by 23% and 39%, respectively, and decreased midazolam (CYP3A substrate) mean C max and AUC by 61% and 72%, respectively [see Drug Interactions ( 7.1 )] . Multiple doses of concomitant XCOPRI 200 mg once daily increased the omeprazole (CYP2C19 substrate) mean C max and AUC by 83% and 107%, respectively [see Drug Interactions ( 7.1 )] . No clinically significant differences in the pharmacokinetics of warfarin (CYP2C9 substrate) were observed when used concomitantly with cenobamate. The effects of concomitant AEDs on cenobamate PK Plasma cenobamate multiple-dose exposure (C max , AUC) decreased with co-administration of phenytoin by 27-28%. However, repeated dosing of valproate, phenobarbital, and carbamazepine did not have any significant impact on plasma cenobamate multiple-dose exposure. In Vitro Studies CYP Enzymes Cenobamate inhibits CYP2B6, CYP2C19, and CYP3A, but cenobamate does not inhibit CYP1A2, CYP2C8, CYP2C9, or CYP2D6. Cenobamate induces CYP2B6, CYP2C8, and CYP3A4, but cenobamate does not induce CYP1A2, CYP2C9, or CYP2C19. Transporters Systems Cenobamate was not a substrate of P-gp, BCRP, OAT1, OAT3, OCT2, MATE1, or MATE2-K, and cenobamate did not inhibit P-gp, OAT1, OCT1, OCT2, OATP1B3, BSEP, OAT3, or OATP1B1.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE XCOPRI is indicated for the treatment of partial-onset seizures in adult patients. XCOPRI is indicated for the treatment of partial-onset seizures in adult patients. ( 1 )",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "Xcopri",
+      "Xcopri Maintenance Pack",
+      "Xcopri Titration Pack"
+    ],
+    "openfda_generic_names": [
+      "CENOBAMATE"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=565c2126-57ae-4e29-b443-723bbe7e2072",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Primary Generalized Tonic Clonic Seizures in the Setting of Idiopathic Generalized Epilepsy",
+    "slug": "primary-generalized-tonic-clonic-seizures-in-the-setting-of-idiopathic-generalized-epilepsy"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT03961568",
+      "title": "Cenobamate Open-Label Extension Study for YKP3089C025",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT03961568",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42496054",
+        "title": "Effect of Concomitant Medications on Adverse Event Frequency, Severity, and Time to Resolution in a Cenobamate Open-Label Trial.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42496054/"
+      },
+      {
+        "pmid": "41428177",
+        "title": "Efficacy and Safety of Adjunctive Cenobamate in Chinese Participants with Focal Seizure.",
+        "pubdate": "2026 Feb",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41428177/"
+      },
+      {
+        "pmid": "41386196",
+        "title": "Wide range of cenobamate doses associated with initial seizure freedom in patients with uncontrolled focal seizures: Post-hoc analysis of a phase 3, multicenter, open-label study.",
+        "pubdate": "2026 Feb",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41386196/"
+      },
+      {
+        "pmid": "41144696",
+        "title": "A randomized, double-blind, placebo-controlled, multicenter study to evaluate the efficacy and safety of adjunctive cenobamate in Asian patients with focal seizures.",
+        "pubdate": "2026 Feb",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41144696/"
+      },
+      {
+        "pmid": "40944069",
+        "title": "Perampanel, Brivaracetam, Cenobamate, Stiripentol, and Ganaxolone in Lennox-Gastaut Syndrome: A Comprehensive Narrative Review.",
+        "pubdate": "2025 Sep 6",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40944069/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "METHOXYFLURANE",
+        "chembl_id": "CHEMBL1341",
+        "reason": "same target: GABA-A receptor; anion channel"
+      },
+      {
+        "name": "FLUMAZENIL",
+        "chembl_id": "CHEMBL407",
+        "reason": "same target: GABA-A receptor; anion channel"
+      },
+      {
+        "name": "CLORAZEPATE DIPOTASSIUM",
+        "chembl_id": "CHEMBL2096631",
+        "reason": "same target: GABA-A receptor; anion channel"
+      },
+      {
+        "name": "CHLORDIAZEPOXIDE",
+        "chembl_id": "CHEMBL451",
+        "reason": "same target: GABA-A receptor; anion channel"
+      },
+      {
+        "name": "CHLORDIAZEPOXIDE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1200703",
+        "reason": "same target: GABA-A receptor; anion channel"
+      },
+      {
+        "name": "DIAZEPAM",
+        "chembl_id": "CHEMBL12",
+        "reason": "same target: GABA-A receptor; anion channel"
+      },
+      {
+        "name": "ESZOPICLONE",
+        "chembl_id": "CHEMBL1522",
+        "reason": "same target: GABA-A receptor; anion channel"
+      },
+      {
+        "name": "OXAZEPAM",
+        "chembl_id": "CHEMBL568",
+        "reason": "same target: GABA-A receptor; anion channel"
+      },
+      {
+        "name": "MEPROBAMATE",
+        "chembl_id": "CHEMBL979",
+        "reason": "same target: GABA-A receptor; anion channel"
+      },
+      {
+        "name": "CLOBAZAM",
+        "chembl_id": "CHEMBL70418",
+        "reason": "same target: GABA-A receptor; anion channel"
+      }
+    ]
+  }
+}

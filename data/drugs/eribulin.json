@@ -1,0 +1,130 @@
+{
+  "drug_name": "Eribulin",
+  "slug": "eribulin",
+  "enriched_at": "2026-08-15T21:13:39Z",
+  "source_trial_ids": [
+    "NCT06279364",
+    "NCT06519370"
+  ],
+  "sponsors": [
+    "Shanghai Fudan-Zhangjiang Bio-Pharmaceutical Co., Ltd.",
+    "Sichuan Kelun-Biotech Biopharmaceutical Co., Ltd."
+  ],
+  "identity": {
+    "pubchem_cid": 11354606,
+    "iupac_name": "(1S,3S,6S,9S,12S,14R,16R,18S,20R,21R,22S,26R,29S,31R,32S,33R,35R,36S)-20-[(2S)-3-amino-2-hydroxypropyl]-21-methoxy-14-methyl-8,15-dimethylidene-2,19,30,34,37,39,40,41-octaoxanonacyclo[24.9.2.13,32.13,33.16,9.112,16.018,22.029,36.031,35]hentetracontan-24-one",
+    "molecular_formula": "C40H59NO11",
+    "molecular_weight": "729.9",
+    "canonical_smiles": null,
+    "inchikey": "UFNVPOGXISZXJD-JBQZKEIOSA-N",
+    "rxnorm": {
+      "rxcui": "1045453",
+      "generic_name": "eribulin",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1683590",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Eribulin inhibits the growth phase of microtubules without affecting the shortening phase and sequesters tubulin into nonproductive aggregates. Eribulin exerts its effects via a tubulin-based antimitotic mechanism leading to G 2 /M cell-cycle block, disruption of mitotic spindles, and, ultimately, apoptotic cell death after prolonged mitotic blockage. In addition, eribulin treatment of human breast cancer cells caused changes in morphology and gene expression as well as decreased migration and invasiveness in vitro . In mouse xenograft models of human breast cancer, eribulin treatment was associated with increased vascular perfusion and permeability in the tumor cores, resulting in reduced tumor hypoxia, and changes in the expression of genes in tumor specimens associated with a change in phenotype.",
+    "pharmacokinetics": "12.3 Pharmacokinetics The pharmacokinetics (PK) of eribulin is linear with a mean elimination half-life of approximately 40 hours, a mean volume of distribution of 43 L/m 2 to 114 L/m 2 and mean clearance of 1.16 L/hr/m 2 to 2.42 L/hr/m 2 over the dose range of 0.25 mg/m 2 to 4.0 mg/m 2 . The human plasma protein binding of eribulin at concentrations of 100 ng/mL to 1,000 ng/mL ranges from 49% to 65%. Eribulin exposure after multiple dosing is comparable to that following a single dose. No accumulation of eribulin is observed with weekly administration. Elimination Metabolism Unchanged eribulin was the major circulating species in plasma following administration of 14 C‑eribulin to patients. Metabolite concentrations represented <0.6% of parent compound, confirming that there are no major human metabolites of eribulin. Cytochrome P450 3A4 (CYP3A4) negligibly metabolizes eribulin in vitro . Excretion Eribulin is eliminated primarily in feces unchanged. After administration of 14 C-eribulin to patients, approximately 82% of the dose was eliminated in feces and 9% in urine. Unchanged eribulin accounted for approximately 88% and 91% of total eribulin in feces and urine, respectively. Specific Populations Age, Sex, and Race/Ethnicity: Based on a population pharmacokinetic analysis, no clinically meaningful differences in the pharmacokinetics of eribulin were observed based on age, sex, or race. Hepatic Impairment In a study evaluating the effect of hepatic impairment on the PK of eribulin, eribulin exposures increased by 1.8-fold in patients with mild hepatic impairment (Child-Pugh A; n=7) and by 2.5‑fold in patients with moderate (Child-Pugh B; n=5) hepatic impairment as compared to patients with normal hepatic function (n=6). Administration of eribulin mesylate at a dose of 1.1 mg/m 2 to patients with mild hepatic impairment and 0.7 mg/m 2 to patients with moderate hepatic impairment resulted in similar exposure to eribulin at a dose of 1.4 mg/m 2 to patients with normal hepatic function [see Dosage and Administration ( 2.1 ), Use in Specific Populations ( 8.6 )]. Renal Impairment In a study evaluating the effect of renal impairment on the PK of eribulin, patients with moderate (CLcr 30 to 49 mL/min; n=7) and severe renal impairment (CLcr 15 to 29 mL/min; n=6) had 1.5-fold higher eribulin dose-normalized exposures compared to that in patients with normal renal function (CLcr ≥ 80 mL/min; n=6). There were no clinically meaningful changes in patients with mild renal impairment (CLcr 50 to 79 mL/min; n=27) [see Dosage and Administration ( 2.1 ), Use in Specific Populations ( 8.7) ]. Drug Interaction Studies Effect of Strong Inhibitors or Inducers of CYP3A4 on Eribulin: The effect of a strong CYP3A4 inhibitor and a P-gp inhibitor, ketoconazole, on the PK of eribulin was studied in a crossover trial of 12 patients with advanced solid tumors. No clinically relevant PK interaction was observed when eribulin mesylate was administered with or without ketoconazole (the geometric mean ratio of the AUC: 0.97; 90% CI: 0.83, 1.12). The effect of a CYP3A4 inducer, rifampin, on the PK of eribulin was studied in a crossover trial of 14 patients with advanced solid tumors. No clinically relevant PK interaction was observed when eribulin mesylate was administered with or without rifampin (the geometric mean ratio of the AUC: 1.10; 90 CI%: 0.91, 1.34). Effect of Eribulin on CYP Substrates : Eribulin shows no induction potential for CYP1A, CYP2B6, CYP2C9, CYP2C19, and CYP3A in primary human hepatocytes. Eribulin inhibits CYP3A4 activity in human liver microsomes, but it is unlikely that eribulin will substantially increase the plasma levels of CYP3A4 substrates. No significant inhibition of CYP1A2, CYP2C9, CYP2C19, CYP2D6, or CYP2E1 was detected with eribulin concentrations up to 5 μM in pooled human liver microsomes. In vitro drug interaction studies indicate that eribulin does not inhibit drugs that are substrates of these enzymes and it is unlikely that eribulin will affect plasma levels of drugs that are substrates of CYP enzymes. Effect of Transporters on Eribulin: In vitro data suggest that eribulin at clinically relevant concentrations is a substrate of P-gp, but is not a substrate of breast cancer resistance protein (BCRP), multidrug resistance proteins (MRP2, MRP4), bile salt extrusion pump (BSEP), organic anion transporting polypeptides (OATP1B1, OATP1B3), organic anion transporters (OAT1, OAT3), organic cation transporters (OCT1, OCT2), or multidrug and toxin extrusion 1 (MATE1). Effect of Eribulin on Transporters: In vitro data suggest that eribulin at clinically relevant concentrations may inhibit P-gp, but does not inhibit BCRP, OATP1B1, OCT1, OAT1, OAT3, or MATE1.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE Eribulin mesylate injection is a microtubule inhibitor indicated for the treatment of patients with: Metastatic breast cancer who have previously received at least two chemotherapeutic regimens for the treatment of metastatic disease. Prior therapy should have included an anthracycline and a taxane in either the adjuvant or metastatic setting. ( 1.1 ) Unresectable or metastatic liposarcoma who have received a prior anthracycline-containing regimen. ( 1.2 ) 1.1 Metastatic Breast Cancer Eribulin mesylate injection is indicated for the treatment of patients with metastatic breast cancer who have previously received at least two chemotherapeutic regimens for the treatment of metastatic disease. Prior therapy should have included an anthracycline and a taxane in either the adjuvant or metastatic setting [see Clinical Studies ( 14.1 )]. 1.2 Liposarcoma Eribulin mesylate injection is indicated for the treatment of patients with unresectable or metastatic liposarcoma who have received a prior anthracycline-containing regimen [see Clinical Studies ( 14.2 )] .",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "Eribulin Mesylate"
+    ],
+    "openfda_generic_names": [
+      "ERIBULIN MESYLATE"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f57835e2-4c53-4e93-b54b-7d7a5000ae3d",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Triple Negative Breast Cancer",
+    "slug": "triple-negative-breast-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06279364",
+      "title": "A Study of SKB264 Versus Investigator's Choice Chemotherapy in Patients With Unresectable Recurrent or Metastatic Triple-Negative Breast Cancer",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06279364",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06519370",
+      "title": "FDA018-ADC vs Investigator's Choice Chemotherapy to Treat Locally Advanced, Recurrent or Metastatic Triple-negative Breast Cancer",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06519370",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42279279",
+        "title": "The Evolving Landscape of Systemic Therapy for Liposarcoma.",
+        "pubdate": "2026 May 22",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42279279/"
+      },
+      {
+        "pmid": "41910921",
+        "title": "Minimal important differences of EORTC QLQ-C30 and QLQ-BR23 for metastatic breast cancer patients in a Japanese population: results from the RESQ trial.",
+        "pubdate": "2026 May",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41910921/"
+      },
+      {
+        "pmid": "41879493",
+        "title": "Marine-Derived Anticancer Compounds and their Clinical Status.",
+        "pubdate": "2026 Mar 23",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41879493/"
+      },
+      {
+        "pmid": "39814865",
+        "title": "Cost-effectiveness analysis of eribulin versus dacarbazine in patients with advanced liposarcoma.",
+        "pubdate": "2025 Jan 15",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39814865/"
+      },
+      {
+        "pmid": "39516370",
+        "title": "Phase 1b/2 study of the liposomal formulation of eribulin (E7389-LF) in combination with nivolumab: Results from the phase 2 esophageal cancer cohort.",
+        "pubdate": "2024 Sep 4",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39516370/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "FDA018-ADC",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Shanghai Fudan-Zhangjiang Bio-Pharmaceutical Co., Ltd."
+      },
+      {
+        "name": "Capecitabine",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Shanghai Fudan-Zhangjiang Bio-Pharmaceutical Co., Ltd."
+      },
+      {
+        "name": "Gemcitabine",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Shanghai Fudan-Zhangjiang Bio-Pharmaceutical Co., Ltd."
+      },
+      {
+        "name": "Vinorelbine",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Shanghai Fudan-Zhangjiang Bio-Pharmaceutical Co., Ltd."
+      }
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "drug_name": "DT120",
+  "slug": "dt120",
+  "enriched_at": "2026-08-15T21:12:28Z",
+  "source_trial_ids": [
+    "NCT06741228"
+  ],
+  "sponsors": [
+    "Definium Therapeutics US, Inc."
+  ],
+  "identity": {
+    "rxnorm": null
+  },
+  "mechanism": {
+    "chembl_id": null,
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=DT120+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=DT120+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=DT120+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Generalized Anxiety Disorder",
+    "slug": "generalized-anxiety-disorder"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06741228",
+      "title": "A Phase 3 Trial of DT120 for Generalized Anxiety Disorder (Voyage)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06741228",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "Buagafuran capsules, 15mg/ capsule",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Beijing Union Pharmaceutical Factory Ltd"
+      },
+      {
+        "name": "Buspirone tablets, 5mg/ tablet",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Beijing Union Pharmaceutical Factory Ltd"
+      },
+      {
+        "name": "Buagafuran capsules mimic, 0mg/ capsule",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Beijing Union Pharmaceutical Factory Ltd"
+      },
+      {
+        "name": "Buspirone tablets mimic, 0mg/ tablet",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Beijing Union Pharmaceutical Factory Ltd"
+      }
+    ]
+  }
+}

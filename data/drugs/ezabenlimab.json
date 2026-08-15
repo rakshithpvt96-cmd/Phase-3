@@ -1,0 +1,82 @@
+{
+  "drug_name": "Ezabenlimab",
+  "slug": "ezabenlimab",
+  "enriched_at": "2026-08-15T21:13:57Z",
+  "source_trial_ids": [
+    "NCT06370871"
+  ],
+  "sponsors": [
+    "Boehringer Ingelheim"
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2629285",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4802172",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Ezabenlimab+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Ezabenlimab+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Ezabenlimab+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Advanced Soft Tissue Sarcoma",
+    "slug": "advanced-soft-tissue-sarcoma"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06370871",
+      "title": "Brightline-3: A Study to Find Out Whether Brigimadlin in Combination With Ezabenlimab Helps People With Advanced Soft Tissue Sarcoma",
+      "status": "WITHDRAWN",
+      "url": "https://clinicaltrials.gov/study/NCT06370871",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "41202834",
+        "title": "Ezabenlimab and induction chemotherapy followed by adaptive chemoradiotherapy in patients with stage 3 squamous cell anal carcinoma (INTERACT-ION): an open-label, single-arm, phase 2 trial.",
+        "pubdate": "2025 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41202834/"
+      },
+      {
+        "pmid": "39817655",
+        "title": "Open-label, phase Ia study of STING agonist BI 1703880 plus ezabenlimab for patients with advanced solid tumors.",
+        "pubdate": "2025 Jan",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39817655/"
+      },
+      {
+        "pmid": "36119522",
+        "title": "Phase II INTERACT-ION study: ezabenlimab (BI 754091) and mDCF (docetaxel, cisplatin, and 5-fluorouracil) followed by chemoradiotherapy in patients with Stage III squamous cell anal carcinoma.",
+        "pubdate": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36119522/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

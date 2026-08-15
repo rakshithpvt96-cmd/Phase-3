@@ -1,0 +1,151 @@
+{
+  "drug_name": "Gedatolisib",
+  "slug": "gedatolisib",
+  "enriched_at": "2026-08-15T21:14:55Z",
+  "source_trial_ids": [
+    "NCT05501886"
+  ],
+  "sponsors": [
+    "Celcuity Inc"
+  ],
+  "identity": {
+    "pubchem_cid": 44516953,
+    "iupac_name": "1-[4-[4-(dimethylamino)piperidine-1-carbonyl]phenyl]-3-[4-(4,6-dimorpholin-4-yl-1,3,5-triazin-2-yl)phenyl]urea",
+    "molecular_formula": "C32H41N9O4",
+    "molecular_weight": "615.7",
+    "canonical_smiles": null,
+    "inchikey": "DWZAEMINVBZMHQ-UHFFFAOYSA-N",
+    "rxnorm": {
+      "rxcui": "1033355",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL592445",
+    "target_chembl_id": "CHEMBL2842",
+    "target_name": "Serine/threonine-protein kinase mTOR",
+    "mechanism_of_action_chembl": "Serine/threonine-protein kinase mTOR inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Gedatolisib is a kinase inhibitor of class I PI3K isoforms (α, β, δ, γ) and mTOR complexes mTORC1 and mTORC2, resulting in downstream inhibition of multiple effectors, including AKT. In estrogen receptor (ER)-positive breast cancer cell lines and xenograft models harboring wild-type or mutant PIK3CA , gedatolisib induced apoptosis and anti-proliferative effects in vitro and reduced tumor cell growth in vivo . In a human ER-positive breast cancer xenograft model harboring a PIK3CA mutation, the combination of gedatolisib with palbociclib and fulvestrant increased tumor growth inhibition compared to each treatment alone or the doublet combinations.",
+    "pharmacokinetics": "12.3 Pharmacokinetics Gedatolisib pharmacokinetic parameters were observed at the approved recommended dosage in patients with breast cancer and are presented as mean (% coefficient of variation [%CV]), unless otherwise specified. Gedatolisib maximum plasma concentration (C max ) is 13,700 (29%) ng/mL and area under the curve (AUC) is 21,400 (21%) ng·h/mL. Gedatolisib C max and AUC values increase dose proportionally in the dose range 10 mg to 319 mg (0.06 to 1.8 times the recommended dose). No accumulation of gedatolisib is observed after once-weekly administration. Distribution Gedatolisib plasma protein binding is 98%, and is not concentration dependent, in vitro. Gedatolisib blood-to-plasma ratio is 0.87, in vitro. Gedatolisib volume of distribution is 393 L. Elimination Gedatolisib elimination half-life (t 1/2 ) is 36 hours with an estimated clearance of 8 (23%) L/hour. Excretion After a single dose of radiolabeled gedatolisib 89 mg to healthy subjects, approximately 67.4% of the dose was recovered in feces (67% unchanged) and 12.2% in urine (11.6% unchanged). Specific Populations No clinically significant effects on the pharmacokinetics of gedatolisib were observed based on age (21 to 84 years), sex, race (White [78%], Asian [9.1%], Black or African American [4.1%]) body weight (35 to 168 kg), mild hepatic impairment (total bilirubin ≤1.5 × ULN and any AST) or estimated glomerular filtration rate (eGFR) ≥ 45 mL/min/1.73 m 2 (MDRD equation). The effect of moderate (total bilirubin >1.5 to 3 times ULN with any AST) or severe (total bilirubin >3 x ULN with any AST) hepatic impairment, eGFR <45 mL/min/1.73 m 2 , or dialysis on gedatolisib pharmacokinetics is unknown. Drug Interactions Clinical Studies and Model-Informed Approaches No clinically significant differences in the pharmacokinetics of the following drugs were observed when used concomitantly with gedatolisib: metformin (MATE1, MATE2-K, and OCT1 substrate), rosuvastatin (BCRP substrate), or repaglinide (CYP2C8 sensitive substrate). In Vitro Studies CYP450 Enzymes: Gedatolisib is not an inhibitor of CYP1A2, CYP2A6, or CYP2B6. The ability of gedatolisib to induce CYP450 enzymes is unknown given the results of the vitro studies were inconclusive due to decreased viability of hepatocytes. Transporter Systems: Gedatolisib is a substrate of P-gp and BCRP and is not a substrate for OATP1B1, OATP1B3, OCT1, NTCP, MRP2, or MRP3. Gedatolisib did not inhibit P-gp, OATP1B1, OATP1B3, OAT1, OAT3, OCT2, and BSEP.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE REVTORPYK is indicated in combination with fulvestrant, with or without palbociclib, for the treatment of adult patients with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative locally advanced or metastatic breast cancer without a PIK3CA mutation detected following progression on or after treatment with at least one line of endocrine therapy in the metastatic setting [see Dosage and Administration (2.1) and Clinical Studies (14) ] . REVTORPYK is a kinase inhibitor indicated in combination with fulvestrant, with or without palbociclib, for the treatment of adult patients with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative locally advanced or metastatic breast cancer without a PIK3CA mutation detected following progression on or after treatment with at least one line of endocrine therapy in the metastatic setting. (1)",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "REVTORPYK"
+    ],
+    "openfda_generic_names": [
+      "GEDATOLISIB"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=959d73ef-831f-4005-956c-210702270bda",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Breast Cancer",
+    "slug": "breast-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05501886",
+      "title": "Gedatolisib Plus Fulvestrant With or Without Palbociclib vs Standard-of-Care for the Treatment of Patients With Advanced or Metastatic HR+/HER2- Breast Cancer (VIKTORIA-1)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05501886",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42419085",
+        "title": "Phase II study of trastuzumab-pkrb plus gedatolisib in patients with HER2-positive metastatic breast cancer who progressed after two or more HER2-directed therapies.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42419085/"
+      },
+      {
+        "pmid": "40565304",
+        "title": "Functional Analysis of the PI3K/AKT/mTOR Pathway Inhibitor, Gedatolisib, Plus Fulvestrant with and Without Palbociclib in Breast Cancer Models.",
+        "pubdate": "2025 Jun 18",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40565304/"
+      },
+      {
+        "pmid": "39327001",
+        "title": "RETRACTED: GEDATOLISIB ASSOCIATED ACUTE MYOCARDITIS IN A PATIENT WITH BREAST CANCER.",
+        "pubdate": "2024 Apr 2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39327001/"
+      },
+      {
+        "pmid": "39092562",
+        "title": "Assessments of prostate cancer cell functions highlight differences between a pan-PI3K/mTOR inhibitor, gedatolisib, and single-node inhibitors of the PI3K/AKT/mTOR pathway.",
+        "pubdate": "2025 Jan",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39092562/"
+      },
+      {
+        "pmid": "38839777",
+        "title": "Gedatolisib shows superior potency and efficacy versus single-node PI3K/AKT/mTOR inhibitors in breast cancer models.",
+        "pubdate": "2024 Jun 5",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38839777/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "SAPANISERTIB",
+        "chembl_id": "CHEMBL3545097",
+        "reason": "same target: Serine/threonine-protein kinase mTOR"
+      },
+      {
+        "name": "AZD-8055",
+        "chembl_id": "CHEMBL1801204",
+        "reason": "same target: Serine/threonine-protein kinase mTOR"
+      },
+      {
+        "name": "CC-115",
+        "chembl_id": "CHEMBL3586573",
+        "reason": "same target: Serine/threonine-protein kinase mTOR"
+      },
+      {
+        "name": "DS-3078A",
+        "chembl_id": "CHEMBL3544963",
+        "reason": "same target: Serine/threonine-protein kinase mTOR"
+      },
+      {
+        "name": "DS-7423",
+        "chembl_id": "CHEMBL3545248",
+        "reason": "same target: Serine/threonine-protein kinase mTOR"
+      },
+      {
+        "name": "OMIPALISIB",
+        "chembl_id": "CHEMBL1236962",
+        "reason": "same target: Serine/threonine-protein kinase mTOR"
+      },
+      {
+        "name": "PANULISIB",
+        "chembl_id": "CHEMBL5095025",
+        "reason": "same target: Serine/threonine-protein kinase mTOR"
+      },
+      {
+        "name": "PALOMID-529",
+        "chembl_id": "CHEMBL2141712",
+        "reason": "same target: Serine/threonine-protein kinase mTOR"
+      },
+      {
+        "name": "PKI-179",
+        "chembl_id": "CHEMBL1258517",
+        "reason": "same target: Serine/threonine-protein kinase mTOR"
+      },
+      {
+        "name": "PWT-33579",
+        "chembl_id": "CHEMBL3545323",
+        "reason": "same target: Serine/threonine-protein kinase mTOR"
+      }
+    ]
+  }
+}

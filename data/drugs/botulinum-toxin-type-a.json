@@ -1,0 +1,130 @@
+{
+  "drug_name": "Botulinum toxin type A",
+  "slug": "botulinum-toxin-type-a",
+  "enriched_at": "2026-08-15T21:08:16Z",
+  "source_trial_ids": [
+    "NCT06047457"
+  ],
+  "sponsors": [
+    "Ipsen"
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1712",
+      "generic_name": "botulinum toxin type A",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4297862",
+    "target_chembl_id": "CHEMBL2364159",
+    "target_name": "Synaptosomal-associated protein 25",
+    "mechanism_of_action_chembl": "Synaptosomal nerve-associated protein 25 (SNAP-25) hydrolytic enzyme"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action DAXXIFY blocks neuromuscular transmission at the neuromuscular junction by inhibiting the release of acetylcholine. This inhibition occurs as the neurotoxin cleaves SNAP-25, a protein necessary for the successful docking and release of acetylcholine vesicles within nerve endings. Recovery of neurotransmission occurs gradually as the neuromuscular junction recovers from SNAP-25 cleavage and as new nerve endings are formed.",
+    "pharmacokinetics": "12.3 Pharmacokinetics Using currently available analytical technology, it is not possible to detect DAXXIFY in the peripheral blood following intramuscular injection at the recommended dose.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE DAXXIFY is an acetylcholine release inhibitor and neuromuscular-blocking agent indicated for: Temporary improvement in the appearance of moderate to severe glabellar lines associated with corrugator and/ or procerus muscle activity in adult patients. ( 1.1 ) The treatment of cervical dystonia in adult patients. ( 1.2 ) 1.1 Glabellar Lines DAXXIFY is indicated for the temporary improvement in the appearance of moderate to severe glabellar lines associated with corrugator and/or procerus muscle activity in adult patients. 1.2 Cervical Dystonia DAXXIFY is indicated for the treatment of cervical dystonia in adult patients.",
+    "boxed_warning": "WARNING: DISTANT SPREAD OF TOXIN EFFECT The effects of all botulinum toxin products, including DAXXIFY, may spread from the area of injection to produce symptoms consistent with botulinum toxin effects. These symptoms have been reported hours to weeks after injection. Swallowing and breathing difficulties can be life-threatening, and there have been reports of death. The risk of symptoms is probably greatest in children treated for spasticity, an unapproved use for DAXXIFY, but symptoms can also occur in adults, particularly in those patients who have an underlying condition that would predispose them to these symptoms [see Warnings and Precautions (5.1) ]. WARNING: DISTANT SPREAD OF TOXIN EFFECT See full prescribing information for complete boxed warning. The effects of DAXXIFY and all botulinum toxin products may spread from the area of injection to produce symptoms consistent with botulinum toxin effects. These symptoms have been reported hours to weeks after injection. Swallowing and breathing difficulties can be life-threatening, and there have been reports of death. The risk of symptoms is probably greatest in children treated for spasticity, an unapproved use for DAXXIFY, but symptoms can also occur in adults, particularly in those patients who have an underlying condition that would predispose them to these symptoms. ( 5.1 )",
+    "openfda_brand_names": [
+      "DAXXIFY"
+    ],
+    "openfda_generic_names": [
+      "BOTULINUM TOXIN TYPE A"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3aaa6e14-a3f7-4fb2-b9f9-d3a9c3ae1f74",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Episodic Migraine",
+    "slug": "episodic-migraine"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06047457",
+      "title": "A Study to Evaluate the Effectiveness and Safety of Dysport® for the Prevention of Episodic Migraine in Adults",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06047457",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42576205",
+        "title": "Botulinum toxin type A attenuates trigeminal neuralgia-like pain by suppressing CGRP release and modulating NaV1.7-associated signaling.",
+        "pubdate": "2026 Aug 10",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42576205/"
+      },
+      {
+        "pmid": "42500787",
+        "title": "The Botox Paradox: How Rising Drug Costs and Reimbursement Failures Threaten Access to Botulinum Toxin Therapy in Neurology.",
+        "pubdate": "2026 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42500787/"
+      },
+      {
+        "pmid": "42492662",
+        "title": "Safety and efficacy of recombinant botulinum toxin type A (Eveotox®) in patients with post-stroke upper limb spasticity: Results from a Phase Ib/II clinical trial.",
+        "pubdate": "2026 Jul 23",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42492662/"
+      },
+      {
+        "pmid": "42427431",
+        "title": "Analyzing the Effect of Extracorporeal Shockwave Therapy after Botulinum Toxin Injection on Calf Muscle Spasticity Improvement in Patients with Multiple Sclerosis - A Randomized Clinical Trial.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42427431/"
+      },
+      {
+        "pmid": "42241056",
+        "title": "Comparative Efficacy of Botulinum Toxin Type A Versus Antihomotoxic Therapy in the Treatment of Bruxism-Related Masticatory Muscle Hyperactivity: A Randomized Clinical Trial Using Electromyographic Measurements.",
+        "pubdate": "2026 Jun 4",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42241056/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "INCOBOTULINUMTOXINA",
+        "chembl_id": "CHEMBL2108035",
+        "reason": "same target: Synaptosomal-associated protein 25"
+      },
+      {
+        "name": "ABOBOTULINUMTOXINA",
+        "chembl_id": "CHEMBL2108570",
+        "reason": "same target: Synaptosomal-associated protein 25"
+      },
+      {
+        "name": "ONABOTULINUMTOXINA",
+        "chembl_id": "CHEMBL1201574",
+        "reason": "same target: Synaptosomal-associated protein 25"
+      },
+      {
+        "name": "PRABOTULINUMTOXIN A",
+        "chembl_id": "CHEMBL4297229",
+        "reason": "same target: Synaptosomal-associated protein 25"
+      },
+      {
+        "name": "DAXIBOTULINUMTOXINA",
+        "chembl_id": "CHEMBL3707359",
+        "reason": "same target: Synaptosomal-associated protein 25"
+      },
+      {
+        "name": "TRENIBOTULINUMTOXINE",
+        "chembl_id": "CHEMBL4594539",
+        "reason": "same target: Synaptosomal-associated protein 25"
+      },
+      {
+        "name": "LETIBOTULINUMTOXINA",
+        "chembl_id": "CHEMBL3707322",
+        "reason": "same target: Synaptosomal-associated protein 25"
+      }
+    ]
+  }
+}

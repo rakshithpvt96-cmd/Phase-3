@@ -1,0 +1,100 @@
+{
+  "drug_name": "Cipaglucosidase Alfa",
+  "slug": "cipaglucosidase-alfa",
+  "enriched_at": "2026-08-15T21:10:02Z",
+  "source_trial_ids": [
+    "NCT03911505"
+  ],
+  "sponsors": [
+    "Amicus Therapeutics"
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2667433",
+      "generic_name": "cipaglucosidase alfa",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4594329",
+    "target_chembl_id": "CHEMBL4662969",
+    "target_name": "Glycogen",
+    "mechanism_of_action_chembl": "Glycogen hydrolytic enzyme"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Pompe disease (also known as glycogen storage disease type II, acid maltase deficiency, and glycogenosis type II) is an inherited disorder of glycogen metabolism caused by a deficiency of lysosomal acid alpha‑glucosidase (GAA) that degrades glycogen to glucose in the lysosome. GAA deficiency results in intra-lysosomal accumulation of glycogen in various tissues. Cipaglucosidase alfa-atga provides an exogenous source of GAA. The bis-M6P on cipaglucosidase alfa-atga mediates binding to M6P receptors on the cell surface with high affinity. After binding, it is internalized and transported into lysosomes where it undergoes proteolytic cleavage and N‑glycans trimming which are both required to yield the most mature and active form of GAA. Cipaglucosidase alfa-atga then exerts enzymatic activity in cleaving glycogen. Miglustat binds with, stabilizes, and reduces inactivation of cipaglucosidase alfa-atga in the blood after infusion.",
+    "pharmacokinetics": "12.3 Pharmacokinetics The bioavailability of a single-dose infusion of cipaglucosidase alfa-atga administered alone is increased by 28.5% when given in combination with a single oral dose of 260 mg of Opfolda in ERT‑experienced adult patients with LOPD. Distribution The central volume of distribution estimate of cipaglucosidase alfa-atga was 3.20 L (95% CI: 3.08, 3.32) in ERT‑experienced patients. Elimination The total body clearance of cipaglucosidase alfa-atga administered with Opfolda was 0.8 635 L/hourh (95% CI: 0.594, 0.677) and the mean half-life of cipaglucosidase alfa atga was 2.1 hours in ERT‑experienced patients. Metabolism The metabolic pathway of cipaglucosidase alfa-atga has not been characterized. Cipaglucosidase alfa-atga is expected to be metabolized into small peptides and amino acid via catabolic pathways. Specific Populations Age (12 to 74 years), sex, Asian race, and ERT history did not have clinically meaningful effects on the pharmacokinetics of cipaglucosidase alfa-atga in patients with LOPD. The plasma concentration-time curve to 24 hours post-dose (AUC 0-24h ) and maximum concentration (C max ) in pediatric patients aged 12 to <18 years show a high degree of overlap with the 5 th and 95 th percentiles range of the adult reference group (aged ≥18 years and weighing ≥40 kg). A summary of the pharmacokinetic simulation is presented in Table 5 . Table 5. Pharmacokinetic Summary of Cipaglucosidase alfa-atga with Miglustat Simulation in Patients with LOPD by Age and Dose Group LOPD: late-onset Pompe disease; PK: pharmacokinetic parameters; C max : maximum plasma concentration; AUC 0-24h : plasma concentration-time curve to 24 hours post-dose Adult patients received 20 mg/kg Pombiliti in combination with OPFOLDA 260 mg or 195 mg. Pediatric patients with LOPD were administered body weight adjusted doses based on modeling and simulations from adult trials. Dose Weight Range (kg) Age Range (years) PK Parameter Geometric Mean 5 th and 95th Percentiles 30 mg/kg 30 to <40 12 to <18 C max (µg/mL) 280 209, 371 AUC 0-24h (µg•h/mL) 1480 1000, 2150 ≥18 C max (µg/mL) 290 218, 391 AUC 0-24h (µg•h/mL) 1550 1050, 2330 20 mg/kg ≥40 12 to <18 C max (µg/mL) 216 155, 308 AUC 0-24h (µg•h/mL) 1120 723, 1750 ≥18 C max (µg/mL) 229 157, 337 AUC 0-24h (µg•h/mL) 1210 750, 1980",
+    "indications_and_usage": "1 INDICATIONS AND USAGE POMBILITI in combination with Opfolda, is indicated for the treatment of late-onset Pompe disease (lysosomal acid alpha-glucosidase [GAA] deficiency) in adults who are not improving on their current enzyme replacement therapy (ERT)) and in pediatric patients 12 years or older. POMBILITI is a hydrolytic lysosomal glycogen-specific enzyme indicated, in combination with Opfolda, an enzyme stabilizer, for the treatment of late-onset Pompe disease (lysosomal acid alpha-glucosidase [GAA] deficiency) in adults who are not improving on their current enzyme replacement therapy (ERT) and in pediatric patients 12 years or older. ( 1 ).",
+    "boxed_warning": "WARNING: SEVERE HYPERSENSITIVITY REACTIONS, INFUSION-ASSOCIATED REACTIONS, and RISK OF ACUTE CARDIORESPIRATORY FAILURE IN SUSCEPTIBLE PATIENTS Hypersensitivity Reactions Including Anaphylaxis Patients treated with POMBILITI have experienced life-threatening hypersensitivity reactions, including anaphylaxis. Appropriate medical support measures, including cardiopulmonary resuscitation equipment, should be readily available during POMBILITI administration. If a severe hypersensitivity reaction (e.g., anaphylaxis) occurs, POMBILITI should be discontinued immediately, and appropriate medical treatment should be initiated. In patients with severe hypersensitivity reaction, desensitization measures to POMBILITI may be considered [see Warnings and Precautions (5.1) ]. Infusion-Associated Reactions (IARs) Patients treated with POMBILITI have experienced severe IARs. If severe IARs occur, immediately discontinue the POMBILITI infusion, initiate appropriate medical treatment, and assess the benefits and risks of readministering POMBILITI following severe IARs. Patients with an acute underlying illness at the time of POMBILITI infusion may be at greater risk for IARs. Patients with advanced Pompe disease may have compromised cardiac and respiratory function, which may predispose them to a higher risk of severe complications from IARs [see Warnings and Precautions (5.2) ]. Risk of Acute Cardiorespiratory Failure in Susceptible Patients Patients susceptible to fluid volume overload, or those with acute underlying respiratory illness or compromised cardiac or respiratory function for whom fluid restriction is indicated may be at risk of serious exacerbation of their cardiac or respiratory status during POMBILITI infusion. More frequent monitoring of vitals should be performed during POMBILITI infusion in such patients [see Warnings and Precautions (5.3) ]. WARNING: SEVERE HYPERSENSITIVITY REACTIONS, INFUSION-ASSOCIATED REACTIONS, and RISK OF ACUTE CARDIORESPIRATORY FAILURE IN SUSCEPTIBLE PATIENTS See full prescribing information for complete boxed warning Hypersensitivity Reactions Including Anaphylaxis Appropriate medical support measures, including cardiopulmonary resuscitation equipment, should be readily available. If a severe hypersensitivity reaction occurs, POMBILITI should be discontinued immediately and appropriate medical treatment should be initiated. ( 5.1 ) Infusion-Associated Reactions (IARs) If severe IARs occur, immediately discontinue POMBILITI and initiate appropriate medical treatment. ( 5.2 ) Risk of Acute Cardiorespiratory Failure in Susceptible Patients Patients susceptible to fluid volume overload, or those with acute underlying respiratory illness or compromised cardiac or respiratory function, may be at risk of serious exacerbation of their cardiac or respiratory status during POMBILITI infusion. ( 5.3 )",
+    "openfda_brand_names": [
+      "POMBILITI ATGA"
+    ],
+    "openfda_generic_names": [
+      "CIPAGLUCOSIDASE ALFA-ATGA"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d77aa596-910d-516b-e053-2995a90a0839",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Pompe Disease (Late-onset)",
+    "slug": "pompe-disease-late-onset"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT03911505",
+      "title": "ZIP Study-OL Study of Safety, PK, Efficacy, PD, Immunogenicity of ATB200/AT2221 in Pediatrics Aged 0 to < 18 y.o. w/LOPD",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT03911505",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42538546",
+        "title": "Defining the therapeutic corridor of stability in enzyme replacement therapy for Pompe disease: a position statement.",
+        "pubdate": "2026 Jul 28",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42538546/"
+      },
+      {
+        "pmid": "41757410",
+        "title": "Comparing the efficacy of cipaglucosidase alfa plus miglustat with alglucosidase alfa for late-onset Pompe disease: an expanded network meta-analysis utilizing patient-level and aggregate data.",
+        "pubdate": "2026 Mar",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41757410/"
+      },
+      {
+        "pmid": "40920287",
+        "title": "An Indirect Treatment Comparison of Avalglucosidase Alfa versus Cipaglucosidase Alfa Plus Miglustat in Patients with Late-Onset Pompe Disease.",
+        "pubdate": "2025 Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40920287/"
+      },
+      {
+        "pmid": "41021724",
+        "title": "",
+        "pubdate": "2025 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41021724/"
+      },
+      {
+        "pmid": "40471681",
+        "title": "Enzyme replacement therapies in adults with Pompe disease: from trials to real-world data.",
+        "pubdate": "2025 Oct 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40471681/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "AVALGLUCOSIDASE ALFA",
+        "chembl_id": "CHEMBL4594320",
+        "reason": "same target: Glycogen"
+      }
+    ]
+  }
+}

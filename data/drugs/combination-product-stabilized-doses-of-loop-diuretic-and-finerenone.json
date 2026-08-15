@@ -1,0 +1,63 @@
+{
+  "drug_name": "Combination Product: Stabilized doses of loop diuretic and finerenone",
+  "slug": "combination-product-stabilized-doses-of-loop-diuretic-and-finerenone",
+  "enriched_at": "2026-08-15T21:10:54Z",
+  "source_trial_ids": [
+    "NCT07223502"
+  ],
+  "sponsors": [
+    "Sarfez Pharmaceuticals, Inc."
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1430095",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL3039083",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Combination%20Product%3A%20Stabilized%20doses%20of%20loop%20diuretic%20and%20finerenone+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Combination%20Product%3A%20Stabilized%20doses%20of%20loop%20diuretic%20and%20finerenone+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Combination%20Product%3A%20Stabilized%20doses%20of%20loop%20diuretic%20and%20finerenone+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Hypertension (HTN)",
+    "slug": "hypertension-htn"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07223502",
+      "title": "A Study Comparing the Clinical Benefit of Finerenone Versus a Fixed Dose Combination (FDC) of Extended-Release Torsemide and Spironolactone in Patients With Hypertension and Chronic Kidney Disease",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07223502",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

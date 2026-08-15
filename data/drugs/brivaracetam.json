@@ -1,0 +1,111 @@
+{
+  "drug_name": "Brivaracetam",
+  "slug": "brivaracetam",
+  "enriched_at": "2026-08-15T21:08:30Z",
+  "source_trial_ids": [
+    "NCT04666610"
+  ],
+  "sponsors": [
+    "UCB Biopharma SRL"
+  ],
+  "identity": {
+    "pubchem_cid": 9837243,
+    "iupac_name": "(2S)-2-[(4R)-2-oxo-4-propylpyrrolidin-1-yl]butanamide",
+    "molecular_formula": "C11H20N2O2",
+    "molecular_weight": "212.29",
+    "canonical_smiles": null,
+    "inchikey": "MSYKRHVOOPPJKU-BDAKNGLRSA-N",
+    "rxnorm": {
+      "rxcui": "1739745",
+      "generic_name": "brivaracetam",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL607400",
+    "target_chembl_id": "CHEMBL1998",
+    "target_name": "Synaptic vesicle glycoprotein 2A",
+    "mechanism_of_action_chembl": "Synaptic vesicle glycoprotein 2A modulator"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action The precise mechanism by which brivaracetam exerts its anticonvulsant activity is not known. Brivaracetam displays a high and selective affinity for synaptic vesicle protein 2A (SV2A) in the brain, which may contribute to the anticonvulsant effect.",
+    "pharmacokinetics": "12.3 Pharmacokinetics Brivaracetam tablets, oral solution, and injection can be used interchangeably. Brivaracetam exhibits linear and time-independent pharmacokinetics at the approved doses. The pharmacokinetics of brivaracetam are similar when used as monotherapy or as adjunctive therapy for the treatment of partial-onset seizures. Absorption Brivaracetam is highly permeable and is rapidly and almost completely absorbed after oral administration. Pharmacokinetics is dose-proportional from 10 to 600 mg (a range that extends beyond the minimum and maximum single-administration dose levels described in Dosage and Administration [see Dosage and Administration (2.1)] ) . The median T max for tablets taken without food is 1 hour (range 0.25 to 3 hours). Co-administration with a high-fat meal slowed absorption, but the extent of absorption remained unchanged. Specifically, when a 50 mg tablet was administered with a high-fat meal, C max (maximum brivaracetam plasma concentration during a dose interval, an exposure metric) was decreased by 37% and T max was delayed by 3 hours, but AUC (area under the brivaracetam plasma concentration versus time curve, an exposure metric) was essentially unchanged (decreased by 5%). Distribution Brivaracetam is weakly bound to plasma proteins (≤20%). The volume of distribution is 0.5 L/kg, a value close to that of the total body water. Brivaracetam is rapidly and evenly distributed in most tissues. Elimination Metabolism Brivaracetam is primarily metabolized by hydrolysis of the amide moiety to form the corresponding carboxylic acid metabolite, and secondarily by hydroxylation on the propyl side chain to form the hydroxy metabolite. The hydrolysis reaction is mediated by hepatic and extra-hepatic amidase. The hydroxylation pathway is mediated primarily by CYP2C19. In human subjects possessing genetic variations in CYP2C19, production of the hydroxy metabolite is decreased 2-fold or 10-fold, while the blood level of brivaracetam itself is increased by 22% or 42%, respectively, in individuals with one or both mutated alleles. CYP2C19 poor metabolizers and patients using inhibitors of CYP2C19 may require dose reduction. An additional hydroxy acid metabolite is created by hydrolysis of the amide moiety on the hydroxy metabolite or hydroxylation of the propyl side chain on the carboxylic acid metabolite (mainly by CYP2C9). None of the 3 metabolites are pharmacologically active. Excretion Brivaracetam is eliminated primarily by metabolism and by excretion in the urine. More than 95% of the dose, including metabolites, is excreted in the urine within 72 hours after intake. Fecal excretion accounts for less than 1% of the dose. Less than 10% of the dose is excreted unchanged in the urine. Thirty-four percent of the dose is excreted as the carboxylic acid metabolite in urine. The terminal plasma half-life (t 1/2 ) is approximately 9 hours. Specific Populations Age Pediatric Patients (2 months to less than 16 years) : An open-label, single-arm, multicenter, pharmacokinetic study with a 3-week evaluation period and fixed 3-step up-titration using brivaracetam oral solution was conducted in 99 pediatric patients 2 months to less than 16 years of age. In those patients, plasma concentrations were shown to be dose-proportional. The pediatric pharmacokinetic profile for brivaracetam was determined in a population pharmacokinetic analysis using sparse plasma concentration data obtained in three open-label studies in 255 adult and pediatric patients with epilepsy 2 months to 22 years of age that received intravenous, oral solution, or oral tablet formulations. A weight-based dosing regimen is necessary to achieve brivaracetam exposures in pediatric patients 1 month to less than 16 years of age that are similar to those observed in adults treated at effective doses of brivaracetam [see Dosage and Administration (2.2 )]. The estimated plasma clearance was 1.09 L/h, 1.81 L/h, and 3.11 L/h for pediatric patients weighing 11 kg, 20 kg, and 50 kg, respectively. In comparison, plasma clearance was estimated at 3.58 L/h in adult patients (70 kg body weight). Geriatric Population: In a study in elderly subjects (65 to 79 years old; creatinine clearance 53 to 98 mL/min/1.73 m 2 ) receiving brivaracetam 200 mg twice daily (2 times the highest recommended dosage), the plasma half-life of brivaracetam was 7.9 hours and 9.3 hours in the 65 to 75 and >75years groups, respectively. The steady-state plasma clearance of brivaracetam was slightly lower (0.76 mL/min/kg) than in young healthy controls (0.83 mL/min/kg). Sex There were no differences observed in the pharmacokinetics of brivaracetam between male and female subjects. Race/Ethnicity A population pharmacokinetic analysis comparing Caucasian and non-Caucasian patients showed no significant pharmacokinetic difference. Renal Impairment A study in adult subjects with severe renal impairment (creatinine clearance <30 mL/min/1.73m 2 and not requiring dialysis) revealed that the plasma AUC of brivaracetam was moderately increased(21%) relative to healthy controls, while the AUCs of the acid, hydroxy, and hydroxyacid metabolites were increased 3-fold, 4-fold, and 21-fold, respectively. The renal clearance of these inactive metabolites was decreased 10-fold. Brivaracetam has not been studied in patients undergoing hemodialysis [see Use in Specific Populations (8.6)] . Hepatic Impairment A pharmacokinetic study in adult subjects with hepatic cirrhosis, Child-Pugh grades A, B, and C, showed 50%, 57%, and 59% increases in brivaracetam exposure, respectively, compared to matched healthy controls. The effect of hepatic impairment on brivaracetam pharmacokinetics in pediatric patients is expected to be comparable to the effect observed in adults [ see Dosage and Administration (2.5) and Use in Specific Populations (8.7)] . Drug Interaction Studies In Vitro Assessment of Drug Interactions Drug-Metabolizing Enzyme Inhibition Brivaracetam did not inhibit CYP1A2, 2A6, 2B6, 2C8, 2C9, 2D6, or 3A4. Brivaracetam weakly inhibited CYP2C19 and would not be expected to cause significant inhibition of CYP2C19 in humans. Brivaracetam was an inhibitor of epoxide hydrolase, (IC 50 = 8.2 μM), suggesting that brivaracetam can inhibit the enzyme in vivo . Drug-Metabolizing Enzyme Induction Brivaracetam at concentrations up to10 μM caused little or no change of mRNA expression of CYP1A2, 2B6, 2C9, 2C19, 3A4, and epoxide hydrolase. It is unlikely that brivaracetam will induce these enzymes in vivo . Transporters Brivaracetam was not a substrate of P-gp, MRP1, or MRP2. Brivaracetam did not inhibit or weakly inhibit BCRP, BSEP, MATE1, MATE2/K, MRP2, OAT1, OAT3, OCT1, OCT2, OATP1B1, OATP1B3, or P-gp, suggesting that brivaracetam is unlikely to inhibit these transporters in vivo . In Vivo Assessment of Drug Interactions Drug Interaction Studies with Antiepileptic Drugs (AEDs) Potential interactions between brivaracetam (25 mg twice daily to 100 mg twice daily) and other AEDs were investigated in a pooled analysis of plasma drug concentrations from all Phase 2 and 3 studies and in a population exposure-response analysis of placebo-controlled, Phase 3 studies in adjunctive therapy in the treatment of partial-onset seizures. None of the interactions require changes in the dose of brivaracetam. Interactions with carbamazepine and phenytoin can be clinically important [ see Drug Interactions (7.2) and (7.3)] . The interactions are summarized in Table 5. Table 5: Drug Interactions Between Brivaracetam and Concomitant Antiepileptic Drugs Concomitant AED Influence of AED on Brivaracetam Influence of Brivaracetam on AED Carbamazepine 26% decrease in plasma concentration None forcarbamazepine Increase of carbamazepine-epoxide metabolite* [see Drug Interactions (7.2)] Lacosamide No data None Lamotrigine None None Levetiracetam None None Oxcarbazepine None None on the active monohydroxy metabolite derivative (MHD) Phenobarbital 19% decrease in plasma concentration None Phenytoin 21% decrease in plasma concentration Up to 20% increase in plasma concentration [see Drug Interactions (7.3) ] ** Pregabalin No data None Topiramate None None Valproicacid None None Zonisamide No data None *Brivaracetam is a reversible inhibitor of epoxide hydrolase resulting in an increased concentration of carbamazepine epoxide, an active metabolite of carbamazepine. The carbamazepine epoxide plasma concentration increased up to 198% at a brivaracetam dose of 100 mg twice daily. ** At a supratherapeutic dose of 400 mg/day brivaracetam, there was a 20% increase in phenytoin plasma concentration. Drug Interaction Studies with Other Drugs Effect of Other Drugs on Brivaracetam Co-administration with CYP inhibitors or transporter inhibitors is unlikely to significantly affect brivaracetam exposure. Co-administration with rifampin decreases brivaracetam plasma concentrations by 45%, an effect that is probably the result of CYP2C19 induction [ see Dosage and Administration (2.6) and Drug Interactions (7.1) ] . Oral Contraceptives Co-administration of brivaracetam 200 mg twice daily (twice the recommended maximum daily dosage) with an oral contraceptive containing ethinylestradiol (0.03 mg) and levonorgestrel (0.15 mg) reduced estrogen and progestin AUCs by 27% and 23%, respectively, without impact on suppression of ovulation. However, co-administration of brivaracetam 50 mg twice daily with an oral contraceptive containing ethinylestradiol (0.03 mg) and levonorgestrel (0.15 mg) did not significantly influence the pharmacokinetics of either substance. The interaction is not expected to be of clinical significance.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE Brivaracetam tablets are indicated for the treatment of partial-onset seizures in patients 1 month of age and older. Brivaracetam tablets are indicated for the treatment of partial-onset seizures in patients 1 month of age and older. ( 1 )",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "brivaracetam"
+    ],
+    "openfda_generic_names": [
+      "BRIVARACETAM"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=57cfb2c3-395d-0892-e063-6294a90a1064",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Childhood Absence Epilepsy",
+    "slug": "childhood-absence-epilepsy"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04666610",
+      "title": "A Study to Evaluate the Efficacy, Safety, and Tolerability of Brivaracetam as Monotherapy in Patients 2 to 25 Years of Age With Childhood Absence Epilepsy or Juvenile Absence Epilepsy",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT04666610",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42092987",
+        "title": "Efficacy and safety of Brivaracetam as an adjunctive therapy in patients with focal-onset seizures: a phase III, multi-center, randomized, double-blind, placebo-controlled trial.",
+        "pubdate": "2026 May 7",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42092987/"
+      },
+      {
+        "pmid": "41665255",
+        "title": "The Epilepsy-Desirability of Outcome Ranking (DOOR) as a Multi-Faceted Consumer-Informed Outcome Measure for Epilepsy Clinical Trials.",
+        "pubdate": "2026 Feb",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41665255/"
+      },
+      {
+        "pmid": "41646935",
+        "title": "An evidence-based meta-analysis on the use of brivaracetam in treating seizures in real-world clinical practice.",
+        "pubdate": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41646935/"
+      },
+      {
+        "pmid": "41493949",
+        "title": "Bayesian-Based Pharmacokinetic Framework Integrated with Therapeutic Drug Monitoring for Assessing Adherence to Antiseizure Medications: A Clinical Trial Simulation Study.",
+        "pubdate": "2026 Jan 2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41493949/"
+      },
+      {
+        "pmid": "40944872",
+        "title": "A cross-national cost-effectiveness analysis of brivaracetam focusing on psychiatric and behavioral adverse effects.",
+        "pubdate": "2025 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40944872/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "LEVETIRACETAM",
+        "chembl_id": "CHEMBL1286",
+        "reason": "same target: Synaptic vesicle glycoprotein 2A"
+      },
+      {
+        "name": "SELETRACETAM",
+        "chembl_id": "CHEMBL3918017",
+        "reason": "same target: Synaptic vesicle glycoprotein 2A"
+      }
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "drug_name": "Colgate Cavity Protection Toothpaste",
+  "slug": "colgate-cavity-protection-toothpaste",
+  "enriched_at": "2026-08-15T21:10:41Z",
+  "source_trial_ids": [
+    "NCT07398378",
+    "NCT07499115"
+  ],
+  "sponsors": [
+    "Colgate Palmolive"
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2703440",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL456845",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Colgate%20Cavity%20Protection%20Toothpaste+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Colgate%20Cavity%20Protection%20Toothpaste+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Colgate%20Cavity%20Protection%20Toothpaste+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Oral Malodor",
+    "slug": "oral-malodor"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07398378",
+      "title": "Clinical Investigation of Oral Malodor for Max Fresh Toothpaste Containing Zinc Citrate Versus a Commercially Available Regular Fluoride Toothpaste",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07398378",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT07499115",
+      "title": "Efficacy of a Toothpaste in Reducing Plaque, Gingivitis, and Gingival Bleeding",
+      "status": "NOT_YET_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07499115",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "40794532",
+        "title": "Arginine Dentifrices and Childhood Caries Prevention: A Randomized Clinical Trial.",
+        "pubdate": "2026 Apr",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40794532/"
+      },
+      {
+        "pmid": "39566486",
+        "title": "Stannous Fluoride Toothpaste Stabilized With Nitrate and Phosphates (SNaP) Reduces Oral Malodor: A Randomized Clinical Study.",
+        "pubdate": "2024 Nov-Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39566486/"
+      },
+      {
+        "pmid": "38436947",
+        "title": "Noninferiority of Silver Diamine Fluoride vs Sealants for Reducing Dental Caries Prevalence and Incidence: A Randomized Clinical Trial.",
+        "pubdate": "2024 Apr 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38436947/"
+      },
+      {
+        "pmid": "38365868",
+        "title": "White spot enamel lesions - is treatment or prevention the answer to this 'no win scenario'?",
+        "pubdate": "2024 Mar",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38365868/"
+      },
+      {
+        "pmid": "38310236",
+        "title": "Efficacy of flossing and mouth rinsing regimens on plaque and gingivitis: a randomized clinical trial.",
+        "pubdate": "2024 Feb 3",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38310236/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}
