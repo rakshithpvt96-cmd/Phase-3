@@ -1,0 +1,179 @@
+(function () {
+  "use strict";
+
+  const state = {
+    trials: [],
+    sortKey: "primary_completion_date",
+    sortAsc: true,
+    search: "",
+    windowFilter: "all",
+    signalFilter: "all",
+  };
+
+  function slugify(name) {
+    return (
+      (name || "")
+        .toLowerCase()
+        .trim()
+        .replace(/[^a-z0-9]+/g, "-")
+        .replace(/(^-|-$)/g, "") || "unknown"
+    );
+  }
+
+  function escapeHtml(s) {
+    return String(s == null ? "" : s).replace(/[&<>"']/g, function (c) {
+      return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c];
+    });
+  }
+
+  function computeSignals(t) {
+    const sig = [];
+    if ((t.sec_8k_matches || []).length) sig.push({ cls: "badge-8k", label: `${t.sec_8k_matches.length} 8-K` });
+    if (t.has_results) sig.push({ cls: "badge-results", label: "Results posted" });
+    return sig;
+  }
+
+  function drugLinks(t) {
+    if (!t.drug_names || !t.drug_names.length) return "—";
+    return t.drug_names
+      .map((name) => `<a href="drug.html?drug=${encodeURIComponent(slugify(name))}">${escapeHtml(name)}</a>`)
+      .join(", ");
+  }
+
+  function matchesFilters(t) {
+    if (state.windowFilter !== "all" && t.window !== state.windowFilter) return false;
+    if (state.signalFilter === "8k" && !(t.sec_8k_matches || []).length) return false;
+    if (state.signalFilter === "results" && !t.has_results) return false;
+    if (state.search) {
+      const hay = [...(t.drug_names || []), t.sponsor, ...(t.conditions || []), t.nct_id, t.title]
+        .filter(Boolean)
+        .join(" ")
+        .toLowerCase();
+      if (!hay.includes(state.search)) return false;
+    }
+    return true;
+  }
+
+  function sorter(a, b) {
+    const key = state.sortKey;
+    let av = a[key];
+    let bv = b[key];
+    if (key === "drug_names" || key === "conditions") {
+      av = (av || [])[0] || "";
+      bv = (bv || [])[0] || "";
+    }
+    if (key === "signals") {
+      av = computeSignals(a).length;
+      bv = computeSignals(b).length;
+    }
+    av = av == null ? "" : av;
+    bv = bv == null ? "" : bv;
+    const cmp = typeof av === "number" && typeof bv === "number" ? av - bv : String(av).localeCompare(String(bv));
+    return state.sortAsc ? cmp : -cmp;
+  }
+
+  function render() {
+    const tbody = document.getElementById("table-body");
+    const emptyState = document.getElementById("empty-state");
+    const rows = state.trials.filter(matchesFilters).slice().sort(sorter);
+
+    if (!rows.length) {
+      tbody.innerHTML = "";
+      emptyState.style.display = "block";
+      return;
+    }
+    emptyState.style.display = "none";
+
+    tbody.innerHTML = rows
+      .map((t) => {
+        const signals = computeSignals(t)
+          .map((s) => `<span class="badge ${s.cls}">${s.label}</span>`)
+          .join(" ");
+        const windowBadge =
+          t.window === "upcoming"
+            ? '<span class="badge badge-upcoming">Upcoming</span>'
+            : '<span class="badge badge-lookback">Lookback</span>';
+        const dateType = t.primary_completion_date_type
+          ? ` <span class="pill-meta">(${escapeHtml(t.primary_completion_date_type)})</span>`
+          : "";
+        return `<tr>
+          <td>${drugLinks(t)}</td>
+          <td>${escapeHtml(t.sponsor || "—")}</td>
+          <td>${escapeHtml((t.conditions || [])[0] || "—")}</td>
+          <td>${escapeHtml(t.primary_completion_date || "—")}${dateType}</td>
+          <td>${windowBadge}</td>
+          <td>${escapeHtml(t.status || "—")}</td>
+          <td>${signals || "—"}</td>
+          <td><a href="${escapeHtml(t.url || "#")}" target="_blank" rel="noopener">${escapeHtml(t.nct_id || "—")}</a></td>
+        </tr>`;
+      })
+      .join("");
+  }
+
+  function setupSorting() {
+    document.querySelectorAll("#catalyst-table thead th").forEach((th) => {
+      th.addEventListener("click", () => {
+        const key = th.dataset.key;
+        if (state.sortKey === key) state.sortAsc = !state.sortAsc;
+        else {
+          state.sortKey = key;
+          state.sortAsc = true;
+        }
+        document.querySelectorAll("#catalyst-table thead th").forEach((h) => h.classList.remove("sorted", "asc"));
+        th.classList.add("sorted");
+        if (state.sortAsc) th.classList.add("asc");
+        render();
+      });
+    });
+  }
+
+  function setupControls() {
+    document.getElementById("search").addEventListener("input", (e) => {
+      state.search = e.target.value.trim().toLowerCase();
+      render();
+    });
+    document.getElementById("window-filter").addEventListener("change", (e) => {
+      state.windowFilter = e.target.value;
+      render();
+    });
+    document.getElementById("signal-filter").addEventListener("change", (e) => {
+      state.signalFilter = e.target.value;
+      render();
+    });
+  }
+
+  function renderStats(data) {
+    const upcoming = data.trials.filter((t) => t.window === "upcoming").length;
+    const lookback = data.trials.filter((t) => t.window === "lookback").length;
+    const withSignal = data.trials.filter((t) => (t.sec_8k_matches || []).length).length;
+    document.getElementById("stat-row").innerHTML = `
+      <div class="stat-tile"><div class="n">${data.trials.length}</div><div class="label">Total tracked trials</div></div>
+      <div class="stat-tile"><div class="n">${upcoming}</div><div class="label">Completing in next ${data.window_upcoming_days} days</div></div>
+      <div class="stat-tile"><div class="n">${lookback}</div><div class="label">Completed ${data.window_lookback_days[0]}–${data.window_lookback_days[1]} days ago</div></div>
+      <div class="stat-tile"><div class="n">${withSignal}</div><div class="label">With SEC 8-K signal</div></div>
+    `;
+  }
+
+  async function init() {
+    setupSorting();
+    setupControls();
+    try {
+      const res = await fetch("data/catalysts.json", { cache: "no-store" });
+      const data = await res.json();
+      state.trials = data.trials || [];
+      renderStats(data);
+      document.getElementById("generated-meta").textContent = data.generated_at
+        ? `Last updated ${data.generated_at}`
+        : "Not yet populated -- waiting on the first scheduled fetch.";
+      render();
+    } catch (err) {
+      const emptyState = document.getElementById("empty-state");
+      document.getElementById("table-body").innerHTML = "";
+      emptyState.style.display = "block";
+      emptyState.textContent = "Failed to load data/catalysts.json.";
+      console.error(err);
+    }
+  }
+
+  init();
+})();

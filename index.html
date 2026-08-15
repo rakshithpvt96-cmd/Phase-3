@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Phase 3 Catalyst Tracker</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header class="site-header">
+  <h1>Phase 3 Catalyst Tracker</h1>
+  <div class="meta" id="generated-meta">Loading…</div>
+</header>
+<main>
+  <div class="stat-row" id="stat-row"></div>
+
+  <div class="controls">
+    <input type="search" id="search" placeholder="Search drug, sponsor, condition, NCT ID…">
+    <select id="window-filter">
+      <option value="all">All windows</option>
+      <option value="upcoming">Upcoming (next 14 days)</option>
+      <option value="lookback">Lookback (30–75 days ago)</option>
+    </select>
+    <select id="signal-filter">
+      <option value="all">All trials</option>
+      <option value="8k">SEC 8-K signal only</option>
+      <option value="results">Results posted only</option>
+    </select>
+  </div>
+
+  <div class="table-wrap">
+    <table id="catalyst-table">
+      <thead>
+        <tr>
+          <th data-key="drug_names">Drug(s)</th>
+          <th data-key="sponsor">Sponsor</th>
+          <th data-key="conditions">Condition</th>
+          <th data-key="primary_completion_date">Primary Completion</th>
+          <th data-key="window">Window</th>
+          <th data-key="status">Status</th>
+          <th data-key="signals">Signals</th>
+          <th data-key="nct_id">NCT ID</th>
+        </tr>
+      </thead>
+      <tbody id="table-body"></tbody>
+    </table>
+  </div>
+  <div class="empty-state" id="empty-state" style="display:none;">No trials match the current filters.</div>
+</main>
+<footer class="site-footer">
+  Data from ClinicalTrials.gov and SEC EDGAR full-text search, refreshed twice daily via GitHub Actions.
+  Informational only, not investment advice. <a href="https://github.com/rakshithpvt96-cmd/Phase-3">Source</a>.
+</footer>
+<script src="assets/app.js"></script>
+</body>
+</html>
