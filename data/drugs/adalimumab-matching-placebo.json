@@ -1,0 +1,145 @@
+{
+  "drug_name": "Adalimumab Matching Placebo",
+  "slug": "adalimumab-matching-placebo",
+  "enriched_at": "2026-08-15T20:50:21Z",
+  "source_trial_ids": [
+    "NCT05814627"
+  ],
+  "sponsors": [
+    "AbbVie"
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "8375",
+      "generic_name": "placebo",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1201580",
+    "target_chembl_id": "CHEMBL1825",
+    "target_name": "Tumor necrosis factor",
+    "mechanism_of_action_chembl": "TNF-alpha inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Adalimumab%20Matching%20Placebo+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Adalimumab%20Matching%20Placebo+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Adalimumab%20Matching%20Placebo+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Rheumatoid Arthritis",
+    "slug": "rheumatoid-arthritis"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05814627",
+      "title": "Study to Assess Change in Disease Activity and Adverse Events of Oral Upadacitinib Compared to Subcutaneous Adalimumab in Adult Participants With Moderate to Severe Rheumatoid Arthritis",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT05814627",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "37525000",
+        "title": "Matching-Adjusted Indirect Comparison of the Long-Term Efficacy of Deucravacitinib Versus Adalimumab for Moderate to Severe Plaque Psoriasis.",
+        "pubdate": "2023 Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37525000/"
+      },
+      {
+        "pmid": "34406349",
+        "title": "Efficacy and Safety of Adalimumab in Conjunction With Surgery in Moderate to Severe Hidradenitis Suppurativa: The SHARPS Randomized Clinical Trial.",
+        "pubdate": "2021 Nov 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34406349/"
+      },
+      {
+        "pmid": "32414425",
+        "title": "Temporary interruption of baricitinib: characterization of interruptions and effect on clinical outcomes in patients with rheumatoid arthritis.",
+        "pubdate": "2020 May 15",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32414425/"
+      },
+      {
+        "pmid": "31033434",
+        "title": "Adalimumab in combination with methotrexate for refractory uveitis associated with juvenile idiopathic arthritis: a RCT.",
+        "pubdate": "2019 Apr",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31033434/"
+      },
+      {
+        "pmid": "27602665",
+        "title": "Adalimumab in Patients with Active Noninfectious Uveitis.",
+        "pubdate": "2016 Sep 8",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27602665/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "INFLIXIMAB",
+        "chembl_id": "CHEMBL1201581",
+        "reason": "same target: Tumor necrosis factor"
+      },
+      {
+        "name": "CERTOLIZUMAB PEGOL",
+        "chembl_id": "CHEMBL1201831",
+        "reason": "same target: Tumor necrosis factor"
+      },
+      {
+        "name": "ETANERCEPT",
+        "chembl_id": "CHEMBL1201572",
+        "reason": "same target: Tumor necrosis factor"
+      },
+      {
+        "name": "GOLIMUMAB",
+        "chembl_id": "CHEMBL1201833",
+        "reason": "same target: Tumor necrosis factor"
+      },
+      {
+        "name": "LENERCEPT",
+        "chembl_id": "CHEMBL2108208",
+        "reason": "same target: Tumor necrosis factor"
+      },
+      {
+        "name": "NERELIMOMAB",
+        "chembl_id": "CHEMBL2108566",
+        "reason": "same target: Tumor necrosis factor"
+      },
+      {
+        "name": "AFELIMOMAB",
+        "chembl_id": "CHEMBL2108887",
+        "reason": "same target: Tumor necrosis factor"
+      },
+      {
+        "name": "ONERCEPT",
+        "chembl_id": "CHEMBL2107911",
+        "reason": "same target: Tumor necrosis factor"
+      },
+      {
+        "name": "OZORALIZUMAB",
+        "chembl_id": "CHEMBL1743054",
+        "reason": "same target: Tumor necrosis factor"
+      },
+      {
+        "name": "PEGSUNERCEPT",
+        "chembl_id": "CHEMBL1743057",
+        "reason": "same target: Tumor necrosis factor"
+      }
+    ]
+  }
+}

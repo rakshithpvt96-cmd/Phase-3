@@ -1,0 +1,154 @@
+{
+  "drug_name": "Adalimumab",
+  "slug": "adalimumab",
+  "enriched_at": "2026-08-15T20:50:09Z",
+  "source_trial_ids": [
+    "NCT05814627",
+    "NCT06640517"
+  ],
+  "sponsors": [
+    "AbbVie",
+    "Biocad"
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "327361",
+      "generic_name": "adalimumab",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1201580",
+    "target_chembl_id": "CHEMBL1825",
+    "target_name": "Tumor necrosis factor",
+    "mechanism_of_action_chembl": "TNF-alpha inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Adalimumab products bind specifically to TNF-alpha and block its interaction with the p55 and p75 cell surface TNF receptors. Adalimumab products also lyse surface TNF expressing cells in vitro in the presence of complement. Adalimumab products do not bind or inactivate lymphotoxin (TNF-beta). TNF is a naturally occurring cytokine that is involved in normal inflammatory and immune responses. Elevated concentrations of TNF are found in the synovial fluid of patients with RA, JIA, PsA, and AS and play an important role in both the pathologic inflammation and the joint destruction that are hallmarks of these diseases. Increased concentrations of TNF are also found in psoriasis plaques. In Ps, treatment with IDACIO may reduce the epidermal thickness and infiltration of inflammatory cells. The relationship between these pharmacodynamic activities and the mechanism(s) by which adalimumab products exert their clinical effects is unknown. Adalimumab products also modulate biological responses that are induced or regulated by TNF, including changes in the concentrations of adhesion molecules responsible for leukocyte migration (ELAM-1, VCAM-1, and ICAM-1 with an IC 50 of 1-2 X 10 -10 M).",
+    "pharmacokinetics": "12.3 Pharmacokinetics The pharmacokinetics of adalimumab were linear over the dose range of 0.5 to 10 mg/kg following administration of a single intravenous dose (adalimumab products are not approved for intravenous use). Following 20, 40, and 80 mg every other week and every week subcutaneous administration, adalimumab mean serum trough concentrations at steady state increased approximately proportionally with dose in RA patients. The mean terminal half-life was approximately 2 weeks, ranging from 10 to 20 days across studies. Healthy subjects and patients with RA displayed similar adalimumab pharmacokinetics. Adalimumab exposure in patients treated with 80 mg every other week is estimated to be comparable with that in patients treated with 40 mg every week. Absorption The average absolute bioavailability of adalimumab following a single 40 mg subcutaneous dose was 64%. The mean time to reach the maximum concentration was 5.5 days (131 ± 56 hours) and the maximum serum concentration was 4.7 ± 1.6 mcg/mL in healthy subjects following a single 40 mg subcutaneous administration of adalimumab. Distribution The distribution volume (V ss ) ranged from 4.7 to 6.0 L following intravenous administration of doses ranging from 0.25 to 10 mg/kg in RA patients. Elimination The single dose pharmacokinetics of adalimumab in RA patients were determined in several studies with intravenous doses ranging from 0.25 to 10 mg/kg. The systemic clearance of adalimumab is approximately 12 mL/hr. In long-term studies with dosing more than two years, there was no evidence of changes in clearance over time in RA patients. Patient Population Rheumatoid Arthritis and Ankylosing Spondylitis: In patients receiving 40 mg adalimumab every other week, adalimumab mean steady-state trough concentrations were approximately 5 mcg/mL and 8 to 9 mcg/mL, without and with MTX concomitant treatment, respectively. Adalimumab concentrations in the synovial fluid from five rheumatoid arthritis patients ranged from 31 to 96% of those in serum. The pharmacokinetics of adalimumab in patients with AS were similar to those in patients with RA. Psoriatic Arthritis : In patients receiving 40 mg every other week, adalimumab mean steady-state trough concentrations were 6 to 10 mcg/mL and 8.5 to 12 mcg/mL, without and with MTX concomitant treatment, respectively. Plaque Psoriasis : Adalimumab mean steady-state trough concentration was approximately 5 to 6 mcg/mL during adalimumab 40 mg every other week treatment. Adult Uveitis : Adalimumab mean steady concentration was approximately 8 to 10 mcg/mL during adalimumab 40 mg every other week treatment. Adult Hidradenitis Suppurativa : Adalimumab trough concentrations were approximately 7 to 8 mcg/mL at Week 2 and Week 4, respectively, after receiving 160 mg on Week 0 followed by 80 mg on Week 2. Mean steady-state trough concentrations at Week 12 through Week 36 were approximately 7 to 11 mcg/mL during adalimumab 40 mg every week treatment. Adult Crohn’s Disease: Adalimumab mean trough concentrations were approximately 12 mcg/mL at Week 2 and Week 4 after receiving 160 mg on Week 0 followed by 80 mg on Week 2. Mean steady-state trough concentrations were 7 mcg/mL at Week 24 and Week 56 during adalimumab 40 mg every other week treatment. Adult Ulcerative Colitis : Adalimumab mean trough concentrations were approximately 12 mcg/mL at Week 2 and Week 4 after receiving 160 mg on Week 0 followed by 80 mg on Week 2. Mean steady-state trough concentrations were approximately 8 mcg/mL and 15 mcg/mL at Week 52 after receiving a dose of adalimumab 40 mg every other week and 40 mg every week, respectively. Anti-Drug Antibody Effects on Pharmacokinetics Rheumatoid Arthritis: A trend toward higher apparent clearance of adalimumab in the presence of anti-adalimumab antibodies was identified. Hidradenitis Suppurativa: In subjects with moderate to severe HS, antibodies to adalimumab were associated with reduced serum adalimumab concentrations. In general, the extent of reduction in serum adalimumab concentrations is greater with increasing titers of antibodies to adalimumab. Specific Populations Geriatric Patients : A lower clearance with increasing age was observed in patients with RA aged 40 to >75 years. Pediatric Patients: Juvenile Idiopathic Arthritis : • 4 years to 17 years of age: The adalimumab mean steady-state trough concentrations were 6.8 mcg/mL and 10.9 mcg/mL in patients weighing <30 kg receiving 20 mg adalimumab subcutaneously every other week as monotherapy or with concomitant MTX, respectively. The adalimumab mean steady-state trough concentrations were 6.6 mcg/mL and 8.1 mcg/mL in patients weighing ≥30 kg receiving 40 mg adalimumab subcutaneously every other week as monotherapy or with MTX concomitant treatment, respectively. • 2 years to <4 years of age or 4 years of age and older weighing <15 kg: The adalimumab mean steady-state trough adalimumab concentrations were 6.0 mcg/mL and 7.9 mcg/mL in patients receiving adalimumab subcutaneously every other week as monotherapy or with MTX concomitant treatment, respectively. Pediatric Crohn's Disease : Adalimumab mean ± SD concentrations were 15.7±6.5 mcg/mL at Week 4 following 160 mg at Week 0 and 80 mg at Week 2, and 10.5±6.0 mcg/mL at Week 52 following 40 mg every other week dosing in patients weighing ≥ 40 kg. Adalimumab mean ± SD concentrations were 10.6±6.1 mcg/mL at Week 4 following dosing 80 mg at Week 0 and 40 mg at Week 2, and 6.9±3.6 mcg/mL at Week 52 following 20 mg every other week dosing in patients weighing < 40 kg. Male and Female Patients : No gender-related pharmacokinetic differences were observed after correction for a patient’s body weight. Healthy subjects and patients with rheumatoid arthritis displayed similar adalimumab pharmacokinetics. Patients with Renal or Hepatic Impairment: No pharmacokinetic data are available in patients with hepatic or renal impairment. Rheumatoid factor or CRP concentrations: Minor increases in apparent clearance were predicted in RA patients receiving doses lower than the recommended dose and in RA patients with high rheumatoid factor or CRP concentrations. These increases are not likely to be clinically important. Drug Interaction Studies: Methotrexate : MTX reduced adalimumab apparent clearance after single and multiple dosing by 29% and 44% respectively, in patients with RA [see Drug Interactions ( 7.1 )] .",
+    "indications_and_usage": "1 INDICATIONS AND USAGE IDACIO is a tumor necrosis factor (TNF) blocker indicated for: • Rheumatoid Arthritis (RA) ( 1.1 ): reducing signs and symptoms, inducing major clinical response, inhibiting the progression of structural damage, and improving physical function in adult patients with moderately to severely active RA . • Juvenile Idiopathic Arthritis (JIA) ( 1.2 ): reducing signs and symptoms of moderately to severely active polyarticular JIA in patients 2 years of age and older. • Psoriatic Arthritis (PsA) ( 1.3 ): reducing signs and symptoms, inhibiting the progression of structural damage, and improving physical function in adult patients with active PsA. • Ankylosing Spondylitis (AS) ( 1.4 ): reducing signs and symptoms in adult patients with active AS. • Crohn’s Disease (CD) ( 1.5 ): treatment of moderately to severely active Crohn’s disease in adults and pediatric patients 6 years of age and older. • Ulcerative Colitis (UC) ( 1.6 ): treatment of moderately to severely active ulcerative colitis in adult patients. Limitations of Use: Effectiveness has not been established in patients who have lost response to or were intolerant to TNF blockers. • Plaque Psoriasis (Ps) ( 1.7 ): treatment of adult patients with moderate to severe chronic plaque psoriasis who are candidates for systemic therapy or phototherapy, and when other systemic therapies are medically less appropriate. • Hidradenitis Suppurativa (HS) ( 1.8 ): treatment of moderate to severe hidradenitis suppurativa in adult patients. • Uveitis (UV) ( 1.9 ): treatment of non-infectious intermediate, posterior, and panuveitis in adult patients. 1.1 Rheumatoid Arthritis IDACIO is indicated for reducing signs and symptoms, inducing major clinical response, inhibiting the progression of structural damage, and improving physical function in adult patients with moderately to severely active rheumatoid arthritis. IDACIO can be used alone or in combination with methotrexate or other non-biologic disease-modifying anti-rheumatic drugs (DMARDs). 1.2 Juvenile Idiopathic Arthritis IDACIO is indicated for reducing signs and symptoms of moderately to severely active polyarticular juvenile idiopathic arthritis in patients 2 years of age and older. IDACIO can be used alone or in combination with methotrexate. 1.3 Psoriatic Arthritis IDACIO is indicated for reducing signs and symptoms, inhibiting the progression of structural damage, and improving physical function in adult patients with active psoriatic arthritis. IDACIO can be used alone or in combination with non-biologic DMARDs. 1.4 Ankylosing Spondylitis IDACIO is indicated for reducing signs and symptoms in adult patients with active ankylosing spondylitis. 1.5 Crohn’s Disease IDACIO is indicated for the treatment of moderately to severely active Crohn’s disease in adults and pediatric patients 6 years of age and older. 1.6 Ulcerative Colitis IDACIO is indicated for the treatment of moderately to severely active ulcerative colitis in adult patients. Limitations of Use The effectiveness of adalimumab products has not been established in patients who have lost response to or were intolerant to TNF blockers [see Clinical Studies ( 14.7 )] . 1.7 Plaque Psoriasis IDACIO is indicated for the treatment of adult patients with moderate to severe chronic plaque psoriasis who are candidates for systemic therapy or phototherapy, and when other systemic therapies are medically less appropriate. IDACIO should only be administered to patients who will be closely monitored and have regular follow-up visits with a physician [see Warnings and Precautions ( 5 )] . 1.8 Hidradenitis Suppurativa IDACIO is indicated for the treatment of moderate to severe hidradenitis suppurativa in adult patients. 1.9 Uveitis IDACIO is indicated for the treatment of non-infectious intermediate, posterior, and panuveitis in adult patients.",
+    "boxed_warning": "WARNING: SERIOUS INFECTIONS and MALIGNANCY SERIOUS INFECTIONS Patients treated with adalimumab products including IDACIO are at increased risk for developing serious infections that may lead to hospitalization or death [see Warnings and Precautions ( 5.1 )] . Most patients who developed these infections were taking concomitant immunosuppressants such as methotrexate or corticosteroids. Discontinue IDACIO if a patient develops a serious infection or sepsis. Reported infections include: • Active tuberculosis (TB), including reactivation of latent TB. Patients with TB have frequently presented with disseminated or extrapulmonary disease. Test patients for latent TB before IDACIO use and during therapy. Initiate treatment for latent TB prior to IDACIO use. • Invasive fungal infections, including histoplasmosis, coccidioidomycosis, candidiasis, aspergillosis, blastomycosis, and pneumocystosis. Patients with histoplasmosis or other invasive fungal infections may present with disseminated, rather than localized, disease. Antigen and antibody testing for histoplasmosis may be negative in some patients with active infection. Consider empiric anti- fungal therapy in patients at risk for invasive fungal infections who develop severe systemic illness. • Bacterial, viral and other infections due to opportunistic pathogens, including Legionella and Listeria. Carefully consider the risks and benefits of treatment with IDACIO prior to initiating therapy in patients with chronic or recurrent infection. Monitor patients closely for the development of signs and symptoms of infection during and after treatment with IDACIO, including the possible development of TB in patients who tested negative for latent TB infection prior to initiating therapy [see Warnings and Precautions ( 5.1 ) and Adverse Reactions ( 6.1 )] . MALIGNANCY Lymphoma and other malignancies, some fatal, have been reported in children and adolescent patients treated with TNF blockers including adalimumab products [see Warnings and Precautions ( 5.2 )] . Post-marketing cases of hepatosplenic T-cell lymphoma (HSTCL), a rare type of T-cell lymphoma, have been reported in patients treated with TNF blockers including adalimumab products. These cases have had a very aggressive disease course and have been fatal. The majority of reported TNF blocker cases have occurred in patients with Crohn's disease or ulcerative colitis and the majority were in adolescent and young adult males. Almost all these patients had received treatment with azathioprine or 6‑mercaptopurine (6–MP) concomitantly with a TNF blocker at or prior to diagnosis. It is uncertain whether the occurrence of HSTCL is related to use of a TNF blocker or a TNF blocker in combination with these other immunosuppressants [see Warnings and Precautions ( 5.2 )] WARNING: SERIOUS INFECTIONS and MALIGNANCY See full prescribing information for complete boxed warning. SERIOUS INFECTIONS ( 5.1 , 6.1 ): • Increased risk of serious infections leading to hospitalization or death, including tuberculosis (TB), bacterial sepsis, invasive fungal infections (such as histoplasmosis), and infections due to other opportunistic pathogens. • Discontinue IDACIO if a patient develops a serious infection or sepsis during treatment. • Perform test for latent TB; if positive, start treatment for TB prior to starting IDACIO. • Monitor all patients for active TB during treatment, even if initial latent TB test is negative. MALIGNANCY ( 5.2 ): • Lymphoma and other malignancies, some fatal, have been reported in children and adolescent patients treated with TNF blockers including adalimumab products. • Post-marketing cases of hepatosplenic T-cell lymphoma (HSTCL), a rare type of T-cell lymphoma, have occurred in adolescent and young adults with inflammatory bowel disease treated with TNF blockers including adalimumab products.",
+    "openfda_brand_names": [
+      "IDACIO"
+    ],
+    "openfda_generic_names": [
+      "ADALIMUMAB-AACF"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=12f609c9-2088-bb05-e063-6394a90a9ecc",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Plaque Psoriasis",
+    "slug": "plaque-psoriasis"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05814627",
+      "title": "Study to Assess Change in Disease Activity and Adverse Events of Oral Upadacitinib Compared to Subcutaneous Adalimumab in Adult Participants With Moderate to Severe Rheumatoid Arthritis",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT05814627",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06640517",
+      "title": "Study of the Efficacy, Safety, Pharmacokinetics, and Immunogenicity of Netakimab in Children With Moderate to Severe Plaque Psoriasis",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06640517",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42555037",
+        "title": "Approved Monoclonal Antibody Therapies for Hidradenitis Suppurativa.",
+        "pubdate": "2026 Aug 5",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42555037/"
+      },
+      {
+        "pmid": "42549261",
+        "title": "Comparative effectiveness of adalimumab versus infliximab in children with Crohn's disease: real-world data from the prospective PIBD-SETQuality inception cohort study.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42549261/"
+      },
+      {
+        "pmid": "42536885",
+        "title": "Ustekinumab for the treatment of psoriasis: a well-established therapy primed for resurgence.",
+        "pubdate": "2026 Aug 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42536885/"
+      },
+      {
+        "pmid": "42536134",
+        "title": "Measuring success in HS treatment from the physician's and the patient's perspective.",
+        "pubdate": "2026 Jul 31",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42536134/"
+      },
+      {
+        "pmid": "42452698",
+        "title": "Medical and Surgical Management of Hidradenitis Suppurativa.",
+        "pubdate": "2026 Jul 4",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42452698/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "INFLIXIMAB",
+        "chembl_id": "CHEMBL1201581",
+        "reason": "same target: Tumor necrosis factor"
+      },
+      {
+        "name": "CERTOLIZUMAB PEGOL",
+        "chembl_id": "CHEMBL1201831",
+        "reason": "same target: Tumor necrosis factor"
+      },
+      {
+        "name": "ETANERCEPT",
+        "chembl_id": "CHEMBL1201572",
+        "reason": "same target: Tumor necrosis factor"
+      },
+      {
+        "name": "GOLIMUMAB",
+        "chembl_id": "CHEMBL1201833",
+        "reason": "same target: Tumor necrosis factor"
+      },
+      {
+        "name": "LENERCEPT",
+        "chembl_id": "CHEMBL2108208",
+        "reason": "same target: Tumor necrosis factor"
+      },
+      {
+        "name": "NERELIMOMAB",
+        "chembl_id": "CHEMBL2108566",
+        "reason": "same target: Tumor necrosis factor"
+      },
+      {
+        "name": "AFELIMOMAB",
+        "chembl_id": "CHEMBL2108887",
+        "reason": "same target: Tumor necrosis factor"
+      },
+      {
+        "name": "ONERCEPT",
+        "chembl_id": "CHEMBL2107911",
+        "reason": "same target: Tumor necrosis factor"
+      },
+      {
+        "name": "OZORALIZUMAB",
+        "chembl_id": "CHEMBL1743054",
+        "reason": "same target: Tumor necrosis factor"
+      },
+      {
+        "name": "PEGSUNERCEPT",
+        "chembl_id": "CHEMBL1743057",
+        "reason": "same target: Tumor necrosis factor"
+      }
+    ]
+  }
+}

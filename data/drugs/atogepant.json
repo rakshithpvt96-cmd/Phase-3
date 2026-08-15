@@ -1,0 +1,151 @@
+{
+  "drug_name": "Atogepant",
+  "slug": "atogepant",
+  "enriched_at": "2026-08-15T20:53:06Z",
+  "source_trial_ids": [
+    "NCT06806293"
+  ],
+  "sponsors": [
+    "AbbVie"
+  ],
+  "identity": {
+    "pubchem_cid": 72163100,
+    "iupac_name": "(3S)-N-[(3S,5S,6R)-6-methyl-2-oxo-1-(2,2,2-trifluoroethyl)-5-(2,3,6-trifluorophenyl)piperidin-3-yl]-2-oxospiro[1H-pyrrolo[2,3-b]pyridine-3,6'-5,7-dihydrocyclopenta[b]pyridine]-3'-carboxamide",
+    "molecular_formula": "C29H23F6N5O3",
+    "molecular_weight": "603.5",
+    "canonical_smiles": null,
+    "inchikey": "QIVUCLWGARAQIO-OLIXTKCUSA-N",
+    "rxnorm": {
+      "rxcui": "2571813",
+      "generic_name": "atogepant",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL3991065",
+    "target_chembl_id": "CHEMBL3798",
+    "target_name": "Calcitonin gene-related peptide type 1 receptor",
+    "mechanism_of_action_chembl": "Calcitonin gene-related peptide type 1 receptor antagonist"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Atogepant is a calcitonin gene-related peptide (CGRP) receptor antagonist.",
+    "pharmacokinetics": "12.3 Pharmacokinetics Absorption Following oral administration of QULIPTA, atogepant is absorbed with peak plasma concentrations at approximately 1 to 2 hours. Atogepant displays dose-proportional pharmacokinetics up to 170 mg per day (approximately 3 times the highest recommended dosage), with no accumulation. Effect of Food When QULIPTA was administered with a high-fat meal, the food effect was not significant (AUC and C max were reduced by approximately 18% and 22%, respectively, with no effect on median time to maximum atogepant plasma concentration). QULIPTA was administered without regard to food in clinical efficacy studies. Distribution Plasma protein binding of atogepant was not concentration-dependent in the range of 0.1 to 10 µM; the unbound fraction of atogepant was approximately 4.7% in human plasma. The mean apparent volume of distribution of atogepant (Vz/F) after oral administration is approximately 292 L . Elimination Metabolism Atogepant is eliminated mainly through metabolism, primarily by CYP3A4. The parent compound (atogepant), and a glucuronide conjugate metabolite (M23) were the most prevalent circulating components in human plasma. Excretion The elimination half-life of atogepant is approximately 11 hours. The mean apparent oral clearance (CL/F) of atogepant is approximately 19 L/hr. Following single oral dose of 50 mg 14 C-atogepant to healthy male subjects, 42% and 5% of the dose was recovered as unchanged atogepant in feces and urine, respectively. Specific Populations Patients with Renal Impairment The renal route of elimination plays a minor role in the clearance of atogepant. Based on a population pharmacokinetic analysis, there is no significant difference in the pharmacokinetics of atogepant in patients with mild or moderate renal impairment (CLcr 30-89 mL/min) relative to those with normal renal function (CLcr >90 mL/min). Patients with severe renal impairment or end-stage renal disease (ESRD; CLcr <30 mL/min) have not been studied [see Dosage and Administration ( 2.2 ) and Use in Specific Populations ( 8.6 ) ] . Patients with Hepatic Impairment In patients with pre-existing mild (Child-Pugh Class A), moderate (Child-Pugh Class B), or severe (Child-Pugh Class C) hepatic impairment, the total atogepant exposure was increased by 24%, 15%, and 38%, respectively. Due to a potential for liver injury in patients with severe hepatic impairment, avoid use of QULIPTA in patients with severe hepatic impairment [see Use in Specific Populations ( 8.7 )] . Other Specific Populations Based on a population pharmacokinetic analysis, age, sex, race, and body weight did not have a significant effect on the pharmacokinetics (C max and AUC) of atogepant. Therefore, no dose adjustments are warranted based on these factors. Drug Interactions In Vitro Studies Enzymes In vitro, atogepant is not an inhibitor for CYPs 3A4, 1A2, 2B6, 2C8, 2C9, 2C19, or 2D6 at clinically relevant concentrations. Atogepant does not inhibit MAO-A or UGT1A1 at clinically relevant concentrations. Atogepant is not anticipated to be a clinically significant perpetrator of drug-drug interactions through CYP450s, MAO-A, or UGT1A1 inhibition. Atogepant is not an inducer of CYP1A2, CYP2B6, or CYP3A4 at clinically relevant concentrations. Transporters Atogepant is a substrate of P-gp, BCRP, OATP1B1, OATP1B3, and OAT1. Dose adjustment for concomitant use of QULIPTA with inhibitors of OATP is recommended based on a clinical interaction study with a OATP inhibitor [see Dosage and Administration ( 2.2 )] . Coadministration of atogepant with BCRP and/or P-gp inhibitors is not expected to increase the exposure of atogepant. Atogepant is not a substrate of OAT3, OCT2, or MATE1. Atogepant is not an inhibitor of P-gp, BCRP, OAT1, OAT3, NTCP, BSEP, MRP3, or MRP4 at clinically relevant concentrations. Atogepant is a weak inhibitor of OATP1B1, OATP1B3, OCT1, and MATE1. No clinical drug interactions are expected for atogepant as a perpetrator with these transporters. In Vivo Studies CYP3A4 Inhibitors Co-administration of QULIPTA with itraconazole, a strong CYP3A4 inhibitor, resulted in a clinically significant increase (C max by 2.15-fold and AUC by 5.5-fold) in the exposure of atogepant in healthy subjects [see Drug Interactions ( 7.1 )] . Physiologically based pharmacokinetic (PBPK) modeling suggested co-administration of QULIPTA with moderate or weak CYP3A4 inhibitors increase atogepant AUC by 1.7- and 1.1-fold, respectively. The changes in atogepant exposure when coadministered with weak or moderate CYP3A4 inhibitors are not expected to be clinically significant. CYP3A4 Inducers Co-administration of QULIPTA with rifampin, a strong CYP3A4 inducer, decreased atogepant AUC by 60% and C max by 30% in healthy subjects [see Drug Interactions ( 7.2 )] . The observed change in atogepant exposures is a composite effect of inhibition of OATP1B1 and OATP1B3 transporters as well as induction of CYP3A4 and P-gp. No dedicated drug interaction studies were conducted to assess concomitant use with moderate CYP3A4 inducers. Moderate inducers of CYP3A4 can decrease atogepant exposure [see Drug Interactions ( 7.2 )] . Co-administration of QULIPTA with topiramate, a weak inducer of CYP3A4, decreased atogepant mean steady-state AUC 0-τ by 25% and mean steady-state C max by 24% in healthy subjects [ see Drug Interactions ( 7.2 ) ]. BCRP/OATP/P-gp Inhibitors Co-administration of QULIPTA with single dose rifampin, an OATP inhibitor, increased atogepant AUC by 2.85-fold and C max by 2.23-fold in healthy subjects [see Drug Interactions ( 7.3 )] . Co-administration of QULIPTA with quinidine, a P-gp inhibitor, increased atogepant AUC by 26% and C max by 4% in healthy subjects. The changes in atogepant exposure when co-administered with P-gp inhibitors are not expected to be clinically significant. PBPK modeling suggests that co-administration of QULIPTA with BCRP inhibitors increases atogepant exposure by 1.2-fold. This increase is not expected to be clinically significant. Other Drug Interaction Evaluations Co-administration of QULIPTA with oral contraceptive components ethinyl estradiol and levonorgestrel, famotidine, esomeprazole, acetaminophen, naproxen, sumatriptan, or ubrogepant did not result in significant pharmacokinetic interactions for either atogepant or co-administered drugs. Co-administration of QULIPTA with topiramate did not result in clinically significant changes in the pharmacokinetics of topiramate.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE QULIPTA is indicated for the preventive treatment of migraine in adults. QULIPTA is a calcitonin gene-related peptide receptor antagonist indicated for the preventive treatment of migraine in adults. ( 1 )",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "Qulipta"
+    ],
+    "openfda_generic_names": [
+      "ATOGEPANT"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8c8ab8f4-32bd-497a-befa-70c8a51d8d52",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Menstrual Migraine (MM)",
+    "slug": "menstrual-migraine-mm"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06806293",
+      "title": "Study of Oral Atogepant to Assess Adverse Events and Change in Disease Activity in Adult Participants With Menstrual Migraine",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06806293",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42396885",
+        "title": "Weight loss with atogepant in the long-term treatment of migraine: An interim analysis of a safety endpoint from a phase 3, multicenter, open-label, 156-week extension study.",
+        "pubdate": "2026 Jul 3",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42396885/"
+      },
+      {
+        "pmid": "42265882",
+        "title": "The pharmacology of gepants in migraine: A scoping review on mechanisms, clinical applications, and combination strategies.",
+        "pubdate": "2026 Jul-Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42265882/"
+      },
+      {
+        "pmid": "42265869",
+        "title": "Online interest in calcitonin gene-related peptide-therapies: An infodemiology study using Google trends.",
+        "pubdate": "2026 Jun 9",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42265869/"
+      },
+      {
+        "pmid": "41944477",
+        "title": "Safety, tolerability, and efficacy of atogepant added to onabotulinumtoxinA for the preventive treatment of chronic migraine: A phase 3, multicenter, 24-week, open-label study.",
+        "pubdate": "2026 Apr",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41944477/"
+      },
+      {
+        "pmid": "41814051",
+        "title": "Atogepant for the Preventive Treatment of Migraine in Japanese Participants: A Phase 3, Open-Label, 52-Week Extension Study.",
+        "pubdate": "2026 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41814051/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "RIMEGEPANT",
+        "chembl_id": "CHEMBL2178422",
+        "reason": "same target: Calcitonin gene-related peptide type 1 receptor"
+      },
+      {
+        "name": "UBROGEPANT",
+        "chembl_id": "CHEMBL2364638",
+        "reason": "same target: Calcitonin gene-related peptide type 1 receptor"
+      },
+      {
+        "name": "MK3207",
+        "chembl_id": "CHEMBL1910936",
+        "reason": "same target: Calcitonin gene-related peptide type 1 receptor"
+      },
+      {
+        "name": "OLCEGEPANT",
+        "chembl_id": "CHEMBL207197",
+        "reason": "same target: Calcitonin gene-related peptide type 1 receptor"
+      },
+      {
+        "name": "DAVALINTIDE",
+        "chembl_id": "CHEMBL2105635",
+        "reason": "same target: Calcitonin gene-related peptide type 1 receptor"
+      },
+      {
+        "name": "TELCAGEPANT",
+        "chembl_id": "CHEMBL236593",
+        "reason": "same target: Calcitonin gene-related peptide type 1 receptor"
+      },
+      {
+        "name": "ERENUMAB",
+        "chembl_id": "CHEMBL3833329",
+        "reason": "same target: Calcitonin gene-related peptide type 1 receptor"
+      },
+      {
+        "name": "RIMEGEPANT SULFATE",
+        "chembl_id": "CHEMBL2364629",
+        "reason": "same target: Calcitonin gene-related peptide type 1 receptor"
+      },
+      {
+        "name": "BI-44370",
+        "chembl_id": "CHEMBL3334624",
+        "reason": "same target: Calcitonin gene-related peptide type 1 receptor"
+      },
+      {
+        "name": "ZAVEGEPANT HYDROCHLORIDE",
+        "chembl_id": "CHEMBL4650220",
+        "reason": "same target: Calcitonin gene-related peptide type 1 receptor"
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "drug_name": "Amlitelimab",
+  "slug": "amlitelimab",
+  "enriched_at": "2026-08-15T20:51:03Z",
+  "source_trial_ids": [
+    "NCT06407934"
+  ],
+  "sponsors": [
+    "Sanofi"
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2687351",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4594569",
+    "target_chembl_id": "CHEMBL3712900",
+    "target_name": "Tumor necrosis factor ligand superfamily member 4",
+    "mechanism_of_action_chembl": "Tumor necrosis factor ligand superfamily member 4 inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Amlitelimab+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Amlitelimab+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Amlitelimab+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Dermatitis Atopic",
+    "slug": "dermatitis-atopic"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06407934",
+      "title": "A Study to Evaluate the Treatment Response and Safety of Two Dose Regimens of Subcutaneous Amlitelimab Compared With Treatment Withdrawal in Participants Aged 12 Years and Older With Moderate-to-severe Atopic Dermatitis",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06407934",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "41689177",
+        "title": "Advancing drug development for systemic sclerosis by prioritizing findings from human genetic association studies.",
+        "pubdate": "2026 Mar 5",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41689177/"
+      },
+      {
+        "pmid": "41370848",
+        "title": "OX40 Ligand Inhibitors for Moderate-to-Severe Atopic Dermatitis: A Review of Phase II Clinical Trial Data.",
+        "pubdate": "2025 Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41370848/"
+      },
+      {
+        "pmid": "41359216",
+        "title": "A Post Hoc Analysis of Atopic Dermatitis of the Head and Neck and Other Body Regions from the Amlitelimab STREAM-AD Phase 2b Study.",
+        "pubdate": "2026 Jan",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41359216/"
+      },
+      {
+        "pmid": "41035282",
+        "title": "Population Pharmacokinetic and Pharmacodynamic Modeling for the Prediction of the Extended Amlitelimab Phase 3 Dosing Regimen in Atopic Dermatitis.",
+        "pubdate": "2025 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41035282/"
+      },
+      {
+        "pmid": "40704660",
+        "title": "Improvement and maintenance of clinical outcome assessments in atopic dermatitis with amlitelimab.",
+        "pubdate": "2025 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40704660/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "OXELUMAB",
+        "chembl_id": "CHEMBL2108720",
+        "reason": "same target: Tumor necrosis factor ligand superfamily member 4"
+      }
+    ]
+  }
+}

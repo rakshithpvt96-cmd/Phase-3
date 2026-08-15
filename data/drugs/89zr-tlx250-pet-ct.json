@@ -1,0 +1,94 @@
+{
+  "drug_name": "89Zr-TLX250 PET/CT",
+  "slug": "89zr-tlx250-pet-ct",
+  "enriched_at": "2026-08-15T20:49:42Z",
+  "source_trial_ids": [
+    "NCT06750419"
+  ],
+  "sponsors": [
+    "Telix Pharmaceuticals (Innovations) Pty Limited"
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "900412",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL233133",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=89Zr-TLX250%20PET/CT+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=89Zr-TLX250%20PET/CT+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=89Zr-TLX250%20PET/CT+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Clear Cell Renal Cell Carcinoma",
+    "slug": "clear-cell-renal-cell-carcinoma"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06750419",
+      "title": "89Zr-TLX250 for PET/CT Imaging of ccRCC - ZIRCON-CP Study",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06750419",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42595485",
+        "title": "Clinical Trial Protocol for LPS-Boost: Intensified [(177)Lu]Lu-PSMA-617 Treatment for Patients with Metastatic Castration-Resistant Prostate Cancer with Low PSMA-Expressing Disease.",
+        "pubdate": "2026 Aug 13",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42595485/"
+      },
+      {
+        "pmid": "42587674",
+        "title": "Head-to-Head (18)F-rhPSMA-7.3 and (18)F-PSMA-1007 PET/CT in Recurrent Prostate Cancer: Pulmonary and Nodal Uptake as a Diagnostic Challenge.",
+        "pubdate": "2026 Aug 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42587674/"
+      },
+      {
+        "pmid": "42581700",
+        "title": "Evaluating the efficacy of prednisolone for silicosis with progressive massive fibrosis in Australia: an observational pilot study.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42581700/"
+      },
+      {
+        "pmid": "42564330",
+        "title": "Development and evaluation of a peptide-based radiotracer for targeting TIM-3 in preclinical models.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42564330/"
+      },
+      {
+        "pmid": "42563201",
+        "title": "Correction: [(18)F]FDG PET/CT performs better than CT in determining the bone biopsy site : randomized controlled clinical trial.",
+        "pubdate": "2026 Aug 6",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42563201/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

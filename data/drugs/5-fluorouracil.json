@@ -1,0 +1,151 @@
+{
+  "drug_name": "5-fluorouracil",
+  "slug": "5-fluorouracil",
+  "enriched_at": "2026-08-15T20:49:23Z",
+  "source_trial_ids": [
+    "NCT06625320"
+  ],
+  "sponsors": [
+    "Revolution Medicines, Inc."
+  ],
+  "identity": {
+    "pubchem_cid": 3385,
+    "iupac_name": "5-fluoro-1H-pyrimidine-2,4-dione",
+    "molecular_formula": "C4H3FN2O2",
+    "molecular_weight": "130.08",
+    "canonical_smiles": null,
+    "inchikey": "GHASVSINZRGABV-UHFFFAOYSA-N",
+    "rxnorm": {
+      "rxcui": "4492",
+      "generic_name": "fluorouracil",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL185",
+    "target_chembl_id": "CHEMBL1952",
+    "target_name": "Thymidylate synthase",
+    "mechanism_of_action_chembl": "Thymidylate synthase inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=5-fluorouracil+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=5-fluorouracil+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=5-fluorouracil+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Pancreatic Cancer",
+    "slug": "pancreatic-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06625320",
+      "title": "Phase 3 Study of Daraxonrasib (RMC-6236) in Patients With Previously Treated Metastatic Pancreatic Ductal Adenocarcinoma (PDAC)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06625320",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42584742",
+        "title": "Real-world clinical outcomes of patients with early-stage TNBC and BRCAm who were treated with adjuvant capecitabine in the United States.",
+        "pubdate": "2026 Aug 12",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42584742/"
+      },
+      {
+        "pmid": "42582989",
+        "title": "Reassessing the role of CEA in the treatment of rectal cancer in the era of TNT.",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42582989/"
+      },
+      {
+        "pmid": "42545685",
+        "title": "Addition of High-Dose Vitamin D3 to Standard Treatment in Patients With Metastatic Colorectal Cancer: The SOLARIS Randomized Clinical Trial (Alliance A021703).",
+        "pubdate": "2026 Aug 3",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42545685/"
+      },
+      {
+        "pmid": "42536436",
+        "title": "HopeFOL, or FOL of problems? Leucovorin for autistic symptoms.",
+        "pubdate": "2026 Aug 6",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42536436/"
+      },
+      {
+        "pmid": "42528791",
+        "title": "Comparison of Outcome of Surgical Treatment of Odontogenic Keratocyst Using 5-Fluorouracil and Liquid Nitrogen: A Randomized Clinical Trial.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42528791/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "FLOXURIDINE",
+        "chembl_id": "CHEMBL917",
+        "reason": "same target: Thymidylate synthase"
+      },
+      {
+        "name": "PEMETREXED DISODIUM",
+        "chembl_id": "CHEMBL2360464",
+        "reason": "same target: Thymidylate synthase"
+      },
+      {
+        "name": "CAPECITABINE",
+        "chembl_id": "CHEMBL1773",
+        "reason": "same target: Thymidylate synthase"
+      },
+      {
+        "name": "RALTITREXED",
+        "chembl_id": "CHEMBL225071",
+        "reason": "same target: Thymidylate synthase"
+      },
+      {
+        "name": "OSI-7904",
+        "chembl_id": "CHEMBL169896",
+        "reason": "same target: Thymidylate synthase"
+      },
+      {
+        "name": "NOLATREXED",
+        "chembl_id": "CHEMBL320775",
+        "reason": "same target: Thymidylate synthase"
+      },
+      {
+        "name": "DOXIFLURIDINE",
+        "chembl_id": "CHEMBL1130",
+        "reason": "same target: Thymidylate synthase"
+      },
+      {
+        "name": "TEGAFUR",
+        "chembl_id": "CHEMBL20883",
+        "reason": "same target: Thymidylate synthase"
+      },
+      {
+        "name": "PEMETREXED",
+        "chembl_id": "CHEMBL225072",
+        "reason": "same target: Thymidylate synthase"
+      },
+      {
+        "name": "PEMETREXED MONOHYDRATE",
+        "chembl_id": "CHEMBL5315053",
+        "reason": "same target: Thymidylate synthase"
+      }
+    ]
+  }
+}

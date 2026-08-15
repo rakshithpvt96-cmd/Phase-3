@@ -1,0 +1,145 @@
+{
+  "drug_name": "Avelumab",
+  "slug": "avelumab",
+  "enriched_at": "2026-08-15T20:53:29Z",
+  "source_trial_ids": [
+    "NCT03815643"
+  ],
+  "sponsors": [
+    "EMD Serono Research & Development Institute, Inc."
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1875534",
+      "generic_name": "avelumab",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL3833373",
+    "target_chembl_id": "CHEMBL3580522",
+    "target_name": "Programmed cell death 1 ligand 1",
+    "mechanism_of_action_chembl": "Programmed cell death 1 ligand 1 other"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action PD-L1 may be expressed on tumor cells and tumor-infiltrating immune cells and can contribute to the inhibition of the anti-tumor immune response in the tumor microenvironment. Binding of PD-L1 to the PD-1 and B7.1 receptors found on T cells and antigen presenting cells suppresses cytotoxic T-cell activity, T-cell proliferation, and cytokine production. Avelumab binds PD-L1 and blocks the interaction between PD-L1 and its receptors PD-1 and B7.1. This interaction releases the inhibitory effects of PD-L1 on the immune response resulting in the restoration of immune responses, including anti-tumor immune responses. Avelumab has also been shown to induce antibody-dependent cell-mediated cytotoxicity (ADCC) in vitro. In syngeneic mouse tumor models, blocking PD-L1 activity resulted in decreased tumor growth.",
+    "pharmacokinetics": "12.3 Pharmacokinetics The pharmacokinetics (PK) of avelumab as a single agent was characterized in patients who received BAVENCIO at doses ranging from 1 to 20 mg/kg every 2 weeks (0.1 to 2 times of the approved recommended dosage). The exposure of avelumab increased dose-proportionally from 10 to 20 mg/kg every 2 weeks. Steady-state concentrations of avelumab were reached after approximately 4 to 6 weeks (2 to 3 cycles) and the systemic accumulation was 1.25-fold. Distribution The mean volume of distribution at steady state after patients received a dose of 10 mg/kg was 4.7 L (coefficient of variation (% CV) of 44%). Elimination The primary elimination mechanism of avelumab is proteolytic degradation. The total systemic clearance (% CV) was 0.59 L/day (25%) and the terminal half-life (% CV) was 6.1 days (92%) in patients who received a dose of 10 mg/kg every 2 weeks. Avelumab clearance decreased over time in patients with MCC, with a mean maximal reduction (CV%) from baseline value of approximately 32% (36%), which is not considered clinically important. A change of avelumab clearance over time was not observed in patients with UC or with RCC. Specific Populations No clinically meaningful differences in pharmacokinetics were observed in the clearance of avelumab based on age; body weight; sex; race; PD-L1 status; tumor burden; mild to severe renal impairment (calculated creatinine clearance of 89 to 15 mL/min, as estimated by the Cockcroft-Gault formula), and mild or moderate hepatic impairment (bilirubin less than or equal to 3 times ULN). The effect of severe hepatic impairment (bilirubin greater than 3 times ULN) on the pharmacokinetics of avelumab is unknown. Drug Interactions BAVENCIO with axitinib: Avelumab PK was assessed following administration of BAVENCIO in combination with axitinib. There are no clinically meaningful differences in exposure of avelumab when administered in combination with axitinib.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE BAVENCIO is a programmed death ligand-1 (PD-L1) blocking antibody indicated for: Merkel Cell Carcinoma (MCC) Adults and pediatric patients 12 years and older with metastatic MCC. ( 1.1 , 14.1 ) Urothelial Carcinoma (UC) Maintenance treatment of patients with locally advanced or metastatic UC that has not progressed with first-line platinum-containing chemotherapy. ( 1.2 , 14.2 ) Patients with locally advanced or metastatic UC who: Have disease progression during or following platinum-containing chemotherapy. ( 1.2 , 14.2 ) Have disease progression within 12 months of neoadjuvant or adjuvant treatment with platinum-containing chemotherapy. ( 1.2 , 14.2 ) Renal Cell Carcinoma (RCC) First-line treatment, in combination with axitinib, of patients with advanced RCC. ( 1.3 , 14.3 ) 1.1 Metastatic Merkel Cell Carcinoma BAVENCIO (avelumab) is indicated for the treatment of adults and pediatric patients 12 years and older with metastatic Merkel cell carcinoma (MCC) [see Clinical Studies (14.1) ] . 1.2 Locally Advanced or Metastatic Urothelial Carcinoma First-Line Maintenance Treatment of Urothelial Carcinoma BAVENCIO is indicated for the maintenance treatment of patients with locally advanced or metastatic urothelial carcinoma (UC) that has not progressed with first-line platinum-containing chemotherapy [see Clinical Studies (14.2) ] . Previously-treated Urothelial Carcinoma BAVENCIO is indicated for the treatment of patients with locally advanced or metastatic urothelial carcinoma (UC) who: Have disease progression during or following platinum-containing chemotherapy Have disease progression within 12 months of neoadjuvant or adjuvant treatment with platinum-containing chemotherapy [see Clinical Studies (14.2) ]. 1.3 Advanced Renal Cell Carcinoma BAVENCIO in combination with axitinib is indicated for the first-line treatment of patients with advanced renal cell carcinoma (RCC) [see Clinical Studies (14.3) ] .",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "BAVENCIO"
+    ],
+    "openfda_generic_names": [
+      "AVELUMAB"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5cd725a1-2fa4-408a-a651-57a7b84b2118",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Solid Tumors",
+    "slug": "solid-tumors"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT03815643",
+      "title": "Avelumab Program Rollover Study",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT03815643",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42429125",
+        "title": "Real-World Use of Avelumab First-Line Maintenance for Locally Advanced or Metastatic Urothelial Carcinoma in Japan: Treatment Patterns, Effectiveness, and Safety.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42429125/"
+      },
+      {
+        "pmid": "42330318",
+        "title": "Phase I Study of Oncolytic Virus VV1 as Monotherapy or in Combination with Avelumab in Patients with Relapsed Refractory Solid Tumors.",
+        "pubdate": "2026 Aug 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42330318/"
+      },
+      {
+        "pmid": "42288434",
+        "title": "First-line Therapy for Metastatic Renal Cell Carcinoma: An Updated Network Meta-analysis using Final Follow-up Data.",
+        "pubdate": "2026 Jun 13",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42288434/"
+      },
+      {
+        "pmid": "42275082",
+        "title": "Avelumab Plus Methotrexate for Gestational Trophoblastic Tumors: The TROPHAMET Phase 1/2 Nonrandomized Clinical Trial.",
+        "pubdate": "2026 Jun 11",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42275082/"
+      },
+      {
+        "pmid": "41996022",
+        "title": "Infusion-Related Reactions from Immune Checkpoint Inhibitors in Solid Tumors: A Proportional and Network Meta-Analysis.",
+        "pubdate": "2026 May",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41996022/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "ATEZOLIZUMAB",
+        "chembl_id": "CHEMBL3707227",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      },
+      {
+        "name": "DURVALUMAB",
+        "chembl_id": "CHEMBL3301587",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      },
+      {
+        "name": "SUGEMALIMAB",
+        "chembl_id": "CHEMBL4594535",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      },
+      {
+        "name": "BINTRAFUSP ALFA",
+        "chembl_id": "CHEMBL4298024",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      },
+      {
+        "name": "ENVAFOLIMAB",
+        "chembl_id": "CHEMBL4298006",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      },
+      {
+        "name": "PACMILIMAB",
+        "chembl_id": "CHEMBL4297563",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      },
+      {
+        "name": "ERFONRILIMAB",
+        "chembl_id": "CHEMBL4650483",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      },
+      {
+        "name": "SOCAZOLIMAB",
+        "chembl_id": "CHEMBL4802221",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      },
+      {
+        "name": "ADEBRELIMAB",
+        "chembl_id": "CHEMBL4297828",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      },
+      {
+        "name": "COSIBELIMAB",
+        "chembl_id": "CHEMBL4297729",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      }
+    ]
+  }
+}

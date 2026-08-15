@@ -1,0 +1,114 @@
+{
+  "drug_name": "10-20 mg Aripiprazole oral solution film",
+  "slug": "10-20-mg-aripiprazole-oral-solution-film",
+  "enriched_at": "2026-08-15T20:48:39Z",
+  "source_trial_ids": [
+    "NCT06799559"
+  ],
+  "sponsors": [
+    "Qilu Pharmaceutical Co., Ltd."
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2697168",
+      "generic_name": "aripiprazole 10 MG Oral Film",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1112",
+    "target_chembl_id": "CHEMBL217",
+    "target_name": "D(2) dopamine receptor",
+    "mechanism_of_action_chembl": "Dopamine D2 receptor partial agonist"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=10-20%20mg%20Aripiprazole%20oral%20solution%20film+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=10-20%20mg%20Aripiprazole%20oral%20solution%20film+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=10-20%20mg%20Aripiprazole%20oral%20solution%20film+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Schizophrenia",
+    "slug": "schizophrenia"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06799559",
+      "title": "Study on the Efficacy and Safety of QLM1016 in Schizophrenia",
+      "status": "NOT_YET_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06799559",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "THIETHYLPERAZINE MALATE",
+        "chembl_id": "CHEMBL2359670",
+        "reason": "same target: D(2) dopamine receptor"
+      },
+      {
+        "name": "THIETHYLPERAZINE MALEATE",
+        "chembl_id": "CHEMBL3989478",
+        "reason": "same target: D(2) dopamine receptor"
+      },
+      {
+        "name": "FLUPHENAZINE ENANTHATE",
+        "chembl_id": "CHEMBL1200951",
+        "reason": "same target: D(2) dopamine receptor"
+      },
+      {
+        "name": "PERPHENAZINE",
+        "chembl_id": "CHEMBL567",
+        "reason": "same target: D(2) dopamine receptor"
+      },
+      {
+        "name": "BENZQUINAMIDE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1200707",
+        "reason": "same target: D(2) dopamine receptor"
+      },
+      {
+        "name": "PROCHLORPERAZINE",
+        "chembl_id": "CHEMBL728",
+        "reason": "same target: D(2) dopamine receptor"
+      },
+      {
+        "name": "FLUPHENAZINE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1448187",
+        "reason": "same target: D(2) dopamine receptor"
+      },
+      {
+        "name": "CABERGOLINE",
+        "chembl_id": "CHEMBL1201087",
+        "reason": "same target: D(2) dopamine receptor"
+      },
+      {
+        "name": "PROCHLORPERAZINE MALEATE",
+        "chembl_id": "CHEMBL1314751",
+        "reason": "same target: D(2) dopamine receptor"
+      },
+      {
+        "name": "FLUPHENAZINE DECANOATE",
+        "chembl_id": "CHEMBL1200854",
+        "reason": "same target: D(2) dopamine receptor"
+      }
+    ]
+  }
+}

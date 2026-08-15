@@ -1,0 +1,121 @@
+{
+  "drug_name": "0.75% Phentolamine Ophthalmic Solution",
+  "slug": "0-75-phentolamine-ophthalmic-solution",
+  "enriched_at": "2026-08-15T20:48:26Z",
+  "source_trial_ids": [
+    "NCT07140783"
+  ],
+  "sponsors": [
+    "Ocuphire Pharma, Inc."
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2677793",
+      "generic_name": "phentolamine 7.5 MG/ML Ophthalmic Solution",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1200873",
+    "target_chembl_id": "CHEMBL2095203",
+    "target_name": "Adrenergic receptor alpha",
+    "mechanism_of_action_chembl": "Adrenergic receptor alpha antagonist"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=0.75%25%20Phentolamine%20Ophthalmic%20Solution+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=0.75%25%20Phentolamine%20Ophthalmic%20Solution+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=0.75%25%20Phentolamine%20Ophthalmic%20Solution+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Vision Loss Night",
+    "slug": "vision-loss-night"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07140783",
+      "title": "OPI-NXYDLD-303 Safety and Efficacy of Phentolamine Ophthalmic Solution in Keratorefractive Surgery Participants With Decreased Mesopic Visual Acuity",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07140783",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "41743463",
+        "title": "Reversal of Pharmacologic Mydriasis in Pediatric Subjects with Ryzumvi (0.75% Phentolamine Ophthalmic Solution): A Post-Hoc Pooled Analysis from Three Randomized, Placebo-Controlled Phase 3 Trials.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41743463/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "ALSEROXYLON",
+        "chembl_id": "CHEMBL1201454",
+        "reason": "same target: Adrenergic receptor alpha"
+      },
+      {
+        "name": "ERGOLOID MESYLATES",
+        "chembl_id": "CHEMBL2311030",
+        "reason": "same target: Adrenergic receptor alpha"
+      },
+      {
+        "name": "ERGOTAMINE TARTRATE",
+        "chembl_id": "CHEMBL2448612",
+        "reason": "same target: Adrenergic receptor alpha"
+      },
+      {
+        "name": "NAPHAZOLINE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1706",
+        "reason": "same target: Adrenergic receptor alpha"
+      },
+      {
+        "name": "TETRAHYDROZOLINE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1200413",
+        "reason": "same target: Adrenergic receptor alpha"
+      },
+      {
+        "name": "OXYMETAZOLINE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1200791",
+        "reason": "same target: Adrenergic receptor alpha"
+      },
+      {
+        "name": "RAUWOLFIA SERPENTINA",
+        "chembl_id": "CHEMBL3559672",
+        "reason": "same target: Adrenergic receptor alpha"
+      },
+      {
+        "name": "PHENOXYBENZAMINE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1200787",
+        "reason": "same target: Adrenergic receptor alpha"
+      },
+      {
+        "name": "TOLAZOLINE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1689",
+        "reason": "same target: Adrenergic receptor alpha"
+      },
+      {
+        "name": "MOXISYLYTE",
+        "chembl_id": "CHEMBL159226",
+        "reason": "same target: Adrenergic receptor alpha"
+      }
+    ]
+  }
+}

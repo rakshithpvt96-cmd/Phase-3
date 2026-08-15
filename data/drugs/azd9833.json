@@ -1,0 +1,147 @@
+{
+  "drug_name": "AZD9833",
+  "slug": "azd9833",
+  "enriched_at": "2026-08-15T20:53:40Z",
+  "source_trial_ids": [
+    "NCT04711252"
+  ],
+  "sponsors": [
+    "AstraZeneca"
+  ],
+  "identity": {
+    "pubchem_cid": 134453496,
+    "iupac_name": "N-[1-(3-fluoropropyl)azetidin-3-yl]-6-[(6S,8R)-8-methyl-7-(2,2,2-trifluoroethyl)-3,6,8,9-tetrahydropyrazolo[4,5-f]isoquinolin-6-yl]pyridin-3-amine",
+    "molecular_formula": "C24H28F4N6",
+    "molecular_weight": "476.5",
+    "canonical_smiles": null,
+    "inchikey": "WDHOIABIERMLGY-CMJOXMDJSA-N",
+    "rxnorm": null
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4650365",
+    "target_chembl_id": "CHEMBL206",
+    "target_name": "Estrogen receptor",
+    "mechanism_of_action_chembl": "Estrogen receptor alpha degrader"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=AZD9833+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=AZD9833+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=AZD9833+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "ER-Positive HER2-Negative Breast Cancer",
+    "slug": "er-positive-her2-negative-breast-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04711252",
+      "title": "A Comparative Study of AZD9833 Plus Palbociclib Versus Anastrozole Plus Palbociclib in Patients With ER-Positive HER2 Negative Breast Cancer Who Have Not Received Any Systemic Treatment for Advanced Disease",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04711252",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42496653",
+        "title": "SERENA-6 visual patient-reported outcomes and safety: camizestrant for emerging ESR1m advanced breast cancer during first-line endocrine-based therapy.",
+        "pubdate": "2026 Aug 6",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42496653/"
+      },
+      {
+        "pmid": "41855596",
+        "title": "Identification, synthesis, and characterization of a unique N-glucuronide of an acid metabolite of camizestrant (AZD9833) in humans.",
+        "pubdate": "2026 Apr",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41855596/"
+      },
+      {
+        "pmid": "41570399",
+        "title": "Camizestrant in combination with capivasertib for women with ER-positive, HER2-negative advanced breast cancer: results from SERENA-1.",
+        "pubdate": "2026 Feb",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41570399/"
+      },
+      {
+        "pmid": "41560336",
+        "title": "Open-Label Study Assessing Relative and Absolute Bioavailability of Oral Camizestrant Formulations and Food Effects in Healthy Postmenopausal Women.",
+        "pubdate": "2026 Feb",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41560336/"
+      },
+      {
+        "pmid": "40700858",
+        "title": "The application of mechanistic absorption, distribution, metabolism and excretion studies and physiologically-based pharmacokinetic modeling in the discovery of the next-generation oral selective estrogen receptor degrader camizestrant to achieve an acceptable human pharmacokinetic profile.",
+        "pubdate": "2025 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40700858/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "POLYESTRADIOL PHOSPHATE",
+        "chembl_id": "CHEMBL1201477",
+        "reason": "same target: Estrogen receptor"
+      },
+      {
+        "name": "TAMOXIFEN CITRATE",
+        "chembl_id": "CHEMBL786",
+        "reason": "same target: Estrogen receptor"
+      },
+      {
+        "name": "ESTRONE",
+        "chembl_id": "CHEMBL1405",
+        "reason": "same target: Estrogen receptor"
+      },
+      {
+        "name": "ESTRADIOL",
+        "chembl_id": "CHEMBL135",
+        "reason": "same target: Estrogen receptor"
+      },
+      {
+        "name": "ESTRADIOL ACETATE",
+        "chembl_id": "CHEMBL1200430",
+        "reason": "same target: Estrogen receptor"
+      },
+      {
+        "name": "ESTRADIOL VALERATE",
+        "chembl_id": "CHEMBL1511",
+        "reason": "same target: Estrogen receptor"
+      },
+      {
+        "name": "CLOMIPHENE CITRATE",
+        "chembl_id": "CHEMBL3185958",
+        "reason": "same target: Estrogen receptor"
+      },
+      {
+        "name": "ETHINYL ESTRADIOL",
+        "chembl_id": "CHEMBL691",
+        "reason": "same target: Estrogen receptor"
+      },
+      {
+        "name": "DIENESTROL",
+        "chembl_id": "CHEMBL1018",
+        "reason": "same target: Estrogen receptor"
+      },
+      {
+        "name": "ESTRADIOL CYPIONATE",
+        "chembl_id": "CHEMBL1200973",
+        "reason": "same target: Estrogen receptor"
+      }
+    ]
+  }
+}

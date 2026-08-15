@@ -1,0 +1,154 @@
+{
+  "drug_name": "Atezolizumab",
+  "slug": "atezolizumab",
+  "enriched_at": "2026-08-15T20:52:56Z",
+  "source_trial_ids": [
+    "NCT04770896",
+    "NCT05425940"
+  ],
+  "sponsors": [
+    "Exelixis",
+    "Hoffmann-La Roche"
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1792776",
+      "generic_name": "atezolizumab",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL3707227",
+    "target_chembl_id": "CHEMBL3580522",
+    "target_name": "Programmed cell death 1 ligand 1",
+    "mechanism_of_action_chembl": "Programmed cell death 1 ligand 1 inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action PD L1 may be expressed on tumor cells and/or tumor infiltrating immune cells and can contribute to the inhibition of the anti-tumor immune response in the tumor microenvironment. Binding of PD L1 to the PD 1 and B7.1 receptors found on T cells and antigen presenting cells suppresses cytotoxic T-cell activity, T-cell proliferation and cytokine production. Atezolizumab is a monoclonal antibody that binds to PD L1 and blocks its interactions with both PD 1 and B7.1 receptors. This releases the PD L1/PD 1 mediated inhibition of the immune response, including activation of the anti-tumor immune response without inducing antibody-dependent cellular cytotoxicity. In syngeneic mouse tumor models, blocking PD L1 activity resulted in decreased tumor growth. In mouse models of cancer, dual inhibition of the PD-1/PD-L1 and MAPK pathways suppresses tumor growth and improves tumor immunogenicity through increased antigen presentation and T cell infiltration and activation compared to targeted therapy alone.",
+    "pharmacokinetics": "12.3 Pharmacokinetics Atezolizumab exposure increased dose proportionally over the dose range of 1 mg/kg to 20 mg/kg (0.07 to 1.33 times of the approved recommended doses), including a dose of 1200 mg administered every 3 weeks. Steady state was achieved after 6 to 9 weeks following multiple doses. The systemic accumulation ratio for every 2 weeks administration and every 3 weeks administration is 3.3- and 1.9- fold, respectively. Distribution The volume of distribution at steady state is 6.9 L. Elimination The clearance (CV%) is 0.2 L/day (29%) and the terminal half-life is 27 days. Atezolizumab clearance was found to decrease over time, with a mean maximal reduction (CV%) from baseline value of 17% (41%); however, the decrease in clearance was not considered clinically relevant. Specific Populations The following factors had no clinically significant effect on the systemic exposure of atezolizumab: age (2 to 89 years), body weight, sex, albumin levels, tumor burden, region or race, mild or moderate renal impairment [estimated glomerular filtration rate (eGFR) 30 to 89 mL/min/1.73 m 2 ], mild hepatic impairment (bilirubin ≤ ULN and AST > ULN or bilirubin > 1 to 1.5 × ULN and any AST), moderate hepatic impairment (bilirubin >1.5 to 3 × ULN and any AST), level of PD-L1 expression, or performance status. Pediatric Patients Atezolizumab serum concentrations with weight-based dosing at 15 mg/kg up to a maximum of 1200 mg every 3 weeks, in pediatric patients (2 years to <17 years) with relapsed or progressive solid tumors and lymphomas, are comparable to those of adult patients receiving 1200 mg every 3 weeks; while the exposure tended to be lower in pediatric patients less than 12 years old, this is not considered to be clinically relevant.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE TECENTRIQ is a programmed death-ligand 1 (PD-L1) blocking antibody indicated: Non-Small Cell Lung Cancer (NSCLC) as adjuvant treatment following resection and platinum-based chemotherapy for adult patients with Stage II to IIIA NSCLC whose tumors have PD-L1 expression on ≥ 1% of tumor cells, as determined by an FDA-authorized test. ( 1.1 , 14.1 ) for the first-line treatment of adult patients with metastatic NSCLC whose tumors have high PD-L1 expression (PD-L1 stained ≥ 50% of tumor cells [TC ≥ 50%] or PD-L1 stained tumor-infiltrating immune cells [IC] covering ≥ 10% of the tumor area [IC ≥ 10%] ), as determined by an FDA-authorized test, with no EGFR or ALK genomic tumor aberrations. ( 1.1 ) in combination with bevacizumab, paclitaxel, and carboplatin, for the first-line treatment of adult patients with metastatic non-squamous NSCLC with no EGFR or ALK genomic tumor aberrations. ( 1.1 ) in combination with paclitaxel protein-bound and carboplatin for the first-line treatment of adult patients with metastatic non-squamous NSCLC with no EGFR or ALK genomic tumor aberrations ( 1.1 ) for the treatment of adult patients with metastatic NSCLC who have disease progression during or following platinum-containing chemotherapy. Patients with EGFR or ALK genomic tumor aberrations should have disease progression on FDA-approved therapy for NSCLC harboring these aberrations prior to receiving TECENTRIQ. ( 1.1 ) Small Cell Lung Cancer (SCLC) in combination with carboplatin and etoposide, for the first-line treatment of adult patients with extensive-stage small cell lung cancer (ES-SCLC). ( 1.2 ) in combination with lurbinectedin, for the maintenance treatment of adult patients with ES-SCLC whose disease has not progressed after first-line induction therapy with TECENTRIQ or atezolizumab and hyaluronidase-tqjs, carboplatin and etoposide. ( 1.2 ) Hepatocellular Carcinoma (HCC) in combination with bevacizumab for the treatment of adult patients with unresectable or metastatic HCC who have not received prior systemic therapy. ( 1.3 ) Melanoma in combination with cobimetinib and vemurafenib for the treatment of adult patients with BRAF V600 mutation-positive unresectable or metastatic melanoma. ( 1.4 ) Alveolar Soft Part Sarcoma (ASPS) for the treatment of adult and pediatric patients 2 years of age and older with unresectable or metastatic ASPS. ( 1.5 ) Muscle Invasive Bladder Cancer (MIBC) as adjuvant treatment of adult patients with MIBC after cystectomy who have circulating tumor DNA molecular residual disease (ctDNA MRD) as determined by an FDA-authorized test. ( 1.6 ) 1.1 Non-Small Cell Lung Cancer TECENTRIQ, as a single-agent, is indicated as adjuvant treatment following resection and platinum-based chemotherapy for adult patients with stage II to IIIA [see Clinical Studies (14.1) ] non-small cell lung cancer (NSCLC) whose tumors have PD-L1 expression on ≥ 1% of tumor cells, as determined by an FDA-authorized test [see Dosage and Administration (2.1) ]. TECENTRIQ, as a single agent, is indicated for the first-line treatment of adult patients with metastatic non-small cell lung cancer (NSCLC) whose tumors have high PD-L1 expression (PD-L1 stained ≥ 50% of tumor cells [TC ≥ 50%] or PD-L1 stained tumor-infiltrating immune cells [IC] covering ≥ 10% of the tumor area [IC ≥ 10%]), as determined by an FDA-authorized test, with no EGFR or ALK genomic tumor aberrations [see Dosage and Administration (2.1) ]. TECENTRIQ, in combination with bevacizumab, paclitaxel, and carboplatin, is indicated for the first-line treatment of adult patients with metastatic non-squamous NSCLC with no EGFR or ALK genomic tumor aberrations. TECENTRIQ, in combination with paclitaxel protein-bound and carboplatin, is indicated for the first-line treatment of adult patients with metastatic non-squamous NSCLC with no EGFR or ALK genomic tumor aberrations. TECENTRIQ, as a single-agent, is indicated for the treatment of adult patients with metastatic NSCLC who have disease progression during or following platinum-containing chemotherapy. Patients with EGFR or ALK genomic tumor aberrations should have disease progression on FDA-approved therapy for NSCLC harboring these aberrations prior to receiving TECENTRIQ. 1.2 Small Cell Lung Cancer TECENTRIQ, in combination with carboplatin and etoposide, is indicated for the first-line treatment of adult patients with extensive-stage small cell lung cancer (ES-SCLC). TECENTRIQ, in combination with lurbinectedin, is indicated for the maintenance treatment of adult patients with ES-SCLC whose disease has not progressed after first-line induction therapy with TECENTRIQ or atezolizumab and hyaluronidase-tqjs, carboplatin and etoposide. 1.3 Hepatocellular Carcinoma TECENTRIQ, in combination with bevacizumab, is indicated for the treatment of adult patients with unresectable or metastatic hepatocellular carcinoma (HCC) who have not received prior systemic therapy. 1.4 Melanoma TECENTRIQ, in combination with cobimetinib and vemurafenib, is indicated for the treatment of adult patients with BRAF V600 mutation-positive unresectable or metastatic melanoma [see Dosage and Administration (2.1) ] . 1.5 Alveolar Soft Part Sarcoma TECENTRIQ, as a single agent, is indicated for the treatment of adult and pediatric patients 2 years of age and older with unresectable or metastatic alveolar soft part sarcoma (ASPS). 1.6 Muscle Invasive Bladder Cancer TECENTRIQ, as a single agent, is indicated as adjuvant treatment of adult patients with muscle invasive bladder cancer (MIBC) after cystectomy who have circulating tumor DNA molecular residual disease (ctDNA MRD) as determined by an FDA-authorized test [see Dosage and Administration (2.1) ] .",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "TECENTRIQ"
+    ],
+    "openfda_generic_names": [
+      "ATEZOLIZUMAB"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6fa682c9-a312-4932-9831-f286908660ee",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Colorectal Cancer",
+    "slug": "colorectal-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04770896",
+      "title": "A Study of Atezolizumab With Lenvatinib or Sorafenib Versus Lenvatinib or Sorafenib Alone in Hepatocellular Carcinoma Previously Treated With Atezolizumab and Bevacizumab",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04770896",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT05425940",
+      "title": "Study of XL092 + Atezolizumab vs Regorafenib in Participants With Metastatic Colorectal Cancer",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05425940",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42596020",
+        "title": "AI-assisted ascites volumetry for prognostic stratification in HCC treated with Atezolizumab/Bevacizumab.",
+        "pubdate": "2026 Aug 11",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42596020/"
+      },
+      {
+        "pmid": "42578486",
+        "title": "First-line systemic treatment for people with extensive-stage small cell lung cancer: a network meta-analysis.",
+        "pubdate": "2026 Aug 11",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42578486/"
+      },
+      {
+        "pmid": "42535736",
+        "title": "The weight of the enemy: Tumor burden as a tumor-agnostic prognostic marker and the limits of immunotherapy.",
+        "pubdate": "2026 Aug 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42535736/"
+      },
+      {
+        "pmid": "42518513",
+        "title": "Automated measurement of CD8+ T-cell distribution at the tumor epithelial-stromal interface is associated with NSCLC immunotherapy benefit and transcriptomic pathways.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42518513/"
+      },
+      {
+        "pmid": "42498486",
+        "title": "Personalized tumor-loaded monocyte-derived dendritic cell vaccination in combination with atezolizumab as maintenance treatment in extensive-stage small cell lung cancer (ES-SCLC): phase Ib-II VENEZOLUNG trial.",
+        "pubdate": "2026 Jul 24",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42498486/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "DURVALUMAB",
+        "chembl_id": "CHEMBL3301587",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      },
+      {
+        "name": "AVELUMAB",
+        "chembl_id": "CHEMBL3833373",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      },
+      {
+        "name": "SUGEMALIMAB",
+        "chembl_id": "CHEMBL4594535",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      },
+      {
+        "name": "BINTRAFUSP ALFA",
+        "chembl_id": "CHEMBL4298024",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      },
+      {
+        "name": "ENVAFOLIMAB",
+        "chembl_id": "CHEMBL4298006",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      },
+      {
+        "name": "PACMILIMAB",
+        "chembl_id": "CHEMBL4297563",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      },
+      {
+        "name": "ERFONRILIMAB",
+        "chembl_id": "CHEMBL4650483",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      },
+      {
+        "name": "SOCAZOLIMAB",
+        "chembl_id": "CHEMBL4802221",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      },
+      {
+        "name": "ADEBRELIMAB",
+        "chembl_id": "CHEMBL4297828",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      },
+      {
+        "name": "COSIBELIMAB",
+        "chembl_id": "CHEMBL4297729",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      }
+    ]
+  }
+}

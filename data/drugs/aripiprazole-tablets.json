@@ -1,0 +1,145 @@
+{
+  "drug_name": "Aripiprazole tablets",
+  "slug": "aripiprazole-tablets",
+  "enriched_at": "2026-08-15T20:52:22Z",
+  "source_trial_ids": [
+    "NCT06589817"
+  ],
+  "sponsors": [
+    "Chengdu Kanghong Pharmaceutical Group Co., Ltd."
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "378301",
+      "generic_name": "aripiprazole Oral Tablet",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1112",
+    "target_chembl_id": "CHEMBL217",
+    "target_name": "D(2) dopamine receptor",
+    "mechanism_of_action_chembl": "Dopamine D2 receptor partial agonist"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Aripiprazole%20tablets+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Aripiprazole%20tablets+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Aripiprazole%20tablets+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Acute Schizophrenia",
+    "slug": "acute-schizophrenia"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06589817",
+      "title": "A Double-Blind, Randomized Comparative Study of Carliprazine and Aripiprazole in Patients with Acute Schizophrenia",
+      "status": "NOT_YET_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06589817",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "35928793",
+        "title": "Healthcare Provider Engagement with a Novel Dashboard for Tracking Medication Ingestion: Impact on Treatment Decisions and Clinical Assessments for Adults with Schizophrenia.",
+        "pubdate": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35928793/"
+      },
+      {
+        "pmid": "35923658",
+        "title": "Participant Engagement and Symptom Improvement: Aripiprazole Tablets with Sensor for the Treatment of Schizophrenia.",
+        "pubdate": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35923658/"
+      },
+      {
+        "pmid": "35421287",
+        "title": "Phase 3b Multicenter, Prospective, Open-label Trial to Evaluate the Effects of a Digital Medicine System on Inpatient Psychiatric Hospitalization Rates for Adults With Schizophrenia.",
+        "pubdate": "2022 Apr 11",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35421287/"
+      },
+      {
+        "pmid": "33278020",
+        "title": "Metabolic Effects of Aripiprazole and Olanzapine Multiple-Dose Treatment in a Randomised Crossover Clinical Trial in Healthy Volunteers: Association with Pharmacogenetics.",
+        "pubdate": "2021 Feb",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33278020/"
+      },
+      {
+        "pmid": "31253613",
+        "title": "Hummingbird Study: a study protocol for a multicentre exploratory trial to assess the acceptance and performance of a digital medicine system in adults with schizophrenia, schizoaffective disorder or first-episode psychosis.",
+        "pubdate": "2019 Jun 27",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31253613/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "THIETHYLPERAZINE MALATE",
+        "chembl_id": "CHEMBL2359670",
+        "reason": "same target: D(2) dopamine receptor"
+      },
+      {
+        "name": "THIETHYLPERAZINE MALEATE",
+        "chembl_id": "CHEMBL3989478",
+        "reason": "same target: D(2) dopamine receptor"
+      },
+      {
+        "name": "FLUPHENAZINE ENANTHATE",
+        "chembl_id": "CHEMBL1200951",
+        "reason": "same target: D(2) dopamine receptor"
+      },
+      {
+        "name": "PERPHENAZINE",
+        "chembl_id": "CHEMBL567",
+        "reason": "same target: D(2) dopamine receptor"
+      },
+      {
+        "name": "BENZQUINAMIDE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1200707",
+        "reason": "same target: D(2) dopamine receptor"
+      },
+      {
+        "name": "PROCHLORPERAZINE",
+        "chembl_id": "CHEMBL728",
+        "reason": "same target: D(2) dopamine receptor"
+      },
+      {
+        "name": "FLUPHENAZINE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1448187",
+        "reason": "same target: D(2) dopamine receptor"
+      },
+      {
+        "name": "CABERGOLINE",
+        "chembl_id": "CHEMBL1201087",
+        "reason": "same target: D(2) dopamine receptor"
+      },
+      {
+        "name": "PROCHLORPERAZINE MALEATE",
+        "chembl_id": "CHEMBL1314751",
+        "reason": "same target: D(2) dopamine receptor"
+      },
+      {
+        "name": "FLUPHENAZINE DECANOATE",
+        "chembl_id": "CHEMBL1200854",
+        "reason": "same target: D(2) dopamine receptor"
+      }
+    ]
+  }
+}

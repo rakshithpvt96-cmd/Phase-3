@@ -1,0 +1,120 @@
+{
+  "drug_name": "Anastrozole placebo",
+  "slug": "anastrozole-placebo",
+  "enriched_at": "2026-08-15T20:51:35Z",
+  "source_trial_ids": [
+    "NCT04711252"
+  ],
+  "sponsors": [
+    "AstraZeneca"
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "84857",
+      "generic_name": "anastrozole",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1399",
+    "target_chembl_id": "CHEMBL1978",
+    "target_name": "Aromatase",
+    "mechanism_of_action_chembl": "Cytochrome P450 19A1 inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Anastrozole%20placebo+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Anastrozole%20placebo+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Anastrozole%20placebo+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "ER-Positive HER2-Negative Breast Cancer",
+    "slug": "er-positive-her2-negative-breast-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04711252",
+      "title": "A Comparative Study of AZD9833 Plus Palbociclib Versus Anastrozole Plus Palbociclib in Patients With ER-Positive HER2 Negative Breast Cancer Who Have Not Received Any Systemic Treatment for Advanced Disease",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04711252",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42442380",
+        "title": "Switching to camizestrant at ESR1 mutation emergence before disease progression during first-line treatment of hormone receptor-positive advanced breast cancer (SERENA-6): extended analysis of a double-blind, placebo-controlled, randomised, phase 3 trial.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42442380/"
+      },
+      {
+        "pmid": "42224659",
+        "title": "Fovinaciclib for First-Line Therapy of Advanced Breast Cancer: A Randomized Clinical Trial.",
+        "pubdate": "2026 Jun 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42224659/"
+      },
+      {
+        "pmid": "38747680",
+        "title": "Pulmonary Hypertension and Anastrozole (PHANTOM): A Randomized, Double-Blind, Placebo-Controlled Trial.",
+        "pubdate": "2024 Nov 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38747680/"
+      },
+      {
+        "pmid": "37182538",
+        "title": "Dalpiciclib plus letrozole or anastrozole versus placebo plus letrozole or anastrozole as first-line treatment in patients with hormone receptor-positive, HER2-negative advanced breast cancer (DAWNA-2): a multicentre, randomised, double-blind, placebo-controlled, phase 3 trial.",
+        "pubdate": "2023 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37182538/"
+      },
+      {
+        "pmid": "34661821",
+        "title": "Japanese subgroup analysis of the phase 3 MONARCH 3 study of abemaciclib as initial therapy for patients with hormone receptor-positive, human epidermal growth factor receptor 2-negative advanced breast cancer.",
+        "pubdate": "2022 Jan",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34661821/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "TESTOLACTONE",
+        "chembl_id": "CHEMBL1571",
+        "reason": "same target: Aromatase"
+      },
+      {
+        "name": "LETROZOLE",
+        "chembl_id": "CHEMBL1444",
+        "reason": "same target: Aromatase"
+      },
+      {
+        "name": "EXEMESTANE",
+        "chembl_id": "CHEMBL1200374",
+        "reason": "same target: Aromatase"
+      },
+      {
+        "name": "AMINOGLUTETHIMIDE",
+        "chembl_id": "CHEMBL488",
+        "reason": "same target: Aromatase"
+      },
+      {
+        "name": "FADROZOLE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL468419",
+        "reason": "same target: Aromatase"
+      }
+    ]
+  }
+}
