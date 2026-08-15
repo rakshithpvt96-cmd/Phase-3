@@ -51,7 +51,6 @@
 
   function matchesFilters(t) {
     if (state.windowFilter !== "all" && t.window !== state.windowFilter) return false;
-    if (state.signalFilter === "8k" && !(t.sec_8k_matches || []).length) return false;
     if (state.signalFilter === "results" && !t.has_results) return false;
     if (state.search) {
       const hay = [...(t.drug_names || []), t.sponsor, ...(t.conditions || []), t.nct_id, t.title]
@@ -147,12 +146,12 @@
   function renderStats(data) {
     const upcoming = data.trials.filter((t) => t.window === "upcoming").length;
     const lookback = data.trials.filter((t) => t.window === "lookback").length;
-    const withSignal = data.trials.filter((t) => (t.sec_8k_matches || []).length).length;
+    const withResults = data.trials.filter((t) => t.has_results).length;
     document.getElementById("stat-row").innerHTML = `
       <div class="stat-tile"><div class="n">${data.trials.length}</div><div class="label">Total tracked trials</div></div>
       <div class="stat-tile"><div class="n">${upcoming}</div><div class="label">Completing in next ${data.window_upcoming_days} days</div></div>
       <div class="stat-tile"><div class="n">${lookback}</div><div class="label">Completed ${data.window_lookback_days[0]}–${data.window_lookback_days[1]} days ago</div></div>
-      <div class="stat-tile"><div class="n">${withSignal}</div><div class="label">With SEC 8-K signal</div></div>
+      <div class="stat-tile"><div class="n">${withResults}</div><div class="label">With results posted</div></div>
     `;
   }
 
@@ -168,11 +167,10 @@
     }
     const segs = trials.slice(0, 60).map((t) => {
       const drug = escapeHtml((t.drug_names || [])[0] || t.title || "—");
-      const cls = (t.sec_8k_matches || []).length ? "sig" : t.window === "upcoming" ? "up" : "";
-      const flag = (t.sec_8k_matches || []).length ? " ⚠8-K" : "";
+      const cls = t.window === "upcoming" ? "up" : "";
       return `<span class="seg ${cls}"><span class="n">${drug}</span> ${escapeHtml(t.sponsor || "—")} · ${escapeHtml(
         t.primary_completion_date || "—"
-      )}${flag}</span><span class="sep">|</span>`;
+      )}</span><span class="sep">|</span>`;
     });
     track.innerHTML = segs.join("");
 

@@ -2,8 +2,8 @@
 """Offline fixture tests for scripts/fetch_catalysts.py.
 
 Monkeypatches the HTTP layer with a shape-accurate CT.gov API v2 study
-payload and a fake SEC EDGAR full-text-search response, since this sandbox
-cannot reach either host directly. Run with:
+payload and fake SEC ticker/XBRL/Stooq responses, since this sandbox
+cannot reach any of those hosts directly. Run with:
     python3 tests/test_fetch_fixtures.py
 """
 
@@ -82,24 +82,6 @@ def fake_http_get_json(url, params=None, headers=None, retries=3):
         if "pageToken" in params:
             return {"studies": [], "nextPageToken": None}
         return {"studies": [SAMPLE_STUDY, SAMPLE_STUDY_2], "nextPageToken": None}
-    if url == fc.EDGAR_FTS_BASE:
-        if "topline" in params.get("q", ""):
-            return {
-                "hits": {
-                    "hits": [
-                        {
-                            "_id": "0001193125-26-000123:acme-8k.htm",
-                            "_source": {
-                                "root_form": "8-K",
-                                "file_date": "2026-08-01",
-                                "display_names": ["ACME BIOPHARMA, INC. (CIK 0001234567)"],
-                                "ciks": ["0001234567"],
-                            },
-                        }
-                    ]
-                }
-            }
-        return {"hits": {"hits": []}}
     if url == fc.SEC_TICKERS_URL:
         return SEC_TICKERS_RESPONSE
     if url == f"{fc.SEC_XBRL_FACTS_BASE}/CIK0001234567.json":
@@ -145,16 +127,6 @@ def run():
     )
     check("normalize_sponsor handles None", fc.normalize_sponsor(None) == "")
 
-    edgar_cache = {}
-    matches = fc.edgar_search_sponsor("Acme Biopharma, Inc.", edgar_cache)
-    check("edgar_search_sponsor: found a topline 8-K match", len(matches) == 1)
-    check("edgar_search_sponsor: keyword recorded", matches[0]["keyword_matched"] == "topline")
-    check(
-        "edgar_search_sponsor: url built from cik + accession",
-        matches[0]["url"] == "https://www.sec.gov/Archives/edgar/data/1234567/000119312526000123/acme-8k.htm",
-    )
-    check("edgar_search_sponsor: caches by sponsor name", fc.edgar_search_sponsor("Acme Biopharma, Inc.", edgar_cache) is matches)
-
     check("canonical_key normalizes punctuation/case", fc.canonical_key("Cash Flow Therapeutics, Corp.") == "CASH FLOW THERAPEUTICS")
     check(
         "canonical_key matches differently-formatted SEC title",
@@ -195,10 +167,6 @@ def run():
     dataset, complete = fc.build_dataset()
     check("build_dataset: complete flag True", complete is True)
     check("build_dataset: two deduped trials across both windows", dataset["trial_count"] == 2)
-    check(
-        "build_dataset: sec_8k_matches attached to the trial",
-        len([t for t in dataset["trials"] if t["sponsor"] == "Acme Biopharma, Inc."][0]["sec_8k_matches"]) == 1,
-    )
     cash_trial = [t for t in dataset["trials"] if t["sponsor"] == "Cash Flow Therapeutics Corp"][0]
     check("build_dataset: matched sponsor's trial carries company_info", cash_trial["company_info"]["ticker"] == "CFTX")
     acme_trial = [t for t in dataset["trials"] if t["sponsor"] == "Acme Biopharma, Inc."][0]
