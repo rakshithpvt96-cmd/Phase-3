@@ -93,6 +93,7 @@ def http_get_json(url, params=None, headers=None, retries=RETRY_COUNT):
             if e.code == 429 or e.code >= 500:
                 time.sleep(SLEEP_BETWEEN_CALLS * (2 ** attempt))
                 continue
+            print(f"  ! request failed: {url} (HTTP {e.code})", file=sys.stderr)
             time.sleep(SLEEP_BETWEEN_CALLS)
             return None
         except (urllib.error.URLError, TimeoutError, json.JSONDecodeError) as e:
@@ -119,6 +120,10 @@ def http_get_text(url, params=None, headers=None, retries=RETRY_COUNT):
                 time.sleep(SLEEP_BETWEEN_CALLS)
                 return None
             last_err = e
+            if not (e.code == 429 or e.code >= 500):
+                print(f"  ! text request failed: {url} (HTTP {e.code})", file=sys.stderr)
+                time.sleep(SLEEP_BETWEEN_CALLS)
+                return None
             time.sleep(SLEEP_BETWEEN_CALLS * (2 ** attempt))
         except (urllib.error.URLError, TimeoutError) as e:
             last_err = e
