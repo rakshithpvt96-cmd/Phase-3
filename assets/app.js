@@ -170,7 +170,7 @@
     `;
   }
 
-  const TICKER_PX_PER_SECOND = 45; // comfortable reading speed, independent of content length
+  const TICKER_PX_PER_SECOND = 56; // 45 * 1.25, independent of content length
 
   function renderTicker(data) {
     const track = document.getElementById("ticker-track");
