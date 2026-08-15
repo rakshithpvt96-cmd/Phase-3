@@ -26,13 +26,6 @@
     });
   }
 
-  function computeSignals(t) {
-    const sig = [];
-    if ((t.sec_8k_matches || []).length) sig.push({ cls: "badge-8k", label: `[ ${t.sec_8k_matches.length} 8-K ]` });
-    if (t.has_results) sig.push({ cls: "badge-results", label: "[ RESULTS ]" });
-    return sig;
-  }
-
   const PILL_ICON =
     '<svg class="icon" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round"><rect x="3" y="9" width="18" height="6" rx="3" transform="rotate(-45 12 12)"/><line x1="12" y1="7.5" x2="12" y2="16.5" transform="rotate(-45 12 12)"/></svg>';
 
@@ -78,10 +71,6 @@
       av = (av || [])[0] || "";
       bv = (bv || [])[0] || "";
     }
-    if (key === "signals") {
-      av = computeSignals(a).length;
-      bv = computeSignals(b).length;
-    }
     av = av == null ? "" : av;
     bv = bv == null ? "" : bv;
     const cmp = typeof av === "number" && typeof bv === "number" ? av - bv : String(av).localeCompare(String(bv));
@@ -101,10 +90,7 @@
     emptyState.style.display = "none";
 
     tbody.innerHTML = rows
-      .map((t) => {
-        const signals = computeSignals(t)
-          .map((s) => `<span class="badge ${s.cls}">${s.label}</span>`)
-          .join(" ");
+      .map((t, idx) => {
         const windowBadge =
           t.window === "upcoming"
             ? '<span class="badge badge-upcoming">[ UPCOMING ]</span>'
@@ -113,13 +99,13 @@
           ? ` <span class="pill-meta">(${escapeHtml(t.primary_completion_date_type)})</span>`
           : "";
         return `<tr>
+          <td class="col-index">${idx + 1}</td>
           <td>${drugLinks(t)}</td>
           <td>${sponsorLink(t)}</td>
           <td>${escapeHtml((t.conditions || [])[0] || "—")}</td>
           <td>${escapeHtml(t.primary_completion_date || "—")}${dateType}</td>
           <td>${windowBadge}</td>
           <td>${escapeHtml(t.status || "—")}</td>
-          <td>${signals || "—"}</td>
           <td><a href="${escapeHtml(t.url || "#")}" target="_blank" rel="noopener">${escapeHtml(t.nct_id || "—")}</a></td>
         </tr>`;
       })
@@ -127,7 +113,7 @@
   }
 
   function setupSorting() {
-    document.querySelectorAll("#catalyst-table thead th").forEach((th) => {
+    document.querySelectorAll("#catalyst-table thead th[data-key]").forEach((th) => {
       th.addEventListener("click", () => {
         const key = th.dataset.key;
         if (state.sortKey === key) state.sortAsc = !state.sortAsc;

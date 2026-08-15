@@ -30,7 +30,7 @@
     <select id="window-filter">
       <option value="all">ALL WINDOWS</option>
       <option value="upcoming">UPCOMING (NEXT 14D)</option>
-      <option value="lookback">LOOKBACK (30-75D)</option>
+      <option value="lookback">LOOKBACK (1-90D)</option>
     </select>
     <select id="signal-filter">
       <option value="all">ALL TRIALS</option>
@@ -43,13 +43,13 @@
     <table id="catalyst-table">
       <thead>
         <tr>
+          <th class="col-index">#</th>
           <th data-key="drug_names">Drug(s)</th>
           <th data-key="sponsor">Sponsor</th>
           <th data-key="conditions">Condition</th>
           <th data-key="primary_completion_date">Primary Completion</th>
           <th data-key="window">Window</th>
           <th data-key="status">Status</th>
-          <th data-key="signals">Signals</th>
           <th data-key="nct_id">NCT ID</th>
         </tr>
       </thead>

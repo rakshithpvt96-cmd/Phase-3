@@ -235,6 +235,15 @@ thead th:hover { color: var(--amber-bright); background: var(--row-hover); }
 thead th.sorted::after { content: " \25BE"; color: var(--cyan); }
 thead th.sorted.asc::after { content: " \25B4"; color: var(--cyan); }
 
+.col-index {
+  width: 1%;
+  text-align: right;
+  color: var(--text-dim);
+  cursor: default;
+  font-variant-numeric: tabular-nums;
+}
+thead th.col-index:hover { color: var(--text-dim); background: var(--bg-inset); }
+
 tbody td {
   padding: 0.55rem 0.7rem;
   border-bottom: 1px solid var(--border);

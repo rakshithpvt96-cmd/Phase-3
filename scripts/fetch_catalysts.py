@@ -45,8 +45,8 @@ SEC_TICKERS_URL = "https://www.sec.gov/files/company_tickers.json"
 SEC_XBRL_FACTS_BASE = "https://data.sec.gov/api/xbrl/companyfacts"
 
 UPCOMING_WINDOW_DAYS = int(os.environ.get("UPCOMING_WINDOW_DAYS", "14"))
-LOOKBACK_MIN_DAYS = int(os.environ.get("LOOKBACK_MIN_DAYS", "30"))
-LOOKBACK_MAX_DAYS = int(os.environ.get("LOOKBACK_MAX_DAYS", "75"))
+LOOKBACK_MIN_DAYS = int(os.environ.get("LOOKBACK_MIN_DAYS", "1"))
+LOOKBACK_MAX_DAYS = int(os.environ.get("LOOKBACK_MAX_DAYS", "90"))
 EDGAR_LOOKBACK_DAYS = int(os.environ.get("EDGAR_LOOKBACK_DAYS", "120"))
 HISTORY_RETENTION = int(os.environ.get("HISTORY_RETENTION", "90"))
 REFRESH_DAYS_COMPANY = int(os.environ.get("REFRESH_DAYS_COMPANY", "7"))
