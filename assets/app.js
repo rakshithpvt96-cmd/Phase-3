@@ -26,6 +26,19 @@
     });
   }
 
+  function formatIst(isoString) {
+    // generated_at is UTC ("...Z"). IST is a fixed UTC+5:30 offset (no DST),
+    // so this is a plain add-and-format rather than a timezone lookup.
+    const d = new Date(isoString);
+    if (isNaN(d.getTime())) return isoString;
+    const ist = new Date(d.getTime() + (5 * 60 + 30) * 60 * 1000);
+    const pad = (n) => String(n).padStart(2, "0");
+    return (
+      `${ist.getUTCFullYear()}-${pad(ist.getUTCMonth() + 1)}-${pad(ist.getUTCDate())} ` +
+      `${pad(ist.getUTCHours())}:${pad(ist.getUTCMinutes())}:${pad(ist.getUTCSeconds())} IST`
+    );
+  }
+
   const PILL_ICON =
     '<svg class="icon" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round"><rect x="3" y="9" width="18" height="6" rx="3" transform="rotate(-45 12 12)"/><line x1="12" y1="7.5" x2="12" y2="16.5" transform="rotate(-45 12 12)"/></svg>';
 
@@ -200,7 +213,7 @@
       renderStats(data);
       renderTicker(data);
       document.getElementById("generated-meta").textContent = data.generated_at
-        ? `Last updated ${data.generated_at}`
+        ? `Last updated ${formatIst(data.generated_at)}`
         : "Not yet populated -- waiting on the first scheduled fetch.";
       render();
     } catch (err) {
