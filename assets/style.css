@@ -1,3 +1,9 @@
+html {
+  /* Bumps every rem-based size sitewide (tables, badges, stat tiles, etc.)
+     from a 16px baseline up to this -- the readability fix is one number. */
+  font-size: 19px;
+}
+
 :root {
   color-scheme: dark;
   --bg: #000000;
@@ -18,7 +24,7 @@
   --red: #ff3b3b;
   --red-bg: rgba(255, 59, 59, 0.12);
   --row-hover: #1a1400;
-  --font: ui-monospace, "SF Mono", "Cascadia Mono", "Roboto Mono", "IBM Plex Mono", Consolas, "Courier New", monospace;
+  --font: Consolas, "SF Mono", "Cascadia Mono", "Roboto Mono", "IBM Plex Mono", ui-monospace, "Courier New", monospace;
 }
 
 * { box-sizing: border-box; }
@@ -29,7 +35,8 @@ body {
   background: var(--bg);
   color: var(--text);
   line-height: 1.5;
-  font-size: 14px;
+  font-size: 1rem;
+  font-weight: 500;
 }
 
 a { color: var(--cyan); text-decoration: none; }
@@ -147,9 +154,9 @@ header.site-header .meta {
 }
 
 main {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 1.5rem;
+  width: 100%;
+  margin: 0;
+  padding: 1.5rem 2rem;
 }
 
 /* ---- controls ---- */
@@ -228,6 +235,15 @@ thead th:hover { color: var(--amber-bright); background: var(--row-hover); }
 thead th.sorted::after { content: " \25BE"; color: var(--cyan); }
 thead th.sorted.asc::after { content: " \25B4"; color: var(--cyan); }
 
+.col-index {
+  width: 1%;
+  text-align: right;
+  color: var(--text-dim);
+  cursor: default;
+  font-variant-numeric: tabular-nums;
+}
+thead th.col-index:hover { color: var(--text-dim); background: var(--bg-inset); }
+
 tbody td {
   padding: 0.55rem 0.7rem;
   border-bottom: 1px solid var(--border);
@@ -256,9 +272,9 @@ tbody tr:last-child td { border-bottom: none; }
 }
 
 footer.site-footer {
-  max-width: 1280px;
-  margin: 2rem auto 1rem;
-  padding: 1rem 1.5rem;
+  width: 100%;
+  margin: 2rem 0 1rem;
+  padding: 1rem 2rem;
   color: var(--text-dim);
   font-size: 0.75rem;
   border-top: 1px solid var(--border-bright);

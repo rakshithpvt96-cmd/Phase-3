@@ -45,8 +45,8 @@ SEC_TICKERS_URL = "https://www.sec.gov/files/company_tickers.json"
 SEC_XBRL_FACTS_BASE = "https://data.sec.gov/api/xbrl/companyfacts"
 
 UPCOMING_WINDOW_DAYS = int(os.environ.get("UPCOMING_WINDOW_DAYS", "14"))
-LOOKBACK_MIN_DAYS = int(os.environ.get("LOOKBACK_MIN_DAYS", "30"))
-LOOKBACK_MAX_DAYS = int(os.environ.get("LOOKBACK_MAX_DAYS", "75"))
+LOOKBACK_MIN_DAYS = int(os.environ.get("LOOKBACK_MIN_DAYS", "1"))
+LOOKBACK_MAX_DAYS = int(os.environ.get("LOOKBACK_MAX_DAYS", "90"))
 EDGAR_LOOKBACK_DAYS = int(os.environ.get("EDGAR_LOOKBACK_DAYS", "120"))
 HISTORY_RETENTION = int(os.environ.get("HISTORY_RETENTION", "90"))
 REFRESH_DAYS_COMPANY = int(os.environ.get("REFRESH_DAYS_COMPANY", "7"))
@@ -93,6 +93,7 @@ def http_get_json(url, params=None, headers=None, retries=RETRY_COUNT):
             if e.code == 429 or e.code >= 500:
                 time.sleep(SLEEP_BETWEEN_CALLS * (2 ** attempt))
                 continue
+            print(f"  ! request failed: {url} (HTTP {e.code})", file=sys.stderr)
             time.sleep(SLEEP_BETWEEN_CALLS)
             return None
         except (urllib.error.URLError, TimeoutError, json.JSONDecodeError) as e:
@@ -119,6 +120,10 @@ def http_get_text(url, params=None, headers=None, retries=RETRY_COUNT):
                 time.sleep(SLEEP_BETWEEN_CALLS)
                 return None
             last_err = e
+            if not (e.code == 429 or e.code >= 500):
+                print(f"  ! text request failed: {url} (HTTP {e.code})", file=sys.stderr)
+                time.sleep(SLEEP_BETWEEN_CALLS)
+                return None
             time.sleep(SLEEP_BETWEEN_CALLS * (2 ** attempt))
         except (urllib.error.URLError, TimeoutError) as e:
             last_err = e

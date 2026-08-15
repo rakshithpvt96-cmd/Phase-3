@@ -33,7 +33,7 @@ jobs:
       - name: Fetch Phase 3 catalysts (ClinicalTrials.gov + SEC EDGAR)
         env:
           CONTACT_EMAIL: ${{ vars.CONTACT_EMAIL || 'set-me@example.com' }}
-          SEC_EDGAR_USER_AGENT: ${{ vars.SEC_EDGAR_USER_AGENT }}
+          SEC_EDGAR_USER_AGENT: ${{ vars.SEC_EDGAR_USER_AGENT || format('biotech-phase3-catalyst-tracker {0}', vars.CONTACT_EMAIL || 'set-me@example.com') }}
           FETCH_SLEEP_SECONDS: ${{ vars.FETCH_SLEEP_SECONDS || '0.2' }}
         run: python3 scripts/fetch_catalysts.py
 
