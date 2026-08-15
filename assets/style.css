@@ -145,7 +145,6 @@ header.site-header .meta {
 .ticker-track .seg { padding: 0 1.25rem; color: var(--text-dim); }
 .ticker-track .seg .n { color: var(--amber); font-weight: 700; }
 .ticker-track .seg.up .n { color: var(--cyan); }
-.ticker-track .seg.sig .n { color: var(--red); }
 .ticker-track .sep { color: var(--border-bright); }
 
 @keyframes ticker-scroll {
@@ -299,7 +298,6 @@ footer.site-footer .icon { width: 12px; height: 12px; color: var(--border-bright
 
 .badge-upcoming { color: var(--cyan); background: var(--cyan-bg); }
 .badge-lookback { color: var(--amber); background: var(--amber-bg); }
-.badge-8k { color: var(--red); background: var(--red-bg); }
 .badge-results { color: var(--green); background: var(--green-bg); }
 
 /* ---- drug detail page ---- */

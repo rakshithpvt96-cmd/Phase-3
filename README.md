@@ -2,8 +2,9 @@
 
 A free, self-hosted biotech catalyst tracker: Phase 3, industry-sponsored
 clinical trials with primary completion dates in a "catalyst window" (about
-to read out, or likely sitting on unreleased topline data), cross-referenced
-against SEC EDGAR 8-K filings, plus a per-drug enrichment/detail page.
+to read out, or likely sitting on unreleased topline data), with sponsor
+identity resolved to a public ticker and approximate market cap where a
+match exists, plus a per-drug enrichment/detail page.
 
 Runs entirely on **GitHub Actions + GitHub Pages** — no backend server, no
 paid services, no API keys required (a couple of free optional keys raise

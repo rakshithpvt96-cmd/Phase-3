@@ -7,11 +7,10 @@ interventional trials in two windows:
   (b) primary completion between LOOKBACK_MIN_DAYS and LOOKBACK_MAX_DAYS
       days ago (likely sitting on unreleased topline data)
 
-Cross-references each trial's sponsor against SEC EDGAR full-text search
-for recent 8-Ks mentioning "topline" or "primary endpoint", writes the
-combined result to data/catalysts.json (with a dated snapshot in
-data/history/), and diffs against the previous run into
-data/new_since_last_run.json.
+Resolves each trial's sponsor to a public SEC filer (ticker, CIK,
+approximate market cap) where an exact match exists, writes the combined
+result to data/catalysts.json (with a dated snapshot in data/history/),
+and diffs against the previous run into data/new_since_last_run.json.
 
 This script does not import enrich_drugs.py (and vice versa) so either one
 can be changed independently -- they only share the on-disk JSON contract.
@@ -40,14 +39,12 @@ NEW_SINCE_FILE = DATA_DIR / "new_since_last_run.json"
 COMPANIES_DIR = DATA_DIR / "companies"
 
 CTGOV_BASE = "https://clinicaltrials.gov/api/v2/studies"
-EDGAR_FTS_BASE = "https://efts.sec.gov/LATEST/search-index"
 SEC_TICKERS_URL = "https://www.sec.gov/files/company_tickers.json"
 SEC_XBRL_FACTS_BASE = "https://data.sec.gov/api/xbrl/companyfacts"
 
 UPCOMING_WINDOW_DAYS = int(os.environ.get("UPCOMING_WINDOW_DAYS", "14"))
 LOOKBACK_MIN_DAYS = int(os.environ.get("LOOKBACK_MIN_DAYS", "1"))
 LOOKBACK_MAX_DAYS = int(os.environ.get("LOOKBACK_MAX_DAYS", "90"))
-EDGAR_LOOKBACK_DAYS = int(os.environ.get("EDGAR_LOOKBACK_DAYS", "120"))
 HISTORY_RETENTION = int(os.environ.get("HISTORY_RETENTION", "90"))
 REFRESH_DAYS_COMPANY = int(os.environ.get("REFRESH_DAYS_COMPANY", "7"))
 REFRESH_DAYS_TICKER_MAP = int(os.environ.get("REFRESH_DAYS_TICKER_MAP", "1"))
@@ -211,7 +208,8 @@ def parse_study(study, window_label):
 
 
 # ---------------------------------------------------------------------------
-# SEC EDGAR full-text search cross-reference
+# Sponsor name normalization (used to match trial sponsors against SEC's
+# company_tickers.json for market-cap resolution)
 # ---------------------------------------------------------------------------
 
 def normalize_sponsor(name):
@@ -224,66 +222,6 @@ def normalize_sponsor(name):
         flags=re.IGNORECASE,
     )
     return s.strip().rstrip(",.").strip()
-
-
-def edgar_hit_url(hit):
-    src = hit.get("_source", {}) or {}
-    hit_id = hit.get("_id") or ""
-    accession_no, _, filename = hit_id.partition(":")
-    ciks = src.get("ciks") or []
-    if ciks and accession_no and filename:
-        cik = ciks[0].lstrip("0") or "0"
-        acc_nodash = accession_no.replace("-", "")
-        return f"https://www.sec.gov/Archives/edgar/data/{cik}/{acc_nodash}/{filename}"
-    return None
-
-
-def edgar_search_sponsor(sponsor_name, cache):
-    if sponsor_name in cache:
-        return cache[sponsor_name]
-
-    norm = normalize_sponsor(sponsor_name)
-    if not norm:
-        cache[sponsor_name] = []
-        return []
-
-    start_date = (date.today() - timedelta(days=EDGAR_LOOKBACK_DAYS)).isoformat()
-    end_date = date.today().isoformat()
-
-    matches = []
-    for keyword in ("topline", "primary endpoint"):
-        params = {
-            "q": f'"{norm}" "{keyword}"',
-            "forms": "8-K",
-            "dateRange": "custom",
-            "startdt": start_date,
-            "enddt": end_date,
-        }
-        data = http_get_json(EDGAR_FTS_BASE, params=params, headers={"User-Agent": SEC_EDGAR_USER_AGENT})
-        hits = ((data or {}).get("hits") or {}).get("hits") or []
-        for h in hits:
-            src = h.get("_source", {}) or {}
-            matches.append(
-                {
-                    "form": src.get("root_form") or src.get("form") or "8-K",
-                    "filed_at": src.get("file_date"),
-                    "company": (src.get("display_names") or [None])[0],
-                    "url": edgar_hit_url(h),
-                    "keyword_matched": keyword,
-                }
-            )
-
-    seen = set()
-    deduped = []
-    for m in matches:
-        key = (m["company"], m["filed_at"], m["url"])
-        if key in seen:
-            continue
-        seen.add(key)
-        deduped.append(m)
-
-    cache[sponsor_name] = deduped[:5]
-    return cache[sponsor_name]
 
 
 # ---------------------------------------------------------------------------
@@ -474,17 +412,7 @@ def build_dataset():
         if t["nct_id"] and t["nct_id"] not in trials:
             trials[t["nct_id"]] = t
 
-    edgar_cache = {}
     sponsors = sorted({t["sponsor"] for t in trials.values() if t["sponsor"]})
-    print(f"Cross-referencing {len(sponsors)} sponsor(s) against SEC EDGAR full-text search...")
-    for i, sponsor in enumerate(sponsors, 1):
-        print(f"  [{i}/{len(sponsors)}] {sponsor}")
-        matches = edgar_search_sponsor(sponsor, edgar_cache)
-        for t in trials.values():
-            if t["sponsor"] == sponsor:
-                t["sec_8k_matches"] = matches
-    for t in trials.values():
-        t.setdefault("sec_8k_matches", [])
 
     print("Loading SEC company ticker list for market-cap matching...")
     ticker_map = load_sec_ticker_map()
