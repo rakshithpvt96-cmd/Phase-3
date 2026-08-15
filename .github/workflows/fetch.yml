@@ -32,6 +32,7 @@ jobs:
         env:
           CONTACT_EMAIL: ${{ vars.CONTACT_EMAIL || 'set-me@example.com' }}
           SEC_EDGAR_USER_AGENT: ${{ vars.SEC_EDGAR_USER_AGENT }}
+          FETCH_SLEEP_SECONDS: ${{ vars.FETCH_SLEEP_SECONDS || '0.2' }}
         run: python3 scripts/fetch_catalysts.py
 
       - name: Enrich new/changed drugs (PubChem, RxNorm, ChEMBL, openFDA, DailyMed, PubMed, MedlinePlus)
@@ -41,6 +42,7 @@ jobs:
           NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
           FDA_API_KEY: ${{ secrets.FDA_API_KEY }}
           MAX_DRUGS_PER_RUN: ${{ vars.MAX_DRUGS_PER_RUN || '40' }}
+          ENRICH_SLEEP_SECONDS: ${{ vars.ENRICH_SLEEP_SECONDS || '0.2' }}
         run: python3 scripts/enrich_drugs.py
 
       - name: Commit and push data changes
@@ -50,7 +52,21 @@ jobs:
           git add data/
           if git diff --cached --quiet; then
             echo "No data changes to commit."
-          else
-            git commit -m "chore: update catalyst and drug data ($(date -u +'%Y-%m-%d %H:%M UTC'))"
-            git push
+            exit 0
           fi
+          git commit -m "chore: update catalyst and drug data ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+          for attempt in 1 2 3 4 5; do
+            if git push; then
+              exit 0
+            fi
+            echo "Push rejected (attempt $attempt) -- rebasing onto latest ${{ github.ref_name }} and retrying..."
+            git fetch origin "${{ github.ref_name }}"
+            if ! git rebase "origin/${{ github.ref_name }}"; then
+              git rebase --abort
+              echo "Rebase failed; giving up."
+              exit 1
+            fi
+            sleep 3
+          done
+          echo "Failed to push after retries."
+          exit 1
