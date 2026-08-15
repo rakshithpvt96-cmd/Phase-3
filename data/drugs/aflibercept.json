@@ -1,0 +1,145 @@
+{
+  "drug_name": "Aflibercept",
+  "slug": "aflibercept",
+  "enriched_at": "2026-08-15T20:50:32Z",
+  "source_trial_ids": [
+    "NCT05885503"
+  ],
+  "sponsors": [
+    "RemeGen Co., Ltd."
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1232150",
+      "generic_name": "aflibercept",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1742982",
+    "target_chembl_id": "CHEMBL1783",
+    "target_name": "Vascular endothelial growth factor A, long form",
+    "mechanism_of_action_chembl": "Vascular endothelial growth factor A inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": "These highlights do not include all the information needed to use AHZANTIVE safely and effectively. See full prescribing information for AHZANTIVE. Initial U.S. Approval: 2024 1 INDICATIONS AND USAGE AHZANTIVE is indicated for the treatment of: 1.1 Neovascular (Wet) Age-Related Macular Degeneration (AMD) 1.2 Macular Edema Following Retinal Vein Occlusion (RVO) 1.3 Diabetic Macular Edema (DME) 1.4 Diabetic Retinopathy (DR) AHZANTIVE is a vascular endothelial growth factor (VEGF) inhibitor indicated for the treatment of patients with: Neovascular (Wet) Age-Related Macular Degeneration (AMD) (1.1) Macular Edema Following Retinal Vein Occlusion (RVO) (1.2) Diabetic Macular Edema (DME) (1.3) Diabetic Retinopathy (DR) (1.4)",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "AHZANTIVE"
+    ],
+    "openfda_generic_names": [
+      "AFLIBERCEPT-MRBB"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7d69a7b0-9511-c030-3b85-13b23f9d2980",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Diabetic Macular Edema",
+    "slug": "diabetic-macular-edema"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05885503",
+      "title": "Efficacy and Safety of RC28-E Versus Aflibercept in Diabetic Macular Edema",
+      "status": "UNKNOWN",
+      "url": "https://clinicaltrials.gov/study/NCT05885503",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42567877",
+        "title": "Aflibercept 8 mg in neovascular age-related macular degeneration and diabetic macular oedema: Translating clinical trials into clinical practice.",
+        "pubdate": "2026 Aug 7",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42567877/"
+      },
+      {
+        "pmid": "42518711",
+        "title": "Visual Gains with Faricimab vs Aflibercept 8 mg in Naïve Retinovascular Disease: Global Real-World Cases and Literature Review.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42518711/"
+      },
+      {
+        "pmid": "42495046",
+        "title": "Cost Analysis of Aflibercept 8 mg Versus Aflibercept 2 mg for the Treatment of Diabetic Macular Edema in the PHOTON Trial.",
+        "pubdate": "2026 Jul 21",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42495046/"
+      },
+      {
+        "pmid": "42492647",
+        "title": "Comparison of Retinal Nonperfusion in Diabetic Macular Edema Treated with Brolucizumab Versus Aflibercept: A KINGFISHER Trial Analysis.",
+        "pubdate": "2026 Jul 23",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42492647/"
+      },
+      {
+        "pmid": "42486229",
+        "title": "Faricimab for High-Need Aflibercept 2 mg Treated Neovascular Age-Related Macular Degeneration.",
+        "pubdate": "2026 Jul 22",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42486229/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "PEGAPTANIB SODIUM",
+        "chembl_id": "CHEMBL1201421",
+        "reason": "same target: Vascular endothelial growth factor A, long form"
+      },
+      {
+        "name": "RANIBIZUMAB",
+        "chembl_id": "CHEMBL1201825",
+        "reason": "same target: Vascular endothelial growth factor A, long form"
+      },
+      {
+        "name": "BEVACIZUMAB",
+        "chembl_id": "CHEMBL1201583",
+        "reason": "same target: Vascular endothelial growth factor A, long form"
+      },
+      {
+        "name": "BEVACIZUMAB 111IN",
+        "chembl_id": "CHEMBL3707253",
+        "reason": "same target: Vascular endothelial growth factor A, long form"
+      },
+      {
+        "name": "MUPARFOSTAT",
+        "chembl_id": "CHEMBL4297163",
+        "reason": "same target: Vascular endothelial growth factor A, long form"
+      },
+      {
+        "name": "CONBERCEPT",
+        "chembl_id": "CHEMBL2108313",
+        "reason": "same target: Vascular endothelial growth factor A, long form"
+      },
+      {
+        "name": "BROLUCIZUMAB",
+        "chembl_id": "CHEMBL3707357",
+        "reason": "same target: Vascular endothelial growth factor A, long form"
+      },
+      {
+        "name": "VANUCIZUMAB",
+        "chembl_id": "CHEMBL3545259",
+        "reason": "same target: Vascular endothelial growth factor A, long form"
+      },
+      {
+        "name": "FARICIMAB",
+        "chembl_id": "CHEMBL4297750",
+        "reason": "same target: Vascular endothelial growth factor A, long form"
+      },
+      {
+        "name": "ABICIPAR PEGOL",
+        "chembl_id": "CHEMBL4297684",
+        "reason": "same target: Vascular endothelial growth factor A, long form"
+      }
+    ]
+  }
+}

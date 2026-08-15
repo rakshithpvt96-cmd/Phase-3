@@ -1,0 +1,145 @@
+{
+  "drug_name": "3K3A-APC",
+  "slug": "3k3a-apc",
+  "enriched_at": "2026-08-15T20:49:11Z",
+  "source_trial_ids": [
+    "NCT05484154"
+  ],
+  "sponsors": [
+    "ZZ Biotech, LLC"
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1305513",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL37676",
+    "target_chembl_id": "CHEMBL1871",
+    "target_name": "Androgen receptor",
+    "mechanism_of_action_chembl": "Androgen Receptor antagonist"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=3K3A-APC+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=3K3A-APC+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=3K3A-APC+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Ischemic Stroke",
+    "slug": "ischemic-stroke"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05484154",
+      "title": "Efficacy and Safety Evaluation of 3K3A-APC in Ischemic Stroke",
+      "status": "WITHDRAWN",
+      "url": "https://clinicaltrials.gov/study/NCT05484154",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "35890396",
+        "title": "Transport Mechanisms at the Blood-Brain Barrier and in Cellular Compartments of the Neurovascular Unit: Focus on CNS Delivery of Small Molecule Drugs.",
+        "pubdate": "2022 Jul 20",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35890396/"
+      },
+      {
+        "pmid": "34289710",
+        "title": "Cerebroprotection for Acute Ischemic Stroke: Looking Ahead.",
+        "pubdate": "2021 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34289710/"
+      },
+      {
+        "pmid": "32548551",
+        "title": "COVID-19 hypothesis: Activated protein C for therapy of virus-induced pathologic thromboinflammation.",
+        "pubdate": "2020 May",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32548551/"
+      },
+      {
+        "pmid": "30450637",
+        "title": "Final Results of the RHAPSODY Trial: A Multi-Center, Phase 2 Trial Using a Continual Reassessment Method to Determine the Safety and Tolerability of 3K3A-APC, A Recombinant Variant of Human Activated Protein C, in Combination with Tissue Plasminogen Activator, Mechanical Thrombectomy or both in Moderate to Severe Acute Ischemic Stroke.",
+        "pubdate": "2019 Jan",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30450637/"
+      },
+      {
+        "pmid": "29866816",
+        "title": "Activated protein C, protease activated receptor 1, and neuroprotection.",
+        "pubdate": "2018 Jul 12",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29866816/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "OXYMETHOLONE",
+        "chembl_id": "CHEMBL1200585",
+        "reason": "same target: Androgen receptor"
+      },
+      {
+        "name": "FLUTAMIDE",
+        "chembl_id": "CHEMBL806",
+        "reason": "same target: Androgen receptor"
+      },
+      {
+        "name": "NILUTAMIDE",
+        "chembl_id": "CHEMBL1274",
+        "reason": "same target: Androgen receptor"
+      },
+      {
+        "name": "DROMOSTANOLONE PROPIONATE",
+        "chembl_id": "CHEMBL1201048",
+        "reason": "same target: Androgen receptor"
+      },
+      {
+        "name": "BICALUTAMIDE",
+        "chembl_id": "CHEMBL409",
+        "reason": "same target: Androgen receptor"
+      },
+      {
+        "name": "METHYLTESTOSTERONE",
+        "chembl_id": "CHEMBL1395",
+        "reason": "same target: Androgen receptor"
+      },
+      {
+        "name": "ETHYLESTRENOL",
+        "chembl_id": "CHEMBL1200623",
+        "reason": "same target: Androgen receptor"
+      },
+      {
+        "name": "STANOZOLOL",
+        "chembl_id": "CHEMBL2079587",
+        "reason": "same target: Androgen receptor"
+      },
+      {
+        "name": "TESTOSTERONE PROPIONATE",
+        "chembl_id": "CHEMBL1170",
+        "reason": "same target: Androgen receptor"
+      },
+      {
+        "name": "TESTOSTERONE ENANTHATE",
+        "chembl_id": "CHEMBL1200335",
+        "reason": "same target: Androgen receptor"
+      }
+    ]
+  }
+}

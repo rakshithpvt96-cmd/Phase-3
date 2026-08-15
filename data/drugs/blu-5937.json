@@ -1,0 +1,76 @@
+{
+  "drug_name": "BLU-5937",
+  "slug": "blu-5937",
+  "enriched_at": "2026-08-15T20:55:17Z",
+  "source_trial_ids": [
+    "NCT05600777"
+  ],
+  "sponsors": [
+    "Bellus Health Inc. - a GSK company"
+  ],
+  "identity": {
+    "pubchem_cid": 76955630,
+    "iupac_name": "methyl (2S)-2-[[2-[2,6-difluoro-4-(methylcarbamoyl)phenyl]-7-methylimidazo[1,2-a]pyridin-3-yl]methyl]morpholine-4-carboxylate",
+    "molecular_formula": "C23H24F2N4O4",
+    "molecular_weight": "458.5",
+    "canonical_smiles": null,
+    "inchikey": "SEHLMRJSQFAPCJ-HNNXBMFYSA-N",
+    "rxnorm": {
+      "rxcui": "352753",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL5207245",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=BLU-5937+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=BLU-5937+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=BLU-5937+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Cough",
+    "slug": "cough"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05600777",
+      "title": "A 24-Week Study of the Efficacy and Safety of BLU-5937 in Adults With Refractory Chronic Cough",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05600777",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "32661659",
+        "title": "P2X3-Receptor Antagonists as Potential Antitussives: Summary of Current Clinical Trials in Chronic Cough.",
+        "pubdate": "2020 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32661659/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

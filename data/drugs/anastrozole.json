@@ -1,0 +1,126 @@
+{
+  "drug_name": "Anastrozole",
+  "slug": "anastrozole",
+  "enriched_at": "2026-08-15T20:51:23Z",
+  "source_trial_ids": [
+    "NCT04711252"
+  ],
+  "sponsors": [
+    "AstraZeneca"
+  ],
+  "identity": {
+    "pubchem_cid": 2187,
+    "iupac_name": "2-[3-(2-cyanopropan-2-yl)-5-(1,2,4-triazol-1-ylmethyl)phenyl]-2-methylpropanenitrile",
+    "molecular_formula": "C17H19N5",
+    "molecular_weight": "293.4",
+    "canonical_smiles": null,
+    "inchikey": "YBBLVLTVTVSKRW-UHFFFAOYSA-N",
+    "rxnorm": {
+      "rxcui": "84857",
+      "generic_name": "anastrozole",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1399",
+    "target_chembl_id": "CHEMBL1978",
+    "target_name": "Aromatase",
+    "mechanism_of_action_chembl": "Cytochrome P450 19A1 inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action The growth of many cancers of the breast is stimulated or maintained by estrogens. In postmenopausal women, estrogens are mainly derived from the action of the aromatase enzyme, which converts adrenal androgens (primarily androstenedione and testosterone) to estrone and estradiol. The suppression of estrogen biosynthesis in peripheral tissues and in the cancer tissue itself can therefore be achieved by specifically inhibiting the aromatase enzyme. Anastrozole is a selective non-steroidal aromatase inhibitor. It significantly lowers serum estradiol concentrations and has no detectable effect on formation of adrenal corticosteroids or aldosterone.",
+    "pharmacokinetics": "12.3 Pharmacokinetics Absorption Inhibition of aromatase activity is primarily due to anastrozole, the parent drug. Absorption of anastrozole is rapid and maximum plasma concentrations typically occur within 2 hours of dosing under fasted conditions. Studies with radiolabeled drug have demonstrated that orally administered anastrozole is well absorbed into the systemic circulation. Food reduces the rate but not the overall extent of anastrozole absorption. The mean C max of anastrozole decreased by 16% and the median T max was delayed from 2 to 5 hours when anastrozole was administered 30 minutes after food. The pharmacokinetics of anastrozole are linear over the dose range of 1 to 20 mg, and do not change with repeated dosing. The pharmacokinetics of anastrozole were similar in patients and healthy volunteers. Distribution Steady-state plasma levels are approximately 3- to 4-fold higher than levels observed after a single dose of anastrozole. Plasma concentrations approach steady-state levels at about 7 days of once daily dosing. Anastrozole is 40% bound to plasma proteins in the therapeutic range. Metabolism Metabolism of anastrozole occurs by N-dealkylation, hydroxylation and glucuronidation. Three metabolites of anastrozole (triazole, a glucuronide conjugate of hydroxy-anastrozole, and a glucuronide conjugate of anastrozole itself) have been identified in human plasma and urine. The major circulating metabolite of anastrozole, triazole, lacks pharmacologic activity. Anastrozole inhibited reactions catalyzed by cytochrome P450 1A2, 2C8/9, and 3A4 in vitro with Ki values which were approximately 30 times higher than the mean steady-state Cmax values observed following a 1 mg daily dose. Anastrozole had no inhibitory effect on reactions catalyzed by cytochrome P450 2A6 or 2D6 in vitro. Administration of a single 30 mg/kg or multiple 10 mg/kg doses of anastrozole to healthy subjects had no effect on the clearance of antipyrine or urinary recovery of antipyrine metabolites. Excretion Eighty-five percent of radiolabeled anastrozole was recovered in feces and urine. Hepatic metabolism accounts for approximately 85% of anastrozole elimination. Renal elimination accounts for approximately 10% of total clearance. The mean elimination half-life of anastrozole is 50 hours. Effect of Gender and Age Anastrozole pharmacokinetics have been investigated in postmenopausal female volunteers and patients with breast cancer. No age-related effects were seen over the range <50 to >80 years. Effect of Race Estradiol and estrone sulfate serum levels were similar between Japanese and Caucasian postmenopausal women who received 1 mg of anastrozole daily for 16 days. Anastrozole mean steady-state minimum plasma concentrations in Caucasian and Japanese postmenopausal women were 25.7 and 30.4 ng/mL, respectively. Effect of Renal Impairment Anastrozole pharmacokinetics have been investigated in subjects with renal impairment. Anastrozole renal clearance decreased proportionally with creatinine clearance and was approximately 50% lower in volunteers with severe renal impairment (creatinine clearance < 30 mL/min/1.73m2) compared to controls. Total clearance was only reduced 10%. No dosage adjustment is needed for renal impairment. [see Dosage and Administration ( 2.1) and Use in Specific Populations ( 8.6 )] Effect of Hepatic Impairment Anastrozole pharmacokinetics have been investigated in subjects with hepatic cirrhosis related to alcohol abuse. The apparent oral clearance (CL/F) of anastrozole was approximately 30% lower in subjects with stable hepatic cirrhosis than in control subjects with normal liver function. However, these plasma concentrations were still with the range of values observed in normal subjects. The effect of severe hepatic impairment was not studied. No dose adjustment is necessary for stable hepatic cirrhosis. [see Dosage and Administration ( 2.2 ) and Use in Specific Populations ( 8.7 )]",
+    "indications_and_usage": "1 INDICATIONS AND USAGE Anastrozole is an aromatase inhibitor indicated for: Adjuvant treatment of postmenopausal women with hormone receptor-positive early breast cancer ( 1.1 ) First-line treatment of postmenopausal women with hormone receptor-positive or hormone receptor unknown locally advanced or metastatic breast cancer ( 1.2 ) Treatment of advanced breast cancer in postmenopausal women with disease progression following tamoxifen therapy. Patients with ER-negative disease and patients who did not respond to previous tamoxifen therapy rarely responded to anastrozole ( 1.3 ) 1.1 Adjuvant Treatment Anastrozole tablets are indicated for adjuvant treatment of postmenopausal women with hormone receptor-positive early breast cancer. 1.2 First-Line Treatment Anastrozole tablets are indicated for the first-line treatment of postmenopausal women with hormone receptor-positive or hormone receptor unknown locally advanced or metastatic breast cancer. 1.3 Second-Line Treatment Anastrozole tablets are indicated for the treatment of advanced breast cancer in postmenopausal women with disease progression following tamoxifen therapy. Patients with ER-negative disease and patients who did not respond to previous tamoxifen therapy rarely responded to anastrozole tablets.",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "Anastrozole"
+    ],
+    "openfda_generic_names": [
+      "ANASTROZOLE"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5d4f90d4-e535-4681-a863-3d774a2064e6",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "ER-Positive HER2-Negative Breast Cancer",
+    "slug": "er-positive-her2-negative-breast-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04711252",
+      "title": "A Comparative Study of AZD9833 Plus Palbociclib Versus Anastrozole Plus Palbociclib in Patients With ER-Positive HER2 Negative Breast Cancer Who Have Not Received Any Systemic Treatment for Advanced Disease",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04711252",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42442380",
+        "title": "Switching to camizestrant at ESR1 mutation emergence before disease progression during first-line treatment of hormone receptor-positive advanced breast cancer (SERENA-6): extended analysis of a double-blind, placebo-controlled, randomised, phase 3 trial.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42442380/"
+      },
+      {
+        "pmid": "42384406",
+        "title": "Lumpectomy Margins and Local Recurrence in DCIS: Results From the NRG Oncology/NSABP B-35 Randomized Clinical Trial.",
+        "pubdate": "2026 Jul 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42384406/"
+      },
+      {
+        "pmid": "42224659",
+        "title": "Fovinaciclib for First-Line Therapy of Advanced Breast Cancer: A Randomized Clinical Trial.",
+        "pubdate": "2026 Jun 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42224659/"
+      },
+      {
+        "pmid": "41686189",
+        "title": "Cost-Effectiveness Analysis of Hormone Therapy for Breast Cancer in Japan.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41686189/"
+      },
+      {
+        "pmid": "41419364",
+        "title": "Strategies to Mitigate Breast-related Adverse Events in Patients with High-risk Biochemically Recurrent Prostate Cancer Receiving Enzalutamide Monotherapy: Perspectives and Challenges.",
+        "pubdate": "2026 Jan",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41419364/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "TESTOLACTONE",
+        "chembl_id": "CHEMBL1571",
+        "reason": "same target: Aromatase"
+      },
+      {
+        "name": "LETROZOLE",
+        "chembl_id": "CHEMBL1444",
+        "reason": "same target: Aromatase"
+      },
+      {
+        "name": "EXEMESTANE",
+        "chembl_id": "CHEMBL1200374",
+        "reason": "same target: Aromatase"
+      },
+      {
+        "name": "AMINOGLUTETHIMIDE",
+        "chembl_id": "CHEMBL488",
+        "reason": "same target: Aromatase"
+      },
+      {
+        "name": "FADROZOLE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL468419",
+        "reason": "same target: Aromatase"
+      }
+    ]
+  }
+}

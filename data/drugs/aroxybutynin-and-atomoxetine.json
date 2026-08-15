@@ -1,0 +1,145 @@
+{
+  "drug_name": "Aroxybutynin and Atomoxetine",
+  "slug": "aroxybutynin-and-atomoxetine",
+  "enriched_at": "2026-08-15T20:52:45Z",
+  "source_trial_ids": [
+    "NCT06566820"
+  ],
+  "sponsors": [
+    "Apnimed"
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "38400",
+      "generic_name": "atomoxetine",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1702",
+    "target_chembl_id": "CHEMBL222",
+    "target_name": "Sodium-dependent noradrenaline transporter",
+    "mechanism_of_action_chembl": "Norepinephrine transporter inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Aroxybutynin%20and%20Atomoxetine+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Aroxybutynin%20and%20Atomoxetine+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Aroxybutynin%20and%20Atomoxetine+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "OSA",
+    "slug": "osa"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06566820",
+      "title": "Continuation Protocol for Obstructive Sleep Apnea (OSA)",
+      "status": "ENROLLING_BY_INVITATION",
+      "url": "https://clinicaltrials.gov/study/NCT06566820",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42247851",
+        "title": "Content validity and clinically meaningful change on patient-reported outcome measures for use in obstructive sleep apnea.",
+        "pubdate": "2026 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42247851/"
+      },
+      {
+        "pmid": "42148507",
+        "title": "Mechanisms of upper airway muscle control in sleep reveal therapeutic targets for obstructive sleep apnea.",
+        "pubdate": "2026 Jul 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42148507/"
+      },
+      {
+        "pmid": "42148495",
+        "title": "Aroxybutynin and atomoxetine (AD109) for obstructive sleep apnea: a randomized phase 3 trial (SynAIRgy).",
+        "pubdate": "2026 Jul 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42148495/"
+      },
+      {
+        "pmid": "41050845",
+        "title": "Aroxybutynin and atomoxetine (AD109) for the treatment of obstructive sleep apnea: Rationale, design and baseline characteristics of the phase 3 clinical trials.",
+        "pubdate": "2025 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41050845/"
+      },
+      {
+        "pmid": "37812772",
+        "title": "The Combination of Aroxybutynin and Atomoxetine in the Treatment of Obstructive Sleep Apnea (MARIPOSA): A Randomized Controlled Trial.",
+        "pubdate": "2023 Dec 15",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37812772/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "PSEUDOEPHEDRINE POLISTIREX",
+        "chembl_id": "CHEMBL1201483",
+        "reason": "same target: Sodium-dependent noradrenaline transporter"
+      },
+      {
+        "name": "BETHANIDINE SULFATE",
+        "chembl_id": "CHEMBL2110368",
+        "reason": "same target: Sodium-dependent noradrenaline transporter"
+      },
+      {
+        "name": "DESVENLAFAXINE",
+        "chembl_id": "CHEMBL1118",
+        "reason": "same target: Sodium-dependent noradrenaline transporter"
+      },
+      {
+        "name": "PHENYLPROPANOLAMINE POLISTIREX",
+        "chembl_id": "CHEMBL1201535",
+        "reason": "same target: Sodium-dependent noradrenaline transporter"
+      },
+      {
+        "name": "MAPROTILINE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1237135",
+        "reason": "same target: Sodium-dependent noradrenaline transporter"
+      },
+      {
+        "name": "GUANADREL SULFATE",
+        "chembl_id": "CHEMBL3184143",
+        "reason": "same target: Sodium-dependent noradrenaline transporter"
+      },
+      {
+        "name": "PHENTERMINE",
+        "chembl_id": "CHEMBL1574",
+        "reason": "same target: Sodium-dependent noradrenaline transporter"
+      },
+      {
+        "name": "DOXEPIN HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1628234",
+        "reason": "same target: Sodium-dependent noradrenaline transporter"
+      },
+      {
+        "name": "DESIPRAMINE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1696",
+        "reason": "same target: Sodium-dependent noradrenaline transporter"
+      },
+      {
+        "name": "BRETYLIUM TOSYLATE",
+        "chembl_id": "CHEMBL1095292",
+        "reason": "same target: Sodium-dependent noradrenaline transporter"
+      }
+    ]
+  }
+}

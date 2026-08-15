@@ -1,0 +1,63 @@
+{
+  "drug_name": "611",
+  "slug": "611",
+  "enriched_at": "2026-08-15T20:49:32Z",
+  "source_trial_ids": [
+    "NCT07042126"
+  ],
+  "sponsors": [
+    "Sunshine Guojian Pharmaceutical (Shanghai) Co., Ltd."
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2636218",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL5908879",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "DailyMed",
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1103559a-1580-1fdd-e054-00144ff8d46c",
+    "note": "A label exists in DailyMed but structured sections could not be parsed automatically -- see dailymed_url for the full label.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=611+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=611+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=611+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Dermatitis, Atopic",
+    "slug": "dermatitis-atopic"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07042126",
+      "title": "Evaluation of 611 in Chinese Adolescents With Moderate to Severe Atopic Dermatitis",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07042126",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "drug_name": "Bicalutamide",
+  "slug": "bicalutamide",
+  "enriched_at": "2026-08-15T20:54:10Z",
+  "source_trial_ids": [
+    "NCT02531516"
+  ],
+  "sponsors": [
+    "Aragon Pharmaceuticals, Inc."
+  ],
+  "identity": {
+    "pubchem_cid": 2375,
+    "iupac_name": "N-[4-cyano-3-(trifluoromethyl)phenyl]-3-(4-fluorophenyl)sulfonyl-2-hydroxy-2-methylpropanamide",
+    "molecular_formula": "C18H14F4N2O4S",
+    "molecular_weight": "430.4",
+    "canonical_smiles": null,
+    "inchikey": "LKJPYSCBVHEWIU-UHFFFAOYSA-N",
+    "rxnorm": {
+      "rxcui": "83008",
+      "generic_name": "bicalutamide",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL409",
+    "target_chembl_id": "CHEMBL1871",
+    "target_name": "Androgen receptor",
+    "mechanism_of_action_chembl": "Androgen Receptor antagonist"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Bicalutamide is a non-steroidal androgen receptor inhibitor. It competitively inhibits the action of androgens by binding to cytosol androgen receptors in the target tissue. Prostatic carcinoma is known to be androgen sensitive and responds to treatment that counteracts the effect of androgen and/or removes the source of androgen. When bicalutamide is combined with LHRH analog therapy, the suppression of serum testosterone induced by the LHRH analog is not affected. However, in clinical trials with bicalutamide as a single agent for prostate cancer, rises in serum testosterone and estradiol have been noted. In a subset of patients who have been treated with bicalutamide and an LHRH agonist, and who discontinue bicalutamide therapy due to progressive advanced prostate cancer, a reduction in Prostate Specific Antigen (PSA) and/or clinical improvement (antiandrogen withdrawal phenomenon) may be observed.",
+    "pharmacokinetics": "12.3 Pharmacokinetics Absorption Bicalutamide is well-absorbed following oral administration, although the absolute bioavailability is unknown. Coadministration of bicalutamide with food has no clinically significant effect on rate or extent of absorption. Distribution Bicalutamide is highly protein-bound (96%) [see Drug Interactions (7)]. Metabolism/Elimination Bicalutamide undergoes stereospecific metabolism. The S (inactive) isomer is metabolized primarily by glucuronidation. The R (active) isomer also undergoes glucuronidation but is predominantly oxidized to an inactive metabolite followed by glucuronidation. Both the parent and metabolite glucuronides are eliminated in the urine and feces. The S-enantiomer is rapidly cleared relative to the R-enantiomer, with the R-enantiomer accounting for about 99% of total steady-state plasma levels. Pharmacokinetics of the active enantiomer of bicalutamide in normal males and patients with prostate cancer are presented in Table 3. Table 3. Pharmacokinetics of Bicalutamide Active Enantiomer Parameter Mean Standard Deviation Normal Males (n=30) Apparent Oral Clearance (L/hr) 0.320 0.103 Single Dose Peak Concentration (mcg/mL) 0.768 0.178 Single Dose Time to Peak Concentration (hours) 31.3 14.6 Half-life (days) 5.8 2.29 Patients with Prostate Cancer (n=40) C ss (mcg/mL) 8.939 3.504",
+    "indications_and_usage": "1 INDICATIONS AND USAGE Bicalutamide tablets, USP 50 mg daily are indicated for use in combination therapy with a luteinizing hormone-releasing hormone (LHRH) analog for the treatment of Stage D 2 metastatic carcinoma of the prostate. Bicalutamide tablets, USP 150 mg daily are not approved for use alone or with other treatments [see Clinical Studies (14.2)]. • Bicalutamide tablet 50 mg is an androgen receptor inhibitor indicated for use in combination therapy with a luteinizing hormone-releasing hormone (LHRH) analog for the treatment of Stage D 2 metastatic carcinoma of the prostate. (1) • Bicalutamide tablet 150 mg daily is not approved for use alone or with other treatments. (1)",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "bicalutamide"
+    ],
+    "openfda_generic_names": [
+      "BICALUTAMIDE"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=26e30155-a50b-df14-e063-6394a90a9be4",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Prostatic Neoplasms",
+    "slug": "prostatic-neoplasms"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT02531516",
+      "title": "An Efficacy and Safety Study of JNJ-56021927 (Apalutamide) in High-risk Prostate Cancer Subjects Receiving Primary Radiation Therapy: ATLAS",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT02531516",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "41742379",
+        "title": "Spironolactone vs. bicalutamide in female pattern hair loss: a randomized clinical trial.",
+        "pubdate": "2026 Jul 24",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41742379/"
+      },
+      {
+        "pmid": "41609418",
+        "title": "Phase II Randomized Study of MK-2206 and Bicalutamide in Prostate Cancer Patients With Rising PSA After Primary Therapy (ECOG-ACRIN E2809).",
+        "pubdate": "2026 May",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41609418/"
+      },
+      {
+        "pmid": "41419364",
+        "title": "Strategies to Mitigate Breast-related Adverse Events in Patients with High-risk Biochemically Recurrent Prostate Cancer Receiving Enzalutamide Monotherapy: Perspectives and Challenges.",
+        "pubdate": "2026 Jan",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41419364/"
+      },
+      {
+        "pmid": "40686005",
+        "title": "Prognostic Impact of Lymph Node Yield in a Phase III Clinical Trial (NRG/RTOG 9601) of Prostate Cancer Patients Treated With Salvage Radiation Following Prostatectomy.",
+        "pubdate": "2025 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40686005/"
+      },
+      {
+        "pmid": "40413407",
+        "title": "The comparison of outcomes between neoadjuvant novel and classical hormonal therapy in patients with locally advanced prostate cancer: a retrospective study.",
+        "pubdate": "2025 May 24",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40413407/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "OXYMETHOLONE",
+        "chembl_id": "CHEMBL1200585",
+        "reason": "same target: Androgen receptor"
+      },
+      {
+        "name": "FLUTAMIDE",
+        "chembl_id": "CHEMBL806",
+        "reason": "same target: Androgen receptor"
+      },
+      {
+        "name": "NILUTAMIDE",
+        "chembl_id": "CHEMBL1274",
+        "reason": "same target: Androgen receptor"
+      },
+      {
+        "name": "DROMOSTANOLONE PROPIONATE",
+        "chembl_id": "CHEMBL1201048",
+        "reason": "same target: Androgen receptor"
+      },
+      {
+        "name": "METHYLTESTOSTERONE",
+        "chembl_id": "CHEMBL1395",
+        "reason": "same target: Androgen receptor"
+      },
+      {
+        "name": "ETHYLESTRENOL",
+        "chembl_id": "CHEMBL1200623",
+        "reason": "same target: Androgen receptor"
+      },
+      {
+        "name": "STANOZOLOL",
+        "chembl_id": "CHEMBL2079587",
+        "reason": "same target: Androgen receptor"
+      },
+      {
+        "name": "TESTOSTERONE PROPIONATE",
+        "chembl_id": "CHEMBL1170",
+        "reason": "same target: Androgen receptor"
+      },
+      {
+        "name": "TESTOSTERONE ENANTHATE",
+        "chembl_id": "CHEMBL1200335",
+        "reason": "same target: Androgen receptor"
+      },
+      {
+        "name": "NANDROLONE DECANOATE",
+        "chembl_id": "CHEMBL1200946",
+        "reason": "same target: Androgen receptor"
+      }
+    ]
+  }
+}

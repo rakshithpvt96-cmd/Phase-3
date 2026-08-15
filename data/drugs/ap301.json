@@ -1,0 +1,90 @@
+{
+  "drug_name": "AP301",
+  "slug": "ap301",
+  "enriched_at": "2026-08-15T20:51:43Z",
+  "source_trial_ids": [
+    "NCT06933472"
+  ],
+  "sponsors": [
+    "Alebund Pharmaceuticals"
+  ],
+  "identity": {
+    "pubchem_cid": 91864495,
+    "iupac_name": "(3S,6S,9S,12S,18S,21S,27S,30S,33S,36S,42R,47R,50S,53S,56S)-42-amino-3-(4-aminobutyl)-36-(3-amino-3-oxopropyl)-33-(3-carbamimidamidopropyl)-9,18,30-tris(2-carboxyethyl)-27-[(1R)-1-hydroxyethyl]-50-[(4-hydroxyphenyl)methyl]-53-(1H-indol-3-ylmethyl)-6,12-dimethyl-2,5,8,11,14,17,20,26,29,32,35,38,41,49,52,55-hexadecaoxo-44,45-dithia-1,4,7,10,13,16,19,25,28,31,34,37,40,48,51,54-hexadecazatricyclo[54.3.0.021,25]nonapentacontane-47-carboxylic acid",
+    "molecular_formula": "C82H119N23O27S2",
+    "molecular_weight": "1923.1",
+    "canonical_smiles": null,
+    "inchikey": "LKVFMOMQYXIFRK-KSVAIKAXSA-N",
+    "rxnorm": null
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4297885",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=AP301+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=AP301+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=AP301+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Hyperphosphatemia",
+    "slug": "hyperphosphatemia"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06933472",
+      "title": "A Study of a Novel Iron-based Phosphate Binder AP301 in Patients With Hyperphosphatemia in the U.S. and China",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06933472",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "38453435",
+        "title": "Tolerability, safety and efficacy of a novel phosphate binder VS-505 (AP301): a Phase 2 dose-escalation and dose-ranging study in patients undergoing maintenance hemodialysis.",
+        "pubdate": "2024 Sep 27",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38453435/"
+      },
+      {
+        "pmid": "35379296",
+        "title": "Safety and preliminary efficacy of sequential multiple ascending doses of solnatide to treat pulmonary permeability edema in patients with moderate to severe ARDS in a randomized, placebo-controlled, double-blind trial: preliminary evaluation of safety and feasibility in light of the COVID-19 pandemic.",
+        "pubdate": "2022 Apr 4",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35379296/"
+      },
+      {
+        "pmid": "34544463",
+        "title": "Safety and preliminary efficacy of sequential multiple ascending doses of solnatide to treat pulmonary permeability edema in patients with moderate-to-severe ARDS-a randomized, placebo-controlled, double-blind trial.",
+        "pubdate": "2021 Sep 20",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34544463/"
+      },
+      {
+        "pmid": "28750677",
+        "title": "Inhaled AP301 for treatment of pulmonary edema in mechanically ventilated patients with acute respiratory distress syndrome: a phase IIa randomized placebo-controlled trial.",
+        "pubdate": "2017 Jul 27",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28750677/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "drug_name": "AMDC-USR",
+  "slug": "amdc-usr",
+  "enriched_at": "2026-08-15T20:50:52Z",
+  "source_trial_ids": [
+    "NCT03997318"
+  ],
+  "sponsors": [
+    "Cook MyoSite"
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2686509",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4650237",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=AMDC-USR+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=AMDC-USR+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=AMDC-USR+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Stress Urinary Incontinence",
+    "slug": "stress-urinary-incontinence"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT03997318",
+      "title": "Japanese Bridging Study of Autologous Muscle Derived Cells Compared to Placebo for Female Urinary Sphincter Repair(JPN1)",
+      "status": "WITHDRAWN",
+      "url": "https://clinicaltrials.gov/study/NCT03997318",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "30324580",
+        "title": "A double-blind, randomized, placebo-controlled clinical trial evaluating the safety and efficacy of autologous muscle derived cells in female subjects with stress urinary incontinence.",
+        "pubdate": "2018 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30324580/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

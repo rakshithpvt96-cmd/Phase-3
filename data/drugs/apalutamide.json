@@ -1,0 +1,100 @@
+{
+  "drug_name": "Apalutamide",
+  "slug": "apalutamide",
+  "enriched_at": "2026-08-15T20:51:59Z",
+  "source_trial_ids": [
+    "NCT02531516"
+  ],
+  "sponsors": [
+    "Aragon Pharmaceuticals, Inc."
+  ],
+  "identity": {
+    "pubchem_cid": 24872560,
+    "iupac_name": "4-[7-[6-cyano-5-(trifluoromethyl)-3-pyridinyl]-8-oxo-6-sulfanylidene-5,7-diazaspiro[3.4]octan-5-yl]-2-fluoro-N-methylbenzamide",
+    "molecular_formula": "C21H15F4N5O2S",
+    "molecular_weight": "477.4",
+    "canonical_smiles": null,
+    "inchikey": "HJBWBFZLDZWPHF-UHFFFAOYSA-N",
+    "rxnorm": {
+      "rxcui": "1999574",
+      "generic_name": "apalutamide",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4878843",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Apalutamide is an Androgen Receptor (AR) inhibitor that binds directly to the ligand-binding domain of the AR. Apalutamide inhibits AR nuclear translocation, inhibits DNA binding, and impedes AR-mediated transcription. A major metabolite, N-desmethyl apalutamide, is a less potent inhibitor of AR, and exhibited one-third the activity of apalutamide in an in vitro transcriptional reporter assay. Apalutamide administration caused decreased tumor cell proliferation and increased apoptosis leading to decreased tumor volume in mouse xenograft models of prostate cancer.",
+    "pharmacokinetics": "12.3 Pharmacokinetics Apalutamide and N-desmethyl apalutamide pharmacokinetic parameters were observed at steady-state following the approved recommended dosage for ERLEADA and are presented as the mean [standard deviation (SD)] unless otherwise specified. Apalutamide maximum concentration (C max ) is 6 mcg/mL (1.7) and total systemic exposure (AUC) is 100 mcg∙h/mL (32). Apalutamide C max and AUC increases in a dose proportional manner following repeated once-daily dosing of 30 to 480 mg (0.125 to 2 times the recommended dosage). Apalutamide steady-state is achieved after 4 weeks and the mean accumulation ratio is approximately 5-fold. The major active metabolite N-desmethyl apalutamide C max is 5.9 mcg/mL (1) and AUC is 124 mcg∙h/mL (23). Mean AUC metabolite/parent drug ratio for N-desmethyl apalutamide following repeat-dose administration is 1.3. Based on systemic exposure, relative potency, and pharmacokinetic properties, N-desmethyl apalutamide likely contributes to the clinical activity of apalutamide. Absorption Apalutamide absolute oral bioavailability is approximately 100%. Apalutamide median (min, max) time to maximum plasma concentration (t max ) is 2 hours (1, 5 hours). No clinically significant changes in C max and AUC were observed following oral administration of four 60 mg tablets dispersed in applesauce compared to administration of four intact 60 mg tablets under fasting condition. Effect of Food No clinically significant differences in apalutamide C max and AUC were observed following administration of a high-fat meal (approximately 500 to 600 fat calories, 250 carbohydrate calories, and 150 protein calories). Median time to reach t max was delayed approximately 2 hours with food. Distribution Apalutamide apparent volume of distribution is approximately 276 L. Apalutamide is 96% and N-desmethyl apalutamide is 95% bound to plasma proteins with no concentration dependency. Elimination Apalutamide half-life is approximately 3 days. The CL/F of apalutamide is 1.3 L/h after single dosing and increases to 2.0 L/h at steady-state after once-daily dosing likely due to CYP3A4 auto-induction. Metabolism Apalutamide is primarily metabolized by CYP2C8 and CYP3A4 to form active metabolite, N-desmethyl apalutamide. The contribution of CYP2C8 and CYP3A4 in the metabolism of apalutamide is estimated to be 58% and 13% following single dose but changes to 40% and 37%, respectively at steady-state. Apalutamide represented 45% and N-desmethyl apalutamide represented 44% of the total AUC following a single oral administration of radiolabeled apalutamide 240 mg. Excretion Up to 70 days following a single oral administration of radiolabeled apalutamide, 65% of the dose was recovered in urine (1.2% of dose as unchanged apalutamide and 2.7% as N-desmethyl apalutamide) and 24% was recovered in feces (1.5% of dose as unchanged apalutamide and 2% as N-desmethyl apalutamide). Specific Populations No clinically significant differences in the pharmacokinetics of apalutamide or N-desmethyl apalutamide were observed based on age (18-94 years), race (Black, non-Japanese Asian, Japanese), or eGFR 30-89 mL/min/1.73 m 2 (estimated by MDRD equation). The effect of eGFR ≤29 mL/min/1.73 m 2 on apalutamide pharmacokinetics is unknown. Patients with Hepatic Impairment In subjects with severe hepatic impairment (Child-Pugh C), AUC for the active moieties (sum of unbound apalutamide plus the potency-adjusted unbound N-desmethyl apalutamide) increased 2.1-fold compared to subjects with normal hepatic function. In subjects with mild to moderate hepatic impairment (Child-Pugh A to B), no clinically significant differences in the pharmacokinetics of apalutamide or N-desmethyl apalutamide were observed compared to subjects with normal hepatic function. Drug Interactions Clinical Studies and Model-Informed Approaches Strong CYP2C8 inhibitors : Apalutamide C max decreased by 21% while AUC increased by 68% following co-administration of ERLEADA as a 240 mg single dose with gemfibrozil (a strong CYP2C8 inhibitor). Gemfibrozil is predicted to increase the steady-state apalutamide C max by 32% and AUC by 44%. For the active moieties (sum of unbound apalutamide plus the potency-adjusted unbound N-desmethyl apalutamide), the predicted steady-state C max increased by 19% and AUC by 23%. Strong CYP3A4 inhibitors : Apalutamide C max decreased by 22% while AUC was similar following co-administration of ERLEADA 240 mg as a single dose with itraconazole (a strong CYP3A4 inhibitor). Ketoconazole (a strong CYP3A4 inhibitor) is predicted to increase the single-dose apalutamide AUC by 24% but have no impact on C max . Ketoconazole is predicted to increase the steady-state apalutamide C max by 38% and AUC by 51%. For the active moieties, the predicted steady-state C max increased by 23% and AUC by 28%. Strong CYP3A4 and moderate CYP2C8 inducers : Rifampin (a strong CYP3A4 and moderate CYP2C8 inducer) is predicted to decrease the steady-state apalutamide C max by 25% and AUC by 34%. For the active moieties, the predicted steady-state C max decreased by 15% and AUC by 19%. CYP3A4, CYP2C19, CYP2C9, and CYP2C8 substrates : Co-administration of ERLEADA with single oral doses of sensitive CYP substrates resulted in a 92% decrease in the AUC of midazolam (a CYP3A4 substrate), 85% decrease in the AUC of omeprazole (a CYP2C19 substrate), and 46% decrease in the AUC of S-warfarin (a CYP2C9 substrate). ERLEADA did not cause clinically significant changes in exposure to a CYP2C8 substrate. P-gp, BCRP and OATP1B1 substrates : Co-administration of ERLEADA with single oral doses of transporter substrates resulted in a 30% decrease in the AUC of fexofenadine (a P-gp substrate) and 41% decrease in the AUC of rosuvastatin (a BCRP/OATP1B1 substrate) but had no impact on C max . In Vitro Studies CYP450 Enzymes : Apalutamide and N-desmethyl apalutamide induce and inhibit CYP2B6. Apalutamide does not inhibit or induce CYP1A2 and CYP2D6. Transporter systems : Apalutamide and N-desmethyl apalutamide are substrates for P-gp but not BCRP, OAT1B1, and OATP1B3. Apalutamide and N-desmethyl apalutamide inhibit OCT2, OAT3, and MATEs, but do not inhibit OAT1.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE ERLEADA is indicated for the treatment of patients with Metastatic castration-sensitive prostate cancer (mCSPC) Non-metastatic castration-resistant prostate cancer (nmCRPC) ERLEADA is an androgen receptor inhibitor indicated for the treatment of patients with metastatic castration-sensitive prostate cancer. ( 1 ) non-metastatic castration-resistant prostate cancer. ( 1 )",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "ERLEADA"
+    ],
+    "openfda_generic_names": [
+      "APALUTAMIDE"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d1cda4f7-cb33-46ea-b9ac-431f6452b1a5",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Prostatic Neoplasms",
+    "slug": "prostatic-neoplasms"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT02531516",
+      "title": "An Efficacy and Safety Study of JNJ-56021927 (Apalutamide) in High-risk Prostate Cancer Subjects Receiving Primary Radiation Therapy: ATLAS",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT02531516",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42522424",
+        "title": "Matching-adjusted indirect comparison of enzalutamide versus apalutamide with androgen-deprivation therapy in patients with metastatic hormone-sensitive prostate cancer.",
+        "pubdate": "2026 Jul 29",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42522424/"
+      },
+      {
+        "pmid": "42223077",
+        "title": "Perioperative Apalutamide in High-Risk Localized Prostate Cancer.",
+        "pubdate": "2026 Aug 6",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42223077/"
+      },
+      {
+        "pmid": "41851476",
+        "title": "Real-world analysis of androgen receptor inhibitors in US patients with nonmetastatic castration-resistant prostate cancer: DEAR-EXT study.",
+        "pubdate": "2026 Mar 18",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41851476/"
+      },
+      {
+        "pmid": "41826123",
+        "title": "Clinical Trial Protocol for the Apa/Enza-short Study: A Randomized Nationwide Study of Shortened 12-Month Duration of Androgen Receptor Signaling Agent in Combination With Androgen Deprivation Therapy in Patients With Metastatic Low-volume Castration-sensitive Prostate Cancer.",
+        "pubdate": "2026 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41826123/"
+      },
+      {
+        "pmid": "41772487",
+        "title": "Cancer-control outcomes of patients with metastatic hormone-sensitive prostate cancer and ≥ 10 bone metastases receiving apalutamide: a real-world cohort.",
+        "pubdate": "2026 Mar 2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41772487/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

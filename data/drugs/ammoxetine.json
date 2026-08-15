@@ -1,0 +1,70 @@
+{
+  "drug_name": "Ammoxetine",
+  "slug": "ammoxetine",
+  "enriched_at": "2026-08-15T20:51:13Z",
+  "source_trial_ids": [
+    "NCT06827431"
+  ],
+  "sponsors": [
+    "CSPC ZhongQi Pharmaceutical Technology Co., Ltd."
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "38400",
+      "generic_name": "atomoxetine",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": null,
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Ammoxetine+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Ammoxetine+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Ammoxetine+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Major Depressive Disorder (MDD)",
+    "slug": "major-depressive-disorder-mdd"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06827431",
+      "title": "The Research of Ammoxetine Hydrochloride Enteric-coated Tablets in Subjects With Depression",
+      "status": "NOT_YET_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06827431",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "40982284",
+        "title": "Efficacy and Safety of Ammoxetine in Major Depressive Disorder: A Randomized Clinical Trial.",
+        "pubdate": "2025 Sep 2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40982284/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

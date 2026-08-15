@@ -1,0 +1,135 @@
+{
+  "drug_name": "Bimatoprost SR",
+  "slug": "bimatoprost-sr",
+  "enriched_at": "2026-08-15T20:54:37Z",
+  "source_trial_ids": [
+    "NCT03891446"
+  ],
+  "sponsors": [
+    "AbbVie"
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "283810",
+      "generic_name": "bimatoprost",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1200963",
+    "target_chembl_id": "CHEMBL1987",
+    "target_name": "Prostaglandin F2-alpha receptor",
+    "mechanism_of_action_chembl": "Prostanoid FP receptor agonist"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Bimatoprost%20SR+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Bimatoprost%20SR+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Bimatoprost%20SR+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Open-Angle Glaucoma",
+    "slug": "open-angle-glaucoma"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT03891446",
+      "title": "Long-term Safety and Efficacy Extension Trial of Bimatoprost SR",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT03891446",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "39800203",
+        "title": "Phase 3, Randomized, Comparison Study of Intracameral Bimatoprost Implant 10 µg and Selective Laser Trabeculoplasty.",
+        "pubdate": "2025 Apr",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39800203/"
+      },
+      {
+        "pmid": "38765460",
+        "title": "Bimatoprost SR for Glaucoma Therapy Implanted at the Slit-Lamp in a Real-World Setting.",
+        "pubdate": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38765460/"
+      },
+      {
+        "pmid": "33133445",
+        "title": "Minimally Invasive Surgery, Implantable Sensors, and Personalized Therapies.",
+        "pubdate": "2020 Oct-Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33133445/"
+      },
+      {
+        "pmid": "31884564",
+        "title": "24-Month Phase I/II Clinical Trial of Bimatoprost Sustained-Release Implant (Bimatoprost SR) in Glaucoma Patients.",
+        "pubdate": "2020 Feb",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31884564/"
+      },
+      {
+        "pmid": "30335560",
+        "title": "Intracameral Sustained-Release Bimatoprost Implant Delivers Bimatoprost to Target Tissues with Reduced Drug Exposure to Off-Target Tissues.",
+        "pubdate": "2019 Jan/Feb",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30335560/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "TAFLUPROST",
+        "chembl_id": "CHEMBL1963683",
+        "reason": "same target: Prostaglandin F2-alpha receptor"
+      },
+      {
+        "name": "LATANOPROST",
+        "chembl_id": "CHEMBL1051",
+        "reason": "same target: Prostaglandin F2-alpha receptor"
+      },
+      {
+        "name": "TRAVOPROST",
+        "chembl_id": "CHEMBL1200799",
+        "reason": "same target: Prostaglandin F2-alpha receptor"
+      },
+      {
+        "name": "DINOPROST TROMETHAMINE",
+        "chembl_id": "CHEMBL1200896",
+        "reason": "same target: Prostaglandin F2-alpha receptor"
+      },
+      {
+        "name": "CARBOPROST TROMETHAMINE",
+        "chembl_id": "CHEMBL1237105",
+        "reason": "same target: Prostaglandin F2-alpha receptor"
+      },
+      {
+        "name": "LATANOPROSTENE BUNOD",
+        "chembl_id": "CHEMBL2364612",
+        "reason": "same target: Prostaglandin F2-alpha receptor"
+      },
+      {
+        "name": "AL-12182",
+        "chembl_id": "CHEMBL184999",
+        "reason": "same target: Prostaglandin F2-alpha receptor"
+      },
+      {
+        "name": "SEPETAPROST",
+        "chembl_id": "CHEMBL4297633",
+        "reason": "same target: Prostaglandin F2-alpha receptor"
+      }
+    ]
+  }
+}

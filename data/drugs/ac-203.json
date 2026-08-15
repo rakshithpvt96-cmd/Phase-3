@@ -1,0 +1,100 @@
+{
+  "drug_name": "AC-203",
+  "slug": "ac-203",
+  "enriched_at": "2026-08-15T20:49:58Z",
+  "source_trial_ids": [
+    "NCT06073132"
+  ],
+  "sponsors": [
+    "TWi Biotechnology, Inc."
+  ],
+  "identity": {
+    "pubchem_cid": 26248,
+    "iupac_name": "4,5-diacetyloxy-9,10-dioxoanthracene-2-carboxylic acid",
+    "molecular_formula": "C19H12O8",
+    "molecular_weight": "368.3",
+    "canonical_smiles": null,
+    "inchikey": "TYNLGDBUJLVSMA-UHFFFAOYSA-N",
+    "rxnorm": {
+      "rxcui": "2606650",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL3662716",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=AC-203+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=AC-203+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=AC-203+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Generalized Epidermolysis Bullosa Simplex",
+    "slug": "generalized-epidermolysis-bullosa-simplex"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06073132",
+      "title": "An International, Multicenter, Randomized, Double-Blind, Parallel Group, Vehicle-Controlled, Phase 2/3 Study With Open-Label Extension Evaluating the Efficacy and Safety of Diacerein 1% Ointment for the Treatment of Generalized Epidermolysis Bullosa Simplex (EBS)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06073132",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "41770553",
+        "title": "Diacerein for Knee Osteoarthritis: A Randomized Clinical Trial.",
+        "pubdate": "2026 May 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41770553/"
+      },
+      {
+        "pmid": "41261710",
+        "title": "Risk factors for severe knee osteoarthritis and efficacy of diacerein in obese vietnamese patients: A randomized, single-blind, noncontrolled clinical trial.",
+        "pubdate": "2025 Oct 31",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41261710/"
+      },
+      {
+        "pmid": "40095377",
+        "title": "Safety of Anti-osteoarthritis Medications: A Systematic Literature Review of Post-marketing Surveillance Studies.",
+        "pubdate": "2025 Apr",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40095377/"
+      },
+      {
+        "pmid": "39434905",
+        "title": "Diacerein reduces inflammasome activation and SARS-CoV-2 virus replication: a proof-of-concept translational study.",
+        "pubdate": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39434905/"
+      },
+      {
+        "pmid": "36089595",
+        "title": "Study protocol for a randomised controlled trial of diacerein versus placebo to treat knee osteoarthritis with effusion-synovitis (DICKENS).",
+        "pubdate": "2022 Sep 11",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36089595/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

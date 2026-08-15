@@ -1,0 +1,145 @@
+{
+  "drug_name": "Bicalutamide Placebo",
+  "slug": "bicalutamide-placebo",
+  "enriched_at": "2026-08-15T20:54:23Z",
+  "source_trial_ids": [
+    "NCT02531516"
+  ],
+  "sponsors": [
+    "Aragon Pharmaceuticals, Inc."
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "83008",
+      "generic_name": "bicalutamide",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL409",
+    "target_chembl_id": "CHEMBL1871",
+    "target_name": "Androgen receptor",
+    "mechanism_of_action_chembl": "Androgen Receptor antagonist"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Bicalutamide%20Placebo+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Bicalutamide%20Placebo+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Bicalutamide%20Placebo+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Prostatic Neoplasms",
+    "slug": "prostatic-neoplasms"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT02531516",
+      "title": "An Efficacy and Safety Study of JNJ-56021927 (Apalutamide) in High-risk Prostate Cancer Subjects Receiving Primary Radiation Therapy: ATLAS",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT02531516",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "40034971",
+        "title": "Bicalutamide 25 mg combined with minoxidil 1 mg versus minoxidil 1 mg for female pattern hair loss: A randomized double-blind clinical trial.",
+        "pubdate": "2025 Apr",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40034971/"
+      },
+      {
+        "pmid": "33570548",
+        "title": "Validation of a 22-Gene Genomic Classifier in Patients With Recurrent Prostate Cancer: An Ancillary Study of the NRG/RTOG 9601 Randomized Clinical Trial.",
+        "pubdate": "2021 Apr 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33570548/"
+      },
+      {
+        "pmid": "32215583",
+        "title": "Association of Presalvage Radiotherapy PSA Levels After Prostatectomy With Outcomes of Long-term Antiandrogen Therapy in Men With Prostate Cancer.",
+        "pubdate": "2020 May 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32215583/"
+      },
+      {
+        "pmid": "30741354",
+        "title": "Management of Nonmetastatic Castration-Resistant Prostate Cancer: Recent Advances and Future Direction.",
+        "pubdate": "2019 Feb 11",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30741354/"
+      },
+      {
+        "pmid": "29211888",
+        "title": "Combined Oral Contraception and Bicalutamide in Polycystic Ovary Syndrome and Severe Hirsutism: A Double-Blind Randomized Controlled Trial.",
+        "pubdate": "2018 Mar 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29211888/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "OXYMETHOLONE",
+        "chembl_id": "CHEMBL1200585",
+        "reason": "same target: Androgen receptor"
+      },
+      {
+        "name": "FLUTAMIDE",
+        "chembl_id": "CHEMBL806",
+        "reason": "same target: Androgen receptor"
+      },
+      {
+        "name": "NILUTAMIDE",
+        "chembl_id": "CHEMBL1274",
+        "reason": "same target: Androgen receptor"
+      },
+      {
+        "name": "DROMOSTANOLONE PROPIONATE",
+        "chembl_id": "CHEMBL1201048",
+        "reason": "same target: Androgen receptor"
+      },
+      {
+        "name": "METHYLTESTOSTERONE",
+        "chembl_id": "CHEMBL1395",
+        "reason": "same target: Androgen receptor"
+      },
+      {
+        "name": "ETHYLESTRENOL",
+        "chembl_id": "CHEMBL1200623",
+        "reason": "same target: Androgen receptor"
+      },
+      {
+        "name": "STANOZOLOL",
+        "chembl_id": "CHEMBL2079587",
+        "reason": "same target: Androgen receptor"
+      },
+      {
+        "name": "TESTOSTERONE PROPIONATE",
+        "chembl_id": "CHEMBL1170",
+        "reason": "same target: Androgen receptor"
+      },
+      {
+        "name": "TESTOSTERONE ENANTHATE",
+        "chembl_id": "CHEMBL1200335",
+        "reason": "same target: Androgen receptor"
+      },
+      {
+        "name": "NANDROLONE DECANOATE",
+        "chembl_id": "CHEMBL1200946",
+        "reason": "same target: Androgen receptor"
+      }
+    ]
+  }
+}

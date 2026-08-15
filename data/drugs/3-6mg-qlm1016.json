@@ -1,0 +1,82 @@
+{
+  "drug_name": "3-6mg QLM1016",
+  "slug": "3-6mg-qlm1016",
+  "enriched_at": "2026-08-15T20:48:57Z",
+  "source_trial_ids": [
+    "NCT06799559"
+  ],
+  "sponsors": [
+    "Qilu Pharmaceutical Co., Ltd."
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "477221",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4297976",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=3-6mg%20QLM1016+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=3-6mg%20QLM1016+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=3-6mg%20QLM1016+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Schizophrenia",
+    "slug": "schizophrenia"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06799559",
+      "title": "Study on the Efficacy and Safety of QLM1016 in Schizophrenia",
+      "status": "NOT_YET_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06799559",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "40683011",
+        "title": "Oral methadone versus sublingual buprenorphine for the treatment of acute opioid withdrawal: A triple-blind, double-dummy, randomized control trial.",
+        "pubdate": "2025 Sep 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40683011/"
+      },
+      {
+        "pmid": "38712180",
+        "title": "Estimating heterogeneity of treatment effect in psychiatric clinical trials.",
+        "pubdate": "2024 Apr 23",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38712180/"
+      },
+      {
+        "pmid": "24321374",
+        "title": "Pharmacokinetics and safety of single doses of drisapersen in non-ambulant subjects with Duchenne muscular dystrophy: results of a double-blind randomized clinical trial.",
+        "pubdate": "2014 Jan",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24321374/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}
