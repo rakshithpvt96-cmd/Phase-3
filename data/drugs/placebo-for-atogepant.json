@@ -1,0 +1,150 @@
+{
+  "drug_name": "Placebo for Atogepant",
+  "slug": "placebo-for-atogepant",
+  "enriched_at": "2026-08-15T21:46:10Z",
+  "source_trial_ids": [
+    "NCT06806293"
+  ],
+  "sponsors": [
+    {
+      "name": "AbbVie",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=AbbVie&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2571813",
+      "generic_name": "atogepant",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL3991065",
+    "target_chembl_id": "CHEMBL3798",
+    "target_name": "Calcitonin gene-related peptide type 1 receptor",
+    "mechanism_of_action_chembl": "Calcitonin gene-related peptide type 1 receptor antagonist"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Placebo%20for%20Atogepant+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Placebo%20for%20Atogepant+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Placebo%20for%20Atogepant+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Menstrual Migraine (MM)",
+    "slug": "menstrual-migraine-mm"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06806293",
+      "title": "Study of Oral Atogepant to Assess Adverse Events and Change in Disease Activity in Adult Participants With Menstrual Migraine",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06806293",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "41272937",
+        "title": "Exposure-Response Modeling of Monthly Migraine Days for Efficacy of Atogepant in Patients With Episodic or Chronic Migraine.",
+        "pubdate": "2026 Jan",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41272937/"
+      },
+      {
+        "pmid": "40447296",
+        "title": "Repurposed versus disease-specific medicinals for the prophylaxis of migraine: an updated systematic review.",
+        "pubdate": "2025 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40447296/"
+      },
+      {
+        "pmid": "39982105",
+        "title": "Efficacy of ubrogepant and atogepant in males and females with migraine: A secondary analysis of randomized clinical trials.",
+        "pubdate": "2025 Feb",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39982105/"
+      },
+      {
+        "pmid": "39715475",
+        "title": "Early Improvements With Atogepant for the Preventive Treatment of Migraine: Results From 3 Randomized Phase 3 Trials.",
+        "pubdate": "2025 Jan 28",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39715475/"
+      },
+      {
+        "pmid": "39648629",
+        "title": "Weight loss with atogepant during the preventive treatment of migraine: A pooled analysis.",
+        "pubdate": "2024 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39648629/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "RIMEGEPANT",
+        "chembl_id": "CHEMBL2178422",
+        "reason": "same target: Calcitonin gene-related peptide type 1 receptor"
+      },
+      {
+        "name": "UBROGEPANT",
+        "chembl_id": "CHEMBL2364638",
+        "reason": "same target: Calcitonin gene-related peptide type 1 receptor"
+      },
+      {
+        "name": "MK3207",
+        "chembl_id": "CHEMBL1910936",
+        "reason": "same target: Calcitonin gene-related peptide type 1 receptor"
+      },
+      {
+        "name": "OLCEGEPANT",
+        "chembl_id": "CHEMBL207197",
+        "reason": "same target: Calcitonin gene-related peptide type 1 receptor"
+      },
+      {
+        "name": "DAVALINTIDE",
+        "chembl_id": "CHEMBL2105635",
+        "reason": "same target: Calcitonin gene-related peptide type 1 receptor"
+      },
+      {
+        "name": "TELCAGEPANT",
+        "chembl_id": "CHEMBL236593",
+        "reason": "same target: Calcitonin gene-related peptide type 1 receptor"
+      },
+      {
+        "name": "ERENUMAB",
+        "chembl_id": "CHEMBL3833329",
+        "reason": "same target: Calcitonin gene-related peptide type 1 receptor"
+      },
+      {
+        "name": "RIMEGEPANT SULFATE",
+        "chembl_id": "CHEMBL2364629",
+        "reason": "same target: Calcitonin gene-related peptide type 1 receptor"
+      },
+      {
+        "name": "BI-44370",
+        "chembl_id": "CHEMBL3334624",
+        "reason": "same target: Calcitonin gene-related peptide type 1 receptor"
+      },
+      {
+        "name": "ZAVEGEPANT HYDROCHLORIDE",
+        "chembl_id": "CHEMBL4650220",
+        "reason": "same target: Calcitonin gene-related peptide type 1 receptor"
+      }
+    ]
+  }
+}

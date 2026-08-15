@@ -1,0 +1,99 @@
+{
+  "drug_name": "Vehicle",
+  "slug": "vehicle",
+  "enriched_at": "2026-08-15T21:50:27Z",
+  "source_trial_ids": [
+    "NCT06073132"
+  ],
+  "sponsors": [
+    {
+      "name": "TWi Biotechnology, Inc.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=TWi%20Biotechnology%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "693233",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2108661",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "DailyMed",
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5072c742-25a3-4459-b0cb-51c331bede0e",
+    "note": "A label exists in DailyMed but structured sections could not be parsed automatically -- see dailymed_url for the full label.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Vehicle+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Vehicle+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Vehicle+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Generalized Epidermolysis Bullosa Simplex",
+    "slug": "generalized-epidermolysis-bullosa-simplex"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06073132",
+      "title": "An International, Multicenter, Randomized, Double-Blind, Parallel Group, Vehicle-Controlled, Phase 2/3 Study With Open-Label Extension Evaluating the Efficacy and Safety of Diacerein 1% Ointment for the Treatment of Generalized Epidermolysis Bullosa Simplex (EBS)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06073132",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42551191",
+        "title": "A mouse PDX clinical trial reveals broad efficacy of niraparib and vc-seco-DUBA anti-HER2 ADC SYD985 in HER2/neu expressing endometrial cancer.",
+        "pubdate": "2026 Aug 4",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42551191/"
+      },
+      {
+        "pmid": "42558486",
+        "title": "SPRAYDYE: a phase I/II randomised pilot study to assess the safety and feasibility of topically applied AKRO-6qcICG, a cathepsin-activatable fluorescent imaging agent, for real-time intraoperative resection margin assessment in breast-conserving surgery.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42558486/"
+      },
+      {
+        "pmid": "42555077",
+        "title": "Clindamycin Phosphate 1.2%/Adapalene 0.15%/Benzoyl Peroxide 3.1% Gel for Acne: Pooled Analysis by Age and Sex.",
+        "pubdate": "2026 Aug 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42555077/"
+      },
+      {
+        "pmid": "42553513",
+        "title": "Development and validation of a MedDRA-based signal detection construct for drug-induced neurobehavioral impairment.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42553513/"
+      },
+      {
+        "pmid": "42544919",
+        "title": "Developing next-generation antibody-drug conjugates for breast cancer drug delivery: hurdles and advances in the clinic.",
+        "pubdate": "2026 Aug 11",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42544919/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

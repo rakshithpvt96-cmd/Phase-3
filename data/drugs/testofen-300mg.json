@@ -1,0 +1,79 @@
+{
+  "drug_name": "Testofen 300mg",
+  "slug": "testofen-300mg",
+  "enriched_at": "2026-08-15T21:49:00Z",
+  "source_trial_ids": [
+    "NCT05232279"
+  ],
+  "sponsors": [
+    {
+      "name": "RDC Clinical Pty Ltd",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=RDC%20Clinical%20Pty%20Ltd&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1551478",
+      "generic_name": "Ketofen",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": null,
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Testofen%20300mg+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Testofen%20300mg+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Testofen%20300mg+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Erectile Dysfunction",
+    "slug": "erectile-dysfunction"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05232279",
+      "title": "Effect of Testofen on Erectile Function in an Adult Male Population",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05232279",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "DTT106",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: EMS"
+      },
+      {
+        "name": "Dutasteride-Tamsulosin",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: EMS"
+      }
+    ]
+  }
+}

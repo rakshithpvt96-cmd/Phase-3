@@ -1,0 +1,83 @@
+{
+  "drug_name": "JDQ443",
+  "slug": "jdq443",
+  "enriched_at": "2026-08-15T21:36:28Z",
+  "source_trial_ids": [
+    "NCT05132075"
+  ],
+  "sponsors": [
+    {
+      "name": "Novartis Pharmaceuticals",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Novartis%20Pharmaceuticals&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 156501355,
+    "iupac_name": "1-[6-[4-(5-chloro-6-methyl-1H-indazol-4-yl)-5-methyl-3-(1-methylindazol-5-yl)pyrazol-1-yl]-2-azaspiro[3.3]heptan-2-yl]prop-2-en-1-one",
+    "molecular_formula": "C29H28ClN7O",
+    "molecular_weight": "526.0",
+    "canonical_smiles": null,
+    "inchikey": "AZUYLZMQTIKGSC-UHFFFAOYSA-N",
+    "rxnorm": null
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL5077861",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=JDQ443+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=JDQ443+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=JDQ443+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Non-Small Cell Lung Cancer",
+    "slug": "non-small-cell-lung-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05132075",
+      "title": "Study of JDQ443 in Comparison With Docetaxel in Participants With Locally Advanced or Metastatic KRAS G12C Mutant Non-small Cell Lung Cancer",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05132075",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "39394034",
+        "title": "A Phase II Study of Neoadjuvant Opnurasib KRAS G12C Inhibitor in Patients With Surgically Resectable Non-Small Cell Lung Cancer (CCTG IND.242A): A Substudy of the IND.242 Platform Master Protocol.",
+        "pubdate": "2025 Mar",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39394034/"
+      },
+      {
+        "pmid": "36399068",
+        "title": "JDQ443, a Structurally Novel, Pyrazole-Based, Covalent Inhibitor of KRAS(G12C) for the Treatment of Solid Tumors.",
+        "pubdate": "2022 Dec 22",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36399068/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

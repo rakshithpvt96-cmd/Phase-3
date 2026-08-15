@@ -1,0 +1,75 @@
+{
+  "drug_name": "Riliprubart",
+  "slug": "riliprubart",
+  "enriched_at": "2026-08-15T21:47:27Z",
+  "source_trial_ids": [
+    "NCT06290128"
+  ],
+  "sponsors": [
+    {
+      "name": "Sanofi",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Sanofi&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2666488",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL5315038",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Riliprubart+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Riliprubart+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Riliprubart+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Chronic Inflammatory Demyelinating Polyradiculoneuropathy",
+    "slug": "chronic-inflammatory-demyelinating-polyradiculoneuropathy"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06290128",
+      "title": "A Study to Test the Effects and Safety of Riliprubart in People With Chronic Inflammatory Demyelinating Polyneuropathy (CIDP) for Which the Usual Treatments do Not Work",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06290128",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "39171350",
+        "title": "Pharmacokinetics, pharmacodynamics, safety, and tolerability of a single-dose riliprubart, an anti-C1s humanized monoclonal antibody in East-Asian adults: results from a Phase 1, randomized, open-label trial.",
+        "pubdate": "2024 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39171350/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

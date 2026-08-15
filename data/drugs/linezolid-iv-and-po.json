@@ -1,0 +1,132 @@
+{
+  "drug_name": "Linezolid (IV and PO)",
+  "slug": "linezolid-iv-and-po",
+  "enriched_at": "2026-08-15T21:51:55Z",
+  "source_trial_ids": [
+    "NCT05369052"
+  ],
+  "sponsors": [
+    {
+      "name": "MicuRx",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=MicuRx&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "190376",
+      "generic_name": "linezolid",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL126",
+    "target_chembl_id": "CHEMBL2363135",
+    "target_name": "Bacterial 70S ribosome",
+    "mechanism_of_action_chembl": "Bacterial 70S ribosome inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Linezolid%20%28IV%20and%20PO%29+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Linezolid%20%28IV%20and%20PO%29+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Linezolid%20%28IV%20and%20PO%29+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Diabetic Foot Infection",
+    "slug": "diabetic-foot-infection"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05369052",
+      "title": "Safety and Efficacy Study of Contezolid Acefosamil and Contezolid Compared to Linezolid Administered Intravenously and Orally to Adults With Moderate or Severe Diabetic Foot Infections (DFI)",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05369052",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "39461915",
+        "title": "Intravenous Versus Oral Omadacycline or Linezolid for Acute Bacterial Skin and Skin Infections: A post hoc Analysis of the OASIS Trials.",
+        "pubdate": "2024 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39461915/"
+      },
+      {
+        "pmid": "30988146",
+        "title": "Efficacy and Safety of Tedizolid Phosphate versus Linezolid in a Randomized Phase 3 Trial in Patients with Acute Bacterial Skin and Skin Structure Infection.",
+        "pubdate": "2019 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30988146/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "CHLORAMPHENICOL",
+        "chembl_id": "CHEMBL130",
+        "reason": "same target: Bacterial 70S ribosome"
+      },
+      {
+        "name": "AMIKACIN SULFATE",
+        "chembl_id": "CHEMBL4208954",
+        "reason": "same target: Bacterial 70S ribosome"
+      },
+      {
+        "name": "OXYTETRACYCLINE",
+        "chembl_id": "CHEMBL1517",
+        "reason": "same target: Bacterial 70S ribosome"
+      },
+      {
+        "name": "OXYTETRACYCLINE CALCIUM",
+        "chembl_id": "CHEMBL3989568",
+        "reason": "same target: Bacterial 70S ribosome"
+      },
+      {
+        "name": "METHACYCLINE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL2146123",
+        "reason": "same target: Bacterial 70S ribosome"
+      },
+      {
+        "name": "CLINDAMYCIN PHOSPHATE",
+        "chembl_id": "CHEMBL3184512",
+        "reason": "same target: Bacterial 70S ribosome"
+      },
+      {
+        "name": "CHLORAMPHENICOL SODIUM SUCCINATE",
+        "chembl_id": "CHEMBL1200729",
+        "reason": "same target: Bacterial 70S ribosome"
+      },
+      {
+        "name": "ERYTHROMYCIN STEARATE",
+        "chembl_id": "CHEMBL1200510",
+        "reason": "same target: Bacterial 70S ribosome"
+      },
+      {
+        "name": "DIRITHROMYCIN",
+        "chembl_id": "CHEMBL1237072",
+        "reason": "same target: Bacterial 70S ribosome"
+      },
+      {
+        "name": "ERYTHROMYCIN GLUCEPTATE",
+        "chembl_id": "CHEMBL3545060",
+        "reason": "same target: Bacterial 70S ribosome"
+      }
+    ]
+  }
+}

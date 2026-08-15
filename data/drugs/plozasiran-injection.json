@@ -1,0 +1,109 @@
+{
+  "drug_name": "Plozasiran Injection",
+  "slug": "plozasiran-injection",
+  "enriched_at": "2026-08-15T21:46:33Z",
+  "source_trial_ids": [
+    "NCT06347003",
+    "NCT06347016",
+    "NCT06347133"
+  ],
+  "sponsors": [
+    {
+      "name": "Arrowhead Pharmaceuticals",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Arrowhead%20Pharmaceuticals&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2727339",
+      "generic_name": "plozasiran Injectable Product",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL6068438",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Plozasiran%20Injection+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Plozasiran%20Injection+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Plozasiran%20Injection+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Hypertriglyceridemia",
+    "slug": "hypertriglyceridemia"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06347003",
+      "title": "Study of Plozasiran (ARO-APOC3) in Adults With Severe Hypertriglyceridemia",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06347003",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06347016",
+      "title": "Study of Plozasiran in Adults With Severe Hypertriglyceridemia",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06347016",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06347133",
+      "title": "Phase 3 Study of Plozasiran in Adults With Hypertriglyceridemia",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06347133",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "41358055",
+        "title": "Course of Pregnancy in a Woman With Familial Chylomicronemia Syndrome Treated With Plozasiran, a Small Interfering RNA Against ApoC3.",
+        "pubdate": "2026 Jan",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41358055/"
+      },
+      {
+        "pmid": "40470916",
+        "title": "Population Pharmacokinetic Modeling of Subcutaneous Plozasiran in Healthy Volunteers and Patients with Familial Chylomicronemia Syndrome, Severe Hypertriglyceridemia, and Mixed Hyperlipidemia.",
+        "pubdate": "2025 Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40470916/"
+      },
+      {
+        "pmid": "39243856",
+        "title": "Safety and Efficacy of the Novel RNA Interference Therapies for Hypertriglyceridemia and Mixed Hyperlipidemia Management: A Systematic Review and Meta-analysis.",
+        "pubdate": "2024 Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39243856/"
+      },
+      {
+        "pmid": "39225259",
+        "title": "Plozasiran for Managing Persistent Chylomicronemia and Pancreatitis Risk.",
+        "pubdate": "2025 Jan 9",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39225259/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

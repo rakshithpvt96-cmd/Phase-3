@@ -1,0 +1,156 @@
+{
+  "drug_name": "Regorafenib",
+  "slug": "regorafenib",
+  "enriched_at": "2026-08-15T21:47:15Z",
+  "source_trial_ids": [
+    "NCT05425940"
+  ],
+  "sponsors": [
+    {
+      "name": "Exelixis",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Exelixis&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 11167602,
+    "iupac_name": "4-[4-[[4-chloro-3-(trifluoromethyl)phenyl]carbamoylamino]-3-fluorophenoxy]-N-methylpyridine-2-carboxamide",
+    "molecular_formula": "C21H15ClF4N4O3",
+    "molecular_weight": "482.8",
+    "canonical_smiles": null,
+    "inchikey": "FNHKPVJBJVTLMP-UHFFFAOYSA-N",
+    "rxnorm": {
+      "rxcui": "1312397",
+      "generic_name": "regorafenib",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1946170",
+    "target_chembl_id": "CHEMBL1862",
+    "target_name": "Tyrosine-protein kinase ABL1",
+    "mechanism_of_action_chembl": "Tyrosine-protein kinase ABL inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Regorafenib is a small molecule inhibitor of multiple membrane-bound and intracellular kinases involved in normal cellular functions and in pathologic processes such as oncogenesis, tumor angiogenesis, metastasis and tumor immunity. In in vitro biochemical or cellular assays, regorafenib or its major human active metabolites M-2 and M-5 inhibited the activity of RET, VEGFR1, VEGFR2, VEGFR3, KIT, PDGFR-alpha, PDGFR-beta, FGFR1, FGFR2, TIE2, DDR2, TrkA, Eph2A, RAF-1, BRAF, BRAF V600E, SAPK2, PTK5, Abl and CSF1R at concentrations of regorafenib that have been achieved clinically. In in vivo models, regorafenib demonstrated anti-angiogenic activity in a rat tumor model and inhibition of tumor growth in several mouse xenograft models including some for human colorectal carcinoma, gastrointestinal stromal and hepatocellular carcinoma. Regorafenib also demonstrated anti-metastatic activity in a mouse xenograft model and two mouse orthotopic models of human colorectal carcinoma.",
+    "pharmacokinetics": "12.3 Pharmacokinetics Absorption Following a single 160 mg dose of STIVARGA in patients with advanced solid tumors, regorafenib reaches a geometric mean peak plasma level (C max ) of 2.5 µg/mL at a median time of 4 hours and a geometric mean area under the plasma concentration vs. time curve (AUC) of 70.4 µg*h/mL. The AUC of regorafenib at steady-state increases less than dose proportionally at doses greater than 60 mg. At steady-state, regorafenib reaches a geometric mean C max of 3.9 µg/mL and a geometric mean AUC of 58.3 µg*h/mL. The coefficient of variation of AUC and C max is between 35% and 44%. The mean relative bioavailability of tablets compared to an oral solution is 69% to 83%. In a food-effect study, 24 healthy men received a single 160 mg dose of STIVARGA on three separate occasions: under a fasted state, with a high-fat meal and with a low-fat meal. A high-fat meal (945 calories and 54.6 g fat) increased the mean AUC of regorafenib by 48% and decreased the mean AUC of the M-2 and M-5 metabolites by 20% and 51%, respectively, as compared to the fasted state. A low-fat meal (319 calories and 8.2 g fat) increased the mean AUC of regorafenib, M-2 and M-5 by 36%, 40% and 23%, respectively as compared to fasted conditions. STIVARGA was administered with a low-fat meal in the CORRECT and GRID studies [see Dosage and Administration ( 2.1 ), Clinical Studies ( 14 )]. Distribution Regorafenib undergoes enterohepatic circulation with multiple plasma concentration peaks observed across the 24-hour dosing interval. Regorafenib is highly bound (99.5%) to human plasma proteins. Elimination Following a single 160 mg oral dose of STIVARGA, the geometric mean (minimum to maximum) elimination half-lives for regorafenib and the M-2 metabolite in plasma are 28 hours (14 to 58 hours) and 25 hours (14 to 32 hours), respectively. M-5 has a longer mean (minimum to maximum) elimination half-life of 51 hours (32 to 70 hours). Metabolism Regorafenib is metabolized by CYP3A4 and UGT1A9. The main circulating metabolites of regorafenib measured at steady-state in human plasma are M-2 (N-oxide) and M-5 (N-oxide and N-desmethyl). Both metabolites have similar in vitro pharmacological activity and steady-state concentrations as regorafenib. M-2 and M-5 are highly protein bound (99.8% and 99.95%, respectively). Excretion Approximately 71% of a radiolabeled dose was excreted in feces (47% as parent compound, 24% as metabolites) and 19% of the dose was excreted in urine (17% as glucuronides) within 12 days after administration of a radiolabeled oral solution at a dose of 120 mg. Specific Populations Age, sex, race and weight had no clinically meaningful effect on the pharmacokinetics of regorafenib. Hepatic Impairment Based on a population pharmacokinetic analysis, no clinically important differences in the mean total exposure of regorafenib, including M-2 and M-5, were noted amongst patients with normal liver function (total bilirubin and AST ≤ ULN, n=744), mild hepatic impairment (total bilirubin ≤ ULN and AST >ULN or total bilirubin >ULN to ≤1.5x ULN, n=437), and moderate hepatic impairment (total bilirubin >1.5x to ≤3x ULN and any AST, n=36). The pooled analysis included 391 patients with HCC of whom 116, 249, and 26 were categorized as having normal liver function, mild, and moderate hepatic impairment, respectively. The pharmacokinetics of regorafenib were not evaluated in patients with severe hepatic impairment (total bilirubin >3x ULN). Renal Impairment The pharmacokinetics of regorafenib, M-2, and M-5 was evaluated in 6 patients with severe renal impairment (CLcr 15-29 mL/min) and 18 patients with normal/mild renal function (CLcr ≥60 mL/min) following the administration of STIVARGA at a dose of 160 mg daily for 21 days. No differences in the mean steady-state exposure of regorafenib, M-2, or M-5 were observed in patients with severe renal impairment compared to patients with normal renal function. The pharmacokinetics of regorafenib has not been studied in patients with end-stage renal disease on dialysis. Drug Interaction Studies Effect of Regorafenib on Cytochrome P450 Substrates: In vitro studies suggested that regorafenib is an inhibitor of CYP2C8, CYP2C9, CYP2B6, CYP3A4 and CYP2C19; M-2 is an inhibitor of CYP2C9, CYP2C8, CYP3A4 and CYP2D6, and M-5 is an inhibitor of CYP2C8. In vitro studies suggested that regorafenib is not an inducer of CYP1A2, CYP2B6, CYP2C19, and CYP3A4 enzyme activity. Patients with advanced solid tumors received single oral doses of CYP substrates, 2 mg of midazolam (CYP3A4), 40 mg of omeprazole (CYP2C19) and 10 mg of warfarin (CYP2C9) or 4 mg of rosiglitazone (CYP2C8) one week before and two weeks after STIVARGA at a dose of 160 mg once daily. No clinically meaningful effect was observed in the mean AUC of rosiglitazone (N=12) or the mean omeprazole (N=11) plasma concentrations measured 6 hours after dosing or the mean AUC of midazolam (N=15). The mean AUC of warfarin (N=8) increased by 25% [see Warnings and Precautions ( 5.2 )]. Effect of CYP3A4 Strong Inducers on Regorafenib: Twenty-two healthy men received a single 160 mg dose of STIVARGA alone and then 7 days after starting rifampin. Rifampin, a strong CYP3A4 inducer, was administered at a dose of 600 mg daily for 9 days. The mean AUC of regorafenib decreased by 50% and mean AUC of M-5 increased by 264%. No change in the mean AUC of M-2 was observed [see Drug Interactions ( 7.1 )] . Effect of CYP3A4 Strong Inhibitors on Regorafenib: Eighteen healthy men received a single 160 mg dose of STIVARGA alone and then 5 days after starting ketoconazole. Ketoconazole, a strong CYP3A4 inhibitor, was administered at a dose of 400 mg daily for 18 days. The mean AUC of regorafenib increased by 33% and the mean AUC of M-2 and M-5 both decreased by 93% [see Drug Interactions ( 7.2 )] . Effect of Neomycin on Regorafenib: Twenty-seven healthy men received a single 160 mg dose of STIVARGA and then 5 days after starting neomycin. Neomycin, a non-absorbable antibiotic, was administered at a dose of 1 gram three times daily for 5 days. No clinically meaningful effect on the mean AUC of regorafenib was observed; however, the mean AUC of M-2 decreased by 76% and the mean AUC of M-5 decreased by 86%. The decreased exposure of M-2 and M-5 may result in a decreased efficacy of STIVARGA. The effects of other antibiotics on the exposure of regorafenib and its active metabolites have not been studied. Effect of Regorafenib on UGT1A1 Substrates: In vitro studies showed that regorafenib, M-2, and M-5 competitively inhibit UGT1A9 and UGT1A1 at therapeutically relevant concentrations . Eleven patients received irinotecan-containing combination chemotherapy with STIVARGA at a dose of 160 mg. The mean AUC of irinotecan increased by 28% and the mean AUC of SN-38 increased by 44% when irinotecan was administered 5 days after the last of 7 daily doses of STIVARGA. Effect of Regorafenib on BCRP Substrates: Administration of regorafenib (160 mg for 14 days) prior to administration of a single dose of rosuvastatin (5 mg), a BCRP substrate, resulted in a 3.8-fold increase in mean exposure (AUC) of rosuvastatin and a 4.6-fold increase in C max [see Drug Interactions ( 7.3 )] .",
+    "indications_and_usage": "1 INDICATIONS AND USAGE STIVARGA is a kinase inhibitor indicated for the treatment of adult patients with: • Metastatic colorectal cancer (CRC) who have been previously treated with fluoropyrimidine-, oxaliplatin- and irinotecan-based chemotherapy, an anti-VEGF therapy, and, if RAS wild-type, an anti-EGFR therapy. ( 1.1 ) • Locally advanced, unresectable or metastatic gastrointestinal stromal tumor (GIST) who have been previously treated with imatinib mesylate and sunitinib malate. ( 1.2 ) • Hepatocellular carcinoma (HCC) who have been previously treated with sorafenib ( 1.3 ) 1.1 Colorectal Cancer STIVARGA is indicated for the treatment of adult patients with metastatic colorectal cancer (CRC) who have been previously treated with fluoropyrimidine-, oxaliplatin- and irinotecan-based chemotherapy, an anti-VEGF therapy, and, if RAS wild-type, an anti-EGFR therapy. 1.2 Gastrointestinal Stromal Tumors STIVARGA is indicated for the treatment of adult patients with locally advanced, unresectable or metastatic gastrointestinal stromal tumor (GIST) who have been previously treated with imatinib mesylate and sunitinib malate. 1.3 Hepatocellular Carcinoma STIVARGA is indicated for the treatment of adult patients with hepatocellular carcinoma (HCC) who have been previously treated with sorafenib.",
+    "boxed_warning": "WARNING: HEPATOTOXICITY • Severe and sometimes fatal hepatotoxicity has occurred in clinical trials [see Warnings and Precautions ( 5.1 )] . • Monitor hepatic function prior to and during treatment [see Warnings and Precautions ( 5.1 )]. • Interrupt and then reduce or discontinue STIVARGA for hepatotoxicity as manifested by elevated liver function tests or hepatocellular necrosis, depending upon severity and persistence [see Dosage and Administration ( 2.2 )] . WARNING: HEPATOTOXICITY See full prescribing information for complete boxed warning. • Severe and sometimes fatal hepatotoxicity has occurred in clinical trials. ( 5.1 ) • Monitor hepatic function prior to and during treatment. ( 5.1 ) • Interrupt and then reduce or discontinue STIVARGA for hepatotoxicity as manifested by elevated liver function tests or hepatocellular necrosis, depending upon severity and persistence. ( 2.2 )",
+    "openfda_brand_names": [
+      "Stivarga"
+    ],
+    "openfda_generic_names": [
+      "REGORAFENIB"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=824f19c9-0546-4a8a-8d8f-c4055c04f7c7",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Colorectal Cancer",
+    "slug": "colorectal-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05425940",
+      "title": "Study of XL092 + Atezolizumab vs Regorafenib in Participants With Metastatic Colorectal Cancer",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05425940",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42477619",
+        "title": "Efficacy and safety of cetuximab-irinotecan rechallenge versus regorafenib in ras wild-type metastatic colorectal cancer: a single-center exploratory randomized trial.",
+        "pubdate": "2026 Jul 21",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42477619/"
+      },
+      {
+        "pmid": "42428050",
+        "title": "Optimizing third-line and beyond therapies for metastatic colorectal cancer in Taiwan: an evidence-based consensus.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42428050/"
+      },
+      {
+        "pmid": "42337018",
+        "title": "Efficacy of hydrocolloid dressing for hand-foot skin reaction: J-SUPPORT 1701 APRON trial.",
+        "pubdate": "2026 Jun 23",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42337018/"
+      },
+      {
+        "pmid": "42325608",
+        "title": "Phase 2 study of regorafenib in patients with progressive glioblastoma after failure of bevacizumab.",
+        "pubdate": "2026 Jan-Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42325608/"
+      },
+      {
+        "pmid": "42248751",
+        "title": "Fruquintinib or Regorafenib? A Weighted Toxicity Score Analysis to Facilitate Better Discussions on Toxicity and Benefits in Later-line Colorectal Cancer Treatment.",
+        "pubdate": "2026 May 12",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42248751/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "NILOTINIB HYDROCHLORIDE MONOHYDRATE",
+        "chembl_id": "CHEMBL1201740",
+        "reason": "same target: Tyrosine-protein kinase ABL1"
+      },
+      {
+        "name": "DASATINIB ANHYDROUS",
+        "chembl_id": "CHEMBL1421",
+        "reason": "same target: Tyrosine-protein kinase ABL1"
+      },
+      {
+        "name": "BOSUTINIB",
+        "chembl_id": "CHEMBL288441",
+        "reason": "same target: Tyrosine-protein kinase ABL1"
+      },
+      {
+        "name": "IMATINIB MESYLATE",
+        "chembl_id": "CHEMBL1642",
+        "reason": "same target: Tyrosine-protein kinase ABL1"
+      },
+      {
+        "name": "ASCIMINIB",
+        "chembl_id": "CHEMBL4208229",
+        "reason": "same target: Tyrosine-protein kinase ABL1"
+      },
+      {
+        "name": "AZD-0424",
+        "chembl_id": "CHEMBL5314408",
+        "reason": "same target: Tyrosine-protein kinase ABL1"
+      },
+      {
+        "name": "KW-2449",
+        "chembl_id": "CHEMBL1908397",
+        "reason": "same target: Tyrosine-protein kinase ABL1"
+      },
+      {
+        "name": "XL-228",
+        "chembl_id": "CHEMBL3545085",
+        "reason": "same target: Tyrosine-protein kinase ABL1"
+      },
+      {
+        "name": "AT-9283",
+        "chembl_id": "CHEMBL495727",
+        "reason": "same target: Tyrosine-protein kinase ABL1"
+      },
+      {
+        "name": "AZM-475271",
+        "chembl_id": "CHEMBL426161",
+        "reason": "same target: Tyrosine-protein kinase ABL1"
+      }
+    ]
+  }
+}

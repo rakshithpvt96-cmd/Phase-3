@@ -1,0 +1,156 @@
+{
+  "drug_name": "Oxaliplatin",
+  "slug": "oxaliplatin",
+  "enriched_at": "2026-08-15T21:41:26Z",
+  "source_trial_ids": [
+    "NCT06625320"
+  ],
+  "sponsors": [
+    {
+      "name": "Revolution Medicines, Inc.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Revolution%20Medicines%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 9887053,
+    "iupac_name": "[(1R,2R)-2-azanidylcyclohexyl]azanide;oxalic acid;platinum(2+)",
+    "molecular_formula": "C8H14N2O4Pt",
+    "molecular_weight": "397.29",
+    "canonical_smiles": null,
+    "inchikey": "DRMCATBEKSVAPL-BNTLRKBRSA-N",
+    "rxnorm": {
+      "rxcui": "32592",
+      "generic_name": "oxaliplatin",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL414804",
+    "target_chembl_id": "CHEMBL2311221",
+    "target_name": "DNA",
+    "mechanism_of_action_chembl": "DNA inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Oxaliplatin undergoes nonenzymatic conversion in physiologic solutions to active derivatives via displacement of the labile oxalate ligand. Several transient reactive species are formed, including monoaquo and diaquo DACH platinum, which covalently bind with macromolecules. Both inter- and intrastrand Pt-DNA crosslinks are formed. Crosslinks are formed between the N7 positions of two adjacent guanines (GG), adjacent adenine-guanines (AG), and guanines separated by an intervening nucleotide (GNG). These crosslinks inhibit DNA replication and transcription. Cytotoxicity is cell-cycle nonspecific. In vivo studies have shown antitumor activity of oxaliplatin against colon carcinoma. In combination with fluorouracil, oxaliplatin exhibits in vitro and in vivo antiproliferative activity greater than either compound alone in several tumor models (HT29 [colon], GR [mammary], and L1210 [leukemia]).",
+    "pharmacokinetics": "12.3 Pharmacokinetics The reactive oxaliplatin derivatives are present as a fraction of the unbound platinum in plasma ultrafiltrate. After a single 2-hour intravenous infusion of oxaliplatin at a dose of 85 mg/m 2 , pharmacokinetic parameters expressed as ultrafiltrable platinum were C max of 0.814 mcg/mL and volume of distribution of 440 L. Interpatient and intrapatient variability in ultrafiltrable platinum exposure (AUC 0–48hr ) assessed over 3 cycles was 23% and 6%, respectively. Distribution At the end of a 2-hour infusion of oxaliplatin, approximately 15% of the administered platinum is present in the systemic circulation. The remaining 85% is rapidly distributed into tissues or eliminated in the urine. The decline of ultrafiltrable platinum levels following oxaliplatin administration is triphasic, including two distribution phases (t 1/2α ; 0.43 hours and t 1/2β ; 16.8 hours). In patients, plasma protein binding of platinum is irreversible and is greater than 90%. The main binding proteins are albumin and gamma-globulins. Platinum also binds irreversibly and accumulates (approximately 2-fold) in erythrocytes, where it appears to have no relevant activity. No platinum accumulation was observed in plasma ultrafiltrate following 85 mg/m 2 every two weeks. Elimination The decline of ultrafiltrable platinum concentrations from plasma is characterized by a long terminal elimination phase (t 1/2γ ; 391 hour). Metabolism Oxaliplatin undergoes rapid and extensive nonenzymatic biotransformation. There is no evidence of cytochrome P450-mediated metabolism in vitro . Up to 17 platinum-containing derivatives have been observed in plasma ultrafiltrate samples from patients, including several cytotoxic species (monochloro DACH platinum, dichloro DACH platinum, and monoaquo and diaquo DACH platinum) and a number of noncytotoxic, conjugated species. Excretion The major route of platinum elimination is renal excretion. At five days after a single 2-hour infusion of oxaliplatin, urinary elimination accounted for about 54% of the platinum eliminated, with fecal excretion accounting for only about 2%. Platinum was cleared from plasma at a rate (10 to 17 L/h) that was similar to or exceeded the average human glomerular filtration rate (GFR; 7.5 L/h). The renal clearance of ultrafiltrable platinum is significantly correlated with GFR. Special Populations Sex There was no significant effect of sex on the clearance of ultrafiltrable platinum. Patients with renal impairment Patients with normal function (CLcr greater than 80 mL/min) and patients with mild (CLcr=50 to 80 mL/min) and moderate (CLcr equal to 30 to 49 mL/min) renal impairment received oxaliplatin 85 mg/m 2 and those with severe (CLcr less than 30 mL/min) renal impairment received oxaliplatin 65 mg/m 2 . Mean dose adjusted AUC of unbound platinum was 40%, 95%, and 342% higher for patients with mild, moderate, and severe renal impairment, respectively, compared to patients with normal renal function. Mean dose adjusted C max of unbound platinum appeared to be similar among the normal, mild and moderate renal function groups, but was 38% higher in the severe group than in the normal group [see Dosage and Administration ( 2.3 )] . Drug Interaction Studies No pharmacokinetic interaction between oxaliplatin 85 mg/m 2 and infusional fluorouracil has been observed in patients treated every 2 weeks, but increases of fluorouracil plasma concentrations by approximately 20% have been observed with doses of 130 mg/m 2 of oxaliplatin administered every 3 weeks. In vitro platinum was not displaced from plasma proteins by the following medications: erythromycin, salicylate, sodium valproate, granisetron, and paclitaxel. In vitro oxaliplatin does not inhibit human cytochrome P450 isoenzymes.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE Oxaliplatin Injection, in combination with infusional fluorouracil and leucovorin, is indicated for: adjuvant treatment of stage III colon cancer in patients who have undergone complete resection of the primary tumor. treatment of advanced colorectal cancer. Oxaliplatin Injection is a platinum-based drug used in combination with infusional fluorouracil and leucovorin, which is indicated for: adjuvant treatment of stage III colon cancer in patients who have undergone complete resection of the primary tumor. ( 1 ) treatment of advanced colorectal cancer. ( 1 )",
+    "boxed_warning": "WARNING: HYPERSENSITIVITY REACTIONS, INCLUDING ANAPHYLAXIS Serious and fatal hypersensitivity adverse reactions, including anaphylaxis, can occur with oxaliplatin within minutes of administration and during any cycle. Oxaliplatin is contraindicated in patients with hypersensitivity reactions to oxaliplatin and other platinum-based drugs [see Contraindications ( 4 )] . Immediately and permanently discontinue oxaliplatin for hypersensitivity reactions and administer appropriate treatment for management of the hypersensitivity reaction [see Warnings and Precautions ( 5.1 )]. WARNING: HYPERSENSITIVITY REACTIONS, INCLUDING ANAPHYLAXIS See full prescribing information for complete boxed warning. Serious and fatal hypersensitivity adverse reactions, including anaphylaxis, can occur with oxaliplatin within minutes of administration and during any cycle. Oxaliplatin is contraindicated in patients with hypersensitivity reactions to oxaliplatin and other platinum-based drugs. Immediately and permanently discontinue oxaliplatin for hypersensitivity reactions and administer appropriate treatment. ( 4 , 5.1 )",
+    "openfda_brand_names": [
+      "Oxaliplatin"
+    ],
+    "openfda_generic_names": [
+      "OXALIPLATIN"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1ac38523-480b-4c0f-97a1-7dfa1432923c",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Pancreatic Cancer",
+    "slug": "pancreatic-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06625320",
+      "title": "Phase 3 Study of Daraxonrasib (RMC-6236) in Patients With Previously Treated Metastatic Pancreatic Ductal Adenocarcinoma (PDAC)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06625320",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42600610",
+        "title": "Adjuvant oxaliplatin with S-1 (SOX) versus S-1 for stage II-III gastric cancer (CAPITAL): A randomized, open-label, phase 3 trial.",
+        "pubdate": "2026 Aug 14",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42600610/"
+      },
+      {
+        "pmid": "42598252",
+        "title": "A Real-World Study Characterizing a US Population of Patients Receiving Rituximab With Gemcitabine and Oxaliplatin for Relapsed or Refractory Large B-Cell Lymphoma.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42598252/"
+      },
+      {
+        "pmid": "42591252",
+        "title": "Efficacy and safety of warm acupuncture in oxaliplatin-induced chronic peripheral neuropathy: a multicentre, randomized controlled trial protocol.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42591252/"
+      },
+      {
+        "pmid": "42545685",
+        "title": "Addition of High-Dose Vitamin D3 to Standard Treatment in Patients With Metastatic Colorectal Cancer: The SOLARIS Randomized Clinical Trial (Alliance A021703).",
+        "pubdate": "2026 Aug 3",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42545685/"
+      },
+      {
+        "pmid": "42525419",
+        "title": "Maximal Ablative Irradiation Because of Encasement for Patients With Locally Advanced Pancreatic Cancer: A Nonrandomized Clinical Trial.",
+        "pubdate": "2026 Jul 29",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42525419/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "DORNASE ALFA",
+        "chembl_id": "CHEMBL1201431",
+        "reason": "same target: DNA"
+      },
+      {
+        "name": "DESOXYRIBONUCLEASE",
+        "chembl_id": "CHEMBL1201459",
+        "reason": "same target: DNA"
+      },
+      {
+        "name": "GEMTUZUMAB OZOGAMICIN",
+        "chembl_id": "CHEMBL1201506",
+        "reason": "same target: DNA"
+      },
+      {
+        "name": "BENDAMUSTINE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1201734",
+        "reason": "same target: DNA"
+      },
+      {
+        "name": "DACTINOMYCIN",
+        "chembl_id": "CHEMBL1554",
+        "reason": "same target: DNA"
+      },
+      {
+        "name": "CYCLOPHOSPHAMIDE",
+        "chembl_id": "CHEMBL1200796",
+        "reason": "same target: DNA"
+      },
+      {
+        "name": "MECHLORETHAMINE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1201001",
+        "reason": "same target: DNA"
+      },
+      {
+        "name": "STREPTOZOCIN",
+        "chembl_id": "CHEMBL1977579",
+        "reason": "same target: DNA"
+      },
+      {
+        "name": "NELARABINE",
+        "chembl_id": "CHEMBL1201112",
+        "reason": "same target: DNA"
+      },
+      {
+        "name": "EPIRUBICIN HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1200981",
+        "reason": "same target: DNA"
+      }
+    ]
+  }
+}

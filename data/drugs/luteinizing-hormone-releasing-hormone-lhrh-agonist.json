@@ -1,0 +1,99 @@
+{
+  "drug_name": "Luteinizing hormone-releasing hormone (LHRH) agonist",
+  "slug": "luteinizing-hormone-releasing-hormone-lhrh-agonist",
+  "enriched_at": "2026-08-15T21:37:13Z",
+  "source_trial_ids": [
+    "NCT04711252"
+  ],
+  "sponsors": [
+    {
+      "name": "AstraZeneca",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=AstraZeneca&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "6384",
+      "generic_name": "gonadorelin",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL437798",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Luteinizing%20hormone-releasing%20hormone%20%28LHRH%29%20agonist+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Luteinizing%20hormone-releasing%20hormone%20%28LHRH%29%20agonist+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Luteinizing%20hormone-releasing%20hormone%20%28LHRH%29%20agonist+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "ER-Positive HER2-Negative Breast Cancer",
+    "slug": "er-positive-her2-negative-breast-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04711252",
+      "title": "A Comparative Study of AZD9833 Plus Palbociclib Versus Anastrozole Plus Palbociclib in Patients With ER-Positive HER2 Negative Breast Cancer Who Have Not Received Any Systemic Treatment for Advanced Disease",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04711252",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42574969",
+        "title": "A phase II study of androgen receptor inhibition by darolutamide in combination with leuprolide acetate and exemestane in recurrent adult-type ovarian granulosa cell tumor.",
+        "pubdate": "2026 Aug 10",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42574969/"
+      },
+      {
+        "pmid": "42571060",
+        "title": "The Effect of Intramuscular Human Chorionic Gonadotropin on Endometrial Preparation in Frozen-Thawed Embryo Transfer: A Randomized Clinical Trial.",
+        "pubdate": "2026 Jul 27",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42571060/"
+      },
+      {
+        "pmid": "42425545",
+        "title": "Progestogen-primed ovarian stimulation vs GnRH antagonists and/or agonists for women undergoing assisted reproduction: systematic review and meta-analysis.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42425545/"
+      },
+      {
+        "pmid": "42406777",
+        "title": "Linzagolix versus leuprorelin in Japanese women with uterine leiomyomas: a phase 3, randomized, active-controlled, non-inferiority trial.",
+        "pubdate": "2026 Jul 6",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42406777/"
+      },
+      {
+        "pmid": "42312114",
+        "title": "Effect of dual trigger on pregnancy outcomes in women with diminished ovarian reserve: A single-blind randomized clinical trial.",
+        "pubdate": "2026 Apr",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42312114/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

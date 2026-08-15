@@ -1,0 +1,150 @@
+{
+  "drug_name": "Ixekizumab",
+  "slug": "ixekizumab",
+  "enriched_at": "2026-08-15T21:36:11Z",
+  "source_trial_ids": [
+    "NCT06945107"
+  ],
+  "sponsors": [
+    {
+      "name": "Innovent Biopharmaceutical Technology (Hangzhou) Co., LTD.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Innovent%20Biopharmaceutical%20Technology%20%28Hangzhou%29%20Co.%2C%20LTD.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1745099",
+      "generic_name": "ixekizumab",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1743034",
+    "target_chembl_id": "CHEMBL3390822",
+    "target_name": "Interleukin-17A",
+    "mechanism_of_action_chembl": "Interleukin 17A inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Ixekizumab is a humanized IgG4 monoclonal antibody that selectively binds with the interleukin 17A (IL-17A) cytokine and inhibits its interaction with the IL-17 receptor. IL-17A is a naturally occurring cytokine that is involved in normal inflammatory and immune responses. Ixekizumab inhibits the release of proinflammatory cytokines and chemokines.",
+    "pharmacokinetics": "12.3 Pharmacokinetics The pharmacokinetic (PK) properties of ixekizumab were similar across the adult plaque psoriasis, psoriatic arthritis, ankylosing spondylitis, and non-radiographic axial spondyloarthritis indications. Absorption Following a single subcutaneous dose of 160 mg in subjects with plaque psoriasis, ixekizumab reached peak mean (±SD) serum concentrations (C max ) of 16.2 ±6.6 mcg/mL by approximately 4 days post dose. Steady-state concentrations were achieved by Week 8 following the 160 mg starting dose and 80 mg every 2 weeks dosing regimen; the mean ±SD steady-state trough concentration was 9.3 ±5.3 mcg/mL. Steady-state concentrations were achieved approximately 10 weeks after switching from the 80 mg every 2 weeks dosing regimen to the 80 mg every 4 weeks dosing regimen at Week 12. The mean ±SD steady-state trough concentration was 3.5 ±2.5 mcg/mL. In studies of subjects with plaque psoriasis, ixekizumab bioavailability ranged from 60% to 81% following subcutaneous injection. Administration of ixekizumab via injection in the thigh achieved a higher bioavailability relative to that achieved using other injection sites including the arm and abdomen. Distribution The mean (geometric CV%) volume of distribution at steady-state was 7.11 L (29%) in subjects with plaque psoriasis. Elimination The metabolic pathway of ixekizumab has not been characterized. As a humanized IgG4 monoclonal antibody ixekizumab is expected to be degraded into small peptides and amino acids via catabolic pathways in the same manner as endogenous IgG. The mean systemic clearance was 0.39 L/day (37%) and the mean (geometric CV%) half-life was 13 days (40%) in subjects with plaque psoriasis. Weight Ixekizumab clearance and volume of distribution increase as body weight increases. Dose Linearity Ixekizumab exhibited dose-proportional pharmacokinetics in subjects with plaque psoriasis over a dose range from 5 mg (not the recommended dose) to 160 mg following subcutaneous administration. Specific Populations Age: Geriatric Population Population pharmacokinetic analysis indicated that age did not significantly influence the clearance of ixekizumab in adult subjects with plaque psoriasis. Subjects who are 65 years or older had a similar ixekizumab clearance as compared to subjects less than 65 years old. Pediatric Population Pediatric psoriasis subjects (6 to less than 18 years of age) were administered ixekizumab at the recommended pediatric dosing regimen for 12 weeks. Subjects weighing >50 kg and 25 to 50 kg had a mean ±SD steady-state trough concentration of 3.8 ±2.2 mcg/mL and 3.9 ±2.4 mcg/mL at Week 12, respectively. There were limited PK data (n=2) in subjects weighing <25 kg at Week 12. Drug Interaction Studies Population PK data analyses indicated that the clearance of ixekizumab was not impacted by concomitant administration of methotrexate, or by prior exposure to methotrexate or adalimumab in patients with psoriatic arthritis. Population PK data analyses indicated that the clearance of ixekizumab was not impacted by concomitant administration of oral corticosteroids, NSAIDs, or cDMARDs (sulfasalazine and methotrexate) in patients with ankylosing spondylitis and non-radiographic axial spondyloarthritis. Cytochrome P450 Substrates No clinically significant changes in exposure of caffeine (CYP1A2 substrate), warfarin (CYP2C9 substrate), omeprazole (CYP2C19 substrate) or midazolam (CYP3A substrate) were observed in subjects with plaque psoriasis when used concomitantly with a single 160 mg dose of ixekizumab, or multiple doses of 80 mg every 2 weeks. The potential effect of ixekizumab on the CYP2D6 activity cannot be ruled out due to high variability in exposure (approximately ±2-fold) of dextromethorphan and its CYP2D6 metabolite dextrorphan in psoriasis subjects.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE TALTZ ® is a humanized interleukin-17A antagonist indicated for the treatment of: patients aged 6 years or older with moderate-to-severe plaque psoriasis who are candidates for systemic therapy or phototherapy. ( 1.1 ) adults with active psoriatic arthritis. ( 1.2 ) adults with active ankylosing spondylitis. ( 1.3 ) adults with active non-radiographic axial spondyloarthritis with objective signs of inflammation. ( 1.4 ) 1.1 Plaque Psoriasis TALTZ ® is indicated for the treatment of patients 6 years of age and older with moderate-to-severe plaque psoriasis who are candidates for systemic therapy or phototherapy. 1.2 Psoriatic Arthritis TALTZ is indicated for the treatment of adult patients with active psoriatic arthritis. 1.3 Ankylosing Spondylitis TALTZ is indicated for the treatment of adult patients with active ankylosing spondylitis. 1.4 Non-radiographic Axial Spondyloarthritis TALTZ is indicated for the treatment of adult patients with active non-radiographic axial spondyloarthritis (nr-axSpA) with objective signs of inflammation.",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "TALTZ"
+    ],
+    "openfda_generic_names": [
+      "IXEKIZUMAB"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ac96658a-d7dc-4c7c-8928-2adcdf4318b2",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Plaque Psoriasis",
+    "slug": "plaque-psoriasis"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06945107",
+      "title": "A Study of Switching to Picankibart in Chinese Patients With Plaque Psoriasis With an Inadequate Response to Interleukin-17 Monoclonal Antibody Therapy",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06945107",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42577288",
+        "title": "Dose Reduction of IL17 and IL23 Inhibitors in Psoriasis (BeNeBio study): An International, Pragmatic, Multicentre, Randomised, Controlled, Non-Inferiority Trial.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42577288/"
+      },
+      {
+        "pmid": "42507504",
+        "title": "Real-World Effectiveness and Safety of Ixekizumab in Moderate-to-Severe Plaque Psoriasis in the Indian Population: A Pilot Study.",
+        "pubdate": "2026 Jul 21",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42507504/"
+      },
+      {
+        "pmid": "42501238",
+        "title": "Effectiveness and Safety of IL-17A Inhibitors in Pediatric Psoriasis: A Real-World, Multicenter, International Study.",
+        "pubdate": "2026 Jul 25",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42501238/"
+      },
+      {
+        "pmid": "42350183",
+        "title": "Comparison of the established ASAS definition and preliminary proposed data-driven cut-offs for inflammatory and structural MRI lesions in the sacroiliac joints for eligibility of patients with nonradiographic axial spondyloarthritis in clinical trials.",
+        "pubdate": "2026 Jun 25",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42350183/"
+      },
+      {
+        "pmid": "42228347",
+        "title": "Efficacy of Ixekizumab in Radiographic Axial Spondyloarthritis by Baseline C-Reactive Protein Level: A Pooled Analysis of Phase III Trials.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42228347/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "SECUKINUMAB",
+        "chembl_id": "CHEMBL1743068",
+        "reason": "same target: Interleukin-17A"
+      },
+      {
+        "name": "AFASEVIKUMAB",
+        "chembl_id": "CHEMBL2109469",
+        "reason": "same target: Interleukin-17A"
+      },
+      {
+        "name": "PERAKIZUMAB",
+        "chembl_id": "CHEMBL2109470",
+        "reason": "same target: Interleukin-17A"
+      },
+      {
+        "name": "CJM-112",
+        "chembl_id": "CHEMBL4297926",
+        "reason": "same target: Interleukin-17A"
+      },
+      {
+        "name": "BIMEKIZUMAB",
+        "chembl_id": "CHEMBL4297700",
+        "reason": "same target: Interleukin-17A"
+      },
+      {
+        "name": "M-1095",
+        "chembl_id": "CHEMBL4298023",
+        "reason": "same target: Interleukin-17A"
+      },
+      {
+        "name": "REMTOLUMAB",
+        "chembl_id": "CHEMBL4297863",
+        "reason": "same target: Interleukin-17A"
+      },
+      {
+        "name": "IZOKIBEP",
+        "chembl_id": "CHEMBL4297686",
+        "reason": "same target: Interleukin-17A"
+      },
+      {
+        "name": "TIBULIZUMAB",
+        "chembl_id": "CHEMBL3990000",
+        "reason": "same target: Interleukin-17A"
+      },
+      {
+        "name": "VUNAKIZUMAB",
+        "chembl_id": "CHEMBL4298102",
+        "reason": "same target: Interleukin-17A"
+      }
+    ]
+  }
+}

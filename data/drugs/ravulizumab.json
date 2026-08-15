@@ -1,0 +1,158 @@
+{
+  "drug_name": "Ravulizumab",
+  "slug": "ravulizumab",
+  "enriched_at": "2026-08-15T21:46:56Z",
+  "source_trial_ids": [
+    "NCT05346354",
+    "NCT05644561"
+  ],
+  "sponsors": [
+    {
+      "name": "Alexion Pharmaceuticals, Inc.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Alexion%20Pharmaceuticals%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2107301",
+      "generic_name": "ravulizumab",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL3989986",
+    "target_chembl_id": "CHEMBL2364163",
+    "target_name": "Complement C5",
+    "mechanism_of_action_chembl": "Complement C5 inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Ravulizumab-cwvz is a terminal complement inhibitor that specifically binds to the complement protein C5 with high affinity, thereby inhibiting its cleavage to C5a (the proinflammatory anaphylatoxin) and C5b (the initiating subunit of the membrane attack complex [MAC or C5b-9]) thus preventing MAC formation. ULTOMIRIS inhibits terminal complement-mediated intravascular hemolysis in patients with PNH and complement-mediated thrombotic microangiopathy (TMA) in patients with aHUS. The precise mechanism by which ravulizumab-cwvz exerts its therapeutic effect in gMG patients is unknown, but is presumed to involve reduction of terminal complement complex C5b-9 deposition at the neuromuscular junction. The precise mechanism by which ravulizumab-cwvz exerts its therapeutic effect in NMOSD is unknown, but is presumed to involve inhibition of aquaporin-4 antibody-induced terminal complement C5b-9 deposition.",
+    "pharmacokinetics": "12.3 Pharmacokinetics Following ULTOMIRIS treatment, ravulizumab-cwvz pharmacokinetics increase proportionally over a dose range of 200 to 5400 mg. Ravulizumab-cwvz C max and C trough parameters are presented in Table 14, Table 15, Table 16, and Table 17. Table 14: Mean (%CV) Pharmacokinetic Parameters Following ULTOMIRIS Treatment in Patients with PNH who are Complement Inhibitor-Naïve and Patients Previously Treated with Eculizumab Pediatric Patients Adult Patients ALXN1210-PNH-304 ALXN1210-PNH-301 ALXN1210-PNH-302 N Complement Inhibitor-Naïve N Previously Treated with Eculizumab N Complement Inhibitor-Naïve N Previously Treated with Eculizumab Abbreviations: LD = Loading Dose; MD = Maintenance Dose C max (mcg/mL) LD 4 733 (14.5) 8 885 (19.3) 125 771 (21.5) 95 843 (24.1) MD 4 1490 (26.7) 8 1705 (9.7) 124 1,379 (20.0) 95 1,386 (19.4) C trough (mcg/mL) LD 4 368 (14.7) 8 452 (15.1) 125 391 (35.0) 96 405 (29.9) MD 4 495 (21.3) 8 566 (12.2) 124 473 (33.4) 95 501 (28.6) Table 15: Mean (%CV) Pharmacokinetic Parameters Following ULTOMIRIS Treatment in Patients with aHUS Pediatric Patients (ALXN1210-aHUS-312) Adult Patients (ALXN1210-aHUS-311) N < 20 kg MD Q4W N ≥ 20 to < 40 kg MD Q8W N ≥ 40 kg MD Q8W Abbreviations: LD = Loading Dose; MD = Maintenance Dose; Q4W = Every 4 Weeks; Q8W = Every 8 Weeks C max (mcg/mL) LD 8 656 (38.1) 4 600 (17.3) 52 754 (35.2) MD 7 1,467 (37.8) 6 1,863 (15.3) 46 1,458 (17.6) C trough (mcg/mL) LD 9 241 (52.1) 5 186 (16.5) 55 313 (33.9) MD 7 683 (46.1) 6 549 (34.1) 46 507 (42.5) Table 16: Mean (%CV) Pharmacokinetic Parameters Following ULTOMIRIS Treatment in Adult Patients with gMG N Adult Patients (ALXN1210-MG-306) Abbreviations: LD = Loading Dose; MD=Maintenance Dose C max (mcg/mL) LD 86 874 (21.1) MD 76 1548 (23.2) C trough (mcg/mL) LD 85 418 (27.6) MD 70 587 (29.6) Table 17: Mean (%CV) Pharmacokinetic Parameters Following ULTOMIRIS Treatment in Adult Patients with NMOSD N Adult Patients (ALXN1210-NMO-307) Abbreviations: LD = Loading Dose; MD=Maintenance Dose C max (mcg/mL) LD 58 935.3 (17.3) MD 56 1836.4 (19.4) C trough (mcg/mL) LD 58 459.1 (19.7) MD 54 796.9 (27.1) Distribution The mean (standard deviation [SD]) volume of distribution at steady state in patients with PNH, aHUS, gMG, or NMOSD are shown in Table 18. Elimination The mean (standard deviation [SD]) terminal elimination half-life and clearance of ravulizumab-cwvz are shown in Table 18. Table 18: Distribution, Biotransformation, and Elimination Parameters Following ULTOMIRIS Treatment Adult and Pediatric Patients with PNH Adult and Pediatric Patients with aHUS Adult Patients with gMG Adult Patients with NMOSD Distribution Volume of distribution at steady state (liters) Mean (SD) 5.30 (0.95) 5.22 (1.85) 5.74 (1.16) 4.77 (0.819) Biotransformation and Elimination Terminal elimination half-life (days) Mean (SD) 49.6 (9.08) 51.8 (16.2) 56.6 (8.36) 64.3 (11.0) Clearance (liters/day) Mean (SD) 0.08 (0.02) 0.08 (0.04) 0.08 (0.02) 0.05 (0.016) Specific Populations No clinically significant differences in the pharmacokinetics of ravulizumab-cwvz were observed based on sex, age (10 months to 83 years), race, hepatic impairment, or any degree of renal impairment, including patients with proteinuria or receiving dialysis. Body weight was a clinically significant covariate on the pharmacokinetics of ravulizumab-cwvz. Drug Interactions No drug-drug interaction studies have been performed. Neonatal Fc Receptor blocker treatment may interfere with the endosomal neonatal FcRn recycling mechanism of monoclonal antibodies such as ravulizumab and thereby decrease serum ravulizumab concentrations [see Drug Interactions (7.1 , 7.2) ] . Concomitant PE, PP, or IVIg treatment requires a supplemental dose of ULTOMIRIS [see Dosage and Administration (2.5) ] .",
+    "indications_and_usage": "1 INDICATIONS AND USAGE ULTOMIRIS is a complement inhibitor indicated for: the treatment of adult and pediatric patients one month of age and older with paroxysmal nocturnal hemoglobinuria (PNH). ( 1.1 ) the treatment of adult and pediatric patients one month of age and older with atypical hemolytic uremic syndrome (aHUS) to inhibit complement-mediated thrombotic microangiopathy (TMA). ( 1.2 ) Limitations of Use: ULTOMIRIS is not indicated for the treatment of patients with Shiga toxin E. coli related hemolytic uremic syndrome (STEC-HUS). the treatment of adult patients with generalized myasthenia gravis (gMG) who are anti-acetylcholine receptor (AChR) antibody-positive. ( 1.3 ) the treatment of adult patients with neuromyelitis optica spectrum disorder (NMOSD) who are anti-aquaporin-4 (AQP4) antibody-positive. ( 1.4 ) 1.1 Paroxysmal Nocturnal Hemoglobinuria ULTOMIRIS is indicated for the treatment of adult and pediatric patients one month of age and older with paroxysmal nocturnal hemoglobinuria (PNH). 1.2 Atypical Hemolytic Uremic Syndrome ULTOMIRIS is indicated for the treatment of adult and pediatric patients one month of age and older with atypical hemolytic uremic syndrome (aHUS) to inhibit complement-mediated thrombotic microangiopathy (TMA). Limitations of Use: ULTOMIRIS is not indicated for the treatment of patients with Shiga toxin E. coli related hemolytic uremic syndrome (STEC-HUS). 1.3 Generalized Myasthenia Gravis ULTOMIRIS is indicated for the treatment of adult patients with generalized myasthenia gravis (gMG) who are anti-acetylcholine receptor (AChR) antibody-positive. 1.4 Neuromyelitis Optica Spectrum Disorder ULTOMIRIS is indicated for the treatment of adult patients with neuromyelitis optica spectrum disorder (NMOSD) who are anti-aquaporin-4 (AQP4) antibody-positive.",
+    "boxed_warning": "WARNING: SERIOUS MENINGOCOCCAL INFECTIONS ULTOMIRIS, a complement inhibitor, increases the risk of serious infections caused by Neisseria meningitidis [see Warnings and Precautions (5.1) ] . Life-threatening and fatal meningococcal infections have occurred in patients treated with complement inhibitors. These infections may become rapidly life-threatening or fatal if not recognized and treated early . Complete or update vaccination for meningococcal bacteria (for serogroups A, C, W, Y, and B) at least 2 weeks prior to the first dose of ULTOMIRIS, unless the risks of delaying therapy with ULTOMIRIS outweigh the risk of developing a serious infection. Comply with the most current Advisory Committee on Immunization Practices (ACIP) recommendations for vaccinations against meningococcal bacteria in patients receiving a complement inhibitor. See Warnings and Precautions (5.1) for additional guidance on the management of the risk of serious infections caused by meningococcal bacteria. Patients receiving ULTOMIRIS are at increased risk for invasive disease caused by Neisseria meningitidis , even if they develop antibodies following vaccination. Monitor patients for early signs and symptoms of serious meningococcal infections and evaluate immediately if infection is suspected. Because of the risk of serious meningococcal infections, ULTOMIRIS is available only through a restricted program under a Risk Evaluation and Mitigation Strategy (REMS) called ULTOMIRIS and SOLIRIS REMS [see Warnings and Precautions (5.2) ]. WARNING: SERIOUS MENINGOCOCCAL INFECTIONS See full prescribing information for complete boxed warning. ULTOMIRIS increases the risk of serious and life-threatening infections caused by Neisseria meningitidis . Complete or update meningococcal vaccination at least 2 weeks prior to the first dose of ULTOMIRIS, unless the risks of delaying ULTOMIRIS outweigh the risks of developing a serious infection. Comply with the most current Advisory Committee on Immunization Practices (ACIP) recommendations for meningococcal vaccination in patients receiving a complement inhibitor. ( 5.1 ) Patients receiving ULTOMIRIS are at increased risk for invasive disease caused by N. meningitidis , even if they develop antibodies following vaccination. Monitor patients for early signs and symptoms of meningococcal infections and evaluate immediately if infection is suspected. ( 5.1 ) ULTOMIRIS is available only through a restricted program called ULTOMIRIS and SOLIRIS REMS. ( 5.2 )",
+    "openfda_brand_names": [
+      "Ultomiris"
+    ],
+    "openfda_generic_names": [
+      "RAVULIZUMAB"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a9a590d9-0217-43c7-908d-e62a71279791",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Neuromyelitis Optica Spectrum Disorder",
+    "slug": "neuromyelitis-optica-spectrum-disorder"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05346354",
+      "title": "Efficacy and Safety Study of Ravulizumab IV in Pediatric Participants With NMOSD",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05346354",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT05644561",
+      "title": "Evaluation of PK, PD, Efficacy, Safety, and Immunogenicity of IV Ravulizumab in Pediatric Participants With Generalized Myasthenia Gravis",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05644561",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42492371",
+        "title": "Site-targeted proximal complement C3 inhibition, but not C5 blockade, attenuates neurodegeneration in a mouse model of amyotrophic lateral sclerosis: Implications for failed clinical trials.",
+        "pubdate": "2026 Jul 23",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42492371/"
+      },
+      {
+        "pmid": "42441931",
+        "title": "Long-Term Ravulizumab Efficacy and Safety in AQP4 Antibody-Positive Neuromyelitis Optica Spectrum Disorder: Final CHAMPION-NMOSD Results.",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42441931/"
+      },
+      {
+        "pmid": "42423060",
+        "title": "Complement System Inhibitors in Nephrology: A Comprehensive Review.",
+        "pubdate": "2026 Jun 30",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42423060/"
+      },
+      {
+        "pmid": "42404894",
+        "title": "FcRn antagonist and C5 complement inhibitor as early rescue strategies in severe Myasthenia Gravis: a two-case report.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42404894/"
+      },
+      {
+        "pmid": "42371577",
+        "title": "Complement-targeted therapies for transplant-associated thrombotic microangiopathy: recent advances.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42371577/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "ECULIZUMAB",
+        "chembl_id": "CHEMBL1201828",
+        "reason": "same target: Complement C5"
+      },
+      {
+        "name": "PEXELIZUMAB",
+        "chembl_id": "CHEMBL2107979",
+        "reason": "same target: Complement C5"
+      },
+      {
+        "name": "VILOBELIMAB",
+        "chembl_id": "CHEMBL2109636",
+        "reason": "same target: Complement C5"
+      },
+      {
+        "name": "TESIDOLUMAB",
+        "chembl_id": "CHEMBL4298012",
+        "reason": "same target: Complement C5"
+      },
+      {
+        "name": "NOMACOPAN",
+        "chembl_id": "CHEMBL4297928",
+        "reason": "same target: Complement C5"
+      },
+      {
+        "name": "OLENDALIZUMAB",
+        "chembl_id": "CHEMBL3990025",
+        "reason": "same target: Complement C5"
+      },
+      {
+        "name": "POZELIMAB",
+        "chembl_id": "CHEMBL4298086",
+        "reason": "same target: Complement C5"
+      },
+      {
+        "name": "ZILUCOPLAN",
+        "chembl_id": "CHEMBL4298207",
+        "reason": "same target: Complement C5"
+      },
+      {
+        "name": "CROVALIMAB",
+        "chembl_id": "CHEMBL4594316",
+        "reason": "same target: Complement C5"
+      },
+      {
+        "name": "ZILUCOPLAN SODIUM",
+        "chembl_id": "CHEMBL5315048",
+        "reason": "same target: Complement C5"
+      }
+    ]
+  }
+}

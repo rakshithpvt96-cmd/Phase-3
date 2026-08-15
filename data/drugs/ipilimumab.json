@@ -1,0 +1,125 @@
+{
+  "drug_name": "Ipilimumab",
+  "slug": "ipilimumab",
+  "enriched_at": "2026-08-15T21:35:55Z",
+  "source_trial_ids": [
+    "NCT04039607"
+  ],
+  "sponsors": [
+    {
+      "name": "Bristol-Myers Squibb",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Bristol-Myers%20Squibb&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1094833",
+      "generic_name": "ipilimumab",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1789844",
+    "target_chembl_id": "CHEMBL2364164",
+    "target_name": "Cytotoxic T-lymphocyte protein 4",
+    "mechanism_of_action_chembl": "Cytotoxic T-lymphocyte protein 4 inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action CTLA-4 is a negative regulator of T-cell activity. Ipilimumab is a monoclonal antibody that binds to CTLA-4 and blocks the interaction of CTLA-4 with its ligands, CD80/CD86. Blockade of CTLA-4 has been shown to augment T-cell activation and proliferation, including the activation and proliferation of tumor infiltrating T-effector cells. Inhibition of CTLA-4 signaling can also reduce T-regulatory cell function, which may contribute to a general increase in T-cell responsiveness, including the anti-tumor immune response.",
+    "pharmacokinetics": "12.3 Pharmacokinetics The pharmacokinetics (PK) of ipilimumab was studied in 785 patients with unresectable or metastatic melanoma who received doses of 0.3, 3, or 10 mg/kg once every 3 weeks for 4 doses. The PK of ipilimumab is linear in the dose range of 0.3 mg/kg to 10 mg/kg. Following administration of YERVOY every 3 weeks, the systemic accumulation was 1.5-fold or less. Steady-state concentrations of ipilimumab were reached by the third dose; the mean minimum concentration (C min ) at steady state was 19.4 mcg/mL at 3 mg/kg and 58.1 mcg/mL at 10 mg/kg every 3 weeks. Elimination The mean (percent coefficient of variation) terminal half-life (t 1/2 ) was 15.4 days (34%) and then mean (percent coefficient of variation) clearance (CL) was 16.8 mL/h (38%). The CL of ipilimumab was unchanged in presence of anti-ipilimumab antibodies. Specific Populations The CL of ipilimumab increased with increasing body weight supporting the recommended body weight (mg/kg) based dosing. The following factors had no clinically important effect on the CL of ipilimumab: age (range: 23 to 88 years), sex, performance status, renal impairment (glomerular filtration rate ≥15 mL/min/1.73 m 2 ), mild hepatic impairment (total bilirubin [TB] >1 to 1.5 times the upper limit of normal [ULN] or AST > ULN), previous cancer therapy, and baseline lactate dehydrogenase (LDH) levels. The effect of race was not examined due to limited data available in non-White racial groups. YERVOY has not been studied in patients with moderate (TB >1.5 to 3 times ULN and any AST) or severe (TB >3 times ULN and any AST) hepatic impairment. Pediatric Patients The exposures of ipilimumab in pediatric patients 12 years and older are comparable to those in adult patients at the recommended dosage. Drug Interaction Studies Ipilimumab with Nivolumab When YERVOY 1 mg/kg was administered with nivolumab 3 mg/kg every 3 weeks, the CL of ipilimumab was unchanged compared to when YERVOY was administered alone. When YERVOY 3 mg/kg every 3 weeks was administered in combination with nivolumab 1 mg/kg every 3 weeks, the CL of ipilimumab was unchanged compared to ipilimumab administered alone and the CL of nivolumab was increased by 29% compared to nivolumab administered alone. When YERVOY 1 mg/kg every 6 weeks was administered in combination with nivolumab 3 mg/kg every 2 weeks, the CL of ipilimumab increased by 30% compared to YERVOY administered alone and the CL of nivolumab was unchanged compared to nivolumab administered alone. When YERVOY 1 mg/kg every 6 weeks was administered in combination with nivolumab 360 mg every 3 weeks and chemotherapy, the CL of ipilimumab increased by 22% compared to YERVOY administered alone and the CL of nivolumab was unchanged compared to nivolumab administered alone.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE YERVOY is a human cytotoxic T-lymphocyte antigen 4 (CTLA-4)-blocking antibody indicated for: Melanoma • Treatment of unresectable or metastatic melanoma in adults and pediatric patients 12 years and older as a single agent or in combination with nivolumab. (1.1) • Adjuvant treatment of adult patients with cutaneous melanoma with pathologic involvement of regional lymph nodes of more than 1 mm who have undergone complete resection, including total lymphadenectomy. (1.2) Renal Cell Carcinoma (RCC) • Treatment of adult patients with intermediate or poor risk advanced renal cell carcinoma, as first-line treatment in combination with nivolumab. (1.3) Colorectal Cancer • Treatment of adults and pediatric patients 12 years and older with unresectable or metastatic microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR) colorectal cancer (CRC) as determined by an FDA-authorized test in combination with nivolumab. (1.4) Hepatocellular Carcinoma • adult patients with unresectable or metastatic hepatocellular carcinoma (HCC) as first-line treatment in combination with nivolumab. ( 1.5 ) • in combination with nivolumab in adult patients with unresectable or metastatic HCC who have been previously treated with sorafenib. (1.5) Non-Small Cell Lung Cancer (NSCLC) • Treatment of adult patients with metastatic non-small cell lung cancer expressing PD-L1 (≥1%) as determined by an FDA-authorized test, with no EGFR or ALK genomic tumor aberrations, as first-line treatment in combination with nivolumab. (1.6) • Treatment of adult patients with metastatic or recurrent non-small cell lung cancer with no EGFR or ALK genomic tumor aberrations as first-line treatment, in combination with nivolumab and 2 cycles of platinum-doublet chemotherapy. (1.6) Malignant Pleural Mesothelioma • Treatment of adult patients with unresectable malignant pleural mesothelioma, as first-line treatment in combination with nivolumab. (1.7) Esophageal Cancer • Treatment of adult patients with unresectable advanced or metastatic esophageal squamous cell carcinoma, as first line treatment in combination with nivolumab whose tumors express PD-L1 (≥1). (1.8) 1.1 Unresectable or Metastatic Melanoma YERVOY, as a single agent or in combination with nivolumab, is indicated for the treatment of unresectable or metastatic melanoma in adult and pediatric patients 12 years and older. 1.2 Adjuvant Treatment of Melanoma YERVOY is indicated for the adjuvant treatment of adult patients with cutaneous melanoma with pathologic involvement of regional lymph nodes of more than 1 mm who have undergone complete resection, including total lymphadenectomy. 1.3 Advanced Renal Cell Carcinoma YERVOY, in combination with nivolumab, is indicated for the first-line treatment of adult patients with intermediate or poor risk advanced renal cell carcinoma (RCC). 1.4 Microsatellite Instability-High or Mismatch Repair Deficient Metastatic Colorectal Cancer • YERVOY, in combination with nivolumab, is indicated for the treatment of adult and pediatric patients 12 years and older with unresectable or metastatic microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR) colorectal cancer (CRC) as determined by an FDA-authorized test . 1.5 Hepatocellular Carcinoma • YERVOY, in combination with nivolumab, is indicated for the first-line treatment of adult patients with unresectable or metastatic hepatocellular carcinoma (HCC). • YERVOY, in combination with nivolumab, is indicated for the treatment of adult patients with unresectable or metastatic HCC who have been previously treated with sorafenib. 1.6 Metastatic Non-Small Cell Lung Cancer YERVOY, in combination with nivolumab, is indicated for the first-line treatment of adult patients with metastatic non-small cell lung cancer (NSCLC) whose tumors express PD-L1 (≥1%) as determined by an FDA-authorized test [see Dosage and Administration (2.1) ] , with no EGFR or ALK genomic tumor aberrations. YERVOY, in combination with nivolumab and 2 cycles of platinum-doublet chemotherapy, is indicated for the first-line treatment of adult patients with metastatic or recurrent NSCLC, with no EGFR or ALK genomic tumor aberrations. 1.7 Malignant Pleural Mesothelioma YERVOY, in combination with nivolumab, is indicated for the first-line treatment of adult patients with unresectable malignant pleural mesothelioma. 1.8 Esophageal Cancer YERVOY, in combination with nivolumab, is indicated for the first-line treatment of adult patients with unresectable advanced or metastatic esophageal squamous cell carcinoma (ESCC) whose tumors express PD-L1 (≥1) [see Dosage and Administration (2.1) ] .",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "YERVOY"
+    ],
+    "openfda_generic_names": [
+      "IPILIMUMAB"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2265ef30-253e-11df-8a39-0800200c9a66",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Hepatocellular Carcinoma",
+    "slug": "hepatocellular-carcinoma"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04039607",
+      "title": "A Study of Nivolumab in Combination With Ipilimumab in Participants With Advanced Hepatocellular Carcinoma",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04039607",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42579028",
+        "title": "Nivolumab plus ipilimumab-based treatment in Japanese patients with metastatic non-small cell lung cancer and tumor PD-L1 < 1%: a pooled analysis.",
+        "pubdate": "2026 Aug 11",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42579028/"
+      },
+      {
+        "pmid": "42578486",
+        "title": "First-line systemic treatment for people with extensive-stage small cell lung cancer: a network meta-analysis.",
+        "pubdate": "2026 Aug 11",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42578486/"
+      },
+      {
+        "pmid": "42574353",
+        "title": "Cost-effectiveness analysis of Nivolumab plus Ipilimumab versus Nivolumab monotherapy in previously treated metastatic colorectal cancer patients with DNA mismatch repair-deficient/microsatellite instability-high (dMMR/MSI-H) in China.",
+        "pubdate": "2026 Aug 10",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42574353/"
+      },
+      {
+        "pmid": "42512265",
+        "title": "Perioperative Nivolumab and Ipilimumab with Chemotherapy and Chemoradiation for Resectable Gastric and Gastroesophageal Junction Adenocarcinoma: A Phase 1/2 Non-Randomized Clinical Trial.",
+        "pubdate": "2026 Jul 8",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42512265/"
+      },
+      {
+        "pmid": "42499790",
+        "title": "A phase II basket trial of DART SWOG S1609: the salivary gland tumor cohort.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42499790/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "TREMELIMUMAB",
+        "chembl_id": "CHEMBL2108658",
+        "reason": "same target: Cytotoxic T-lymphocyte protein 4"
+      },
+      {
+        "name": "CADONILIMAB",
+        "chembl_id": "CHEMBL4594456",
+        "reason": "same target: Cytotoxic T-lymphocyte protein 4"
+      },
+      {
+        "name": "ERFONRILIMAB",
+        "chembl_id": "CHEMBL4650483",
+        "reason": "same target: Cytotoxic T-lymphocyte protein 4"
+      },
+      {
+        "name": "ZALIFRELIMAB",
+        "chembl_id": "CHEMBL4297876",
+        "reason": "same target: Cytotoxic T-lymphocyte protein 4"
+      },
+      {
+        "name": "QUAVONLIMAB",
+        "chembl_id": "CHEMBL4650419",
+        "reason": "same target: Cytotoxic T-lymphocyte protein 4"
+      }
+    ]
+  }
+}

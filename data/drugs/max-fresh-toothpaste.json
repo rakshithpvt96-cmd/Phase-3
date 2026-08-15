@@ -1,0 +1,75 @@
+{
+  "drug_name": "Max Fresh Toothpaste",
+  "slug": "max-fresh-toothpaste",
+  "enriched_at": "2026-08-15T21:37:27Z",
+  "source_trial_ids": [
+    "NCT07398378"
+  ],
+  "sponsors": [
+    {
+      "name": "Colgate Palmolive",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Colgate%20Palmolive&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2622698",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL5095188",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Max%20Fresh%20Toothpaste+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Max%20Fresh%20Toothpaste+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Max%20Fresh%20Toothpaste+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Oral Malodor",
+    "slug": "oral-malodor"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07398378",
+      "title": "Clinical Investigation of Oral Malodor for Max Fresh Toothpaste Containing Zinc Citrate Versus a Commercially Available Regular Fluoride Toothpaste",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07398378",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "28322366",
+        "title": "The Efficacy of Xylitol, Xylitol-Probiotic and Fluoride Dentifrices in Plaque Reduction and Gingival Inflammation in Children: A Randomised Controlled Clinical Trial.",
+        "pubdate": "2017",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28322366/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

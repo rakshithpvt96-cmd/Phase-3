@@ -1,0 +1,110 @@
+{
+  "drug_name": "Vehicle Cream",
+  "slug": "vehicle-cream",
+  "enriched_at": "2026-08-15T21:50:35Z",
+  "source_trial_ids": [
+    "NCT06832618"
+  ],
+  "sponsors": [
+    {
+      "name": "Incyte Corporation",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Incyte%20Corporation&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "693233",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2108947",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Vehicle%20Cream+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Vehicle%20Cream+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Vehicle%20Cream+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Atopic Dermatitis",
+    "slug": "atopic-dermatitis"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06832618",
+      "title": "A Study to Assess the Efficacy and Safety of Ruxolitinib Cream in Children and Adolescents (6 to <18 Years Old) With Moderate Atopic Dermatitis",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06832618",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42473690",
+        "title": "Ruxolitinib cream in adults with moderate atopic dermatitis after failure of other topicals: A randomized trial.",
+        "pubdate": "2026 Jul 20",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42473690/"
+      },
+      {
+        "pmid": "42235562",
+        "title": "Delgocitinib cream for adolescents with moderate to severe chronic hand eczema (DELTA TEEN): a multicentre, double-blind, phase 3 randomised controlled trial.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42235562/"
+      },
+      {
+        "pmid": "42143645",
+        "title": "Minimal Systemic Exposure with Maximal Delgocitinib Cream Use in Patients with Severe Chronic Hand Eczema in the DELTA 2 Randomized, Vehicle-Controlled, Double-Blind, Phase 3 Trial.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42143645/"
+      },
+      {
+        "pmid": "41775339",
+        "title": "Effect of Delgocitinib Cream on Health-Related Quality of Life in Patients With Moderate to Severe Chronic Hand Eczema.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41775339/"
+      },
+      {
+        "pmid": "41642149",
+        "title": "Efficacy and Safety of Clascoterone Cream 1% for Acne Are Independent of Age and Sex.",
+        "pubdate": "2026 Feb 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41642149/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "Jaktinib Hydrochloride Tablet",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Suzhou Zelgen Biopharmaceuticals Co.,Ltd"
+      },
+      {
+        "name": "Rocatinlimab",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Amgen"
+      }
+    ]
+  }
+}

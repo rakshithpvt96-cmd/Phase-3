@@ -1,0 +1,125 @@
+{
+  "drug_name": "Tremelimumab",
+  "slug": "tremelimumab",
+  "enriched_at": "2026-08-15T21:50:21Z",
+  "source_trial_ids": [
+    "NCT03682068"
+  ],
+  "sponsors": [
+    {
+      "name": "AstraZeneca",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=AstraZeneca&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2619313",
+      "generic_name": "tremelimumab",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2108658",
+    "target_chembl_id": "CHEMBL2364164",
+    "target_name": "Cytotoxic T-lymphocyte protein 4",
+    "mechanism_of_action_chembl": "Cytotoxic T-lymphocyte protein 4 inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action CTLA-4 is a negative regulator of T-cell activity. Tremelimumab-actl is a monoclonal antibody that binds to CTLA-4 and blocks the interaction with its ligands CD80 and CD86, releasing CTLA-4-mediated inhibition of T-cell activation. In synergistic mouse tumor models, blocking CTLA-4 activity resulted in decreased tumor growth and increased proliferation of T cells in tumors.",
+    "pharmacokinetics": "12.3 Pharmacokinetics The pharmacokinetics of tremelimumab-actl was studied in patients with other solid tumors following administration of doses 1 mg/kg, 3 mg/kg, and 10 mg/kg (1- to 10-times the approved recommended dosage) administered once every 4 weeks for 4 doses. The pharmacokinetics of tremelimumab-actl as a single dose of 300 mg were evaluated in patients with HCC. The AUC of tremelimumab-actl increased proportionally from 1 mg/kg to 10 mg/kg every 4 weeks (1 to 10-times the approved recommended dosage) and steady state was achieved at approximately 12 weeks. Distribution The geometric mean (% coefficient of variation [CV%]) of tremelimumab-actl for central (V1) and peripheral (V2) volume of distribution was 3.45 (24%) and 2.66 (34%) L, respectively. Elimination The geometric mean (CV%) terminal half-life of tremelimumab-actl was 16.9 days (19%) after a single dose and 18.2 days (19%) during steady state. The geometric mean (CV%) clearance of tremelimumab-actl was 0.286 L/day (32%) after a single dose and 0.263 L/day (32%) during steady state. Specific Populations There were no clinically significant differences in the pharmacokinetics of tremelimumab-actl based on body weight (34 to149 kg), age (18 to 87 years), sex, race (White, Black, Asian, Native Hawaiian, Pacific Islander, or American Indian), serum albumin levels (0.3 to 396 g/L), lactate dehydrogenase levels (12 to 5570 U/L), soluble PD-L1 (67 to 349 pg/mL), tumor type (NSCLC, HCC), organ dysfunction including mild to moderate renal impairment (CLcr 30 to 89 mL/min), and mild to moderate hepatic impairment (bilirubin < 3 x ULN and any AST). The effect of severe renal impairment (CLcr 15 to 29 mL/min) or severe hepatic impairment (bilirubin > 3 x ULN and any AST) on the pharmacokinetics of tremelimumab-actl is unknown.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE IMJUDO is a cytotoxic T-lymphocyte-associated antigen 4 (CTLA-4) blocking antibody indicated: • in combination with durvalumab, for the treatment of adult patients with unresectable hepatocellular carcinoma (uHCC). ( 1.1 ) • in combination with durvalumab and platinum-based chemotherapy for the treatment of adult patients with metastatic non-small cell lung cancer (NSCLC) with no sensitizing epidermal growth factor receptor (EGFR) mutation or anaplastic lymphoma kinase (ALK) genomic tumor aberrations. ( 1.2 ) 1.1 Hepatocellular Carcinoma IMJUDO, in combination with durvalumab, is indicated for the treatment of adult patients with unresectable hepatocellular carcinoma (uHCC). 1.2 Non-Small Cell Lung Cancer (NSCLC) IMJUDO, in combination with durvalumab and platinum-based chemotherapy, is indicated for the treatment of adult patients with metastatic NSCLC with no sensitizing epidermal growth factor receptor (EGFR) mutations or anaplastic lymphoma kinase (ALK) genomic tumor aberrations.",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "IMJUDO"
+    ],
+    "openfda_generic_names": [
+      "TREMELIMUMAB"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6690679c-be2f-4588-a2e4-89fff74dd6be",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Unresectable Locally Advanced Urothelial Cancer",
+    "slug": "unresectable-locally-advanced-urothelial-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT03682068",
+      "title": "Study of Durvalumab Given With Chemotherapy, Durvalumab in Combination With Tremelimumab Given With Chemotherapy, or Chemotherapy in Patients With Unresectable Urothelial Cancer",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT03682068",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42578486",
+        "title": "First-line systemic treatment for people with extensive-stage small cell lung cancer: a network meta-analysis.",
+        "pubdate": "2026 Aug 11",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42578486/"
+      },
+      {
+        "pmid": "42563422",
+        "title": "Response to the Letter Regarding \"Outcomes of Patients With Hepatocellular Carcinoma Treated With Durvalumab Plus Tremelimumab in Real-World Clinical Practice Who Met or Did Not Meet the Inclusion Criteria for the Phase 3 HIMALAYA Trial\".",
+        "pubdate": "2026 Aug 6",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42563422/"
+      },
+      {
+        "pmid": "42552515",
+        "title": "Comment on Outcomes of Patients With Hepatocellular Carcinoma Treated With Durvalumab Plus Tremelimumab in Real-World Clinical Practice Who Met or Did Not Meet the Inclusion Criteria for the Phase 3 HIMALAYA Trial.",
+        "pubdate": "2026 Aug 4",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42552515/"
+      },
+      {
+        "pmid": "42529258",
+        "title": "Durvalumab Consolidation Treatment Following Concurrent Chemoradiotherapy in Limited-Stage SCLC: ADRIATIC China Subgroup Analysis.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42529258/"
+      },
+      {
+        "pmid": "42527085",
+        "title": "Efficacy of Lenvatinib as Subsequent Therapy After Combination Immune Checkpoint Inhibitors for Unresectable Hepatocellular Carcinoma.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42527085/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "IPILIMUMAB",
+        "chembl_id": "CHEMBL1789844",
+        "reason": "same target: Cytotoxic T-lymphocyte protein 4"
+      },
+      {
+        "name": "CADONILIMAB",
+        "chembl_id": "CHEMBL4594456",
+        "reason": "same target: Cytotoxic T-lymphocyte protein 4"
+      },
+      {
+        "name": "ERFONRILIMAB",
+        "chembl_id": "CHEMBL4650483",
+        "reason": "same target: Cytotoxic T-lymphocyte protein 4"
+      },
+      {
+        "name": "ZALIFRELIMAB",
+        "chembl_id": "CHEMBL4297876",
+        "reason": "same target: Cytotoxic T-lymphocyte protein 4"
+      },
+      {
+        "name": "QUAVONLIMAB",
+        "chembl_id": "CHEMBL4650419",
+        "reason": "same target: Cytotoxic T-lymphocyte protein 4"
+      }
+    ]
+  }
+}

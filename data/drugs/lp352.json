@@ -1,0 +1,95 @@
+{
+  "drug_name": "LP352",
+  "slug": "lp352",
+  "enriched_at": "2026-08-15T21:52:11Z",
+  "source_trial_ids": [
+    "NCT06660394"
+  ],
+  "sponsors": [
+    {
+      "name": "Longboard Pharmaceuticals",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Longboard%20Pharmaceuticals&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 122662787,
+    "iupac_name": "(3R)-N-(2,2-difluoroethyl)-3-methyl-1,10-diazatricyclo[6.4.1.04,13]trideca-4,6,8(13)-triene-5-carboxamide",
+    "molecular_formula": "C15H19F2N3O",
+    "molecular_weight": "295.33",
+    "canonical_smiles": null,
+    "inchikey": "KGOOOHQKLRUVSF-VIFPVBQESA-N",
+    "rxnorm": null
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL5314507",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=LP352+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=LP352+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=LP352+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Dravet Syndrome",
+    "slug": "dravet-syndrome"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06660394",
+      "title": "A Phase 3, Placebo-Controlled Study to Investigate LP352 in Children and Adults With Dravet Syndrome (DS)",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06660394",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "41635160",
+        "title": "Development and Validation of an LC-MS/MS Method for the Quantitative Estimation of Bexicaserin in Human Cerebrospinal Fluid.",
+        "pubdate": "2026 Mar",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41635160/"
+      },
+      {
+        "pmid": "41133912",
+        "title": "Bexicaserin for the treatment of seizures in developmental and epileptic encephalopathies: A phase 1b/2a trial (PACIFIC).",
+        "pubdate": "2026 Feb",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41133912/"
+      },
+      {
+        "pmid": "40884306",
+        "title": "Safety, Tolerability, Pharmacokinetics, Pharmacodynamics, and Food Effect of Bexicaserin in Healthy Participants: A First-in-Human Randomized, Double-Blind, Placebo-Controlled Single Ascending Dose Escalation Phase 1 Study.",
+        "pubdate": "2026 Jan",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40884306/"
+      },
+      {
+        "pmid": "40884302",
+        "title": "Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics of Multiple Ascending Doses and Dose Titration of Bexicaserin in Healthy Participants in a Randomized, Double-Blind, Placebo-Controlled Study.",
+        "pubdate": "2026 Jan",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40884302/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

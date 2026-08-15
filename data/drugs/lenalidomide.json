@@ -1,0 +1,126 @@
+{
+  "drug_name": "Lenalidomide",
+  "slug": "lenalidomide",
+  "enriched_at": "2026-08-15T21:36:38Z",
+  "source_trial_ids": [
+    "NCT04712097"
+  ],
+  "sponsors": [
+    {
+      "name": "Hoffmann-La Roche",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hoffmann-La%20Roche&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 216326,
+    "iupac_name": "3-(7-amino-3-oxo-1H-isoindol-2-yl)piperidine-2,6-dione",
+    "molecular_formula": "C13H13N3O3",
+    "molecular_weight": "259.26",
+    "canonical_smiles": null,
+    "inchikey": "GOTYRUGSSMKFNF-UHFFFAOYSA-N",
+    "rxnorm": {
+      "rxcui": "342369",
+      "generic_name": "lenalidomide",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL848",
+    "target_chembl_id": "CHEMBL3833061",
+    "target_name": "CRL4(CRBN) E3 ubiquitin ligase",
+    "mechanism_of_action_chembl": "CRL4(CRBN) E3 ubiquitin ligase inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Lenalidomide is an analogue of thalidomide with immunomodulatory, antiangiogenic, and antineoplastic properties. Cellular activities of lenalidomide are mediated through its target cereblon, a component of a cullin ring E3 ubiquitin ligase enzyme complex. In vitro , in the presence of drug, substrate proteins (including Aiolos, Ikaros, and CK1α) are targeted for ubiquitination and subsequent degradation leading to direct cytotoxic and immunomodulatory effects. Lenalidomide inhibits proliferation and induces apoptosis of certain hematopoietic tumor cells including MM, mantle cell lymphoma, and del (5q) myelodysplastic syndromes, follicular lymphoma and marginal zone lymphoma in vitro . Lenalidomide causes a delay in tumor growth in some in vivo nonclinical hematopoietic tumor models including MM. Immunomodulatory properties of lenalidomide include increased number and activation of T cells and natural killer (NK) cells leading to direct and enhanced antibody-dependent cell-mediated cytotoxicity (ADCC) via increased secretion of interleukin-2 and interferon-gamma, increased numbers of NKT cells, and inhibition of pro-inflammatory cytokines (e.g., TNF-α and IL-6) by monocytes. In MM cells, the combination of lenalidomide and dexamethasone synergizes the inhibition of cell proliferation and the induction of apoptosis. The combination of lenalidomide and rituximab increases ADCC and direct tumor apoptosis in follicular lymphoma cells and increases ADCC in marginal zone lymphoma cells compared to rituximab alone in vitro .",
+    "pharmacokinetics": "12.3 Pharmacokinetics Absorption Following single and multiple doses of lenalidomide capsules in patients with MM or MDS, the maximum plasma concentrations occurred between 0.5 and 6 hours post-dose. The single and multiple dose pharmacokinetic disposition of lenalidomide is linear with AUC and C max values increasing proportionally with dose. Multiple doses of lenalidomide at the recommended dosage does not result in drug accumulation. Administration of a single 25 mg dose of lenalidomide capsules with a high-fat meal in healthy subjects reduces the extent of absorption, with an approximate 20% decrease in AUC and 50% decrease in C max . In the trials where the efficacy and safety were established for lenalidomide capsules, the drug was administered without regard to food intake. Lenalidomide capsules can be administered with or without food. The oral absorption rate of lenalidomide in patients with MCL is similar to that observed in patients with MM or MDS. Distribution In vitro [ 14 C]-lenalidomide binding to plasma proteins is approximately 30%. Lenalidomide is present in semen at 2 hours (1379 ng/ejaculate) and 24 hours (35 ng/ejaculate) after the administration of lenalidomide 25 mg daily. Elimination The mean half-life of lenalidomide is 3 hours in healthy subjects and 3 to 5 hours in patients with MM, MDS or MCL. Metabolism Lenalidomide undergoes limited metabolism. Unchanged lenalidomide is the predominant circulating component in humans. Two identified metabolites are 5-hydroxy-lenalidomide and N-acetyl-lenalidomide; each constitutes less than 5% of parent levels in circulation. Excretion Elimination is primarily renal. Following a single oral administration of [ 14 C]-lenalidomide 25 mg to healthy subjects, approximately 90% and 4% of the radioactive dose was eliminated within ten days in urine and feces, respectively. Approximately 82% of the radioactive dose was excreted as lenalidomide in the urine within 24 hours. Hydroxy-lenalidomide and N-acetyl-lenalidomide represented 4.6% and 1.8% of the excreted dose, respectively. The renal clearance of lenalidomide exceeds the glomerular filtration rate. Specific Populations Renal Impairment: Eight subjects with mild renal impairment (creatinine clearance (CLcr) 50 to 79 mL/min calculated using Cockcroft-Gault), 9 subjects with moderate renal impairment (CLcr 30 to 49 mL/min), 4 subjects with severe renal impairment (CLcr < 30 mL/min), and 6 patients with end stage renal disease (ESRD) requiring dialysis were administered a single 25 mg dose of lenalidomide capsules. Three healthy subjects of similar age with normal renal function (CLcr > 80 mL/min) were also administered a single 25 mg dose of lenalidomide capsules. As CLcr decreased, half-life increased and drug clearance decreased linearly. Patients with moderate and severe impairment had a 3-fold increase in half-life and a 66% to 75% decrease in drug clearance compared to healthy subjects. Patients on hemodialysis (n=6) had an approximate 4.5-fold increase in half-life and an 80% decrease in drug clearance compared to healthy subjects. Approximately 30% of the drug in body was removed during a 4-hour hemodialysis session. Adjust the starting dose of lenalidomide capsules in patients with renal impairment based on the CLcr value [see Dosage and Administration ( 2.6 )] . Hepatic Impairment: Mild hepatic impairment (defined as total bilirubin > 1 to 1.5 times upper limit normal (ULN) or any aspartate transaminase greater than ULN) did not influence the disposition of lenalidomide. No pharmacokinetic data is available for patients with moderate to severe hepatic impairment. Other Intrinsic Factors: Age (39 to 85 years), body weight (33 to 135 kg), sex, race, and type of hematological malignancies (MM, MDS or MCL) did not have a clinically relevant effect on lenalidomide clearance in adult patients. Drug Interactions Co-administration of a single dose or multiple doses of dexamethasone (40 mg) had no clinically relevant effect on the multiple dose pharmacokinetics of lenalidomide (25 mg). Co-administration of lenalidomide capsules (25 mg) after multiple doses of a P-gp inhibitor such as quinidine (600 mg twice daily) did not significantly increase the C max or AUC of lenalidomide. Co-administration of the P-gp inhibitor and substrate temsirolimus (25 mg), with lenalidomide capsules (25 mg) did not significantly alter the pharmacokinetics of lenalidomide, temsirolimus, or sirolimus (metabolite of temsirolimus). In vitro studies demonstrated that lenalidomide is a substrate of P-glycoprotein (P-gp). Lenalidomide is not a substrate of human breast cancer resistance protein (BCRP), multidrug resistance protein (MRP) transporters MRP1, MRP2, or MRP3, organic anion transporters (OAT) OAT1 and OAT3, organic anion transporting polypeptide 1B1 (OATP1B1), organic cation transporters (OCT) OCT1 and OCT2, multidrug and toxin extrusion protein (MATE) MATE1, and organic cation transporters novel (OCTN) OCTN1 and OCTN2. Lenalidomide is not an inhibitor of P-gp, bile salt export pump (BSEP), BCRP, MRP2, OAT1, OAT3, OATP1B1, OATP1B3, or OCT2. Lenalidomide does not inhibit or induce CYP450 isoenzymes. Also, lenalidomide does not inhibit bilirubin glucuronidation formation in human liver microsomes with UGT1A1 genotyped as UGT1A1*1/*1, UGT1A1*1/*28, and UGT1A1*28/*28.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE Lenalidomide is a thalidomide analogue indicated for the treatment of adult patients with: Multiple myeloma (MM), in combination with dexamethasone ( 1.1 ). MM, as maintenance following autologous hematopoietic stem cell transplantation (auto-HSCT) ( 1.1 ). Transfusion-dependent anemia due to low- or intermediate-1-risk myelodysplastic syndromes (MDS) associated with a deletion 5q abnormality with or without additional cytogenetic abnormalities ( 1.2 ). Mantle cell lymphoma (MCL) whose disease has relapsed or progressed after two prior therapies, one of which included bortezomib ( 1.3 ). Previously treated marginal zone lymphoma (MZL), in combination with a rituximab product ( 1.5 ). Previously treated follicular lymphoma (FL), in combination with a rituximab product ( 1.4 ). Limitations of Use: Lenalidomide capsules are not indicated and are not recommended for the treatment of patients with chronic lymphocytic leukemia (CLL) outside of controlled clinical trials ( 1.6 ). 1.1 Multiple Myeloma Lenalidomide capsules in combination with dexamethasone are indicated for the treatment of adult patients with multiple myeloma (MM). Lenalidomide capsules are indicated as maintenance therapy in adult patients with MM following autologous hematopoietic stem cell transplantation (auto-HSCT). 1.2 Myelodysplastic Syndromes Lenalidomide capsules are indicated for the treatment of adult patients with transfusion-dependent anemia due to low- or intermediate-1-risk myelodysplastic syndromes (MDS) associated with a deletion 5q cytogenetic abnormality with or without additional cytogenetic abnormalities. 1.3 Mantle Cell Lymphoma Lenalidomide capsules are indicated for the treatment of adult patients with mantle cell lymphoma (MCL) whose disease has relapsed or progressed after two prior therapies, one of which included bortezomib. 1.4 Follicular Lymphoma Lenalidomide capsules in combination with a rituximab product, are indicated for the treatment of adult patients with previously treated follicular lymphoma (FL). 1.5 Marginal Zone Lymphoma Lenalidomide capsules in combination with a rituximab product, are indicated for the treatment of adult patients with previously treated marginal zone lymphoma (MZL). 1.6 Limitations of Use Lenalidomide capsules are not indicated and are not recommended for the treatment of patients with CLL outside of controlled clinical trials [see Warnings and Precautions ( 5.5 )] .",
+    "boxed_warning": "WARNING: EMBRYO-FETAL TOXICITY, HEMATOLOGIC TOXICITY, and VENOUS and ARTERIAL THROMBOEMBOLISM Embryo-Fetal Toxicity Do not use lenalidomide capsules during pregnancy. Lenalidomide, a thalidomide analogue, caused limb abnormalities in a developmental monkey study. Thalidomide is a known human teratogen that causes severe life-threatening human birth defects. If lenalidomide is used during pregnancy, it may cause birth defects or embryo-fetal death. In females of reproductive potential, obtain 2 negative pregnancy tests before starting lenalidomide treatment. Females of reproductive potential must use 2 forms of contraception or continuously abstain from heterosexual sex during and for 4 weeks after lenalidomide capsules treatment [see Warnings and Precautions ( 5.1 ), and Medication Guide ( 17 )] . To avoid embryo-fetal exposure to lenalidomide, lenalidomide capsules are only available through a restricted distribution program, the Lenalidomide REMS program ( 5.2 ). Information about the Lenalidomide REMS program is available at www.lenalidomiderems.com or by calling the REMS Call Center at 1-888-423-5436. Hematologic Toxicity (Neutropenia and Thrombocytopenia) Lenalidomide capsules can cause significant neutropenia and thrombocytopenia. Eighty percent of patients with del 5q myelodysplastic syndromes had to have a dose delay/reduction during the major study. Thirty-four percent of patients had to have a second dose delay/reduction. Grade 3 or 4 hematologic toxicity was seen in 80% of patients enrolled in the study. Patients on therapy for del 5q myelodysplastic syndromes should have their complete blood counts monitored weekly for the first 8 weeks of therapy and at least monthly thereafter. Patients may require dose interruption and/or reduction. Patients may require use of blood product support and/or growth factors [see Dosage and Administration ( 2.2 )] . Venous and Arterial Thromboembolism Lenalidomide capsules have demonstrated a significantly increased risk of deep vein thrombosis (DVT) and pulmonary embolism (PE), as well as risk of myocardial infarction and stroke in patients with multiple myeloma who were treated with lenalidomide capsules and dexamethasone therapy. Monitor for and advise patients about signs and symptoms of thromboembolism. Advise patients to seek immediate medical care if they develop symptoms such as shortness of breath, chest pain, or arm or leg swelling. Thromboprophylaxis is recommended and the choice of regimen should be based on an assessment of the patient’s underlying risks [see Warnings and Precautions ( 5.4 )] . WARNING: EMBRYO-FETAL TOXICITY, HEMATOLOGIC TOXICITY, and VENOUS and ARTERIAL THROMBOEMBOLISM See full prescribing information for complete boxed warning. EMBRYO-FETAL TOXICITY Lenalidomide, a thalidomide analogue, caused limb abnormalities in a developmental monkey study similar to birth defects caused by thalidomide in humans. If lenalidomide is used during pregnancy, it may cause birth defects or embryo-fetal death. Pregnancy must be excluded before start of treatment. Prevent pregnancy during treatment by the use of two reliable methods of contraception ( 5.1 ). Lenalidomide capsules are available only through a restricted distribution program, called the Lenalidomide REMS program ( 5.2 , 17 ). HEMATOLOGIC TOXICITY . Lenalidomide capsules can cause significant neutropenia and thrombocytopenia ( 5.3 ). VENOUS AND ARTERIAL THROMBOEMBOLISM Significantly increased risk of deep vein thrombosis (DVT) and pulmonary embolism (PE), as well as risk of myocardial infarction and stroke in patients with multiple myeloma receiving lenalidomide capsules with dexamethasone. Anti-thrombotic prophylaxis is recommended ( 5.4 ).",
+    "openfda_brand_names": [
+      "Lenalidomide"
+    ],
+    "openfda_generic_names": [
+      "LENALIDOMIDE"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5fa97bf5-28a2-48f1-8955-f56012d296be",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Relapsed or Refractory Follicular Lymphoma",
+    "slug": "relapsed-or-refractory-follicular-lymphoma"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04712097",
+      "title": "A Study Evaluating the Efficacy and Safety of Mosunetuzumab in Combination With Lenalidomide in Comparison to Rituximab in Combination With Lenalidomide With a US Extension of Mosunetuzumab in Combination With Lenalidomide in Participants With Follicular Lymphoma",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04712097",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42544613",
+        "title": "Selinexor combined bortezomib, lenalidomide, and dexamethasone for newly diagnosed multiple myeloma with high-risk factors: a single-arm, multi-center, prospective observational clinical study.",
+        "pubdate": "2026 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42544613/"
+      },
+      {
+        "pmid": "42515832",
+        "title": "A Simulation-Based Assessment of Dosage Regimen Appropriateness for Multiple Myeloma Medicines Reflecting Demographic and Ethnic Differences.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42515832/"
+      },
+      {
+        "pmid": "42502280",
+        "title": "Real-World Treatment Patterns and Physician Perspectives in Relapsed/Refractory Multiple Myeloma: Results From a Nationwide Italian GIMEMA Survey.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42502280/"
+      },
+      {
+        "pmid": "42458868",
+        "title": "Cost-Effectiveness of Epcoritamab Plus Lenalidomide and Rituximab Versus Lenalidomide and Rituximab for Relapsed/Refractory Follicular Lymphoma: A US Payer Perspective.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42458868/"
+      },
+      {
+        "pmid": "42456135",
+        "title": "Continuous or Fixed-Duration Maintenance Therapy in Multiple Myeloma.",
+        "pubdate": "2026 Jul 16",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42456135/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "THALIDOMIDE",
+        "chembl_id": "CHEMBL468",
+        "reason": "same target: CRL4(CRBN) E3 ubiquitin ligase"
+      },
+      {
+        "name": "POMALIDOMIDE",
+        "chembl_id": "CHEMBL43452",
+        "reason": "same target: CRL4(CRBN) E3 ubiquitin ligase"
+      },
+      {
+        "name": "IBERDOMIDE",
+        "chembl_id": "CHEMBL3989927",
+        "reason": "same target: CRL4(CRBN) E3 ubiquitin ligase"
+      },
+      {
+        "name": "LENALIDOMIDE HYDROCHLORIDE MONOHYDRATE",
+        "chembl_id": "CHEMBL6068337",
+        "reason": "same target: CRL4(CRBN) E3 ubiquitin ligase"
+      }
+    ]
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "drug_name": "Trastuzumab Deruxtecan",
+  "slug": "trastuzumab-deruxtecan",
+  "enriched_at": "2026-08-15T21:50:14Z",
+  "source_trial_ids": [
+    "NCT05048797"
+  ],
+  "sponsors": [
+    {
+      "name": "AstraZeneca",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=AstraZeneca&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2267582",
+      "generic_name": "trastuzumab deruxtecan",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4297844",
+    "target_chembl_id": "CHEMBL1824",
+    "target_name": "Receptor tyrosine-protein kinase erbB-2",
+    "mechanism_of_action_chembl": "Receptor protein-tyrosine kinase erbB-2 binding agent"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Fam-trastuzumab deruxtecan-nxki is a HER2-directed antibody-drug conjugate. The antibody is a humanized anti-HER2 IgG1. The small molecule, DXd, is a topoisomerase I inhibitor attached to the antibody by a cleavable linker. Following binding to HER2 on tumor cells, fam-trastuzumab deruxtecan-nxki undergoes internalization and intracellular linker cleavage by lysosomal enzymes. Upon release, the membrane-permeable DXd causes DNA damage and apoptotic cell death.",
+    "pharmacokinetics": "12.3 Pharmacokinetics The pharmacokinetics of fam-trastuzumab deruxtecan-nxki and its payload DXd were evaluated in patients with cancer and are presented as mean (% coefficient of variation), unless otherwise specified. At a dose of 5.4 mg/kg, the maximum concentration (C max ss ) of fam-trastuzumab deruxtecan-nxki is 132 µg/mL (20%) and of DXd is 4.7 ng/mL (48%) and the AUC ss of fam-trastuzumab deruxtecan-nxki is 772 µg∙day/mL (27%) and of DXd is 29 ng∙day/mL (48%). At a dose of 6.4 mg/kg, the C max,ss of fam-trastuzumab deruxtecan-nxki is 126 µg/mL (18%) and of DXd is 5.2 ng/mL (42%) and the AUC ss of fam-trastuzumab deruxtecan-nxki is 743 µg∙day/mL (26%) and of DXd is 33 ng∙day/mL (43%), respectively. Following a single dose, C max and AUC of fam-trastuzumab deruxtecan-nxki and DXd increase in a dose proportional manner over a dose range of 3.2 mg/kg to 8 mg/kg (approximately 0.5 to 1.25 times the highest approved dose). Accumulation of fam-trastuzumab deruxtecan-nxki is approximately 1.4-fold at steady-state (Cycle 3). Distribution The estimated volume of distribution of the central compartment (Vc) of fam-trastuzumab deruxtecan-nxki is 2.7 L (% CV 16%). DXd plasma protein binding is approximately 97% and the blood-to-plasma ratio is approximately 0.6 in vitro. Elimination The median elimination half-life of fam-trastuzumab deruxtecan-nxki is 5.4 to 5.7 days. The estimated systemic clearance of fam-trastuzumab deruxtecan-nxki is 0.4 L/day (24%). The median elimination half-life of DXd is 5.4-6.1 days. The estimated systemic clearance of DXd is 18 L/h (28%). Metabolism The monoclonal antibody is expected to be degraded into small peptides and amino acids via catabolic pathways. DXd is primarily metabolized by CYP3A4. Specific Populations No clinically significant differences in the pharmacokinetics of fam-trastuzumab deruxtecan-nxki or DXd were observed for age (20-96 years); race (Asian [48%] vs Non-Asian [52%]), including White (43%), and Black or African American (1.9%); sex; body weight (27-138 kg); tumor types; mild hepatic impairment; and mild or moderate renal impairment. The pharmacokinetics of fam-trastuzumab deruxtecan-nxki or DXd in patients with moderate to severe hepatic impairment or severe renal impairment is unknown. Drug Interaction Studies Clinical Studies No clinically significant differences in pharmacokinetics of fam-trastuzumab deruxtecan-nxki or DXd were observed when used concomitantly with itraconazole (strong CYP3A inhibitor) or ritonavir (strong CYP3A inhibitor and OATP inhibitor). In Vitro Studies CYP450 Enzymes : DXd does not inhibit CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, and CYP3A nor induce CYP1A2, CYP2B6, or CYP3A. UGT Enzymes: DXd is not a substrate of UGT. Transporter Systems : DXd is not an inhibitor of OAT1, OAT3, OCT1, OCT2, OATP1B1, OATP1B3, MATE1, MATE2-K, P-gp, BCRP, or BSEP. DXd is a substrate of OATP1B1, OATP1B3, MATE2-K, P-gp, MRP1, and BCRP.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE ENHERTU is a HER2-directed antibody and topoisomerase inhibitor conjugate indicated for: HER2-Positive Early Breast Cancer as neoadjuvant treatment of adult patients with HER2-positive (IHC 3+ or ISH+) Stage II or III breast cancer, as determined by an FDA-authorized test followed by a taxane, trastuzumab, and pertuzumab (THP). ( 1.1 ) as adjuvant treatment of adult patients with HER2-positive (IHC 3+ or ISH+) breast cancer who have residual invasive disease following neoadjuvant trastuzumab (with or without pertuzumab) and taxane-based treatment. ( 1.1 ) HER2-Positive Metastatic Breast Cancer in combination with pertuzumab as first-line treatment of adult patients with unresectable or metastatic HER2-positive (IHC 3+ or ISH+) breast cancer, as determined by an FDA-authorized test. ( 1.2 ) as monotherapy for the treatment of adult patients with unresectable or metastatic HER2-positive (IHC 3+ or ISH+) breast cancer who have received a prior anti-HER2-based regimen either in the metastatic setting, or, in the neoadjuvant or adjuvant setting and have developed disease recurrence during or within six months of completing therapy. ( 1.2 ) HER2-Low and HER2-Ultralow Metastatic Breast Cancer as monotherapy for the treatment of adult patients with unresectable or metastatic hormone receptor (HR)-positive, HER2-low (IHC 1+ or IHC 2+/ISH-) or HER2-ultralow (IHC 0 with membrane staining) breast cancer, as determined by an FDA-authorized test, that has progressed on one or more endocrine therapies in the metastatic setting. ( 1.3 ) as monotherapy for the treatment of adult patients with unresectable or metastatic HER2-low (IHC 1+ or IHC 2+/ISH-) breast cancer, as determined by an FDA-authorized test, who have received a prior chemotherapy in the metastatic setting; or developed disease recurrence during or within 6 months of completing adjuvant chemotherapy. ( 1.3 ) HER2-Mutant Unresectable or Metastatic Non-Small Cell Lung Cancer as monotherapy for the treatment of adult patients with unresectable or metastatic non-small cell lung cancer (NSCLC) whose tumors have activating HER2 (ERBB2) mutations, as detected by an FDA-authorized test, and who have received a prior systemic therapy* ( 1.4 ) HER2-Positive Locally Advanced or Metastatic Gastric Cancer as monotherapy for the treatment of adult patients with locally advanced or metastatic HER2-positive (IHC 3+ or IHC 2+/ISH positive) gastric or gastroesophageal junction adenocarcinoma who have received a prior trastuzumab-based regimen. ( 1.5 ) HER2-Positive (IHC 3+) Unresectable or Metastatic Solid Tumors as monotherapy for the treatment of adult patients with unresectable or metastatic HER2-positive (IHC 3+) solid tumors who have received prior systemic treatment and have no satisfactory alternative treatment options* ( 1.6 ) * These indications are approved under accelerated approval based on objective response rate and duration of response. Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial. ( 14.3 , 14.5 ) 1.1 HER2-Positive Early Breast Cancer ENHERTU followed by a taxane, trastuzumab, and pertuzumab (THP) is indicated for the neoadjuvant treatment of adult patients with HER2-positive (IHC 3+ or ISH+) Stage II or III breast cancer as determined by an FDA-authorized test [see Dosage and Administration (2.1) ]. ENHERTU is indicated for the adjuvant treatment of adult patients with HER2-positive (IHC 3+ or ISH+) breast cancer who have residual invasive disease following neoadjuvant trastuzumab (with or without pertuzumab) and taxane-based treatment. 1.2 HER2-Positive Metastatic Breast Cancer ENHERTU, in combination with pertuzumab, is indicated for the first-line treatment of adult patients with unresectable or metastatic HER2-positive (IHC 3+ or ISH+) breast cancer, as determined by an FDA-authorized test [see Dosage and Administration (2.1) ]. ENHERTU, as monotherapy, is indicated for the treatment of adult patients with unresectable or metastatic HER2-positive (IHC 3+ or ISH+) breast cancer who have received a prior anti-HER2-based regimen either in the metastatic setting, or, in the neoadjuvant or adjuvant setting and have developed disease recurrence during or within six months of completing therapy. 1.3 HER2-Low and HER2-Ultralow Metastatic Breast Cancer ENHERTU, as monotherapy, is indicated for the treatment of adult patients with unresectable or metastatic Hormone receptor (HR)-positive HER2-low (IHC 1+ or IHC 2+/ISH-) or HER2-ultralow (IHC 0 with membrane staining) breast cancer, as determined by an FDA-authorized test, that has progressed on one or more endocrine therapies in the metastatic setting [see Dosage and Administration (2.1) ] . HER2-low (IHC 1+ or IHC 2+/ISH-) breast cancer, as determined by an FDA-authorized test, who have received a prior chemotherapy in the metastatic setting or developed disease recurrence during or within 6 months of completing adjuvant chemotherapy [see Dosage and Administration (2.1) ] . 1.4 HER2-Mutant Unresectable or Metastatic Non-Small Cell Lung Cancer ENHERTU, as monotherapy, is indicated for the treatment of adult patients with unresectable or metastatic non-small cell lung cancer (NSCLC) whose tumors have activating HER2 (ERBB2) mutations, as detected by an FDA-authorized test, and who have received a prior systemic therapy. This indication is approved under accelerated approval based on objective response rate and duration of response [see Clinical Studies (14.4) ] . Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial. 1.5 HER2-Positive Locally Advanced or Metastatic Gastric Cancer ENHERTU, as monotherapy, is indicated for the treatment of adult patients with locally advanced or metastatic HER2-positive (IHC 3+ or IHC 2+/ISH positive) gastric or gastroesophageal junction (GEJ) adenocarcinoma who have received a prior trastuzumab-based regimen. 1.6 HER2-Positive (IHC 3+) Unresectable or Metastatic Solid Tumors ENHERTU, as monotherapy, is indicated for the treatment of adult patients with unresectable or metastatic HER2-positive (IHC 3+) solid tumors who have received prior systemic treatment and have no satisfactory alternative treatment options. This indication is approved under accelerated approval based on objective response rate and duration of response [see Clinical Studies (14.6) ] . Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial.",
+    "boxed_warning": "WARNING: INTERSTITIAL LUNG DISEASE and EMBRYO-FETAL TOXICITY Interstitial Lung Disease (ILD) and pneumonitis, including severe, life-threatening, and fatal cases, have been reported with ENHERTU. Monitor for and promptly investigate signs and symptoms including cough, dyspnea, fever, and other new or worsening respiratory symptoms. Permanently discontinue ENHERTU in all patients with Grade 2 or higher ILD/pneumonitis. Advise patients of the risk and the need to immediately report symptoms [see Dosage and Administration (2.3) , Warnings and Precautions (5.1) ] . Embryo-Fetal Toxicity: Exposure to ENHERTU during pregnancy can cause embryo-fetal harm. Advise patients of these risks and the need for effective contraception [see Warnings and Precautions (5.4) , Use in Specific Populations (8.1 , 8.3) ] . WARNING: INTERSTITIAL LUNG DISEASE and EMBRYO-FETAL TOXICITY See full prescribing information for complete boxed warning. Interstitial lung disease (ILD) and pneumonitis, including severe, life threatening, and fatal cases, have been reported with ENHERTU. Monitor for and promptly investigate signs and symptoms including cough, dyspnea, fever, and other new or worsening respiratory symptoms. Permanently discontinue ENHERTU in all patients with Grade 2 or higher ILD/pneumonitis. Advise patients of the risk and to immediately report symptoms. ( 2.3 , 5.1 ) Exposure to ENHERTU during pregnancy can cause embryo-fetal harm. Advise patients of these risks and the need for effective contraception. ( 5.4 , 8.1 , 8.3 )",
+    "openfda_brand_names": [
+      "Enhertu"
+    ],
+    "openfda_generic_names": [
+      "FAM-TRASTUZUMAB DERUXTECAN-NXKI"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7e67e73e-ddf4-4e4d-8b50-09d7514910b6",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Locally Advanced or Metastatic Non-Small Cell Lung Cancer",
+    "slug": "locally-advanced-or-metastatic-non-small-cell-lung-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05048797",
+      "title": "A Study to Investigate the Efficacy and Safety of Trastuzumab Deruxtecan as the First Treatment Option for Unresectable, Locally Advanced/Metastatic Non-Small Cell Lung Cancer With HER2 Mutations",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05048797",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42575050",
+        "title": "Trastuzumab deruxtecan rechallenge in HER2-positive metastatic breast cancer: EN-SEMBLE.",
+        "pubdate": "2026 Jul 22",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42575050/"
+      },
+      {
+        "pmid": "42550611",
+        "title": "Molecular evaluation of residual disease following neoadjuvant chemotherapy in triple negative breast cancer CALGB40603 (Alliance).",
+        "pubdate": "2026 Aug 4",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42550611/"
+      },
+      {
+        "pmid": "42562949",
+        "title": "AKAP13 regulates GLI1/ULK1 axis and drive tumor resistance to next-generation HER2-targeted therapies.",
+        "pubdate": "2026 Aug 6",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42562949/"
+      },
+      {
+        "pmid": "42484946",
+        "title": "Efficacy and safety of antibody-drug conjugates in HER2-positive and HER2-low advanced gastric cancer: a systematic review and update.",
+        "pubdate": "2026 Jul 22",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42484946/"
+      },
+      {
+        "pmid": "42431148",
+        "title": "Tucatinib in Combination With Trastuzumab Deruxtecan in Patients With Previously Treated HER2+ Unresectable Locally Advanced or Metastatic Breast Cancer: An Open-Label Phase 2 Study.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42431148/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "TRASTUZUMAB",
+        "chembl_id": "CHEMBL1201585",
+        "reason": "same target: Receptor tyrosine-protein kinase erbB-2"
+      },
+      {
+        "name": "PERTUZUMAB",
+        "chembl_id": "CHEMBL2007641",
+        "reason": "same target: Receptor tyrosine-protein kinase erbB-2"
+      },
+      {
+        "name": "TRASTUZUMAB EMTANSINE",
+        "chembl_id": "CHEMBL1743082",
+        "reason": "same target: Receptor tyrosine-protein kinase erbB-2"
+      },
+      {
+        "name": "LAPATINIB DITOSYLATE",
+        "chembl_id": "CHEMBL1201179",
+        "reason": "same target: Receptor tyrosine-protein kinase erbB-2"
+      },
+      {
+        "name": "AFATINIB DIMALEATE",
+        "chembl_id": "CHEMBL2105712",
+        "reason": "same target: Receptor tyrosine-protein kinase erbB-2"
+      },
+      {
+        "name": "AC-480",
+        "chembl_id": "CHEMBL1645462",
+        "reason": "same target: Receptor tyrosine-protein kinase erbB-2"
+      },
+      {
+        "name": "ALLITINIB",
+        "chembl_id": "CHEMBL1947204",
+        "reason": "same target: Receptor tyrosine-protein kinase erbB-2"
+      },
+      {
+        "name": "CP-724714",
+        "chembl_id": "CHEMBL483321",
+        "reason": "same target: Receptor tyrosine-protein kinase erbB-2"
+      },
+      {
+        "name": "CUDC-101",
+        "chembl_id": "CHEMBL598797",
+        "reason": "same target: Receptor tyrosine-protein kinase erbB-2"
+      },
+      {
+        "name": "JNJ-26483327",
+        "chembl_id": "CHEMBL3109738",
+        "reason": "same target: Receptor tyrosine-protein kinase erbB-2"
+      }
+    ]
+  }
+}

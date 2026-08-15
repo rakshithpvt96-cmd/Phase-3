@@ -1,0 +1,68 @@
+{
+  "drug_name": "PEG-G-CSF injection (Kexing Biopharmaceutical Co., Ltd.)",
+  "slug": "peg-g-csf-injection-kexing-biopharmaceutical-co-ltd",
+  "enriched_at": "2026-08-15T21:42:48Z",
+  "source_trial_ids": [
+    "NCT06711523"
+  ],
+  "sponsors": [
+    {
+      "name": "Kexing Biopharm Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Kexing%20Biopharm%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "338036",
+      "generic_name": "pegfilgrastim",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2108760",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=PEG-G-CSF%20injection%20%28Kexing%20Biopharmaceutical%20Co.%2C%20Ltd.%29+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=PEG-G-CSF%20injection%20%28Kexing%20Biopharmaceutical%20Co.%2C%20Ltd.%29+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=PEG-G-CSF%20injection%20%28Kexing%20Biopharmaceutical%20Co.%2C%20Ltd.%29+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Neutropenia, Chemotherapy-Induced Febrile",
+    "slug": "neutropenia-chemotherapy-induced-febrile"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06711523",
+      "title": "Study Evaluating PEG-G-CSF Injectionin Preventing Neutropenia After Chemotherapy",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06711523",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

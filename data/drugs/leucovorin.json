@@ -1,0 +1,105 @@
+{
+  "drug_name": "leucovorin",
+  "slug": "leucovorin",
+  "enriched_at": "2026-08-15T21:36:49Z",
+  "source_trial_ids": [
+    "NCT06625320"
+  ],
+  "sponsors": [
+    {
+      "name": "Revolution Medicines, Inc.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Revolution%20Medicines%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 135403648,
+    "iupac_name": "(2S)-2-[[4-[(2-amino-5-formyl-4-oxo-3,6,7,8-tetrahydropteridin-6-yl)methylamino]benzoyl]amino]pentanedioic acid",
+    "molecular_formula": "C20H23N7O7",
+    "molecular_weight": "473.4",
+    "canonical_smiles": null,
+    "inchikey": "VVIAGPKUTFNRDU-ABLWVSNPSA-N",
+    "rxnorm": {
+      "rxcui": "6313",
+      "generic_name": "leucovorin",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1201138",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": "INDICATIONS AND USAGE Leucovorin calcium rescue is indicated after high dose methotrexate therapy in osteosarcoma. Leucovorin calcium is also indicated to diminish the toxicity and counteract the effects of impaired methotrexate elimination and of inadvertent over dosages of folic acid antagonists. Leucovorin calcium is indicated in the treatment of megaloblastic anemias due to folic acid deficiency when oral therapy is not feasible. Leucovorin is also indicated for use in combination with 5-fluorouracil to prolong survival in the palliative treatment of patients with advanced colorectal cancer. Leucovorin should not be mixed in the same infusion as 5-fluorouracil because a precipitate may form.",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "LEUCOVORIN CALCIUM"
+    ],
+    "openfda_generic_names": [
+      "LEUCOVORIN CALCIUM"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=c8102043-79f2-421a-b849-94bac19007a6",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Pancreatic Cancer",
+    "slug": "pancreatic-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06625320",
+      "title": "Phase 3 Study of Daraxonrasib (RMC-6236) in Patients With Previously Treated Metastatic Pancreatic Ductal Adenocarcinoma (PDAC)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06625320",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42545685",
+        "title": "Addition of High-Dose Vitamin D3 to Standard Treatment in Patients With Metastatic Colorectal Cancer: The SOLARIS Randomized Clinical Trial (Alliance A021703).",
+        "pubdate": "2026 Aug 3",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42545685/"
+      },
+      {
+        "pmid": "42536436",
+        "title": "HopeFOL, or FOL of problems? Leucovorin for autistic symptoms.",
+        "pubdate": "2026 Aug 6",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42536436/"
+      },
+      {
+        "pmid": "42525419",
+        "title": "Maximal Ablative Irradiation Because of Encasement for Patients With Locally Advanced Pancreatic Cancer: A Nonrandomized Clinical Trial.",
+        "pubdate": "2026 Jul 29",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42525419/"
+      },
+      {
+        "pmid": "42516476",
+        "title": "Upper Gastrointestinal Cancer Audit: A Retrospective Analysis of Patient Outcomes in North Wales.",
+        "pubdate": "2026 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42516476/"
+      },
+      {
+        "pmid": "42414817",
+        "title": "The Landmark Series: Neoadjuvant Therapy for Patients with Resectable Gastroesophageal Junction Adenocarcinomas.",
+        "pubdate": "2026 Jul 7",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42414817/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

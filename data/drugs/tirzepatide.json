@@ -1,0 +1,125 @@
+{
+  "drug_name": "Tirzepatide",
+  "slug": "tirzepatide",
+  "enriched_at": "2026-08-15T21:49:31Z",
+  "source_trial_ids": [
+    "NCT06075667",
+    "NCT06534411"
+  ],
+  "sponsors": [
+    {
+      "name": "Eli Lilly and Company",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Eli%20Lilly%20and%20Company&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Novo Nordisk A/S",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Novo%20Nordisk%20A/S&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 166567236,
+    "iupac_name": "20-[[(1S)-4-[2-[2-[2-[2-[2-[2-[[(5S)-5-[[(2S)-5-amino-2-[[(2S)-2-[[(2S,3S)-2-[[(2S)-6-amino-2-[[(2S)-2-[[(2S)-2-[[2-[[(2S,3S)-2-[[(2S)-2-[[(2S)-2-[[(2S)-2-[[(2S)-2-[[(2S,3R)-2-[[(2S)-2-[[(2S,3R)-2-[[2-[[(2S)-2-[[2-[[(2S)-2-amino-3-(4-hydroxyphenyl)propanoyl]amino]-2-methylpropanoyl]amino]-4-carboxybutanoyl]amino]acetyl]amino]-3-hydroxybutanoyl]amino]-3-phenylpropanoyl]amino]-3-hydroxybutanoyl]amino]-3-hydroxypropanoyl]amino]-3-carboxypropanoyl]amino]-3-(4-hydroxyphenyl)propanoyl]amino]-3-hydroxypropanoyl]amino]-3-methylpentanoyl]amino]-2-methylpropanoyl]amino]-4-methylpentanoyl]amino]-3-carboxypropanoyl]amino]hexanoyl]amino]-3-methylpentanoyl]amino]propanoyl]amino]-5-oxopentanoyl]amino]-6-[[(2S)-1-[[(2S)-1-[[(2S)-1-[[(2S)-5-amino-1-[[(2S)-1-[[(2S)-1-[[(2S,3S)-1-[[(2S)-1-[[2-[[2-[(2S)-2-[[(2S)-1-[[(2S)-1-[[2-[[(2S)-1-[(2S)-2-[(2S)-2-[(2S)-2-[[(2S)-1-amino-3-hydroxy-1-oxopropan-2-yl]carbamoyl]pyrrolidine-1-carbonyl]pyrrolidine-1-carbonyl]pyrrolidin-1-yl]-1-oxopropan-2-yl]amino]-2-oxoethyl]amino]-3-hydroxy-1-oxopropan-2-yl]amino]-3-hydroxy-1-oxopropan-2-yl]carbamoyl]pyrrolidin-1-yl]-2-oxoethyl]amino]-2-oxoethyl]amino]-1-oxopropan-2-yl]amino]-3-methyl-1-oxopentan-2-yl]amino]-4-methyl-1-oxopentan-2-yl]amino]-3-(1H-indol-3-yl)-1-oxopropan-2-yl]amino]-1,5-dioxopentan-2-yl]amino]-3-methyl-1-oxobutan-2-yl]amino]-1-oxo-3-phenylpropan-2-yl]amino]-1-oxopropan-2-yl]amino]-6-oxohexyl]amino]-2-oxoethoxy]ethoxy]ethylamino]-2-oxoethoxy]ethoxy]ethylamino]-1-carboxy-4-oxobutyl]amino]-20-oxoicosanoic acid",
+    "molecular_formula": "C225H348N48O68",
+    "molecular_weight": "4813",
+    "canonical_smiles": null,
+    "inchikey": "BTSOGEDATSQOAF-MCNPHUAVSA-N",
+    "rxnorm": {
+      "rxcui": "2601723",
+      "generic_name": "tirzepatide",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4297839",
+    "target_chembl_id": "CHEMBL4383",
+    "target_name": "Gastric inhibitory polypeptide receptor",
+    "mechanism_of_action_chembl": "Gastric inhibitory polypeptide receptor agonist"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Tirzepatide is a GIP receptor and GLP-1 receptor agonist. It contains a C20 fatty diacid that enables albumin binding and prolongs the half-life. Tirzepatide selectively binds to and activates both the GIP and GLP-1 receptors, the targets for native GIP and GLP-1. Tirzepatide enhances first- and second-phase insulin secretion, and reduces glucagon levels, both in a glucose-dependent manner.",
+    "pharmacokinetics": "12.3 Pharmacokinetics The pharmacokinetics of tirzepatide is similar between healthy subjects and patients with type 2 diabetes mellitus. Steady-state plasma tirzepatide concentrations were achieved following 4 weeks of once weekly administration. Tirzepatide exposure increases in a dose-proportional manner. Absorption Following subcutaneous administration, the time to maximum plasma concentration of tirzepatide ranges from 8 to 72 hours. The mean absolute bioavailability of tirzepatide following subcutaneous administration is 80%. Similar exposure was achieved with subcutaneous administration of tirzepatide in the abdomen, thigh, or upper arm. Distribution The mean apparent steady-state volume of distribution of tirzepatide following subcutaneous administration in patients with type 2 diabetes mellitus is approximately 10.3 L. Tirzepatide is highly bound to plasma albumin (99%). Elimination The apparent population mean clearance of tirzepatide is 0.061 L/h with an elimination half-life of approximately 5 days, enabling once-weekly dosing. Metabolism Tirzepatide is metabolized by proteolytic cleavage of the peptide backbone, beta-oxidation of the C20 fatty diacid and amide hydrolysis. Excretion The primary excretion routes of tirzepatide metabolites are via urine and feces. Intact tirzepatide is not observed in urine or feces. Specific Populations The intrinsic factors of age, gender, race, ethnicity, or body weight do not have a clinically relevant effect on the PK of tirzepatide. Pediatric Patients A population pharmacokinetic analysis was conducted for tirzepatide 5 mg and 10 mg using data from 93 pediatric patients 10 years of age and older with type 2 diabetes mellitus. The tirzepatide exposure in pediatric patients was within the range observed in adult patients. Patients with Renal Impairment Renal impairment does not impact the pharmacokinetics of tirzepatide. The pharmacokinetics of tirzepatide after a single 5 mg dose was evaluated in patients with different degrees of renal impairment (mild, moderate, severe, ESRD) compared with subjects with normal renal function. This was also shown for patients with both type 2 diabetes mellitus and renal impairment based on data from clinical studies [see Use in Specific Populations ( 8.6 )] . Patients with Hepatic Impairment Hepatic impairment does not impact the pharmacokinetics of tirzepatide. The pharmacokinetics of tirzepatide after a single 5 mg dose was evaluated in patients with different degrees of hepatic impairment (mild, moderate, severe) compared with subjects with normal hepatic function [see Use in Specific Populations ( 8.7 )] . Drug Interactions Studies Potential for Tirzepatide to Influence the Pharmacokinetics of Other Drugs In vitro studies have shown low potential for tirzepatide to inhibit or induce CYP enzymes, and to inhibit drug transporters. MOUNJARO delays gastric emptying and thereby has the potential to impact the absorption of concomitantly administered oral medications [see Drug Interactions ( 7.2 )] . The impact of tirzepatide on gastric emptying was greatest after a single dose of 5 mg and diminished after subsequent doses. Following a first dose of tirzepatide 5 mg, acetaminophen maximum concentration (C max ) was reduced by 50%, and the median peak plasma concentration (t max ) occurred 1 hour later. After coadministration at week 4, there was no meaningful impact on acetaminophen C max and t max . Overall acetaminophen exposure (AUC 0-24hr ) was not influenced. Following administration of a combined oral contraceptive (0.035 mg ethinyl estradiol and 0.25 mg norgestimate) in the presence of a single dose of tirzepatide 5 mg, mean C max of ethinyl estradiol, norgestimate, and norelgestromin was reduced by 59%,66%, and 55%, while mean AUC was reduced by 20%, 21%, and 23%, respectively. A delay in t max of 2.5 to 4.5 hours was observed.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE MOUNJARO ® is indicated as an adjunct to diet and exercise to improve glycemic control in adults and pediatric patients 10 years of age and older with type 2 diabetes mellitus. MOUNJARO ® is a glucose-dependent insulinotropic polypeptide (GIP) receptor and glucagon-like peptide-1 (GLP-1) receptor agonist indicated as an adjunct to diet and exercise to improve glycemic control in adults and pediatric patients 10 years of age and older with type 2 diabetes mellitus. ( 1 )",
+    "boxed_warning": "WARNING: RISK OF THYROID C-CELL TUMORS In both male and female rats, tirzepatide causes dose-dependent and treatment-duration-dependent thyroid C-cell tumors at clinically relevant exposures. It is unknown whether MOUNJARO causes thyroid C-cell tumors, including medullary thyroid carcinoma (MTC), in humans as human relevance of tirzepatide-induced rodent thyroid C-cell tumors has not been determined [see Warnings and Precautions ( 5.1 ) and Nonclinical Toxicology ( 13.1 )]. MOUNJARO is contraindicated in patients with a personal or family history of MTC or in patients with Multiple Endocrine Neoplasia syndrome type 2 (MEN 2) [see Contraindications ( 4 )] . Counsel patients regarding the potential risk for MTC with the use of MOUNJARO and inform them of symptoms of thyroid tumors (e.g., a mass in the neck, dysphagia, dyspnea, persistent hoarseness). Routine monitoring of serum calcitonin or using thyroid ultrasound is of uncertain value for early detection of MTC in patients treated with MOUNJARO [see Contraindications ( 4 ) and Warnings and Precautions ( 5.1 )]. WARNING: RISK OF THYROID C-CELL TUMORS See full prescribing information for complete boxed warning. Tirzepatide causes thyroid C-cell tumors in rats. It is unknown whether MOUNJARO causes thyroid C-cell tumors, including medullary thyroid carcinoma (MTC), in humans as the human relevance of tirzepatide-induced rodent thyroid C-cell tumors has not been determined ( 5.1 , 13.1 ). MOUNJARO is contraindicated in patients with a personal or family history of MTC or in patients with Multiple Endocrine Neoplasia syndrome type 2 (MEN 2). Counsel patients regarding the potential risk of MTC and symptoms of thyroid tumors ( 4 , 5.1 ).",
+    "openfda_brand_names": [
+      "MOUNJARO"
+    ],
+    "openfda_generic_names": [
+      "TIRZEPATIDE"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0818426a-53eb-4db7-9609-bbae1e7a3964",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Obesity",
+    "slug": "obesity"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06075667",
+      "title": "A Study of Tirzepatide (LY3298176) Once Weekly in Adolescent Participants Who Have Obesity or Overweight With Weight-Related Comorbidities",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06075667",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06534411",
+      "title": "A Research Study to See How Much CagriSema Lowers Blood Sugar and Body Weight Compared to Tirzepatide in People With Type 2 Diabetes Treated With Metformin, SGLT2 Inhibitor or Both",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT06534411",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42594122",
+        "title": "Achieving the triple endpoint of body weight reduction thresholds, systolic blood pressure reduction ≥5 mmHg and non-HDL cholesterol <130 mg/dL with tirzepatide in people with obesity: A post hoc analysis from the SURMOUNT trials.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42594122/"
+      },
+      {
+        "pmid": "42590128",
+        "title": "Anti-Obesity Medications in Longevity and Aesthetic Medicine.",
+        "pubdate": "2026 Aug 3",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42590128/"
+      },
+      {
+        "pmid": "42572119",
+        "title": "Predicted 10-Year Cardiovascular Disease Risk Reduction with Tirzepatide Use Over Three Years for Primary Prevention of Cardiovascular Disease in Obesity.",
+        "pubdate": "2026 Aug 10",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42572119/"
+      },
+      {
+        "pmid": "42560457",
+        "title": "Analysis of the efficacy and safety of liraglutide, semaglutide, and tirzepatide for the treatment of overweight and obesity: a systematic review and network meta-analysis.",
+        "pubdate": "2026 Aug 6",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42560457/"
+      },
+      {
+        "pmid": "42557390",
+        "title": "Pharmacotherapy in obstructive sleep apnoea: a clinical guide.",
+        "pubdate": "2026 Aug 6",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42557390/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "RETATRUTIDE",
+        "chembl_id": "CHEMBL5095485",
+        "reason": "same target: Gastric inhibitory polypeptide receptor"
+      }
+    ]
+  }
+}

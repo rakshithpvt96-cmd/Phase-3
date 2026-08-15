@@ -1,0 +1,99 @@
+{
+  "drug_name": "Tetravalent Dengue Vaccine (TDV)",
+  "slug": "tetravalent-dengue-vaccine-tdv",
+  "enriched_at": "2026-08-15T21:49:15Z",
+  "source_trial_ids": [
+    "NCT07047521"
+  ],
+  "sponsors": [
+    {
+      "name": "Takeda",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Takeda&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2169487",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2108573",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": "Biological vaccine - induces immune response"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Tetravalent%20Dengue%20Vaccine%20%28TDV%29+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Tetravalent%20Dengue%20Vaccine%20%28TDV%29+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Tetravalent%20Dengue%20Vaccine%20%28TDV%29+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Dengue Fever",
+    "slug": "dengue-fever"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07047521",
+      "title": "A Study on a New Tetravalent Dengue Vaccine (TDV) Formulation in Healthy Adults",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07047521",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42537921",
+        "title": "Neutralizing dengue antibodies after 10 years of the chimeric yellow fever tetravalent dengue vaccine (CYD-TDV) and dengue antibody cross-reactivity with SARS-CoV-2 in Indonesia.",
+        "pubdate": "2026 Jul 31",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42537921/"
+      },
+      {
+        "pmid": "41619542",
+        "title": "Barriers to dengue vaccine coverage in low- and middle-income countries (LMICs).",
+        "pubdate": "2026 Apr",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41619542/"
+      },
+      {
+        "pmid": "41287091",
+        "title": "Dengue vaccine effectiveness and safety: a systematic analysis of recent clinical trial data.",
+        "pubdate": "2025 Nov 24",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41287091/"
+      },
+      {
+        "pmid": "39830640",
+        "title": "Current status of the development of dengue vaccines.",
+        "pubdate": "2025 Jan",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39830640/"
+      },
+      {
+        "pmid": "37114191",
+        "title": "A dengue vaccine whirlwind update.",
+        "pubdate": "2023 Jan-Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37114191/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

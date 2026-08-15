@@ -1,0 +1,99 @@
+{
+  "drug_name": "Tezepelumab",
+  "slug": "tezepelumab",
+  "enriched_at": "2026-08-15T21:49:22Z",
+  "source_trial_ids": [
+    "NCT05583227"
+  ],
+  "sponsors": [
+    {
+      "name": "AstraZeneca",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=AstraZeneca&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2587789",
+      "generic_name": "tezepelumab",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL3707229",
+    "target_chembl_id": "CHEMBL3712931",
+    "target_name": "Thymic stromal lymphopoietin",
+    "mechanism_of_action_chembl": "Thymic stromal lymphopoietin inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Tezepelumab-ekko is a thymic stromal lymphopoietin (TSLP) blocker, human monoclonal antibody IgG2λ that binds to human TSLP with a dissociation constant of 15.8 pM and blocks its interaction with the heterodimeric TSLP receptor. TSLP is a cytokine mainly derived from epithelial cells and occupies an upstream position in inflammatory cascades. Airway and mucosal inflammation are important components of the pathogenesis of asthma and CRSwNP. Multiple cell types (e.g., mast cells, eosinophils, neutrophils, macrophages, lymphocytes, ILC2 cells) and mediators (e.g., histamine, eicosanoids, leukotrienes, cytokines) are involved in airway and mucosal inflammation. Increased levels of TSLP mRNA and protein are found in the airways of patients with asthma as well as in nasal polyp tissue. Blocking TSLP with tezepelumab-ekko reduces biomarkers and cytokines associated with inflammation including blood eosinophils, airway submucosal eosinophils, IgE, FeNO, IL-5, and IL-13; however, the mechanism of tezepelumab-ekko action in asthma and CRSwNP has not been definitively established.",
+    "pharmacokinetics": "12.3 Pharmacokinetics The pharmacokinetics of tezepelumab-ekko is similar in patients with asthma and CRSwNP. The pharmacokinetics of tezepelumab-ekko were dose-proportional following administration of a single subcutaneous dose over a dose range from 0.01 to 2 times the recommended dose. With an every 4 weeks dosing regimen, tezepelumab-ekko achieves steady-state after 12 weeks and the accumulation ratio for C trough is 1.86-fold. Absorption Following subcutaneous administration, the maximum serum concentration was reached in approximately 3 to 10 days. Based on population pharmacokinetic analysis, the estimated absolute bioavailability was approximately 77%. There was no clinically relevant difference in bioavailability when administered to different injection sites (abdomen, thigh, or upper arm). Distribution Based on population pharmacokinetic analysis, central and peripheral volume of distribution of tezepelumab-ekko were 3.9 L and 2.2 L, respectively, for a 70 kg individual. Elimination As a human monoclonal antibody, tezepelumab-ekko is eliminated by intracellular catabolism and there is no evidence of target-mediated clearance within the studied dose range. Based on population pharmacokinetic analysis, the estimated clearance for tezepelumab-ekko was 0.17 L/d for a 70 kg individual. The elimination half-life was approximately 26 days. Metabolism Tezepelumab-ekko is a human monoclonal antibody (IgG2λ) that is degraded by proteolytic enzymes widely distributed in the body and not metabolized by hepatic enzymes. Specific Populations Age, Sex, Race Based on population pharmacokinetic analysis, age (12 to 80 years), sex and race (White, Black, Asian, Other) had no clinically meaningful effects on the pharmacokinetics of tezepelumab-ekko. Body Weight Based on population pharmacokinetic analysis, higher body weight was associated with lower exposure. However, the effect of body weight on exposure had no meaningful impact on efficacy or safety and does not require dose adjustment. Pediatric Patients CRSwNP Clinical studies have not been conducted in pediatric patients aged 12 years and older with CRSwNP. Tezepelumab-ekko exposures are expected to be comparable between adults and pediatric patients aged 12 years and older at the recommended subcutaneous dosage (210 mg every 4 weeks) for CRSwNP. Patients with Renal impairment No formal clinical studies have been conducted to investigate the effect of renal impairment on tezepelumab-ekko. The population pharmacokinetic analysis included 320 (23%) subjects with mild renal impairment and 38 (3%) subjects with moderate renal impairment. Tezepelumab-ekko clearance was similar in patients with mild renal impairment (estimated creatinine clearance 60 to 89 mL/min), moderate renal impairment (estimated creatinine clearance 30 to 59 mL/min) and those with normal renal function (estimated creatinine clearance ≥ 90 mL/min). Tezepelumab-ekko has not been studied in patients with severe renal impairment (estimated creatinine clearance < 30 mL/min). Patients with Hepatic impairment No formal clinical studies have been conducted to investigate the effect of hepatic impairment on tezepelumab-ekko. Since tezepelumab-ekko is degraded by proteolytic enzymes widely distributed in the body and not metabolized by hepatic-specific enzymes, change in hepatic function is not expected to influence tezepelumab-ekko clearance. Drug Interaction Studies No formal drug interaction studies have been conducted with tezepelumab-ekko. Based on the population pharmacokinetic analysis, commonly co-administered asthma medications (leukotriene receptor antagonist, theophylline/aminophylline, oral and inhaled corticosteroid) had no clinically meaningful effect on tezepelumab-ekko clearance.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE TEZSPIRE is a thymic stromal lymphopoietin (TSLP) blocker, human monoclonal antibody (IgG2λ), indicated: • for the add-on maintenance treatment of adult and pediatric patients aged 12 years and older with severe asthma. ( 1.1 ) Limitations of Use: Not for relief of acute bronchospasm or status asthmaticus. ( 1.1 ) • for the add-on maintenance treatment of adult and pediatric patients aged 12 years and older with inadequately controlled chronic rhinosinusitis with nasal polyps (CRSwNP). ( 1.2 ) 1.1 Asthma TEZSPIRE is indicated for the add-on maintenance treatment of adult and pediatric patients aged 12 years and older with severe asthma. Limitations of Use: TEZSPIRE is not indicated for the relief of acute bronchospasm or status asthmaticus. 1.2 Chronic Rhinosinusitis with Nasal Polyps TEZSPIRE is indicated for the add-on maintenance treatment of adult and pediatric patients aged 12 years and older with inadequately controlled chronic rhinosinusitis with nasal polyps (CRSwNP).",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "TEZSPIRE"
+    ],
+    "openfda_generic_names": [
+      "TEZEPELUMAB-EKKO"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=60f0aa03-ad25-4d48-80ce-7fcfa76f325f",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Eosinophilic Esophagitis",
+    "slug": "eosinophilic-esophagitis"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05583227",
+      "title": "Efficacy and Safety of Tezepelumab in Patients With Eosinophilic Esophagitis",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05583227",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42562237",
+        "title": "Early and continued asthma control up to week 24 in patients with severe, uncontrolled asthma treated with tezepelumab: Initial results of the real-world ASCENT study.",
+        "pubdate": "2026 Aug 6",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42562237/"
+      },
+      {
+        "pmid": "42525496",
+        "title": "Tezepelumab in Chinese Patients With Severe Chronic Rhinosinusitis With Nasal Polyps: A Prespecified Subgroup Analysis of the Phase 3 WAYPOINT Trial.",
+        "pubdate": "2026 Jul 29",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42525496/"
+      },
+      {
+        "pmid": "42476302",
+        "title": "Use of tezepelumab for chronic rhinosinusitis with nasal polyps by eosinophilic endotype: WAYPOINT post-hoc analysis.",
+        "pubdate": "2026 Jul 20",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42476302/"
+      },
+      {
+        "pmid": "42438767",
+        "title": "Evidence Update for Tezepelumab to Treat Severe Uncontrolled Asthma, Corticosteroid-dependent Asthma, Chronic Rhinosinusitis With Nasal Polyposis, and Chronic Obstructive Pulmonary Disease. 2nd Barcelona Respiratory Network report.",
+        "pubdate": "2026 Jul-Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42438767/"
+      },
+      {
+        "pmid": "42379714",
+        "title": "Characteristics and clinical outcomes of patients with severe asthma receiving tezepelumab after marketing approval in Spain (T-ROSS II study): an observational study protocol.",
+        "pubdate": "2026 Jun 30",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42379714/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "drug_name": "Oral ART",
+  "slug": "oral-art",
+  "enriched_at": "2026-08-15T21:40:01Z",
+  "source_trial_ids": [
+    "NCT06694805"
+  ],
+  "sponsors": [
+    {
+      "name": "ViiV Healthcare",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=ViiV%20Healthcare&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1307051",
+      "generic_name": "ethanol 0.75 ML/ML Medicated Pad",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2108778",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": "Biological vaccine - induces immune response"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Oral%20ART+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Oral%20ART+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Oral%20ART+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "HIV Infections",
+    "slug": "hiv-infections"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06694805",
+      "title": "A Study to Evaluate the Effectiveness of Long-acting (LA) Cabotegravir (CAB) + Rilpivirine (RPV) LA When Given to Participants With Detectable HIV-1",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06694805",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42414839",
+        "title": "The Impact of a Household Intervention on ART Adherence and Household HIV Competency for People Living with HIV: Results from a Cluster-Randomised Controlled Trial in Cape Town, South Africa.",
+        "pubdate": "2026 Jul 8",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42414839/"
+      },
+      {
+        "pmid": "42372741",
+        "title": "Targeting homologous recombination deficiency with intensified chemotherapy versus standard chemotherapy followed by olaparib in stage III breast cancer (SUBITO): an open-label, randomised, controlled, phase 3 trial.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42372741/"
+      },
+      {
+        "pmid": "42199992",
+        "title": "Community-dwelling older adults' satisfaction and experiences with two non-surgical caries treatments: a mixed methods study.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42199992/"
+      },
+      {
+        "pmid": "42129681",
+        "title": "Combined injectable regimens in treatment-experienced HIV/AIDS patients at a southern academic medical center: a case series.",
+        "pubdate": "2026 May 13",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42129681/"
+      },
+      {
+        "pmid": "42062935",
+        "title": "Socio-ecological vulnerability subgroups predict adherence and treatment outcomes in multidrug-resistant tuberculosis and HIV: a latent class analysis.",
+        "pubdate": "2026 Apr 30",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42062935/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

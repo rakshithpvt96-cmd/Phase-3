@@ -1,0 +1,105 @@
+{
+  "drug_name": "RMC-6236",
+  "slug": "rmc-6236",
+  "enriched_at": "2026-08-15T21:47:40Z",
+  "source_trial_ids": [
+    "NCT06625320"
+  ],
+  "sponsors": [
+    {
+      "name": "Revolution Medicines, Inc.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Revolution%20Medicines%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 164726578,
+    "iupac_name": "trans-(1S,2S)-N-[(7S,13S)-21-ethyl-20-[2-[(1S)-1-methoxyethyl]-5-(4-methylpiperazin-1-yl)-3-pyridinyl]-17,17-dimethyl-8,14-dioxo-15-oxa-4-thia-9,21,27,28-tetrazapentacyclo[17.5.2.12,5.19,13.022,26]octacosa-1(25),2,5(28),19,22(26),23-hexaen-7-yl]-2-methylcyclopropane-1-carboxamide",
+    "molecular_formula": "C44H58N8O5S",
+    "molecular_weight": "811.0",
+    "canonical_smiles": null,
+    "inchikey": "FVICRBSEYSHKFY-JYQNNKODSA-N",
+    "rxnorm": {
+      "rxcui": "2721408",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL5314926",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=RMC-6236+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=RMC-6236+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=RMC-6236+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Pancreatic Cancer",
+    "slug": "pancreatic-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06625320",
+      "title": "Phase 3 Study of Daraxonrasib (RMC-6236) in Patients With Previously Treated Metastatic Pancreatic Ductal Adenocarcinoma (PDAC)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06625320",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42600570",
+        "title": "Daraxonrasib in refractory PDAC: A one-eyed king in the land of the blind?",
+        "pubdate": "2026 Aug 14",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42600570/"
+      },
+      {
+        "pmid": "42581230",
+        "title": "Acquired resistance to the RAS(ON) multi-selective inhibitor daraxonrasib guides rational combination therapy strategies in pancreatic cancer.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42581230/"
+      },
+      {
+        "pmid": "42523398",
+        "title": "Concurrent Stereotactic Body Radiation Therapy and KRAS Inhibition Synergistically Improve Pre-clinical Pancreatic Cancer Treatment.",
+        "pubdate": "2026 Jul 13",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42523398/"
+      },
+      {
+        "pmid": "42223072",
+        "title": "Daraxonrasib or Chemotherapy in Previously Treated Metastatic Pancreatic Cancer.",
+        "pubdate": "2026 Jul 23",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42223072/"
+      },
+      {
+        "pmid": "42169926",
+        "title": "Brain metastasis from KRAS wild-type pancreatic cancer and organoid correlates: a case report.",
+        "pubdate": "2026 Apr 30",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42169926/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

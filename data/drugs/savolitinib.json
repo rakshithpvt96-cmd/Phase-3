@@ -1,0 +1,156 @@
+{
+  "drug_name": "Savolitinib",
+  "slug": "savolitinib",
+  "enriched_at": "2026-08-15T21:48:02Z",
+  "source_trial_ids": [
+    "NCT05261399"
+  ],
+  "sponsors": [
+    {
+      "name": "AstraZeneca",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=AstraZeneca&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 68289010,
+    "iupac_name": "3-[(1S)-1-imidazo[1,2-a]pyridin-6-ylethyl]-5-(1-methylpyrazol-4-yl)triazolo[4,5-b]pyrazine",
+    "molecular_formula": "C17H15N9",
+    "molecular_weight": "345.4",
+    "canonical_smiles": null,
+    "inchikey": "XYDNMOZJKOGZLS-NSHDSACASA-N",
+    "rxnorm": {
+      "rxcui": "1633168",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL3334567",
+    "target_chembl_id": "CHEMBL3717",
+    "target_name": "Hepatocyte growth factor receptor",
+    "mechanism_of_action_chembl": "Hepatocyte growth factor receptor inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Savolitinib+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Savolitinib+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Savolitinib+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Carcinoma",
+    "slug": "carcinoma"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05261399",
+      "title": "Savolitinib Plus Osimertinib Versus Platinum-based Doublet Chemotherapy in Participants With Non-Small Cell Lung Cancer Who Have Progressed on Osimertinib Treatment",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05261399",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42460617",
+        "title": "A plain language summary of the SAVANNAH study: savolitinib plus osimertinib in patients with EGFR-mutated advanced non-small cell lung cancer with MET overexpression and/or amplification whose cancer had grown or spread on osimertinib.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42460617/"
+      },
+      {
+        "pmid": "42059212",
+        "title": "Advancing MET-Aberrant NSCLC Therapy with Glumetinib: Pharmacokinetics, Efficacy, Safety, Drug Interactions, and Clinical Prospects.",
+        "pubdate": "2026 Apr 21",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42059212/"
+      },
+      {
+        "pmid": "41831430",
+        "title": "When EGFR meets MET: Dual blockade as the next post-TKI standard?",
+        "pubdate": "2026 Mar 13",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41831430/"
+      },
+      {
+        "pmid": "41544643",
+        "title": "Savolitinib plus osimertinib versus chemotherapy for advanced, EGFR mutation-positive, MET-amplified non-small-cell lung cancer in China (SACHI): interim analysis of a multicentre, open-label, phase 3 randomised controlled trial.",
+        "pubdate": "2026 Jan 24",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41544643/"
+      },
+      {
+        "pmid": "39914443",
+        "title": "Rezivertinib versus gefitinib as first-line therapy for patients with EGFR-mutated locally advanced or metastatic non-small-cell lung cancer (REZOR): a multicentre, double-blind, randomised, phase 3 study.",
+        "pubdate": "2025 Apr",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39914443/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "CABOZANTINIB S-MALATE",
+        "chembl_id": "CHEMBL2103868",
+        "reason": "same target: Hepatocyte growth factor receptor"
+      },
+      {
+        "name": "CRIZOTINIB",
+        "chembl_id": "CHEMBL601719",
+        "reason": "same target: Hepatocyte growth factor receptor"
+      },
+      {
+        "name": "BMS-794833",
+        "chembl_id": "CHEMBL2143592",
+        "reason": "same target: Hepatocyte growth factor receptor"
+      },
+      {
+        "name": "TELISOTUZUMAB",
+        "chembl_id": "CHEMBL3545419",
+        "reason": "same target: Hepatocyte growth factor receptor"
+      },
+      {
+        "name": "AMG-208",
+        "chembl_id": "CHEMBL496102",
+        "reason": "same target: Hepatocyte growth factor receptor"
+      },
+      {
+        "name": "ARRY-300",
+        "chembl_id": "CHEMBL3545359",
+        "reason": "same target: Hepatocyte growth factor receptor"
+      },
+      {
+        "name": "BMS-698769",
+        "chembl_id": "CHEMBL3545299",
+        "reason": "same target: Hepatocyte growth factor receptor"
+      },
+      {
+        "name": "BMS-817378",
+        "chembl_id": "CHEMBL3545050",
+        "reason": "same target: Hepatocyte growth factor receptor"
+      },
+      {
+        "name": "ALTIRATINIB",
+        "chembl_id": "CHEMBL3545365",
+        "reason": "same target: Hepatocyte growth factor receptor"
+      },
+      {
+        "name": "EMD-1204831",
+        "chembl_id": "CHEMBL3960488",
+        "reason": "same target: Hepatocyte growth factor receptor"
+      }
+    ]
+  }
+}

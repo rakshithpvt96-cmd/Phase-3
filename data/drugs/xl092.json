@@ -1,0 +1,99 @@
+{
+  "drug_name": "XL092",
+  "slug": "xl092",
+  "enriched_at": "2026-08-15T21:50:46Z",
+  "source_trial_ids": [
+    "NCT05425940"
+  ],
+  "sponsors": [
+    {
+      "name": "Exelixis",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Exelixis&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 139350422,
+    "iupac_name": "1-N'-(4-fluorophenyl)-1-N-[4-[7-methoxy-6-(methylcarbamoyl)quinolin-4-yl]oxyphenyl]cyclopropane-1,1-dicarboxamide",
+    "molecular_formula": "C29H25FN4O5",
+    "molecular_weight": "528.5",
+    "canonical_smiles": null,
+    "inchikey": "JSPCKALGNNVYOO-UHFFFAOYSA-N",
+    "rxnorm": {
+      "rxcui": "2631857",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL5314605",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=XL092+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=XL092+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=XL092+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Colorectal Cancer",
+    "slug": "colorectal-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05425940",
+      "title": "Study of XL092 + Atezolizumab vs Regorafenib in Participants With Metastatic Colorectal Cancer",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05425940",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "40248950",
+        "title": "STELLAR-305: phase II/III study of zanzalintinib plus pembrolizumab versus pembrolizumab alone in patients with HNSCC.",
+        "pubdate": "2025 May",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40248950/"
+      },
+      {
+        "pmid": "40008409",
+        "title": "STELLAR-304: a phase III study of zanzalintinib (XL092) plus nivolumab in advanced non-clear cell renal cell carcinoma.",
+        "pubdate": "2025 Mar",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40008409/"
+      },
+      {
+        "pmid": "39099411",
+        "title": "Zanzalintinib (XL092): a next-generation tyrosine kinase inhibitor-comprehensive review of early safety & efficacy data.",
+        "pubdate": "2024 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39099411/"
+      },
+      {
+        "pmid": "39041200",
+        "title": "STELLAR-303: randomized phase III study of zanzalintinib + atezolizumab in previously treated metastatic colorectal cancer.",
+        "pubdate": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39041200/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

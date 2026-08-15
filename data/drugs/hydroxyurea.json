@@ -1,0 +1,136 @@
+{
+  "drug_name": "Hydroxyurea",
+  "slug": "hydroxyurea",
+  "enriched_at": "2026-08-15T21:51:18Z",
+  "source_trial_ids": [
+    "NCT06093672"
+  ],
+  "sponsors": [
+    {
+      "name": "Italfarmaco",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Italfarmaco&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 3657,
+    "iupac_name": "hydroxyurea",
+    "molecular_formula": "CH4N2O2",
+    "molecular_weight": "76.055",
+    "canonical_smiles": null,
+    "inchikey": "VSNHCAURESNICA-UHFFFAOYSA-N",
+    "rxnorm": {
+      "rxcui": "5552",
+      "generic_name": "hydroxyurea",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL467",
+    "target_chembl_id": "CHEMBL2095215",
+    "target_name": "Ribonucleoside-diphosphate reductase RR1",
+    "mechanism_of_action_chembl": "Ribonucleoside-diphosphate reductase RR1 inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": "1 INDICATIONS AND USAGE Hydroxyurea capsules, USP is indicated for the treatment of: Resistant chronic myeloid leukemia. Locally advanced squamous cell carcinomas of the head and neck (excluding the lip) in combination with chemoradiation. Hydroxyurea capsules, USP is an antimetabolite indicated for the treatment of: • Resistant chronic myeloid leukemia. (1) • Locally advanced squamous cell carcinomas of the head and neck, (excluding lip) in combination with concurrent chemoradiation. (1)",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "HYDROXYUREA"
+    ],
+    "openfda_generic_names": [
+      "HYDROXYUREA"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e76fd60e-7644-48c5-9857-3608a045000b",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Polycythemia Vera",
+    "slug": "polycythemia-vera"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06093672",
+      "title": "Study on Efficacy and Safety of Givinostat Versus Hydroxyurea in Patients With Polycythemia Vera",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06093672",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42577886",
+        "title": "Evaluation of The Use of Hydroxyurea in Treating Children With Sickle Cell Anemia in Central Africa's Rural Area.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42577886/"
+      },
+      {
+        "pmid": "42446872",
+        "title": "Supportive care, prevention, and emerging therapies for acute chest syndrome in sickle cell disease.",
+        "pubdate": "2026 Jul 14",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42446872/"
+      },
+      {
+        "pmid": "42321870",
+        "title": "Hydroxyurea interferes with point-of-care creatinine testing in children with sickle cell anemia.",
+        "pubdate": "2026 Jun 19",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42321870/"
+      },
+      {
+        "pmid": "42306077",
+        "title": "Ropeginterferon alfa-2b-njft treatment in essential thrombocythemia across different driver mutations: results from a North American, single-arm, multicentre study (EXCEED-ET).",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42306077/"
+      },
+      {
+        "pmid": "42261266",
+        "title": "Pyruvate Kinase Activation in the Management of Thalassemia and Sickle Cell Disease.",
+        "pubdate": "2026 Jun 9",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42261266/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "CLOFARABINE",
+        "chembl_id": "CHEMBL1750",
+        "reason": "same target: Ribonucleoside-diphosphate reductase RR1"
+      },
+      {
+        "name": "GEMCITABINE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1637",
+        "reason": "same target: Ribonucleoside-diphosphate reductase RR1"
+      },
+      {
+        "name": "FLUDARABINE PHOSPHATE",
+        "chembl_id": "CHEMBL1096882",
+        "reason": "same target: Ribonucleoside-diphosphate reductase RR1"
+      },
+      {
+        "name": "GALLIUM NITRATE",
+        "chembl_id": "CHEMBL1200983",
+        "reason": "same target: Ribonucleoside-diphosphate reductase RR1"
+      },
+      {
+        "name": "TEZACITABINE",
+        "chembl_id": "CHEMBL3989496",
+        "reason": "same target: Ribonucleoside-diphosphate reductase RR1"
+      },
+      {
+        "name": "MOTEXAFIN GADOLINIUM",
+        "chembl_id": "CHEMBL3544910",
+        "reason": "same target: Ribonucleoside-diphosphate reductase RR1"
+      }
+    ]
+  }
+}

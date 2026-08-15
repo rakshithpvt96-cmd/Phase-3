@@ -1,0 +1,184 @@
+{
+  "drug_name": "Paclitaxel",
+  "slug": "paclitaxel",
+  "enriched_at": "2026-08-15T21:42:16Z",
+  "source_trial_ids": [
+    "NCT05298423",
+    "NCT06018337",
+    "NCT06279364"
+  ],
+  "sponsors": [
+    {
+      "name": "DualityBio Inc.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=DualityBio%20Inc.&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Merck Sharp & Dohme LLC",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Merck%20Sharp%20%26%20Dohme%20LLC&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Sichuan Kelun-Biotech Biopharmaceutical Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Sichuan%20Kelun-Biotech%20Biopharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 36314,
+    "iupac_name": "[(1S,2S,3R,4S,7R,9S,10S,12R,15S)-4,12-diacetyloxy-15-[(2R,3S)-3-benzamido-2-hydroxy-3-phenylpropanoyl]oxy-1,9-dihydroxy-10,14,17,17-tetramethyl-11-oxo-6-oxatetracyclo[11.3.1.03,10.04,7]heptadec-13-en-2-yl] benzoate",
+    "molecular_formula": "C47H51NO14",
+    "molecular_weight": "853.9",
+    "canonical_smiles": null,
+    "inchikey": "RCINICONZNJXQF-MZXODVADSA-N",
+    "rxnorm": {
+      "rxcui": "56946",
+      "generic_name": "paclitaxel",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL428647",
+    "target_chembl_id": "CHEMBL2095182",
+    "target_name": "Tubulin",
+    "mechanism_of_action_chembl": "Tubulin inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": "INDICATIONS AND USAGE Paclitaxel Injection, USP is indicated as subsequent therapy for the treatment of advanced carcinoma of the ovary. As first-line therapy, Paclitaxel Injection, USP is indicated in combination with cisplatin. Paclitaxel Injection, USP is indicated for the adjuvant treatment of node-positive breast cancer administered sequentially to standard doxorubicin-containing combination chemotherapy. In the clinical trial, there was an overall favorable effect on disease-free and overall survival in the total population of patients with receptor-positive and receptor-negative tumors, but the benefit has been specifically demonstrated by available data (median follow-up 30 months) only in the patients with estrogen and progesterone receptor-negative tumors (see CLINICAL STUDIES, Breast Carcinoma ). Paclitaxel Injection, USP is indicated for the treatment of breast cancer after failure of combination chemotherapy for metastatic disease or relapse within 6 months of adjuvant chemotherapy. Prior therapy should have included an anthracycline unless clinically contraindicated. Paclitaxel Injection, USP, in combination with cisplatin, is indicated for the first-line treatment of non-small cell lung cancer in patients who are not candidates for potentially curative surgery and/or radiation therapy. Paclitaxel Injection, USP is indicated for the second-line treatment of AIDS-related Kaposi's sarcoma.",
+    "boxed_warning": "WARNING Paclitaxel should be administered under the supervision of a physician experienced in the use of cancer chemotherapeutic agents. Appropriate management of complications is possible only when adequate diagnostic and treatment facilities are readily available. Anaphylaxis and severe hypersensitivity reactions characterized by dyspnea and hypotension requiring treatment, angioedema, and generalized urticaria have occurred in 2 to 4% of patients receiving paclitaxel in clinical trials. Fatal reactions have occurred in patients despite premedication. All patients should be pretreated with corticosteroids, diphenhydramine, and H 2 antagonists (see DOSAGE AND ADMINISTRATION ). Patients who experience severe hypersensitivity reactions to paclitaxel should not be rechallenged with the drug. Paclitaxel therapy should not be given to patients with solid tumors who have baseline neutrophil counts of less than 1,500 cells/mm 3 and should not be given to patients with AIDS-related Kaposi's sarcoma if the baseline neutrophil count is less than 1,000 cells/mm 3 . In order to monitor the occurrence of bone marrow suppression, primarily neutropenia, which may be severe and result in infection, it is recommended that frequent peripheral blood cell counts be performed on all patients receiving paclitaxel.",
+    "openfda_brand_names": [
+      "Paclitaxel"
+    ],
+    "openfda_generic_names": [
+      "PACLITAXEL"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=135502ff-002c-4a29-ba93-60855cf44f31",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Metastatic Breast Cancer",
+    "slug": "metastatic-breast-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05298423",
+      "title": "Study of Pembrolizumab/Vibostolimab (MK-7684A) in Combination With Concurrent Chemoradiotherapy Followed by Pembrolizumab/Vibostolimab Versus Concurrent Chemoradiotherapy Followed by Durvalumab in Participants With Stage III Non-small Cell Lung Cancer (MK-7684A-006)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05298423",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06018337",
+      "title": "A Study of DB-1303/BNT323 vs Investigator's Choice Chemotherapy in HER2-Low, Hormone Receptor Positive Metastatic Breast Cancer (DYNASTY-Breast02)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06018337",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06279364",
+      "title": "A Study of SKB264 Versus Investigator's Choice Chemotherapy in Patients With Unresectable Recurrent or Metastatic Triple-Negative Breast Cancer",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06279364",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42587052",
+        "title": "First-line PD-1/VEGF bispecific antibody plus chemotherapy in triple-negative breast cancer: a phase 2 trial.",
+        "pubdate": "2026 Aug 12",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42587052/"
+      },
+      {
+        "pmid": "42574460",
+        "title": "Co-Clinical Evaluation of Synthetic Vitamin D and Chemotherapy in Pancreatic Cancer by Integrated Imaging and Molecular Analyses.",
+        "pubdate": "2026 Aug 10",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42574460/"
+      },
+      {
+        "pmid": "42535874",
+        "title": "TroFuse-011 study design: sacituzumab tirumotecan with or without pembrolizumab for advanced triple-negative breast cancer with PD-L1 CPS <10.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42535874/"
+      },
+      {
+        "pmid": "42530945",
+        "title": "Cemiplimab and Fianlimab With Neoadjuvant Chemotherapy in Early-Stage High-Risk ERBB2-Negative Breast Cancer: The I-SPY2 Randomized Clinical Trial.",
+        "pubdate": "2026 Jul 30",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42530945/"
+      },
+      {
+        "pmid": "42525419",
+        "title": "Maximal Ablative Irradiation Because of Encasement for Patients With Locally Advanced Pancreatic Cancer: A Nonrandomized Clinical Trial.",
+        "pubdate": "2026 Jul 29",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42525419/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "TRASTUZUMAB EMTANSINE",
+        "chembl_id": "CHEMBL1743082",
+        "reason": "same target: Tubulin"
+      },
+      {
+        "name": "BRENTUXIMAB VEDOTIN",
+        "chembl_id": "CHEMBL1742994",
+        "reason": "same target: Tubulin"
+      },
+      {
+        "name": "DOCETAXEL",
+        "chembl_id": "CHEMBL3545252",
+        "reason": "same target: Tubulin"
+      },
+      {
+        "name": "ERIBULIN MESYLATE",
+        "chembl_id": "CHEMBL1683544",
+        "reason": "same target: Tubulin"
+      },
+      {
+        "name": "CABAZITAXEL",
+        "chembl_id": "CHEMBL1201748",
+        "reason": "same target: Tubulin"
+      },
+      {
+        "name": "COLCHICINE",
+        "chembl_id": "CHEMBL107",
+        "reason": "same target: Tubulin"
+      },
+      {
+        "name": "IXABEPILONE",
+        "chembl_id": "CHEMBL1201752",
+        "reason": "same target: Tubulin"
+      },
+      {
+        "name": "VINCRISTINE SULFATE",
+        "chembl_id": "CHEMBL501867",
+        "reason": "same target: Tubulin"
+      },
+      {
+        "name": "VINORELBINE TARTRATE",
+        "chembl_id": "CHEMBL538943",
+        "reason": "same target: Tubulin"
+      },
+      {
+        "name": "VINBLASTINE SULFATE",
+        "chembl_id": "CHEMBL378544",
+        "reason": "same target: Tubulin"
+      }
+    ]
+  }
+}

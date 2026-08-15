@@ -1,0 +1,125 @@
+{
+  "drug_name": "Hydrochloride Carliprazine capsules",
+  "slug": "hydrochloride-carliprazine-capsules",
+  "enriched_at": "2026-08-15T21:51:09Z",
+  "source_trial_ids": [
+    "NCT06589817"
+  ],
+  "sponsors": [
+    {
+      "name": "Chengdu Kanghong Pharmaceutical Group Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Chengdu%20Kanghong%20Pharmaceutical%20Group%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1667659",
+      "generic_name": "cariprazine Oral Capsule",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1200628",
+    "target_chembl_id": "CHEMBL3041361",
+    "target_name": "Peptidoglycan",
+    "mechanism_of_action_chembl": "Peptidoglycan inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Hydrochloride%20Carliprazine%20capsules+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Hydrochloride%20Carliprazine%20capsules+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Hydrochloride%20Carliprazine%20capsules+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Acute Schizophrenia",
+    "slug": "acute-schizophrenia"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06589817",
+      "title": "A Double-Blind, Randomized Comparative Study of Carliprazine and Aripiprazole in Patients with Acute Schizophrenia",
+      "status": "NOT_YET_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06589817",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "41748317",
+        "title": "Stability study of pharmacy compounded high-dose ambroxol hydrochloride capsules for an n-of-1 clinical trial involving Dutch patients with Gaucher disease type 3.",
+        "pubdate": "2026 Feb 26",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41748317/"
+      },
+      {
+        "pmid": "41603007",
+        "title": "Fu's Subcutaneous Needling treatment for migraine without aura: a randomized controlled trial protocol.",
+        "pubdate": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41603007/"
+      },
+      {
+        "pmid": "40844572",
+        "title": "Bioequivalence Study of Two Formulations of Flunarizine Hydrochloride Capsules in Healthy Chinese Subjects Under Fasting and Fed Conditions.",
+        "pubdate": "2025 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40844572/"
+      },
+      {
+        "pmid": "40778801",
+        "title": "[Guihuang Formula for type III prostatitis with damp-heat stasis syndrome in the essence chamber: A clinical trial].",
+        "pubdate": "2024 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40778801/"
+      },
+      {
+        "pmid": "40636985",
+        "title": "Comparison of bismuth and concomitant therapy for H. pylori eradication: a prospective, randomized clinical trial.",
+        "pubdate": "2025 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40636985/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "ORITAVANCIN DIPHOSPHATE",
+        "chembl_id": "CHEMBL3989766",
+        "reason": "same target: Peptidoglycan"
+      },
+      {
+        "name": "DALBAVANCIN HYDROCHLORIDE",
+        "chembl_id": "CHEMBL3301650",
+        "reason": "same target: Peptidoglycan"
+      },
+      {
+        "name": "TEICOPLANIN",
+        "chembl_id": "CHEMBL4297166",
+        "reason": "same target: Peptidoglycan"
+      },
+      {
+        "name": "VANCOMYCIN",
+        "chembl_id": "CHEMBL262777",
+        "reason": "same target: Peptidoglycan"
+      },
+      {
+        "name": "CEFILAVANCIN",
+        "chembl_id": "CHEMBL4297645",
+        "reason": "same target: Peptidoglycan"
+      }
+    ]
+  }
+}

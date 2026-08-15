@@ -1,0 +1,150 @@
+{
+  "drug_name": "Sorafenib",
+  "slug": "sorafenib",
+  "enriched_at": "2026-08-15T21:48:34Z",
+  "source_trial_ids": [
+    "NCT04039607",
+    "NCT04770896"
+  ],
+  "sponsors": [
+    {
+      "name": "Bristol-Myers Squibb",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Bristol-Myers%20Squibb&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Hoffmann-La Roche",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hoffmann-La%20Roche&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 216239,
+    "iupac_name": "4-[4-[[4-chloro-3-(trifluoromethyl)phenyl]carbamoylamino]phenoxy]-N-methylpyridine-2-carboxamide",
+    "molecular_formula": "C21H16ClF3N4O3",
+    "molecular_weight": "464.8",
+    "canonical_smiles": null,
+    "inchikey": "MLDQJTXFUGDVEO-UHFFFAOYSA-N",
+    "rxnorm": {
+      "rxcui": "495881",
+      "generic_name": "sorafenib",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1200485",
+    "target_chembl_id": "CHEMBL1906",
+    "target_name": "RAF proto-oncogene serine/threonine-protein kinase",
+    "mechanism_of_action_chembl": "Serine/threonine-protein kinase RAF inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": "Sorafenib tablets are a kinase inhibitor indicated for the treatment of Unresectable hepatocellular carcinoma(1.1) Locally recurrent or metastatic, progressive, differentiated thyroid carcinoma (DTC) refractory to radioactive iodine treatment (1.3) 1.1 Hepatocellular Carcinoma Sorafenib tablets are indicated for the treatment of patients with unresectable hepatocellular carcinoma (HCC). 1.3 Differentiated Thyroid Carcinoma Sorafenib tablets are indicated for the treatment of patients with locally recurrent or metastatic, progressive,differentiated thyroid carcinoma (DTC) that is refractory to radioactive iodine treatment.",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "sorafenib"
+    ],
+    "openfda_generic_names": [
+      "SORAFENIB"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=68aa4b7f-3f13-4e73-b572-aa6c11a8429c",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Unresectable Hepatocellular Carcinoma",
+    "slug": "unresectable-hepatocellular-carcinoma"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04039607",
+      "title": "A Study of Nivolumab in Combination With Ipilimumab in Participants With Advanced Hepatocellular Carcinoma",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04039607",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT04770896",
+      "title": "A Study of Atezolizumab With Lenvatinib or Sorafenib Versus Lenvatinib or Sorafenib Alone in Hepatocellular Carcinoma Previously Treated With Atezolizumab and Bevacizumab",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04770896",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42518569",
+        "title": "Economic value of finotonlimab plus bevacizumab versus sorafenib for first-line treatment of unresectable hepatocellular carcinoma in China and the United States.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42518569/"
+      },
+      {
+        "pmid": "42477572",
+        "title": "Real-world evidence for atezolizumab with bevacizumab for unresectable hepatocellular carcinoma: a multicentre UK Midlands cohort.",
+        "pubdate": "2026 Jul 20",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42477572/"
+      },
+      {
+        "pmid": "42449661",
+        "title": "Comprehensive Safety and Efficacy Evaluation of Immunotherapy Combination Approaches Versus Tyrosine Kinase Inhibitor Monotherapy as First-Line Treatment of Hepatocellular Carcinoma: A Network and Individual Patient Data (IPD) Meta-Analysis.",
+        "pubdate": "2026 Jun 30",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42449661/"
+      },
+      {
+        "pmid": "42393642",
+        "title": "MCD biomarkers Egfr, Hmox1, Lgmn identified in NAFLD.",
+        "pubdate": "2026 Jul 3",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42393642/"
+      },
+      {
+        "pmid": "42338692",
+        "title": "Nivolumab plus Ipilimumab versus Lenvatinib or Sorafenib as First-Line Treatment for Unresectable Hepatocellular Carcinoma: CheckMate 9DW Japanese Subgroup Analysis.",
+        "pubdate": "2026 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42338692/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "REGORAFENIB",
+        "chembl_id": "CHEMBL1946170",
+        "reason": "same target: RAF proto-oncogene serine/threonine-protein kinase"
+      },
+      {
+        "name": "ARQ-736",
+        "chembl_id": "CHEMBL5314407",
+        "reason": "same target: RAF proto-oncogene serine/threonine-protein kinase"
+      },
+      {
+        "name": "LGX-806",
+        "chembl_id": "CHEMBL3545263",
+        "reason": "same target: RAF proto-oncogene serine/threonine-protein kinase"
+      },
+      {
+        "name": "LY-3009120",
+        "chembl_id": "CHEMBL3577124",
+        "reason": "same target: RAF proto-oncogene serine/threonine-protein kinase"
+      },
+      {
+        "name": "RG-7376",
+        "chembl_id": "CHEMBL3545082",
+        "reason": "same target: RAF proto-oncogene serine/threonine-protein kinase"
+      },
+      {
+        "name": "XL-281",
+        "chembl_id": "CHEMBL3545027",
+        "reason": "same target: RAF proto-oncogene serine/threonine-protein kinase"
+      }
+    ]
+  }
+}

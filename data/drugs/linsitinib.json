@@ -1,0 +1,156 @@
+{
+  "drug_name": "linsitinib",
+  "slug": "linsitinib",
+  "enriched_at": "2026-08-15T21:52:05Z",
+  "source_trial_ids": [
+    "NCT06112340"
+  ],
+  "sponsors": [
+    {
+      "name": "Sling Therapeutics, Inc.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Sling%20Therapeutics%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 11640390,
+    "iupac_name": "3-[8-amino-1-(2-phenylquinolin-7-yl)imidazo[1,5-a]pyrazin-3-yl]-1-methylcyclobutan-1-ol",
+    "molecular_formula": "C26H23N5O",
+    "molecular_weight": "421.5",
+    "canonical_smiles": null,
+    "inchikey": "PKCDDUHJAFVJJB-UHFFFAOYSA-N",
+    "rxnorm": {
+      "rxcui": "1679495",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1091644",
+    "target_chembl_id": "CHEMBL1957",
+    "target_name": "Insulin-like growth factor 1 receptor",
+    "mechanism_of_action_chembl": "Insulin-like growth factor I receptor inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=linsitinib+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=linsitinib+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=linsitinib+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Thyroid Eye Disease",
+    "slug": "thyroid-eye-disease"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06112340",
+      "title": "Extension Study of Two Doses of Linsitinib in Subjects With Active, Moderate to Severe Thyroid Eye Disease (TED)",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06112340",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "38893258",
+        "title": "Functional Investigation of IGF1R Mutations in Multiple Myeloma.",
+        "pubdate": "2024 Jun 4",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38893258/"
+      },
+      {
+        "pmid": "34949642",
+        "title": "Therapeutic IGF-I receptor inhibition alters fibrocyte immune phenotype in thyroid-associated ophthalmopathy.",
+        "pubdate": "2021 Dec 28",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34949642/"
+      },
+      {
+        "pmid": "32955072",
+        "title": "Integrated human organ-on-a-chip model for predictive studies of anti-tumor drug efficacy and cardiac safety.",
+        "pubdate": "2020 Nov 24",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32955072/"
+      },
+      {
+        "pmid": "29454514",
+        "title": "Phase 2 study evaluating intermittent and continuous linsitinib and weekly paclitaxel in patients with recurrent platinum resistant ovarian epithelial cancer.",
+        "pubdate": "2018 May",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29454514/"
+      },
+      {
+        "pmid": "27587590",
+        "title": "Analysis of phase II methodologies for single-arm clinical trials with multiple endpoints in rare cancers: An example in Ewing's sarcoma.",
+        "pubdate": "2018 May",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27587590/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "MECASERMIN RINFABATE",
+        "chembl_id": "CHEMBL1201717",
+        "reason": "same target: Insulin-like growth factor 1 receptor"
+      },
+      {
+        "name": "MECASERMIN",
+        "chembl_id": "CHEMBL1201716",
+        "reason": "same target: Insulin-like growth factor 1 receptor"
+      },
+      {
+        "name": "AEW-541",
+        "chembl_id": "CHEMBL551064",
+        "reason": "same target: Insulin-like growth factor 1 receptor"
+      },
+      {
+        "name": "PL-225B",
+        "chembl_id": "CHEMBL3545004",
+        "reason": "same target: Insulin-like growth factor 1 receptor"
+      },
+      {
+        "name": "XL-228",
+        "chembl_id": "CHEMBL3545085",
+        "reason": "same target: Insulin-like growth factor 1 receptor"
+      },
+      {
+        "name": "AXL-1717",
+        "chembl_id": "CHEMBL283120",
+        "reason": "same target: Insulin-like growth factor 1 receptor"
+      },
+      {
+        "name": "BMS-754807",
+        "chembl_id": "CHEMBL575448",
+        "reason": "same target: Insulin-like growth factor 1 receptor"
+      },
+      {
+        "name": "MASOPROCOL",
+        "chembl_id": "CHEMBL313972",
+        "reason": "same target: Insulin-like growth factor 1 receptor"
+      },
+      {
+        "name": "KW-2450",
+        "chembl_id": "CHEMBL5283463",
+        "reason": "same target: Insulin-like growth factor 1 receptor"
+      },
+      {
+        "name": "FIGITUMUMAB",
+        "chembl_id": "CHEMBL1743019",
+        "reason": "same target: Insulin-like growth factor 1 receptor"
+      }
+    ]
+  }
+}

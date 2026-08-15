@@ -1,0 +1,150 @@
+{
+  "drug_name": "Nivolumab",
+  "slug": "nivolumab",
+  "enriched_at": "2026-08-15T21:38:46Z",
+  "source_trial_ids": [
+    "NCT04039607"
+  ],
+  "sponsors": [
+    {
+      "name": "Bristol-Myers Squibb",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Bristol-Myers%20Squibb&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1597876",
+      "generic_name": "nivolumab",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2108738",
+    "target_chembl_id": "CHEMBL3307223",
+    "target_name": "Programmed cell death protein 1",
+    "mechanism_of_action_chembl": "Programmed cell death protein 1 inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Binding of the PD-1 ligands, PD-L1 and PD-L2, to the PD-1 receptor found on T cells, inhibits T-cell proliferation and cytokine production. Upregulation of PD-1 ligands occurs in some tumors and signaling through this pathway can contribute to inhibition of active T-cell immune surveillance of tumors. Nivolumab is a human immunoglobulin G4 (IgG4) monoclonal antibody that binds to the PD-1 receptor and blocks its interaction with PD-L1 and PD-L2, releasing PD-1 pathway-mediated inhibition of the immune response, including the anti-tumor immune response. In syngeneic mouse tumor models, blocking PD-1 activity resulted in decreased tumor growth. Hyaluronan is a polysaccharide found in the extracellular matrix of the subcutaneous tissue. It is depolymerized by the naturally occurring enzyme hyaluronidase. Unlike the stable structural components of the interstitial matrix, hyaluronan has a half-life of approximately 0.5 days. Hyaluronidase increases permeability of the subcutaneous tissue by temporarily depolymerizing hyaluronan. In the doses administered, hyaluronidase in OPDIVO QVANTIG acts transiently and locally. The effects of hyaluronidase are reversible and permeability of the subcutaneous tissue is restored within 24 to 48 hours.",
+    "pharmacokinetics": "12.3 Pharmacokinetics Nivolumab pharmacokinetics were characterized at cycle 1 and at steady state in patients with advanced solid tumors at the approved recommended dosages and are presented as geometric mean (CV%) unless otherwise specified. When comparing nivolumab exposures following OPDIVO QVANTIG to those of intravenous nivolumab in CHECKMATE-67T [see Clinical Studies (14.1) ] , the geometric mean ratios (GMRs) (90% CI) for time-averaged concentration (C avg ) over 28 days and at steady state were 2.10 (2.00, 2.20) and 1.98 (1.87, 2.11), respectively, and for minimum concentration (C min ) at 28 days and at steady state were 1.60 (1.49, 1.72) and 1.77 (1.63, 1.93), respectively. Nivolumab steady state was achieved by 16 weeks. The systemic accumulation ratio was 2.3. Absorption Nivolumab bioavailability is 74% (14%). Peak concentrations occurred by approximately 6 days. Distribution The volume of distribution at steady state is 6.8 L (27%). Elimination Nivolumab clearance decreases over time, with a maximal reduction from baseline values of 24.5% (47.6%), resulting in a steady-state clearance of 8.2 mL/h (53.9%) in patients with metastatic tumors; this decrease in clearance is not considered clinically relevant. Nivolumab clearance does not decrease over time in patients with completely resected melanoma, as the clearance is 24% lower in this patient population compared with patients with metastatic melanoma at steady state. The elimination half-life is 25 days (78%). Specific Populations No clinically significant differences in the pharmacokinetics of nivolumab were observed based on body weight (35 to 153 kg), sex, eGFR (24 to 124 mL/min/1.73 m 2 ), and performance status. Pediatric Patients Nivolumab exposures in pediatric patients 12 years and older who weigh 30 kg or greater are predicted to be within range of those observed in adults at the recommended dosage [see Dosage and Administration (2.3) ] .",
+    "indications_and_usage": "1 INDICATIONS AND USAGE OPDIVO QVANTIG is a combination of nivolumab, a programmed death receptor-1 (PD-1)-blocking antibody, and hyaluronidase, an endoglycosidase, indicated for the treatment of: Renal Cell Carcinoma (RCC) • adult patients with intermediate or poor risk advanced RCC, as a first-line treatment following combination treatment with intravenous nivolumab and ipilimumab. (1.1) • Limitations of Use: OPDIVO QVANTIG is not indicated in combination with ipilimumab for the treatment of renal cell carcinoma. • adult patients with advanced RCC, as a first-line treatment in combination with cabozantinib. (1.1) • adult patients with advanced RCC who have received prior anti-angiogenic therapy. ( 1.1 ) Melanoma • adult and pediatric (12 years and older who weigh 30 kg or greater) patients with unresectable or metastatic melanoma. (1.2) • adult and pediatric (12 years and older who weigh 30 kg or greater) patients with unresectable or metastatic melanoma following combination treatment with intravenous nivolumab and ipilimumab. (1.2) • Limitations of Use: OPDIVO QVANTIG is not indicated in combination with ipilimumab for the treatment of unresectable or metastatic melanoma. • for the adjuvant treatment of adult and pediatric (12 years and older who weigh 30 kg or greater) patients with completely resected Stage IIB, Stage IIC, Stage III, or Stage IV melanoma. (1.3) Non-Small Cell Lung Cancer (NSCLC) • adult patients with resectable (tumors ≥4 cm or node positive) NSCLC in the neoadjuvant setting, in combination with platinum-doublet chemotherapy. (1.4) • adult patients with resectable (tumors ≥4 cm or node positive) NSCLC and no known EGFR mutations or ALK rearrangements, for neoadjuvant treatment, in combination with platinum-doublet chemotherapy, followed by OPDIVO QVANTIG monotherapy as adjuvant treatment after surgery. (1.5) • adult patients with metastatic NSCLC and progression on or after platinum-based chemotherapy. Patients with EGFR or ALK genomic tumor aberrations should have disease progression on FDA-approved therapy for these aberrations prior to receiving OPDIVO QVANTIG. (1.6) • Limitations of Use: OPDIVO QVANTIG is not indicated in combination with ipilimumab for the treatment of metastatic NSCLC. Squamous Cell Carcinoma of the Head and Neck (SCCHN) • adult patients with recurrent or metastatic SCCHN with disease progression on or after a platinum-based therapy. (1.7) Urothelial Carcinoma (UC) • adjuvant treatment of adult patients with UC who are at high risk of recurrence after undergoing radical resection of UC. (1.8) • adult patients with unresectable or metastatic urothelial carcinoma, as first-line treatment in combination with cisplatin and gemcitabine. (1.8) • adult patients with locally advanced or metastatic UC who: • have disease progression during or following platinum-containing chemotherapy. • have disease progression within 12 months of neoadjuvant or adjuvant treatment with platinum-containing chemotherapy. (1.8) Colorectal Cancer (CRC) • adult and pediatric (12 years and older who weigh 30 kg or greater) patients with unresectable or metastatic microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR) colorectal cancer (CRC), following combination treatment with intravenous nivolumab and ipilimumab. (1.9) • Limitations of Use: OPDIVO QVANTIG is not indicated in combination with ipilimumab for the treatment of unresectable or metastatic MSI-H or dMMR CRC. • adult and pediatric (12 years and older who weigh 30 kg or greater) patients with MSI-H or dMMR metastatic CRC that has progressed following treatment with a fluoropyrimidine, oxaliplatin, and irinotecan. (1.9) • Limitations of Use: OPDIVO QVANTIG is not indicated in combination with ipilimumab for the treatment of unresectable or metastatic MSI-H or dMMR CRC. Hepatocellular Carcinoma (HCC) • adult patients with unresectable or metastatic HCC, as a first-line treatment following combination treatment with intravenous nivolumab and ipilimumab. (1.10) • adult patients with unresectable or metastatic HCC, who have been previously treated with sorafenib, following combination treatment with intravenous nivolumab and ipilimumab. (1.10) • Limitations of Use: OPDIVO QVANTIG is not indicated in combination with ipilimumab for the treatment of unresectable or metastatic HCC. Esophageal Cancer • adult patients with completely resected esophageal or gastroesophageal junction cancer with residual pathologic disease, who have received neoadjuvant chemoradiotherapy (CRT). (1.11) • adult patients with unresectable advanced or metastatic esophageal squamous cell carcinoma (ESCC) as first-line treatment in combination with fluoropyrimidine- and platinum-containing chemotherapy whose tumors express PD-L1 (≥1). (1.11) • Limitations of Use: OPDIVO QVANTIG is not indicated in combination with ipilimumab for the treatment of patients with unresectable advanced or metastatic ESCC. • adult patients with unresectable advanced, recurrent or metastatic ESCC after prior fluoropyrimidine- and platinum-based chemotherapy. (1.11) Gastric Cancer, Gastroesophageal Junction Cancer, and Esophageal Adenocarcinoma • adult patients with advanced or metastatic gastric cancer, gastroesophageal junction cancer, and esophageal adenocarcinoma whose tumors express PD-L1 (≥1) in combination with fluoropyrimidine- and platinum-containing chemotherapy. (1.12) 1.1 Advanced Renal Cell Carcinoma OPDIVO QVANTIG™, as monotherapy, is indicated for the first-line treatment of adult patients with intermediate or poor risk advanced renal cell carcinoma (RCC) following treatment with intravenous nivolumab and ipilimumab combination therapy. Limitations of Use: OPDIVO QVANTIG is not indicated in combination with ipilimumab for the treatment of renal cell carcinoma. OPDIVO QVANTIG, in combination with cabozantinib, is indicated for the first-line treatment of adult patients with advanced RCC. OPDIVO QVANTIG, as monotherapy, is indicated for the treatment of adult patients with advanced RCC who have received prior anti-angiogenic therapy. 1.2 Unresectable or Metastatic Melanoma OPDIVO QVANTIG, as monotherapy, is indicated for the treatment of adult and pediatric patients 12 years and older who weigh 30 kg or greater with unresectable or metastatic melanoma. OPDIVO QVANTIG, as monotherapy, is indicated for the treatment of adult and pediatric patients 12 years and older who weigh 30 kg or greater with unresectable or metastatic melanoma following treatment with intravenous nivolumab and ipilimumab combination therapy. Limitations of Use: OPDIVO QVANTIG is not indicated in combination with ipilimumab for the treatment of unresectable or metastatic melanoma. 1.3 Adjuvant Treatment of Melanoma OPDIVO QVANTIG, as monotherapy, is indicated for the adjuvant treatment of adult and pediatric patients 12 years and older who weigh 30 kg or greater with completely resected Stage IIB, Stage IIC, Stage III, or Stage IV melanoma. 1.4 Neoadjuvant Treatment of Resectable Non-Small Cell Lung Cancer OPDIVO QVANTIG, in combination with platinum-doublet chemotherapy, is indicated as neoadjuvant treatment of adult patients with resectable (tumors ≥4 cm or node positive) non-small cell lung cancer (NSCLC). 1.5 Neoadjuvant and Adjuvant Treatment of Resectable Non-Small Cell Lung Cancer OPDIVO QVANTIG, in combination with platinum-doublet chemotherapy, is indicated for the neoadjuvant treatment of adult patients with resectable (tumors ≥4 cm or node positive) NSCLC and no known epidermal growth factor receptor (EGFR) mutations or anaplastic lymphoma kinase (ALK) rearrangements, followed by OPDIVO QVANTIG as monotherapy in the adjuvant setting after surgical resection. 1.6 Metastatic Non-Small Cell Lung Cancer OPDIVO QVANTIG, as monotherapy, is indicated for the treatment of adult patients with metastatic non-small cell lung cancer (NSCLC) with progression on or after platinum-based chemotherapy. Patients with EGFR or ALK genomic tumor aberrations should have disease progression on FDA-approved therapy for these aberrations prior to receiving OPDIVO QVANTIG. Limitations of Use: OPDIVO QVANTIG is not indicated in combination with ipilimumab for the treatment of metastatic NSCLC. 1.7 Squamous Cell Carcinoma of the Head and Neck OPDIVO QVANTIG, as monotherapy, is indicated for the treatment of adult patients with recurrent or metastatic squamous cell carcinoma of the head and neck (SCCHN) with disease progression on or after platinum-based therapy. 1.8 Urothelial Carcinoma OPDIVO QVANTIG, as monotherapy, is indicated for the adjuvant treatment of adult patients with urothelial carcinoma (UC) who are at high risk of recurrence after undergoing radical resection of UC. OPDIVO QVANTIG, in combination with cisplatin and gemcitabine, is indicated for the first-line treatment of adult patients with unresectable or metastatic UC. OPDIVO QVANTIG, as monotherapy, is indicated for the treatment of adult patients with locally advanced or metastatic UC who: • have disease progression during or following platinum-containing chemotherapy. • have disease progression within 12 months of neoadjuvant or adjuvant treatment with platinum-containing chemotherapy. 1.9 Microsatellite Instability-High or Mismatch Repair Deficient Metastatic Colorectal Cancer OPDIVO QVANTIG, as monotherapy, is indicated for the treatment of adult and pediatric patients 12 years and older who weigh 30 kg or greater with unresectable or metastatic microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR) colorectal cancer (CRC) following treatment with intravenous nivolumab and ipilimumab combination therapy. OPDIVO QVANTIG, as monotherapy, is indicated for the treatment of adult and pediatric patients 12 years and older who weigh 30 kg or greater, with MSI-H or dMMR metastatic CRC that has progressed following treatment with a fluoropyrimidine, oxaliplatin, and irinotecan. Limitations of Use: OPDIVO QVANTIG is not indicated in combination with ipilimumab for the treatment of unresectable or metastatic MSI-H or dMMR CRC. 1.10 Hepatocellular Carcinoma • OPDIVO QVANTIG, as monotherapy, is indicated for the first-line treatment of adult patients with unresectable or metastatic hepatocellular carcinoma (HCC) following treatment with intravenous nivolumab and ipilimumab combination therapy. • OPDIVO QVANTIG, as monotherapy, is indicated for the treatment of adult patients with unresectable or metastatic hepatocellular carcinoma (HCC) who have been previously treated with sorafenib following treatment with intravenous nivolumab and ipilimumab combination therapy . Limitations of Use: OPDIVO QVANTIG is not indicated in combination with ipilimumab for the treatment of patients with unresectable or metastatic HCC. 1.11 Esophageal Cancer OPDIVO QVANTIG as monotherapy, is indicated for the adjuvant treatment of completely resected esophageal or gastroesophageal junction cancer with residual pathologic disease in adult patients who have received neoadjuvant chemoradiotherapy (CRT). OPDIVO QVANTIG, in combination with fluoropyrimidine- and platinum-containing chemotherapy, is indicated for the first-line treatment of adult patients with unresectable advanced or metastatic esophageal squamous cell carcinoma (ESCC) whose tumors express PD-L1 (≥1) [see Dosage and Administration (2.2) ] . Limitations of Use: OPDIVO QVANTIG is not indicated in combination with ipilimumab for the treatment of patients with unresectable advanced or metastatic ESCC. OPDIVO QVANTIG as monotherapy, is indicated for the treatment of adult patients with unresectable advanced, recurrent, or metastatic ESCC after prior fluoropyrimidine- and platinum-based chemotherapy. 1.12 Gastric Cancer, Gastroesophageal Junction Cancer, and Esophageal Adenocarcinoma OPDIVO QVANTIG, in combination with fluoropyrimidine- and platinum-containing chemotherapy, is indicated for the treatment of adult patients with advanced or metastatic gastric cancer, gastroesophageal junction cancer, and esophageal adenocarcinoma whose tumors express PD-L1 (≥1) [see Dosage and Administration (2.2) ] .",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "OPDIVO QVANTIG"
+    ],
+    "openfda_generic_names": [
+      "NIVOLUMAB AND HYALURONIDASE-NVHY"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7f8c38fa-42f4-4387-9e8c-7a1c66855d8b",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Hepatocellular Carcinoma",
+    "slug": "hepatocellular-carcinoma"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04039607",
+      "title": "A Study of Nivolumab in Combination With Ipilimumab in Participants With Advanced Hepatocellular Carcinoma",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04039607",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42603198",
+        "title": "Liver Transplantation Following Hepatocellular Carcinoma Rupture and Long-Term Immunotherapy: A Case Report.",
+        "pubdate": "2026 Aug 15",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42603198/"
+      },
+      {
+        "pmid": "42582160",
+        "title": "Biodistribution, shedding, and transmissibility of vusolimogene oderparepvec (RP1).",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42582160/"
+      },
+      {
+        "pmid": "42579028",
+        "title": "Nivolumab plus ipilimumab-based treatment in Japanese patients with metastatic non-small cell lung cancer and tumor PD-L1 < 1%: a pooled analysis.",
+        "pubdate": "2026 Aug 11",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42579028/"
+      },
+      {
+        "pmid": "42577949",
+        "title": "Nivolumab + Doxorubicin, Vinblastine, and Dacarbazine in HIV-Associated Advanced-Stage Classic Hodgkin Lymphoma.",
+        "pubdate": "2026 Jan",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42577949/"
+      },
+      {
+        "pmid": "42574460",
+        "title": "Co-Clinical Evaluation of Synthetic Vitamin D and Chemotherapy in Pancreatic Cancer by Integrated Imaging and Molecular Analyses.",
+        "pubdate": "2026 Aug 10",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42574460/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "PEMBROLIZUMAB",
+        "chembl_id": "CHEMBL3137343",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "PIDILIZUMAB",
+        "chembl_id": "CHEMBL2108680",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "CEMIPLIMAB",
+        "chembl_id": "CHEMBL4297723",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "DOSTARLIMAB",
+        "chembl_id": "CHEMBL4298124",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "CAMRELIZUMAB",
+        "chembl_id": "CHEMBL4297715",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "SERPLULIMAB",
+        "chembl_id": "CHEMBL4594550",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "RETIFANLIMAB",
+        "chembl_id": "CHEMBL4298037",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "SPARTALIZUMAB",
+        "chembl_id": "CHEMBL4297831",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "SASANLIMAB",
+        "chembl_id": "CHEMBL4298191",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "SINTILIMAB",
+        "chembl_id": "CHEMBL4297829",
+        "reason": "same target: Programmed cell death protein 1"
+      }
+    ]
+  }
+}

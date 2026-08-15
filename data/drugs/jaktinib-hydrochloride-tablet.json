@@ -1,0 +1,107 @@
+{
+  "drug_name": "Jaktinib Hydrochloride Tablet",
+  "slug": "jaktinib-hydrochloride-tablet",
+  "enriched_at": "2026-08-15T21:36:22Z",
+  "source_trial_ids": [
+    "NCT05526222"
+  ],
+  "sponsors": [
+    {
+      "name": "Suzhou Zelgen Biopharmaceuticals Co.,Ltd",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Suzhou%20Zelgen%20Biopharmaceuticals%20Co.%2CLtd&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2631745",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1200628",
+    "target_chembl_id": "CHEMBL3041361",
+    "target_name": "Peptidoglycan",
+    "mechanism_of_action_chembl": "Peptidoglycan inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Jaktinib%20Hydrochloride%20Tablet+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Jaktinib%20Hydrochloride%20Tablet+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Jaktinib%20Hydrochloride%20Tablet+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Atopic Dermatitis",
+    "slug": "atopic-dermatitis"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05526222",
+      "title": "A Phase III Study of Jaktinib in Adults With Moderate and Severe Atopic Dermatitis",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05526222",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "39870495",
+        "title": "Correction: Efficacy and safety of jaktinib hydrochloride tablets in active axial spondyloarthritis: a multicentre, randomised, double-blind, placebo-controlled phase II clinical trial.",
+        "pubdate": "2025 Jan 27",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39870495/"
+      },
+      {
+        "pmid": "39753296",
+        "title": "Efficacy and safety of jaktinib hydrochloride tablets in active axial spondyloarthritis: a multicentre, randomised, double-blind, placebo-controlled phase II clinical trial.",
+        "pubdate": "2025 Jan 2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39753296/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "ORITAVANCIN DIPHOSPHATE",
+        "chembl_id": "CHEMBL3989766",
+        "reason": "same target: Peptidoglycan"
+      },
+      {
+        "name": "DALBAVANCIN HYDROCHLORIDE",
+        "chembl_id": "CHEMBL3301650",
+        "reason": "same target: Peptidoglycan"
+      },
+      {
+        "name": "TEICOPLANIN",
+        "chembl_id": "CHEMBL4297166",
+        "reason": "same target: Peptidoglycan"
+      },
+      {
+        "name": "VANCOMYCIN",
+        "chembl_id": "CHEMBL262777",
+        "reason": "same target: Peptidoglycan"
+      },
+      {
+        "name": "CEFILAVANCIN",
+        "chembl_id": "CHEMBL4297645",
+        "reason": "same target: Peptidoglycan"
+      }
+    ]
+  }
+}

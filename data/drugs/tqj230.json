@@ -1,0 +1,93 @@
+{
+  "drug_name": "TQJ230",
+  "slug": "tqj230",
+  "enriched_at": "2026-08-15T21:49:57Z",
+  "source_trial_ids": [
+    "NCT04023552"
+  ],
+  "sponsors": [
+    {
+      "name": "Novartis Pharmaceuticals",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Novartis%20Pharmaceuticals&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2728110",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": null,
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=TQJ230+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=TQJ230+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=TQJ230+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Cardiovascular Disease and Lipoprotein(a)",
+    "slug": "cardiovascular-disease-and-lipoprotein-a"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04023552",
+      "title": "Assessing the Impact of Lipoprotein (a) Lowering With Pelacarsen (TQJ230) on Major Cardiovascular Events in Patients With CVD",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04023552",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "41102962",
+        "title": "Lipoprotein(a) Lowering with Pelacarsen (TQJ230).",
+        "pubdate": "2025 Oct 14",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41102962/"
+      },
+      {
+        "pmid": "37076218",
+        "title": "Clinical Trial Design for Lipoprotein(a)-Lowering Therapies: JACC Focus Seminar 2/3.",
+        "pubdate": "2023 Apr 25",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37076218/"
+      },
+      {
+        "pmid": "33766265",
+        "title": "Emerging RNA Therapeutics to Lower Blood Levels of Lp(a): JACC Focus Seminar 2/4.",
+        "pubdate": "2021 Mar 30",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33766265/"
+      },
+      {
+        "pmid": "33123354",
+        "title": "Pelacarsen for lowering lipoprotein(a): implications for patients with chronic kidney disease.",
+        "pubdate": "2020 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33123354/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

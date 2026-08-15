@@ -1,0 +1,121 @@
+{
+  "drug_name": "Liposomal Bupivacaine",
+  "slug": "liposomal-bupivacaine",
+  "enriched_at": "2026-08-15T21:36:57Z",
+  "source_trial_ids": [
+    "NCT07222748"
+  ],
+  "sponsors": [
+    {
+      "name": "TLC Biopharmaceuticals, Inc.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=TLC%20Biopharmaceuticals%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 2474,
+    "iupac_name": "1-butyl-N-(2,6-dimethylphenyl)piperidine-2-carboxamide",
+    "molecular_formula": "C18H28N2O",
+    "molecular_weight": "288.4",
+    "canonical_smiles": null,
+    "inchikey": "LEBVLXFERQHONN-UHFFFAOYSA-N",
+    "rxnorm": {
+      "rxcui": "1191504",
+      "generic_name": "bupivacaine liposome",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1098",
+    "target_chembl_id": "CHEMBL2072",
+    "target_name": "Sodium channel protein type 4 subunit alpha",
+    "mechanism_of_action_chembl": "Sodium channel protein type IV alpha subunit blocker"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Liposomal%20Bupivacaine+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Liposomal%20Bupivacaine+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Liposomal%20Bupivacaine+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Postoperative Pain",
+    "slug": "postoperative-pain"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07222748",
+      "title": "A Study of TLC590 for Postsurgical Pain Following Bunionectomy",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07222748",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42602754",
+        "title": "Liposomal bupivacaine surgical site injection for decrease of narcotic use in hip fractures: a pilot multicenter randomized trial.",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42602754/"
+      },
+      {
+        "pmid": "42595972",
+        "title": "Liposomal bupivacaine versus ropivacaine in four-in-one nerve block for total knee arthroplasty: a randomized controlled trial.",
+        "pubdate": "2026 Aug 13",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42595972/"
+      },
+      {
+        "pmid": "42585790",
+        "title": "Recovery quality after periumbilical infiltration with liposomal bupivacaine vs ropivacaine in gynecologic single-port laparoscopic surgery, a double blind randomized controlled trial.",
+        "pubdate": "2026 Aug 8",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42585790/"
+      },
+      {
+        "pmid": "42582811",
+        "title": "Liposomal Bupivacaine for Postoperative Analgesia After Multilevel Posterior Lumbar Fusion Surgery: A Prospective Three-Arm Randomized Study.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42582811/"
+      },
+      {
+        "pmid": "42542999",
+        "title": "Liposomal Bupivacaine Incisional Infiltration for Postoperative Analgesia After Cytoreductive Surgery with Hyperthermic Intraperitoneal Chemotherapy: A Randomized Placebo-Controlled Trial.",
+        "pubdate": "2026 Aug 2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42542999/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "LEVOBUPIVACAINE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1200749",
+        "reason": "same target: Sodium channel protein type 4 subunit alpha"
+      },
+      {
+        "name": "BUPIVACAINE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1200396",
+        "reason": "same target: Sodium channel protein type 4 subunit alpha"
+      },
+      {
+        "name": "RANOLAZINE",
+        "chembl_id": "CHEMBL1404",
+        "reason": "same target: Sodium channel protein type 4 subunit alpha"
+      }
+    ]
+  }
+}

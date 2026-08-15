@@ -1,0 +1,150 @@
+{
+  "drug_name": "Placebo in combination with nivolumab",
+  "slug": "placebo-in-combination-with-nivolumab",
+  "enriched_at": "2026-08-15T21:46:26Z",
+  "source_trial_ids": [
+    "NCT04674683"
+  ],
+  "sponsors": [
+    {
+      "name": "HUYABIO International, LLC.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=HUYABIO%20International%2C%20LLC.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1597876",
+      "generic_name": "nivolumab",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2108738",
+    "target_chembl_id": "CHEMBL3307223",
+    "target_name": "Programmed cell death protein 1",
+    "mechanism_of_action_chembl": "Programmed cell death protein 1 inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Placebo%20in%20combination%20with%20nivolumab+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Placebo%20in%20combination%20with%20nivolumab+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Placebo%20in%20combination%20with%20nivolumab+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Unresectable or Metastatic Melanoma",
+    "slug": "unresectable-or-metastatic-melanoma"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04674683",
+      "title": "Study Comparing Investigational Drug HBI-8000 + Nivolumab vs. Placebo + Nivolumab in Patients With Advanced Melanoma",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04674683",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "41996022",
+        "title": "Infusion-Related Reactions from Immune Checkpoint Inhibitors in Solid Tumors: A Proportional and Network Meta-Analysis.",
+        "pubdate": "2026 May",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41996022/"
+      },
+      {
+        "pmid": "42160640",
+        "title": "",
+        "pubdate": "2026 Apr",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42160640/"
+      },
+      {
+        "pmid": "41640231",
+        "title": "Plain language summary of TASUKI-52: A study looking at nivolumab plus platinum chemotherapy and bevacizumab as a combined treatment for people with advanced or recurrent nonsquamous non-small cell lung cancer (NSCLC).",
+        "pubdate": "2026 Feb",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41640231/"
+      },
+      {
+        "pmid": "41504650",
+        "title": "Phase III Study Investigating the Safety and Efficacy of TM5614 in Combination With Nivolumab for the Treatment of Unresectable Malignant Melanoma: Protocol.",
+        "pubdate": "2026 Jan",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41504650/"
+      },
+      {
+        "pmid": "41449150",
+        "title": "Nivolumab plus docetaxel versus placebo plus docetaxel for androgen receptor pathway inhibitor-pretreated and chemotherapy-naive metastatic castration-resistant prostate cancer (CheckMate 7DX): a double-blind, randomised, phase 3 trial.",
+        "pubdate": "2026 Jan",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41449150/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "PEMBROLIZUMAB",
+        "chembl_id": "CHEMBL3137343",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "PIDILIZUMAB",
+        "chembl_id": "CHEMBL2108680",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "CEMIPLIMAB",
+        "chembl_id": "CHEMBL4297723",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "DOSTARLIMAB",
+        "chembl_id": "CHEMBL4298124",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "CAMRELIZUMAB",
+        "chembl_id": "CHEMBL4297715",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "SERPLULIMAB",
+        "chembl_id": "CHEMBL4594550",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "RETIFANLIMAB",
+        "chembl_id": "CHEMBL4298037",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "SPARTALIZUMAB",
+        "chembl_id": "CHEMBL4297831",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "SASANLIMAB",
+        "chembl_id": "CHEMBL4298191",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "SINTILIMAB",
+        "chembl_id": "CHEMBL4297829",
+        "reason": "same target: Programmed cell death protein 1"
+      }
+    ]
+  }
+}

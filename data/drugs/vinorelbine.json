@@ -1,0 +1,136 @@
+{
+  "drug_name": "Vinorelbine",
+  "slug": "vinorelbine",
+  "enriched_at": "2026-08-15T21:50:40Z",
+  "source_trial_ids": [
+    "NCT06519370"
+  ],
+  "sponsors": [
+    {
+      "name": "Shanghai Fudan-Zhangjiang Bio-Pharmaceutical Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Shanghai%20Fudan-Zhangjiang%20Bio-Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 5311497,
+    "iupac_name": "methyl (1R,9R,10S,11R,12R,19R)-11-acetyloxy-12-ethyl-4-[(12S,14R)-16-ethyl-12-methoxycarbonyl-1,10-diazatetracyclo[12.3.1.03,11.04,9]octadeca-3(11),4,6,8,15-pentaen-12-yl]-10-hydroxy-5-methoxy-8-methyl-8,16-diazapentacyclo[10.6.1.01,9.02,7.016,19]nonadeca-2,4,6,13-tetraene-10-carboxylate",
+    "molecular_formula": "C45H54N4O8",
+    "molecular_weight": "778.9",
+    "canonical_smiles": null,
+    "inchikey": "GBABOYUKABKIAF-IELIFDKJSA-N",
+    "rxnorm": {
+      "rxcui": "39541",
+      "generic_name": "vinorelbine",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL553025",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Vinorelbine is a vinca alkaloid that interferes with microtubule assembly. The antitumor activity of vinorelbine is thought to be due primarily to inhibition of mitosis at metaphase through its interaction with tubulin. Vinorelbine may also interfere with: 1) amino acid, cyclic AMP and glutathione metabolism, 2) calmodulin-dependent Ca++-transport ATPase activity, 3) cellular respiration, and 4) nucleic acid and lipid biosynthesis. Vinorelbine inhibited mitotic microtubule formation in intact mouse embryo tectal plates at a concentration of 2 μM inducing a blockade of cells at metaphase, but produced depolymerization of axonal microtubules at a concentration 40 μM, suggesting a modest selectivity of vinorelbine for mitotic microtubules.",
+    "pharmacokinetics": "12.3 Pharmacokinetics The pharmacokinetics of vinorelbine were studied in 49 patients who received doses of 30 mg/m 2 administered as 15- to 20-minute constant-rate infusions. Vinorelbine concentrations in plasma decay in a triphasic manner. Distribution Steady-state volume of distribution (V SS ) values range from 25.4 to 40.1 L/kg. Vinorelbine demonstrated high binding to human platelets and lymphocytes. The free fraction was approximately 0.11 in human plasma over a concentration range of 234 to 1169 ng/mL. The binding to plasma constituents in cancer patients ranged from 79.6% to 91.2%. Vinorelbine binding was not altered in the presence of cisplatin, fluorouracil, or doxorubicin. Elimination The terminal phase half-life averages 27.7 to 43.6 hours and the mean plasma clearance ranges from 0.97 to 1.26 L/hr/kg. Metabolism Vinorelbine undergoes substantial hepatic elimination in humans, with large amounts recovered in feces. Two metabolites of vinorelbine have been identified in human blood, plasma and urine; vinorelbine N-oxide and deacetylvinorelbine. Deacetylvinorelbine has been demonstrated to be the primary metabolite of vinorelbine in humans and has been shown to possess antitumor activity similar to vinorelbine. Therapeutic doses of vinorelbine (30 mg/m 2 ) yield very small, if any, quantifiable levels of either metabolite in blood or urine. The metabolism of vinorelbine is mediated by hepatic CYP3A. Excretion After intravenous administration of radioactive vinorelbine, approximately 18% and 46% of administered radioactivity was recovered in urine and feces, respectively. In a different study, 10.9% ± 0.7% of a 30 mg/m 2 intravenous dose was excreted as parent drug in urine. Specific Populations Age has no effect on the pharmacokinetics (CL, V SS and t 1/2 ) of vinorelbine. Drug Interaction Studies The pharmacokinetics of vinorelbine are not influenced by the concurrent administration of cisplatin.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE Vinorelbine Injection is indicated: In combination with cisplatin for first-line treatment of patients with locally advanced or metastatic non-small cell lung cancer (NSCLC) As a single agent for the treatment of patients with metastatic NSCLC Vinorelbine Injection is a vinca alkaloid indicated: In combination with cisplatin for first-line treatment of patients with locally advanced or metastatic non-small cell lung cancer (NSCLC) ( 1 ) As a single agent for first-line treatment of patients with metastatic NSCLC ( 1 )",
+    "boxed_warning": "WARNING: MYELOSUPPRESSION Severe myelosuppression resulting in serious infection, septic shock, hospitalization and death can occur [see Warnings and Precautions ( 5.1 )]. Decrease the dose or withhold vinorelbine in accord with recommended dose modifications [see Dosage and Administration ( 2.2 )]. WARNING: MYELOSUPPRESSION See full prescribing information for complete boxed warning. Severe myelosuppression resulting in serious infection, septic shock, and death can occur ( 5.1 ). Decrease the dose or withhold vinorelbine in accord with recommended dose modifications ( 2.2 ).",
+    "openfda_brand_names": [
+      "Vinorelbine"
+    ],
+    "openfda_generic_names": [
+      "VINORELBINE"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=10a70995-e04d-4044-b1dc-c9aa27460397",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Triple Negative Breast Cancer",
+    "slug": "triple-negative-breast-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06519370",
+      "title": "FDA018-ADC vs Investigator's Choice Chemotherapy to Treat Locally Advanced, Recurrent or Metastatic Triple-negative Breast Cancer",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06519370",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42561548",
+        "title": "Vinorelbine and low-dose cyclophosphamide as maintenance therapy in the treatment of Ewing sarcoma rationale for the international INTER-EWING-1 trial for Ewing sarcoma patients.",
+        "pubdate": "2026 Jul 27",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42561548/"
+      },
+      {
+        "pmid": "42293698",
+        "title": "Efficacy and safety of first-line oral vinorelbine plus firmonertinib in refractory EGFR-mutated non-small cell lung cancer: study protocol of a multicenter, non-randomized, two-cohort study.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42293698/"
+      },
+      {
+        "pmid": "42180940",
+        "title": "Metronomic chemotherapy combined with immunotherapy in solid tumor: a systematic review.",
+        "pubdate": "2026 Apr 30",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42180940/"
+      },
+      {
+        "pmid": "41946829",
+        "title": "Safety and efficacy of lapatinib, binimetinib, and vinorelbine for RAS mutant metastatic colorectal cancer: results of the RASTRIC Phase I/II trial.",
+        "pubdate": "2026 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41946829/"
+      },
+      {
+        "pmid": "41497257",
+        "title": "Efficacy and safety of oral vinorelbine with concurrent radiotherapy in unresectable stage III non-small cell lung cancer following neoadjuvant chemoimmunotherapy: a single-arm, phase 2 trial.",
+        "pubdate": "2025 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41497257/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "SKB264",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Sichuan Kelun-Biotech Biopharmaceutical Co., Ltd."
+      },
+      {
+        "name": "Paclitaxel",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Sichuan Kelun-Biotech Biopharmaceutical Co., Ltd."
+      },
+      {
+        "name": "Nab-paclitaxel",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Sichuan Kelun-Biotech Biopharmaceutical Co., Ltd."
+      },
+      {
+        "name": "Capecitabine",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Sichuan Kelun-Biotech Biopharmaceutical Co., Ltd."
+      },
+      {
+        "name": "Eribulin",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Sichuan Kelun-Biotech Biopharmaceutical Co., Ltd."
+      },
+      {
+        "name": "Carboplatin",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Sichuan Kelun-Biotech Biopharmaceutical Co., Ltd."
+      }
+    ]
+  }
+}

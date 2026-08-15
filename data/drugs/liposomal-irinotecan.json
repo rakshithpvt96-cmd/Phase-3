@@ -1,0 +1,150 @@
+{
+  "drug_name": "Liposomal irinotecan",
+  "slug": "liposomal-irinotecan",
+  "enriched_at": "2026-08-15T21:37:06Z",
+  "source_trial_ids": [
+    "NCT06625320"
+  ],
+  "sponsors": [
+    {
+      "name": "Revolution Medicines, Inc.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Revolution%20Medicines%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1719767",
+      "generic_name": "irinotecan hydrochloride liposome",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL3989514",
+    "target_chembl_id": "CHEMBL1781",
+    "target_name": "DNA topoisomerase 1",
+    "mechanism_of_action_chembl": "DNA topoisomerase I inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Liposomal%20irinotecan+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Liposomal%20irinotecan+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Liposomal%20irinotecan+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Pancreatic Cancer",
+    "slug": "pancreatic-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06625320",
+      "title": "Phase 3 Study of Daraxonrasib (RMC-6236) in Patients With Previously Treated Metastatic Pancreatic Ductal Adenocarcinoma (PDAC)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06625320",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42371783",
+        "title": "Use of liposomal irinotecan with 5-FU and oxaliplatin (NALIRIFOX) in neoadjuvant pancreatic adenocarcinoma: NEO-Nal-IRI trial.",
+        "pubdate": "2026 Aug 6",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42371783/"
+      },
+      {
+        "pmid": "42080361",
+        "title": "Impact of UGT1A1*28 polymorphism in patients with metastatic pancreatic ductal adenocarcinoma treated with NALIRIFOX in the NAPOLI 3 trial.",
+        "pubdate": "2026 May",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42080361/"
+      },
+      {
+        "pmid": "41311840",
+        "title": "Cost-effectiveness analysis of irinotecan hydrochloride liposome in combination with 5-fluorouracil and leucovorin in locally advanced or metastatic pancreatic ductal adenocarcinoma.",
+        "pubdate": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41311840/"
+      },
+      {
+        "pmid": "41273257",
+        "title": "Optimized dose schedule of rucaparib and liposomal irinotecan/5-fluorouracil in metastatic gastrointestinal cancers: A phase 1 study.",
+        "pubdate": "2025 Dec 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41273257/"
+      },
+      {
+        "pmid": "40468090",
+        "title": "A phase I study of liposomal Irinotecan (ONIVYDE®) in combination with TAS-102 (LONSURF®) in refractory solid tumors.",
+        "pubdate": "2025 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40468090/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "TOPOTECAN HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1607",
+        "reason": "same target: DNA topoisomerase 1"
+      },
+      {
+        "name": "BECATECARIN",
+        "chembl_id": "CHEMBL2107313",
+        "reason": "same target: DNA topoisomerase 1"
+      },
+      {
+        "name": "ETIRINOTECAN PEGOL",
+        "chembl_id": "CHEMBL3039558",
+        "reason": "same target: DNA topoisomerase 1"
+      },
+      {
+        "name": "IRINOTECAN SUCROSOFATE",
+        "chembl_id": "CHEMBL5314381",
+        "reason": "same target: DNA topoisomerase 1"
+      },
+      {
+        "name": "TRASTUZUMAB DERUXTECAN",
+        "chembl_id": "CHEMBL4297844",
+        "reason": "same target: DNA topoisomerase 1"
+      },
+      {
+        "name": "SACITUZUMAB GOVITECAN",
+        "chembl_id": "CHEMBL3545262",
+        "reason": "same target: DNA topoisomerase 1"
+      },
+      {
+        "name": "TLC-388",
+        "chembl_id": "CHEMBL4594352",
+        "reason": "same target: DNA topoisomerase 1"
+      },
+      {
+        "name": "DIFLOMOTECAN",
+        "chembl_id": "CHEMBL306280",
+        "reason": "same target: DNA topoisomerase 1"
+      },
+      {
+        "name": "RUBITECAN",
+        "chembl_id": "CHEMBL77305",
+        "reason": "same target: DNA topoisomerase 1"
+      },
+      {
+        "name": "BELOTECAN",
+        "chembl_id": "CHEMBL2111084",
+        "reason": "same target: DNA topoisomerase 1"
+      }
+    ]
+  }
+}

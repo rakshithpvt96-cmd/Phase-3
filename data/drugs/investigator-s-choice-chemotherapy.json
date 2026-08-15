@@ -1,0 +1,145 @@
+{
+  "drug_name": "Investigator's Choice Chemotherapy",
+  "slug": "investigator-s-choice-chemotherapy",
+  "enriched_at": "2026-08-15T21:35:41Z",
+  "source_trial_ids": [
+    "NCT05652894"
+  ],
+  "sponsors": [
+    {
+      "name": "Taizhou Hanzhong biomedical co. LTD",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Taizhou%20Hanzhong%20biomedical%20co.%20LTD&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1037027",
+      "generic_name": "Doctor's Choice",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4297950",
+    "target_chembl_id": "CHEMBL1996",
+    "target_name": "Granulocyte colony-stimulating factor receptor",
+    "mechanism_of_action_chembl": "Granulocyte colony stimulating factor receptor agonist"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Investigator%27s%20Choice%20Chemotherapy+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Investigator%27s%20Choice%20Chemotherapy+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Investigator%27s%20Choice%20Chemotherapy+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Metastatic Colorectal Cancer",
+    "slug": "metastatic-colorectal-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05652894",
+      "title": "A Study of HX008 Compared to Chemotherapy in the First-Line Treatment of Subjects With MSI-H/dMMR Metastatic Colorectal Cancer",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05652894",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42600570",
+        "title": "Daraxonrasib in refractory PDAC: A one-eyed king in the land of the blind?",
+        "pubdate": "2026 Aug 14",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42600570/"
+      },
+      {
+        "pmid": "42581349",
+        "title": "Trials in progress: CARMAN - study protocol of a randomized controlled, international, multicenter, open-label phase II trial evaluating early treatment intensification in patients with high-risk mantle cell lymphoma using CAR-T-cell treatment after an abbreviated induction therapy with rituximab and ibrutinib and 6 months ibrutinib maintenance as compared to standard of care induction and maintenance.",
+        "pubdate": "2026 Aug 11",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42581349/"
+      },
+      {
+        "pmid": "42535874",
+        "title": "TroFuse-011 study design: sacituzumab tirumotecan with or without pembrolizumab for advanced triple-negative breast cancer with PD-L1 CPS <10.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42535874/"
+      },
+      {
+        "pmid": "42402265",
+        "title": "Durvalumab with gemcitabine-based chemotherapy regimens in advanced biliary tract cancer: primary results from the phase IIIb TOURMALINE study.",
+        "pubdate": "2026 Jul 6",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42402265/"
+      },
+      {
+        "pmid": "42372745",
+        "title": "Perioperative systemic therapy versus surgery alone for resectable colorectal peritoneal-only metastases (CAIRO6): a randomised, open-label, phase 3 trial.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42372745/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "FILGRASTIM",
+        "chembl_id": "CHEMBL1201567",
+        "reason": "same target: Granulocyte colony-stimulating factor receptor"
+      },
+      {
+        "name": "PEGFILGRASTIM",
+        "chembl_id": "CHEMBL1201568",
+        "reason": "same target: Granulocyte colony-stimulating factor receptor"
+      },
+      {
+        "name": "BALUGRASTIM",
+        "chembl_id": "CHEMBL2108572",
+        "reason": "same target: Granulocyte colony-stimulating factor receptor"
+      },
+      {
+        "name": "LIPEGFILGRASTIM",
+        "chembl_id": "CHEMBL4594230",
+        "reason": "same target: Granulocyte colony-stimulating factor receptor"
+      },
+      {
+        "name": "PEGTEOGRASTIM",
+        "chembl_id": "CHEMBL4297800",
+        "reason": "same target: Granulocyte colony-stimulating factor receptor"
+      },
+      {
+        "name": "LENOGRASTIM",
+        "chembl_id": "CHEMBL2109128",
+        "reason": "same target: Granulocyte colony-stimulating factor receptor"
+      },
+      {
+        "name": "ANUMIGILIMAB",
+        "chembl_id": "CHEMBL4650461",
+        "reason": "same target: Granulocyte colony-stimulating factor receptor"
+      },
+      {
+        "name": "EFLAPEGRASTIM",
+        "chembl_id": "CHEMBL3833384",
+        "reason": "same target: Granulocyte colony-stimulating factor receptor"
+      },
+      {
+        "name": "REGRAMOSTIM",
+        "chembl_id": "CHEMBL2107881",
+        "reason": "same target: Granulocyte colony-stimulating factor receptor"
+      }
+    ]
+  }
+}

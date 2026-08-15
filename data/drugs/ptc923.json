@@ -1,0 +1,101 @@
+{
+  "drug_name": "PTC923",
+  "slug": "ptc923",
+  "enriched_at": "2026-08-15T21:46:40Z",
+  "source_trial_ids": [
+    "NCT05166161"
+  ],
+  "sponsors": [
+    {
+      "name": "PTC Therapeutics",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=PTC%20Therapeutics&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 135398579,
+    "iupac_name": "2-amino-6-[(2S)-2-hydroxypropanoyl]-7,8-dihydro-3H-pteridin-4-one",
+    "molecular_formula": "C9H11N5O3",
+    "molecular_weight": "237.22",
+    "canonical_smiles": null,
+    "inchikey": "VPVOXUSPXFPWBN-VKHMYHEASA-N",
+    "rxnorm": null
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1255653",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=PTC923+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=PTC923+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=PTC923+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Phenylketonuria",
+    "slug": "phenylketonuria"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05166161",
+      "title": "A Long-Term Safety Study of PTC923 in Participants With Phenylketonuria",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05166161",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42250073",
+        "title": "Sepiapterin: A Distinct, Dual Mechanism of Action that Leads to Potential Treatment Benefits Across the Spectrum of Phenylketonuria Disease Severities.",
+        "pubdate": "2026 Jun 6",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42250073/"
+      },
+      {
+        "pmid": "42119485",
+        "title": "Sepiapterin: From sapropterin to next-generation therapy.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42119485/"
+      },
+      {
+        "pmid": "41616812",
+        "title": "Efficacy and safety of sepiapterin versus sapropterin in patients with phenylketonuria: Results from the Phase 3, randomized, crossover, open-label, active-controlled AMPLIPHY trial.",
+        "pubdate": "2026 May",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41616812/"
+      },
+      {
+        "pmid": "41537382",
+        "title": "Effect of long-term sepiapterin treatment on dietary phenylalanine tolerance in patients with phenylketonuria: Interim results from the phase 3 APHENITY Extension Study.",
+        "pubdate": "2026 Apr",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41537382/"
+      },
+      {
+        "pmid": "41363942",
+        "title": "Sepiapterin as a treatment for people living with phenylketonuria: a plain language summary of the APHENITY trial.",
+        "pubdate": "2026 Jan",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41363942/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "drug_name": "Obexelimab",
+  "slug": "obexelimab",
+  "enriched_at": "2026-08-15T21:39:36Z",
+  "source_trial_ids": [
+    "NCT05786573"
+  ],
+  "sponsors": [
+    {
+      "name": "Zenas BioPharma (USA), LLC",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Zenas%20BioPharma%20%28USA%29%2C%20LLC&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2169869",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4298134",
+    "target_chembl_id": "CHEMBL3390821",
+    "target_name": "B-lymphocyte antigen CD19",
+    "mechanism_of_action_chembl": "B-lymphocyte antigen CD19 inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Obexelimab+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Obexelimab+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Obexelimab+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Warm Autoimmune Hemolytic Anemia",
+    "slug": "warm-autoimmune-hemolytic-anemia"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05786573",
+      "title": "A Study of Obexelimab in Patients With Warm Autoimmune Hemolytic Anemia (SApHiAre)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05786573",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42233621",
+        "title": "Obexelimab for the Treatment of IgG4-Related Disease.",
+        "pubdate": "2026 Jun 2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42233621/"
+      },
+      {
+        "pmid": "41840328",
+        "title": "Efficacy and Safety of Obexelimab to Treat IgG4-Related Disease: Protocol for a Global, Randomized, Placebo-Controlled Trial.",
+        "pubdate": "2026 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41840328/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "BLINATUMOMAB",
+        "chembl_id": "CHEMBL1742992",
+        "reason": "same target: B-lymphocyte antigen CD19"
+      },
+      {
+        "name": "TAPLITUMOMAB PAPTOX",
+        "chembl_id": "CHEMBL2107890",
+        "reason": "same target: B-lymphocyte antigen CD19"
+      },
+      {
+        "name": "COLTUXIMAB RAVTANSINE",
+        "chembl_id": "CHEMBL2109286",
+        "reason": "same target: B-lymphocyte antigen CD19"
+      },
+      {
+        "name": "ONCOLYSIN B",
+        "chembl_id": "CHEMBL2109308",
+        "reason": "same target: B-lymphocyte antigen CD19"
+      },
+      {
+        "name": "INEBILIZUMAB",
+        "chembl_id": "CHEMBL2109334",
+        "reason": "same target: B-lymphocyte antigen CD19"
+      },
+      {
+        "name": "DENINTUZUMAB MAFODOTIN",
+        "chembl_id": "CHEMBL3545371",
+        "reason": "same target: B-lymphocyte antigen CD19"
+      },
+      {
+        "name": "DENINTUZUMAB",
+        "chembl_id": "CHEMBL3544992",
+        "reason": "same target: B-lymphocyte antigen CD19"
+      },
+      {
+        "name": "MDX-1342",
+        "chembl_id": "CHEMBL2109337",
+        "reason": "same target: B-lymphocyte antigen CD19"
+      },
+      {
+        "name": "AMG-729",
+        "chembl_id": "CHEMBL2109338",
+        "reason": "same target: B-lymphocyte antigen CD19"
+      },
+      {
+        "name": "AXICABTAGENE CILOLEUCEL",
+        "chembl_id": "CHEMBL3989989",
+        "reason": "same target: B-lymphocyte antigen CD19"
+      }
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "drug_name": "Iron sucrose",
+  "slug": "iron-sucrose",
+  "enriched_at": "2026-08-15T21:51:28Z",
+  "source_trial_ids": [
+    "NCT03893045"
+  ],
+  "sponsors": [
+    {
+      "name": "AMAG Pharmaceuticals, Inc.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=AMAG%20Pharmaceuticals%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "24909",
+      "generic_name": "iron sucrose",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1200823",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": "Supplement"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Iron sucrose is an aqueous complex of poly-nuclear iron (III)-hydroxide in sucrose. Following intravenous administration, iron sucrose is dissociated into iron and sucrose and the iron is transported as a complex with transferrin to target cells including erythroid precursor cells. The iron in the precursor cells is incorporated into hemoglobin as the cells mature into red blood cells.",
+    "pharmacokinetics": "12.3 Pharmacokinetics In healthy adults administered intravenous doses of iron sucrose, its iron component exhibited first order kinetics with an elimination half-life of 6 h, total clearance of 1.2 L/h, and steady state apparent volume of distribution of 7.9 L. The iron component appeared to distribute mainly in blood and to some extent in extravascular fluid. A study evaluating iron sucrose containing 100 mg of iron labeled with 52 Fe/ 59 Fe in patients with iron deficiency showed that a significant amount of the administered iron is distributed to the liver, spleen and bone marrow and that the bone marrow is an irreversible iron trapping compartment. Following intravenous administration of iron sucrose, iron sucrose is dissociated into iron and sucrose. The sucrose component is eliminated mainly by urinary excretion. In a study evaluating a single intravenous dose of iron sucrose containing 1,510 mg of sucrose and 100 mg of iron in 12 healthy adults (9 female, 3 male: age range 32 to 52), 68.3% of the sucrose was eliminated in urine in 4 h and 75.4% in 24 h. Some iron was also eliminated in the urine. Neither transferrin nor transferrin receptor levels changed immediately after the dose administration. In this study and another study evaluating a single intravenous dose of iron sucrose containing 500 to 700 mg of iron in 26 patients with anemia on erythropoietin therapy (23 female, 3 male; age range 16 to 60), approximately 5% of the iron was eliminated in urine in 24 h at each dose level. The effects of age and gender on the pharmacokinetics of iron sucrose have not been studied. Pharmacokinetics in Pediatric Patients In a single-dose PK study of iron sucrose, patients with NDD-CKD ages 12 to 16 (N=11) received intravenous bolus doses of iron sucrose at 7 mg/kg (maximum 200 mg) administered over 5 minutes. Following a single dose of iron sucrose, the half-life of total serum iron was 8 hours. The mean C max and AUC values were 8545 mcg/dL and 31305 hr•mcg/dL, respectively, which were 1.42- and 1.67-fold higher than dose adjusted adult C max and AUC values. Iron sucrose is not dialyzable through CA210 (Baxter) High Efficiency or Fresenius F80A High Flux dialysis membranes. In in vitro studies, the amount of iron sucrose in the dialysate fluid was below the levels of detection of the assay (less than 2 parts per million).",
+    "indications_and_usage": "1 INDICATIONS AND USAGE Iron sucrose injection is indicated for the treatment of iron deficiency anemia (IDA) in patients with chronic kidney disease (CKD). Iron sucrose injection is an iron replacement product indicated for the treatment of iron deficiency anemia (IDA) in patients with chronic kidney disease (CKD). ( 1 )",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "Iron Sucrose"
+    ],
+    "openfda_generic_names": [
+      "IRON SUCROSE"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6f19c80e-22e9-4bab-aa53-4d2d958119ed",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Iron Deficiency Anemia",
+    "slug": "iron-deficiency-anemia"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT03893045",
+      "title": "A Study to Evaluate Ferumoxytol for the Treatment of Iron Deficiency Anemia (IDA) in Pediatric Subjects",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT03893045",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "41870899",
+        "title": "The effect of intravenous sodium ferric gluconate complex (Ferrlecit) on outcomes of patients undergoing transcatheter aortic valve implantation: a prospective randomized controlled trial.",
+        "pubdate": "2026 May 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41870899/"
+      },
+      {
+        "pmid": "41503041",
+        "title": "PRAYAS: individual patient data meta-analysis database for Pooled Research and Analysis for Yielding Anemia-free Solutions in India.",
+        "pubdate": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41503041/"
+      },
+      {
+        "pmid": "41474901",
+        "title": "Comparative Study between Intravenous Ferric Carboxymaltose versus Iron Sucrose in the Treatment of Iron Deficiency Anemia in Postpartum Patients.",
+        "pubdate": "2026 Jan",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41474901/"
+      },
+      {
+        "pmid": "41138567",
+        "title": "Improved lipid and glycemic profile and vitamin D levels after a dietary intervention with SSRD and low FODMAP in IBS patients: A randomized controlled trial.",
+        "pubdate": "2026 Feb",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41138567/"
+      },
+      {
+        "pmid": "41102891",
+        "title": "Postpartum IV iron sucrappenose, and rates of RBC transfusion: A quality improvement initiative.",
+        "pubdate": "2026 Feb",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41102891/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

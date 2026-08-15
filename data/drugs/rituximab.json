@@ -1,0 +1,150 @@
+{
+  "drug_name": "Rituximab",
+  "slug": "rituximab",
+  "enriched_at": "2026-08-15T21:47:34Z",
+  "source_trial_ids": [
+    "NCT04712097"
+  ],
+  "sponsors": [
+    {
+      "name": "Hoffmann-La Roche",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hoffmann-La%20Roche&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "121191",
+      "generic_name": "rituximab",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1201576",
+    "target_chembl_id": "CHEMBL2058",
+    "target_name": "B-lymphocyte antigen CD20",
+    "mechanism_of_action_chembl": "B-lymphocyte antigen CD20 binding agent"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Rituximab is a monoclonal antibody that targets the CD20 antigen expressed on the surface of pre-B and mature B-lymphocytes. Upon binding to CD20, rituximab mediates B-cell lysis. Possible mechanisms of cell lysis include complement dependent cytotoxicity (CDC) and antibody dependent cell mediated cytotoxicity (ADCC). Hyaluronan is a polysaccharide found in the extracellular matrix of the subcutaneous tissue. It is depolymerized by the naturally occurring enzyme hyaluronidase. Unlike the stable structural components of the interstitial matrix, hyaluronan has a half-life of approximately 0.5 days. Hyaluronidase human increases permeability of the subcutaneous tissue by temporarily depolymerizing hyaluronan. In the doses administered, hyaluronidase human in RITUXAN HYCELA acts locally. The effects of hyaluronidase human are reversible and permeability of the subcutaneous tissue is restored within 24 to 48 hours. Hyaluronidase human has been shown to increase the absorption rate of a rituximab product into the systemic circulation when given in the subcutis of Göttingen Minipigs.",
+    "pharmacokinetics": "12.3 Pharmacokinetics The geometric mean rituximab exposures are provided in Table 4 . The pharmacokinetic properties of rituximab following the administration of RITUXAN HYCELA in the approved indications are provided in Table 5 . The elimination of rituximab was characterized by a time-dependent process that occurred early in therapy and a time-independent process. Table 4: Rituximab Exposure Values following Subcutaneous Administration of RITUXAN HYCELA Pharmacokinetic parameters are presented as geometric mean unless otherwise specified. Study For study design information, see Clinical Studies (14) . Cycle Rituximab FL RITUXAN HYCELA 1,400 mg/23,400 Units (1,400 mg rituximab and 23,400 Units hyaluronidase human) C max , mcg/mL (CV%) SABRINA 7 237 (29.4) 18 156 (24.7) Based on predicted values C trough , mcg/mL (CV%) 7 122.2 (55.3) 18 45.5 (53.6) AUC TAU , mcg∙day/mL (CV%) 7 3779 (33.7) 18 5000 (34.3) CLL RITUXAN HYCELA 1,600 mg/26,800 Units (1,600 mg rituximab and 26,800 Units hyaluronidase human) C max , mcg/mL (CV%) SAWYER 6 202 (36.1) C trough , mcg/mL (CV%) 5 97.5 (42.6) AUC TAU , mcg∙day/mL (CV%) 5 4088 (34.2) In the SABRINA study, the geometric mean C trough in the RITUXAN HYCELA arm was higher than in the rituximab arm with a geometric mean ratio (C trough , RITUXAN HYCELA/C trough , rituximab) of 1.52 (90% CI: 1.36, 1.70) at Cycle 7 [see Clinical Studies (14.1) ] . In the SAWYER study, the geometric mean C trough in the RITUXAN HYCELA arm was higher than in the rituximab arm with an adjusted geometric mean ratio of 1.53 (90% CI: 1.27–1.85) at Cycle 5 [see Clinical Studies (14.3) ] . Table 5: Pharmacokinetic Parameters of Rituximab following Subcutaneous Administration of RITUXAN HYCELA Parameters represented as geometric mean (%CV) unless otherwise specified FL CLL Absorption Absolute Bioavailability Compared to a rituximab product administered intravenously 0.646 (0.634–0.659 95% CI ) 0.634 (0.602–0.665 ) Distribution Volume of Central compartment (L) 4.06 (26) 4.80 (18) Apparent Volume of Distribution at steady state Volume of central compartment and peripheral compartment (L) 8.09 (19) 8.52 (13) Elimination Terminal Half-life (days) 34.1 (27) 32 (24) Clearance (L/day) 0.18 (34) 0.204 (31) Specific Populations The pharmacokinetics of rituximab and hyaluronidase human in children and adolescents is unknown. The effect of either renal or hepatic impairment on the pharmacokinetics of rituximab and hyaluronidase human is unknown. Drug Interaction Studies The drug interaction potential of rituximab and hyaluronidase human is unknown.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE RITUXAN HYCELA is a combination of rituximab, a CD20-directed cytolytic antibody, and hyaluronidase human, an endoglycosidase, indicated for the treatment of adult patients with: Follicular Lymphoma (FL) ( 1.1 ) Relapsed or refractory, follicular lymphoma as a single agent Previously untreated follicular lymphoma in combination with first line chemotherapy and, in patients achieving a complete or partial response to rituximab in combination with chemotherapy, as single-agent maintenance therapy Non-progressing (including stable disease), follicular lymphoma as a single agent after first-line cyclophosphamide, vincristine, and prednisone (CVP) chemotherapy Diffuse Large B-cell Lymphoma (DLBCL) ( 1.2 ) Previously untreated diffuse large B-cell lymphoma in combination with cyclophosphamide, doxorubicin, vincristine, prednisone (CHOP) or other anthracycline-based chemotherapy regimens Chronic Lymphocytic Leukemia (CLL) ( 1.3 ) Previously untreated and previously treated CLL in combination with fludarabine and cyclophosphamide (FC) Limitations of Use: Initiate treatment with RITUXAN HYCELA only after patients have received at least one full dose of a rituximab product by intravenous infusion. ( 1.4 , 2.1 , 5.4 ). RITUXAN HYCELA is not indicated for the treatment of non-malignant conditions. ( 1.4 ) 1.1 Follicular Lymphoma (FL) RITUXAN HYCELA is indicated for the treatment of adult patients with: Relapsed or refractory, follicular lymphoma as a single agent. Previously untreated follicular lymphoma in combination with first line chemotherapy and, in patients achieving a complete or partial response to rituximab in combination with chemotherapy, as single-agent maintenance therapy. Non-progressing (including stable disease), follicular lymphoma as a single agent after first-line cyclophosphamide, vincristine, and prednisone (CVP) chemotherapy. 1.2 Diffuse Large B-Cell Lymphoma (DLBCL) RITUXAN HYCELA is indicated for the treatment of adult patients with previously untreated diffuse large B-cell lymphoma in combination with cyclophosphamide, doxorubicin, vincristine, prednisone (CHOP) or other anthracycline-based chemotherapy regimens. 1.3 Chronic Lymphocytic Leukemia (CLL) RITUXAN HYCELA is indicated, in combination with fludarabine and cyclophosphamide (FC), for the treatment of adult patients with previously untreated and previously treated CLL. 1.4 Limitations of Use Initiate treatment with RITUXAN HYCELA only after patients have received at least one full dose of a rituximab product by intravenous infusion [see Dosage and Administration (2.1) and Warnings and Precautions (5.4) ]. RITUXAN HYCELA is not indicated for the treatment of non-malignant conditions.",
+    "boxed_warning": "WARNING: SEVERE MUCOCUTANEOUS REACTIONS, HEPATITIS B VIRUS REACTIVATION and PROGRESSIVE MULTIFOCAL LEUKOENCEPHALOPATHY WARNING: SEVERE MUCOCUTANEOUS REACTIONS, HEPATITIS B VIRUS REACTIVATION and PROGRESSIVE MULTIFOCAL LEUKOENCEPHALOPATHY See full prescribing information for complete boxed warning. Severe mucocutaneous reactions, some with fatal outcomes ( 5.1 ). Hepatitis B virus reactivation, in some cases resulting in fulminant hepatitis, hepatic failure, and death ( 5.2 ). Progressive multifocal leukoencephalopathy resulting in death ( 5.3 ). Severe Mucocutaneous Reactions Severe, including fatal, mucocutaneous reactions can occur in patients receiving rituximab-containing products, including RITUXAN HYCELA [see Warnings and Precautions (5.1) ]. Hepatitis B Virus (HBV) Reactivation HBV reactivation can occur in patients treated with rituximab-containing products, including RITUXAN HYCELA, in some cases resulting in fulminant hepatitis, hepatic failure, and death. Screen all patients for HBV infection before treatment initiation, and monitor patients during and after treatment with RITUXAN HYCELA. Discontinue RITUXAN HYCELA and concomitant medications in the event of HBV reactivation [see Warnings and Precautions (5.2) ] . Progressive Multifocal Leukoencephalopathy (PML), including fatal PML, can occur in patients receiving rituximab-containing products, including RITUXAN HYCELA [see Warnings and Precautions (5.3) and Adverse Reactions (6.1) ].",
+    "openfda_brand_names": [
+      "Rituxan Hycela"
+    ],
+    "openfda_generic_names": [
+      "RITUXIMAB AND HYALURONIDASE"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=da1c4de7-0e5b-4f72-97ec-7a8d368f085f",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Relapsed or Refractory Follicular Lymphoma",
+    "slug": "relapsed-or-refractory-follicular-lymphoma"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04712097",
+      "title": "A Study Evaluating the Efficacy and Safety of Mosunetuzumab in Combination With Lenalidomide in Comparison to Rituximab in Combination With Lenalidomide With a US Extension of Mosunetuzumab in Combination With Lenalidomide in Participants With Follicular Lymphoma",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04712097",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42598252",
+        "title": "A Real-World Study Characterizing a US Population of Patients Receiving Rituximab With Gemcitabine and Oxaliplatin for Relapsed or Refractory Large B-Cell Lymphoma.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42598252/"
+      },
+      {
+        "pmid": "42581349",
+        "title": "Trials in progress: CARMAN - study protocol of a randomized controlled, international, multicenter, open-label phase II trial evaluating early treatment intensification in patients with high-risk mantle cell lymphoma using CAR-T-cell treatment after an abbreviated induction therapy with rituximab and ibrutinib and 6 months ibrutinib maintenance as compared to standard of care induction and maintenance.",
+        "pubdate": "2026 Aug 11",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42581349/"
+      },
+      {
+        "pmid": "42566728",
+        "title": "Contemporary Management of Relapsed or Refractory Chronic Lymphocytic Leukemia.",
+        "pubdate": "2026 Aug 7",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42566728/"
+      },
+      {
+        "pmid": "42543655",
+        "title": "[Future directions in clinical development of first-line therapy for diffuse large B-cell lymphoma].",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42543655/"
+      },
+      {
+        "pmid": "42534709",
+        "title": "Resolution of Paraneoplastic Cutaneous Angioendotheliomatosis After CAR T-Cell Therapy in TP53-Deleted CLL: A Case Report.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42534709/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "YTTRIUM Y 90 IBRITUMOMAB TIUXETAN",
+        "chembl_id": "CHEMBL2108667",
+        "reason": "same target: B-lymphocyte antigen CD20"
+      },
+      {
+        "name": "OFATUMUMAB",
+        "chembl_id": "CHEMBL1201836",
+        "reason": "same target: B-lymphocyte antigen CD20"
+      },
+      {
+        "name": "TOSITUMOMAB",
+        "chembl_id": "CHEMBL1201604",
+        "reason": "same target: B-lymphocyte antigen CD20"
+      },
+      {
+        "name": "OBINUTUZUMAB",
+        "chembl_id": "CHEMBL1743048",
+        "reason": "same target: B-lymphocyte antigen CD20"
+      },
+      {
+        "name": "OCRELIZUMAB",
+        "chembl_id": "CHEMBL2108041",
+        "reason": "same target: B-lymphocyte antigen CD20"
+      },
+      {
+        "name": "UBLITUXIMAB",
+        "chembl_id": "CHEMBL2108354",
+        "reason": "same target: B-lymphocyte antigen CD20"
+      },
+      {
+        "name": "VELTUZUMAB",
+        "chembl_id": "CHEMBL1743088",
+        "reason": "same target: B-lymphocyte antigen CD20"
+      },
+      {
+        "name": "TOSITUMOMAB 131I",
+        "chembl_id": "CHEMBL3833304",
+        "reason": "same target: B-lymphocyte antigen CD20"
+      },
+      {
+        "name": "OCARATUZUMAB",
+        "chembl_id": "CHEMBL2109665",
+        "reason": "same target: B-lymphocyte antigen CD20"
+      },
+      {
+        "name": "LFB-R603",
+        "chembl_id": "CHEMBL2109348",
+        "reason": "same target: B-lymphocyte antigen CD20"
+      }
+    ]
+  }
+}

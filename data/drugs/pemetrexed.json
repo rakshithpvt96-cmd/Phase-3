@@ -1,0 +1,192 @@
+{
+  "drug_name": "Pemetrexed",
+  "slug": "pemetrexed",
+  "enriched_at": "2026-08-15T21:45:12Z",
+  "source_trial_ids": [
+    "NCT05048797",
+    "NCT05261399",
+    "NCT05298423",
+    "NCT06687369"
+  ],
+  "sponsors": [
+    {
+      "name": "AstraZeneca",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=AstraZeneca&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Merck Sharp & Dohme LLC",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Merck%20Sharp%20%26%20Dohme%20LLC&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "mAbxience Research S.L.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=mAbxience%20Research%20S.L.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 135410875,
+    "iupac_name": "(2S)-2-[[4-[2-(2-amino-4-oxo-3,7-dihydropyrrolo[2,3-d]pyrimidin-5-yl)ethyl]benzoyl]amino]pentanedioic acid",
+    "molecular_formula": "C20H21N5O6",
+    "molecular_weight": "427.4",
+    "canonical_smiles": null,
+    "inchikey": "WBXPDJSOTKVWSJ-ZDUSSCGKSA-N",
+    "rxnorm": {
+      "rxcui": "68446",
+      "generic_name": "pemetrexed",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2360464",
+    "target_chembl_id": "CHEMBL1952",
+    "target_name": "Thymidylate synthase",
+    "mechanism_of_action_chembl": "Thymidylate synthase inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Pemetrexed is a folate analog metabolic inhibitor that disrupts folate-dependent metabolic processes essential for cell replication. In vitro studies show that pemetrexed inhibits thymidylate synthase (TS), dihydrofolate reductase, and glycinamide ribonucleotide formyltransferase (GARFT), which are folate-dependent enzymes involved in the de novo biosynthesis of thymidine and purine nucleotides. Pemetrexed is taken into cells by membrane carriers such as the reduced folate carrier and membrane folate binding protein transport systems. Once in the cell, pemetrexed is converted to polyglutamate forms by the enzyme folylpolyglutamate synthetase. The polyglutamate forms are retained in cells and are inhibitors of TS and GARFT.",
+    "pharmacokinetics": "12.3 Pharmacokinetics Absorption The pharmacokinetics of pemetrexed when pemetrexed injection was administered as a single agent in doses ranging from 0.2 to 838 mg/m 2 infused over a 10-minute period have been evaluated in 426 cancer patients with a variety of solid tumors. Pemetrexed total systemic exposure (AUC) and maximum plasma concentration (C max ) increased proportionally with increase of dose. The pharmacokinetics of pemetrexed did not change over multiple treatment cycles. Distribution Pemetrexed has a steady-state volume of distribution of 16.1 liters. In vitro studies indicated that pemetrexed is 81% bound to plasma proteins. Elimination The total systemic clearance of pemetrexed is 91.8 mL/min and the elimination half-life of pemetrexed is 3.5 hours in patients with normal renal function (creatinine clearance of 90 mL/min). As renal function decreases, the clearance of pemetrexed decreases and exposure (AUC) of pemetrexed increases. Metabolism Pemetrexed is not metabolized to an appreciable extent. Excretion Pemetrexed is primarily eliminated in the urine, with 70% to 90% of the dose recovered unchanged within the first 24 hours following administration. In vitro studies indicated that pemetrexed is a substrate of OAT3 (organic anion transporter 3), a transporter that is involved in the active secretion of pemetrexed. Specific Populations Age (26 to 80 years) and sex had no clinically meaningful effect on the systemic exposure of pemetrexed based on population pharmacokinetic analyses. Racial Groups The pharmacokinetics of pemetrexed were similar in Whites and Blacks or African Americans. Insufficient data are available for other ethnic groups. Patients with Hepatic Impairment Pemetrexed has not been formally studied in patients with hepatic impairment. No effect of elevated AST, ALT, or total bilirubin on the PK of pemetrexed was observed in clinical studies. Patients with Renal Impairment Pharmacokinetic analyses of pemetrexed included 127 patients with impaired renal function. Plasma clearance of pemetrexed decreases as renal function decreases, with a resultant increase in systemic exposure. Patients with creatinine clearances of 45, 50, and 80 mL/min had 65%, 54%, and 13% increases, respectively in systemic exposure (AUC) compared to patients with creatinine clearance of 100 mL/min [see Dosage and Administration ( 2.3 ) and Warnings and Precautions ( 5.2 ) ] . Third-Space Fluid The pemetrexed plasma concentrations in patients with various solid tumors with stable, mild to moderate third-space fluid were comparable to those observed in patients without third space fluid collections. The effect of severe third space fluid on pharmacokinetics is not known. Drug Interaction Studies Drugs Inhibiting OAT3 Transporter Ibuprofen, an OAT3 inhibitor, administered at 400 mg four times a day decreased the clearance of pemetrexed and increased its exposure (AUC) by approximately 20% in patients with normal renal function (creatinine clearance > 80 mL/min). In Vitro Studies Pemetrexed is a substrate for OAT3. Ibuprofen, an OAT3 inhibitor inhibited the uptake of pemetrexed in OAT3-expressing cell cultures with an average [Iu]/IC 50 ratio of 0.38. In vitro data predict that at clinically relevant concentrations, other NSAIDs (naproxen, diclofenac, celecoxib) would not inhibit the uptake of pemetrexed by OAT3 and would not increase the AUC of pemetrexed to a clinically significant extent [see Drug Interactions ( 7 ) ] . Pemetrexed is a substrate for OAT4. In vitro , ibuprofen and other NSAIDs (naproxen, diclofenac, celecoxib) are not inhibitors of OAT4 at clinically relevant concentrations. Aspirin Aspirin, administered in low to moderate doses (325 mg every 6 hours), does not affect the pharmacokinetics of pemetrexed. Cisplatin Cisplatin does not affect the pharmacokinetics of pemetrexed and the pharmacokinetics of total platinum are unaltered by pemetrexed. Vitamins Neither folic acid nor vitamin B 12 affect the pharmacokinetics of pemetrexed. Drugs Metabolized by Cytochrome P450 Enzymes In vitro studies suggest that pemetrexed does not inhibit the clearance of drugs metabolized by CYP3A, CYP2D6, CYP2C9, and CYP1A2.",
+    "indications_and_usage": "1. INDICATIONS AND USAGE PEMRYDI RTU ® is a folate analog metabolic inhibitor indicated: in combination with pembrolizumab and platinum chemotherapy, for the initial treatment of patients with metastatic non-squamous non-small cell lung cancer (NSCLC), with no EGFR or ALK genomic tumor aberrations. ( 1.1 ) in combination with cisplatin for the initial treatment of patients with locally advanced or metastatic, non-squamous NSCLC. ( 1.1 ) as a single agent for the maintenance treatment of patients with locally advanced or metastatic, non-squamous NSCLC whose disease has not progressed after four cycles of platinum-based first-line chemotherapy. ( 1.1 ) as a single agent for the treatment of patients with recurrent, metastatic non-squamous, NSCLC after prior chemotherapy. ( 1.1 ) Limitations of Use: PEMRYDI RTU is not indicated for the treatment of patients with squamous cell, non-small cell lung cancer. ( 1.1 ) initial treatment, in combination with cisplatin, of patients with malignant pleural mesothelioma whose disease is unresectable or who are otherwise not candidates for curative surgery. ( 1.2 ) 1.1 Non-Squamous Non-Small Cell Lung Cancer (NSCLC) PEMRYDI RTU ® is indicated: in combination with pembrolizumab and platinum chemotherapy, for the initial treatment of patients with metastatic non-squamous non-small cell lung cancer (NSCLC), with no EGFR or ALK genomic tumor aberrations. in combination with cisplatin for the initial treatment of patients with locally advanced or metastatic, non-squamous NSCLC. as a single agent for the maintenance treatment of patients with locally advanced or metastatic, non-squamous NSCLC whose disease has not progressed after four cycles of platinum-based first-line chemotherapy. as a single agent for the treatment of patients with recurrent, metastatic non-squamous, NSCLC after prior chemotherapy. Limitations of Use : PEMRYDI RTU is not indicated for the treatment of patients with squamous cell, non-small cell lung cancer [see Clinical Studies (14.1) ]. 1.2 Mesothelioma PEMRYDI RTU is indicated, in combination with cisplatin, for the initial treatment of patients with malignant pleural mesothelioma whose disease is unresectable or who are otherwise not candidates for curative surgery.",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "PEMRYDI RTU"
+    ],
+    "openfda_generic_names": [
+      "PEMETREXED DISODIUM"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=caef07ce-066b-4c48-98dc-974b05ebbbe0",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Non Squamous Non Small Cell Lung Cancer",
+    "slug": "non-squamous-non-small-cell-lung-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05048797",
+      "title": "A Study to Investigate the Efficacy and Safety of Trastuzumab Deruxtecan as the First Treatment Option for Unresectable, Locally Advanced/Metastatic Non-Small Cell Lung Cancer With HER2 Mutations",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05048797",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT05261399",
+      "title": "Savolitinib Plus Osimertinib Versus Platinum-based Doublet Chemotherapy in Participants With Non-Small Cell Lung Cancer Who Have Progressed on Osimertinib Treatment",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05261399",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT05298423",
+      "title": "Study of Pembrolizumab/Vibostolimab (MK-7684A) in Combination With Concurrent Chemoradiotherapy Followed by Pembrolizumab/Vibostolimab Versus Concurrent Chemoradiotherapy Followed by Durvalumab in Participants With Stage III Non-small Cell Lung Cancer (MK-7684A-006)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05298423",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06687369",
+      "title": "A Study to Compare Pharmacokinetics, Efficacy, Safety, and Immunogenicity of MB12 (Proposed Pembrolizumab Biosimilar) to Keytruda® in Non-small Cell Lung Cancer (BENITO Study)",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06687369",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42574006",
+        "title": "Osimertinib With or Without Chemotherapy in Advanced Non-Small Cell Lung Cancer With EGFR and Concurrent TP53 Mutations: A Randomized Clinical Trial.",
+        "pubdate": "2026 Aug 10",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42574006/"
+      },
+      {
+        "pmid": "42473043",
+        "title": "Efficacy and safety of intraventricular pemetrexed via Ommaya reservoir in the treatment of leptomeningeal metastasis from EGFR-mutant lung adenocarcinoma who progresses on third-generation TKIs: A single-arm clinical trial.",
+        "pubdate": "2026 Jul 13",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42473043/"
+      },
+      {
+        "pmid": "42444892",
+        "title": "Induction therapy of pralsetinib followed by conversion surgery for unresectable locally advanced non-small cell lung cancer with the rearranged during transfection (RET) fusion gene mutation: protocol for a single-arm phase II prospective trial (the SALVAGE-P trial).",
+        "pubdate": "2026 Jun 30",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42444892/"
+      },
+      {
+        "pmid": "42431264",
+        "title": "Brief Report: First-line Chemoimmunotherapy and Chemotherapy Outcomes in Patients with RET Fusion-Positive Lung Cancer in LIBRETTO-431.",
+        "pubdate": "2026 Jul 10",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42431264/"
+      },
+      {
+        "pmid": "42315785",
+        "title": "Integrating Structured Expert Elicitation with External Evidence to Inform Earlier Reimbursement Decisions: A Norwegian Case Study of Selpercatinib for Non-Small Cell Lung Cancer.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42315785/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "FLOXURIDINE",
+        "chembl_id": "CHEMBL917",
+        "reason": "same target: Thymidylate synthase"
+      },
+      {
+        "name": "CAPECITABINE",
+        "chembl_id": "CHEMBL1773",
+        "reason": "same target: Thymidylate synthase"
+      },
+      {
+        "name": "FLUOROURACIL",
+        "chembl_id": "CHEMBL185",
+        "reason": "same target: Thymidylate synthase"
+      },
+      {
+        "name": "RALTITREXED",
+        "chembl_id": "CHEMBL225071",
+        "reason": "same target: Thymidylate synthase"
+      },
+      {
+        "name": "OSI-7904",
+        "chembl_id": "CHEMBL169896",
+        "reason": "same target: Thymidylate synthase"
+      },
+      {
+        "name": "NOLATREXED",
+        "chembl_id": "CHEMBL320775",
+        "reason": "same target: Thymidylate synthase"
+      },
+      {
+        "name": "DOXIFLURIDINE",
+        "chembl_id": "CHEMBL1130",
+        "reason": "same target: Thymidylate synthase"
+      },
+      {
+        "name": "TEGAFUR",
+        "chembl_id": "CHEMBL20883",
+        "reason": "same target: Thymidylate synthase"
+      },
+      {
+        "name": "PEMETREXED",
+        "chembl_id": "CHEMBL225072",
+        "reason": "same target: Thymidylate synthase"
+      },
+      {
+        "name": "PEMETREXED MONOHYDRATE",
+        "chembl_id": "CHEMBL5315053",
+        "reason": "same target: Thymidylate synthase"
+      }
+    ]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "drug_name": "Lenvatinib",
+  "slug": "lenvatinib",
+  "enriched_at": "2026-08-15T21:36:43Z",
+  "source_trial_ids": [
+    "NCT04039607",
+    "NCT04770896"
+  ],
+  "sponsors": [
+    {
+      "name": "Bristol-Myers Squibb",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Bristol-Myers%20Squibb&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Hoffmann-La Roche",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hoffmann-La%20Roche&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 9823820,
+    "iupac_name": "4-[3-chloro-4-(cyclopropylcarbamoylamino)phenoxy]-7-methoxyquinoline-6-carboxamide",
+    "molecular_formula": "C21H19ClN4O4",
+    "molecular_weight": "426.9",
+    "canonical_smiles": null,
+    "inchikey": "WOSKHXYHFSIKNG-UHFFFAOYSA-N",
+    "rxnorm": {
+      "rxcui": "1603296",
+      "generic_name": "lenvatinib",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1289601",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Lenvatinib is a kinase inhibitor that inhibits the kinase activities of vascular endothelial growth factor (VEGF) receptors VEGFR1 (FLT1), VEGFR2 (KDR), and VEGFR3 (FLT4). Lenvatinib inhibits other kinases that have been implicated in pathogenic angiogenesis, tumor growth, and cancer progression in addition to their normal cellular functions, including fibroblast growth factor (FGF) receptors FGFR1, 2, 3, and 4; platelet derived growth factor receptor alpha (PDGFRA), KIT, and RET. Lenvatinib also exhibited antiproliferative activity in hepatocellular carcinoma cell lines dependent on activated FGFR signaling with a concurrent inhibition of FGF-receptor substrate 2 alpha (FRS2) phosphorylation. In syngeneic mouse tumor models, lenvatinib decreased tumor-associated macrophages, increased activated cytotoxic T cells, and demonstrated greater antitumor activity in combination with an anti-PD-1 monoclonal antibody compared to either treatment alone. The combination of lenvatinib and everolimus showed increased antiangiogenic and antitumor activity as demonstrated by decreases in human endothelial cell proliferation, tube formation, and VEGF signaling in vitro, and by decreases in tumor volume in mouse xenograft models of human renal cell cancer that were greater than those with either drug alone.",
+    "pharmacokinetics": "12. 3 Pharmacokinetics In patients with solid tumors administered single and multiple doses of LENVIMA once daily, the maximum lenvatinib plasma concentration (C max ) and the area under the concentration-time curve (AUC) increased proportionally over the dose range of 3.2 mg (0.1 times the recommended clinical dose of 24 mg) to 32 mg (1.33 times the recommended clinical dose of 24 mg) with a median accumulation index of 0.96 (20 mg) to 1.54 (6.4 mg). Geometric mean C max and AUC values at steady state for RCC, DTC and HCC are summarized in the Table 13. Table 13: Lenvatinib C max and AUC in Patients with Solid Tumors a Tumor Type Dose Parameter N Geometric Mean %CV RCC 18 mg C max (ng/mL) 350 267 36.7 AUC (ng∙h/mL) 350 3148 42.5 20 mg C max (ng/mL) 346 275 32.6 AUC (ng∙h/mL) 346 3135 41.3 DTC 24 mg C max (ng/mL) 251 323 33.3 AUC (ng∙h/mL) 251 3483 34.7 HCC (body weight < 60 kg) 8 mg C max (ng/mL) 150 154 25.4 AUC (ng∙h/mL) 150 1835 34.0 HCC (body weight ≥ 60 kg) 12 mg C max (ng/mL) 318 172 23.1 AUC (ng∙h/mL) 318 2013 29.3 a Model-predicted steady-state pharmacokinetic parameters are presented. Absorption The time to peak plasma concentration (T max ) typically occurred from 1 to 4 hours post-dose. Food Effect Administration with a high fat meal (approximately 900 calories of which approximately 55% were from fat, 15% from protein, and 30% from carbohydrates) did not affect the extent of absorption, but decreased the rate of absorption and delayed the median T max from 2 hours to 4 hours. Distribution Model-predicted geometric mean steady state volume of distribution is 97 L (%CV, 30.2%). Protein binding of lenvatinib is 97% to 99%, which is independent of concentration, and is not impacted by hepatic or renal function. The blood-to-plasma concentration ratio ranged from 0.59 to 0.61 at concentrations of 0.1 to 10 μg/mL in vitro. Elimination The terminal elimination half-life of lenvatinib was approximately 28 hours. Metabolism The main metabolic pathways for lenvatinib in humans were identified as enzymatic (CYP3A and aldehyde oxidase) and non-enzymatic processes. Excretion Ten days after a single administration of radiolabeled lenvatinib, approximately 64% and 25% of the radiolabel were eliminated in the feces and urine, respectively. Specific Populations Age (18 to 92 years), sex, race/ethnicity (White, Black and Asian), tumor types (DTC, RCC, HCC and other tumor types) and renal impairment (creatinine clearance: 15-89 mL/min) did not have a significant effect on apparent oral clearance (CL/F). Subjects with end stage renal disease were not studied. Patients with Hepatic Impairment The pharmacokinetics of lenvatinib following a single 10 mg dose were evaluated in subjects with mild (Child-Pugh A) or moderate (Child-Pugh B) hepatic impairment. The pharmacokinetics of a single 5 mg dose were evaluated in subjects with severe (Child-Pugh C) hepatic impairment. Compared to subjects with normal hepatic function, the dose-adjusted AUC 0-inf of lenvatinib for subjects with mild, moderate, and severe hepatic impairment were 119%, 107%, and 180%, respectively. Apparent oral clearance of lenvatinib in patients with HCC and mild hepatic impairment was similar to patients with HCC and moderate hepatic impairment. Body Weight Lenvatinib exposures in patients with HCC in REFLECT were comparable between those weighing <60 kg who received a starting dose of 8 mg and those ≥60 kg who received a starting dose of 12 mg. Drug Interaction Studies Effect of Other D rugs on L envatinib CYP3A, P-gp, and BCRP Inhibitor s : Ketoconazole (400 mg daily for 18 days) increased lenvatinib (administered as a single 5 mg dose on Day 5) AUC by 15% and C max by 19%. P-gp Inhibitor : Rifampicin (600 mg as a single dose) increased lenvatinib (24 mg as a single dose) AUC by 31% and C max by 33%. CYP3A and P-gp Inducers : Rifampicin (600 mg daily for 21 days) decreased lenvatinib (24 mg as a single dose on Day 15) AUC by 18%. The C max was unchanged. Population pharmacokinetic analysis demonstrated that neither everolimus nor pembrolizumab meaningfully affect the pharmacokinetics of lenvatinib. In Vitro Studies with Transporters: Lenvatinib is a substrate of P-gp and BCRP but not a substrate for organic anion transporter (OAT) 1, OAT3, organic anion transporting polypeptide (OATP) 1B1, OATP1B3, organic cation transporter (OCT) 1, OCT2, multidrug and toxin extrusion (MATE) 1, MATE2-K, or the bile salt export pump (BSEP). Effect of L envatinib on O ther D rugs CYP2C8 Substrate : There is no projected significant drug-drug interaction risk between lenvatinib and repaglinide. CYP3A4 Substrate : Co-administration of lenvatinib with midazolam had no effect on the pharmacokinetics of midazolam. Population pharmacokinetic analysis demonstrated that lenvatinib does not meaningfully affect the pharmacokinetics of either everolimus or pembrolizumab. In Vitro Studies with Substrates of CYP or UDP-glucuronosyltransferase (UGT) : Lenvatinib inhibits CYP2C8, CYP1A2, CYP2B6, CYP2C9, CYP2C19, CYP2D6, and CYP3A. Lenvatinib does not inhibit CYP2A6 and CYP2E1. Lenvatinib induces CYP3A, but it does not induce CYP1A1, CYP1A2, CYP2B6, and CYP2C9. Lenvatinib inhibits UGT1A1, UGT1A4, and UGT1A9 in vitro, but likely only inhibits UGT1A1 in vivo in the gastrointestinal tract based on the expression of the enzyme in tissues. Lenvatinib does not inhibit UGT1A6, UGT2B7 or aldehyde oxidase. Lenvatinib does not induce UGT1A1, UGT1A4, UGT1A6, UGT1A9, or UGT2B7. In Vitro Studies with Substrates of Transporter s : Lenvatinib does not have the potential to inhibit MATE1, MATE2-K, OCT1, OCT2, OAT1, OAT3, BSEP, OATP1B1, or OATP1B3 in vivo.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE LENVIMA is a kinase inhibitor that is indicated: Differentiated Thyroid Cancer (DTC) For the treatment of adult patients with locally recurrent or metastatic, progressive, radioactive iodine-refractory differentiated thyroid cancer (DTC). ( 1.1 ) Renal Cell Carcinoma (RCC) In combination with pembrolizumab, for the first line treatment of adult patients with advanced renal cell carcinoma (RCC). ( 1.2 ) In combination with everolimus, for the treatment of adult patients with advanced renal cell carcinoma (RCC) following one prior anti-angiogenic therapy. ( 1.2 ) Hepatocellular Carcinoma (HCC) For the first-line treatment of patients with unresectable hepatocellular carcinoma (HCC). ( 1.3 ) Endometrial Carcinoma (EC) In combination with pembrolizumab, for the treatment of patients with advanced endometrial carcinoma (EC) that is mismatch repair proficient (pMMR) or not microsatellite instability-high (MSI-H), as determined by an FDA-approved test, who have disease progression following prior systemic therapy in any setting and are not candidates for curative surgery or radiation. ( 1.4 , 2.1 ) 1.1 Differentiated Thyroid Cancer LENVIMA is indicated for the treatment of adult patients with locally recurrent or metastatic, progressive, radioactive iodine-refractory differentiated thyroid cancer (DTC). 1.2 Renal Cell Carcinoma LENVIMA, in combination with pembrolizumab, is indicated for the first-line treatment of adult patients with advanced renal cell carcinoma (RCC). LENVIMA, in combination with everolimus, is indicated for the treatment of adult patients with advanced RCC following one prior anti-angiogenic therapy. 1.3 Hepatocellular Carcinoma LENVIMA is indicated for the first-line treatment of patients with unresectable hepatocellular carcinoma (HCC). 1.4 Endometrial Carcinoma LENVIMA, in combination with pembrolizumab, is indicated for the treatment of patients with advanced endometrial carcinoma (EC) that is mismatch repair proficient (pMMR) or not microsatellite instability-high (MSI-H), as determined by an FDA-approved test, who have disease progression following prior systemic therapy in any setting and are not candidates for curative surgery or radiation [see Dosage and Administration ( 2.1 )] .",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "Lenvima"
+    ],
+    "openfda_generic_names": [
+      "LENVATINIB"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f4bedd21-efde-44c6-9d9c-b48b78d7ed1e",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Unresectable Hepatocellular Carcinoma",
+    "slug": "unresectable-hepatocellular-carcinoma"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04039607",
+      "title": "A Study of Nivolumab in Combination With Ipilimumab in Participants With Advanced Hepatocellular Carcinoma",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04039607",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT04770896",
+      "title": "A Study of Atezolizumab With Lenvatinib or Sorafenib Versus Lenvatinib or Sorafenib Alone in Hepatocellular Carcinoma Previously Treated With Atezolizumab and Bevacizumab",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04770896",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42586114",
+        "title": "Belzutifan plus lenvatinib versus cabozantinib in patients with previously treated advanced renal cell carcinoma (LITESPARK-011): an open-label, randomised, controlled, phase 3 trial.",
+        "pubdate": "2026 Aug 12",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42586114/"
+      },
+      {
+        "pmid": "42527085",
+        "title": "Efficacy of Lenvatinib as Subsequent Therapy After Combination Immune Checkpoint Inhibitors for Unresectable Hepatocellular Carcinoma.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42527085/"
+      },
+      {
+        "pmid": "42449661",
+        "title": "Comprehensive Safety and Efficacy Evaluation of Immunotherapy Combination Approaches Versus Tyrosine Kinase Inhibitor Monotherapy as First-Line Treatment of Hepatocellular Carcinoma: A Network and Individual Patient Data (IPD) Meta-Analysis.",
+        "pubdate": "2026 Jun 30",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42449661/"
+      },
+      {
+        "pmid": "42442381",
+        "title": "Efficacy and safety of dabrafenib plus trametinib in adults with differentiated thyroid cancer: a randomised, double-blind, placebo-controlled, phase 3 trial.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42442381/"
+      },
+      {
+        "pmid": "42404105",
+        "title": "Baseline Sleep Quality and Objective Response in HCC Patients Treated with TACE Combined with Lenvatinib and PD-1 Inhibitors: A Secondary Analysis of a Prospectively Registered Observational Cohort.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42404105/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

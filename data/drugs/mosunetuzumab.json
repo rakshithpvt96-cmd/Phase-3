@@ -1,0 +1,150 @@
+{
+  "drug_name": "Mosunetuzumab",
+  "slug": "mosunetuzumab",
+  "enriched_at": "2026-08-15T21:37:48Z",
+  "source_trial_ids": [
+    "NCT04712097"
+  ],
+  "sponsors": [
+    {
+      "name": "Hoffmann-La Roche",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hoffmann-La%20Roche&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2625122",
+      "generic_name": "mosunetuzumab",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4297788",
+    "target_chembl_id": "CHEMBL2364168",
+    "target_name": "T cell surface glycoprotein CD3",
+    "mechanism_of_action_chembl": "T cell surface glycoprotein CD3 binding agent"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Mosunetuzumab-axgb is a T-cell engaging bispecific antibody that binds to the CD3 receptor expressed on the surface of T-cells and CD20 expressed on the surface of lymphoma cells and some healthy B-lineage cells. In vitro, mosunetuzumab-axgb activated T-cells, caused the release of proinflammatory cytokines, and induced lysis of B-cells.",
+    "pharmacokinetics": "12.3 Pharmacokinetics Mosunetuzumab-axgb PK exposure increased proportionally over a dose range from 0.2 mg to 60 mg (0.007 to 2 times the recommended treatment dosage). PK exposures for the recommended dosage of LUNSUMIO are summarized in Table 10 and Figure 1 . Table 10. Exposure Parameters of Mosunetuzumab-axgb Intravenous Infusion AUC (day∙μg/mL) Values are geometric mean with geometric CV%. C max (μg/mL) C trough (μg/mL) All values reported are model-predicted exposure metrics. Cycle 1 (0 ‒ 21 days) 35.2 (36.6) 11.1 (36.7) 2.6 (54.0) Cycle 2 (21 ‒ 42 days) 90.3 (48.5) 13.6 (37.7) 2.0 (83.1) Cycle 3 (42 – 63 days) 59.0 (48.9) 7.6 (40.1) 1.4 (75.6) Steady state Steady state values are approximated at Cycle 4 (63 ‒ 84 days). 52.9 (40.7) 7.0 (37.9) 1.3 (59.9) Figure 1. Model-Predicted Mosunetuzumab-axgb Intravenous Infusion Concentration Time Profile Pharmacokinetic parameters ( Table 11 ) were evaluated at the recommended dosage and are presented as geometric mean (CV%) unless otherwise specified. Table 11. Mosunetuzumab-axgb Pharmacokinetic Parameters in Patients with Relapsed or Refractory Follicular Lymphoma Parameter LUNSUMIO via Intravenous Infusion T max = time to peak concentration T max median (range), hours Steady-state. 4.0 (4.0 – 4.0) T max is at the end of intravenous infusion. Volume of distribution a (L) 5.5 (31%) Half-life a (days) 16.1 (17%) Systemic clearance (L/day) 1.1 (63%) at baseline 0.58 (18%) at steady state Figure 1 Specific Populations There were no clinically significant differences in the pharmacokinetics of mosunetuzumab-axgb based on age (19 to 96 years), sex, race (Asian and Non-Asian), ethnicity (Hispanic/Latino and not Hispanic/Latino), mild or moderate renal impairment (estimated creatinine clearance [CrCL] by Cockcroft-Gault formula: 30 to 89 mL/min), or mild hepatic impairment (total bilirubin less than or equal to upper limit of normal [ULN] with AST greater than ULN or total bilirubin greater than 1 to 1.5 times ULN with any AST). The effects of severe renal impairment (CrCL 15 to 29 mL/min) or moderate to severe hepatic impairment (total bilirubin greater than 1.5 times ULN with any AST) on the pharmacokinetics of mosunetuzumab-axgb are unknown. Drug Interaction Studies No clinical studies evaluating the drug interaction potential of mosunetuzumab-axgb have been conducted.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE LUNSUMIO is a bispecific CD20-directed CD3 T-cell engager indicated for the treatment of adult patients with relapsed or refractory follicular lymphoma after two or more lines of systemic therapy. This indication is approved under accelerated approval based on response rate. Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial(s). ( 1.1 ) 1.1 Follicular Lymphoma LUNSUMIO is indicated for the treatment of adult patients with relapsed or refractory follicular lymphoma after two or more lines of systemic therapy. This indication is approved under accelerated approval based on response rate [see Clinical Studies (14) ] . Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial(s).",
+    "boxed_warning": "WARNING: CYTOKINE RELEASE SYNDROME Cytokine release syndrome (CRS), including serious or life-threatening reactions, can occur in patients receiving LUNSUMIO. Initiate treatment with the LUNSUMIO step-up dosing schedule to reduce the risk of CRS. Withhold LUNSUMIO until CRS resolves or permanently discontinue based on severity [see Dosage and Administration (2.1 and 2.4) and Warnings and Precautions (5.1) ] . WARNING: CYTOKINE RELEASE SYNDROME See full prescribing information for complete boxed warning. Cytokine release syndrome (CRS), including serious or life-threatening reactions, can occur in patients receiving LUNSUMIO. Initiate treatment with the LUNSUMIO step-up dosing schedule to reduce the risk of CRS. Withhold LUNSUMIO until CRS resolves or permanently discontinue based on severity. ( 2.1 , 2.4 , 5.1 )",
+    "openfda_brand_names": [
+      "Lunsumio"
+    ],
+    "openfda_generic_names": [
+      "MOSUNETUZUMAB"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6a2b6dc2-48bd-4da7-a611-bc6bae2893c8",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Relapsed or Refractory Follicular Lymphoma",
+    "slug": "relapsed-or-refractory-follicular-lymphoma"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04712097",
+      "title": "A Study Evaluating the Efficacy and Safety of Mosunetuzumab in Combination With Lenalidomide in Comparison to Rituximab in Combination With Lenalidomide With a US Extension of Mosunetuzumab in Combination With Lenalidomide in Participants With Follicular Lymphoma",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04712097",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42529676",
+        "title": "Unmasking a Composite Lymphoma: Follicular Lymphoma Emerging After Bispecific Antibody Treatment of Marginal Zone Lymphoma.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42529676/"
+      },
+      {
+        "pmid": "42421794",
+        "title": "Polatuzumab Vedotin Enhances Intratumoral T-Cell Infiltration and Demonstrates Combinatorial Efficacy With Anti-CD20/CD3 Bispecific Antibody in a Syngeneic B-Cell Malignancy Mouse Model.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42421794/"
+      },
+      {
+        "pmid": "42327965",
+        "title": "Mosunetuzumab Successfully Treated Rituximab-Refractory Lymphoma-Associated Protein-Losing Enteropathy With Concomitant Immune Thrombocytopenia in Follicular Lymphoma: A Case Report.",
+        "pubdate": "2026 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42327965/"
+      },
+      {
+        "pmid": "42298056",
+        "title": "Efficacy and safety of subcutaneous mosunetuzumab plus polatuzumab vedotin in patients with relapsed/refractory large B-cell lymphoma: Japan subgroup analysis of the phase III SUNMO trial.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42298056/"
+      },
+      {
+        "pmid": "41140808",
+        "title": "Polatuzumab Vedotin Induced CD20 Upregulation Contributes to the Efficacy of Mosunetuzumab in Combination With Polatuzumab Vedotin in Diffuse Large B-Cell Lymphoma Preclinical Models.",
+        "pubdate": "2025 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41140808/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "MUROMONAB-CD3",
+        "chembl_id": "CHEMBL1201608",
+        "reason": "same target: T cell surface glycoprotein CD3"
+      },
+      {
+        "name": "BLINATUMOMAB",
+        "chembl_id": "CHEMBL1742992",
+        "reason": "same target: T cell surface glycoprotein CD3"
+      },
+      {
+        "name": "FORALUMAB",
+        "chembl_id": "CHEMBL1743020",
+        "reason": "same target: T cell surface glycoprotein CD3"
+      },
+      {
+        "name": "CATUMAXOMAB",
+        "chembl_id": "CHEMBL2108581",
+        "reason": "same target: T cell surface glycoprotein CD3"
+      },
+      {
+        "name": "SOLITOMAB",
+        "chembl_id": "CHEMBL2109264",
+        "reason": "same target: T cell surface glycoprotein CD3"
+      },
+      {
+        "name": "IMC-GP100",
+        "chembl_id": "CHEMBL2109434",
+        "reason": "same target: T cell surface glycoprotein CD3"
+      },
+      {
+        "name": "FBT-A05",
+        "chembl_id": "CHEMBL2109351",
+        "reason": "same target: T cell surface glycoprotein CD3"
+      },
+      {
+        "name": "FLOTETUZUMAB",
+        "chembl_id": "CHEMBL3990038",
+        "reason": "same target: T cell surface glycoprotein CD3"
+      },
+      {
+        "name": "ELRANATAMAB",
+        "chembl_id": "CHEMBL4297809",
+        "reason": "same target: T cell surface glycoprotein CD3"
+      },
+      {
+        "name": "TECLISTAMAB",
+        "chembl_id": "CHEMBL4594505",
+        "reason": "same target: T cell surface glycoprotein CD3"
+      }
+    ]
+  }
+}

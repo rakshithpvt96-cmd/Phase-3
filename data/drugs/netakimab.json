@@ -1,0 +1,114 @@
+{
+  "drug_name": "Netakimab",
+  "slug": "netakimab",
+  "enriched_at": "2026-08-15T21:38:14Z",
+  "source_trial_ids": [
+    "NCT06640517"
+  ],
+  "sponsors": [
+    {
+      "name": "Biocad",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Biocad&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2596051",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL6068083",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Netakimab+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Netakimab+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Netakimab+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Plaque Psoriasis",
+    "slug": "plaque-psoriasis"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06640517",
+      "title": "Study of the Efficacy, Safety, Pharmacokinetics, and Immunogenicity of Netakimab in Children With Moderate to Severe Plaque Psoriasis",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06640517",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "39982633",
+        "title": "Next-Generation Anti-IL-17 Agents for Psoriatic Disease: A Pipeline Review.",
+        "pubdate": "2025 May",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39982633/"
+      },
+      {
+        "pmid": "36062743",
+        "title": "Response to netakimab in radiographic axial spondyloarthritis patients with different baseline C-reactive protein, sacroiliitis evaluated by MRI and peripheral joint involvement status: a post-hoc analysis of the ASTERA study.",
+        "pubdate": "2023 Mar",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36062743/"
+      },
+      {
+        "pmid": "34060012",
+        "title": "Efficacy and Safety of Netakimab, A Novel Anti-IL-17 Monoclonal Antibody, in Patients with Moderate to Severe Plaque Psoriasis. Results of A 54-Week Randomized Double-Blind Placebo-Controlled PLANETA Clinical Trial.",
+        "pubdate": "2021 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34060012/"
+      },
+      {
+        "pmid": "31025924",
+        "title": "Primary efficacy of netakimab, a novel interleukin-17 inhibitor, in the treatment of active ankylosing spondylitis in adults.",
+        "pubdate": "2020 Jan-Feb",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31025924/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "Picankibart",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Innovent Biopharmaceutical Technology (Hangzhou) Co., LTD."
+      },
+      {
+        "name": "Secukinumab",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Innovent Biopharmaceutical Technology (Hangzhou) Co., LTD."
+      },
+      {
+        "name": "Placebo",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Innovent Biopharmaceutical Technology (Hangzhou) Co., LTD."
+      },
+      {
+        "name": "Ixekizumab",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Innovent Biopharmaceutical Technology (Hangzhou) Co., LTD."
+      }
+    ]
+  }
+}

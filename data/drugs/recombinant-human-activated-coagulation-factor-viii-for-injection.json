@@ -1,0 +1,150 @@
+{
+  "drug_name": "Recombinant human activated coagulation factor VIII for injection",
+  "slug": "recombinant-human-activated-coagulation-factor-viii-for-injection",
+  "enriched_at": "2026-08-15T21:47:08Z",
+  "source_trial_ids": [
+    "NCT06297655"
+  ],
+  "sponsors": [
+    {
+      "name": "Chia Tai Tianqing Pharmaceutical Group Nanjing Shunxin Pharmaceutical Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Chia%20Tai%20Tianqing%20Pharmaceutical%20Group%20Nanjing%20Shunxin%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2477580",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2108175",
+    "target_chembl_id": "CHEMBL3143",
+    "target_name": "Coagulation factor VIII",
+    "mechanism_of_action_chembl": "Coagulation factor VIII exogenous protein"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Recombinant%20human%20activated%20coagulation%20factor%20VIII%20for%20injection+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Recombinant%20human%20activated%20coagulation%20factor%20VIII%20for%20injection+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Recombinant%20human%20activated%20coagulation%20factor%20VIII%20for%20injection+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Hemophilia A",
+    "slug": "hemophilia-a"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06297655",
+      "title": "A Clinical Study of Recombinant Human Coagulation Factor VIII for Injection in Patients With Severe Hemophilia A",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06297655",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "40701256",
+        "title": "Post hoc analysis of bleeding episodes and clinically relevant pharmacokinetic parameters among children <12 years old with severe hemophilia A receiving once-weekly efanesoctocog alfa prophylaxis in the XTEND-Kids phase 3 multinational trial.",
+        "pubdate": "2025 Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40701256/"
+      },
+      {
+        "pmid": "40554054",
+        "title": "A first-in-human study of NXT007, a next-generation, activated factor VIII-mimetic bispecific antibody, in healthy participants.",
+        "pubdate": "2025 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40554054/"
+      },
+      {
+        "pmid": "39018533",
+        "title": "Efanesoctocog Alfa Prophylaxis for Children with Severe Hemophilia A.",
+        "pubdate": "2024 Jul 18",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39018533/"
+      },
+      {
+        "pmid": "36720133",
+        "title": "Efanesoctocog Alfa Prophylaxis for Patients with Severe Hemophilia A.",
+        "pubdate": "2023 Jan 26",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36720133/"
+      },
+      {
+        "pmid": "31168016",
+        "title": "[Emicizumab, a bispecific antibody mimicking factor VIII: a novel alternative therapy for hemophilia A with inhibitors].",
+        "pubdate": "2019",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31168016/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "DROTRECOGIN ALFA (ACTIVATED)",
+        "chembl_id": "CHEMBL2109065",
+        "reason": "same target: Coagulation factor VIII"
+      },
+      {
+        "name": "TB-402",
+        "chembl_id": "CHEMBL2109410",
+        "reason": "same target: Coagulation factor VIII"
+      },
+      {
+        "name": "GIROCTOCOGENE FITELPARVOVEC",
+        "chembl_id": "CHEMBL4298194",
+        "reason": "same target: Coagulation factor VIII"
+      },
+      {
+        "name": "ANTIHEMOPHILIC FACTOR, PEGYLATED (MW 20000) HUMAN SEQUENCE RECOMBINANT",
+        "chembl_id": "CHEMBL4594584",
+        "reason": "same target: Coagulation factor VIII"
+      },
+      {
+        "name": "OMFILOCTOCOG ALFA",
+        "chembl_id": "CHEMBL4594605",
+        "reason": "same target: Coagulation factor VIII"
+      },
+      {
+        "name": "EFMOROCTOCOG ALFA",
+        "chembl_id": "CHEMBL4297945",
+        "reason": "same target: Coagulation factor VIII"
+      },
+      {
+        "name": "OCTOCOG ALFA",
+        "chembl_id": "CHEMBL4297873",
+        "reason": "same target: Coagulation factor VIII"
+      },
+      {
+        "name": "DAMOCTOCOG ALFA PEGOL",
+        "chembl_id": "CHEMBL5315069",
+        "reason": "same target: Coagulation factor VIII"
+      },
+      {
+        "name": "TUROCTOCOG ALFA PEGOL",
+        "chembl_id": "CHEMBL5315071",
+        "reason": "same target: Coagulation factor VIII"
+      },
+      {
+        "name": "SIMOCTOCOG ALFA",
+        "chembl_id": "CHEMBL2108319",
+        "reason": "same target: Coagulation factor VIII"
+      }
+    ]
+  }
+}

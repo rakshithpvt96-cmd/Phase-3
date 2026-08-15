@@ -1,0 +1,119 @@
+{
+  "drug_name": "Palbociclib",
+  "slug": "palbociclib",
+  "enriched_at": "2026-08-15T21:42:30Z",
+  "source_trial_ids": [
+    "NCT04711252",
+    "NCT05501886"
+  ],
+  "sponsors": [
+    {
+      "name": "AstraZeneca",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=AstraZeneca&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Celcuity Inc",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Celcuity%20Inc&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 5330286,
+    "iupac_name": "6-acetyl-8-cyclopentyl-5-methyl-2-[(5-piperazin-1-yl-2-pyridinyl)amino]pyrido[2,3-d]pyrimidin-7-one",
+    "molecular_formula": "C24H29N7O2",
+    "molecular_weight": "447.5",
+    "canonical_smiles": null,
+    "inchikey": "AHJRHEGDXFFMBM-UHFFFAOYSA-N",
+    "rxnorm": {
+      "rxcui": "1601374",
+      "generic_name": "palbociclib",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2364621",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Palbociclib is an inhibitor of cyclin-dependent kinases (CDK) 4 and 6. Cyclin D1 and CDK4/6 are downstream of signaling pathways which lead to cellular proliferation. In vitro, palbociclib reduced cellular proliferation of estrogen receptor (ER)-positive breast cancer cell lines by blocking progression of the cell from G1 into S phase of the cell cycle. Treatment of breast cancer cell lines with the combination of palbociclib and antiestrogens leads to decreased retinoblastoma (Rb) protein phosphorylation resulting in reduced E2F expression and signaling, and increased growth arrest compared to treatment with each drug alone. In vitro treatment of ER-positive breast cancer cell lines with the combination of palbociclib and antiestrogens led to increased cell senescence compared to each drug alone, which was sustained for up to 6 days following palbociclib removal and was greater if antiestrogen treatment was continued. In vivo studies using a patient-derived ER-positive breast cancer xenograft model demonstrated that the combination of palbociclib and letrozole increased the inhibition of Rb phosphorylation, downstream signaling, and tumor growth compared to each drug alone. Human bone marrow mononuclear cells treated with palbociclib in the presence or absence of an anti-estrogen in vitro did not become senescent and resumed proliferation following palbociclib withdrawal.",
+    "pharmacokinetics": "12.3 Pharmacokinetics The pharmacokinetics (PK) of palbociclib were characterized in patients with solid tumors including advanced breast cancer and in healthy subjects. Absorption The maximum observed concentration (C max ) of palbociclib is generally observed between 4 to 12 hours (time to reach maximum concentration, T max ) following oral administration of IBRANCE tablets. The mean absolute bioavailability of IBRANCE after an oral 125 mg dose is 46%. In the dosing range of 25 mg to 225 mg, the AUC and C max increased proportionally with dose in general. Steady state was achieved within 8 days following repeated once daily dosing. With repeated once daily administration, palbociclib accumulated with a median accumulation ratio of 2.4 (range 1.5 to 4.2). Food Effect : The area under the concentration-time curve from zero to infinity (AUC INF ) and C max of palbociclib increased by 22% and 26%, respectively, when IBRANCE tablets were given with a high-fat, high-calorie meal (approximately 800 to 1000 calories with 150, 250, and 500 to 600 calories from protein, carbohydrate, and fat, respectively), and by 9% and 10%, respectively, when IBRANCE tablets were given with a moderate-fat, standard-calorie meal (approximately 500 to 700 calories with 75 to 105, 250 to 350 and 175 to 245 calories from protein, carbohydrate, and fat, respectively), compared to IBRANCE tablets given under overnight fasted conditions. Distribution Binding of palbociclib to human plasma proteins in vitro was approximately 85%, with no concentration dependence over the concentration range of 500 ng/mL to 5000 ng/mL. The mean fraction unbound (f u ) of palbociclib in human plasma in vivo increased incrementally with worsening hepatic function. There was no obvious trend in the mean palbociclib f u in human plasma in vivo with worsening renal function. The geometric mean apparent volume of distribution (V z /F) was 2583 L with a coefficient of variation (CV) of 26%. Metabolism In vitro and in vivo studies indicated that palbociclib undergoes hepatic metabolism in humans. Following oral administration of a single 125 mg dose of [ 14 C]palbociclib to humans, the primary metabolic pathways for palbociclib involved oxidation and sulfonation, with acylation and glucuronidation contributing as minor pathways. Palbociclib was the major circulating drug-derived entity in plasma (23%). The major circulating metabolite was a glucuronide conjugate of palbociclib, although it only represented 1.5% of the administered dose in the excreta. Palbociclib was extensively metabolized with unchanged drug accounting for 2.3% and 6.9% of radioactivity in feces and urine, respectively. In feces, the sulfamic acid conjugate of palbociclib was the major drug-related component, accounting for 26% of the administered dose. In vitro studies with human hepatocytes, liver cytosolic and S9 fractions, and recombinant SULT enzymes indicated that CYP3A and SULT2A1 are mainly involved in the metabolism of palbociclib. Elimination The geometric mean apparent oral clearance (CL/F) of palbociclib was 63.1 L/hr (29% CV), and the mean (± standard deviation) plasma elimination half-life was 29 (±5) hours in patients with advanced breast cancer. In 6 healthy male subjects given a single oral dose of [ 14 C] palbociclib, a median of 91.6% of the total administered radioactive dose was recovered in 15 days; feces (74.1% of dose) was the major route of excretion, with 17.5% of the dose recovered in urine. The majority of the material was excreted as metabolites. Specific Populations Age, Gender, and Body Weight Based on a population pharmacokinetic analysis in 183 patients with cancer (50 male and 133 female patients, age range from 22 to 89 years, and body weight range from 37.9 to 123 kg), gender had no effect on the exposure of palbociclib, and age and body weight had no clinically important effect on the exposure of palbociclib. Hepatic Impairment Data from a pharmacokinetic trial in subjects with varying degrees of hepatic impairment indicate that palbociclib unbound AUC INF decreased 17% in subjects with mild hepatic impairment (Child-Pugh class A), and increased by 34% and 77% in subjects with moderate (Child-Pugh class B) and severe (Child-Pugh class C) hepatic impairment, respectively, relative to subjects with normal hepatic function. Palbociclib unbound C max increased by 7%, 38% and 72% for mild, moderate and severe hepatic impairment, respectively, relative to subjects with normal hepatic function. In addition, based on a population pharmacokinetic analysis that included 183 patients, where 40 patients had mild hepatic impairment based on National Cancer Institute (NCI) classification (total bilirubin ≤ ULN and AST > ULN, or total bilirubin >1.0 to 1.5 × ULN and any AST), mild hepatic impairment had no effect on the exposure of palbociclib, further supporting the findings from the dedicated hepatic impairment study. Renal Impairment Data from a pharmacokinetic trial in subjects with varying degrees of renal impairment indicate that palbociclib AUC INF increased by 39%, 42%, and 31% with mild (60 mL/min ≤ CrCl <90 mL/min), moderate (30 mL/min ≤ CrCl <60 mL/min), and severe (CrCl <30 mL/min) renal impairment, respectively, relative to subjects with normal renal function. Peak palbociclib exposure (C max ) increased by 17%, 12%, and 15% for mild, moderate, and severe renal impairment, respectively, relative to subjects with normal renal function. In addition, based on a population pharmacokinetic analysis that included 183 patients where 73 patients had mild renal impairment and 29 patients had moderate renal impairment, mild and moderate renal impairment had no effect on the exposure of palbociclib. The pharmacokinetics of palbociclib have not been studied in patients requiring hemodialysis. Drug Interactions In vitro data indicate that CYP3A and SULT enzyme SULT2A1 are mainly involved in the metabolism of palbociclib. Palbociclib is a weak time-dependent inhibitor of CYP3A following daily 125 mg dosing to steady state in humans. In vitro, palbociclib is not an inhibitor of CYP1A2, 2A6, 2B6, 2C8, 2C9, 2C19, and 2D6, and is not an inducer of CYP1A2, 2B6, 2C8, and 3A4 at clinically relevant concentrations. CYP3A Inhibitors: Data from a drug interaction trial in healthy subjects (N=12) indicate that coadministration of multiple 200 mg daily doses of itraconazole with a single 125 mg IBRANCE dose increased palbociclib AUC INF and the C max by approximately 87% and 34%, respectively, relative to a single 125 mg IBRANCE dose given alone [see Drug Interactions (7.1) ] . CYP3A Inducers: Data from a drug interaction trial in healthy subjects (N=15) indicate that coadministration of multiple 600 mg daily doses of rifampin, a strong CYP3A inducer, with a single 125 mg IBRANCE dose decreased palbociclib AUC INF and C max by 85% and 70%, respectively, relative to a single 125 mg IBRANCE dose given alone. Data from a drug interaction trial in healthy subjects (N=14) indicate that coadministration of multiple 400 mg daily doses of modafinil, a moderate CYP3A inducer, with a single 125 mg IBRANCE dose decreased palbociclib AUC INF and C max by 32% and 11%, respectively, relative to a single 125 mg IBRANCE dose given alone [see Drug Interactions (7.2) ] . CYP3A Substrates: Palbociclib is a weak time-dependent inhibitor of CYP3A following daily 125 mg dosing to steady state in humans. In a drug interaction trial in healthy subjects (N=26), coadministration of midazolam with multiple doses of IBRANCE increased the midazolam AUC INF and the C max values by 61% and 37%, respectively, as compared to administration of midazolam alone [see Drug Interactions (7.3) ] . Gastric pH Elevating Medications: In a drug interaction trial in healthy subjects, coadministration of a single 125 mg IBRANCE tablet with multiple doses of the proton pump inhibitor (PPI) rabeprazole under overnight fasted conditions had no effect on the rate and extent of absorption of palbociclib when compared to a single 125 mg IBRANCE tablet administered alone. Given the reduced effect on gastric pH of H2-receptor antagonists and local antacids compared to PPIs, an effect of these classes of acid reducing agents on palbociclib exposure is not expected. Effect of Palbociclib on Transporters: In vitro evaluations indicated that palbociclib has a low potential to inhibit the activities of drug transporters organic anion transporter (OAT)1, OAT3, organic cation transporter (OCT)2, and organic anion transporting polypeptide (OATP)1B1, OATP1B3 at clinically relevant concentrations. In vitro, palbociclib has the potential to inhibit OCT1 at clinically relevant concentrations, as well as the potential to inhibit P-glycoprotein (P-gp) or breast cancer resistance protein (BCRP) in the gastrointestinal tract at the proposed dose. Effect of Transporters on Palbociclib: Based on in vitro data, P-gp and BCRP mediated transport are unlikely to affect the extent of oral absorption of palbociclib at therapeutic doses.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE IBRANCE is a kinase inhibitor indicated: • for the treatment of adult patients with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative advanced or metastatic breast cancer in combination with: o an aromatase inhibitor as initial endocrine-based therapy ( 1.1 ); or o fulvestrant in patients with disease progression following endocrine therapy. ( 1.1 ) • in combination with inavolisib and fulvestrant for the treatment of adult patients with endocrine-resistant, PIK3CA -mutated, HR-positive, HER2-negative, locally advanced or metastatic breast cancer, as detected by an FDA‑authorized test, following recurrence on or after completing adjuvant endocrine therapy. ( 1.1 ) • in combination with trastuzumab, with or without pertuzumab, and endocrine therapy for the maintenance treatment of adult patients with HR-positive, HER2‑positive locally advanced or metastatic breast cancer following induction treatment. ( 1.2 ) 1.1 HER2-Negative Metastatic Breast Cancer IBRANCE is indicated for the treatment of adult patients with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative advanced or metastatic breast cancer in combination with: • an aromatase inhibitor as initial endocrine-based therapy; or • fulvestrant in patients with disease progression following endocrine therapy. IBRANCE is indicated in combination with inavolisib and fulvestrant for the treatment of adult patients with endocrine-resistant, PIK3CA -mutated, HR-positive, HER2-negative, locally advanced or metastatic breast cancer, as detected by an FDA- authorized test, following recurrence on or after completing adjuvant endocrine therapy. 1.2 HER2-Positive Metastatic Breast Cancer IBRANCE is indicated in combination with trastuzumab, with or without pertuzumab, and endocrine therapy for the maintenance treatment of adult patients with HR-positive, HER2-positive locally advanced or metastatic breast cancer following induction treatment.",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "Ibrance"
+    ],
+    "openfda_generic_names": [
+      "PALBOCICLIB"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=89a142d5-7e61-48bf-9e77-e2cd124c4792",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Breast Cancer",
+    "slug": "breast-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04711252",
+      "title": "A Comparative Study of AZD9833 Plus Palbociclib Versus Anastrozole Plus Palbociclib in Patients With ER-Positive HER2 Negative Breast Cancer Who Have Not Received Any Systemic Treatment for Advanced Disease",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04711252",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT05501886",
+      "title": "Gedatolisib Plus Fulvestrant With or Without Palbociclib vs Standard-of-Care for the Treatment of Patients With Advanced or Metastatic HR+/HER2- Breast Cancer (VIKTORIA-1)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05501886",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42543051",
+        "title": "Cost-effectiveness of inavolisib-based therapy in PIK3CA-mutated advanced breast cancer in the USA.",
+        "pubdate": "2026 Jul 27",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42543051/"
+      },
+      {
+        "pmid": "42521839",
+        "title": "Antacid co-treatment and pregnane X receptor genetic polymorphisms are survival determinants in patients treated with palbociclib.",
+        "pubdate": "2026 Jul 28",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42521839/"
+      },
+      {
+        "pmid": "42442380",
+        "title": "Switching to camizestrant at ESR1 mutation emergence before disease progression during first-line treatment of hormone receptor-positive advanced breast cancer (SERENA-6): extended analysis of a double-blind, placebo-controlled, randomised, phase 3 trial.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42442380/"
+      },
+      {
+        "pmid": "42340618",
+        "title": "Quality of life with palbociclib plus tamoxifen in hormone receptor-positive, HER2-negative advanced breast cancer: results from PATHWAY, an Asian international, double-blind, randomized phase 3 trial.",
+        "pubdate": "2026 Jun 24",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42340618/"
+      },
+      {
+        "pmid": "42324685",
+        "title": "Treatment outcomes with palbociclib plus an aromatase inhibitor in patients with metastatic breast cancer who also have cardiovascular diseases: a plain language summary.",
+        "pubdate": "2026 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42324685/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

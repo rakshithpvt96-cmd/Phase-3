@@ -1,0 +1,99 @@
+{
+  "drug_name": "Telitacicept",
+  "slug": "telitacicept",
+  "enriched_at": "2026-08-15T21:48:54Z",
+  "source_trial_ids": [
+    "NCT05799287"
+  ],
+  "sponsors": [
+    {
+      "name": "RemeGen Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=RemeGen%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2666387",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL5095293",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Telitacicept+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Telitacicept+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Telitacicept+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Primary IgA Nephropathy",
+    "slug": "primary-iga-nephropathy"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05799287",
+      "title": "A Study of Telitacicept for IgA Nephropathy (TELIGAN)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05799287",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42587279",
+        "title": "Efficacy and safety of BAFF/APRIL-pathway inhibitors versus placebo in adults with IgA nephropathy: a systematic review with pairwise and network meta-analysis.",
+        "pubdate": "2026 Aug 11",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42587279/"
+      },
+      {
+        "pmid": "42127391",
+        "title": "Telitacicept for IgA Nephropathy - Interim Analysis of a Phase 3 Trial.",
+        "pubdate": "2026 May 14",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42127391/"
+      },
+      {
+        "pmid": "42043506",
+        "title": "[Current treatment, foreseeable newcomer and new treatment approaches for Sjögren's disease].",
+        "pubdate": "2026 Apr 27",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42043506/"
+      },
+      {
+        "pmid": "42024542",
+        "title": "BLyS/APRIL dual inhibition for systemic sclerosis: a single-centre, single-arm, open-label clinical trial of telitacicept.",
+        "pubdate": "2026 Apr 17",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42024542/"
+      },
+      {
+        "pmid": "41780098",
+        "title": "Clinical trials and new therapies in Sjögren's disease.",
+        "pubdate": "2026 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41780098/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}
