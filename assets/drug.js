@@ -19,10 +19,25 @@
     return new URLSearchParams(location.search).get(name);
   }
 
+  const ICON = {
+    pill:
+      '<svg class="icon" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round"><rect x="3" y="9" width="18" height="6" rx="3" transform="rotate(-45 12 12)"/><line x1="12" y1="7.5" x2="12" y2="16.5" transform="rotate(-45 12 12)"/></svg>',
+    molecule:
+      '<svg class="icon" viewBox="0 0 24 24" stroke-width="1.6"><circle cx="6" cy="6" r="2"/><circle cx="18" cy="6" r="2"/><circle cx="12" cy="13" r="2"/><circle cx="6" cy="19" r="2"/><circle cx="18" cy="19" r="2"/><line x1="7.4" y1="7.4" x2="10.6" y2="11.6"/><line x1="16.6" y1="7.4" x2="13.4" y2="11.6"/><line x1="10.6" y1="14.4" x2="7.4" y2="17.6"/><line x1="13.4" y1="14.4" x2="16.6" y2="17.6"/></svg>',
+    flask:
+      '<svg class="icon" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 2h6M10 2v6.5l-5.5 9.5A1.8 1.8 0 0 0 6 21h12a1.8 1.8 0 0 0 1.5-3L14 8.5V2"/><line x1="8.2" y1="14" x2="15.8" y2="14"/></svg>',
+    doc:
+      '<svg class="icon" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="3" width="16" height="18" rx="1.5"/><path d="M8 3h8v3H8z"/><path d="M8.5 13l2.3 2.3L15.5 10.5"/></svg>',
+    chart:
+      '<svg class="icon" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="4" y1="20" x2="20" y2="20"/><rect x="6" y="12" width="3" height="8"/><rect x="11" y="7" width="3" height="13"/><rect x="16" y="15" width="3" height="5"/></svg>',
+    cross:
+      '<svg class="icon icon-fill" viewBox="0 0 24 24"><path d="M10 2h4v8h8v4h-8v8h-4v-8H2v-4h8z"/></svg>',
+  };
+
   function sectionTag(confirmed) {
     return confirmed
-      ? '<span class="source-tag confirmed">Confirmed FDA label</span>'
-      : '<span class="source-tag literature-only">Literature only</span>';
+      ? `<span class="source-tag confirmed">${ICON.doc} CONFIRMED FDA LABEL</span>`
+      : `<span class="source-tag literature-only">${ICON.flask} LITERATURE ONLY</span>`;
   }
 
   function renderIdentity(drug) {
@@ -30,7 +45,7 @@
     const rx = id.rxnorm || {};
     return `
       <section class="section">
-        <h2>Identity</h2>
+        <h2>${ICON.pill} Identity</h2>
         <dl class="kv">
           <dt>Drug name (as in trial)</dt><dd>${val(drug.drug_name)}</dd>
           <dt>RxNorm generic name</dt><dd>${val(rx.generic_name)}</dd>
@@ -53,7 +68,7 @@
     const hasSummary = conditionSummary && conditionSummary.summary;
     return `
       <section class="section">
-        <h2>Indication &amp; Disease Overview</h2>
+        <h2>${ICON.cross} Indication &amp; Disease Overview</h2>
         <dl class="kv"><dt>Indication (from trial)</dt><dd>${val(cond.raw)}</dd></dl>
         ${
           hasSummary
@@ -83,7 +98,7 @@
         : "";
     return `
       <section class="section ${confirmed ? "confirmed" : "literature-only"}">
-        <h2>Mechanism of Action ${sectionTag(confirmed)}</h2>
+        <h2>${ICON.molecule} Mechanism of Action ${sectionTag(confirmed)}</h2>
         ${
           confirmed
             ? `<p>${escapeHtml(label.mechanism_of_action)}</p>
@@ -101,7 +116,7 @@
     const fr = label.further_reading || {};
     return `
       <section class="section ${confirmed ? "confirmed" : "literature-only"}">
-        <h2>Pharmacokinetics ${sectionTag(confirmed)}</h2>
+        <h2>${ICON.flask} Pharmacokinetics ${sectionTag(confirmed)}</h2>
         ${
           confirmed
             ? `<p>${escapeHtml(label.pharmacokinetics)}</p>
@@ -117,7 +132,7 @@
     if (!label.has_label) {
       return `
         <section class="section literature-only">
-          <h2>Indications &amp; Safety ${sectionTag(false)}</h2>
+          <h2>${ICON.doc} Indications &amp; Safety ${sectionTag(false)}</h2>
           <p><strong>Not yet available</strong> — no FDA-approved label exists for this drug yet.</p>
           ${label.further_reading && label.further_reading.efficacy_search ? `<p><a href="${escapeHtml(label.further_reading.efficacy_search)}" target="_blank" rel="noopener">Search PubMed for efficacy literature →</a></p>` : ""}
         </section>`;
@@ -126,7 +141,7 @@
     const confirmedWarning = !!label.boxed_warning;
     return `
       <section class="section confirmed">
-        <h2>Indications &amp; Safety ${sectionTag(true)}</h2>
+        <h2>${ICON.doc} Indications &amp; Safety ${sectionTag(true)}</h2>
         <div class="field-block">
           <h3>Indications and Usage</h3>
           <p>${confirmedIndications ? escapeHtml(label.indications_and_usage) : "—"}</p>
@@ -145,7 +160,7 @@
     const articles = (drug.prior_results || {}).pubmed_articles || [];
     return `
       <section class="section">
-        <h2>Prior Trial Results</h2>
+        <h2>${ICON.chart} Prior Trial Results</h2>
         ${
           trials.length
             ? `<ul class="pill-list">${trials
@@ -182,12 +197,12 @@
     const items = rel.items || [];
     return `
       <section class="section">
-        <h2>Related / Competitor Drugs</h2>
+        <h2>${ICON.molecule} Related / Competitor Drugs</h2>
         <p class="disclaimer">${escapeHtml(rel.label || "Approximate list — not a curated competitive analysis.")}</p>
         ${
           items.length
             ? `<div class="chip-list">${items
-                .map((i) => `<span class="chip" title="${escapeHtml(i.reason || "")}">${escapeHtml(i.name)}</span>`)
+                .map((i) => `<span class="chip" title="${escapeHtml(i.reason || "")}">${ICON.pill}${escapeHtml(i.name)}</span>`)
                 .join("")}</div>`
             : '<p class="disclaimer">No related drugs identified yet.</p>'
         }
@@ -221,6 +236,7 @@
       document.title = `${drug.drug_name} — Phase 3 Catalyst Tracker`;
       content.innerHTML = `
         <div class="drug-header">
+          <svg class="molecule-icon" viewBox="0 0 24 24" stroke="currentColor" fill="none" stroke-width="1.4"><circle cx="6" cy="6" r="2"/><circle cx="18" cy="6" r="2"/><circle cx="12" cy="13" r="2.2"/><circle cx="6" cy="19" r="2"/><circle cx="18" cy="19" r="2"/><line x1="7.4" y1="7.4" x2="10.5" y2="11.6"/><line x1="16.6" y1="7.4" x2="13.5" y2="11.6"/><line x1="10.5" y1="14.4" x2="7.4" y2="17.6"/><line x1="13.5" y1="14.4" x2="16.6" y2="17.6"/></svg>
           <div>
             <h1>${escapeHtml(drug.drug_name)}</h1>
             <div class="subtitle">${val(drug.condition && drug.condition.raw)}</div>
@@ -233,6 +249,7 @@
         ${renderLabelExtras(drug)}
         ${renderPriorResults(drug)}
         ${renderRelated(drug)}
+        <svg class="ekg-divider" viewBox="0 0 400 24" preserveAspectRatio="none"><polyline points="0,12 150,12 160,4 168,20 176,2 184,16 192,12 400,12"/></svg>
         <p class="disclaimer">Last enriched: ${val(drug.enriched_at)}</p>
       `;
     } catch (err) {

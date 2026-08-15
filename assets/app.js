@@ -28,15 +28,21 @@
 
   function computeSignals(t) {
     const sig = [];
-    if ((t.sec_8k_matches || []).length) sig.push({ cls: "badge-8k", label: `${t.sec_8k_matches.length} 8-K` });
-    if (t.has_results) sig.push({ cls: "badge-results", label: "Results posted" });
+    if ((t.sec_8k_matches || []).length) sig.push({ cls: "badge-8k", label: `[ ${t.sec_8k_matches.length} 8-K ]` });
+    if (t.has_results) sig.push({ cls: "badge-results", label: "[ RESULTS ]" });
     return sig;
   }
+
+  const PILL_ICON =
+    '<svg class="icon" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round"><rect x="3" y="9" width="18" height="6" rx="3" transform="rotate(-45 12 12)"/><line x1="12" y1="7.5" x2="12" y2="16.5" transform="rotate(-45 12 12)"/></svg>';
 
   function drugLinks(t) {
     if (!t.drug_names || !t.drug_names.length) return "—";
     return t.drug_names
-      .map((name) => `<a href="drug.html?drug=${encodeURIComponent(slugify(name))}">${escapeHtml(name)}</a>`)
+      .map(
+        (name) =>
+          `<a class="drug-link" href="drug.html?drug=${encodeURIComponent(slugify(name))}">${PILL_ICON}${escapeHtml(name)}</a>`
+      )
       .join(", ");
   }
 
@@ -91,8 +97,8 @@
           .join(" ");
         const windowBadge =
           t.window === "upcoming"
-            ? '<span class="badge badge-upcoming">Upcoming</span>'
-            : '<span class="badge badge-lookback">Lookback</span>';
+            ? '<span class="badge badge-upcoming">[ UPCOMING ]</span>'
+            : '<span class="badge badge-lookback">[ LOOKBACK ]</span>';
         const dateType = t.primary_completion_date_type
           ? ` <span class="pill-meta">(${escapeHtml(t.primary_completion_date_type)})</span>`
           : "";
@@ -154,6 +160,24 @@
     `;
   }
 
+  function renderTicker(data) {
+    const track = document.getElementById("ticker-track");
+    const trials = data.trials || [];
+    if (!trials.length) {
+      track.innerHTML = '<span class="seg">NO ACTIVE CATALYSTS ON FILE — AWAITING NEXT SCHEDULED FETCH FROM CLINICALTRIALS.GOV + SEC EDGAR</span>';
+      return;
+    }
+    const segs = trials.slice(0, 60).map((t) => {
+      const drug = escapeHtml((t.drug_names || [])[0] || t.title || "—");
+      const cls = (t.sec_8k_matches || []).length ? "sig" : t.window === "upcoming" ? "up" : "";
+      const flag = (t.sec_8k_matches || []).length ? " ⚠8-K" : "";
+      return `<span class="seg ${cls}"><span class="n">${drug}</span> ${escapeHtml(t.sponsor || "—")} · ${escapeHtml(
+        t.primary_completion_date || "—"
+      )}${flag}</span><span class="sep">|</span>`;
+    });
+    track.innerHTML = segs.join("");
+  }
+
   async function init() {
     setupSorting();
     setupControls();
@@ -162,6 +186,7 @@
       const data = await res.json();
       state.trials = data.trials || [];
       renderStats(data);
+      renderTicker(data);
       document.getElementById("generated-meta").textContent = data.generated_at
         ? `Last updated ${data.generated_at}`
         : "Not yet populated -- waiting on the first scheduled fetch.";
