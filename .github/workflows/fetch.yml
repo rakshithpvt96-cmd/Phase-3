@@ -2,10 +2,17 @@ name: Fetch catalysts & enrich drugs
 
 on:
   schedule:
-    # 5 evenly-spaced runs/day (UTC): 00:00, 05:00, 10:00, 15:00, 20:00.
-    # The concurrency group below serializes these -- if one run is still
-    # going when the next is due, the next just waits, it never overlaps.
-    - cron: '0 0,5,10,15,20 * * *'
+    # 5 runs back-to-back, 30 min apart, targeting 3:00am-5:00am US Eastern.
+    # Cron is fixed UTC and doesn't shift with DST: these UTC times land on
+    # 3-5am during Eastern Daylight Time (roughly Mar-Nov, UTC-4, in effect
+    # now); during Eastern Standard Time (UTC-5) they land an hour earlier,
+    # 2-4am ET. The concurrency group below serializes these regardless --
+    # if one run is still going when the next is due, the next just waits.
+    - cron: '0 7 * * *'
+    - cron: '30 7 * * *'
+    - cron: '0 8 * * *'
+    - cron: '30 8 * * *'
+    - cron: '0 9 * * *'
   workflow_dispatch: {}
 
 permissions:
