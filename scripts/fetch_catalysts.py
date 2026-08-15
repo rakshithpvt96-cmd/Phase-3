@@ -50,6 +50,7 @@ LOOKBACK_MAX_DAYS = int(os.environ.get("LOOKBACK_MAX_DAYS", "90"))
 EDGAR_LOOKBACK_DAYS = int(os.environ.get("EDGAR_LOOKBACK_DAYS", "120"))
 HISTORY_RETENTION = int(os.environ.get("HISTORY_RETENTION", "90"))
 REFRESH_DAYS_COMPANY = int(os.environ.get("REFRESH_DAYS_COMPANY", "7"))
+REFRESH_DAYS_TICKER_MAP = int(os.environ.get("REFRESH_DAYS_TICKER_MAP", "1"))
 
 CTGOV_PAGE_SIZE = 100
 CTGOV_MAX_PAGES = 30  # safety cap: 3000 studies per window is far beyond any real query
@@ -304,6 +305,20 @@ def canonical_key(name):
 
 
 def load_sec_ticker_map():
+    # SEC's full ticker/CIK list is ~8000 entries and barely changes day to
+    # day, so it's cached to disk (committed alongside the per-sponsor
+    # company caches) instead of re-downloaded on every one of the 5
+    # daily fetch.yml runs.
+    cache_file = COMPANIES_DIR / "_sec_ticker_map.json"
+    if cache_file.exists():
+        try:
+            cached = json.loads(cache_file.read_text())
+            ts = datetime.strptime(cached["cached_at"], "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)
+            if (datetime.now(timezone.utc) - ts) < timedelta(days=REFRESH_DAYS_TICKER_MAP):
+                return cached["tickers"]
+        except (json.JSONDecodeError, KeyError, ValueError):
+            pass
+
     data = http_get_json(SEC_TICKERS_URL, headers={"User-Agent": SEC_EDGAR_USER_AGENT})
     ticker_map = {}
     if not data:
@@ -317,6 +332,10 @@ def load_sec_ticker_map():
         key = canonical_key(title)
         if key and key not in ticker_map:
             ticker_map[key] = {"cik": str(cik_raw).zfill(10), "ticker": ticker, "title": title}
+
+    if ticker_map:
+        COMPANIES_DIR.mkdir(parents=True, exist_ok=True)
+        cache_file.write_text(json.dumps({"cached_at": now_iso(), "tickers": ticker_map}))
     return ticker_map
 
 
