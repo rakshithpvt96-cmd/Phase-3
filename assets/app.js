@@ -160,11 +160,14 @@
     `;
   }
 
+  const TICKER_PX_PER_SECOND = 45; // comfortable reading speed, independent of content length
+
   function renderTicker(data) {
     const track = document.getElementById("ticker-track");
     const trials = data.trials || [];
     if (!trials.length) {
       track.innerHTML = '<span class="seg">NO ACTIVE CATALYSTS ON FILE — AWAITING NEXT SCHEDULED FETCH FROM CLINICALTRIALS.GOV + SEC EDGAR</span>';
+      track.style.animation = "none";
       return;
     }
     const segs = trials.slice(0, 60).map((t) => {
@@ -176,6 +179,21 @@
       )}${flag}</span><span class="sep">|</span>`;
     });
     track.innerHTML = segs.join("");
+
+    // Fixed-duration CSS animations move faster as content gets longer (more
+    // distance covered in the same time). Derive duration from actual content
+    // width instead, so scroll speed stays constant no matter how many
+    // trials are on the ticker.
+    requestAnimationFrame(() => {
+      const containerWidth = track.parentElement.clientWidth;
+      const trackWidth = track.scrollWidth;
+      if (trackWidth <= containerWidth) {
+        track.style.animation = "none";
+        return;
+      }
+      const duration = (trackWidth + containerWidth) / TICKER_PX_PER_SECOND;
+      track.style.animationDuration = `${duration}s`;
+    });
   }
 
   async function init() {

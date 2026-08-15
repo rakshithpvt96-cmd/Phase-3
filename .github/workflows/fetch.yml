@@ -41,7 +41,7 @@ jobs:
           # Optional free registered keys for higher rate limits -- unset is fine.
           NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
           FDA_API_KEY: ${{ secrets.FDA_API_KEY }}
-          MAX_DRUGS_PER_RUN: ${{ vars.MAX_DRUGS_PER_RUN || '40' }}
+          MAX_DRUGS_PER_RUN: ${{ vars.MAX_DRUGS_PER_RUN || '80' }}
           ENRICH_SLEEP_SECONDS: ${{ vars.ENRICH_SLEEP_SECONDS || '0.2' }}
         run: python3 scripts/enrich_drugs.py
 
