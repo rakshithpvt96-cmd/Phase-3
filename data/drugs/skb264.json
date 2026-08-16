@@ -1,0 +1,103 @@
+{
+  "drug_name": "SKB264",
+  "slug": "skb264",
+  "enriched_at": "2026-08-16T08:25:41Z",
+  "source_trial_ids": [
+    "NCT06279364"
+  ],
+  "sponsors": [
+    {
+      "name": "Sichuan Kelun-Biotech Biopharmaceutical Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Sichuan%20Kelun-Biotech%20Biopharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": null
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL5314875",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=SKB264+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=SKB264+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=SKB264+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Triple Negative Breast Cancer",
+    "slug": "triple-negative-breast-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06279364",
+      "title": "A Study of SKB264 Versus Investigator's Choice Chemotherapy in Patients With Unresectable Recurrent or Metastatic Triple-Negative Breast Cancer",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06279364",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42535874",
+        "title": "TroFuse-011 study design: sacituzumab tirumotecan with or without pembrolizumab for advanced triple-negative breast cancer with PD-L1 CPS <10.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42535874/"
+      },
+      {
+        "pmid": "40210967",
+        "title": "Sacituzumab tirumotecan in advanced non-small-cell lung cancer with or without EGFR mutations: phase 1/2 and phase 2 trials.",
+        "pubdate": "2025 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40210967/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "FDA018-ADC",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Shanghai Fudan-Zhangjiang Bio-Pharmaceutical Co., Ltd."
+      },
+      {
+        "name": "Eribulin",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Shanghai Fudan-Zhangjiang Bio-Pharmaceutical Co., Ltd."
+      },
+      {
+        "name": "Capecitabine",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Shanghai Fudan-Zhangjiang Bio-Pharmaceutical Co., Ltd."
+      },
+      {
+        "name": "Gemcitabine",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Shanghai Fudan-Zhangjiang Bio-Pharmaceutical Co., Ltd."
+      },
+      {
+        "name": "Vinorelbine",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Shanghai Fudan-Zhangjiang Bio-Pharmaceutical Co., Ltd."
+      }
+    ]
+  }
+}

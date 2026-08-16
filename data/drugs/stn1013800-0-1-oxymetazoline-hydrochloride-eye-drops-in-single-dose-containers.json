@@ -1,0 +1,119 @@
+{
+  "drug_name": "STN1013800 (0.1% Oxymetazoline Hydrochloride) eye drops in single dose containers",
+  "slug": "stn1013800-0-1-oxymetazoline-hydrochloride-eye-drops-in-single-dose-containers",
+  "enriched_at": "2026-08-16T08:26:22Z",
+  "source_trial_ids": [
+    "NCT06514612"
+  ],
+  "sponsors": [
+    {
+      "name": "Santen SAS",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Santen%20SAS&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2391749",
+      "generic_name": "oxymetazoline hydrochloride 1 MG/ML Ophthalmic Solution",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1200791",
+    "target_chembl_id": "CHEMBL2095203",
+    "target_name": "Adrenergic receptor alpha",
+    "mechanism_of_action_chembl": "Adrenergic receptor alpha agonist"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=STN1013800%20%280.1%25%20Oxymetazoline%20Hydrochloride%29%20eye%20drops%20in%20single%20dose%20containers+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=STN1013800%20%280.1%25%20Oxymetazoline%20Hydrochloride%29%20eye%20drops%20in%20single%20dose%20containers+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=STN1013800%20%280.1%25%20Oxymetazoline%20Hydrochloride%29%20eye%20drops%20in%20single%20dose%20containers+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Acquired Blepharophimosis",
+    "slug": "acquired-blepharophimosis"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06514612",
+      "title": "LIDRISE Study: A Phase 3 Study on the Efficacy and Safety of STN1013800 (Oxymetazoline HCl 0.1% Eye Drops, Single Dose) in the Treatment of Acquired Blepharoptosis.",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06514612",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "ALSEROXYLON",
+        "chembl_id": "CHEMBL1201454",
+        "reason": "same target: Adrenergic receptor alpha"
+      },
+      {
+        "name": "ERGOLOID MESYLATES",
+        "chembl_id": "CHEMBL2311030",
+        "reason": "same target: Adrenergic receptor alpha"
+      },
+      {
+        "name": "ERGOTAMINE TARTRATE",
+        "chembl_id": "CHEMBL2448612",
+        "reason": "same target: Adrenergic receptor alpha"
+      },
+      {
+        "name": "NAPHAZOLINE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1706",
+        "reason": "same target: Adrenergic receptor alpha"
+      },
+      {
+        "name": "TETRAHYDROZOLINE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1200413",
+        "reason": "same target: Adrenergic receptor alpha"
+      },
+      {
+        "name": "PHENTOLAMINE MESYLATE",
+        "chembl_id": "CHEMBL1200873",
+        "reason": "same target: Adrenergic receptor alpha"
+      },
+      {
+        "name": "RAUWOLFIA SERPENTINA",
+        "chembl_id": "CHEMBL3559672",
+        "reason": "same target: Adrenergic receptor alpha"
+      },
+      {
+        "name": "PHENOXYBENZAMINE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1200787",
+        "reason": "same target: Adrenergic receptor alpha"
+      },
+      {
+        "name": "TOLAZOLINE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1689",
+        "reason": "same target: Adrenergic receptor alpha"
+      },
+      {
+        "name": "MOXISYLYTE",
+        "chembl_id": "CHEMBL159226",
+        "reason": "same target: Adrenergic receptor alpha"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "drug_name": "Sitravatinib",
+  "slug": "sitravatinib",
+  "enriched_at": "2026-08-16T08:25:35Z",
+  "source_trial_ids": [
+    "NCT04164199"
+  ],
+  "sponsors": [
+    {
+      "name": "BeOne Medicines",
+      "ticker": "ONC",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001651308&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 25212148,
+    "iupac_name": "1-N'-[3-fluoro-4-[2-[5-[(2-methoxyethylamino)methyl]-2-pyridinyl]thieno[3,2-b]pyridin-7-yl]oxyphenyl]-1-N-(4-fluorophenyl)cyclopropane-1,1-dicarboxamide",
+    "molecular_formula": "C33H29F2N5O4S",
+    "molecular_weight": "629.7",
+    "canonical_smiles": null,
+    "inchikey": "WLAVZAAODLTUSW-UHFFFAOYSA-N",
+    "rxnorm": {
+      "rxcui": "1888907",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL3989926",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Sitravatinib+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Sitravatinib+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Sitravatinib+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Advanced Malignancies",
+    "slug": "advanced-malignancies"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04164199",
+      "title": "Study of Tislelizumab, Pamiparib, and Other Investigational Agents in Participants With Advanced Malignancies",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT04164199",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "41420248",
+        "title": "Sitravatinib plus tislelizumab in locally recurrent or metastatic triple-negative breast cancer: a multi-cohort, single-arm, phase II clinical trial (SPARK Trial).",
+        "pubdate": "2025 Dec 19",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41420248/"
+      },
+      {
+        "pmid": "39513224",
+        "title": "Sitravatinib in patients with solid tumors selected by molecular alterations: results from a Phase Ib study.",
+        "pubdate": "2024 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39513224/"
+      },
+      {
+        "pmid": "39168901",
+        "title": "Targeting multiple receptor tyrosine kinases with sitravatinib: A Phase 1b study in advanced renal cell carcinoma and castrate-resistant prostate cancer.",
+        "pubdate": "2024 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39168901/"
+      },
+      {
+        "pmid": "38197138",
+        "title": "SAFFRON-103: a phase Ib study of sitravatinib plus tislelizumab in anti-PD-(L)1 refractory/resistant advanced melanoma.",
+        "pubdate": "2024 Mar",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38197138/"
+      },
+      {
+        "pmid": "33356674",
+        "title": "TAM kinase inhibition and immune checkpoint blockade- a winning combination in cancer treatment?",
+        "pubdate": "2021 Feb",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33356674/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

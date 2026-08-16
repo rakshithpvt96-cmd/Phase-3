@@ -1,0 +1,68 @@
+{
+  "drug_name": "STN1013800 ophthalmic solution Liquid Base, without STN1013800",
+  "slug": "stn1013800-ophthalmic-solution-liquid-base-without-stn1013800",
+  "enriched_at": "2026-08-16T08:26:34Z",
+  "source_trial_ids": [
+    "NCT06683651"
+  ],
+  "sponsors": [
+    {
+      "name": "Santen Pharmaceutical Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Santen%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1923433",
+      "generic_name": "dorzolamide 20 MG/ML / timolol 5 MG/ML Ophthalmic Solution [Cosopt]",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2108930",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=STN1013800%20ophthalmic%20solution%20Liquid%20Base%2C%20without%20STN1013800+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=STN1013800%20ophthalmic%20solution%20Liquid%20Base%2C%20without%20STN1013800+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=STN1013800%20ophthalmic%20solution%20Liquid%20Base%2C%20without%20STN1013800+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Blepharoptosis",
+    "slug": "blepharoptosis"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06683651",
+      "title": "A Study in Chinese Patients With Acquired Blepharoptosis",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06683651",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

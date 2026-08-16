@@ -1,0 +1,156 @@
+{
+  "drug_name": "Temozolomide",
+  "slug": "temozolomide",
+  "enriched_at": "2026-08-16T08:27:44Z",
+  "source_trial_ids": [
+    "NCT04164199"
+  ],
+  "sponsors": [
+    {
+      "name": "BeOne Medicines",
+      "ticker": "ONC",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001651308&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 5394,
+    "iupac_name": "3-methyl-4-oxoimidazo[5,1-d][1,2,3,5]tetrazine-8-carboxamide",
+    "molecular_formula": "C6H6N6O2",
+    "molecular_weight": "194.15",
+    "canonical_smiles": null,
+    "inchikey": "BPEGJWRSRHCHSN-UHFFFAOYSA-N",
+    "rxnorm": {
+      "rxcui": "37776",
+      "generic_name": "temozolomide",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL810",
+    "target_chembl_id": "CHEMBL2311221",
+    "target_name": "DNA",
+    "mechanism_of_action_chembl": "DNA inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Temozolomide is not directly active but undergoes rapid nonenzymatic conversion at physiologic pH to the reactive compound 5-(3-methyltriazen-1-yl)-imidazole-4-carboxamide (MTIC). The cytotoxicity of MTIC is thought to be primarily due to alkylation of DNA. Alkylation (methylation) occurs mainly at the O 6 and N 7 positions of guanine.",
+    "pharmacokinetics": "12.3 Pharmacokinetics Following a single oral dose of 150 mg/m 2 , the mean C max is 7.5 mcg/mL for temozolomide and 282 ng/mL for MTIC. The mean AUC is 23.4 mcg·hr/mL for temozolomide and 864 ng·hr/mL for MTIC. Following a single 90-minute intravenous infusion of 150 mg/m 2 , the mean C max is 7.3 mcg/mL for temozolomide and 276 ng/mL for MTIC. The mean AUC is 24.6 mcg·hr/mL for temozolomide and 891 ng·hr/mL for MTIC. Temozolomide exhibits linear kinetics over the therapeutic dosing range of 75 mg/m 2 /day to 250 mg/m 2 /day. Absorption The median T max is 1 hour. Effect of Food The mean temozolomide C max and AUC decreased by 32% and 9%, respectively, and median T max increased by 2-fold (from 1 to 2.25 hours) when TEMOZOLOMIDE capsules were administered after a modified high-fat breakfast (587 calories comprised of 1 fried egg, 2 strips of bacon, 2 slices of toast, 2 pats of butter, and 8 oz whole milk). Distribution Temozolomide has a mean (CV%) apparent volume of distribution of 0.4 L/kg (13%). The mean percent bound of drug-related total radioactivity is 15%. Elimination Clearance of temozolomide is approximately 5.5 L/hr/m 2 and the mean elimination half-life is 1.8 hours. Metabolism Temozolomide is spontaneously hydrolyzed at physiologic pH to the active species, MTIC and to temozolomide acid metabolite. MTIC is further hydrolyzed to 5-amino-imidazole-4-carboxamide (AIC), which is known to be an intermediate in purine and nucleic acid biosynthesis, and to methylhydrazine, which is believed to be the active alkylating species. Cytochrome P450 enzymes play a minor role in the metabolism of temozolomide and MTIC. Relative to the AUC of temozolomide, the exposure to MTIC and AIC is 2.4% and 23%, respectively. Excretion Approximately 38% of the administered temozolomide total radioactive dose is recovered over 7 days: 38% in urine and 0.8% in feces. The majority of the recovered radioactivity in urine is unchanged temozolomide (6%), AIC (12%), temozolomide acid metabolite (2.3%), and unidentified polar metabolite(s) (17%). Specific Populations No clinically significant differences in the pharmacokinetics of temozolomide were observed based on age (range: 19-78 years), gender, smoking status (smoker vs. non-smoker), creatinine clearance (CLcr) of 36 to 130 mL/min/m 2 , or mild to moderate hepatic impairment (Child Pugh class A and B). The pharmacokinetics of temozolomide has not been studied in patients with CLcr < 36 mL/min/m 2 , end-stage renal disease on dialysis, or severe hepatic impairment (Child-Pugh class C). Drug Interaction Studies Clinical Studies and Model-Informed Approaches No clinically significant differences in the pharmacokinetics of temozolomide or MTIC were observed when co-administered with ranitidine. No clinically significant differences in the clearance of temozolomide or MTIC were predicted when co-administered with the following drugs: valproic acid, dexamethasone, prochlorperazine, phenytoin, carbamazepine, ondansetron, histamine-2-receptor antagonists, or phenobarbital.",
+    "indications_and_usage": "1. INDICATIONS AND USAGE TEMOZOLOMIDE Capsules are an alkylating drug indicated for the treatment of adult patients with: Newly diagnosed glioblastoma concomitantly with radiotherapy and then as maintenance treatment. ( 1.1 ) Anaplastic astrocytoma ( 1.2 ) Adjuvant treatment of adults with newly diagnosed anaplastic astrocytoma. ( 1.2 ) Treatment of adults with refractory anaplastic astrocytoma. ( 1.2 ) 1.1 Newly Diagnosed Glioblastoma TEMOZOLOMIDE Capsules is indicated for the treatment of adults with newly diagnosed glioblastoma, concomitantly with radiotherapy and then as maintenance treatment. 1.2 Anaplastic Astrocytoma TEMOZOLOMIDE Capsules is indicated for the: adjuvant treatment of adults with newly diagnosed anaplastic astrocytoma; treatment of adults with refractory anaplastic astrocytoma.",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "Temozolomide"
+    ],
+    "openfda_generic_names": [
+      "TEMOZOLOMIDE"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9dff10ec-6a55-47b6-a458-b7c39e32dc55",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Advanced Malignancies",
+    "slug": "advanced-malignancies"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04164199",
+      "title": "Study of Tislelizumab, Pamiparib, and Other Investigational Agents in Participants With Advanced Malignancies",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT04164199",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42592685",
+        "title": "Redefining the Role of Chemotherapy and Targeted Cytotoxic Delivery in Lung Neuroendocrine Tumors.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42592685/"
+      },
+      {
+        "pmid": "42570798",
+        "title": "Ultra-hypofractionated versus conventional chemoradiation for newly diagnosed glioblastoma: Survival and toxicity results of a multicenter randomized trial.",
+        "pubdate": "2026 Aug 8",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42570798/"
+      },
+      {
+        "pmid": "42499698",
+        "title": "Achieving Stable Disease in an Adult with Malignant Gastrointestinal Tumor following Cabozantinib Treatment: Case Report.",
+        "pubdate": "2026 Jan-Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42499698/"
+      },
+      {
+        "pmid": "42440296",
+        "title": "Recent Advances and Future Prospects in Gene Delivery Platforms for Glioblastoma: A Review.",
+        "pubdate": "2026 Aug 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42440296/"
+      },
+      {
+        "pmid": "42430039",
+        "title": "Current Treatment Options for Adult Grade 2 IDH-mutant Diffuse Gliomas in the Vorasidenib Era: Patient Selection, Sequencing, and Practical Management.",
+        "pubdate": "2026 Jul 10",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42430039/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "DORNASE ALFA",
+        "chembl_id": "CHEMBL1201431",
+        "reason": "same target: DNA"
+      },
+      {
+        "name": "DESOXYRIBONUCLEASE",
+        "chembl_id": "CHEMBL1201459",
+        "reason": "same target: DNA"
+      },
+      {
+        "name": "GEMTUZUMAB OZOGAMICIN",
+        "chembl_id": "CHEMBL1201506",
+        "reason": "same target: DNA"
+      },
+      {
+        "name": "BENDAMUSTINE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1201734",
+        "reason": "same target: DNA"
+      },
+      {
+        "name": "DACTINOMYCIN",
+        "chembl_id": "CHEMBL1554",
+        "reason": "same target: DNA"
+      },
+      {
+        "name": "CYCLOPHOSPHAMIDE",
+        "chembl_id": "CHEMBL1200796",
+        "reason": "same target: DNA"
+      },
+      {
+        "name": "MECHLORETHAMINE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1201001",
+        "reason": "same target: DNA"
+      },
+      {
+        "name": "STREPTOZOCIN",
+        "chembl_id": "CHEMBL1977579",
+        "reason": "same target: DNA"
+      },
+      {
+        "name": "NELARABINE",
+        "chembl_id": "CHEMBL1201112",
+        "reason": "same target: DNA"
+      },
+      {
+        "name": "EPIRUBICIN HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1200981",
+        "reason": "same target: DNA"
+      }
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "drug_name": "T-DXd",
+  "slug": "t-dxd",
+  "enriched_at": "2026-08-16T08:27:21Z",
+  "source_trial_ids": [
+    "NCT06174987"
+  ],
+  "sponsors": [
+    {
+      "name": "Daiichi Sankyo",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Daiichi%20Sankyo&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2738815",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1697734",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=T-DXd+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=T-DXd+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=T-DXd+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Advanced Cancer",
+    "slug": "advanced-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06174987",
+      "title": "A Study to Provide Continued Access to and Assess Long-Term Safety of the Study Drug(s)",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06174987",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42575050",
+        "title": "Trastuzumab deruxtecan rechallenge in HER2-positive metastatic breast cancer: EN-SEMBLE.",
+        "pubdate": "2026 Jul 22",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42575050/"
+      },
+      {
+        "pmid": "42550611",
+        "title": "Molecular evaluation of residual disease following neoadjuvant chemotherapy in triple negative breast cancer CALGB40603 (Alliance).",
+        "pubdate": "2026 Aug 4",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42550611/"
+      },
+      {
+        "pmid": "42562949",
+        "title": "AKAP13 regulates GLI1/ULK1 axis and drive tumor resistance to next-generation HER2-targeted therapies.",
+        "pubdate": "2026 Aug 6",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42562949/"
+      },
+      {
+        "pmid": "42484946",
+        "title": "Efficacy and safety of antibody-drug conjugates in HER2-positive and HER2-low advanced gastric cancer: a systematic review and update.",
+        "pubdate": "2026 Jul 22",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42484946/"
+      },
+      {
+        "pmid": "42431148",
+        "title": "Tucatinib in Combination With Trastuzumab Deruxtecan in Patients With Previously Treated HER2+ Unresectable Locally Advanced or Metastatic Breast Cancer: An Open-Label Phase 2 Study.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42431148/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "drug_name": "Wegovy®",
+  "slug": "wegovy",
+  "enriched_at": "2026-08-16T08:30:55Z",
+  "source_trial_ids": [
+    "NCT06738979"
+  ],
+  "sponsors": [
+    {
+      "name": "Chia Tai Tianqing Pharmaceutical Group Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Chia%20Tai%20Tianqing%20Pharmaceutical%20Group%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2553502",
+      "generic_name": "Wegovy",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2108724",
+    "target_chembl_id": "CHEMBL1784",
+    "target_name": "Glucagon-like peptide 1 receptor",
+    "mechanism_of_action_chembl": "Glucagon-like peptide 1 receptor agonist"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "DailyMed",
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ee06186f-2aa3-4990-a760-757579d8f77b",
+    "note": "A label exists in DailyMed but structured sections could not be parsed automatically -- see dailymed_url for the full label.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Wegovy%C2%AE+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Wegovy%C2%AE+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Wegovy%C2%AE+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Obesity",
+    "slug": "obesity"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06738979",
+      "title": "A Clinical Study Comparing Semaglutide Injection and Wegovy® for Weight Management in Obese Subjects",
+      "status": "NOT_YET_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06738979",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42598626",
+        "title": "Efficacy and safety of semaglutide injection in Indian patients with type 2 diabetes mellitus inadequately controlled on metformin: A phase 3, randomized, active-controlled, multicenter, non-inferiority trial (WIN-IND study).",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42598626/"
+      },
+      {
+        "pmid": "42590128",
+        "title": "Anti-Obesity Medications in Longevity and Aesthetic Medicine.",
+        "pubdate": "2026 Aug 3",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42590128/"
+      },
+      {
+        "pmid": "42582425",
+        "title": "Potential nephroprotective mechanisms of orforglipron, an oral non-peptide GLP-1 receptor agonist.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42582425/"
+      },
+      {
+        "pmid": "42580587",
+        "title": "EQ-5D Health Utility Gains with Once-Weekly Semaglutide 2.4 mg in People with MASH and F2/F3 Fibrosis: An Analysis of ESSENCE.",
+        "pubdate": "2026 Aug 11",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42580587/"
+      },
+      {
+        "pmid": "42573665",
+        "title": "Semaglutide as a potential neuroprotective agent for neurological and neurodegenerative disorders: Mechanisms, preclinical evidence, and translational challenges and opportunities.",
+        "pubdate": "2026 Aug 10",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42573665/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "LIRAGLUTIDE",
+        "chembl_id": "CHEMBL4084119",
+        "reason": "same target: Glucagon-like peptide 1 receptor"
+      },
+      {
+        "name": "EXENATIDE",
+        "chembl_id": "CHEMBL414357",
+        "reason": "same target: Glucagon-like peptide 1 receptor"
+      },
+      {
+        "name": "ALBIGLUTIDE",
+        "chembl_id": "CHEMBL2107841",
+        "reason": "same target: Glucagon-like peptide 1 receptor"
+      },
+      {
+        "name": "DULAGLUTIDE",
+        "chembl_id": "CHEMBL2108027",
+        "reason": "same target: Glucagon-like peptide 1 receptor"
+      },
+      {
+        "name": "TASPOGLUTIDE",
+        "chembl_id": "CHEMBL2107860",
+        "reason": "same target: Glucagon-like peptide 1 receptor"
+      },
+      {
+        "name": "LIXISENATIDE",
+        "chembl_id": "CHEMBL2108336",
+        "reason": "same target: Glucagon-like peptide 1 receptor"
+      },
+      {
+        "name": "DANUGLIPRON",
+        "chembl_id": "CHEMBL4518483",
+        "reason": "same target: Glucagon-like peptide 1 receptor"
+      },
+      {
+        "name": "COTADUTIDE",
+        "chembl_id": "CHEMBL4297630",
+        "reason": "same target: Glucagon-like peptide 1 receptor"
+      },
+      {
+        "name": "EFINOPEGDUTIDE",
+        "chembl_id": "CHEMBL4297576",
+        "reason": "same target: Glucagon-like peptide 1 receptor"
+      },
+      {
+        "name": "AVEXITIDE",
+        "chembl_id": "CHEMBL4297949",
+        "reason": "same target: Glucagon-like peptide 1 receptor"
+      }
+    ]
+  }
+}

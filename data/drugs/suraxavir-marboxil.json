@@ -1,0 +1,111 @@
+{
+  "drug_name": "Suraxavir Marboxil",
+  "slug": "suraxavir-marboxil",
+  "enriched_at": "2026-08-16T08:27:01Z",
+  "source_trial_ids": [
+    "NCT07113392"
+  ],
+  "sponsors": [
+    {
+      "name": "Jiangxi Kvvit Pharmaceutical Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Jiangxi%20Kvvit%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 153289974,
+    "iupac_name": "[(3R)-2-[(11S)-7,8-difluoro-6,11-dihydrobenzo[c][1]benzothiepin-11-yl]-9,12-dioxospiro[5-oxa-1,2,8-triazatricyclo[8.4.0.03,8]tetradeca-10,13-diene-6,1'-cyclopropane]-11-yl]oxymethyl methyl carbonate",
+    "molecular_formula": "C29H25F2N3O7S",
+    "molecular_weight": "597.6",
+    "canonical_smiles": null,
+    "inchikey": "IVHSRYSBKJOVJK-VWNXMTODSA-N",
+    "rxnorm": {
+      "rxcui": "2099995",
+      "generic_name": "baloxavir marboxil",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4297503",
+    "target_chembl_id": "CHEMBL1169598",
+    "target_name": "Polymerase acidic protein",
+    "mechanism_of_action_chembl": "Polymerase acidic protein inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Suraxavir%20Marboxil+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Suraxavir%20Marboxil+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Suraxavir%20Marboxil+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Influenza",
+    "slug": "influenza"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07113392",
+      "title": "A Study to Evaluate the Safety, Efficacy and Pharmacokinetics of Suraxavir Marboxil for Suspension",
+      "status": "NOT_YET_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07113392",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42568525",
+        "title": "From neuraminidase inhibitors to novel mechanisms: expanding therapeutic strategies against influenza.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42568525/"
+      },
+      {
+        "pmid": "41870058",
+        "title": "A phase I study to evaluate the effect of hepatic impairment on the pharmacokinetics and safety of suraxavir marboxil: a novel oral antiviral for influenza.",
+        "pubdate": "2026 May 6",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41870058/"
+      },
+      {
+        "pmid": "40291342",
+        "title": "Evaluation of drug-drug interaction between Suraxavir Marboxil (GP681) and itraconazole, and assessment of the impact of gene polymorphism.",
+        "pubdate": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40291342/"
+      },
+      {
+        "pmid": "39891005",
+        "title": "Author Correction: Single-dose suraxavir marboxil for acute uncomplicated influenza in adults and adolescents: a multicenter, randomized, double-blind, placebo-controlled phase 3 trial.",
+        "pubdate": "2025 Mar",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39891005/"
+      },
+      {
+        "pmid": "39870350",
+        "title": "Efficacy and safety of single-dose suraxavir marboxil tablet in the treatment of acute uncomplicated influenza in adults: a multi-centre, randomized, double-blind, placebo-controlled phase 2 clinical trial.",
+        "pubdate": "2025 May",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39870350/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "BALOXAVIR",
+        "chembl_id": "CHEMBL4297215",
+        "reason": "same target: Polymerase acidic protein"
+      }
+    ]
+  }
+}

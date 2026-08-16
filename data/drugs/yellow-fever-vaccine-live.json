@@ -1,0 +1,99 @@
+{
+  "drug_name": "Yellow fever vaccine (live)",
+  "slug": "yellow-fever-vaccine-live",
+  "enriched_at": "2026-08-16T08:31:10Z",
+  "source_trial_ids": [
+    "NCT07103148"
+  ],
+  "sponsors": [
+    {
+      "name": "Sanofi",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Sanofi&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "89890",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2108816",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": "Biological vaccine - induces immune response"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Yellow%20fever%20vaccine%20%28live%29+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Yellow%20fever%20vaccine%20%28live%29+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Yellow%20fever%20vaccine%20%28live%29+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Yellow Fever Immunization",
+    "slug": "yellow-fever-immunization"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07103148",
+      "title": "A Phase III Control Study of the Safety and Immunogenicity of vYF in Pediatric Population",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07103148",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "40207772",
+        "title": "TAK-003: development of a tetravalent dengue vaccine.",
+        "pubdate": "2025 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40207772/"
+      },
+      {
+        "pmid": "40019865",
+        "title": "Antigen-specific T cell responses following single and co-administration of tick-borne encephalitis, Japanese encephalitis, and yellow fever virus vaccines: Results from an open-label, non-randomized clinical trial-cohort.",
+        "pubdate": "2025 Feb",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40019865/"
+      },
+      {
+        "pmid": "39293214",
+        "title": "Next generation yellow fever vaccine induces an equivalent immune and transcriptomic profile to the current vaccine: observations from a phase I randomised clinical trial.",
+        "pubdate": "2024 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39293214/"
+      },
+      {
+        "pmid": "39153488",
+        "title": "Safety and immunogenicity of a next-generation live-attenuated yellow fever vaccine produced in a Vero cell line in the USA: a phase 1 randomised, observer-blind, active-controlled, dose-ranging clinical trial.",
+        "pubdate": "2024 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39153488/"
+      },
+      {
+        "pmid": "36969244",
+        "title": "An experimental medicine decipher of a minimum correlate of cellular immunity: Study protocol for a double-blind randomized controlled trial.",
+        "pubdate": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36969244/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

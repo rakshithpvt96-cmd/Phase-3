@@ -1,0 +1,105 @@
+{
+  "drug_name": "Tafenoquine",
+  "slug": "tafenoquine",
+  "enriched_at": "2026-08-16T08:27:26Z",
+  "source_trial_ids": [
+    "NCT06666491"
+  ],
+  "sponsors": [
+    {
+      "name": "GlaxoSmithKline",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=GlaxoSmithKline&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 115358,
+    "iupac_name": "4-N-[2,6-dimethoxy-4-methyl-5-[3-(trifluoromethyl)phenoxy]quinolin-8-yl]pentane-1,4-diamine",
+    "molecular_formula": "C24H28F3N3O3",
+    "molecular_weight": "463.5",
+    "canonical_smiles": null,
+    "inchikey": "LBHLFPGPEGDCJG-UHFFFAOYSA-N",
+    "rxnorm": {
+      "rxcui": "2054023",
+      "generic_name": "tafenoquine",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2364635",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": "Unknown"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Tafenoquine is an 8-aminoquinoline antimalarial drug [see Microbiology ( 12.4 )] .",
+    "pharmacokinetics": "12.3 Pharmacokinetics Absorption A food effect study was not conducted with the 100 mg ARAKODA tablet. In majority of the clinical trials, tafenoquine was administered under fed conditions. Table 5 provides the pharmacokinetics of tafenoquine following single dose administration of 200 mg ARAKODA (two 100-mg ARAKODA tablets) in 65 healthy adult subjects under fed conditions. In this study, ARAKODA was administered with a high-calorie, high-fat meal (approximately 1000 calories with 19% protein, 31% carbohydrate, and 50% fat). Table 5. Mean (%CV) Pharmacokinetic Parameters of Tafenoquine Following Single Oral Administration of Two 100-mg ARAKODA Tablets Under Fed Conditions in Healthy Adult Subjects (N=65) Parameter Value a Coefficient of Variance (CV) b Median and (Range) c Plasma tafenoquine AUC inf increased by 41% when tafenoquine was administered as an investigational capsule formulation with a high-calorie, high-fat meal compared with the fasted state. C max 147 ng/mL (20.7%) a T max 14 hr (6 – 72 hr) b AUC inf 70 hr*mcg/mL (24.6%) a, c Following administration of a single dose of tafenoquine orally under fasted conditions in healthy adult subjects, AUC and C max increased dose proportionally over the dose range from 100 mg to 400 mg. When healthy adult subjects received once-weekly administrations of 200 mg tafenoquine orally for ten weeks without a loading dose under fasting conditions, the mean plasma accumulation ratio of tafenoquine was approximately 4.4. Distribution Tafenoquine is greater than 99.5% bound to protein in humans. The apparent volume of distribution of tafenoquine in healthy adult subjects is 2470 L [Inter-Individual Variability (IIV): 24.1 %]. Elimination The apparent oral clearance of tafenoquine is approximately 4.2 L/hr (IIV: 23.6 %) in healthy adult subjects. The mean terminal half-life following administration of ARAKODA is approximately 16.5 days (range: 10.8 days to 27.3 days) in healthy adult subjects. Metabolism Negligible metabolism of tafenoquine was observed in vitro in human liver microsomes and hepatocytes. Following administration of tafenoquine orally, once daily for three days to healthy adult subjects, unchanged tafenoquine represented the only notable drug-related component in plasma at approximately 3 days following the first dose of tafenoquine. Excretion The full excretion profile of tafenoquine in humans is unknown. Specific Populations The pharmacokinetics of tafenoquine were not significantly impacted by age, sex, ethnicity, and body weight. The effect of renal or hepatic impairment on tafenoquine pharmacokinetics is unknown. Drug Interaction Studies Clinical Studies No clinically significant effects on the pharmacokinetics of substrates of cytochrome P450 isoenzymes (CYP)1A2 (caffeine), CYP2D6 (desipramine), CYP2C9 (flurbiprofen), or CYP3A4 (midazolam) were observed following coadministration with tafenoquine in healthy adult subjects. In Vitro Studies Where Drug Interaction Potential Was Not Further Evaluated Clinically Tafenoquine inhibited metformin transport via human OCT2, MATE1 and MATE2-K transporters [see Drug Interactions ( 7 )] . Tafenoquine is not an inhibitor of human breast cancer resistance protein (BCRP), P-glycoprotein (P-gp), Organic anion transporter 1/3 (OAT1 or OAT3), Organic anion transporting polypeptide 1B1/1B3 (OATP1B1 or OATP1B3) mediated transport at clinically relevant concentrations. Tafenoquine is also not a substrate of human OATP1B1 or OATP1B3 at clinically relevant concentrations. It is inconclusive as to whether tafenoquine is a substrate of P-gp and/or BCRP mediated transport.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE ARAKODA is indicated for the prophylaxis of malaria in patients aged 18 years and older. ARAKODA is an antimalarial indicated for the prophylaxis of malaria in patients aged 18 years and older. ( 1 )",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "Arakoda"
+    ],
+    "openfda_generic_names": [
+      "TAFENOQUINE"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5cf989d5-36f5-4561-a30b-9fcb9deb6b6a",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Malaria, Vivax",
+    "slug": "malaria-vivax"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06666491",
+      "title": "An Interventional Study to Compare the Efficacy and Safety of Tafenoquine (TQ) and Primaquine (PQ) When Either Are Taken Together With Chloroquine (CQ) for the Treatment of P. Vivax Malaria in Indian Participants Aged 2 Years and Older",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06666491",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42373213",
+        "title": "Risk perceptions of high-dose primaquine and tafenoquine among Plasmodium vivax malaria stakeholders in Ethiopia: a qualitative study.",
+        "pubdate": "2026 Jun 29",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42373213/"
+      },
+      {
+        "pmid": "42204711",
+        "title": "Dissemination of EFFORT trial results in Indonesia: a stakeholder meeting report on tafenoquine and primaquine for radical cure of Plasmodium vivax.",
+        "pubdate": "2026 May 27",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42204711/"
+      },
+      {
+        "pmid": "41484619",
+        "title": "Moving towards high-dose primaquine or single-dose tafenoquine for Plasmodium vivax treatment in Cambodia: a meeting report from dissemination of results of the EFFORT trial to stakeholders.",
+        "pubdate": "2026 Jan 3",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41484619/"
+      },
+      {
+        "pmid": "41219866",
+        "title": "Effectiveness of tafenoquine and primaquine for radical cure of Plasmodium vivax: a meeting report from dissemination of results of the EFFORT trial to stakeholders in Pakistan.",
+        "pubdate": "2025 Nov 11",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41219866/"
+      },
+      {
+        "pmid": "41088393",
+        "title": "FocaL mass drug administration for Plasmodium vivax malaria elimination (FLAME): study protocol for an open-label cluster randomized controlled trial in Peru.",
+        "pubdate": "2025 Oct 14",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41088393/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

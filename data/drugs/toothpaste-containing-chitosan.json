@@ -1,0 +1,93 @@
+{
+  "drug_name": "Toothpaste containing chitosan",
+  "slug": "toothpaste-containing-chitosan",
+  "enriched_at": "2026-08-16T08:28:43Z",
+  "source_trial_ids": [
+    "NCT07499115"
+  ],
+  "sponsors": [
+    {
+      "name": "Colgate Palmolive",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Colgate%20Palmolive&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "59038",
+      "generic_name": "chitosan",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL412214",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Toothpaste%20containing%20chitosan+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Toothpaste%20containing%20chitosan+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Toothpaste%20containing%20chitosan+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Plaque, Dental",
+    "slug": "plaque-dental"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07499115",
+      "title": "Efficacy of a Toothpaste in Reducing Plaque, Gingivitis, and Gingival Bleeding",
+      "status": "NOT_YET_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07499115",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "40550352",
+        "title": "Metals, fluoride and bioactive glass on dentin hypersensitivity and quality of life: A 6-month double-blind randomized clinical trial.",
+        "pubdate": "2025 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40550352/"
+      },
+      {
+        "pmid": "39971658",
+        "title": "Hydroxyapatite-Fluoride Toothpastes on Caries Activity: A Triple-Blind Randomized Clinical Trial.",
+        "pubdate": "2025 Apr",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39971658/"
+      },
+      {
+        "pmid": "38453554",
+        "title": "Effects of Hydroxyapatite-Containing Toothpastes on Some Caries-Related Variables: A Randomised Clinical Trial.",
+        "pubdate": "2024 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38453554/"
+      },
+      {
+        "pmid": "35139410",
+        "title": "Efficacy of HAF toothpastes in primary and permanent dentitions. A 2-years triple-blind RCT.",
+        "pubdate": "2022 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35139410/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

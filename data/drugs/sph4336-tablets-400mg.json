@@ -1,0 +1,64 @@
+{
+  "drug_name": "SPH4336 Tablets 400mg",
+  "slug": "sph4336-tablets-400mg",
+  "enriched_at": "2026-08-16T08:25:53Z",
+  "source_trial_ids": [
+    "NCT05744687"
+  ],
+  "sponsors": [
+    {
+      "name": "Shanghai Pharmaceuticals Holding Co., Ltd",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Shanghai%20Pharmaceuticals%20Holding%20Co.%2C%20Ltd&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": null
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL942",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": "Unknown"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=SPH4336%20Tablets%20400mg+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=SPH4336%20Tablets%20400mg+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=SPH4336%20Tablets%20400mg+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Locally Advanced or Metastatic Breast Cancer",
+    "slug": "locally-advanced-or-metastatic-breast-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05744687",
+      "title": "Phase II/III Study of SPH4336 Combined With Letrozole vs Placebo Combined With Letrozole in First-line Treatment of Breast Cancer",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05744687",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

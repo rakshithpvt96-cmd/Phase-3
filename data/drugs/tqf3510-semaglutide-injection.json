@@ -1,0 +1,99 @@
+{
+  "drug_name": "TQF3510 (Semaglutide Injection)",
+  "slug": "tqf3510-semaglutide-injection",
+  "enriched_at": "2026-08-16T08:29:01Z",
+  "source_trial_ids": [
+    "NCT06738979"
+  ],
+  "sponsors": [
+    {
+      "name": "Chia Tai Tianqing Pharmaceutical Group Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Chia%20Tai%20Tianqing%20Pharmaceutical%20Group%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2738519",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4556788",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=TQF3510%20%28Semaglutide%20Injection%29+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=TQF3510%20%28Semaglutide%20Injection%29+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=TQF3510%20%28Semaglutide%20Injection%29+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Obesity",
+    "slug": "obesity"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06738979",
+      "title": "A Clinical Study Comparing Semaglutide Injection and Wegovy® for Weight Management in Obese Subjects",
+      "status": "NOT_YET_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06738979",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "Semaglutide",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Hangzhou Jiuyuan Gene Engineering Co. Ltd.,"
+      },
+      {
+        "name": "Tirzepatide",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Eli Lilly and Company"
+      },
+      {
+        "name": "Placebo",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Eli Lilly and Company"
+      },
+      {
+        "name": "RAY1225",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Guangdong Raynovent Biotech Co., Ltd"
+      },
+      {
+        "name": "Retatrutide",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Eli Lilly and Company"
+      },
+      {
+        "name": "IBI362",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Innovent Biologics (Suzhou) Co. Ltd."
+      }
+    ]
+  }
+}

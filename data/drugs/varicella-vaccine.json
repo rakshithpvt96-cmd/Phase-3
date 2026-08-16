@@ -1,0 +1,99 @@
+{
+  "drug_name": "Varicella Vaccine",
+  "slug": "varicella-vaccine",
+  "enriched_at": "2026-08-16T08:30:34Z",
+  "source_trial_ids": [
+    "NCT07473427"
+  ],
+  "sponsors": [
+    {
+      "name": "Sinovac (Dalian) Vaccine Technology Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Sinovac%20%28Dalian%29%20Vaccine%20Technology%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1292422",
+      "generic_name": "varicella-zoster virus vaccine live (Oka-Merck) strain",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2108573",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": "Biological vaccine - induces immune response"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "DailyMed",
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=73eae9fc-507b-4c9c-883d-63eb2e3cc6f6",
+    "note": "A label exists in DailyMed but structured sections could not be parsed automatically -- see dailymed_url for the full label.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Varicella%20Vaccine+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Varicella%20Vaccine+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Varicella%20Vaccine+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Varicella (Chickenpox)",
+    "slug": "varicella-chickenpox"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07473427",
+      "title": "Immunogenicity and Safety of Varicella Vaccine, Live in Healthy Vietnamese Children",
+      "status": "NOT_YET_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07473427",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42274423",
+        "title": "Live attenuated varicella vaccines in patients treated with tumor necrosis factor-alpha inhibitors: A clinical trial.",
+        "pubdate": "2026 Jun 5",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42274423/"
+      },
+      {
+        "pmid": "42140500",
+        "title": "Long-term immunogenicity and safety of RZV primary vaccination and revaccination in kidney transplant recipients.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42140500/"
+      },
+      {
+        "pmid": "41825190",
+        "title": "Immunogenicity and safety of an investigational varicella zoster vaccine in toddlers aged 12-15 months: results of a phase II, controlled, randomized trial.",
+        "pubdate": "2026 Apr 19",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41825190/"
+      },
+      {
+        "pmid": "41793964",
+        "title": "Annual immunogenicity measurements in randomized clinical trials help reveal heterogeneity in long-term vaccine efficacy: a pooled logistic regression modeling study.",
+        "pubdate": "2026 Apr 11",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41793964/"
+      },
+      {
+        "pmid": "41703694",
+        "title": "Immunogenicity and Safety of Two-dose Schedules With Different Intervals of an ORF7-deficient Live Vaccine Candidate for Varicella: A Randomized, Double-blind, Controlled, Phase 2b Trial.",
+        "pubdate": "2026 Aug 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41703694/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

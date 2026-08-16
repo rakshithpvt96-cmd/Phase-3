@@ -1,0 +1,68 @@
+{
+  "drug_name": "Sulfur Hexafluoride Lipid Type A Microspheres 25 MG Injection Powder for Suspension [LUMASON]",
+  "slug": "sulfur-hexafluoride-lipid-type-a-microspheres-25-mg-injection-powder-for-suspension-lumason",
+  "enriched_at": "2026-08-16T08:26:53Z",
+  "source_trial_ids": [
+    "NCT06400004"
+  ],
+  "sponsors": [
+    {
+      "name": "Bracco Diagnostics, Inc",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Bracco%20Diagnostics%2C%20Inc&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1599225",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1796998",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": "Diagnostic agent"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Sulfur%20Hexafluoride%20Lipid%20Type%20A%20Microspheres%2025%20MG%20Injection%20Powder%20for%20Suspension%20%5BLUMASON%5D+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Sulfur%20Hexafluoride%20Lipid%20Type%20A%20Microspheres%2025%20MG%20Injection%20Powder%20for%20Suspension%20%5BLUMASON%5D+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Sulfur%20Hexafluoride%20Lipid%20Type%20A%20Microspheres%2025%20MG%20Injection%20Powder%20for%20Suspension%20%5BLUMASON%5D+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Heart Diseases",
+    "slug": "heart-diseases"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06400004",
+      "title": "Lumason® Infusion vs. Bolus Administrations",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06400004",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

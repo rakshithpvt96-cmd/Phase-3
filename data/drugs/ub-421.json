@@ -1,0 +1,121 @@
+{
+  "drug_name": "UB-421",
+  "slug": "ub-421",
+  "enriched_at": "2026-08-16T08:29:10Z",
+  "source_trial_ids": [
+    "NCT04406727"
+  ],
+  "sponsors": [
+    {
+      "name": "United BioPharma",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=United%20BioPharma&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2475391",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4297846",
+    "target_chembl_id": "CHEMBL2754",
+    "target_name": "T-cell surface glycoprotein CD4",
+    "mechanism_of_action_chembl": "T-cell surface antigen CD4 inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=UB-421+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=UB-421+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=UB-421+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "HIV-1 Infection",
+    "slug": "hiv-1-infection"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04406727",
+      "title": "UB-421 in Combination With Optimized Background Regimen in Patients With Multi-drug Resistant HIV-1 Infection",
+      "status": "UNKNOWN",
+      "url": "https://clinicaltrials.gov/study/NCT04406727",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "34176425",
+        "title": "Emerging drugs for the treatment of HIV/AIDS: a review of 2019/2020 phase II and III trials.",
+        "pubdate": "2021 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34176425/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "ZANOLIMUMAB",
+        "chembl_id": "CHEMBL2108063",
+        "reason": "same target: T-cell surface glycoprotein CD4"
+      },
+      {
+        "name": "CEDELIZUMAB",
+        "chembl_id": "CHEMBL2108266",
+        "reason": "same target: T-cell surface glycoprotein CD4"
+      },
+      {
+        "name": "IBALIZUMAB",
+        "chembl_id": "CHEMBL1743029",
+        "reason": "same target: T-cell surface glycoprotein CD4"
+      },
+      {
+        "name": "TREGALIZUMAB",
+        "chembl_id": "CHEMBL1743083",
+        "reason": "same target: T-cell surface glycoprotein CD4"
+      },
+      {
+        "name": "CLENOLIXIMAB",
+        "chembl_id": "CHEMBL2108187",
+        "reason": "same target: T-cell surface glycoprotein CD4"
+      },
+      {
+        "name": "PRILIXIMAB",
+        "chembl_id": "CHEMBL2108475",
+        "reason": "same target: T-cell surface glycoprotein CD4"
+      },
+      {
+        "name": "KELIXIMAB",
+        "chembl_id": "CHEMBL2108489",
+        "reason": "same target: T-cell surface glycoprotein CD4"
+      },
+      {
+        "name": "TRX-1",
+        "chembl_id": "CHEMBL2109474",
+        "reason": "same target: T-cell surface glycoprotein CD4"
+      },
+      {
+        "name": "VRC-01LS",
+        "chembl_id": "CHEMBL4298127",
+        "reason": "same target: T-cell surface glycoprotein CD4"
+      }
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "drug_name": "Standard treatment with benznidazole",
+  "slug": "standard-treatment-with-benznidazole",
+  "enriched_at": "2026-08-16T08:26:12Z",
+  "source_trial_ids": [
+    "NCT04897516"
+  ],
+  "sponsors": [
+    {
+      "name": "Laboratorio Elea Phoenix S.A.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Laboratorio%20Elea%20Phoenix%20S.A.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "18994",
+      "generic_name": "benznidazole",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL110",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": "Unknown"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Standard%20treatment%20with%20benznidazole+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Standard%20treatment%20with%20benznidazole+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Standard%20treatment%20with%20benznidazole+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Chagas Disease",
+    "slug": "chagas-disease"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04897516",
+      "title": "Shorter Benznidazole Regimens Compared to the Standard Regimen for Chagas Disease",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04897516",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42468958",
+        "title": "A multicentre randomised, double-blind, double-dummy phase II clinical trial of benznidazole versus nifurtimox in adults with chronic Chagas disease in Brazil, alongside a prospective cohort: the BENBRASIL trial protocol.",
+        "pubdate": "2026 Jul 17",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42468958/"
+      },
+      {
+        "pmid": "41027700",
+        "title": "New regimens of benznidazole for the treatment of chronic Chagas disease in adult participants in indeterminate form or with mild cardiac progression (NuestroBen study): protocol for a phase III randomised, multicentre non-inferiority clinical trial.",
+        "pubdate": "2025 Sep 30",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41027700/"
+      },
+      {
+        "pmid": "38686546",
+        "title": "Drugs in preclinical and early clinical development for the treatment of Chagas´s disease: the current status.",
+        "pubdate": "2024 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38686546/"
+      },
+      {
+        "pmid": "34972765",
+        "title": "New chemotherapy regimens and biomarkers for Chagas disease: the rationale and design of the TESEO study, an open-label, randomised, prospective, phase-2 clinical trial in the Plurinational State of Bolivia.",
+        "pubdate": "2021 Dec 31",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34972765/"
+      },
+      {
+        "pmid": "32293523",
+        "title": "Efficacy and safety assessment of different dosage of benznidazol for the treatment of Chagas disease in chronic phase in adults (MULTIBENZ study): study protocol for a multicenter randomized Phase II non-inferiority clinical trial.",
+        "pubdate": "2020 Apr 15",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32293523/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

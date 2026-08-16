@@ -1,0 +1,68 @@
+{
+  "drug_name": "YCJ-01 Full Spectrum cannbis Extract",
+  "slug": "ycj-01-full-spectrum-cannbis-extract",
+  "enriched_at": "2026-08-16T08:31:03Z",
+  "source_trial_ids": [
+    "NCT07403266"
+  ],
+  "sponsors": [
+    {
+      "name": "Oils4Cure",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Oils4Cure&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1442319",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2108766",
+    "target_chembl_id": "CHEMBL2362984",
+    "target_name": "Voltage-sensitive sodium channel alpha-subunit",
+    "mechanism_of_action_chembl": "Voltage-sensitive sodium channel alpha-subunit blocker"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=YCJ-01%20Full%20Spectrum%20cannbis%20Extract+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=YCJ-01%20Full%20Spectrum%20cannbis%20Extract+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=YCJ-01%20Full%20Spectrum%20cannbis%20Extract+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Tuberous Sclerosis Complex (TSC)",
+    "slug": "tuberous-sclerosis-complex-tsc"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07403266",
+      "title": "Treatment With Full-spectrum Cannabis Extract of Refractory Epilepsy Associated With Tuberous Sclerosis Complex (TSC)",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07403266",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

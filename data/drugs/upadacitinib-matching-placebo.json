@@ -1,0 +1,87 @@
+{
+  "drug_name": "Upadacitinib Matching Placebo",
+  "slug": "upadacitinib-matching-placebo",
+  "enriched_at": "2026-08-16T08:29:41Z",
+  "source_trial_ids": [
+    "NCT05814627"
+  ],
+  "sponsors": [
+    {
+      "name": "AbbVie",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=AbbVie&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2196092",
+      "generic_name": "upadacitinib",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL3622821",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Upadacitinib%20Matching%20Placebo+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Upadacitinib%20Matching%20Placebo+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Upadacitinib%20Matching%20Placebo+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Rheumatoid Arthritis",
+    "slug": "rheumatoid-arthritis"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05814627",
+      "title": "Study to Assess Change in Disease Activity and Adverse Events of Oral Upadacitinib Compared to Subcutaneous Adalimumab in Adult Participants With Moderate to Severe Rheumatoid Arthritis",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT05814627",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42584887",
+        "title": "Upadacitinib for Severe Alopecia Areata in Adults and Adolescents: Two Phase 3 UP-AA Randomized Clinical Trials.",
+        "pubdate": "2026 Aug 12",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42584887/"
+      },
+      {
+        "pmid": "39126596",
+        "title": "Comparative Efficacy and Safety of Upadacitinib vs. Vedolizumab, Ustekinumab, and Tofacitinib After Induction and Maintenance for Ulcerative Colitis: Three Matching-Adjusted Indirect Comparisons.",
+        "pubdate": "2024 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39126596/"
+      },
+      {
+        "pmid": "36725768",
+        "title": "Clinical Efficacy of Sarilumab Versus Upadacitinib Over 12 weeks: An Indirect Treatment Comparison.",
+        "pubdate": "2023 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36725768/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

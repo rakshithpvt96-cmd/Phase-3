@@ -1,0 +1,95 @@
+{
+  "drug_name": "STN1013800 ophthalmic solution",
+  "slug": "stn1013800-ophthalmic-solution",
+  "enriched_at": "2026-08-16T08:26:28Z",
+  "source_trial_ids": [
+    "NCT06683651"
+  ],
+  "sponsors": [
+    {
+      "name": "Santen Pharmaceutical Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Santen%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": null
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2108251",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=STN1013800%20ophthalmic%20solution+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=STN1013800%20ophthalmic%20solution+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=STN1013800%20ophthalmic%20solution+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Blepharoptosis",
+    "slug": "blepharoptosis"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06683651",
+      "title": "A Study in Chinese Patients With Acquired Blepharoptosis",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06683651",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42470519",
+        "title": "Improvement in Visual-Tasking Daily Living Activities and Work Productivity in Patients with Dry Eye Disease: Integrated Analysis of COMET Studies.",
+        "pubdate": "2026 Jul 18",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42470519/"
+      },
+      {
+        "pmid": "42436351",
+        "title": "Early clinical outcomes of keratoplasty using donor corneas preserved in sinasol (ZiSol) versus optisol-GS.",
+        "pubdate": "2026 Jul 12",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42436351/"
+      },
+      {
+        "pmid": "42418463",
+        "title": "Pascal selective laser trabeculoplasty (PSLT) in the treatment of ocular hypertension and open-angle glaucoma compared to travoprost eye drops: A non-inferiority clinical trial.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42418463/"
+      },
+      {
+        "pmid": "42298273",
+        "title": "Efficacy and safety of sepetaprost in patients with primary open-angle glaucoma or ocular hypertension: results from the randomised, phase 3 ANGEL-J1 study.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42298273/"
+      },
+      {
+        "pmid": "42298272",
+        "title": "Long-term safety and efficacy of sepetaprost, with or without timolol, in patients with open-angle glaucoma or ocular hypertension: results from the randomised, phase 3 ANGEL-J2 study.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42298272/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

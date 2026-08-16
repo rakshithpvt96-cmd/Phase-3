@@ -1,0 +1,119 @@
+{
+  "drug_name": "zilucoplan (RA101495)",
+  "slug": "zilucoplan-ra101495",
+  "enriched_at": "2026-08-16T08:31:36Z",
+  "source_trial_ids": [
+    "NCT04225871"
+  ],
+  "sponsors": [
+    {
+      "name": "UCB Biopharma SRL",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=UCB%20Biopharma%20SRL&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2672489",
+      "generic_name": "zilucoplan",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4298207",
+    "target_chembl_id": "CHEMBL2364163",
+    "target_name": "Complement C5",
+    "mechanism_of_action_chembl": "Complement C5 inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=zilucoplan%20%28RA101495%29+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=zilucoplan%20%28RA101495%29+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=zilucoplan%20%28RA101495%29+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Generalized Myasthenia Gravis",
+    "slug": "generalized-myasthenia-gravis"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04225871",
+      "title": "Open-Label Extension of Zilucoplan in Subjects With Generalized Myasthenia Gravis",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT04225871",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "ECULIZUMAB",
+        "chembl_id": "CHEMBL1201828",
+        "reason": "same target: Complement C5"
+      },
+      {
+        "name": "PEXELIZUMAB",
+        "chembl_id": "CHEMBL2107979",
+        "reason": "same target: Complement C5"
+      },
+      {
+        "name": "VILOBELIMAB",
+        "chembl_id": "CHEMBL2109636",
+        "reason": "same target: Complement C5"
+      },
+      {
+        "name": "RAVULIZUMAB",
+        "chembl_id": "CHEMBL3989986",
+        "reason": "same target: Complement C5"
+      },
+      {
+        "name": "TESIDOLUMAB",
+        "chembl_id": "CHEMBL4298012",
+        "reason": "same target: Complement C5"
+      },
+      {
+        "name": "NOMACOPAN",
+        "chembl_id": "CHEMBL4297928",
+        "reason": "same target: Complement C5"
+      },
+      {
+        "name": "OLENDALIZUMAB",
+        "chembl_id": "CHEMBL3990025",
+        "reason": "same target: Complement C5"
+      },
+      {
+        "name": "POZELIMAB",
+        "chembl_id": "CHEMBL4298086",
+        "reason": "same target: Complement C5"
+      },
+      {
+        "name": "CROVALIMAB",
+        "chembl_id": "CHEMBL4594316",
+        "reason": "same target: Complement C5"
+      },
+      {
+        "name": "ZILUCOPLAN SODIUM",
+        "chembl_id": "CHEMBL5315048",
+        "reason": "same target: Complement C5"
+      }
+    ]
+  }
+}
