@@ -1,0 +1,95 @@
+{
+  "drug_name": "QRX003, 4% Lotion",
+  "slug": "qrx003-4-lotion",
+  "enriched_at": "2026-08-16T08:02:41Z",
+  "source_trial_ids": [
+    "NCT06953466"
+  ],
+  "sponsors": [
+    {
+      "name": "Quoin Pharmaceuticals",
+      "ticker": "QNRX",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001671502&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": null
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2108158",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=QRX003%2C%204%25%20Lotion+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=QRX003%2C%204%25%20Lotion+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=QRX003%2C%204%25%20Lotion+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Netherton Syndrome",
+    "slug": "netherton-syndrome"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06953466",
+      "title": "Clinical Study of QRX003 Lotion in Subjects With Netherton Syndrome",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06953466",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42105175",
+        "title": "Topical Antibiotic Monotherapy Only Provides Mild Benefit for Patients with Acne Vulgaris: A Systematic Review and Network Meta-analysis.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42105175/"
+      },
+      {
+        "pmid": "41736049",
+        "title": "Efficacy and safety of the Exfoliate-Dissolve-Repair skin care approach in the treatment of keratosis pilaris: a randomized controlled clinical trial study protocol.",
+        "pubdate": "2026 Feb 24",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41736049/"
+      },
+      {
+        "pmid": "40991871",
+        "title": "Efficacy and Safety of Runzaozhiyang Lotion for Chronic Hand Eczema: Protocol for a Randomized Controlled Trial.",
+        "pubdate": "2025 Sep 24",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40991871/"
+      },
+      {
+        "pmid": "40599040",
+        "title": "Use of 5% Topical Minoxidil Application for Telogen Effluvium: An Open-Label Single-Arm Clinical Trial.",
+        "pubdate": "2025 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40599040/"
+      },
+      {
+        "pmid": "40493919",
+        "title": "Efficacy and Safety of Haidebao Body Lotion in Patients With Mild Atopic Dermatitis: Protocol for a Multicenter, Double-Blind, Randomized, Placebo-Controlled Trial.",
+        "pubdate": "2025 Jun 10",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40493919/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

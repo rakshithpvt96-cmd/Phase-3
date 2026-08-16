@@ -1,0 +1,126 @@
+{
+  "drug_name": "Omeprazole 20Mg Capsule",
+  "slug": "omeprazole-20mg-capsule",
+  "enriched_at": "2026-08-16T07:55:21Z",
+  "source_trial_ids": [
+    "NCT04069286"
+  ],
+  "sponsors": [
+    {
+      "name": "Infan Industria Quimica Farmaceutica Nacional",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Infan%20Industria%20Quimica%20Farmaceutica%20Nacional&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2696145",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1503",
+    "target_chembl_id": "CHEMBL2095173",
+    "target_name": "Potassium-transporting ATPase",
+    "mechanism_of_action_chembl": "Potassium-transporting ATPase inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Omeprazole%2020Mg%20Capsule+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Omeprazole%2020Mg%20Capsule+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Omeprazole%2020Mg%20Capsule+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Dyspepsia",
+    "slug": "dyspepsia"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04069286",
+      "title": "EFFICACY OF ORAL AROEIRA (Schinus Terebinthifolia Raddi) COMPARED TO OMEPRAZOLE IN DYSPEPPSIA",
+      "status": "NOT_YET_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04069286",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "15230632",
+        "title": "Omeprazole/antacid-powder suspension--Santarus: Acitrel, Rapinex Powder for oral suspension, SAN 05.",
+        "pubdate": "2004",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15230632/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "DEXLANSOPRAZOLE",
+        "chembl_id": "CHEMBL1201863",
+        "reason": "same target: Potassium-transporting ATPase"
+      },
+      {
+        "name": "OMEPRAZOLE MAGNESIUM",
+        "chembl_id": "CHEMBL1567328",
+        "reason": "same target: Potassium-transporting ATPase"
+      },
+      {
+        "name": "RABEPRAZOLE SODIUM",
+        "chembl_id": "CHEMBL1200930",
+        "reason": "same target: Potassium-transporting ATPase"
+      },
+      {
+        "name": "PANTOPRAZOLE SODIUM",
+        "chembl_id": "CHEMBL3989559",
+        "reason": "same target: Potassium-transporting ATPase"
+      },
+      {
+        "name": "LANSOPRAZOLE",
+        "chembl_id": "CHEMBL480",
+        "reason": "same target: Potassium-transporting ATPase"
+      },
+      {
+        "name": "ESOMEPRAZOLE SODIUM",
+        "chembl_id": "CHEMBL1200470",
+        "reason": "same target: Potassium-transporting ATPase"
+      },
+      {
+        "name": "ESOMEPRAZOLE MAGNESIUM",
+        "chembl_id": "CHEMBL5314366",
+        "reason": "same target: Potassium-transporting ATPase"
+      },
+      {
+        "name": "ESOMEPRAZOLE STRONTIUM",
+        "chembl_id": "CHEMBL2146140",
+        "reason": "same target: Potassium-transporting ATPase"
+      },
+      {
+        "name": "VONOPRAZAN FUMARATE",
+        "chembl_id": "CHEMBL2064032",
+        "reason": "same target: Potassium-transporting ATPase"
+      },
+      {
+        "name": "TEGOPRAZAN",
+        "chembl_id": "CHEMBL4297583",
+        "reason": "same target: Potassium-transporting ATPase"
+      }
+    ]
+  }
+}

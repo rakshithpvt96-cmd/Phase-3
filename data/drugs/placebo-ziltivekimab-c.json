@@ -1,0 +1,135 @@
+{
+  "drug_name": "Placebo (Ziltivekimab C)",
+  "slug": "placebo-ziltivekimab-c",
+  "enriched_at": "2026-08-16T07:59:06Z",
+  "source_trial_ids": [
+    "NCT05021835"
+  ],
+  "sponsors": [
+    {
+      "name": "Novo Nordisk A/S",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Novo%20Nordisk%20A/S&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "8375",
+      "generic_name": "placebo",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4297732",
+    "target_chembl_id": "CHEMBL1795129",
+    "target_name": "Interleukin-6",
+    "mechanism_of_action_chembl": "Interleukin-6 inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Placebo%20%28Ziltivekimab%20C%29+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Placebo%20%28Ziltivekimab%20C%29+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Placebo%20%28Ziltivekimab%20C%29+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Cardiovascular Risk",
+    "slug": "cardiovascular-risk"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05021835",
+      "title": "ZEUS - A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With Cardiovascular Disease, Chronic Kidney Disease and Inflammation",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT05021835",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "41369941",
+        "title": "Rationale, Design, and Baseline Clinical Characteristics of the Ziltivekimab Cardiovascular Outcomes Trial: Interleukin-6 Inhibition and Atherosclerotic Event Rate Reduction.",
+        "pubdate": "2026 Jan 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41369941/"
+      },
+      {
+        "pmid": "39699771",
+        "title": "\"Anti-inflammatory Therapies in Atherosclerosis - Where are we going?\".",
+        "pubdate": "2024 Dec 19",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39699771/"
+      },
+      {
+        "pmid": "38088558",
+        "title": "Effect of Ziltivekimab on Determinants of Hemoglobin in Patients with CKD Stage 3-5: An Analysis of a Randomized Trial (RESCUE).",
+        "pubdate": "2024 Jan 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38088558/"
+      },
+      {
+        "pmid": "36449307",
+        "title": "Association of Interleukin 6 Inhibition With Ziltivekimab and the Neutrophil-Lymphocyte Ratio: A Secondary Analysis of the RESCUE Clinical Trial.",
+        "pubdate": "2023 Feb 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36449307/"
+      },
+      {
+        "pmid": "33272965",
+        "title": "Ziltivekimab for Treatment of Anemia of Inflammation in Patients on Hemodialysis: Results from a Phase 1/2 Multicenter, Randomized, Double-Blind, Placebo-Controlled Trial.",
+        "pubdate": "2021 Jan",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33272965/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "SILTUXIMAB",
+        "chembl_id": "CHEMBL1743070",
+        "reason": "same target: Interleukin-6"
+      },
+      {
+        "name": "SIRUKUMAB",
+        "chembl_id": "CHEMBL1743071",
+        "reason": "same target: Interleukin-6"
+      },
+      {
+        "name": "OLOKIZUMAB",
+        "chembl_id": "CHEMBL1743050",
+        "reason": "same target: Interleukin-6"
+      },
+      {
+        "name": "CLAZAKIZUMAB",
+        "chembl_id": "CHEMBL2108589",
+        "reason": "same target: Interleukin-6"
+      },
+      {
+        "name": "ELSILIMOMAB",
+        "chembl_id": "CHEMBL2108591",
+        "reason": "same target: Interleukin-6"
+      },
+      {
+        "name": "PACIBEKITUG",
+        "chembl_id": "CHEMBL6068160",
+        "reason": "same target: Interleukin-6"
+      },
+      {
+        "name": "MRA 003 US",
+        "chembl_id": "CHEMBL2109615",
+        "reason": "same target: Interleukin-6"
+      }
+    ]
+  }
+}

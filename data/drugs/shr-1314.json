@@ -1,0 +1,138 @@
+{
+  "drug_name": "SHR-1314",
+  "slug": "shr-1314",
+  "enriched_at": "2026-08-16T08:05:18Z",
+  "source_trial_ids": [
+    "NCT06833307"
+  ],
+  "sponsors": [
+    {
+      "name": "Suzhou Suncadia Biopharmaceuticals Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Suzhou%20Suncadia%20Biopharmaceuticals%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2670812",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4298102",
+    "target_chembl_id": "CHEMBL3390822",
+    "target_name": "Interleukin-17A",
+    "mechanism_of_action_chembl": "Interleukin 17A inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=SHR-1314+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=SHR-1314+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=SHR-1314+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Children and Adolescents Aged 6 to 18 With Moderate-to-Severe Plaque Psoriasis",
+    "slug": "children-and-adolescents-aged-6-to-18-with-moderate-to-severe-plaque-psoriasis"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06833307",
+      "title": "The Efficacy and Safety of SHR-1314 in the Treatment of Pediatric Patients of Age 6 to <18 Years With Moderate to Severe Plaque Psoriasis",
+      "status": "NOT_YET_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06833307",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "41632483",
+        "title": "Vunakizumab in patients with active psoriatic arthritis: a multicentre, randomized, double-blind, placebo-controlled, phase 2 study.",
+        "pubdate": "2026 Feb 4",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41632483/"
+      },
+      {
+        "pmid": "40947125",
+        "title": "Safety, pharmacokinetics, and bioequivalence of vunakizumab injection, a specific dermatitis drug, in healthy Chinese volunteers: an open-label, randomized, two-stage, two-sequence cross-over study.",
+        "pubdate": "2025 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40947125/"
+      },
+      {
+        "pmid": "35026342",
+        "title": "A multicenter, randomized, double-blinded, placebo-controlled, dose-ranging study evaluating the efficacy and safety of vunakizumab in patients with moderate-to-severe plaque psoriasis.",
+        "pubdate": "2022 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35026342/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "SECUKINUMAB",
+        "chembl_id": "CHEMBL1743068",
+        "reason": "same target: Interleukin-17A"
+      },
+      {
+        "name": "IXEKIZUMAB",
+        "chembl_id": "CHEMBL1743034",
+        "reason": "same target: Interleukin-17A"
+      },
+      {
+        "name": "AFASEVIKUMAB",
+        "chembl_id": "CHEMBL2109469",
+        "reason": "same target: Interleukin-17A"
+      },
+      {
+        "name": "PERAKIZUMAB",
+        "chembl_id": "CHEMBL2109470",
+        "reason": "same target: Interleukin-17A"
+      },
+      {
+        "name": "CJM-112",
+        "chembl_id": "CHEMBL4297926",
+        "reason": "same target: Interleukin-17A"
+      },
+      {
+        "name": "BIMEKIZUMAB",
+        "chembl_id": "CHEMBL4297700",
+        "reason": "same target: Interleukin-17A"
+      },
+      {
+        "name": "M-1095",
+        "chembl_id": "CHEMBL4298023",
+        "reason": "same target: Interleukin-17A"
+      },
+      {
+        "name": "REMTOLUMAB",
+        "chembl_id": "CHEMBL4297863",
+        "reason": "same target: Interleukin-17A"
+      },
+      {
+        "name": "IZOKIBEP",
+        "chembl_id": "CHEMBL4297686",
+        "reason": "same target: Interleukin-17A"
+      },
+      {
+        "name": "TIBULIZUMAB",
+        "chembl_id": "CHEMBL3990000",
+        "reason": "same target: Interleukin-17A"
+      }
+    ]
+  }
+}

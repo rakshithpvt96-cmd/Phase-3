@@ -1,0 +1,150 @@
+{
+  "drug_name": "Propofol Injection",
+  "slug": "propofol-injection",
+  "enriched_at": "2026-08-16T07:59:38Z",
+  "source_trial_ids": [
+    "NCT07036419"
+  ],
+  "sponsors": [
+    {
+      "name": "Jiangsu HengRui Medicine Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Jiangsu%20HengRui%20Medicine%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1808216",
+      "generic_name": "propofol Injection",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL526",
+    "target_chembl_id": "CHEMBL2093872",
+    "target_name": "GABA-A receptor; anion channel",
+    "mechanism_of_action_chembl": "GABA-A receptor; anion channel positive allosteric modulator"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Propofol%20Injection+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Propofol%20Injection+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Propofol%20Injection+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Operative Sedation of Pediatric",
+    "slug": "operative-sedation-of-pediatric"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07036419",
+      "title": "A Trial of Remimazolam for Intraoperative Sedation in Pediatric and Adolescent Patients",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT07036419",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42517053",
+        "title": "Ciprofol versus Propofol Combined with Alfentanil for Respiratory Adverse Events in Overweight Patients Undergoing Painless Gastroscopy: A Randomized Controlled Trial.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42517053/"
+      },
+      {
+        "pmid": "42438797",
+        "title": "Comparison of the Efficacy of Ciprofol and Propofol for Rapid Sequence Induction and Intubation in Elective Non-Cardiac Surgery: A Prospective, Randomized, Non-Inferiority Trial.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42438797/"
+      },
+      {
+        "pmid": "42387086",
+        "title": "Efficacy and Safety of Ciprofol Versus Propofol for Anesthesia in Older Patients: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42387086/"
+      },
+      {
+        "pmid": "42374130",
+        "title": "Comparative sedative effects of intravenous etomidate/fentanyl/midazolam versus propofol/fentanyl/midazolam combination for dental treatment of uncooperative children: a randomized clinical trial.",
+        "pubdate": "2026 Jun 29",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42374130/"
+      },
+      {
+        "pmid": "42304536",
+        "title": "Remimazolam vs. propofol for prevention of postoperative nausea and vomiting in laparoscopic gynecological surgery: a randomized non-inferiority trial.",
+        "pubdate": "2026 Jun 16",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42304536/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "METHOXYFLURANE",
+        "chembl_id": "CHEMBL1341",
+        "reason": "same target: GABA-A receptor; anion channel"
+      },
+      {
+        "name": "FLUMAZENIL",
+        "chembl_id": "CHEMBL407",
+        "reason": "same target: GABA-A receptor; anion channel"
+      },
+      {
+        "name": "CLORAZEPATE DIPOTASSIUM",
+        "chembl_id": "CHEMBL2096631",
+        "reason": "same target: GABA-A receptor; anion channel"
+      },
+      {
+        "name": "CHLORDIAZEPOXIDE",
+        "chembl_id": "CHEMBL451",
+        "reason": "same target: GABA-A receptor; anion channel"
+      },
+      {
+        "name": "CHLORDIAZEPOXIDE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1200703",
+        "reason": "same target: GABA-A receptor; anion channel"
+      },
+      {
+        "name": "DIAZEPAM",
+        "chembl_id": "CHEMBL12",
+        "reason": "same target: GABA-A receptor; anion channel"
+      },
+      {
+        "name": "ESZOPICLONE",
+        "chembl_id": "CHEMBL1522",
+        "reason": "same target: GABA-A receptor; anion channel"
+      },
+      {
+        "name": "OXAZEPAM",
+        "chembl_id": "CHEMBL568",
+        "reason": "same target: GABA-A receptor; anion channel"
+      },
+      {
+        "name": "MEPROBAMATE",
+        "chembl_id": "CHEMBL979",
+        "reason": "same target: GABA-A receptor; anion channel"
+      },
+      {
+        "name": "CLOBAZAM",
+        "chembl_id": "CHEMBL70418",
+        "reason": "same target: GABA-A receptor; anion channel"
+      }
+    ]
+  }
+}

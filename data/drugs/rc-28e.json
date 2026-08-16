@@ -1,0 +1,68 @@
+{
+  "drug_name": "RC-28E",
+  "slug": "rc-28e",
+  "enriched_at": "2026-08-16T08:03:23Z",
+  "source_trial_ids": [
+    "NCT05885503"
+  ],
+  "sponsors": [
+    {
+      "name": "RemeGen Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=RemeGen%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2735561",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL451702",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=RC-28E+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=RC-28E+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=RC-28E+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Diabetic Macular Edema",
+    "slug": "diabetic-macular-edema"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05885503",
+      "title": "Efficacy and Safety of RC28-E Versus Aflibercept in Diabetic Macular Edema",
+      "status": "UNKNOWN",
+      "url": "https://clinicaltrials.gov/study/NCT05885503",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

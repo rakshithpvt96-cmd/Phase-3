@@ -1,0 +1,136 @@
+{
+  "drug_name": "Odevixibat",
+  "slug": "odevixibat",
+  "enriched_at": "2026-08-16T07:55:11Z",
+  "source_trial_ids": [
+    "NCT04336722"
+  ],
+  "sponsors": [
+    {
+      "name": "Albireo, an Ipsen Company",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Albireo%2C%20an%20Ipsen%20Company&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 10153627,
+    "iupac_name": "(2S)-2-[[(2R)-2-[[2-[(3,3-dibutyl-7-methylsulfanyl-1,1-dioxo-5-phenyl-2,4-dihydro-1lambda6,2,5-benzothiadiazepin-8-yl)oxy]acetyl]amino]-2-(4-hydroxyphenyl)acetyl]amino]butanoic acid",
+    "molecular_formula": "C37H48N4O8S2",
+    "molecular_weight": "740.9",
+    "canonical_smiles": null,
+    "inchikey": "XULSCZPZVQIMFM-IPZQJPLYSA-N",
+    "rxnorm": {
+      "rxcui": "2563966",
+      "generic_name": "odevixibat",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL5315120",
+    "target_chembl_id": "CHEMBL2778",
+    "target_name": "Ileal sodium/bile acid cotransporter",
+    "mechanism_of_action_chembl": "Ileal bile acid transporter inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Odevixibat is a reversible inhibitor of the ileal bile acid transporter (IBAT). It decreases the reabsorption of bile acids (primarily the salt forms) from the terminal ileum . Pruritus is a common symptom in patients with PFIC and ALGS; the pathophysiology of pruritus in patients with PFIC is not completely understood. Although the complete mechanism by which odevixibat improves pruritus in both PFIC and ALGS patients is unknown, it may involve inhibition of the IBAT, which results in decreased reuptake of bile salts, as observed by a decrease in serum bile acids [see Clinical Pharmacology (12.2) ] .",
+    "pharmacokinetics": "12.3 Pharmacokinetics In pediatric patients with PFIC, 6 months to 17 years of age who received BYLVAY 40 mcg/kg or 120 mcg/kg once daily with food in the morning, the measurable odevixibat concentrations ranged from 0.06 to 0.72 ng/mL, and odevixibat concentrations were below the limit of quantification (0.05 ng/mL) in the majority of plasma samples. In pediatric patients with ALGS who received BYLVAY 120 mcg/kg once daily with food in the morning, the measurable odevixibat concentrations ranged from 0.05 to 3.4 ng/mL. Following single and repeated oral administration of odevixibat from 0.1 to 3 mg in healthy adults, plasma concentrations of odevixibat were mostly below the limit of quantification (0.05 ng/mL); therefore, AUC and peak plasma concentration (C max ) could not be calculated. Following a single administration of odevixibat 7.2 mg in healthy adults, the mean (%CV) C max and AUC 0-24h were 0.47 ng/mL (34.8) and 2.19 ng∙h/mL (36.2), respectively. No accumulation of odevixibat was observed following once-daily dosing. Absorption Odevixibat is minimally absorbed following oral administration. Following a single administration of odevixibat 7.2 mg in healthy adults, odevixibat C max is reached between 1 to 5 hours. Sprinkle on Applesauce When odevixibat 9.6 mg was administered after sprinkling the pellets on applesauce, decreases of 39% and 35% in C max and AUC 0-24h , respectively, and delayed median T max from 3 hours to 4.5 hours were observed compared to administration of whole capsules (eight 1200 mcg capsules) under fasted conditions. The effect of sprinkling on soft food on systemic exposure is not clinically significant [see Dosage and Administration (2.3) ]. Effect of Food Concomitant administration of a high-fat meal (800-1000 calories with approximately 50% of total caloric content of the meal from fat) with a single dose of odevixibat 9.6 mg delayed median T max from 3 hours to 4.5 hours and resulted in decreases of 72% and 62% in C max and AUC 0-24h , respectively, compared to administration under fasted conditions in healthy adults. The effect of food on the changes of systemic exposures to odevixibat is not clinically significant [see Dosage and Administration (2.3) ]. Distribution Human plasma protein binding of odevixibat is greater than 99% in vitro. Elimination Following a single oral dose of 7.2 mg odevixibat in healthy adults, the mean half-life (t 1/2 ) was 2.36 hours. Metabolism In vitro, odevixibat was metabolized via mono-hydroxylation. Excretion Following a single radiolabeled odevixibat 3 mg oral dose in healthy adults, 82.9% of the dose was recovered in feces (97% unchanged) and less than 0.002% in the urine. Drug Interaction Studies Effect of Other Drugs on Odevixibat Odevixibat is a substrate of P-glycoprotein (P-gp) but not a substrate of breast cancer resistance protein (BCRP). Coadministration of itraconazole (a strong P-gp inhibitor) with a single dose of BYLVAY 7.2 mg increased odevixibat AUC 0-24h by 66% and C max by 52%, which is not expected to have a clinically significant effect. Effect of Odevixibat on Other Drugs In in vitro studies, odevixibat was not an inhibitor of CYP isoforms 1A2, 2B6, 2C8, 2C9, 2C19, or 2D6 nor an inducer of CYP isoforms 1A2, 2B6, or 3A4. Concomitant use of BYLVAY 7.2 mg once daily for 4 days with oral midazolam (a CYP3A4 substrate) in healthy adults decreased the AUC 0-24h of midazolam and 1-OH midazolam by 29% and 13%, respectively, which is not expected to have a clinically relevant effect. In in vitro studies, odevixibat did not inhibit the transporters P-gp; BCRP; organic anion transporter polypeptide 1B1 and 1B3(OATP1B1 and OATP1B3); organic anion transporter (OAT)1, OAT3; organic cation transporter 2 (OCT2), multidrug and toxin extrusion transporter 1 and 2K (MATE1 and MATE2K). In a clinical drug interaction study with a lipophilic combination oral contraceptive containing ethinyl estradiol (EE) (0.03 mg) and levonorgestrel (LVN) (0.15 mg) conducted in healthy adult females, concomitant use of odevixibat had no impact on the AUC of LVN and decreased the AUC of EE by 17%, which is not expected to have a clinically relevant effect.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE BYLVAY is an ileal bile acid transporter (IBAT) inhibitor indicated for: Progressive Familial Intrahepatic Cholestasis (PFIC) the treatment of pruritus in patients 3 months of age and older with progressive familial intrahepatic cholestasis (PFIC). ( 1.1 ) Limitation of Use : BYLVAY is not recommended in a subgroup of PFIC type 2 patients with specific ABCB11 variants resulting in non-functional or complete absence of the bile salt export pump protein. ( 12.5 , 14.1 ) Alagille Syndrome (ALGS) the treatment of cholestatic pruritus in patients 12 months of age and older with Alagille syndrome (ALGS). ( 1.2 ) 1.1 Progressive Familial Intrahepatic Cholestasis (PFIC) BYLVAY is indicated for the treatment of pruritus in patients 3 months of age and older with PFIC. Limitations of Use BYLVAY is not recommended in a subgroup of PFIC type 2 patients with specific ABCB11 variants resulting in non-functional or complete absence of the bile salt export pump (BSEP) protein [see Clinical Pharmacology (12.5) and Clinical Studies (14.1) ]. 1.2 Alagille Syndrome (ALGS) BYLVAY is indicated for the treatment of cholestatic pruritus in patients 12 months of age and older with ALGS.",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "Bylvay"
+    ],
+    "openfda_generic_names": [
+      "ODEVIXIBAT"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=151f1d3e-2bf4-47ce-b1be-a892de3258fa",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Biliary Atresia",
+    "slug": "biliary-atresia"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04336722",
+      "title": "Efficacy and Safety of Odevixibat in Children With Biliary Atresia Who Have Undergone a Kasai HPE (BOLD)",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT04336722",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "41953994",
+        "title": "Review Article: Ileal Bile Acid Transport (IBAT) Inhibitors as an Emerging Treatment for Cholestatic Liver Disease.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41953994/"
+      },
+      {
+        "pmid": "41025998",
+        "title": "Ileal bile acid transporter inhibitors in Alagille syndrome and Progressive Familial Intrahepatic Cholestasis: A systematic review into dose-response.",
+        "pubdate": "2026 Jan",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41025998/"
+      },
+      {
+        "pmid": "41401273",
+        "title": "",
+        "pubdate": "2025 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41401273/"
+      },
+      {
+        "pmid": "40544071",
+        "title": "Indirect Comparison of Maralixibat and Odevixibat for the Treatment of Progressive Familial Intrahepatic Cholestasis.",
+        "pubdate": "2025 Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40544071/"
+      },
+      {
+        "pmid": "38670135",
+        "title": "Efficacy and safety of odevixibat in patients with Alagille syndrome (ASSERT): a phase 3, double-blind, randomised, placebo-controlled trial.",
+        "pubdate": "2024 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38670135/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "ELOBIXIBAT",
+        "chembl_id": "CHEMBL3039515",
+        "reason": "same target: Ileal sodium/bile acid cotransporter"
+      },
+      {
+        "name": "MARALIXIBAT",
+        "chembl_id": "CHEMBL363392",
+        "reason": "same target: Ileal sodium/bile acid cotransporter"
+      },
+      {
+        "name": "ODEVIXIBAT",
+        "chembl_id": "CHEMBL4297588",
+        "reason": "same target: Ileal sodium/bile acid cotransporter"
+      },
+      {
+        "name": "VOLIXIBAT",
+        "chembl_id": "CHEMBL3707222",
+        "reason": "same target: Ileal sodium/bile acid cotransporter"
+      },
+      {
+        "name": "LINERIXIBAT",
+        "chembl_id": "CHEMBL2387408",
+        "reason": "same target: Ileal sodium/bile acid cotransporter"
+      },
+      {
+        "name": "MARALIXIBAT CHLORIDE",
+        "chembl_id": "CHEMBL17879",
+        "reason": "same target: Ileal sodium/bile acid cotransporter"
+      }
+    ]
+  }
+}

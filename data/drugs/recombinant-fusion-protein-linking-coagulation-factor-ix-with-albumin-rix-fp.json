@@ -1,0 +1,150 @@
+{
+  "drug_name": "Recombinant fusion protein linking coagulation factor IX with albumin (rIX-FP)",
+  "slug": "recombinant-fusion-protein-linking-coagulation-factor-ix-with-albumin-rix-fp",
+  "enriched_at": "2026-08-16T08:03:34Z",
+  "source_trial_ids": [
+    "NCT06399289"
+  ],
+  "sponsors": [
+    {
+      "name": "CSL Behring",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=CSL%20Behring&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1743992",
+      "generic_name": "albutrepenonacog alfa",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2109205",
+    "target_chembl_id": "CHEMBL2016",
+    "target_name": "Coagulation factor IX",
+    "mechanism_of_action_chembl": "Coagulation factor IX exogenous protein"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Recombinant%20fusion%20protein%20linking%20coagulation%20factor%20IX%20with%20albumin%20%28rIX-FP%29+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Recombinant%20fusion%20protein%20linking%20coagulation%20factor%20IX%20with%20albumin%20%28rIX-FP%29+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Recombinant%20fusion%20protein%20linking%20coagulation%20factor%20IX%20with%20albumin%20%28rIX-FP%29+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Hemophilia B",
+    "slug": "hemophilia-b"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06399289",
+      "title": "Recombinant Fusion Protein Linking Coagulation Factor IX With Albumin (rIX-FP) in Chinese Subjects With Hemophilia B Previously Treated With FIX Therapy",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT06399289",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "37232041",
+        "title": "Assessment of joint bleeding and target joints in patients with severe or moderately severe hemophilia B (factor IX ≤2%) receiving prophylaxis with rIX-FP in the PROLONG-9FP clinical trial program.",
+        "pubdate": "2023 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37232041/"
+      },
+      {
+        "pmid": "32542961",
+        "title": "High adherence to prophylaxis regimens in haemophilia B patients receiving rIX-FP: Evidence from clinical trials and real-world practice.",
+        "pubdate": "2020 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32542961/"
+      },
+      {
+        "pmid": "32185782",
+        "title": "Long-Term Safety and Efficacy of Recombinant Coagulation Factor IX Albumin Fusion Protein (rIX-FP) in Previously Treated Pediatric Patients with Hemophilia B: Results from a Phase 3b Extension Study.",
+        "pubdate": "2020 Apr",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32185782/"
+      },
+      {
+        "pmid": "32078256",
+        "title": "Long-term safety and efficacy of rIX-FP prophylaxis with extended dosing intervals up to 21 days in adults/adolescents with hemophilia B.",
+        "pubdate": "2020 May",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32078256/"
+      },
+      {
+        "pmid": "27583313",
+        "title": "Long-acting recombinant fusion protein linking coagulation factor IX with albumin (rIX-FP) in children. Results of a phase 3 trial.",
+        "pubdate": "2016 Sep 27",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27583313/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "PEGNIVACOGIN",
+        "chembl_id": "CHEMBL2107870",
+        "reason": "same target: Coagulation factor IX"
+      },
+      {
+        "name": "FIDANACOGENE ELAPARVOVEC",
+        "chembl_id": "CHEMBL3990034",
+        "reason": "same target: Coagulation factor IX"
+      },
+      {
+        "name": "EFTRENONACOG ALFA",
+        "chembl_id": "CHEMBL4594598",
+        "reason": "same target: Coagulation factor IX"
+      },
+      {
+        "name": "NONACOG BETA PEGOL",
+        "chembl_id": "CHEMBL2108348",
+        "reason": "same target: Coagulation factor IX"
+      },
+      {
+        "name": "TRENONACOG ALFA",
+        "chembl_id": "CHEMBL3039538",
+        "reason": "same target: Coagulation factor IX"
+      },
+      {
+        "name": "ETRANACOGENE DEZAPARVOVEC",
+        "chembl_id": "CHEMBL5095451",
+        "reason": "same target: Coagulation factor IX"
+      },
+      {
+        "name": "VALOCTOCOGENE ROXAPARVOVEC",
+        "chembl_id": "CHEMBL4297579",
+        "reason": "same target: Coagulation factor IX"
+      },
+      {
+        "name": "ALBUTREPENONACOG ALFA",
+        "chembl_id": "CHEMBL5315076",
+        "reason": "same target: Coagulation factor IX"
+      },
+      {
+        "name": "COAGULATION FACTOR IX HUMAN",
+        "chembl_id": "CHEMBL4297986",
+        "reason": "same target: Coagulation factor IX"
+      },
+      {
+        "name": "PROTHROMBIN COMPLEX CONCENTRATE",
+        "chembl_id": "CHEMBL6068614",
+        "reason": "same target: Coagulation factor IX"
+      }
+    ]
+  }
+}

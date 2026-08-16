@@ -1,0 +1,99 @@
+{
+  "drug_name": "Nusinersen",
+  "slug": "nusinersen",
+  "enriched_at": "2026-08-16T07:54:52Z",
+  "source_trial_ids": [
+    "NCT04729907"
+  ],
+  "sponsors": [
+    {
+      "name": "Biogen",
+      "ticker": "BIIB",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000875045&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1863556",
+      "generic_name": "nusinersen",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL3301572",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action SPINRAZA is an antisense oligonucleotide (ASO) designed to treat SMA caused by mutations in chromosome 5q that lead to SMN protein deficiency. Using in vitro assays and studies in transgenic animal models of SMA, SPINRAZA was shown to increase exon 7 inclusion in SMN2 messenger ribonucleic acid (mRNA) transcripts and production of full-length SMN protein.",
+    "pharmacokinetics": "12.3 Pharmacokinetics Absorption Intrathecal injection of SPINRAZA into the cerebrospinal fluid (CSF) allows nusinersen to be distributed from the CSF to the target central nervous system (CNS) tissues. Following intrathecal administration, trough plasma concentrations of nusinersen were relatively low, compared to the trough CSF concentration. Median plasma Tmax values ranged from 1.7 to 6.0 hours. Mean plasma Cmax and AUC values increased approximately dose-proportionally up to a dose of 12 mg. Distribution Autopsy data from patients (n=3) showed that SPINRAZA administered intrathecally was distributed within the CNS and peripheral tissues, such as skeletal muscle, liver, and kidney. Elimination Metabolism Nusinersen is metabolized via exonuclease (3'- and 5')-mediated hydrolysis and is not a substrate for, or inhibitor or inducer of CYP450 enzymes. Excretion The mean terminal elimination half-life is estimated to be 135 to 177 days in CSF, and 63 to 87 days in plasma. The primary route of elimination is likely by urinary excretion for nusinersen and its chain-shortened metabolites. At 24 hours, only 0.5% of the administered dose was recovered in the urine.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE SPINRAZA is indicated for the treatment of spinal muscular atrophy (SMA) in pediatric and adult patients. SPINRAZA is a survival motor neuron-2 (SMN2)-directed antisense oligonucleotide indicated for the treatment of spinal muscular atrophy (SMA) in pediatric and adult patients ( 1 )",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "Spinraza"
+    ],
+    "openfda_generic_names": [
+      "NUSINERSEN"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=dd70cd5f-b0fc-4ba4-a5ea-89a34778bd94",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Muscular Atrophy, Spinal",
+    "slug": "muscular-atrophy-spinal"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04729907",
+      "title": "A Study to Learn About the Long-Term Safety of Higher Doses of Nusinersen (BIIB058) Given as Injections to Participants With Spinal Muscular Atrophy (SMA) Who Took Part in an Earlier Nusinersen Trial (ONWARD)",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT04729907",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42371129",
+        "title": "Long-term persistence, safety and effectiveness of nusinersen in spinal muscular atrophy: a population-based study.",
+        "pubdate": "2026 Jun 29",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42371129/"
+      },
+      {
+        "pmid": "42026265",
+        "title": "Author Correction: High-dose nusinersen for spinal muscular atrophy: a phase 3 randomized trial.",
+        "pubdate": "2026 May",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42026265/"
+      },
+      {
+        "pmid": "42016922",
+        "title": "Safety and efficacy of intravenous onasemnogene abeparvovec gene therapy in patients with spinal muscular atrophy type 1: interim analysis from LT-001, a long-term follow-up study of patients from the START study.",
+        "pubdate": "2026 Apr",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42016922/"
+      },
+      {
+        "pmid": "41680498",
+        "title": "Patient reported outcome measures in spinal muscular atrophy and duchenne muscular dystrophy: review of instruments and their inclusion in clinical and regulatory processes.",
+        "pubdate": "2026 Feb 13",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41680498/"
+      },
+      {
+        "pmid": "41634391",
+        "title": "High-dose nusinersen for spinal muscular atrophy: a phase 3 randomized trial.",
+        "pubdate": "2026 Mar",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41634391/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

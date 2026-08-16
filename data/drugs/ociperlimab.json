@@ -1,0 +1,106 @@
+{
+  "drug_name": "Ociperlimab",
+  "slug": "ociperlimab",
+  "enriched_at": "2026-08-16T07:55:01Z",
+  "source_trial_ids": [
+    "NCT04164199"
+  ],
+  "sponsors": [
+    {
+      "name": "BeOne Medicines",
+      "ticker": "ONC",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001651308&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2686274",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4650411",
+    "target_chembl_id": "CHEMBL4630878",
+    "target_name": "T-cell immunoreceptor with Ig and ITIM domains",
+    "mechanism_of_action_chembl": "T-cell immunoreceptor with Ig and ITIM domains inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Ociperlimab+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Ociperlimab+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Ociperlimab+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Advanced Malignancies",
+    "slug": "advanced-malignancies"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04164199",
+      "title": "Study of Tislelizumab, Pamiparib, and Other Investigational Agents in Participants With Advanced Malignancies",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT04164199",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42448175",
+        "title": "AdvanTIG-302: Phase 3 Study of Ociperlimab (Anti-TIGIT) + Tislelizumab (Anti-PD-1) Versus Pembrolizumab in Untreated, Locally Advanced, Unresectable, or Metastatic Non-Small Cell Lung Cancer With PD-L1 ≥50.",
+        "pubdate": "2026 Jul 14",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42448175/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "TIRAGOLUMAB",
+        "chembl_id": "CHEMBL4298050",
+        "reason": "same target: T-cell immunoreceptor with Ig and ITIM domains"
+      },
+      {
+        "name": "VIBOSTOLIMAB",
+        "chembl_id": "CHEMBL4297785",
+        "reason": "same target: T-cell immunoreceptor with Ig and ITIM domains"
+      },
+      {
+        "name": "IBI-939",
+        "chembl_id": "CHEMBL4650473",
+        "reason": "same target: T-cell immunoreceptor with Ig and ITIM domains"
+      },
+      {
+        "name": "ASP-8374",
+        "chembl_id": "CHEMBL4297894",
+        "reason": "same target: T-cell immunoreceptor with Ig and ITIM domains"
+      },
+      {
+        "name": "DOMVANALIMAB",
+        "chembl_id": "CHEMBL4650392",
+        "reason": "same target: T-cell immunoreceptor with Ig and ITIM domains"
+      },
+      {
+        "name": "ETIGILIMAB",
+        "chembl_id": "CHEMBL4298205",
+        "reason": "same target: T-cell immunoreceptor with Ig and ITIM domains"
+      }
+    ]
+  }
+}

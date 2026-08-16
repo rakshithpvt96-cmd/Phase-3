@@ -1,0 +1,94 @@
+{
+  "drug_name": "Lumason",
+  "slug": "lumason",
+  "enriched_at": "2026-08-16T07:52:27Z",
+  "source_trial_ids": [
+    "NCT06400004"
+  ],
+  "sponsors": [
+    {
+      "name": "Bracco Diagnostics, Inc",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Bracco%20Diagnostics%2C%20Inc&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 17358,
+    "iupac_name": "hexafluoro-lambda6-sulfane",
+    "molecular_formula": "F6S",
+    "molecular_weight": "146.06",
+    "canonical_smiles": null,
+    "inchikey": "SFZCNBIFKDRMGX-UHFFFAOYSA-N",
+    "rxnorm": {
+      "rxcui": "1596398",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1796998",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": "Diagnostic agent"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Within the blood, the acoustic impedance of Lumason microspheres is lower than that of the surrounding non-aqueous tissue. Therefore, an ultrasound beam is reflected from the interface between the microspheres and the surrounding tissue. The reflected ultrasound signal provides a visual image that shows a contrast between the blood and the surrounding tissues. For ultrasonography of the urinary tract in pediatric patients, the intravesically administered Lumason microspheres increase signal intensity of fluids within the urethra, bladder, ureters, and renal pelvis.",
+    "pharmacokinetics": "12.3 Pharmacokinetics The pharmacokinetic of the SF 6 gas component of Lumason was evaluated in 12 healthy adult subjects. After intravenous bolus injections of 0.03 mL/kg and 0.3 mL/kg of Lumason, corresponding to approximately 1 and 10 times the recommended doses, concentrations of SF 6 in blood peaked within 1 to 2 minutes for both doses. The terminal half-life of SF 6 in blood was approximately 10 minutes for the 0.3 mL/kg dose. The area-under-the-curve of SF 6 was dose-proportional over the dose range studied. Distribution In a study of healthy subjects, the mean values for the apparent steady-state volume of distribution of SF 6 following intravenous administration, were 341 mcL and 710 mcL for Lumason doses of 0.03 mL/kg and 0.3 mL/kg, respectively. Preferential distribution to the lung is likely responsible for these values. Elimination Following intravenous administration, the SF 6 component of Lumason is eliminated via the lungs. In a clinical study that examined SF 6 elimination twenty minutes following Lumason injection, the mean cumulative recovery of SF 6 in expired air was 82 ± 20% (SD) at the 0.03 mL/kg dose and 88 ± 26% (SD) at the 0.3 mL/kg dose. SF 6 undergoes first pass elimination within the pulmonary circulation; approximately 40% to 50% of the SF 6 content was eliminated in the expired air during the first minute following Lumason injection. Metabolism SF 6 undergoes little or no biotransformation; following intravenous administration, 88% of an administered dose is recovered unchanged in expired air. Pharmacokinetics in Specific Populations Pulmonary Impairment: In a study of patients with pulmonary impairment, blood concentrations of SF 6 peaked at 1 to 4 minutes following intravenous Lumason administration. The cumulative recovery of SF 6 in expired air was 102 ± 18% (mean ± standard deviation), and the terminal half-life of SF 6 in blood was similar to that measured in healthy subjects.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE Echocardiography Lumason is indicated for use in adult and pediatric patients with suboptimal echocardiograms to opacify the left ventricular chamber and to improve the delineation of the left ventricular endocardial border. Ultrasonography of the Liver Lumason is indicated for use with ultrasound of the liver in adult and pediatric patients to characterize focal liver lesions. Ultrasonography of the Urinary Tract Lumason is indicated for use in ultrasonography of the urinary tract in pediatric patients for the evaluation of suspected or known vesicoureteral reflux. Lumason is an ultrasound contrast agent indicated for use in echocardiography to opacify the left ventricular chamber and to improve the delineation of the left ventricular endocardial border in adult and pediatric patients with suboptimal echocardiograms ( 1 ) in ultrasonography of the liver for characterization of focal liver lesions in adult and pediatric patients ( 1 ) in ultrasonography of the urinary tract for the evaluation of suspected or known vesicoureteral reflux in pediatric patients ( 1 )",
+    "boxed_warning": "WARNING: SERIOUS CARDIOPULMONARY REACTIONS Serious cardiopulmonary reactions, including fatalities, have occurred uncommonly during or following the injection of ultrasound contrast agents, including sulfur hexafluoride lipid microspheres [see Warnings and Precautions ( 5.1 )] . Most serious reactions occur within 30 minutes of administration [see Warnings and Precautions ( 5.1 )] . Assess all patients for the presence of any condition that precludes administration [see Contraindications ( 4 )] . Always have resuscitation equipment and trained personnel readily available [see Warnings and Precautions ( 5.1 )] . WARNING: SERIOUS CARDIOPULMONARY REACTIONS See full prescribing information for complete boxed warning Serious cardiopulmonary reactions, including fatalities, have occurred uncommonly during or following the injection of ultrasound contrast agents, including sulfur hexafluoride lipid microspheres ( 5.1 ). Most serious reactions occur within 30 minutes of administration ( 5.1 ). Assess all patients for the presence of any condition that precludes administration ( 4 ). Always have resuscitation equipment and trained personnel readily available ( 5.1 ).",
+    "openfda_brand_names": [
+      "Lumason",
+      "LumaSon"
+    ],
+    "openfda_generic_names": [
+      "SULFUR HEXAFLUORIDE"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=69822a55-226c-f133-e3b8-2b5826667c5b",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Heart Diseases",
+    "slug": "heart-diseases"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06400004",
+      "title": "Lumason® Infusion vs. Bolus Administrations",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06400004",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "39589314",
+        "title": "Contrast-Enhanced Ultrasound Compared With Hepatobiliary Agent MRI for Differentiation of Focal Nodular Hyperplasia and Hepatic Adenoma: A Prospective Trial.",
+        "pubdate": "2024 Dec 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39589314/"
+      },
+      {
+        "pmid": "39366089",
+        "title": "Deciphering the hydrodynamics of lipid-coated microbubble sonoluminescence for sonodynamic therapy.",
+        "pubdate": "2024 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39366089/"
+      },
+      {
+        "pmid": "34117520",
+        "title": "Pediatric contrast-enhanced ultrasound: shedding light on the pursuit of approval in the United States.",
+        "pubdate": "2021 Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34117520/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

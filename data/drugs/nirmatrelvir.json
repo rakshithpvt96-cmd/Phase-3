@@ -1,0 +1,146 @@
+{
+  "drug_name": "nirmatrelvir",
+  "slug": "nirmatrelvir",
+  "enriched_at": "2026-08-16T07:54:29Z",
+  "source_trial_ids": [
+    "NCT05261139"
+  ],
+  "sponsors": [
+    {
+      "name": "Pfizer",
+      "ticker": "PFE",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000078003&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 155903259,
+    "iupac_name": "(1R,2S,5S)-N-[(1S)-1-cyano-2-[(3S)-2-oxopyrrolidin-3-yl]ethyl]-3-[(2S)-3,3-dimethyl-2-[(2,2,2-trifluoroacetyl)amino]butanoyl]-6,6-dimethyl-3-azabicyclo[3.1.0]hexane-2-carboxamide",
+    "molecular_formula": "C23H32F3N5O4",
+    "molecular_weight": "499.5",
+    "canonical_smiles": null,
+    "inchikey": "LIENCHBZNNMNKG-OJFNHCPVSA-N",
+    "rxnorm": {
+      "rxcui": "2587892",
+      "generic_name": "nirmatrelvir",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL5201264",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Nirmatrelvir is a severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) antiviral drug [see Microbiology (12.4) ]. Ritonavir is an HIV-1 protease inhibitor but is not active against SARS-CoV-2 M pro . Ritonavir inhibits the CYP3A-mediated metabolism of nirmatrelvir, resulting in increased plasma concentrations of nirmatrelvir.",
+    "pharmacokinetics": "12.3 Pharmacokinetics The pharmacokinetics of nirmatrelvir/ritonavir were similar in healthy subjects and in subjects with mild-to-moderate COVID-19. Nirmatrelvir AUC increased in a less than dose proportional manner over a single dose range from 250 mg to 750 mg (0.83 to 2.5 times the approved recommended dose) and multiple dose range from 75 mg to 500 mg (0.25 to 1.67 times the approved recommended dose), when administered in combination with 100 mg ritonavir. Nirmatrelvir steady state was achieved on Day 2 following administration of the approved recommended dosage and the mean accumulation ratio was approximately 2-fold. The pharmacokinetic properties of nirmatrelvir/ritonavir are displayed in Table 3. Table 3: Pharmacokinetic Properties of Nirmatrelvir and Ritonavir in Healthy Subjects Nirmatrelvir (When Given With Ritonavir) Ritonavir Abbreviations: CL/F=apparent clearance; hr=hour; L/hr=liters per hour; T ½ =terminal elimination half-life; T max =the time to reach C max ; V z /F=apparent volume of distribution. Absorption T max (hr), median 3.00 Represents data after a single dose of 300 mg nirmatrelvir (2 × 150 mg tablet formulation) administered together with 100 mg ritonavir tablet in healthy subjects. 3.98 Food effect Test/reference (fed/fasted) ratios of adjusted geometric means (90% CI) AUC inf and C max for nirmatrelvir were 119.67 (108.75, 131.68) and 161.01 (139.05, 186.44), respectively. Following a single oral dose of nirmatrelvir 300 mg boosted ritonavir 100 mg at -12 hours, 0 hours and 12 hours, administered under fed (high fat and high calorie meal) or fasted conditions. Distribution % bound to human plasma proteins 69% 98–99% Blood-to-plasma ratio 0.60 0.14 Red blood cell to plasma ratio. V z /F (L), mean 104.7 300 mg nirmatrelvir (oral suspension formulation) co-administered with 100 mg ritonavir (tablet formulation) twice daily for 3 days. 112.4 Elimination Major route of elimination Renal elimination Hepatic metabolism Half-life (T ½ ) (hr), mean 6.05 6.15 Oral clearance (CL/F) (L/hr), mean 8.99 13.92 Metabolism Metabolic pathways Nirmatrelvir is a CYP3A substrate but when dosed with ritonavir, metabolic clearance is minimal. Major CYP3A, Minor CYP2D6 Excretion % drug-related material in feces 35.3% Determined by 19 F-NMR analysis following 300 mg nirmatrelvir oral suspension administered at 0 hr enhanced with 100 mg ritonavir at -12 hours, 0 hours, 12 hours, and 24 hours. 86.4% Determined by 14 C analysis following 600 mg 14 C-ritonavir oral solution (6 times the approved ritonavir dose). % of dose excreted as total (unchanged drug) in feces 27.5% 33.8% % drug-related material in urine 49.6% 11.3% % of dose excreted as total (unchanged drug) in urine 55.0% 3.5% The predicted Day 5 nirmatrelvir exposure parameters in adult subjects with mild-to-moderate COVID-19 who were treated with PAXLOVID in EPIC-HR are presented in Table 4. Table 4: Predicted Day 5 Nirmatrelvir Exposure Parameters Following Administration of Nirmatrelvir/Ritonavir 300 mg/100 mg Twice Daily in Subjects with Mild-to-Moderate COVID-19 Pharmacokinetic Parameter (units) Data presented as geometric mean (10 th and 90 th percentile). Nirmatrelvir Based on 1,017 subjects with their post hoc PK parameters. Abbreviations: C max =predicted maximal concentration; C min =predicted minimal concentration (C trough ). C max (µg/mL) 3.29 (1.93, 5.40) AUC tau (µg*hr/mL) AUC tau =predicted area under the plasma concentration-time profile from time 0 to 12 hours for twice-daily dosing. 28.3 (12.5, 52.5) C min (µg/mL) 1.40 (0.48, 3.45) Effect of Food No clinically significant differences in the pharmacokinetics of nirmatrelvir were observed following administration of a high fat meal (800-1,000 calories; 50% fat) to healthy subjects. Specific Populations There were no clinically significant differences in the pharmacokinetics of nirmatrelvir based on age (18 to 86 years), sex, or race/ethnicity. Pediatric Patients The pharmacokinetics of nirmatrelvir/ritonavir in patients less than 18 years of age have not been established. Patients with Renal Impairment The pharmacokinetics of nirmatrelvir in subjects with renal impairment following administration of a single oral dose of nirmatrelvir 100 mg (0.33 times the approved recommended dose) co-administered with ritonavir 100 mg were determined. Compared to healthy controls with no renal impairment, the C max and AUC of nirmatrelvir in subjects with mild renal impairment was 30% and 24% higher, in subjects with moderate renal impairment was 38% and 87% higher, and in subjects with severe renal impairment was 48% and 204% higher, respectively. The pharmacokinetics of nirmatrelvir in subjects with mild-to-moderate COVID-19 and severe renal impairment (eGFR<30 mL/min) either requiring intermittent hemodialysis (n=12) or not requiring hemodialysis (n=2) were evaluated after administration of 300 mg/100 mg nirmatrelvir/ritonavir once on Day 1 followed by 150 mg/100 mg nirmatrelvir/ritonavir once daily on Days 2-5 for a total of 5 doses. The administration of 300 mg/100 mg nirmatrelvir/ritonavir once on Day 1 followed by 150 mg/100 mg nirmatrelvir/ritonavir once daily on Days 2-5 in subjects with severe renal impairment, either requiring intermittent hemodialysis or not requiring hemodialysis resulted in comparable exposures on Day 1 and at steady-state (AUC 0-24 and C max ) compared to those observed in subjects with normal renal function receiving 300 mg/100 mg nirmatrelvir/ritonavir twice daily for 5 days. During a 4-hour hemodialysis session, approximately 6.9% of nirmatrelvir dose was cleared through dialysis. Hemodialysis clearance was 1.83 L/h. Patients with Hepatic Impairment The pharmacokinetics of nirmatrelvir were similar in patients with moderate (Child-Pugh Class B) hepatic impairment compared to healthy subjects following administration of a single oral dose of nirmatrelvir 100 mg (0.33 times the approved recommended dose) co-administered with ritonavir 100 mg. The impact of severe hepatic impairment (Child-Pugh Class C) on the pharmacokinetics of nirmatrelvir or ritonavir has not been studied. Clinical Drug Interaction Studies Table 5 describes the effect of other drugs on the C max and AUC of nirmatrelvir. Table 5: The Effect of Other Drugs on the Pharmacokinetic Parameters of Nirmatrelvir Co-administered Drug Dose (Schedule) N Percent Ratio (in combination with co-administered drug/alone) of Nirmatrelvir Pharmacokinetic Parameters (90% CI); No Effect=100 Co-administered Drug Nirmatrelvir/ Ritonavir C max AUC For carbamazepine, AUC=AUC inf ; for itraconazole, AUC=AUC tau . Abbreviations: AUC=area under the plasma concentration-time curve; AUC inf =area under the plasma concentration-time profile from time zero extrapolated to infinite time; AUC tau =area under the plasma concentration-time profile from time zero to time tau (τ), the dosing interval. CI=confidence interval; C max =observed maximum plasma concentrations. Carbamazepine Carbamazepine titrated up to 300 mg twice daily on Day 8 through Day 15 (e.g., 100 mg twice daily on Day 1 through Day 3 and 200 mg twice daily on Day 4 through Day 7). 300 mg twice daily (16 doses) 300 mg/100 mg once daily (2 doses) 10 56.82 (47.04, 68.62) 44.50 (33.77, 58.65) Itraconazole 200 mg once daily (8 doses) 300 mg/100 mg twice daily (5 doses) 11 118.57 (112.50, 124.97) 138.82 (129.25, 149.11) Table 6 describes the effect of nirmatrelvir/ritonavir on the C max and AUC inf of other drugs. Table 6: Effect of Nirmatrelvir/Ritonavir on Pharmacokinetics of Other Drugs Co-administered Drug Dose (Schedule) N Percent Ratio of Test/Reference of Geometric Means (90% CI); No Effect=100 Co-administered Drug Nirmatrelvir/ Ritonavir C max AUC inf Abbreviations: AUC inf =area under the plasma concentration-time curve from time zero extrapolated to infinite time; CI=confidence interval; C max =observed maximum plasma concentrations; CYP3A4=cytochrome P450 3A4; OATP1B1=organic anion transporter polypeptide 1B1; P-gp=p-glycoprotein. Midazolam For midazolam, Test=nirmatrelvir/ritonavir plus midazolam, Reference=Midazolam. Midazolam is an index substrate for CYP3A4. For dabigatran, Test=nirmatrelvir/ritonavir plus dabigatran, Reference=Dabigatran. Dabigatran is an index substrate for P-gp. For rosuvastatin, Test=nirmatrelvir/ritonavir plus rosuvastatin, Reference=Rosuvastatin. Rosuvastatin is an index substrate for OATP1B1. 2 mg (1 dose) 300 mg/100 mg twice daily (9 doses) 10 368.33 (318.91, 425.41) 1430.02 (1204.54, 1697.71) Dabigatran 75 mg (1 dose) 300 mg/100 mg twice daily (4 doses) 24 233.06 (172.14, 315.54) 194.47 (155.29, 243.55) Rosuvastatin 10 mg (1 dose) 300 mg/100 mg twice daily (3 doses) 12 212.44 (174.31, 258.90) 131.18 (115.89, 148.48) In Vitro Studies Cytochrome P450 (CYP) Enzymes: • Nirmatrelvir is a reversible and time-dependent inhibitor of CYP3A, but not an inhibitor CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, or CYP2D6. Nirmatrelvir is an inducer of CYP2B6, 2C8, 2C9, and 3A4, but there is minimal risk for pharmacokinetic interactions arising from induction of these CYP enzymes at the proposed therapeutic dose. • Ritonavir is a substrate of CYP2D6 and CYP3A. Ritonavir is an inducer of CYP1A2, CYP2C9, CYP2C19, CYP2B6, and CYP3A. Transporter Systems: Nirmatrelvir is an inhibitor of P-gp and OATP1B1. Nirmatrelvir is a substrate for P-gp, but not BCRP, MATE1, MATE2K, NTCP, OAT1, OAT2, OAT3, OCT1, OCT2, PEPT1, OATP1B1, OATP1B3, OATP2B1, or OATP4C1.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE PAXLOVID is indicated for the treatment of mild-to-moderate coronavirus disease 2019 (COVID-19) in adults who are at high risk for progression to severe COVID-19, including hospitalization or death. PAXLOVID which includes nirmatrelvir, a severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) main protease (M pro : also referred to as 3CL pro or nsp5 protease) inhibitor, and ritonavir, an HIV-1 protease inhibitor and CYP3A inhibitor, is indicated for the treatment of mild-to-moderate coronavirus disease 2019 (COVID-19) in adults who are at high risk for progression to severe COVID-19, including hospitalization or death. ( 1 ) Limitations of Use PAXLOVID is not approved for use as pre-exposure or post-exposure prophylaxis for prevention of COVID-19. ( 1 ) Limitations of Use PAXLOVID is not approved for use as pre-exposure or post-exposure prophylaxis for prevention of COVID-19 [see Clinical Studies (14.3) ] .",
+    "boxed_warning": "WARNING: SIGNIFICANT DRUG INTERACTIONS WITH PAXLOVID • PAXLOVID includes ritonavir, a strong CYP3A inhibitor, which may lead to greater exposure of certain concomitant medications, resulting in potentially severe, life-threatening, or fatal events [see Contraindications (4) , Warnings and Precautions (5.1) , and Drug Interactions (7) ]. • Prior to prescribing PAXLOVID: 1) Review all medications taken by the patient to assess potential drug-drug interactions with a strong CYP3A inhibitor like PAXLOVID and 2) Determine if concomitant medications require a dose adjustment, interruption, and/or additional monitoring [see Drug Interactions (7) ]. • Consider the benefit of PAXLOVID treatment in reducing hospitalization and death, and whether the risk of potential drug-drug interactions for an individual patient can be appropriately managed [see Warnings and Precautions (5.1) , Drug Interactions (7) , and Clinical Studies (14) ]. WARNING: SIGNIFICANT DRUG INTERACTIONS WITH PAXLOVID See full prescribing information for complete boxed warning. • PAXLOVID includes ritonavir, a strong CYP3A inhibitor, which may lead to greater exposure of certain concomitant medications, resulting in potentially severe, life-threatening, or fatal events. ( 4 , 5.1 , 7 ) • Prior to prescribing PAXLOVID: 1) Review all medications taken by the patient to assess potential drug-drug interactions with a strong CYP3A inhibitor like PAXLOVID and 2) Determine if concomitant medications require a dose adjustment, interruption, and/or additional monitoring. ( 7 ) • Consider the benefit of PAXLOVID treatment in reducing hospitalization and death, and whether the risk of potential drug-drug interactions for an individual patient can be appropriately managed. ( 5.1 , 7 , 14 )",
+    "openfda_brand_names": [
+      "Paxlovid"
+    ],
+    "openfda_generic_names": [
+      "NIRMATRELVIR AND RITONAVIR"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8a99d6d6-fd9e-45bb-b1bf-48c7f761232a",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "COVID-19",
+    "slug": "covid-19"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05261139",
+      "title": "EPIC-Peds: A Study to Learn About the Study Medicine Called PF-07321332 (Nirmatrelvir)/Ritonavir in Patients Under 18 Years of Age With COVID-19 That Are Not Hospitalized But Are at Risk for Severe Disease",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05261139",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42446369",
+        "title": "Randomized, Double-Blind, Placebo-Controlled First-in-Human Trial of a First-in-Class AI-Designed Monoclonal Antibody (GB-0669) Against the Conserved SARS-CoV-2 Spike S2 Stem Helix.",
+        "pubdate": "2026 Jul 14",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42446369/"
+      },
+      {
+        "pmid": "41857593",
+        "title": "Health-related quality of life in immunocompromised adults with mild-moderate COVID-19 treated with nirmatrelvir-ritonavir: results from the randomized, double-blinded EPIC-IC trial.",
+        "pubdate": "2026 Mar 19",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41857593/"
+      },
+      {
+        "pmid": "41710745",
+        "title": "Characterization of the Cross-Resistance of SARS-CoV‑2 Main Protease Inhibitors, Ibuzatrelvir, Ensitrelvir, and Nirmatrelvir.",
+        "pubdate": "2026 Feb 13",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41710745/"
+      },
+      {
+        "pmid": "41672106",
+        "title": "Optimal preclinical models for human dose projection of SARS-CoV-2 small molecule direct-acting antivirals.",
+        "pubdate": "2026 Apr",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41672106/"
+      },
+      {
+        "pmid": "41621598",
+        "title": "Analysis of ibuzatrelvir's activity against SARS-CoV-2 circulating variants and in vitro resistance mutations.",
+        "pubdate": "2026 Apr",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41621598/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "Bivalent BNT162b2 (original/Omicron BA.4/BA.5) 3 microgram dose",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: BioNTech SE"
+      },
+      {
+        "name": "Bivalent BNT162b2 (original/Omicron BA.4/BA.5) 6 microgram dose",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: BioNTech SE"
+      },
+      {
+        "name": "Bivalent BNT162b2 (original/Omicron BA.4/BA.5) 10 microgram dose",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: BioNTech SE"
+      },
+      {
+        "name": "Variant-adapted BNT162b2 (Omicron XBB.1.5) 3 microgram dose",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: BioNTech SE"
+      },
+      {
+        "name": "Variant-adapted BNT162b2 (Omicron XBB.1.5) 6 microgram dose",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: BioNTech SE"
+      },
+      {
+        "name": "Variant-adapted BNT162b2 (Omicron XBB.1.5) 10 microgram dose",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: BioNTech SE"
+      },
+      {
+        "name": "Variant-adapted BNT162b2 (Omicron KP.2) 10 microgram dose",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: BioNTech SE"
+      },
+      {
+        "name": "BNT162b2 (2025/2026 formulation)",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: BioNTech SE"
+      }
+    ]
+  }
+}

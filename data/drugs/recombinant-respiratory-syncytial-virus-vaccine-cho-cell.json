@@ -1,0 +1,126 @@
+{
+  "drug_name": "Recombinant Respiratory Syncytial Virus Vaccine (CHO Cell)",
+  "slug": "recombinant-respiratory-syncytial-virus-vaccine-cho-cell",
+  "enriched_at": "2026-08-16T08:03:44Z",
+  "source_trial_ids": [
+    "NCT07272434"
+  ],
+  "sponsors": [
+    {
+      "name": "MAXVAX Biotechnology Limited Liability Company",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=MAXVAX%20Biotechnology%20Limited%20Liability%20Company&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2672856",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL6068489",
+    "target_chembl_id": "CHEMBL2364165",
+    "target_name": "Fusion glycoprotein F0",
+    "mechanism_of_action_chembl": "Fusion glycoprotein F0 vaccine antigen"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Recombinant%20Respiratory%20Syncytial%20Virus%20Vaccine%20%28CHO%20Cell%29+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Recombinant%20Respiratory%20Syncytial%20Virus%20Vaccine%20%28CHO%20Cell%29+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Recombinant%20Respiratory%20Syncytial%20Virus%20Vaccine%20%28CHO%20Cell%29+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Respiratory Syncytial Virus (RSV)",
+    "slug": "respiratory-syncytial-virus-rsv"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07272434",
+      "title": "Phase III Clinical Trial of the Recombinant Respiratory Syncytial Virus Vaccine ( CHO Cell)",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07272434",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "31951765",
+        "title": "Hamster neogenin, a host-cell protein contained in a respiratory syncytial virus candidate vaccine, induces antibody responses in rabbits but not in clinical trial participants.",
+        "pubdate": "2020 Jun 2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31951765/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "PALIVIZUMAB",
+        "chembl_id": "CHEMBL1201586",
+        "reason": "same target: Fusion glycoprotein F0"
+      },
+      {
+        "name": "MOTAVIZUMAB",
+        "chembl_id": "CHEMBL1743042",
+        "reason": "same target: Fusion glycoprotein F0"
+      },
+      {
+        "name": "MEDI-564",
+        "chembl_id": "CHEMBL2109567",
+        "reason": "same target: Fusion glycoprotein F0"
+      },
+      {
+        "name": "MEDI-557",
+        "chembl_id": "CHEMBL2109566",
+        "reason": "same target: Fusion glycoprotein F0"
+      },
+      {
+        "name": "RILEMATOVIR",
+        "chembl_id": "CHEMBL4437054",
+        "reason": "same target: Fusion glycoprotein F0"
+      },
+      {
+        "name": "CLESROVIMAB",
+        "chembl_id": "CHEMBL4297783",
+        "reason": "same target: Fusion glycoprotein F0"
+      },
+      {
+        "name": "ALX-0171",
+        "chembl_id": "CHEMBL4297692",
+        "reason": "same target: Fusion glycoprotein F0"
+      },
+      {
+        "name": "SISUNATOVIR",
+        "chembl_id": "CHEMBL4297497",
+        "reason": "same target: Fusion glycoprotein F0"
+      },
+      {
+        "name": "ZIRESOVIR",
+        "chembl_id": "CHEMBL4468815",
+        "reason": "same target: Fusion glycoprotein F0"
+      },
+      {
+        "name": "NIRSEVIMAB",
+        "chembl_id": "CHEMBL4297575",
+        "reason": "same target: Fusion glycoprotein F0"
+      }
+    ]
+  }
+}

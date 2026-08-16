@@ -1,0 +1,87 @@
+{
+  "drug_name": "MADALENA ASSOCIATION",
+  "slug": "madalena-association",
+  "enriched_at": "2026-08-16T07:52:34Z",
+  "source_trial_ids": [
+    "NCT04670666"
+  ],
+  "sponsors": [
+    {
+      "name": "EMS",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=EMS&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "314660",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2303849",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=MADALENA%20ASSOCIATION+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=MADALENA%20ASSOCIATION+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=MADALENA%20ASSOCIATION+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Type 2 Diabetes Mellitus",
+    "slug": "type-2-diabetes-mellitus"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04670666",
+      "title": "Efficacy and Safety of Madalena Association in the Treatment of Type II Diabetes Mellitus",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04670666",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42338027",
+        "title": "Lactate and Lactate Clearance as Outcome Predictors in Brain-Dead Potential Organs: A Secondary Cohort Analysis Embedded Within a Cluster-Randomized Clinical Trial.",
+        "pubdate": "2026 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42338027/"
+      },
+      {
+        "pmid": "41269694",
+        "title": "Walking Aids and Locomotion Training in the Emergency Department: A Randomized Clinical Trial.",
+        "pubdate": "2025 Nov 3",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41269694/"
+      },
+      {
+        "pmid": "29209951",
+        "title": "Relationship of left ventricular global longitudinal strain with cardiac autonomic denervation as assessed by (123)I-mIBG scintigraphy in patients with heart failure with reduced ejection fraction submitted to cardiac resynchronization therapy : Assessment of cardiac autonomic denervation by GLS in patients with heart failure with reduced ejection fraction submitted to CRT.",
+        "pubdate": "2019 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29209951/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

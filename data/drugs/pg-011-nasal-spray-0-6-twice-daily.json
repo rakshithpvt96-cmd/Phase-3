@@ -1,0 +1,119 @@
+{
+  "drug_name": "PG-011 nasal spray 0.6%(twice daily)",
+  "slug": "pg-011-nasal-spray-0-6-twice-daily",
+  "enriched_at": "2026-08-16T07:57:37Z",
+  "source_trial_ids": [
+    "NCT07146126"
+  ],
+  "sponsors": [
+    {
+      "name": "Prime Gene Therapeutics Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Prime%20Gene%20Therapeutics%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "7980",
+      "generic_name": "penicillin G",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2109475",
+    "target_chembl_id": "CHEMBL1250358",
+    "target_name": "Tumor necrosis factor receptor superfamily member 5",
+    "mechanism_of_action_chembl": "Tumor necrosis factor receptor superfamily member 5 inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=PG-011%20nasal%20spray%200.6%25%28twice%20daily%29+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=PG-011%20nasal%20spray%200.6%25%28twice%20daily%29+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=PG-011%20nasal%20spray%200.6%25%28twice%20daily%29+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Seasonal Allergic Rhinitis",
+    "slug": "seasonal-allergic-rhinitis"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07146126",
+      "title": "A Phase III Study to Assess the Efficacy and Safety of PG-011 Nasal Spray in Adults With Moderate to Severe Seasonal Allergic Rhinitis",
+      "status": "NOT_YET_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07146126",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "DACETUZUMAB",
+        "chembl_id": "CHEMBL1743005",
+        "reason": "same target: Tumor necrosis factor receptor superfamily member 5"
+      },
+      {
+        "name": "TENELIXIMAB",
+        "chembl_id": "CHEMBL2108144",
+        "reason": "same target: Tumor necrosis factor receptor superfamily member 5"
+      },
+      {
+        "name": "LUCATUMUMAB",
+        "chembl_id": "CHEMBL1743038",
+        "reason": "same target: Tumor necrosis factor receptor superfamily member 5"
+      },
+      {
+        "name": "SELICRELUMAB",
+        "chembl_id": "CHEMBL2109477",
+        "reason": "same target: Tumor necrosis factor receptor superfamily member 5"
+      },
+      {
+        "name": "ISCALIMAB",
+        "chembl_id": "CHEMBL4298210",
+        "reason": "same target: Tumor necrosis factor receptor superfamily member 5"
+      },
+      {
+        "name": "BLESELUMAB",
+        "chembl_id": "CHEMBL3990028",
+        "reason": "same target: Tumor necrosis factor receptor superfamily member 5"
+      },
+      {
+        "name": "SOTIGALIMAB",
+        "chembl_id": "CHEMBL4297888",
+        "reason": "same target: Tumor necrosis factor receptor superfamily member 5"
+      },
+      {
+        "name": "CD40 LIGAND",
+        "chembl_id": "CHEMBL4297718",
+        "reason": "same target: Tumor necrosis factor receptor superfamily member 5"
+      },
+      {
+        "name": "CDX-1140",
+        "chembl_id": "CHEMBL4297721",
+        "reason": "same target: Tumor necrosis factor receptor superfamily member 5"
+      },
+      {
+        "name": "GILORALIMAB",
+        "chembl_id": "CHEMBL4594517",
+        "reason": "same target: Tumor necrosis factor receptor superfamily member 5"
+      }
+    ]
+  }
+}

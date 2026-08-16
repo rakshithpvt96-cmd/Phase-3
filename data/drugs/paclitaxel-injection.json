@@ -1,0 +1,99 @@
+{
+  "drug_name": "Paclitaxel Injection",
+  "slug": "paclitaxel-injection",
+  "enriched_at": "2026-08-16T07:56:18Z",
+  "source_trial_ids": [
+    "NCT06738251"
+  ],
+  "sponsors": [
+    {
+      "name": "Shanghai Hengrui Pharmaceutical Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Shanghai%20Hengrui%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1663181",
+      "generic_name": "paclitaxel Injection",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2108760",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Paclitaxel%20Injection+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Paclitaxel%20Injection+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Paclitaxel%20Injection+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Advanced Urothelial Carcinoma",
+    "slug": "advanced-urothelial-carcinoma"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06738251",
+      "title": "A Phase III Study of SHR-A2102 Versus Investigator-selected Therapy in Advanced Urothelial Carcinoma",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06738251",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "41538720",
+        "title": "Evaluation of the protective effect of chamomile oral solution on the incidence of neurotoxicity caused by paclitaxel in breast cancer patients.",
+        "pubdate": "2026 Aug 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41538720/"
+      },
+      {
+        "pmid": "40009925",
+        "title": "Intraperitoneal paclitaxel with systemic S-1 plus oxaliplatin for advanced or recurrent gastric cancer with peritoneal metastasis: A single-arm, multicenter phase II clinical trial.",
+        "pubdate": "2025 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40009925/"
+      },
+      {
+        "pmid": "39636623",
+        "title": "Alteration of the Tumor Microenvironment With Intratumoral Dendritic Cells Before Chemotherapy in ERBB2 Breast Cancer: A Nonrandomized Clinical Trial.",
+        "pubdate": "2025 Feb 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39636623/"
+      },
+      {
+        "pmid": "39524219",
+        "title": "What matters for drug delivery to tumor by nanoparticles: Gaining insights from PBPK/PD simulation of drug nanocrystals.",
+        "pubdate": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39524219/"
+      },
+      {
+        "pmid": "39410011",
+        "title": "Phase I Clinical Trial on Pleural Mesothelioma Using Neoadjuvant Local Administration of Paclitaxel-Loaded Mesenchymal Stromal Cells (PACLIMES Trial): Study Rationale and Design.",
+        "pubdate": "2024 Oct 4",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39410011/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

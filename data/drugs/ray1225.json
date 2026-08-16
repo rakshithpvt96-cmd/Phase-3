@@ -1,0 +1,100 @@
+{
+  "drug_name": "RAY1225",
+  "slug": "ray1225",
+  "enriched_at": "2026-08-16T08:03:15Z",
+  "source_trial_ids": [
+    "NCT06893016"
+  ],
+  "sponsors": [
+    {
+      "name": "Guangdong Raynovent Biotech Co., Ltd",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Guangdong%20Raynovent%20Biotech%20Co.%2C%20Ltd&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": null
+  },
+  "mechanism": {
+    "chembl_id": null,
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=RAY1225+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=RAY1225+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=RAY1225+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Obesity",
+    "slug": "obesity"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06893016",
+      "title": "Evaluation of RAY1225 in Adult Participants Who Have Obesity or Are Overweight",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06893016",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "Semaglutide",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Hangzhou Jiuyuan Gene Engineering Co. Ltd.,"
+      },
+      {
+        "name": "Tirzepatide",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Eli Lilly and Company"
+      },
+      {
+        "name": "Placebo",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Eli Lilly and Company"
+      },
+      {
+        "name": "Retatrutide",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Eli Lilly and Company"
+      },
+      {
+        "name": "TQF3510 (Semaglutide Injection)",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Chia Tai Tianqing Pharmaceutical Group Co., Ltd."
+      },
+      {
+        "name": "Wegovy®",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Chia Tai Tianqing Pharmaceutical Group Co., Ltd."
+      },
+      {
+        "name": "IBI362",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Innovent Biologics (Suzhou) Co. Ltd."
+      }
+    ]
+  }
+}

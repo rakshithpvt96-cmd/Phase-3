@@ -1,0 +1,87 @@
+{
+  "drug_name": "Short regimen of benznidazole",
+  "slug": "short-regimen-of-benznidazole",
+  "enriched_at": "2026-08-16T08:05:00Z",
+  "source_trial_ids": [
+    "NCT04897516"
+  ],
+  "sponsors": [
+    {
+      "name": "Laboratorio Elea Phoenix S.A.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Laboratorio%20Elea%20Phoenix%20S.A.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "18994",
+      "generic_name": "benznidazole",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL110",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": "Unknown"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Short%20regimen%20of%20benznidazole+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Short%20regimen%20of%20benznidazole+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Short%20regimen%20of%20benznidazole+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Chagas Disease",
+    "slug": "chagas-disease"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04897516",
+      "title": "Shorter Benznidazole Regimens Compared to the Standard Regimen for Chagas Disease",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04897516",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "38218195",
+        "title": "Efficacy of three benznidazole dosing strategies for adults living with chronic Chagas disease (MULTIBENZ): an international, randomised, double-blind, phase 2b trial.",
+        "pubdate": "2024 Apr",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38218195/"
+      },
+      {
+        "pmid": "29352704",
+        "title": "Treatment of adult chronic indeterminate Chagas disease with benznidazole and three E1224 dosing regimens: a proof-of-concept, randomised, placebo-controlled trial.",
+        "pubdate": "2018 Apr",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29352704/"
+      },
+      {
+        "pmid": "23296694",
+        "title": "Evaluation of compliance to congenital Chagas disease treatment: results of a randomised trial in Bolivia.",
+        "pubdate": "2013 Jan",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23296694/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

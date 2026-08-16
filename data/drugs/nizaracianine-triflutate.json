@@ -1,0 +1,74 @@
+{
+  "drug_name": "Nizaracianine Triflutate",
+  "slug": "nizaracianine-triflutate",
+  "enriched_at": "2026-08-16T07:54:37Z",
+  "source_trial_ids": [
+    "NCT06101745"
+  ],
+  "sponsors": [
+    {
+      "name": "Curadel Surgical Innovations, Inc.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Curadel%20Surgical%20Innovations%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 164888952,
+    "iupac_name": "(2Z)-2-[(2E)-2-[2-[4-(2-carboxyethyl)phenoxy]-3-[(E)-2-[3,3-dimethyl-5-sulfonato-1-[3-(trimethylazaniumyl)propyl]indol-1-ium-2-yl]ethenyl]cyclohex-2-en-1-ylidene]ethylidene]-3,3-dimethyl-1-[3-(trimethylazaniumyl)propyl]indole-5-sulfonate;2,2,2-trifluoroacetate",
+    "molecular_formula": "C53H67F3N4O11S2",
+    "molecular_weight": "1057.2",
+    "canonical_smiles": null,
+    "inchikey": "BBCIVAMITUFAHW-UHFFFAOYSA-N",
+    "rxnorm": {
+      "rxcui": "2721331",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL6068515",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Nizaracianine%20Triflutate+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Nizaracianine%20Triflutate+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Nizaracianine%20Triflutate+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Injury of Ureter During Surgery (Disorder)",
+    "slug": "injury-of-ureter-during-surgery-disorder"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06101745",
+      "title": "Trial to Visualize the Ureters With Nizaracianine Triflutate in Adults Undergoing Abdominopelvic Surgery",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06101745",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

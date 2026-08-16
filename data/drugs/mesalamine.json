@@ -1,0 +1,141 @@
+{
+  "drug_name": "Mesalamine",
+  "slug": "mesalamine",
+  "enriched_at": "2026-08-16T07:53:16Z",
+  "source_trial_ids": [
+    "NCT05316220"
+  ],
+  "sponsors": [
+    {
+      "name": "AbbVie",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=AbbVie&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 4075,
+    "iupac_name": "5-amino-2-hydroxybenzoic acid",
+    "molecular_formula": "C7H7NO3",
+    "molecular_weight": "153.14",
+    "canonical_smiles": null,
+    "inchikey": "KBOPZPXVLCULAV-UHFFFAOYSA-N",
+    "rxnorm": {
+      "rxcui": "52582",
+      "generic_name": "mesalamine",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL704",
+    "target_chembl_id": "CHEMBL215",
+    "target_name": "Polyunsaturated fatty acid 5-lipoxygenase",
+    "mechanism_of_action_chembl": "Arachidonate 5-lipoxygenase inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action The mechanism of action of mesalamine is not fully understood, but appears to be a topical anti-inflammatory effect on colonic epithelial cells. Mucosal production of arachidonic acid metabolites, both through the cyclooxygenase pathways, that is, prostanoids, and through the lipoxygenase pathways, that is, leukotrienes and hydroxyeicosatetraenoic acids, is increased in patients with ulcerative colitis, and it is possible that mesalamine diminishes inflammation by blocking cyclooxygenase and inhibiting prostaglandin production in the colon.",
+    "pharmacokinetics": "12.3 Pharmacokinetics Absorption Plasma concentrations of mesalamine (5-aminosalicylic acid; 5-ASA) and its metabolite, N-acetyl-5-aminosalicylic acid (N-Ac-5-ASA) are highly variable following administration of mesalamine delayed-release tablets. Following single dose oral administration of mesalamine delayed-release 800 mg tablet in healthy subjects (N = 139) under fasted conditions, the mean C max , AUC 8-48h and AUC 0-tldc values were 208 ng/mL, 2,296 ng.h/mL, and 2533 ng.h/mL, respectively. The median [range] T max for mesalamine following administration of mesalamine delayed-release 800 mg tablet was approximately 24 hours [4 hours to 72 hours], reflecting the delayed-release characteristics of the formulation. Based on cumulative urinary recovery of mesalamine and N-Ac-5-ASA from single dose studies in healthy subjects, approximately 20% of the orally administered mesalamine in mesalamine delayed-release tablets is systemically absorbed. Food Effect: A high calorie (800 to 1,000 calories), high fat (approximately 50 % of total caloric content) meal increased mesalamine C max by 2.4-fold and mesalamine systemic exposure (AUC 8-48 and AUC 0-tldc ) by 2.8-fold; the median lag-time increased by 8 hours and median t max by 6 hours (from 24 hours to 30 hours) [see Dosage and Administration (2.1) ] . Comparative exposure between one mesalamine delayed-release 800 mg tablet and two mesalamine delayed-release 400 mg oral products is unknown [see Dosage and Administration (2.1) ] . Elimination Metabolism The absorbed mesalamine is acetylated in the gut mucosal wall and by the liver to N-Ac-5-ASA. Excretion Absorbed mesalamine is excreted mainly by the kidneys as N-acetyl-5-aminosalicylic acid. Unabsorbed mesalamine is excreted in feces.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE Mesalamine delayed-release tablets are indicated for the treatment of moderately active ulcerative colitis in adults. Limitations of Use : Safety and effectiveness of mesalamine delayed-release tablets beyond 6 weeks have not been established. Mesalamine delayed-release tablets are an aminosalicylate indicated for the treatment of moderately active ulcerative colitis in adults. (1) Limitation of Use : Safety and effectiveness of mesalamine delayed-release tablets beyond 6 weeks have not been established (1)",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "Mesalamine"
+    ],
+    "openfda_generic_names": [
+      "MESALAMINE"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=14ac4435-903b-41f5-a3c4-8c73de3e4cef",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Ulcerative Colitis (UC)",
+    "slug": "ulcerative-colitis-uc"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05316220",
+      "title": "A Study to Assess Adverse Events and Change in Disease Condition of Mesalamine Capsules in Children Aged 5 to 17 Years With Ulcerative Colitis",
+      "status": "WITHDRAWN",
+      "url": "https://clinicaltrials.gov/study/NCT05316220",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42497521",
+        "title": "Targeting cystathionine-β-synthase (CBS)-mediated cell stemness and gut microbiome homeostasis: mechanism and clinical study of combined resveratrol-curcumin treatment for ulcerative colitis.",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42497521/"
+      },
+      {
+        "pmid": "42148175",
+        "title": "Efficacy and Safety of High-Dose Multimatrix Mesalazine in Pediatric Patients with Mild-to-Moderate Active Ulcerative Colitis.",
+        "pubdate": "2026 May",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42148175/"
+      },
+      {
+        "pmid": "42128775",
+        "title": "Efficacy and Safety of a Tacrolimus Lipid Suspension Enema in Mild-to-Moderate Ulcerative Colitis: A Multicenter, Prospective, Double-Blind, Phase II Randomized Controlled Trial.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42128775/"
+      },
+      {
+        "pmid": "42124058",
+        "title": "The Oxidative Stress Imbalance in Children and Adults with IBD and Associated Factors.",
+        "pubdate": "2026 May 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42124058/"
+      },
+      {
+        "pmid": "41890576",
+        "title": "The Effectiveness of Huangkui Lianchang Decoction Enema Solution Compared with Mesalazine Enema for Mild-to-Moderate Active Distal Ulcerative Colitis: Study Protocol of a Multicenter, Prospective, Randomized Controlled Trial.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41890576/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "ZILEUTON",
+        "chembl_id": "CHEMBL93",
+        "reason": "same target: Polyunsaturated fatty acid 5-lipoxygenase"
+      },
+      {
+        "name": "BALSALAZIDE DISODIUM",
+        "chembl_id": "CHEMBL1200760",
+        "reason": "same target: Polyunsaturated fatty acid 5-lipoxygenase"
+      },
+      {
+        "name": "MECLOFENAMATE SODIUM",
+        "chembl_id": "CHEMBL1562610",
+        "reason": "same target: Polyunsaturated fatty acid 5-lipoxygenase"
+      },
+      {
+        "name": "OLSALAZINE SODIUM",
+        "chembl_id": "CHEMBL1201013",
+        "reason": "same target: Polyunsaturated fatty acid 5-lipoxygenase"
+      },
+      {
+        "name": "SULFASALAZINE",
+        "chembl_id": "CHEMBL421",
+        "reason": "same target: Polyunsaturated fatty acid 5-lipoxygenase"
+      },
+      {
+        "name": "ATRELEUTON",
+        "chembl_id": "CHEMBL59356",
+        "reason": "same target: Polyunsaturated fatty acid 5-lipoxygenase"
+      },
+      {
+        "name": "PF-4191834",
+        "chembl_id": "CHEMBL4297416",
+        "reason": "same target: Polyunsaturated fatty acid 5-lipoxygenase"
+      }
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "drug_name": "Placebo (Saline solution)",
+  "slug": "placebo-saline-solution",
+  "enriched_at": "2026-08-16T07:58:42Z",
+  "source_trial_ids": [
+    "NCT07272434"
+  ],
+  "sponsors": [
+    {
+      "name": "MAXVAX Biotechnology Limited Liability Company",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=MAXVAX%20Biotechnology%20Limited%20Liability%20Company&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "8375",
+      "generic_name": "placebo",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2108251",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Placebo%20%28Saline%20solution%29+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Placebo%20%28Saline%20solution%29+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Placebo%20%28Saline%20solution%29+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Respiratory Syncytial Virus (RSV)",
+    "slug": "respiratory-syncytial-virus-rsv"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07272434",
+      "title": "Phase III Clinical Trial of the Recombinant Respiratory Syncytial Virus Vaccine ( CHO Cell)",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07272434",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42464383",
+        "title": "Effect of Hyaluronic Acid on Palatal Wound Healing-A Randomized Crossover Clinical Trial.",
+        "pubdate": "2026 Jul 16",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42464383/"
+      },
+      {
+        "pmid": "42416578",
+        "title": "Prophylactic Methylprednisolone in Neonatal On-Pump Cardiac Surgery.",
+        "pubdate": "2026 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42416578/"
+      },
+      {
+        "pmid": "42138680",
+        "title": "Intravenous Magnesium Sulfate for Acute Nontraumatic Headache in the Emergency Department.",
+        "pubdate": "2026 May 14",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42138680/"
+      },
+      {
+        "pmid": "42027320",
+        "title": "Does the Synergistic Systemic and Local Application of Tranexamic Acid Reduce Blood Loss in Patients with Pertrochanteric Hip Fractures in the Elderly? Clinical Trial in a Tertiary Hospital Centre.",
+        "pubdate": "2026 Apr",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42027320/"
+      },
+      {
+        "pmid": "41974150",
+        "title": "Pembrolizumab plus weekly paclitaxel in platinum-resistant recurrent ovarian cancer (ENGOT-ov65/KEYNOTE-B96): a multicentre, randomised, double-blind, phase 3 study.",
+        "pubdate": "2026 Apr 18",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41974150/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "drug_name": "Rocatinlimab",
+  "slug": "rocatinlimab",
+  "enriched_at": "2026-08-16T08:04:07Z",
+  "source_trial_ids": [
+    "NCT05882877"
+  ],
+  "sponsors": [
+    {
+      "name": "Amgen",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Amgen&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2686424",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4594567",
+    "target_chembl_id": "CHEMBL3989383",
+    "target_name": "Tumor necrosis factor receptor superfamily member 4",
+    "mechanism_of_action_chembl": "Tumor necrosis factor receptor superfamily member 4 antagonist"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Rocatinlimab+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Rocatinlimab+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Rocatinlimab+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Atopic Dermatitis",
+    "slug": "atopic-dermatitis"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05882877",
+      "title": "A Study to Assess Long-term Safety, Tolerability, and Efficacy of Rocatinlimab in Adult and Adolescent Participants With Moderate-to-severe Atopic Dermatitis (AD)",
+      "status": "TERMINATED",
+      "url": "https://clinicaltrials.gov/study/NCT05882877",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42001888",
+        "title": "Rocatinlimab atopic dermatitis in two global phase 3 clinical trials.",
+        "pubdate": "2026 Apr 18",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42001888/"
+      },
+      {
+        "pmid": "41543822",
+        "title": "Psychometric Evaluation of Worst Pruritus Numeric Rating Scale in Adults With Moderate-to-Severe Atopic Dermatitis.",
+        "pubdate": "2026 Feb",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41543822/"
+      },
+      {
+        "pmid": "41370848",
+        "title": "OX40 Ligand Inhibitors for Moderate-to-Severe Atopic Dermatitis: A Review of Phase II Clinical Trial Data.",
+        "pubdate": "2025 Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41370848/"
+      },
+      {
+        "pmid": "41314226",
+        "title": "Efficacy and safety of rocatinlimab for the treatment of moderate-to-severe atopic dermatitis in ROCKET-IGNITE and ROCKET-HORIZON: two global, double-blind, placebo-controlled, randomised phase 3 clinical trials.",
+        "pubdate": "2026 Jan 3",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41314226/"
+      },
+      {
+        "pmid": "40913705",
+        "title": "Rocatinlimab: A Novel T-Cell Rebalancing Therapy Targeting the OX40 Receptor in Atopic Dermatitis.",
+        "pubdate": "2025 Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40913705/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "MEDI-6469",
+        "chembl_id": "CHEMBL2109531",
+        "reason": "same target: Tumor necrosis factor receptor superfamily member 4"
+      },
+      {
+        "name": "TELAZORLIMAB",
+        "chembl_id": "CHEMBL4594546",
+        "reason": "same target: Tumor necrosis factor receptor superfamily member 4"
+      },
+      {
+        "name": "GSK-3174998",
+        "chembl_id": "CHEMBL4297968",
+        "reason": "same target: Tumor necrosis factor receptor superfamily member 4"
+      },
+      {
+        "name": "IVUXOLIMAB",
+        "chembl_id": "CHEMBL4297883",
+        "reason": "same target: Tumor necrosis factor receptor superfamily member 4"
+      }
+    ]
+  }
+}

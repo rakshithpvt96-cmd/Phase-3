@@ -1,0 +1,150 @@
+{
+  "drug_name": "Pemetrexed Disodium for Injection",
+  "slug": "pemetrexed-disodium-for-injection",
+  "enriched_at": "2026-08-16T07:57:17Z",
+  "source_trial_ids": [
+    "NCT06738251"
+  ],
+  "sponsors": [
+    {
+      "name": "Shanghai Hengrui Pharmaceutical Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Shanghai%20Hengrui%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "282443",
+      "generic_name": "pemetrexed disodium",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2360464",
+    "target_chembl_id": "CHEMBL1952",
+    "target_name": "Thymidylate synthase",
+    "mechanism_of_action_chembl": "Thymidylate synthase inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Pemetrexed%20Disodium%20for%20Injection+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Pemetrexed%20Disodium%20for%20Injection+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Pemetrexed%20Disodium%20for%20Injection+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Advanced Urothelial Carcinoma",
+    "slug": "advanced-urothelial-carcinoma"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06738251",
+      "title": "A Phase III Study of SHR-A2102 Versus Investigator-selected Therapy in Advanced Urothelial Carcinoma",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06738251",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "41877338",
+        "title": "Safety and efficacy of intrathecal pemetrexed and bevacizumab in non-small cell lung cancer (NSCLC) patients with leptomeningeal metastases (LM): protocol for a single-arm, prospective, phase Ia trial.",
+        "pubdate": "2026 Mar 23",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41877338/"
+      },
+      {
+        "pmid": "40437572",
+        "title": "Intrathecal pemetrexed efficacy and cerebrospinal fluid tumor marker response in refractory leptomeningeal metastasis of non-small-cell lung cancer: a single-arm phase II trial.",
+        "pubdate": "2025 May 28",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40437572/"
+      },
+      {
+        "pmid": "38377785",
+        "title": "Efficacy and safety of intrathecal pemetrexed for TKI-failed leptomeningeal metastases from EGFR+ NSCLC: an expanded, single-arm, phase II clinical trial.",
+        "pubdate": "2024 Apr",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38377785/"
+      },
+      {
+        "pmid": "30736848",
+        "title": "Phase Ib evaluation of a self-adjuvanted protamine formulated mRNA-based active cancer immunotherapy, BI1361849 (CV9202), combined with local radiation treatment in patients with stage IV non-small cell lung cancer.",
+        "pubdate": "2019 Feb 8",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30736848/"
+      },
+      {
+        "pmid": "30524880",
+        "title": "A single centre phase II trial to assess the immunological activity of TroVax® plus pemetrexed/cisplatin in patients with malignant pleural mesothelioma - the SKOPOS trial.",
+        "pubdate": "2018",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30524880/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "FLOXURIDINE",
+        "chembl_id": "CHEMBL917",
+        "reason": "same target: Thymidylate synthase"
+      },
+      {
+        "name": "CAPECITABINE",
+        "chembl_id": "CHEMBL1773",
+        "reason": "same target: Thymidylate synthase"
+      },
+      {
+        "name": "FLUOROURACIL",
+        "chembl_id": "CHEMBL185",
+        "reason": "same target: Thymidylate synthase"
+      },
+      {
+        "name": "RALTITREXED",
+        "chembl_id": "CHEMBL225071",
+        "reason": "same target: Thymidylate synthase"
+      },
+      {
+        "name": "OSI-7904",
+        "chembl_id": "CHEMBL169896",
+        "reason": "same target: Thymidylate synthase"
+      },
+      {
+        "name": "NOLATREXED",
+        "chembl_id": "CHEMBL320775",
+        "reason": "same target: Thymidylate synthase"
+      },
+      {
+        "name": "DOXIFLURIDINE",
+        "chembl_id": "CHEMBL1130",
+        "reason": "same target: Thymidylate synthase"
+      },
+      {
+        "name": "TEGAFUR",
+        "chembl_id": "CHEMBL20883",
+        "reason": "same target: Thymidylate synthase"
+      },
+      {
+        "name": "PEMETREXED",
+        "chembl_id": "CHEMBL225072",
+        "reason": "same target: Thymidylate synthase"
+      },
+      {
+        "name": "PEMETREXED MONOHYDRATE",
+        "chembl_id": "CHEMBL5315053",
+        "reason": "same target: Thymidylate synthase"
+      }
+    ]
+  }
+}

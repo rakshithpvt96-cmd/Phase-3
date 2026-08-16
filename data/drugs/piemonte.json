@@ -1,0 +1,95 @@
+{
+  "drug_name": "PIEMONTE",
+  "slug": "piemonte",
+  "enriched_at": "2026-08-16T07:57:43Z",
+  "source_trial_ids": [
+    "NCT05028140"
+  ],
+  "sponsors": [
+    {
+      "name": "EMS",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=EMS&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": null
+  },
+  "mechanism": {
+    "chembl_id": null,
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=PIEMONTE+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=PIEMONTE+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=PIEMONTE+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Type II Diabetes",
+    "slug": "type-ii-diabetes"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05028140",
+      "title": "Efficacy and Safety of Piemonte Association in the Treatment of Type II Diabetes Mellitus",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05028140",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42510575",
+        "title": "Very-Low-Energy Ketogenic Therapy Modulates the Metabolic-Antioxidant Axis in Patients with Obesity and Type 2 Diabetes: A Non-Randomized Clinical Trial.",
+        "pubdate": "2026 Jul 4",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42510575/"
+      },
+      {
+        "pmid": "42496771",
+        "title": "Brief report: attitudes and barriers toward genetic testing in pleural mesothelioma: a nationwide Italian survey.",
+        "pubdate": "2026 Jul 24",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42496771/"
+      },
+      {
+        "pmid": "42386249",
+        "title": "High postprandial endotoxemia is associated with recurrence of cardiovascular events in patients with coronary heart disease: from the CORDIOPREV randomized clinical trial.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42386249/"
+      },
+      {
+        "pmid": "42263664",
+        "title": "CRISPR application in hematological disorders: from bench to bedside.",
+        "pubdate": "2026 Aug 11",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42263664/"
+      },
+      {
+        "pmid": "42247480",
+        "title": "The impact of novel BET inhibitors on the treatment armamentarium of myelofibrosis.",
+        "pubdate": "2026 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42247480/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

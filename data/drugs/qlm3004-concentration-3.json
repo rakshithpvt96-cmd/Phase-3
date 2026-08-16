@@ -1,0 +1,95 @@
+{
+  "drug_name": "QLM3004 Concentration 3",
+  "slug": "qlm3004-concentration-3",
+  "enriched_at": "2026-08-16T08:02:31Z",
+  "source_trial_ids": [
+    "NCT06151587"
+  ],
+  "sponsors": [
+    {
+      "name": "Qilu Pharmaceutical Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Qilu%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": null
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2108774",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=QLM3004%20Concentration%203+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=QLM3004%20Concentration%203+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=QLM3004%20Concentration%203+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Myopia",
+    "slug": "myopia"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06151587",
+      "title": "A Phase 3 Clinical Study of QLM3004 in Delaying Myopia in Children",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06151587",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42601880",
+        "title": "Dietary α-linolenic acid improves skin blood flow following cold exposure and endothelial function in healthy adults: a randomized, double-blind, placebo-controlled, parallel-group comparative trial.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42601880/"
+      },
+      {
+        "pmid": "42599579",
+        "title": "Pharmacokinetics, Safety, and Immunogenicity of DMB-3115, a Ustekinumab Biosimilar for Immune-Mediated Diseases, in Healthy Japanese Male Participants: A Randomized, Double-Blind, Single-Dose Study.",
+        "pubdate": "2026 Aug 14",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42599579/"
+      },
+      {
+        "pmid": "42594942",
+        "title": "12-month clinical trial of bioencapsulated terbinafine yielded inconsistent resolution for the treatment of Emydomyces testavorans in the Blanding's turtle (Emydoidea blandingii).",
+        "pubdate": "2026 Aug 12",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42594942/"
+      },
+      {
+        "pmid": "42593688",
+        "title": "A phase 1, open-label study evaluating the pharmacokinetics, safety, and tolerability of vepdegestrant in Chinese patients with ER+/HER2- advanced breast cancer.",
+        "pubdate": "2026 Aug 13",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42593688/"
+      },
+      {
+        "pmid": "42593182",
+        "title": "Role of glucagon in metabolic diseases.",
+        "pubdate": "2026 Aug 13",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42593182/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

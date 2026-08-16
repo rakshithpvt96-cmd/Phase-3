@@ -1,0 +1,105 @@
+{
+  "drug_name": "Primaquine",
+  "slug": "primaquine",
+  "enriched_at": "2026-08-16T07:59:27Z",
+  "source_trial_ids": [
+    "NCT06666491"
+  ],
+  "sponsors": [
+    {
+      "name": "GlaxoSmithKline",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=GlaxoSmithKline&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 4908,
+    "iupac_name": "4-N-(6-methoxyquinolin-8-yl)pentane-1,4-diamine",
+    "molecular_formula": "C15H21N3O",
+    "molecular_weight": "259.35",
+    "canonical_smiles": null,
+    "inchikey": "INDBQLZJXZLFIT-UHFFFAOYSA-N",
+    "rxnorm": {
+      "rxcui": "8687",
+      "generic_name": "primaquine",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL455150",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": null,
+    "pharmacokinetics": "Pharmacokinetics Following single oral dosing, the C max and AUC of primaquine increase approximately dose-proportionally over a primaquine base dose range of 15 mg to 45 mg (3 times the approved dose). The pharmacokinetic parameters and properties of primaquine and carboxyprimaquine (main circulating metabolite not expected to be active) in patients with P. vivax malaria following Oral Administration of primaquine are provided in TABLE 1. TABLE 1: Summary of Pharmacokinetic Parameters and Properties (Mean ± SD) in Patients with P. vivax malaria. PK Parameter 15 mg once daily in adult patients (18 years of age and older) with P. vivax malaria, unless otherwise specified Day Primaquine Carboxyprimaquine C max (ng/mL) 1 50.7 ± 21.2 291 ± 52 C max (ng/mL) 14 49.7 ± 14.4 432 ±112 AUC or AUC 0-24 (μg/mL*h) AUC for primaquine, AUC 0-24 for carboxyprimaquine 1 0.48 ± 0.26 5.15 ± 1.01 AUC or AUC 0-24 (μg/mL*h) † 14 0.49 ± 0.19 7.24 ± 1.82 Primaquine Absorption Bioavailability Healthy participants >70 % T max 2.3 ± 1.1 hours Effect of food on primaquine (relative to fasting) Values refer to increase in mean systemic exposure with bread and butter: 82% fat, ~28g fat after single dose of 30 mg primaquine in healthy participants Geometric mean [95% confidence interval] ↑ 14% [3, 27] (AUC); ↑ 26% [12, 40] (C max ) Distribution % Bound to human plasma proteins 74% (mainly to alpha 1 acid glycoprotein) Volume of distribution (V) IV dose administration of [ 14 C]-primaquine in healthy participants 243 ± 69 L Metabolism Metabolic pathways -Oxidative deamination, MAO-A -Hydroxylation of the quinoline ring, CYP2D6 -Direct conjugations Elimination Major route of elimination Metabolism Apparent Clearance (CL/F) 37.6 ± 14.7 L/hr Mean terminal half-life (t 1/2 ) The mean terminal half-life of carboxyprimaquine is approximately 22 hours 5.6 ± 1.0 hours % of dose excreted in urine The main circulating metabolite, carboxyprimaquine is subjected to further metabolism and not eliminated through urine , Oral administration of [ 14 C]-primaquine in healthy participants; no data in feces 64%, (including 3.6% of primaquine, the remnant being metabolites other than carboxyprimaquine) C max =maximum plasma concentration; AUC=area under the plasma concentration-time curve from time zero up to infinity; MAO-A = monoamine oxidase A",
+    "indications_and_usage": "INDICATIONS AND USAGE Primaquine phosphate is indicated for the radical cure (prevention of relapse) of vivax malaria.",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "PRIMAQUINE PHOSPHATE"
+    ],
+    "openfda_generic_names": [
+      "PRIMAQUINE PHOSPHATE"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3f16166d-678e-51aa-e054-00144ff88e88",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Malaria, Vivax",
+    "slug": "malaria-vivax"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06666491",
+      "title": "An Interventional Study to Compare the Efficacy and Safety of Tafenoquine (TQ) and Primaquine (PQ) When Either Are Taken Together With Chloroquine (CQ) for the Treatment of P. Vivax Malaria in Indian Participants Aged 2 Years and Older",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06666491",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42373213",
+        "title": "Risk perceptions of high-dose primaquine and tafenoquine among Plasmodium vivax malaria stakeholders in Ethiopia: a qualitative study.",
+        "pubdate": "2026 Jun 29",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42373213/"
+      },
+      {
+        "pmid": "42292773",
+        "title": "First TES in Djibouti: A Critical Milestone Amid Rising Regional Threats.",
+        "pubdate": "2026 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42292773/"
+      },
+      {
+        "pmid": "42204711",
+        "title": "Dissemination of EFFORT trial results in Indonesia: a stakeholder meeting report on tafenoquine and primaquine for radical cure of Plasmodium vivax.",
+        "pubdate": "2026 May 27",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42204711/"
+      },
+      {
+        "pmid": "42114535",
+        "title": "Dihydroartemisinin-piperaquine versus chloroquine for the treatment of uncomplicated Plasmodium vivax malaria with concurrent or delayed high-dose primaquine in Brazil (Curavivax): an open-label, single-centre, randomised clinical trial.",
+        "pubdate": "2026 May 11",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42114535/"
+      },
+      {
+        "pmid": "41768389",
+        "title": "Efficacy of primaquine-chloroquine combination on Plasmodium vivax transmission and parasite clearance in Ethiopia: a randomized controlled trial.",
+        "pubdate": "2026 May",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41768389/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

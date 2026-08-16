@@ -1,0 +1,141 @@
+{
+  "drug_name": "Pamiparib",
+  "slug": "pamiparib",
+  "enriched_at": "2026-08-16T07:56:27Z",
+  "source_trial_ids": [
+    "NCT04164199"
+  ],
+  "sponsors": [
+    {
+      "name": "BeOne Medicines",
+      "ticker": "ONC",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001651308&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 135565554,
+    "iupac_name": "(2R)-14-fluoro-2-methyl-6,9,10,19-tetrazapentacyclo[14.2.1.02,6.08,18.012,17]nonadeca-1(18),8,12(17),13,15-pentaen-11-one",
+    "molecular_formula": "C16H15FN4O",
+    "molecular_weight": "298.31",
+    "canonical_smiles": null,
+    "inchikey": "DENYZIUJOTUUNY-MRXNPFEDSA-N",
+    "rxnorm": {
+      "rxcui": "2169490",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4112930",
+    "target_chembl_id": "CHEMBL3105",
+    "target_name": "Poly [ADP-ribose] polymerase 1",
+    "mechanism_of_action_chembl": "Poly [ADP-ribose] polymerase-1 inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Pamiparib+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Pamiparib+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Pamiparib+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Advanced Malignancies",
+    "slug": "advanced-malignancies"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04164199",
+      "title": "Study of Tislelizumab, Pamiparib, and Other Investigational Agents in Participants With Advanced Malignancies",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT04164199",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42217836",
+        "title": "Tumor Growth Rate (TGR) Analysis Predicts Survival in a Multicenter Phase II Study of the PARP Inhibitor Pamiparib (BGB-290) with Temozolomide in Recurrent IDH-Mutant Gliomas (ABTC-1801).",
+        "pubdate": "2026 May 29",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42217836/"
+      },
+      {
+        "pmid": "42051038",
+        "title": "Efficacy and Safety of Pamiparib Monotherapy in Recurrent Ovarian Cancer After Prior PARPi Exposure: A Prospective, Open-Label, Single-Arm, Phase II Study.",
+        "pubdate": "2026 May",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42051038/"
+      },
+      {
+        "pmid": "41149461",
+        "title": "Phase Ib/II Study of Pamiparib Plus Radiation Therapy and/or Temozolomide in Adult Patients with Treatment-Naïve or Recurrent/Refractory Glioblastoma.",
+        "pubdate": "2025 Sep 27",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41149461/"
+      },
+      {
+        "pmid": "41099363",
+        "title": "Phase I/II and window-of-opportunity study of pamiparib and metronomic temozolomide for recurrent isocitrate dehydrogenase mutant gliomas.",
+        "pubdate": "2026 Feb 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41099363/"
+      },
+      {
+        "pmid": "37474720",
+        "title": "Pamiparib in combination with tislelizumab in patients with advanced solid tumours: results from the dose-expansion stage of a multicentre, open-label, phase I trial.",
+        "pubdate": "2023 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37474720/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "TALAZOPARIB",
+        "chembl_id": "CHEMBL3137320",
+        "reason": "same target: Poly [ADP-ribose] polymerase 1"
+      },
+      {
+        "name": "TALAZOPARIB TOSYLATE",
+        "chembl_id": "CHEMBL3137318",
+        "reason": "same target: Poly [ADP-ribose] polymerase 1"
+      },
+      {
+        "name": "NIRAPARIB",
+        "chembl_id": "CHEMBL1094636",
+        "reason": "same target: Poly [ADP-ribose] polymerase 1"
+      },
+      {
+        "name": "NIRAPARIB TOSYLATE MONOHYDRATE",
+        "chembl_id": "CHEMBL3989922",
+        "reason": "same target: Poly [ADP-ribose] polymerase 1"
+      },
+      {
+        "name": "2X-121",
+        "chembl_id": "CHEMBL3644587",
+        "reason": "same target: Poly [ADP-ribose] polymerase 1"
+      },
+      {
+        "name": "AMELPARIB DIHYDROCHLORIDE DIHYDRATE",
+        "chembl_id": "CHEMBL5314421",
+        "reason": "same target: Poly [ADP-ribose] polymerase 1"
+      },
+      {
+        "name": "SENAPARIB",
+        "chembl_id": "CHEMBL4802152",
+        "reason": "same target: Poly [ADP-ribose] polymerase 1"
+      }
+    ]
+  }
+}

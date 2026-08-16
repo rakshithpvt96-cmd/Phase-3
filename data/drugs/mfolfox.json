@@ -1,0 +1,95 @@
+{
+  "drug_name": "mFOLFOX",
+  "slug": "mfolfox",
+  "enriched_at": "2026-08-16T07:53:34Z",
+  "source_trial_ids": [
+    "NCT05065957"
+  ],
+  "sponsors": [
+    {
+      "name": "InnoPharmax Inc.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=InnoPharmax%20Inc.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": null
+  },
+  "mechanism": {
+    "chembl_id": null,
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=mFOLFOX+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=mFOLFOX+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=mFOLFOX+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Biliary Tract Cancer",
+    "slug": "biliary-tract-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05065957",
+      "title": "Study of Combination Therapy of D07001-Softgel Capsules and Xeloda/TS-1 in Subjects With Advanced Biliary Tract Cancer",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05065957",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42096115",
+        "title": "Ketotifen for Preventing Oxaliplatin-Induced Neuropathy in Stage III Colorectal Cancer: a Randomized Controlled Trial.",
+        "pubdate": "2026 May 7",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42096115/"
+      },
+      {
+        "pmid": "40967882",
+        "title": "[Preoperative short-course radiotherapy followed by chemotherapy and PD-1 inhibitor administration for locally advanced rectal cancer: the initial results of a randomized controlled clinical trial (STELLAR II)].",
+        "pubdate": "2025 Sep 23",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40967882/"
+      },
+      {
+        "pmid": "39026218",
+        "title": "Combination of neoadjuvant and adjuvant chemotherapy with FOLFOX compared with adjuvant chemotherapy in management of locally advanced rectal cancers: a randomized trial of a promising therapeutic approach.",
+        "pubdate": "2024 Jul 18",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39026218/"
+      },
+      {
+        "pmid": "37207143",
+        "title": "Predictive potential of angiopoietin-2 in a mCRC subpopulation treated with vanucizumab in the McCAVE trial.",
+        "pubdate": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37207143/"
+      },
+      {
+        "pmid": "33868997",
+        "title": "Survival Comparisons of Hepatic Arterial Infusion Chemotherapy With mFOLFOX and Transarterial Chemoembolization in Patients With Unresectable Intrahepatic Cholangiocarcinoma.",
+        "pubdate": "2021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33868997/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

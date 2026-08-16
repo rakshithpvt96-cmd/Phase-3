@@ -1,0 +1,68 @@
+{
+  "drug_name": "Lerotinib",
+  "slug": "lerotinib",
+  "enriched_at": "2026-08-16T07:52:19Z",
+  "source_trial_ids": [
+    "NCT04415853"
+  ],
+  "sponsors": [
+    {
+      "name": "Sunshine Lake Pharma Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Sunshine%20Lake%20Pharma%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "337525",
+      "generic_name": "erlotinib",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": null,
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Lerotinib+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Lerotinib+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Lerotinib+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Esophageal Cancer",
+    "slug": "esophageal-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04415853",
+      "title": "Study of Larotinib in Unresectable Advanced or Recurrent Esophageal Cancer",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04415853",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

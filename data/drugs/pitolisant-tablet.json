@@ -1,0 +1,119 @@
+{
+  "drug_name": "Pitolisant tablet",
+  "slug": "pitolisant-tablet",
+  "enriched_at": "2026-08-16T07:57:59Z",
+  "source_trial_ids": [
+    "NCT06366464"
+  ],
+  "sponsors": [
+    {
+      "name": "Harmony Biosciences Management, Inc.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Harmony%20Biosciences%20Management%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2197883",
+      "generic_name": "pitolisant Oral Tablet",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4164059",
+    "target_chembl_id": "CHEMBL264",
+    "target_name": "Histamine H3 receptor",
+    "mechanism_of_action_chembl": "Histamine H3 receptor inverse agonist"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Pitolisant%20tablet+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Pitolisant%20tablet+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Pitolisant%20tablet+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Prader-Willi Syndrome",
+    "slug": "prader-willi-syndrome"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06366464",
+      "title": "A Study of Pitolisant in Patients With Prader-Willi Syndrome",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06366464",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "IRDABISANT",
+        "chembl_id": "CHEMBL1829335",
+        "reason": "same target: Histamine H3 receptor"
+      },
+      {
+        "name": "CIPRALISANT MALEATE",
+        "chembl_id": "CHEMBL2106003",
+        "reason": "same target: Histamine H3 receptor"
+      },
+      {
+        "name": "BAVISANT",
+        "chembl_id": "CHEMBL2103862",
+        "reason": "same target: Histamine H3 receptor"
+      },
+      {
+        "name": "PF-03654746",
+        "chembl_id": "CHEMBL2151197",
+        "reason": "same target: Histamine H3 receptor"
+      },
+      {
+        "name": "PF-03654764",
+        "chembl_id": "CHEMBL2206292",
+        "reason": "same target: Histamine H3 receptor"
+      },
+      {
+        "name": "GSK239512",
+        "chembl_id": "CHEMBL3092650",
+        "reason": "same target: Histamine H3 receptor"
+      },
+      {
+        "name": "MK-0249",
+        "chembl_id": "CHEMBL476323",
+        "reason": "same target: Histamine H3 receptor"
+      },
+      {
+        "name": "GSK189254",
+        "chembl_id": "CHEMBL517140",
+        "reason": "same target: Histamine H3 receptor"
+      },
+      {
+        "name": "ABT-288",
+        "chembl_id": "CHEMBL3545029",
+        "reason": "same target: Histamine H3 receptor"
+      },
+      {
+        "name": "JNJ-17216498",
+        "chembl_id": "CHEMBL3545030",
+        "reason": "same target: Histamine H3 receptor"
+      }
+    ]
+  }
+}

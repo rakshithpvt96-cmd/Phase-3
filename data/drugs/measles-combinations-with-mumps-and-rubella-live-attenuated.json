@@ -1,0 +1,99 @@
+{
+  "drug_name": "Measles, combinations with mumps and rubella, live attenuated",
+  "slug": "measles-combinations-with-mumps-and-rubella-live-attenuated",
+  "enriched_at": "2026-08-16T07:52:58Z",
+  "source_trial_ids": [
+    "NCT07103148"
+  ],
+  "sponsors": [
+    {
+      "name": "Sanofi",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Sanofi&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1429442",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL6068354",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": "Biological vaccine - induces immune response"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Measles%2C%20combinations%20with%20mumps%20and%20rubella%2C%20live%20attenuated+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Measles%2C%20combinations%20with%20mumps%20and%20rubella%2C%20live%20attenuated+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Measles%2C%20combinations%20with%20mumps%20and%20rubella%2C%20live%20attenuated+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Yellow Fever Immunization",
+    "slug": "yellow-fever-immunization"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07103148",
+      "title": "A Phase III Control Study of the Safety and Immunogenicity of vYF in Pediatric Population",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07103148",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "41295459",
+        "title": "Immunogenicity and Safety of Sabin Strain Inactivated Poliovirus Vaccine Booster Dose Administered Separately or Concomitantly with Inactivated Hepatitis A Vaccine or Measles-Mumps-Rubella Combined Attenuated Live Vaccine: An Open-Labelled, Randomized, Controlled, Phase 4 Clinical Trial.",
+        "pubdate": "2025 Oct 23",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41295459/"
+      },
+      {
+        "pmid": "41267495",
+        "title": "Comparative long-term follow-up study of persistence of immunity after JVC-001 measles, mumps, and rubella vaccination in Japanese children.",
+        "pubdate": "2025 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41267495/"
+      },
+      {
+        "pmid": "41187484",
+        "title": "Immunogenicity and safety of concomitant vaccines given with 20-valent pneumococcal conjugate vaccine in healthy infants.",
+        "pubdate": "2025 Dec 5",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41187484/"
+      },
+      {
+        "pmid": "40165977",
+        "title": "Measles-mumps-rubella-vaccination at 6 months of age induces measles-specific T cell responses: a randomized controlled trial.",
+        "pubdate": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40165977/"
+      },
+      {
+        "pmid": "38906375",
+        "title": "Phase III, open-label, single-arm study of a new MMR vaccine (JVC-001); measles AIK-C, mumps RIT 4385, rubella Takahashi, as a second vaccine dose in healthy Japanese children aged 5-6 years.",
+        "pubdate": "2024 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38906375/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

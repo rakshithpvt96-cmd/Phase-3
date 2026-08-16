@@ -1,0 +1,150 @@
+{
+  "drug_name": "Moxifloxacin Hydrochloride, Ophthalmic",
+  "slug": "moxifloxacin-hydrochloride-ophthalmic",
+  "enriched_at": "2026-08-16T07:54:17Z",
+  "source_trial_ids": [
+    "NCT07305987"
+  ],
+  "sponsors": [
+    {
+      "name": "Laboratorios Sophia S.A de C.V.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Laboratorios%20Sophia%20S.A%20de%20C.V.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1157857",
+      "generic_name": "moxifloxacin Ophthalmic Product",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1200735",
+    "target_chembl_id": "CHEMBL2363076",
+    "target_name": "Topoisomerase IV",
+    "mechanism_of_action_chembl": "Topoisomerase IV inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Moxifloxacin%20Hydrochloride%2C%20Ophthalmic+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Moxifloxacin%20Hydrochloride%2C%20Ophthalmic+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Moxifloxacin%20Hydrochloride%2C%20Ophthalmic+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Cataract Extraction",
+    "slug": "cataract-extraction"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07305987",
+      "title": "PRO-232 in Patients Subjected to Cataract Surgery",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07305987",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "40705354",
+        "title": "Steroids and Cross-Linking for Ulcer Treatment: The SCUT II Randomized Clinical Trial.",
+        "pubdate": "2025 Jul 24",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40705354/"
+      },
+      {
+        "pmid": "36194412",
+        "title": "Effect of Topical Antibiotics on Duration of Acute Infective Conjunctivitis in Children: A Randomized Clinical Trial and a Systematic Review and Meta-analysis.",
+        "pubdate": "2022 Oct 3",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36194412/"
+      },
+      {
+        "pmid": "34901464",
+        "title": "Double-masked, sham and placebo-controlled trial of corneal cross-linking and topical difluprednate in the treatment of bacterial keratitis: Steroids and Cross-linking for Ulcer Treatment Trial (SCUT II) study protocol.",
+        "pubdate": "2021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34901464/"
+      },
+      {
+        "pmid": "34079218",
+        "title": "A Randomized, Controlled, Prospective Study of the Effectiveness and Safety of an Intracanalicular Dexamethasone Ophthalmic Insert (0.4 Mg) for the Treatment of Post-Operative Inflammation in Patients Undergoing Refractive Lens Exchange (RLE).",
+        "pubdate": "2021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34079218/"
+      },
+      {
+        "pmid": "33079921",
+        "title": "Cross-Linking Assisted Infection Reduction (CLAIR): A Randomized Clinical Trial Evaluating the Effect of Adjuvant Cross-Linking on Bacterial Keratitis.",
+        "pubdate": "2021 Jul 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33079921/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "BESIFLOXACIN HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1201761",
+        "reason": "same target: Topoisomerase IV"
+      },
+      {
+        "name": "ALATROFLOXACIN MESYLATE",
+        "chembl_id": "CHEMBL1200498",
+        "reason": "same target: Topoisomerase IV"
+      },
+      {
+        "name": "NORFLOXACIN",
+        "chembl_id": "CHEMBL9",
+        "reason": "same target: Topoisomerase IV"
+      },
+      {
+        "name": "SPARFLOXACIN",
+        "chembl_id": "CHEMBL850",
+        "reason": "same target: Topoisomerase IV"
+      },
+      {
+        "name": "TROVAFLOXACIN MESYLATE",
+        "chembl_id": "CHEMBL1200779",
+        "reason": "same target: Topoisomerase IV"
+      },
+      {
+        "name": "DELAFLOXACIN MEGLUMINE",
+        "chembl_id": "CHEMBL2105638",
+        "reason": "same target: Topoisomerase IV"
+      },
+      {
+        "name": "GARENOXACIN MESYLATE",
+        "chembl_id": "CHEMBL3183451",
+        "reason": "same target: Topoisomerase IV"
+      },
+      {
+        "name": "SITAFLOXACIN",
+        "chembl_id": "CHEMBL3989504",
+        "reason": "same target: Topoisomerase IV"
+      },
+      {
+        "name": "PRULIFLOXACIN",
+        "chembl_id": "CHEMBL422648",
+        "reason": "same target: Topoisomerase IV"
+      },
+      {
+        "name": "GEPOTIDACIN",
+        "chembl_id": "CHEMBL3317856",
+        "reason": "same target: Topoisomerase IV"
+      }
+    ]
+  }
+}

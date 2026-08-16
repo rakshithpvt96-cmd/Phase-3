@@ -1,0 +1,105 @@
+{
+  "drug_name": "PIOGLITAZONE",
+  "slug": "pioglitazone",
+  "enriched_at": "2026-08-16T07:57:49Z",
+  "source_trial_ids": [
+    "NCT05028140"
+  ],
+  "sponsors": [
+    {
+      "name": "EMS",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=EMS&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 4829,
+    "iupac_name": "5-[[4-[2-(5-ethyl-2-pyridinyl)ethoxy]phenyl]methyl]-1,3-thiazolidine-2,4-dione",
+    "molecular_formula": "C19H20N2O3S",
+    "molecular_weight": "356.4",
+    "canonical_smiles": null,
+    "inchikey": "HYAFETHFCAUJAY-UHFFFAOYSA-N",
+    "rxnorm": {
+      "rxcui": "33738",
+      "generic_name": "pioglitazone",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL595",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Pioglitazone is a thiazolidinedione that depends on the presence of insulin for its mechanism of action. Pioglitazone decreases insulin resistance in the periphery and in the liver resulting in increased insulin-dependent glucose disposal and decreased hepatic glucose output. Pioglitazone is not an insulin secretagogue. Pioglitazone is an agonist for peroxisome proliferator-activated receptor-gamma (PPARγ). PPAR receptors are found in tissues important for insulin action such as adipose tissue, skeletal muscle, and liver. Activation of PPARγ nuclear receptors modulates the transcription of a number of insulin responsive genes involved in the control of glucose and lipid metabolism. In animal models of diabetes, pioglitazone reduces the hyperglycemia, hyperinsulinemia, and hypertriglyceridemia characteristic of insulin-resistant states such as type 2 diabetes. The metabolic changes produced by pioglitazone result in increased responsiveness of insulin- dependent tissues and are observed in numerous animal models of insulin resistance. Because pioglitazone enhances the effects of circulating insulin (by decreasing insulin resistance), it does not lower blood glucose in animal models that lack endogenous insulin.",
+    "pharmacokinetics": "12.3 Pharmacokinetics Following once-daily administration of pioglitazone, steady-state serum concentrations of both pioglitazone and its major active metabolites, M-III (keto derivative of pioglitazone) and M-IV (hydroxyl derivative of pioglitazone), are achieved within seven days. At steady-state, M-III and M-IV reach serum concentrations equal to or greater than that of pioglitazone. At steady-state, in both healthy volunteers and patients with type 2 diabetes, pioglitazone comprises approximately 30% to 50% of the peak total pioglitazone serum concentrations (pioglitazone plus active metabolites) and 20% to 25% of the total AUC. C max , AUC, and trough serum concentrations (C min ) for pioglitazone and M-III and M-IV, increased proportionally with administered doses of 15 mg and 30 mg per day. Absorption Following oral administration of pioglitazone, T max of pioglitazone was within two hours. Food delays the T max to three to four hours but does not alter the extent of absorption (AUC). Distribution The mean apparent volume of distribution (Vd/F) of pioglitazone following single- dose administration is 0.63 ± 0.41 (mean ± SD) L/kg of body weight. Pioglitazone is extensively protein bound (> 99%) in human serum, principally to serum albumin. Pioglitazone also binds to other serum proteins, but with lower affinity. M-III and M-IV are also extensively bound (> 98%) to serum albumin. Metabolism Pioglitazone is extensively metabolized by hydroxylation and oxidation; the metabolites also partly convert to glucuronide or sulfate conjugates. Metabolites M-III and M-IV are the major circulating active metabolites in humans. In vitro data demonstrate that multiple CYP isoforms are involved in the metabolism of pioglitazone, which include CYP2C8 and, to a lesser degree, CYP3A4 with additional contributions from a variety of other isoforms including the mainly extrahepatic CYP1A1. In vivo study of pioglitazone in combination with gemfibrozil, a strong CYP2C8 inhibitor, showed that pioglitazone is a CYP2C8 substrate [see Dosage and Administration (2.3) and Drug Interactions (7) ] . Urinary 6ß-hydroxycortisol/cortisol ratios measured in patients treated with pioglitazone showed that pioglitazone is not a strong CYP3A4 enzyme inducer. Excretion and Elimination Following oral administration, approximately 15% to 30% of the pioglitazone dose is recovered in the urine. Renal elimination of pioglitazone is negligible, and the drug is excreted primarily as metabolites and their conjugates. It is presumed that most of the oral dose is excreted into the bile either unchanged or as metabolites and eliminated in the feces. The mean serum half-life (t 1/2 ) of pioglitazone and its metabolites (M-III and M-IV) range from three to seven hours and 16 to 24 hours, respectively. Pioglitazone has an apparent clearance, CL/F, calculated to be five to seven L/hr. Renal Impairment The serum elimination half-life of pioglitazone, M-III, and M-IV remains unchanged in patients with moderate (creatinine clearance [CLcr] 30 to 50 mL/min) and severe (CLcr< 30 mL/min) renal impairment when compared to subjects with normal renal function. Therefore, no dose adjustment in patients with renal impairment is required. Hepatic Impairment Compared with healthy controls, subjects with impaired hepatic function (Child-Turcotte-Pugh Grade B/C) have an approximate 45% reduction in pioglitazone and total pioglitazone (pioglitazone, M-III, and M-IV) mean C max but no change in the mean AUC values. Therefore, no dose adjustment in patients with hepatic impairment is required. There are postmarketing reports of liver failure with pioglitazone and clinical trials have generally excluded patients with serum ALT >2.5 times the upper limit of the reference range. Use caution in patients with liver disease [see Warnings and Precautions (5.3) ] . Geriatric Patients In healthy elderly subjects, C max of pioglitazone was not significantly different, but AUC values were approximately 21% higher than those achieved in younger subjects. The mean t 1/2 of pioglitazone was also prolonged in elderly subjects (about ten hours) as compared to younger subjects (about seven hours). These changes were not of a magnitude that would be considered clinically relevant. Pediatric Patients Safety and efficacy of pioglitazone in pediatric patients have not been established. Pioglitazone is not recommended for use in pediatric patients [see Use in Specific Populations (8.4) ] . Gender The mean C max and AUC values of pioglitazone were increased 20% to 60% in women compared to men. In controlled clinical trials, HbA1c decreases from baseline were generally greater for females than for males (average mean difference in HbA1c 0.5%). Because therapy should be individualized for each patient to achieve glycemic control, no dose adjustment is recommended based on gender alone. Ethnicity Pharmacokinetic data among various ethnic groups are not available. Drug-Drug Interactions Table 15. Effect of Pioglitazone Coadministration on Systemic Exposure of Other Drugs Coadministered Drug Pioglitazone Dosage Regimen (mg) * Name and Dose Regimens Change in AUC † Change in C max † 45 mg (N = 12) Warfarin ‡ Daily loading then maintenance doses based PT and INR values Quick’s Value = 35 ± 5% R-Warfarin ↓ 3% R-Warfarin ↓ 2% S-Warfarin ↓ 1% S-Warfarin ↑ 1% 45 mg (N = 12) Digoxin 0.2 mg twice daily (loading dose) then 0.25 mg daily (maintenance dose, 7 days) ↑ 15% ↑ 17% 45 mg daily for 21 days (N = 35) Oral Contraceptive [Ethinyl Estradiol (EE) 0.035 mg plus Norethindrone (NE) 1 mg] for 21 days EE ↓ 11% EE ↓ 13% NE ↑ 3% NE ↓ 7% 45 mg (N = 23) Fexofenadine 60 mg twice daily for 7 days ↑ 30% ↑ 37% 45 mg (N = 14) Glipizide 5 mg daily for 7 days ↓ 3% ↓ 8% 45 mg daily for 8 days (N = 16) Metformin 1000 mg single dose on Day 8 ↓ 3% ↓ 5% 45 mg (N = 21) Midazolam 7.5 mg single dose on Day 15 ↓ 26% ↓ 26% 45 mg (N = 24) Ranitidine 150 mg twice daily for 7 days ↑1% ↓1% 45 mg daily for 4 days (N = 24) Nifedipine ER 30 mg daily for 4 days ↓13% ↓17% 45 mg (N = 25) Atorvastatin Ca 80 mg daily for 7 days ↓ 14% ↓ 23% 45 mg (N = 22) Theophylline 400 mg twice daily for 7 days ↑ 2% ↑ 5% * Daily for 7 days unless otherwise noted. † % change (with/without coadministered drug and no change = 0%); symbols of ↑ and ↓ indicate the exposure increase and decrease, respectively. ‡ Pioglitazone had no clinically significant effect on prothrombin time. Table 16. Effect of Coadministered Drugs on Pioglitazone Systemic Exposure Coadministered Drug and Dosage Regimen Pioglitazone Dose Regimen (mg) * Change in AUC † Change in C max † Gemfibrozil 600 mg twice daily for 2 days (N = 12) 15 mg single dose ↑ 3.2-fold ‡ ↑ 6% Ketoconazole 200 mg twice daily for 7 days (N = 28) 45 mg ↑ 34% ↑ 14% Rifampin 600 mg daily for 5 days (N = 10) 30 mg single dose ↓ 54% ↓ 5% Fexofenadine 60 mg twice daily for 7 days (N = 23) 45 mg ↑ 1% 0% Ranitidine 150 mg twice daily for 4 days (N = 23) 45 mg ↓ 13% ↓ 16% Nifedipine ER 30 mg daily for 7 days (N = 23) 45 mg ↑ 5% ↑ 4% Atorvastatin Ca 80 mg daily for 7 days (N = 24) 45 mg ↓ 24% ↓ 31% Theophylline 400 mg twice daily for 7 days (N = 22) 45 mg ↓ 4% ↓ 2% Topiramate 96 mg twice daily for 7 days § (N = 26) 30 mg § ↓ 15% ¶ 0% * Daily for 7 days unless otherwise noted. † Mean ratio (with/without coadministered drug and no change = 1-fold) % change (with/without coadministered drug and no change = 0%); symbols of ↑ and ↓ indicate the exposure increase and decrease, respectively. ‡ The half-life of pioglitazone increased from 8.3 hours to 22.7 hours in the presence of gemfibrozil [see Dosage and Administration (2.3) and Drug Interactions (7.1) ] § Indicates duration of concomitant administration with highest twice-daily dose of topiramate from Day 14 onwards over the 22 days of study ¶ Additional decrease in active metabolites; 60% for M-III and 16% for M-IV",
+    "indications_and_usage": "1 INDICATIONS AND USAGE Monotherapy and Combination Therapy Pioglitazone tablets are indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus in multiple clinical settings [see Clinical Studies (14) ] . Important Limitations of Use Pioglitazone tablets exert its antihyperglycemic effect only in the presence of endogenous insulin. Pioglitazone tablets should not be used to treat type 1 diabetes or diabetic ketoacidosis, as it would not be effective in these settings. Use caution in patients with liver disease [see Warnings and Precautions (5.3) ] . Pioglitazone is a thiazolidinedione and an agonist for peroxisome proliferator-activated receptor (PPAR) gamma indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus in multiple clinical settings. ( 1, 14) Important Limitations of Use: Not for treatment of type 1 diabetes or diabetic ketoacidosis. ( 1 )",
+    "boxed_warning": "WARNING: CONGESTIVE HEART FAILURE Thiazolidinediones, including pioglitazone , cause or exacerbate congestive heart failure in some patients [see Warnings and Precautions (5.1) ] . After initiation of pioglitazone , and after dose increases, monitor patients carefully for signs and symptoms of heart failure (e.g., excessive, rapid weight gain, dyspnea, and/or edema). If heart failure develops, it should be managed according to current standards of care and discontinuation or dose reduction of pioglitazone must be considered. Pioglitazone is not recommended in patients with symptomatic heart failure. Initiation of pioglitazone in patients with established New York Heart Association (NYHA) Class III or IV heart failure is contraindicated [see Contraindications (4) and Warnings and Precautions (5.1) ] . WARNING: CONGESTIVE HEART FAILURE See full prescribing information for complete boxed warning. Thiazolidinediones, including pioglitazone, cause or exacerbate congestive heart failure in some patients. (5.1) After initiation of pioglitazone, and after dose increases, monitor patients carefully for signs and symptoms of heart failure (e.g., excessive, rapid weight gain, dyspnea, and/or edema). If heart failure develops, it should be managed according to current standards of care and discontinuation or dose reduction of pioglitazone must be considered. (5.1) Pioglitazone is not recommended in patients with symptomatic heart failure. (5.1) Initiation of pioglitazone in patients with established New York Heart Association (NYHA) Class III or IV heart failure is contraindicated. (4 , 5.1)",
+    "openfda_brand_names": [
+      "PIOGLITAZONE HYDROCHLORIDE"
+    ],
+    "openfda_generic_names": [
+      "PIOGLITAZONE HYDROCHLORIDE"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=31619517-a590-408a-ae9e-76c99f0a0a1d",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Type II Diabetes",
+    "slug": "type-ii-diabetes"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05028140",
+      "title": "Efficacy and Safety of Piemonte Association in the Treatment of Type II Diabetes Mellitus",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05028140",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42564069",
+        "title": "The new era of MASH pharmacotherapy: a comprehensive review of FDA-approved and emerging agents.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42564069/"
+      },
+      {
+        "pmid": "42342769",
+        "title": "Pioglitazone does not improve standard steroid therapy for severe to profound sudden sensorineural hearing loss.",
+        "pubdate": "2026 Jun 24",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42342769/"
+      },
+      {
+        "pmid": "42271154",
+        "title": "Pioglitazone for the treatment of alcohol use disorder: A randomized controlled trial.",
+        "pubdate": "2026 Jun 10",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42271154/"
+      },
+      {
+        "pmid": "42019901",
+        "title": "The hidden link between diabetes and dementia: Findings from recent epidemiological studies.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42019901/"
+      },
+      {
+        "pmid": "41992726",
+        "title": "Insights from changes in NDEV biomarkers of metabolism: Effects of PPARγ and GLP1 receptor agonists on brain metabolism.",
+        "pubdate": "2026 Apr 17",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41992726/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

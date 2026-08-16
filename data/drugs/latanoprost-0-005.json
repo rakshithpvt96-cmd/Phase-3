@@ -1,0 +1,140 @@
+{
+  "drug_name": "Latanoprost (0.005%)",
+  "slug": "latanoprost-0-005",
+  "enriched_at": "2026-08-16T07:52:04Z",
+  "source_trial_ids": [
+    "NCT07354516"
+  ],
+  "sponsors": [
+    {
+      "name": "Qlaris Bio, Inc.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Qlaris%20Bio%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "314072",
+      "generic_name": "latanoprost 0.05 MG/ML Ophthalmic Solution",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1051",
+    "target_chembl_id": "CHEMBL1987",
+    "target_name": "Prostaglandin F2-alpha receptor",
+    "mechanism_of_action_chembl": "Prostanoid FP receptor agonist"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "DailyMed",
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=192fc081-cc38-4e83-b779-9592e060b915",
+    "note": "A label exists in DailyMed but structured sections could not be parsed automatically -- see dailymed_url for the full label.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Latanoprost%20%280.005%25%29+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Latanoprost%20%280.005%25%29+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Latanoprost%20%280.005%25%29+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "OAG - Open-Angle Glaucoma",
+    "slug": "oag-open-angle-glaucoma"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07354516",
+      "title": "Study of QLS-111-FDC in Open-Angle Glaucoma or Ocular Hypertension",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT07354516",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42298273",
+        "title": "Efficacy and safety of sepetaprost in patients with primary open-angle glaucoma or ocular hypertension: results from the randomised, phase 3 ANGEL-J1 study.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42298273/"
+      },
+      {
+        "pmid": "41707599",
+        "title": "Investigation of the effect of latanoprostene bunod and latanoprost on peripapillary optical coherence tomography angiography.",
+        "pubdate": "2026 Mar",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41707599/"
+      },
+      {
+        "pmid": "41580829",
+        "title": "Preservative-free latanoprost induces meibomian gland dysfunction through inflammatory and oxidative stress pathways.",
+        "pubdate": "2026 Jan 24",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41580829/"
+      },
+      {
+        "pmid": "34393206",
+        "title": "Clinical Trial: Diurnal IOP Fluctuations in Glaucoma Using Latanoprost and Timolol with Self-Tonometry.",
+        "pubdate": "2021 Aug 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34393206/"
+      },
+      {
+        "pmid": "34073977",
+        "title": "Comparison of the Safety and Efficacy between Preserved and Preservative-Free Latanoprost and Preservative-Free Tafluprost.",
+        "pubdate": "2021 May 24",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34073977/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "TAFLUPROST",
+        "chembl_id": "CHEMBL1963683",
+        "reason": "same target: Prostaglandin F2-alpha receptor"
+      },
+      {
+        "name": "TRAVOPROST",
+        "chembl_id": "CHEMBL1200799",
+        "reason": "same target: Prostaglandin F2-alpha receptor"
+      },
+      {
+        "name": "DINOPROST TROMETHAMINE",
+        "chembl_id": "CHEMBL1200896",
+        "reason": "same target: Prostaglandin F2-alpha receptor"
+      },
+      {
+        "name": "BIMATOPROST",
+        "chembl_id": "CHEMBL1200963",
+        "reason": "same target: Prostaglandin F2-alpha receptor"
+      },
+      {
+        "name": "CARBOPROST TROMETHAMINE",
+        "chembl_id": "CHEMBL1237105",
+        "reason": "same target: Prostaglandin F2-alpha receptor"
+      },
+      {
+        "name": "LATANOPROSTENE BUNOD",
+        "chembl_id": "CHEMBL2364612",
+        "reason": "same target: Prostaglandin F2-alpha receptor"
+      },
+      {
+        "name": "AL-12182",
+        "chembl_id": "CHEMBL184999",
+        "reason": "same target: Prostaglandin F2-alpha receptor"
+      },
+      {
+        "name": "SEPETAPROST",
+        "chembl_id": "CHEMBL4297633",
+        "reason": "same target: Prostaglandin F2-alpha receptor"
+      }
+    ]
+  }
+}

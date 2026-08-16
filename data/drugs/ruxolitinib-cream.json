@@ -1,0 +1,99 @@
+{
+  "drug_name": "Ruxolitinib Cream",
+  "slug": "ruxolitinib-cream",
+  "enriched_at": "2026-08-16T08:04:15Z",
+  "source_trial_ids": [
+    "NCT06548360"
+  ],
+  "sponsors": [
+    {
+      "name": "Incyte Corporation",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Incyte%20Corporation&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2570751",
+      "generic_name": "ruxolitinib Topical Cream",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1287854",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Ruxolitinib%20Cream+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Ruxolitinib%20Cream+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Ruxolitinib%20Cream+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "NonSegmental Vitiligo",
+    "slug": "nonsegmental-vitiligo"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06548360",
+      "title": "A Study to Evaluate the Safety and Efficacy of Ruxolitinib Cream in Pediatric Participants With Nonsegmental Vitiligo",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06548360",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42554948",
+        "title": "Real-World Effect of Ruxolitinib Cream: Decreased Use of Additional Topical Therapies and Limited Escalation to Systemic Treatments.",
+        "pubdate": "2026 Aug 5",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42554948/"
+      },
+      {
+        "pmid": "42473690",
+        "title": "Ruxolitinib cream in adults with moderate atopic dermatitis after failure of other topicals: A randomized trial.",
+        "pubdate": "2026 Jul 20",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42473690/"
+      },
+      {
+        "pmid": "42342652",
+        "title": "Emerging synthetic drugs for the management of hidradenitis suppurativa: a comprehensive update.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42342652/"
+      },
+      {
+        "pmid": "42201487",
+        "title": "Safety and Tolerability of Ruxolitinib Cream in Adolescents with Mild-to-Moderate Atopic Dermatitis: Results From a 1-Year, Phase III, Open-Label Study.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42201487/"
+      },
+      {
+        "pmid": "41793220",
+        "title": "Prolonged ruxolitinib cream treatment for vitiligo among patients with no or limited response in the first 6 months.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41793220/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

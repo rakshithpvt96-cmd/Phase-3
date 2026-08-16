@@ -1,0 +1,99 @@
+{
+  "drug_name": "MHB018A placebo",
+  "slug": "mhb018a-placebo",
+  "enriched_at": "2026-08-16T07:53:48Z",
+  "source_trial_ids": [
+    "NCT06989918"
+  ],
+  "sponsors": [
+    {
+      "name": "Minghui Pharmaceutical (Hangzhou) Ltd",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Minghui%20Pharmaceutical%20%28Hangzhou%29%20Ltd&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "8375",
+      "generic_name": "placebo",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": null,
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=MHB018A%20placebo+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=MHB018A%20placebo+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=MHB018A%20placebo+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Thyroid Associated Ophthalmopathies",
+    "slug": "thyroid-associated-ophthalmopathies"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06989918",
+      "title": "MHB018A Treatment in Patients With Active Thyroid Eye Disease",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06989918",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42602754",
+        "title": "Liposomal bupivacaine surgical site injection for decrease of narcotic use in hip fractures: a pilot multicenter randomized trial.",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42602754/"
+      },
+      {
+        "pmid": "42602524",
+        "title": "Comparison of double-blind and open-label decline rates in lecanemab and donanemab trials in Alzheimer's disease.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42602524/"
+      },
+      {
+        "pmid": "42602089",
+        "title": "The effect of esketamine on sleep disorders in parturients undergoing cesarean section under general anesthesia: a single-center, randomized, double-blind, placebo-controlled prospective study.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42602089/"
+      },
+      {
+        "pmid": "42601880",
+        "title": "Dietary α-linolenic acid improves skin blood flow following cold exposure and endothelial function in healthy adults: a randomized, double-blind, placebo-controlled, parallel-group comparative trial.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42601880/"
+      },
+      {
+        "pmid": "42601227",
+        "title": "Nigella sativa (Black Seed) Oil Alleviates the Serum Levels of IL-6 and Insulin in Patients With Polycystic Ovary Syndrome.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42601227/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

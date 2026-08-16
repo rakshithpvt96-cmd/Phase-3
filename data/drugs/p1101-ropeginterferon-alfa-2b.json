@@ -1,0 +1,138 @@
+{
+  "drug_name": "P1101 (Ropeginterferon alfa-2b)",
+  "slug": "p1101-ropeginterferon-alfa-2b",
+  "enriched_at": "2026-08-16T07:56:10Z",
+  "source_trial_ids": [
+    "NCT04655092"
+  ],
+  "sponsors": [
+    {
+      "name": "PharmaEssentia Japan K.K.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=PharmaEssentia%20Japan%20K.K.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2587059",
+      "generic_name": "ropeginterferon alfa-2b",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4297819",
+    "target_chembl_id": "CHEMBL2364170",
+    "target_name": "Interferon alpha/beta receptor",
+    "mechanism_of_action_chembl": "Interferon alpha/beta receptor positive modulator"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=P1101%20%28Ropeginterferon%20alfa-2b%29+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=P1101%20%28Ropeginterferon%20alfa-2b%29+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=P1101%20%28Ropeginterferon%20alfa-2b%29+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Polycythemia Vera (PV)",
+    "slug": "polycythemia-vera-pv"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04655092",
+      "title": "Extension Study of P1101 After Completion of Phase 2 Study in PV Patients or Phase 3 Study in ET Patients",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04655092",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "35924546",
+        "title": "SURPASS-ET: phase III study of ropeginterferon alfa-2b versus anagrelide as second-line therapy in essential thrombocythemia.",
+        "pubdate": "2022 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35924546/"
+      },
+      {
+        "pmid": "34386602",
+        "title": "Ropeginterferon alfa-2b in patients with genotype 1 chronic hepatitis C: Pharmacokinetics, safety, and preliminary efficacy.",
+        "pubdate": "2021 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34386602/"
+      },
+      {
+        "pmid": "33099752",
+        "title": "Ropeginterferon alfa-2b every 2 weeks as a novel pegylated interferon for patients with chronic hepatitis B.",
+        "pubdate": "2020 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33099752/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "INTERFERON ALFA-N3",
+        "chembl_id": "CHEMBL2109047",
+        "reason": "same target: Interferon alpha/beta receptor"
+      },
+      {
+        "name": "INTERFERON ALFA-2A",
+        "chembl_id": "CHEMBL2108508",
+        "reason": "same target: Interferon alpha/beta receptor"
+      },
+      {
+        "name": "INTERFERON ALFA-2B",
+        "chembl_id": "CHEMBL1201558",
+        "reason": "same target: Interferon alpha/beta receptor"
+      },
+      {
+        "name": "INTERFERON BETA-1A",
+        "chembl_id": "CHEMBL1201562",
+        "reason": "same target: Interferon alpha/beta receptor"
+      },
+      {
+        "name": "PEGINTERFERON ALFA-2A",
+        "chembl_id": "CHEMBL1201560",
+        "reason": "same target: Interferon alpha/beta receptor"
+      },
+      {
+        "name": "PEGINTERFERON ALFA-2B",
+        "chembl_id": "CHEMBL1201561",
+        "reason": "same target: Interferon alpha/beta receptor"
+      },
+      {
+        "name": "INTERFERON BETA-1B",
+        "chembl_id": "CHEMBL1201563",
+        "reason": "same target: Interferon alpha/beta receptor"
+      },
+      {
+        "name": "INTERFERON ALFACON-1",
+        "chembl_id": "CHEMBL1201557",
+        "reason": "same target: Interferon alpha/beta receptor"
+      },
+      {
+        "name": "PEGINTERFERON BETA-1A",
+        "chembl_id": "CHEMBL2108677",
+        "reason": "same target: Interferon alpha/beta receptor"
+      },
+      {
+        "name": "ALBINTERFERON ALFA-2B",
+        "chembl_id": "CHEMBL2107842",
+        "reason": "same target: Interferon alpha/beta receptor"
+      }
+    ]
+  }
+}

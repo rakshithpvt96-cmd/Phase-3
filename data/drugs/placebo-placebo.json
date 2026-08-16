@@ -1,0 +1,99 @@
+{
+  "drug_name": "Placebo + Placebo",
+  "slug": "placebo-placebo",
+  "enriched_at": "2026-08-16T07:58:34Z",
+  "source_trial_ids": [
+    "NCT07160790"
+  ],
+  "sponsors": [
+    {
+      "name": "Onconic Therapeutics Inc.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Onconic%20Therapeutics%20Inc.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "8375",
+      "generic_name": "placebo",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": null,
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "DailyMed",
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2ec8f18f-297c-405f-b191-a40767366bad",
+    "note": "A label exists in DailyMed but structured sections could not be parsed automatically -- see dailymed_url for the full label.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Placebo%20%2B%20Placebo+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Placebo%20%2B%20Placebo+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Placebo%20%2B%20Placebo+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Non-erosive Gastroesophageal Reflux Disease",
+    "slug": "non-erosive-gastroesophageal-reflux-disease"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07160790",
+      "title": "Phase 3 Study of JP-1366: Efficacy and Safety of JP-1366 in Patients With Non-erosive Gastroesophageal Reflux Disease",
+      "status": "NOT_YET_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07160790",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42602754",
+        "title": "Liposomal bupivacaine surgical site injection for decrease of narcotic use in hip fractures: a pilot multicenter randomized trial.",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42602754/"
+      },
+      {
+        "pmid": "42602524",
+        "title": "Comparison of double-blind and open-label decline rates in lecanemab and donanemab trials in Alzheimer's disease.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42602524/"
+      },
+      {
+        "pmid": "42602089",
+        "title": "The effect of esketamine on sleep disorders in parturients undergoing cesarean section under general anesthesia: a single-center, randomized, double-blind, placebo-controlled prospective study.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42602089/"
+      },
+      {
+        "pmid": "42601880",
+        "title": "Dietary α-linolenic acid improves skin blood flow following cold exposure and endothelial function in healthy adults: a randomized, double-blind, placebo-controlled, parallel-group comparative trial.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42601880/"
+      },
+      {
+        "pmid": "42601227",
+        "title": "Nigella sativa (Black Seed) Oil Alleviates the Serum Levels of IL-6 and Insulin in Patients With Polycystic Ovary Syndrome.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42601227/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

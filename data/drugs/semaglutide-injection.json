@@ -1,0 +1,140 @@
+{
+  "drug_name": "Semaglutide Injection",
+  "slug": "semaglutide-injection",
+  "enriched_at": "2026-08-16T08:04:29Z",
+  "source_trial_ids": [
+    "NCT06649344"
+  ],
+  "sponsors": [
+    {
+      "name": "Fujian Shengdi Pharmaceutical Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Fujian%20Shengdi%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1991304",
+      "generic_name": "semaglutide Injectable Product",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4556788",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Semaglutide%20Injection+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Semaglutide%20Injection+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Semaglutide%20Injection+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Type 2 Diabetes",
+    "slug": "type-2-diabetes"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06649344",
+      "title": "A Study of HRS9531 Versus Semaglutide Once Weekly as Add-on Therapy to Metformin Monotherapy or in Combination With SGLT2 Inhibitors in Participants With Type 2 Diabetes",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT06649344",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42598626",
+        "title": "Efficacy and safety of semaglutide injection in Indian patients with type 2 diabetes mellitus inadequately controlled on metformin: A phase 3, randomized, active-controlled, multicenter, non-inferiority trial (WIN-IND study).",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42598626/"
+      },
+      {
+        "pmid": "42582425",
+        "title": "Potential nephroprotective mechanisms of orforglipron, an oral non-peptide GLP-1 receptor agonist.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42582425/"
+      },
+      {
+        "pmid": "42567173",
+        "title": "Effect of semaglutide on kidney outcomes in the SELECT, FLOW, and SOUL trials: a prespecified pooled analysis.",
+        "pubdate": "2026 Aug 7",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42567173/"
+      },
+      {
+        "pmid": "42560457",
+        "title": "Analysis of the efficacy and safety of liraglutide, semaglutide, and tirzepatide for the treatment of overweight and obesity: a systematic review and network meta-analysis.",
+        "pubdate": "2026 Aug 6",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42560457/"
+      },
+      {
+        "pmid": "42256775",
+        "title": "Prolonged Dysesthesia After Massive Accidental Semaglutide Overdose: A Case Report.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42256775/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "HRS-7535 tablet",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Shandong Suncadia Medicine Co., Ltd."
+      },
+      {
+        "name": "dapagliflozin tablet",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Shandong Suncadia Medicine Co., Ltd."
+      },
+      {
+        "name": "THP-00101",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: THPharm Corp."
+      },
+      {
+        "name": "THP-00102",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: THPharm Corp."
+      },
+      {
+        "name": "THP-00103",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: THPharm Corp."
+      },
+      {
+        "name": "THP-00104",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: THPharm Corp."
+      },
+      {
+        "name": "THP-00105",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: THPharm Corp."
+      },
+      {
+        "name": "THP-00106",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: THPharm Corp."
+      }
+    ]
+  }
+}

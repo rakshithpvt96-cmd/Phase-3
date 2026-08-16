@@ -1,0 +1,156 @@
+{
+  "drug_name": "Otezla",
+  "slug": "otezla",
+  "enriched_at": "2026-08-16T07:55:57Z",
+  "source_trial_ids": [
+    "NCT06863493"
+  ],
+  "sponsors": [
+    {
+      "name": "SFA Therapeutics",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=SFA%20Therapeutics&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 11561674,
+    "iupac_name": "N-[2-[(1S)-1-(3-ethoxy-4-methoxyphenyl)-2-methylsulfonylethyl]-1,3-dioxoisoindol-4-yl]acetamide",
+    "molecular_formula": "C22H24N2O7S",
+    "molecular_weight": "460.5",
+    "canonical_smiles": null,
+    "inchikey": "IMOZEMNVLZVGJZ-QGZVFWFLSA-N",
+    "rxnorm": {
+      "rxcui": "1492733",
+      "generic_name": "Otezla",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL514800",
+    "target_chembl_id": "CHEMBL2093863",
+    "target_name": "Phosphodiesterase 4",
+    "mechanism_of_action_chembl": "Phosphodiesterase 4 inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Apremilast is an oral small molecule inhibitor of phosphodiesterase 4 (PDE4) specific for cyclic adenosine monophosphate (cAMP). PDE4 inhibition results in increased intracellular cAMP levels. The specific mechanism(s) by which apremilast exerts its therapeutic action is not well defined.",
+    "pharmacokinetics": "12.3 Pharmacokinetics Absorption OTEZLA when taken orally is absorbed with an absolute bioavailability of ~73%, with peak plasma concentrations (C max ) occurring at a median time (t max ) of ~2.5 hours. Co-administration with food does not alter the extent of absorption of OTEZLA. OTEZLA XR when taken orally is absorbed with peak plasma concentrations (C max ) occurring at a median time (t max ) of ~6 hours. OTEZLA XR 75 mg administered once daily demonstrates comparable PK exposure (steady-state AUC and C max ) to OTEZLA 30 mg twice daily. When administered with a high-fat meal, OTEZLA XR t max was delayed by 3 hours and C max and AUC were increased by ~28% compared to fasted conditions. Therefore, OTEZLA XR may be taken without regard to meals. Distribution Human plasma protein binding of apremilast is approximately 68%. Mean apparent volume of distribution (Vd) is 87 L. Metabolism Following oral administration in humans, apremilast is a major circulating component (45%) followed by inactive metabolite M12 (39%), a glucuronide conjugate of O-demethylated apremilast. It is extensively metabolized in humans with up to 23 metabolites identified in plasma, urine and feces. Apremilast is metabolized by both cytochrome (CYP) oxidative metabolism with subsequent glucuronidation and non-CYP mediated hydrolysis. In vitro , CYP metabolism of apremilast is primarily mediated by CYP3A4, with minor contributions from CYP1A2 and CYP2A6. Elimination The plasma clearance of apremilast is about 10 L/hr in healthy subjects, with a terminal elimination half-life of approximately 6-9 hours. Following oral administration of radiolabeled apremilast, about 58% and 39% of the radioactivity is recovered in urine and feces, respectively, with about 3% and 7% of the radioactive dose recovered as apremilast in urine and feces, respectively. Specific Populations Patients with Hepatic Impairment: The pharmacokinetics of apremilast is not affected by moderate or severe hepatic impairment. Patients with Renal Impairment: The pharmacokinetics of apremilast is not affected by mild or moderate renal impairment. In 8 adult subjects with severe renal impairment administered a single dose of 30 mg OTEZLA, the AUC and C max of apremilast increased by approximately 88% and 42%, respectively [see Dosage and Administration (2.3) and Use in Specific Populations (8.6) ] . The effects of renal impairment have not been studied for OTEZLA XR [see Dosage and Administration (2.3) and Use in Specific Populations (8.6) ] . Geriatric Patients: A single oral dose of 30-mg apremilast was studied in young adults and elderly healthy subjects. The apremilast exposure in elderly subjects (65 to 85 years of age) was about 13% higher in AUC and about 6% higher in C max than in young subjects (18 to 55 years of age) [see Use in Specific Populations (8.5) ] . Pediatric Patients : The pharmacokinetics of OTEZLA were evaluated in a clinical trial in pediatric subjects 6 to 17 years of age with moderate to severe plaque psoriasis at the recommended pediatric dosage regimen [see Dosage and Administration (2.1) and Clinical Studies (14.3) ] . Population pharmacokinetic analysis indicated that steady-state exposure (AUC and C max ) of OTEZLA in pediatric subjects receiving the pediatric maintenance dosage regimen (20 or 30 mg twice daily, based on body weight) was comparable to steady-state exposure in adult subjects at the 30 mg twice daily dosage. Male and Female Patients: In pharmacokinetic trials in healthy volunteers, the extent of exposure in females was about 31% higher and C max was about 8% higher than that in male subjects. Racial or Ethnic Groups: The pharmacokinetics of apremilast in Chinese and Japanese healthy male subjects is comparable to that in White healthy male subjects. In addition, apremilast exposure is similar among White subjects (including Hispanic or Latino and not Hispanic or Latino subjects) and Black or African American subjects. Drug Interactions In vitro data: Apremilast is not an inhibitor of CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP2E1, or CYP3A4 and not an inducer of CYP1A2, CYP2B6, CYP2C9, CYP2C19, or CYP3A4. Apremilast is a substrate, but not an inhibitor of P-glycoprotein (P-gp) and is not a substrate or an inhibitor of organic anion transporter (OAT)1 and OAT3, organic cation transporter (OCT)2, organic anion transporting polypeptide (OATP)1B1 and OATP1B3, or breast cancer resistance protein (BCRP). Drug interaction trials were performed with apremilast and CYP3A4 substrates (oral contraceptive containing ethinyl estradiol and norgestimate), CYP3A and P-gp inhibitor (ketoconazole), CYP450 inducer (rifampin) and frequently co-administered drug in this patient population (methotrexate). No significant pharmacokinetic interactions were observed when 30-mg oral apremilast was administered with either oral contraceptive, ketoconazole, or methotrexate. Co-administration of the CYP450 inducer rifampin (600 mg once daily for 15 days) with a single oral dose of 30-mg apremilast resulted in reduction of apremilast AUC and C max by 72% and 43%, respectively [see Warnings and Precautions (5.5) and Drug Interactions (7.1) ] .",
+    "indications_and_usage": "1 INDICATIONS AND USAGE OTEZLA/OTEZLA XR, an inhibitor of phosphodiesterase 4 (PDE4), is indicated for the treatment of: Adult patients with: Active psoriatic arthritis ( 1.1 ) Plaque psoriasis who are candidates for phototherapy or systemic therapy ( 1.2 ) Oral ulcers associated with Behçet's Disease ( 1.3 ) Pediatric patients 6 years of age and older with: Active psoriatic arthritis ( 1.1 ) Moderate to severe plaque psoriasis who are candidates for phototherapy or systemic therapy ( 1.2 ) In the pediatric population, OTEZLA is indicated for patients weighing at least 20 kg, and OTEZLA XR is indicated for patients weighing at least 50 kg. 1.1 Psoriatic Arthritis OTEZLA is indicated for the treatment of adult patients and pediatric patients 6 years of age and older and weighing at least 20 kg with active psoriatic arthritis. OTEZLA XR is indicated for the treatment of adult patients and pediatric patients 6 years of age and older and weighing at least 50 kg with active psoriatic arthritis. 1.2 Plaque Psoriasis OTEZLA/OTEZLA XR is indicated for the treatment of adult patients with plaque psoriasis who are candidates for phototherapy or systemic therapy. OTEZLA is indicated for the treatment of pediatric patients 6 years of age and older and weighing at least 20 kg with moderate to severe plaque psoriasis who are candidates for phototherapy or systemic therapy. OTEZLA XR is indicated for the treatment of pediatric patients 6 years of age and older and weighing at least 50 kg with moderate to severe plaque psoriasis who are candidates for phototherapy or systemic therapy. 1.3 Oral Ulcers Associated with Behçet's Disease OTEZLA/OTEZLA XR is indicated for the treatment of adult patients with oral ulcers associated with Behçet's Disease.",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "Otezla"
+    ],
+    "openfda_generic_names": [
+      "APREMILAST"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f6b1f516-4972-4d82-bced-113e47b41cc5",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Psoriasis (PsO)",
+    "slug": "psoriasis-pso"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06863493",
+      "title": "Comparison of Otezla to SFA-002 to Placebo in Plaque Psoriasis Patients",
+      "status": "NOT_YET_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06863493",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42563042",
+        "title": "Deucravacitinib 5-Year Safety and Efficacy Results in Plaque Psoriasis: A Phase 3 Open-Label Extension of Randomized Clinical Trials.",
+        "pubdate": "2026 Aug 7",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42563042/"
+      },
+      {
+        "pmid": "42473780",
+        "title": "Deucravacitinib in Active Psoriatic Arthritis: Efficacy and Safety up to 52 Weeks From the Randomized, Double-Blind, Phase 3 POETYK PsA-2 Trial.",
+        "pubdate": "2026 Jul 20",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42473780/"
+      },
+      {
+        "pmid": "42342652",
+        "title": "Emerging synthetic drugs for the management of hidradenitis suppurativa: a comprehensive update.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42342652/"
+      },
+      {
+        "pmid": "42133282",
+        "title": "Summary of Research: Apremilast Improves Skin Outcomes in Pediatric Plaque Psoriasis of Shorter Disease Duration: 52-Week Results from the SPROUT Phase 3 Trial.",
+        "pubdate": "2026 May",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42133282/"
+      },
+      {
+        "pmid": "41830495",
+        "title": "PDE4 inhibition in pediatric psoriasis: analysis of the SPROUT study on apremilast.",
+        "pubdate": "2026 Feb",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41830495/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "AMLEXANOX",
+        "chembl_id": "CHEMBL1096",
+        "reason": "same target: Phosphodiesterase 4"
+      },
+      {
+        "name": "DYPHYLLINE",
+        "chembl_id": "CHEMBL1752",
+        "reason": "same target: Phosphodiesterase 4"
+      },
+      {
+        "name": "ROFLUMILAST",
+        "chembl_id": "CHEMBL193240",
+        "reason": "same target: Phosphodiesterase 4"
+      },
+      {
+        "name": "THEOPHYLLINE",
+        "chembl_id": "CHEMBL1355736",
+        "reason": "same target: Phosphodiesterase 4"
+      },
+      {
+        "name": "THEOPHYLLINE SODIUM GLYCINATE",
+        "chembl_id": "CHEMBL1200578",
+        "reason": "same target: Phosphodiesterase 4"
+      },
+      {
+        "name": "FLAVOXATE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1200875",
+        "reason": "same target: Phosphodiesterase 4"
+      },
+      {
+        "name": "AMINOPHYLLINE",
+        "chembl_id": "CHEMBL1370561",
+        "reason": "same target: Phosphodiesterase 4"
+      },
+      {
+        "name": "OXTRIPHYLLINE",
+        "chembl_id": "CHEMBL1200434",
+        "reason": "same target: Phosphodiesterase 4"
+      },
+      {
+        "name": "CRISABOROLE",
+        "chembl_id": "CHEMBL484785",
+        "reason": "same target: Phosphodiesterase 4"
+      },
+      {
+        "name": "DROTAVERINE",
+        "chembl_id": "CHEMBL551978",
+        "reason": "same target: Phosphodiesterase 4"
+      }
+    ]
+  }
+}

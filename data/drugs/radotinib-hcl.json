@@ -1,0 +1,114 @@
+{
+  "drug_name": "Radotinib HCl",
+  "slug": "radotinib-hcl",
+  "enriched_at": "2026-08-16T08:02:51Z",
+  "source_trial_ids": [
+    "NCT03459534"
+  ],
+  "sponsors": [
+    {
+      "name": "Il-Yang Pharm. Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Il-Yang%20Pharm.%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1822765",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4297524",
+    "target_chembl_id": "CHEMBL2096618",
+    "target_name": "Bcr/Abl fusion protein",
+    "mechanism_of_action_chembl": "Bcr/Abl fusion protein inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Radotinib%20HCl+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Radotinib%20HCl+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Radotinib%20HCl+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Chronic Myeloid Leukemia, Chronic Phase",
+    "slug": "chronic-myeloid-leukemia-chronic-phase"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT03459534",
+      "title": "A Phase 3 Study for the Efficacy and Safety of Radotinib in CP-CML Patients With Failure or Intolerance to Previous TKIs",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT03459534",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "PONATINIB HYDROCHLORIDE",
+        "chembl_id": "CHEMBL2105708",
+        "reason": "same target: Bcr/Abl fusion protein"
+      },
+      {
+        "name": "IMATINIB MESYLATE",
+        "chembl_id": "CHEMBL1642",
+        "reason": "same target: Bcr/Abl fusion protein"
+      },
+      {
+        "name": "DASATINIB ANHYDROUS",
+        "chembl_id": "CHEMBL1421",
+        "reason": "same target: Bcr/Abl fusion protein"
+      },
+      {
+        "name": "BOSUTINIB MONOHYDRATE",
+        "chembl_id": "CHEMBL2095206",
+        "reason": "same target: Bcr/Abl fusion protein"
+      },
+      {
+        "name": "NILOTINIB HYDROCHLORIDE MONOHYDRATE",
+        "chembl_id": "CHEMBL1201740",
+        "reason": "same target: Bcr/Abl fusion protein"
+      },
+      {
+        "name": "OLVEREMBATINIB",
+        "chembl_id": "CHEMBL2316582",
+        "reason": "same target: Bcr/Abl fusion protein"
+      },
+      {
+        "name": "VODOBATINIB",
+        "chembl_id": "CHEMBL4130229",
+        "reason": "same target: Bcr/Abl fusion protein"
+      },
+      {
+        "name": "ASCIMINIB HYDROCHLORIDE",
+        "chembl_id": "CHEMBL4297220",
+        "reason": "same target: Bcr/Abl fusion protein"
+      },
+      {
+        "name": "DASATINIB",
+        "chembl_id": "CHEMBL5416410",
+        "reason": "same target: Bcr/Abl fusion protein"
+      }
+    ]
+  }
+}

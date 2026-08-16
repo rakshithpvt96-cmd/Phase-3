@@ -1,0 +1,110 @@
+{
+  "drug_name": "RAPA-501 Autologous T stem cells",
+  "slug": "rapa-501-autologous-t-stem-cells",
+  "enriched_at": "2026-08-16T08:03:09Z",
+  "source_trial_ids": [
+    "NCT04220190"
+  ],
+  "sponsors": [
+    {
+      "name": "Rapa Therapeutics LLC",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Rapa%20Therapeutics%20LLC&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2462003",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL5315099",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": "Somatic cell supplemental therapy"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=RAPA-501%20Autologous%20T%20stem%20cells+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=RAPA-501%20Autologous%20T%20stem%20cells+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=RAPA-501%20Autologous%20T%20stem%20cells+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Amyotrophic Lateral Sclerosis",
+    "slug": "amyotrophic-lateral-sclerosis"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04220190",
+      "title": "RAPA-501 Therapy for ALS",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04220190",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42560886",
+        "title": "First evidence of the circulation of induced pluripotent stem cell-derived platelets in humans.",
+        "pubdate": "2026 Jul 20",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42560886/"
+      },
+      {
+        "pmid": "42552339",
+        "title": "Development of an investigational medicinal stem cell gene therapy product to attempt curing human immunodeficiency virus infection.",
+        "pubdate": "2026 Aug 4",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42552339/"
+      },
+      {
+        "pmid": "42527555",
+        "title": "De-escalation trials in multiple myeloma: past, present and future.",
+        "pubdate": "2026 Jul 29",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42527555/"
+      },
+      {
+        "pmid": "42522264",
+        "title": "Five-year follow-up of phase II trial of autologous cord blood mononuclear cells for bronchopulmonary dysplasia prevention in very preterm infants.",
+        "pubdate": "2026 Jul 20",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42522264/"
+      },
+      {
+        "pmid": "42498486",
+        "title": "Personalized tumor-loaded monocyte-derived dendritic cell vaccination in combination with atezolizumab as maintenance treatment in extensive-stage small cell lung cancer (ES-SCLC): phase Ib-II VENEZOLUNG trial.",
+        "pubdate": "2026 Jul 24",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42498486/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "ION363",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Ionis Pharmaceuticals, Inc."
+      },
+      {
+        "name": "Placebo",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Ionis Pharmaceuticals, Inc."
+      }
+    ]
+  }
+}

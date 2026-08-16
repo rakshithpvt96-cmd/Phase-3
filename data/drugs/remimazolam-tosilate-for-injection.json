@@ -1,0 +1,99 @@
+{
+  "drug_name": "Remimazolam Tosilate for injection",
+  "slug": "remimazolam-tosilate-for-injection",
+  "enriched_at": "2026-08-16T08:03:52Z",
+  "source_trial_ids": [
+    "NCT07036419"
+  ],
+  "sponsors": [
+    {
+      "name": "Jiangsu HengRui Medicine Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Jiangsu%20HengRui%20Medicine%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2383945",
+      "generic_name": "remimazolam Injection",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4297526",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Remimazolam%20Tosilate%20for%20injection+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Remimazolam%20Tosilate%20for%20injection+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Remimazolam%20Tosilate%20for%20injection+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Operative Sedation of Pediatric",
+    "slug": "operative-sedation-of-pediatric"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07036419",
+      "title": "A Trial of Remimazolam for Intraoperative Sedation in Pediatric and Adolescent Patients",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT07036419",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "41291425",
+        "title": "Comparative effects of remimazolam and propofol on hemodynamic stability during sedation for painless gastroscopy: a randomized clinical trial.",
+        "pubdate": "2025 Nov 25",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41291425/"
+      },
+      {
+        "pmid": "41188715",
+        "title": "Efficacy and safety of remimazolam tosilate in elderly patients undergoing general anesthesia for bronchoscopy. A randomized controlled trial.",
+        "pubdate": "2025 Nov 4",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41188715/"
+      },
+      {
+        "pmid": "39966787",
+        "title": "Effect of remimazolam tosilate for injection (HR7056) versus sevoflurane on the incidence of postoperative delirium in older patients undergoing total hip arthroplasty: study protocol for a prospective, multicentre, two-arm, parallel-group, randomised controlled trial.",
+        "pubdate": "2025 Feb 18",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39966787/"
+      },
+      {
+        "pmid": "39391505",
+        "title": "The efficacy and safety of remimazolam tosilate compared with propofol for endoscopic retrograde cholangiopancreatography under monitored anesthesia care: A single-center randomized controlled clinical trial.",
+        "pubdate": "2024 Oct 15",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39391505/"
+      },
+      {
+        "pmid": "39083220",
+        "title": "Effectiveness and safety of remimazolam tosilate versus propofol for sedation in patients undergoing gastrointestinal endoscopy: a randomized controlled trial.",
+        "pubdate": "2024 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39083220/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

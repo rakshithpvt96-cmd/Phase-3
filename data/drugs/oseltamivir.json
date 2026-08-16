@@ -1,0 +1,105 @@
+{
+  "drug_name": "Oseltamivir",
+  "slug": "oseltamivir",
+  "enriched_at": "2026-08-16T07:55:40Z",
+  "source_trial_ids": [
+    "NCT07113392"
+  ],
+  "sponsors": [
+    {
+      "name": "Jiangxi Kvvit Pharmaceutical Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Jiangxi%20Kvvit%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 65028,
+    "iupac_name": "ethyl (3R,4R,5S)-4-acetamido-5-amino-3-pentan-3-yloxycyclohexene-1-carboxylate",
+    "molecular_formula": "C16H28N2O4",
+    "molecular_weight": "312.40",
+    "canonical_smiles": null,
+    "inchikey": "VSZGPKBBMSAYNT-RRFJBIMHSA-N",
+    "rxnorm": {
+      "rxcui": "260101",
+      "generic_name": "oseltamivir",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1229",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Oseltamivir is an antiviral drug with activity against influenza virus [see Microbiology (12.4) ].",
+    "pharmacokinetics": "12.3 Pharmacokinetics Absorption and Bioavailability Oseltamivir is absorbed from the gastrointestinal tract after oral administration of oseltamivir phosphate and is extensively converted predominantly by hepatic esterases to oseltamivir carboxylate. At least 75% of an oral dose reaches the systemic circulation as oseltamivir carboxylate and less than 5% of the oral dose reaches the systemic circulation as oseltamivir (see Table 6 ). Table 6 Mean (% CV) Pharmacokinetic Parameters of Oseltamivir and Oseltamivir Carboxylate Following Multiple Dosing of 75 mg Capsules Twice Daily (n=20) Parameter Oseltamivir Oseltamivir Carboxylate C max (ng/mL) 65 (26) 348 (18) AUC 0-12h (ng∙h/mL) 112 (25) 2719 (20) Plasma concentrations of oseltamivir carboxylate are proportional to doses up to 500 mg given twice daily (about 6.7 times the maximum recommended oseltamivir phosphate dosage) [see Dosage and Administration (2) ]. Coadministration with food had no significant effect on the peak plasma concentration (551 ng/mL under fasted conditions and 441 ng/mL under fed conditions) and the area under the plasma concentration time curve (6218 ng∙h/mL under fasted conditions and 6069 ng∙h/mL under fed conditions) of oseltamivir carboxylate. Distribution The volume of distribution (V ss ) of oseltamivir carboxylate, following intravenous administration in 24 subjects (oseltamivir phosphate is not available as an IV formulation), ranged between 23 and 26 liters. The binding of oseltamivir carboxylate to human plasma protein is low (3%). The binding of oseltamivir to human plasma protein is 42%, which is insufficient to cause significant displacement-based drug interactions. Elimination Absorbed oseltamivir is primarily (>90%) eliminated by conversion to the active metabolite, oseltamivir carboxylate. Plasma concentrations of oseltamivir declined with a half-life of 1 to 3 hours in most subjects after oral administration. Oseltamivir carboxylate is not further metabolized and is eliminated unchanged in urine. Plasma concentrations of oseltamivir carboxylate declined with a half-life of 6 to 10 hours in most subjects after oral administration. Metabolism Oseltamivir is extensively converted to the active metabolite, oseltamivir carboxylate, by esterases located predominantly in the liver. Oseltamivir carboxylate is not further metabolized. Neither oseltamivir nor oseltamivir carboxylate is a substrate for, or inhibitor of, cytochrome P450 isoforms. Excretion Oseltamivir carboxylate is eliminated entirely (>99%) by renal excretion. Renal clearance (18.8 L/h) exceeds glomerular filtration rate (7.5 L/h), indicating that tubular secretion (via organic anion transporter) occurs in addition to glomerular filtration. Less than 20% of an oral radiolabeled dose is eliminated in feces. Specific Populations Renal Impairment Administration of 100 mg of oseltamivir phosphate twice daily (about 1.3 times the maximum recommended dosage) for 5 days to subjects with various degrees of renal impairment showed that exposure to oseltamivir carboxylate is inversely proportional to declining renal function. Population-derived pharmacokinetic parameters were determined for patients with varying degrees of renal function including ESRD patients on hemodialysis. Median simulated exposures of oseltamivir carboxylate for recommended treatment and prophylaxis regimens are provided in Table 7 . The pharmacokinetics of oseltamivir have not been studied in ESRD patients not undergoing dialysis [see Indications and Usage (1.3) , and Use in Specific Populations (8.6) ] . Table 7 Simulated Median Treatment Exposure Metrics of Oseltamivir Carboxylate in Patients with Normal Renal Function, with Renal Impairment and ESRD Patients on Hemodialysis Renal Function/Impairment Normal Creatinine Clearance 90-140 mL/min (n=57) Mild Creatinine Clearance 60-90 mL/min (n=45) Moderate Creatinine Clearance 30-60 mL/min (n=13) Severe Creatinine Clearance 10-30 mL/min (n=11) ESRD Creatinine Clearance <10 mL/min on Hemodialysis (n=24) Recommended Treatment Regimens PK exposure parameter 75 mg twice daily 75 mg twice daily 30 mg twice daily 30 mg once daily 30 mg every HD cycle C min (ng/mL) 145 253 180 219 221 C max (ng/mL) 298 464 306 477 1170 AUC 48 (ng∙h/mL) AUC normalized to 48 hours. 11224 18476 12008 16818 23200 Recommended Prophylaxis Regimens PK exposure parameter 75 mg once daily 75 mg once daily 30 mg once daily 30 mg every other day 30 mg alternate HD cycle C min (ng/mL) 39 62 57 70 42 C max (ng/mL) 213 311 209 377 903 AUC 48 (ng∙hr/mL) 5294 8336 6262 9317 11200 In continuous ambulatory peritoneal dialysis (CAPD) patients, the peak concentration of oseltamivir carboxylate following a single 30 mg dose of oseltamivir or once weekly oseltamivir was approximately 3-fold higher than in patients with normal renal function who received 75 mg twice daily. The plasma concentration of oseltamivir carboxylate on Day 5 (147 ng/mL) following a single 30 mg dose in CAPD patients is similar to the predicted C min (160 ng/mL) in patients with normal renal function following 75 mg twice daily. Administration of 30 mg once weekly to CAPD patients resulted in plasma concentrations of oseltamivir carboxylate at the 168-hour blood sample of 63 ng/mL, which were comparable to the C min in patients with normal renal function receiving the approved regimen of 75 mg once daily (40 ng/mL). Hepatic Impairment In clinical studies, oseltamivir carboxylate exposure was not altered in subjects with mild or moderate hepatic impairment [see Use in Specific Populations (8.7) ] . Pregnant Women A pooled population pharmacokinetic analysis indicates that the oseltamivir phosphate for oral suspension dosage regimen resulted in lower exposure to the active metabolite in pregnant women (n=59) compared to non-pregnant women (n=33). However, this predicted exposure is expected to have activity against susceptible influenza virus strains and there are insufficient pharmacokinetics and safety data to recommend a dose adjustment for pregnant women [see Use in Specific Populations (8.1) ] . Pediatric Subjects (1 year to 12 years of age) The pharmacokinetics of oseltamivir and oseltamivir carboxylate have been evaluated in a single-dose pharmacokinetic study in pediatric subjects aged 5 to 16 years (n=18) and in a small number of pediatric subjects aged 3 to 12 years (n=5) enrolled in a clinical trial. Younger pediatric subjects cleared both the prodrug and the active metabolite faster than adult subjects resulting in a lower exposure for a given mg/kg dose. For oseltamivir carboxylate, apparent total clearance decreases linearly with increasing age (up to 12 years). The pharmacokinetics of oseltamivir in pediatric subjects over 12 years of age are similar to those in adult subjects [see Use in Specific Populations (8.4) ] . Pediatric Subjects (2 weeks to less than 1 year of age) The pharmacokinetics of oseltamivir and oseltamivir carboxylate have been evaluated in two open-label studies of pediatric subjects less than one year of age (n=122) infected with influenza. Apparent clearance of the active metabolite decreases with decreasing age in subjects less than 1 year of age; however the oseltamivir and oseltamivir carboxylate exposure following a 3 mg/kg dose in subjects under 1 year of age is expected to be within the observed exposures in adults and adolescents receiving 75 mg twice daily and 150 mg twice daily [see Use in Specific Populations (8.4) ] . Geriatric Patients Exposure to oseltamivir carboxylate at steady-state was 25 to 35% higher in geriatric subjects (age range 65 to 78 years) compared to young adults given comparable doses of oseltamivir. Half-lives observed in the geriatric subjects were similar to those seen in young adults. Based on drug exposure and tolerability, dose adjustments are not required for geriatric patients for either treatment or prophylaxis [see Use in Specific Populations (8.5) ] . Drug Interaction Studies Oseltamivir is extensively converted to oseltamivir carboxylate by esterases, located predominantly in the liver. Drug interactions involving competition for esterases have not been extensively reported in literature. Low protein binding of oseltamivir and oseltamivir carboxylate suggests that the probability of drug displacement interactions is low. In vitro studies demonstrate that neither oseltamivir nor oseltamivir carboxylate is a good substrate for P450 mixed-function oxidases or for glucuronyl transferases. Coadministration of probenecid results in an approximate two-fold increase in exposure to oseltamivir carboxylate due to a decrease in active anionic tubular secretion in the kidney. However, due to the safety margin of oseltamivir carboxylate, no dose adjustments are required when coadministering with probenecid. No clinically relevant pharmacokinetic interactions have been observed when coadministering oseltamivir with amoxicillin, acetaminophen, aspirin, cimetidine, antacids (magnesium and aluminum hydroxides and calcium carbonates), rimantadine, amantadine, or warfarin.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE Oseltamivir phosphate for oral suspension is an influenza neuraminidase inhibitor (NAI) indicated for: Treatment of acute, uncomplicated influenza A and B in patients 2 weeks of age and older who have been symptomatic for no more than 48 hours. ( 1.1 ) Prophylaxis of influenza A and B in patients 1 year and older. ( 1.2 ) Limitations of Use : Not a substitute for annual influenza vaccination. ( 1.3 ) Consider available information on influenza drug susceptibility patterns and treatment effects when deciding whether to use. ( 1.3 ) Not recommended for patients with end-stage renal disease not undergoing dialysis. ( 1.3 ) 1.1 Treatment of Influenza Oseltamivir phosphate for oral suspension is indicated for the treatment of acute, uncomplicated illness due to influenza A and B infection in patients 2 weeks of age and older who have been symptomatic for no more than 48 hours. 1.2 Prophylaxis of Influenza Oseltamivir phosphate for oral suspension is indicated for the prophylaxis of influenza A and B in patients 1 year and older. 1.3 Limitations of Use Oseltamivir phosphate for oral suspension is not a substitute for early influenza vaccination on an annual basis as recommended by the Centers for Disease Control and Prevention Advisory Committee on Immunization Practices. Influenza viruses change over time. Emergence of resistance substitutions could decrease drug effectiveness. Other factors (for example, changes in viral virulence) might also diminish clinical benefit of antiviral drugs. Prescribers should consider available information on influenza drug susceptibility patterns and treatment effects when deciding whether to use oseltamivir phosphate for oral suspension [see Microbiology (12.4) ] . Oseltamivir phosphate for oral suspension is not recommended for patients with end-stage renal disease not undergoing dialysis [see Dosage and Administration (2.4) and Use in Specific Populations (8.6) ].",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "Oseltamivir Phosphate"
+    ],
+    "openfda_generic_names": [
+      "OSELTAMIVIR PHOSPHATE"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=817f74ca-2b6d-4d29-8dd5-b96921a23b91",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Influenza",
+    "slug": "influenza"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07113392",
+      "title": "A Study to Evaluate the Safety, Efficacy and Pharmacokinetics of Suraxavir Marboxil for Suspension",
+      "status": "NOT_YET_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07113392",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42602154",
+        "title": "Diabetic immune dysfunction and severe influenza: A comprehensive narrative review with clinical implications.",
+        "pubdate": "2026 Jan-Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42602154/"
+      },
+      {
+        "pmid": "42520120",
+        "title": "The global demand and potential public health impact of oral antiviral treatment stockpile for influenza pandemics.",
+        "pubdate": "2026 Aug 4",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42520120/"
+      },
+      {
+        "pmid": "42404909",
+        "title": "Mechanistic constraints in dengue severity: a systematic review with evidence stratification and agent-based evaluation of logical sufficiency.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42404909/"
+      },
+      {
+        "pmid": "42325775",
+        "title": "Efficacy and safety of chaishituire granules in influenza treatment: a multi-center, randomized, double-blind, parallel-controlled clinical trial.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42325775/"
+      },
+      {
+        "pmid": "42228931",
+        "title": "Efficacy and Safety of Kanggan Mixture for Influenza: Protocol for a Multicenter Open-Label Randomized Controlled Trial.",
+        "pubdate": "2026 Jun 2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42228931/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

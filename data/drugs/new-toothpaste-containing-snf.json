@@ -1,0 +1,68 @@
+{
+  "drug_name": "New Toothpaste Containing SnF",
+  "slug": "new-toothpaste-containing-snf",
+  "enriched_at": "2026-08-16T07:54:24Z",
+  "source_trial_ids": [
+    "NCT07442136"
+  ],
+  "sponsors": [
+    {
+      "name": "Colgate Palmolive",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Colgate%20Palmolive&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2003705",
+      "generic_name": "New Day",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL5283859",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=New%20Toothpaste%20Containing%20SnF+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=New%20Toothpaste%20Containing%20SnF+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=New%20Toothpaste%20Containing%20SnF+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Enamel Erosion",
+    "slug": "enamel-erosion"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07442136",
+      "title": "Clinical Study to Assess the Efficacy of New Toothpaste Containing SnF as Compared to Colgate Cavity Protection Toothpaste on the Reduction of Enamel Erosion",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT07442136",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

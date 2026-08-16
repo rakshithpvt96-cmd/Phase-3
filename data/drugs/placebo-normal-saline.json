@@ -1,0 +1,140 @@
+{
+  "drug_name": "Placebo (Normal Saline)",
+  "slug": "placebo-normal-saline",
+  "enriched_at": "2026-08-16T07:58:06Z",
+  "source_trial_ids": [
+    "NCT07655180"
+  ],
+  "sponsors": [
+    {
+      "name": "Invivyd, Inc.",
+      "ticker": "IVVD",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001832038&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1866877",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2108783",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Placebo%20%28Normal%20Saline%29+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Placebo%20%28Normal%20Saline%29+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Placebo%20%28Normal%20Saline%29+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "COVID-19",
+    "slug": "covid-19"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07655180",
+      "title": "Safety and Serum Virus Neutralizing Antibody Responses of VYD2311, a COVID-19 Vaccine, and Coadministered VYD2311 With a COVID-19 Vaccine",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07655180",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42602089",
+        "title": "The effect of esketamine on sleep disorders in parturients undergoing cesarean section under general anesthesia: a single-center, randomized, double-blind, placebo-controlled prospective study.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42602089/"
+      },
+      {
+        "pmid": "42548681",
+        "title": "Median effective dose of intravenous nalmefene for preventing sufentanil-induced cough in children aged 1-6 years: a prospective randomized controlled trial.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42548681/"
+      },
+      {
+        "pmid": "42542999",
+        "title": "Liposomal Bupivacaine Incisional Infiltration for Postoperative Analgesia After Cytoreductive Surgery with Hyperthermic Intraperitoneal Chemotherapy: A Randomized Placebo-Controlled Trial.",
+        "pubdate": "2026 Aug 2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42542999/"
+      },
+      {
+        "pmid": "42529108",
+        "title": "Effect of tegileridine pretreatment on fentanyl-induced cough during general anesthesia induction: a randomized controlled trial.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42529108/"
+      },
+      {
+        "pmid": "42520054",
+        "title": "TranExamic Atomized for Pediatric post-Operative Tonsillectomy hemorrhage (TEAPOT): Study protocol for a pilot randomized controlled trial.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42520054/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "Bivalent BNT162b2 (original/Omicron BA.4/BA.5) 3 microgram dose",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: BioNTech SE"
+      },
+      {
+        "name": "Bivalent BNT162b2 (original/Omicron BA.4/BA.5) 6 microgram dose",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: BioNTech SE"
+      },
+      {
+        "name": "Bivalent BNT162b2 (original/Omicron BA.4/BA.5) 10 microgram dose",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: BioNTech SE"
+      },
+      {
+        "name": "Variant-adapted BNT162b2 (Omicron XBB.1.5) 3 microgram dose",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: BioNTech SE"
+      },
+      {
+        "name": "Variant-adapted BNT162b2 (Omicron XBB.1.5) 6 microgram dose",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: BioNTech SE"
+      },
+      {
+        "name": "Variant-adapted BNT162b2 (Omicron XBB.1.5) 10 microgram dose",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: BioNTech SE"
+      },
+      {
+        "name": "Variant-adapted BNT162b2 (Omicron KP.2) 10 microgram dose",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: BioNTech SE"
+      },
+      {
+        "name": "BNT162b2 (2025/2026 formulation)",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: BioNTech SE"
+      }
+    ]
+  }
+}

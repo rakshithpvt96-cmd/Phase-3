@@ -1,0 +1,115 @@
+{
+  "drug_name": "PF614 capsule",
+  "slug": "pf614-capsule",
+  "enriched_at": "2026-08-16T07:57:26Z",
+  "source_trial_ids": [
+    "NCT06602271"
+  ],
+  "sponsors": [
+    {
+      "name": "Ensysce Biosciences",
+      "ticker": "ENSC",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001716947&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": null
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL206253",
+    "target_chembl_id": "CHEMBL249",
+    "target_name": "Substance-P receptor",
+    "mechanism_of_action_chembl": "Neurokinin 1 receptor antagonist"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=PF614%20capsule+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=PF614%20capsule+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=PF614%20capsule+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Postoperative Pain, Acute",
+    "slug": "postoperative-pain-acute"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06602271",
+      "title": "PF614 Analgesic Activity in Acute Postoperative Pain (PF614-301)",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06602271",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "APREPITANT",
+        "chembl_id": "CHEMBL1471",
+        "reason": "same target: Substance-P receptor"
+      },
+      {
+        "name": "FOSAPREPITANT DIMEGLUMINE",
+        "chembl_id": "CHEMBL1201782",
+        "reason": "same target: Substance-P receptor"
+      },
+      {
+        "name": "ROLAPITANT HYDROCHLORIDE",
+        "chembl_id": "CHEMBL3707330",
+        "reason": "same target: Substance-P receptor"
+      },
+      {
+        "name": "FIGOPITANT",
+        "chembl_id": "CHEMBL2104927",
+        "reason": "same target: Substance-P receptor"
+      },
+      {
+        "name": "DNK333",
+        "chembl_id": "CHEMBL105060",
+        "reason": "same target: Substance-P receptor"
+      },
+      {
+        "name": "VESTIPITANT MESYLATE",
+        "chembl_id": "CHEMBL2104992",
+        "reason": "same target: Substance-P receptor"
+      },
+      {
+        "name": "ORVEPITANT",
+        "chembl_id": "CHEMBL2105667",
+        "reason": "same target: Substance-P receptor"
+      },
+      {
+        "name": "SERLOPITANT",
+        "chembl_id": "CHEMBL447955",
+        "reason": "same target: Substance-P receptor"
+      },
+      {
+        "name": "TRADIPITANT",
+        "chembl_id": "CHEMBL3544984",
+        "reason": "same target: Substance-P receptor"
+      },
+      {
+        "name": "BURAPITANT",
+        "chembl_id": "CHEMBL3544947",
+        "reason": "same target: Substance-P receptor"
+      }
+    ]
+  }
+}

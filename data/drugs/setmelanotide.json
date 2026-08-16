@@ -1,0 +1,126 @@
+{
+  "drug_name": "Setmelanotide",
+  "slug": "setmelanotide",
+  "enriched_at": "2026-08-16T08:04:45Z",
+  "source_trial_ids": [
+    "NCT06596135"
+  ],
+  "sponsors": [
+    {
+      "name": "Rhythm Pharmaceuticals, Inc.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Rhythm%20Pharmaceuticals%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 11993702,
+    "iupac_name": "(4R,7S,10S,13R,16S,19R,22R)-22-[[(2S)-2-acetamido-5-(diaminomethylideneamino)pentanoyl]amino]-13-benzyl-10-[3-(diaminomethylideneamino)propyl]-16-(1H-imidazol-5-ylmethyl)-7-(1H-indol-3-ylmethyl)-19-methyl-6,9,12,15,18,21-hexaoxo-1,2-dithia-5,8,11,14,17,20-hexazacyclotricosane-4-carboxamide",
+    "molecular_formula": "C49H68N18O9S2",
+    "molecular_weight": "1117.3",
+    "canonical_smiles": null,
+    "inchikey": "HDHDTKMUACZDAA-PHNIDTBTSA-N",
+    "rxnorm": {
+      "rxcui": "2469247",
+      "generic_name": "setmelanotide",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL3301624",
+    "target_chembl_id": "CHEMBL259",
+    "target_name": "Melanocortin receptor 4",
+    "mechanism_of_action_chembl": "Melanocortin receptor 4 agonist"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Setmelanotide is an MC4 receptor agonist with 20-fold less activity at the melanocortin 3 (MC3) and melanocortin 1 (MC1) receptors. MC4 receptors in the brain are involved in regulation of hunger, satiety, and energy expenditure. Based on nonclinical evidence, setmelanotide may re establish MC4 receptor pathway activity to reduce food intake and promote weight loss through decreased caloric intake and increased energy expenditure in patients with obesity due to acquired HO, BBS, or POMC, PCSK1, or LEPR deficiency associated with insufficient activation of the MC4 receptor. The MC1 receptor is expressed on melanocytes, and activation of this receptor leads to accumulation of melanin and increased skin pigmentation independently of ultraviolet light [see Warnings and Precautions (5.4) and Adverse Reactions (6.1)].",
+    "pharmacokinetics": "12.3 Pharmacokinetics The mean steady state setmelanotide Cmax,ss, AUCtau, and trough concentration for a 3-mg dose administered subcutaneously once daily was 31 ng/mL, 373 h*ng/mL, and 5 ng/mL, respectively simulated using individual PK model parameters from 109 adult patients with normal renal function. Steady-state plasma concentrations of setmelanotide were achieved within 2 days with daily dosing of 1-3 mg setmelanotide. The accumulation of setmelanotide in the systemic circulation during once-daily dosing over 12 weeks was approximately 30%. Setmelanotide AUC and Cmax increased proportionally following multiple-dose subcutaneous administration in the proposed dose range (1-3 mg). Absorption After subcutaneous injection of IMCIVREE, plasma concentrations of setmelanotide reached maximum concentrations at a median tmax of 8 h after dosing. Distribution The mean apparent volume of distribution of setmelanotide after subcutaneous administration of IMCIVREE 3 mg once daily was estimated to be 75.2 L. Protein binding of setmelanotide is 79.1%. Elimination The effective elimination half-life (t½) of setmelanotide was approximately 11 hours. The total apparent steady state clearance of setmelanotide following subcutaneous administration of IMCIVREE 3 mg once daily was estimated to be 7.15 L/h in a typical male patient weighing 120 kg (actual body weight) with normal renal function. Metabolism Setmelanotide is expected to be metabolized into small peptides by catabolic pathways. Excretion Approximately 39% of the administered setmelanotide dose was excreted unchanged in urine during the 24-hour dosing interval following subcutaneous administration of 3 mg once daily. Specific Populations No clinically significant differences in the pharmacokinetics of setmelanotide were observed based on sex or disease. The effect of age 65 years or older, pregnancy, or hepatic impairment on the pharmacokinetics of setmelanotide is unknown. Pediatric Patients IMCIVREE has been evaluated in pediatric patients aged 2 to less than 6 years, 6 to less than 12 years, and aged 12 to 17 years. Simulations were performed using population pharmacokinetic analysis for pediatric patients aged 2 to less than 6 years, following the maximum recommended doses in each of the body weight groups - 2 mg, 1.5 mg, 1 mg, and 0.5 mg in patients weighing ≥40 kg, 30 to <40 kg, 20 to <30 kg, and 15 to <20 kg, respectively. The analyses suggest that AUC and Cmax in pediatric patients aged 2 to less than 6 years are 52% and 75% higher in patients weighing ≥40 kg, 45% and 63% higher in patients weighing 30 to <40 kg, 24% and 38% higher in patients weighing 20 to <30 kg, and 17% and 14% lower in patients weighing 15 to <20 kg as compared to patients greater than or equal to 18 years (3 mg dose). For patients aged 6 to less than 12 years, the setmelanotide AUC and Cmax were 88% and 89% higher compared to patients greater than or equal to 18 years. For patients aged 12 to 17 years, the setmelanotide AUC and Cmax were both 26% higher as compared to patients aged greater than or equal to 18 years [ see Dosage and Administration (2.2, 2.3) ]. Patients with Renal Impairment Exposure parameters, AUC0-t and AUC0-inf, were approximately 13%-15%, 34%-35%, and 86% 96% higher for patients with mild, moderate, and severe renal impairment, respectively, as compared to patients with normal renal function [ see Dosage and Administration (2.4) ]. Renal impairment did not appear to affect plasma protein binding. The average fraction unbound (fu) was approximately 0.2 and was independent of renal function. Drug Interaction Studies In vitro assessment of drug-drug interactions Setmelanotide has low potential for pharmacokinetic drug-drug interactions related to cytochrome P450 (CYP), transporters and plasma protein binding. In vivo assessment of drug-drug interactions No clinical studies evaluating the drug-drug interaction potential of setmelanotide have been conducted.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE IMCIVREE is indicated to reduce excess body weight and maintain weight reduction long term in adults and pediatric patients aged [ see Dosage and Administration (2.1) ]: 4 years and older with acquired hypothalamic obesity (HO) 2 years and older with syndromic or monogenic obesity due to: o Bardet-Biedl syndrome (BBS) o Pro-opiomelanocortin (POMC), proprotein convertase subtilisin/kexin type 1 (PCSK1), or leptin receptor (LEPR) deficiency confirmed by genetic testing demonstrating variants in POMC, PCSK1, or LEPR genes that are interpreted as pathogenic, likely pathogenic, or of uncertain significance (VUS). IMCIVREE is a melanocortin 4 (MC4) receptor agonist indicated to reduce excess body weight and maintain reduction long term in adults and pediatric patients aged (1): 4 years and older with acquired hypothalamic obsesity (HO). 2 years and older with Bardet-Biedl syndrome (BBS). 2 years and older with pro-opiomelanocortin (POMC), proprotein convertase subtilisin/kexin type 1 (PCSK1), or leptin receptor (LEPR) deficiency confirmed by an genetic test demonstrating variants in POMC, PCSK1, or LEPR genes that are interpreted as pathogenic, likely pathogenic, or of uncertain significance (VUS). Limitations of Use: IMCIVREE is not indicated for the treatment of patients with the following conditions as IMCIVREE would not be expected to be effective: Obesity due to suspected POMC, PCSK1, or LEPR-deficiency with POMC , PCSK1 , or LEPR variants classified as benign or likely benign. ( 1 ) Other types of obesity not related to acquired HO, BBS or POMC, PCSK1 or LEPR deficiency, including obesity associated with other genetic syndromes and general (polygenic) obesity. ( 1 ) 1.1 Limitations of Use: IMCIVREE is not indicated for the treatment of patients with the following conditions as IMCIVREE would not be expected to be effective: • Obesity due to suspected POMC, PCSK1, or LEPR deficiency with POMC, PCSK1, or LEPR variants classified as benign or likely benign. • Other types of obesity not related to acquired HO, BBS, or POMC, PCSK1, or LEPR deficiency, including obesity associated with other genetic syndromes and general (polygenic) obesity",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "Imcivree"
+    ],
+    "openfda_generic_names": [
+      "SETMELANOTIDE"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=70c3ccf7-4df0-4c75-ba07-fede9970c8d9",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Obesity Associated With Defects in Leptin-melanocortin Pathway",
+    "slug": "obesity-associated-with-defects-in-leptin-melanocortin-pathway"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06596135",
+      "title": "Open-Label Extension Study of Setmelanotide",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT06596135",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42528856",
+        "title": "Quality of life improvements with setmelanotide treatment in acquired hypothalamic obesity: TRANSCEND trial interview results from US participants.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42528856/"
+      },
+      {
+        "pmid": "42418774",
+        "title": "Setmelanotide for the Treatment of Acquired Hypothalamic Obesity.",
+        "pubdate": "2026 Jul 9",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42418774/"
+      },
+      {
+        "pmid": "42064767",
+        "title": "Expert meeting report: epidemiology and management of acquired hypothalamic obesity.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42064767/"
+      },
+      {
+        "pmid": "41866701",
+        "title": "Correction to \"Setmelanotide in Bardet-Biedl Syndrome: A 52-Week Comparison of Phase 3 Trial Participants With a Matched Registry Cohort\".",
+        "pubdate": "2026 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41866701/"
+      },
+      {
+        "pmid": "41703984",
+        "title": "Setmelanotide in Bardet-Biedl Syndrome: A 52-Week Comparison of Phase 3 Trial Participants With a Matched Registry Cohort.",
+        "pubdate": "2026 Mar",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41703984/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "PF-00446687",
+        "chembl_id": "CHEMBL1090488",
+        "reason": "same target: Melanocortin receptor 4"
+      },
+      {
+        "name": "BREMELANOTIDE",
+        "chembl_id": "CHEMBL2070241",
+        "reason": "same target: Melanocortin receptor 4"
+      },
+      {
+        "name": "BREMELANOTIDE ACETATE",
+        "chembl_id": "CHEMBL4297533",
+        "reason": "same target: Melanocortin receptor 4"
+      },
+      {
+        "name": "SETMELANOTIDE ACETATE",
+        "chembl_id": "CHEMBL4650273",
+        "reason": "same target: Melanocortin receptor 4"
+      }
+    ]
+  }
+}
