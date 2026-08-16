@@ -1,0 +1,99 @@
+{
+  "drug_name": "RSVPreF3 OA vaccine",
+  "slug": "rsvpref3-oa-vaccine",
+  "enriched_at": "2026-08-16T07:35:39Z",
+  "source_trial_ids": [
+    "NCT07220109"
+  ],
+  "sponsors": [
+    {
+      "name": "GlaxoSmithKline",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=GlaxoSmithKline&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2639228",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2108573",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": "Biological vaccine - induces immune response"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=RSVPreF3%20OA%20vaccine+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=RSVPreF3%20OA%20vaccine+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=RSVPreF3%20OA%20vaccine+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Respiratory Syncytial Virus Infections",
+    "slug": "respiratory-syncytial-virus-infections"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07220109",
+      "title": "A Study on the Immune Response and Safety of Vaccine Against Respiratory Syncytial Virus Given to Chinese Adults 18 to 59 Years of Age at Increased Risk of Respiratory Syncytial Virus Disease",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07220109",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "41654225",
+        "title": "Protecting the vulnerable: Narrative review on RSV vaccines in adults and pregnancy.",
+        "pubdate": "2026 May-Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41654225/"
+      },
+      {
+        "pmid": "40266077",
+        "title": "The Potential Public Health Impact of the Adjuvanted Respiratory Syncytial Virus Prefusion F Protein Vaccine Among Older Adults in Italy.",
+        "pubdate": "2025 Feb 20",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40266077/"
+      },
+      {
+        "pmid": "40245915",
+        "title": "Efficacy, safety, and immunogenicity of the AS01(E)-adjuvanted respiratory syncytial virus prefusion F protein vaccine (RSVPreF3 OA) in older adults over three respiratory syncytial virus seasons (AReSVi-006): a multicentre, randomised, observer-blinded, placebo-controlled, phase 3 trial.",
+        "pubdate": "2025 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40245915/"
+      },
+      {
+        "pmid": "39435476",
+        "title": "Cost-effectiveness analysis of respiratory syncytial virus vaccination with the adjuvanted prefusion F protein vaccine (RSVPreF3 OA) for adults ≥60 years old in Japan.",
+        "pubdate": "2024 Jan-Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39435476/"
+      },
+      {
+        "pmid": "39099093",
+        "title": "Noninferior Immunogenicity and Consistent Safety of Respiratory Syncytial Virus Prefusion F Protein Vaccine in Adults 50-59 Years Compared to ≥60 Years of Age.",
+        "pubdate": "2024 Oct 15",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39099093/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

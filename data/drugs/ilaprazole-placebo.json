@@ -1,0 +1,119 @@
+{
+  "drug_name": "Ilaprazole Placebo",
+  "slug": "ilaprazole-placebo",
+  "enriched_at": "2026-08-16T07:43:51Z",
+  "source_trial_ids": [
+    "NCT06284876"
+  ],
+  "sponsors": [
+    {
+      "name": "Il-Yang Pharm. Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Il-Yang%20Pharm.%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "8375",
+      "generic_name": "placebo",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2106370",
+    "target_chembl_id": "CHEMBL2095173",
+    "target_name": "Potassium-transporting ATPase",
+    "mechanism_of_action_chembl": "Potassium-transporting ATPase inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Ilaprazole%20Placebo+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Ilaprazole%20Placebo+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Ilaprazole%20Placebo+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Peptic Ulcer",
+    "slug": "peptic-ulcer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06284876",
+      "title": "Study to Evaluate the Efficacy and Safety of Ilaprazole 10 mg in Prevention NSAIDs Associated Peptic Ulcer",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06284876",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "OMEPRAZOLE",
+        "chembl_id": "CHEMBL1503",
+        "reason": "same target: Potassium-transporting ATPase"
+      },
+      {
+        "name": "DEXLANSOPRAZOLE",
+        "chembl_id": "CHEMBL1201863",
+        "reason": "same target: Potassium-transporting ATPase"
+      },
+      {
+        "name": "OMEPRAZOLE MAGNESIUM",
+        "chembl_id": "CHEMBL1567328",
+        "reason": "same target: Potassium-transporting ATPase"
+      },
+      {
+        "name": "RABEPRAZOLE SODIUM",
+        "chembl_id": "CHEMBL1200930",
+        "reason": "same target: Potassium-transporting ATPase"
+      },
+      {
+        "name": "PANTOPRAZOLE SODIUM",
+        "chembl_id": "CHEMBL3989559",
+        "reason": "same target: Potassium-transporting ATPase"
+      },
+      {
+        "name": "LANSOPRAZOLE",
+        "chembl_id": "CHEMBL480",
+        "reason": "same target: Potassium-transporting ATPase"
+      },
+      {
+        "name": "ESOMEPRAZOLE SODIUM",
+        "chembl_id": "CHEMBL1200470",
+        "reason": "same target: Potassium-transporting ATPase"
+      },
+      {
+        "name": "ESOMEPRAZOLE MAGNESIUM",
+        "chembl_id": "CHEMBL5314366",
+        "reason": "same target: Potassium-transporting ATPase"
+      },
+      {
+        "name": "ESOMEPRAZOLE STRONTIUM",
+        "chembl_id": "CHEMBL2146140",
+        "reason": "same target: Potassium-transporting ATPase"
+      },
+      {
+        "name": "VONOPRAZAN FUMARATE",
+        "chembl_id": "CHEMBL2064032",
+        "reason": "same target: Potassium-transporting ATPase"
+      }
+    ]
+  }
+}

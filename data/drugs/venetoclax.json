@@ -1,0 +1,121 @@
+{
+  "drug_name": "Venetoclax",
+  "slug": "venetoclax",
+  "enriched_at": "2026-08-16T07:38:21Z",
+  "source_trial_ids": [
+    "NCT03539744"
+  ],
+  "sponsors": [
+    {
+      "name": "AbbVie",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=AbbVie&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 49846579,
+    "iupac_name": "4-[4-[[2-(4-chlorophenyl)-4,4-dimethylcyclohexen-1-yl]methyl]piperazin-1-yl]-N-[3-nitro-4-(oxan-4-ylmethylamino)phenyl]sulfonyl-2-(1H-pyrrolo[2,3-b]pyridin-5-yloxy)benzamide",
+    "molecular_formula": "C45H50ClN7O7S",
+    "molecular_weight": "868.4",
+    "canonical_smiles": null,
+    "inchikey": "LQBVNQSMGBZMKD-UHFFFAOYSA-N",
+    "rxnorm": {
+      "rxcui": "1747556",
+      "generic_name": "venetoclax",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL3137309",
+    "target_chembl_id": "CHEMBL4860",
+    "target_name": "Apoptosis regulator Bcl-2",
+    "mechanism_of_action_chembl": "Apoptosis regulator Bcl-2 inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Venetoclax is a selective and orally bioavailable small-molecule inhibitor of BCL-2, an anti-apoptotic protein. Overexpression of BCL-2 has been demonstrated in CLL and AML cells where it mediates tumor cell survival and has been associated with resistance to chemotherapeutics. Venetoclax helps restore the process of apoptosis by binding directly to the BCL-2 protein, displacing pro-apoptotic proteins like BIM, triggering mitochondrial outer membrane permeabilization and the activation of caspases. In nonclinical studies, venetoclax has demonstrated cytotoxic activity in tumor cells that overexpress BCL-2.",
+    "pharmacokinetics": "12.3 Pharmacokinetics Venetoclax mean (± standard deviation) steady state C max was 2.1 ± 1.1 mcg/mL and AUC 0-24h was 32.8 ± 16.9 mcg•h/mL following administration of 400 mg once daily with a low-fat meal. Venetoclax steady state AUC increased proportionally over the dose range of 150 to 800 mg (0.25 to 1.33 times the maximum approved recommended dosage). The pharmacokinetics of venetoclax does not change over time. Administration of crushed VENCLEXTA tablets has no impact on venetoclax AUC. Absorption Maximum plasma concentration of venetoclax was reached 5 to 8 hours following multiple oral administration under fed conditions. Effect of Food Administration with a low-fat meal (approximately 512 kilocalories, 25% fat calories, 60% carbohydrate calories, and 15% protein calories) increased venetoclax exposure by approximately 3.4-fold and administration with a high-fat meal (approximately 753 kilocalories, 55% fat calories, 28% carbohydrate calories, and 17% protein calories) increased venetoclax exposure by 5.1- to 5.3-fold compared with fasting conditions. Distribution Venetoclax is highly bound to human plasma protein with unbound fraction in plasma <0.01 across a concentration range of 1-30 micromolar (0.87-26 mcg/mL). The mean blood-to-plasma ratio was 0.57. The apparent volume of distribution (Vd ss /F) of venetoclax ranged from 256-321 L in patients. Elimination The terminal elimination half-life of venetoclax was approximately 26 hours. Metabolism Venetoclax is predominantly metabolized by CYP3A in vitro. The major metabolite identified in plasma, M27, has an inhibitory activity against BCL-2 that is at least 58-fold lower than venetoclax in vitro and its AUC represented 80% of the parent AUC. Excretion After single oral dose of radiolabeled [ 14 C]-venetoclax 200 mg to healthy subjects, >99.9% of the dose was recovered in feces (21% as unchanged) and <0.1% in urine within 9 days. Specific Populations No clinically significant differences in the pharmacokinetics of venetoclax were observed based on age (19 to 93 years), sex, weight, mild to severe renal impairment (CLcr 15 to 89 mL/min, calculated by Cockcroft-Gault), or mild to moderate hepatic impairment (normal total bilirubin and aspartate transaminase (AST) > upper limit of normal (ULN) or total bilirubin 1 to 3 times ULN). The effect of end-stage renal disease (CLcr <15 mL/min) or dialysis on venetoclax pharmacokinetics is unknown. Racial or Ethnic Groups No clinically significant differences in the pharmacokinetics of venetoclax were observed in White, Black, and Asian patients enrolled in the United States. Of 771 patients with AML, Asian patients from Asian countries [China (5.6%), Japan (5.5%), South Korea (2.1%), and Taiwan (0.9%)] had 63% higher venetoclax exposure than non-Asian populations. Patients with Hepatic Impairment Following a single dose of VENCLEXTA 50 mg, venetoclax systemic exposure (AUC 0-INF ) was 2.7-fold higher in subjects with severe hepatic impairment (Child-Pugh C) compared to subjects with normal hepatic function [see Dosage and Administration ( 2.7 ) and Use in Specific Populations ( 8.7 )] . No clinically relevant differences in venetoclax systemic exposure were observed between subjects with mild or moderate hepatic impairment and subjects with normal hepatic function. Drug Interactions Studies Clinical Studies No clinically significant differences in venetoclax pharmacokinetics were observed when coadministered with azacitidine, azithromycin, cytarabine, decitabine, gastric acid reducing agents, obinutuzumab, or rituximab. Ketoconazole Concomitant use of ketoconazole (a strong CYP3A, P-gp, and BCRP inhibitor) 400 mg once daily for 7 days increased venetoclax C max by 130% and AUC 0-INF by 540% [see Drug Interactions ( 7.1 )] . Ritonavir Concomitant use of ritonavir (a strong CYP3A, P-gp, and OATP1B1/B3 inhibitor) 50 mg once daily for 14 days increased venetoclax C max by 140% and AUC by 690% [see Drug Interactions ( 7.1 )] . Posaconazole Concomitant use of posaconazole (a strong CYP3A and P-gp inhibitor) 300 mg with VENCLEXTA 50 mg and 100 mg for 7 days resulted in 61% and 86% higher venetoclax C max , respectively, compared with VENCLEXTA 400 mg administered alone. The venetoclax AUC 0-24h was 90% and 144% higher, respectively [see Drug Interactions ( 7.1 )] . Rifampin Concomitant use of a single dose of rifampin (an OATP1B1/1B3 and P-gp inhibitor) 600 mg increased venetoclax C max by 106% and AUC 0-INF by 78%. Concomitant use of multiple doses of rifampin (as a strong CYP3A inducer) 600 mg once daily for 13 days decreased venetoclax C max by 42% and AUC 0-INF by 71% [see Drug Interactions ( 7.1 )] . Warfarin Concomitant use of a single 400 mg dose of VENCLEXTA with 5 mg of warfarin resulted in 18% to 28% increase in C max and AUC 0-INF of R-warfarin and S-warfarin [see Drug Interactions ( 7.2 )] . Digoxin Concomitant use of a single dose of VENCLEXTA 100 mg with digoxin (a P-gp substrate) 0.5 mg increased digoxin C max by 35% and AUC 0-INF by 9% [see Drug Interactions ( 7.2 )] . In Vitro Studies Venetoclax is not an inhibitor or inducer of CYP1A2, CYP2B6, CYP2C19, CYP2D6, or CYP3A4. Venetoclax is a weak inhibitor of CYP2C8, CYP2C9, and UGT1A1. Venetoclax is not an inhibitor of UGT1A4, UGT1A6, UGT1A9, or UGT2B7. Venetoclax is an inhibitor and substrate of P-gp and BCRP and weak inhibitor of OATP1B1. Venetoclax is not an inhibitor of OATP1B3, OCT1, OCT2, OAT1, OAT3, MATE1, or MATE2K.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE VENCLEXTA is a BCL-2 inhibitor indicated: For the treatment of adult patients with chronic lymphocytic leukemia (CLL) or small lymphocytic lymphoma (SLL). ( 1.1 ) In combination with azacitidine, or decitabine, or low-dose cytarabine for the treatment of newly diagnosed acute myeloid leukemia (AML) in adults 75 years or older, or who have comorbidities that preclude use of intensive induction chemotherapy. ( 1.2 ) 1.1 Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma VENCLEXTA is indicated for the treatment of adult patients with chronic lymphocytic leukemia (CLL) or small lymphocytic lymphoma (SLL). 1.2 Acute Myeloid Leukemia VENCLEXTA is indicated in combination with azacitidine, or decitabine, or low-dose cytarabine for the treatment of newly diagnosed acute myeloid leukemia (AML) in adults 75 years or older, or who have comorbidities that preclude use of intensive induction chemotherapy.",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "Venclexta"
+    ],
+    "openfda_generic_names": [
+      "VENETOCLAX"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b118a40d-6b56-cee3-10f6-ded821a97018",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Multiple Myeloma",
+    "slug": "multiple-myeloma"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT03539744",
+      "title": "A Study Designed to Evaluate the Safety and Efficacy of Venetoclax Plus Dexamethasone (VenDex) Compared With Pomalidomide Plus Dexamethasone (PomDex) in Participants With t(11;14)-Positive Relapsed or Refractory Multiple Myeloma.",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT03539744",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42583229",
+        "title": "Venetoclax plus azacitidine, low-dose cytarabine, aclarubicin, and G-CSF (VA-CAG regimen) for newly diagnosed young patients with acute myeloid leukemia: A prospective, multicenter, single-arm Phase II clinical trial.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42583229/"
+      },
+      {
+        "pmid": "42566728",
+        "title": "Contemporary Management of Relapsed or Refractory Chronic Lymphocytic Leukemia.",
+        "pubdate": "2026 Aug 7",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42566728/"
+      },
+      {
+        "pmid": "42563153",
+        "title": "DECIDER-2: Prospective randomized multicenter phase III trial of decitabine and venetoclax administered in combination with all-trans retinoic acid or placebo in patients with acute myeloid leukemia who are ineligible for induction chemotherapy.",
+        "pubdate": "2026 Aug 5",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42563153/"
+      },
+      {
+        "pmid": "42534709",
+        "title": "Resolution of Paraneoplastic Cutaneous Angioendotheliomatosis After CAR T-Cell Therapy in TP53-Deleted CLL: A Case Report.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42534709/"
+      },
+      {
+        "pmid": "42462092",
+        "title": "First-line ibrutinib plus venetoclax for non-blastoid mantle cell lymphoma in patients ≥65 years or with TP53 mutations.",
+        "pubdate": "2026 Jul 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42462092/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "OBATOCLAX MESYLATE",
+        "chembl_id": "CHEMBL2107358",
+        "reason": "same target: Apoptosis regulator Bcl-2"
+      },
+      {
+        "name": "NAVITOCLAX",
+        "chembl_id": "CHEMBL443684",
+        "reason": "same target: Apoptosis regulator Bcl-2"
+      },
+      {
+        "name": "APG-2575",
+        "chembl_id": "CHEMBL4650374",
+        "reason": "same target: Apoptosis regulator Bcl-2"
+      }
+    ]
+  }
+}

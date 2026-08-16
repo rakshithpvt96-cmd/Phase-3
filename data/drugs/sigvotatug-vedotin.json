@@ -1,0 +1,93 @@
+{
+  "drug_name": "sigvotatug vedotin",
+  "slug": "sigvotatug-vedotin",
+  "enriched_at": "2026-08-16T07:36:23Z",
+  "source_trial_ids": [
+    "NCT06012435"
+  ],
+  "sponsors": [
+    {
+      "name": "Seagen, a wholly owned subsidiary of Pfizer",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Seagen%2C%20a%20wholly%20owned%20subsidiary%20of%20Pfizer&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2688479",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL5314879",
+    "target_chembl_id": "CHEMBL4876",
+    "target_name": "Integrin beta-6",
+    "mechanism_of_action_chembl": "Integrin beta-6 binding agent"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=sigvotatug%20vedotin+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=sigvotatug%20vedotin+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=sigvotatug%20vedotin+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Carcinoma, Non-Small-Cell Lung",
+    "slug": "carcinoma-non-small-cell-lung"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06012435",
+      "title": "A Study of SGN-B6A Versus Docetaxel in Previously Treated Non-small Cell Lung Cancer",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06012435",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42226007",
+        "title": "Mapping the antibody-drug-conjugates landscape in non-small cell lung cancer: Where are we and where are we going?",
+        "pubdate": "2026 Jun 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42226007/"
+      },
+      {
+        "pmid": "41990605",
+        "title": "Integrin beta-6: Its emerging role as a therapeutic target in solid tumors.",
+        "pubdate": "2026 May",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41990605/"
+      },
+      {
+        "pmid": "41388832",
+        "title": "Frontline sigvotatug vedotin plus pembrolizumab vs pembrolizumab for non-small cell lung cancer with PD-L1 tumor proportion score ≥50%: phase III study design.",
+        "pubdate": "2025 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41388832/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "SIGVOTATUG",
+        "chembl_id": "CHEMBL5314878",
+        "reason": "same target: Integrin beta-6"
+      }
+    ]
+  }
+}

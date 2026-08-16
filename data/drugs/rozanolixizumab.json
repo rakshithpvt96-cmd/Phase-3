@@ -1,0 +1,120 @@
+{
+  "drug_name": "rozanolixizumab",
+  "slug": "rozanolixizumab",
+  "enriched_at": "2026-08-16T07:35:31Z",
+  "source_trial_ids": [
+    "NCT06149559"
+  ],
+  "sponsors": [
+    {
+      "name": "UCB Biopharma SRL",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=UCB%20Biopharma%20SRL&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2642274",
+      "generic_name": "rozanolixizumab",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4297820",
+    "target_chembl_id": "CHEMBL5966",
+    "target_name": "IgG receptor FcRn large subunit p51",
+    "mechanism_of_action_chembl": "IgG receptor FcRn large subunit p51 inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Rozanolixizumab-noli is a humanized IgG4 monoclonal antibody that binds to the neonatal Fc receptor (FcRn), resulting in the reduction of circulating IgG.",
+    "pharmacokinetics": "12.3 Pharmacokinetics Rozanolixizumab-noli exhibited nonlinear pharmacokinetics. Rozanolixizumab-noli exposure increased in a greater than dose-proportional manner over a dose range from 1 mg/kg to 20 mg/kg (two times the maximum recommended dose) following subcutaneous administration. Absorption Following subcutaneous administration of rozanolixizumab-noli, peak plasma levels were achieved after approximately 2 days in healthy subjects. Distribution The apparent volume of distribution of rozanolixizumab-noli is 6.6 L. Elimination Metabolism Rozanolixizumab-noli is expected to be degraded by proteolytic enzymes into small peptides and amino acids. Excretion The apparent clearance for the rozanolixizumab-noli is 0.89 L/day. Specific Populations Age, Sex, and Race The pharmacokinetics of rozanolixizumab-noli were not affected by age, sex, or race based on a population pharmacokinetics analysis. Patients with Renal Impairment No dedicated pharmacokinetic study has been conducted in patients with renal impairment. Renal impairment is not expected to affect the pharmacokinetics of rozanolixizumab-noli. Based on a population pharmacokinetic analysis, which included participants with mild to moderate renal impairment, renal function (estimated glomerular filtration rate [eGFR] 38–161 mL/min/1.73 m 2 ) had no clinically significant effect on rozanolixizumab-noli apparent clearance. No dose adjustment is required in patients with renal impairment. Patients with Hepatic Impairment No dedicated pharmacokinetic study has been conducted in patients with hepatic impairment. Hepatic impairment is not expected to affect the pharmacokinetics of rozanolixizumab-noli. Drug Interaction Studies Clinical drug interaction studies have not been performed with rozanolixizumab-noli. P450 Enzymes Rozanolixizumab-noli is not metabolized by cytochrome P450 enzymes. Interactions with concomitant medications that are substrates, inducers, or inhibitors of cytochrome P450 enzymes are unlikely. Drug Interactions with Other Drugs or Biological Products Rozanolixizumab-noli may decrease concentrations of compounds that bind to the human FcRn [see Drug Interactions (7.1) ] .",
+    "indications_and_usage": "1 INDICATIONS AND USAGE RYSTIGGO is indicated for the treatment of generalized myasthenia gravis (gMG) in adult patients who are anti-acetylcholine receptor (AChR) or anti-muscle-specific tyrosine kinase (MuSK) antibody positive. RYSTIGGO (rozanolixizumab-noli) is a neonatal Fc receptor blocker indicated for the treatment of generalized myasthenia gravis (gMG) in adult patients who are anti-acetylcholine receptor (AChR) or anti-muscle-specific tyrosine kinase (MuSK) antibody positive. ( 1 )",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "RYSTIGGO"
+    ],
+    "openfda_generic_names": [
+      "ROZANOLIXIZUMAB"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3c0eb8c2-c042-4954-b451-3baa77f5e6d1",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Generalized Myasthenia Gravis",
+    "slug": "generalized-myasthenia-gravis"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06149559",
+      "title": "A Study of Rozanolixizumab in Pediatric Study Participants With Moderate to Severe Generalized Myasthenia Gravis",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06149559",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42485478",
+        "title": "",
+        "pubdate": "2026 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42485478/"
+      },
+      {
+        "pmid": "42043767",
+        "title": "Treatment Characteristics and Healthcare Resource Utilization Among Patients with Myasthenia Gravis Initiating Rozanolixizumab: A US Claims Database Analysis.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42043767/"
+      },
+      {
+        "pmid": "41817915",
+        "title": "Indirect Comparison of Nipocalimab Versus Efgartigimod and Rozanolixizumab in the Treatment of Generalized Myasthenia Gravis.",
+        "pubdate": "2026 May",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41817915/"
+      },
+      {
+        "pmid": "41505161",
+        "title": "Novel Therapies for Generalized Myasthenia Gravis: Insights Into FcRn and Complement Inhibition.",
+        "pubdate": "2026 Jan-Feb 01",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41505161/"
+      },
+      {
+        "pmid": "41205003",
+        "title": "Measuring the effect of rozanolixizumab using the Myasthenia Gravis Impairment Index: analyses from the randomized phase 3 MycarinG study.",
+        "pubdate": "2025 Nov 8",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41205003/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "EFGARTIGIMOD ALFA",
+        "chembl_id": "CHEMBL4297551",
+        "reason": "same target: IgG receptor FcRn large subunit p51"
+      },
+      {
+        "name": "NIPOCALIMAB",
+        "chembl_id": "CHEMBL4594310",
+        "reason": "same target: IgG receptor FcRn large subunit p51"
+      },
+      {
+        "name": "BATOCLIMAB",
+        "chembl_id": "CHEMBL4650514",
+        "reason": "same target: IgG receptor FcRn large subunit p51"
+      },
+      {
+        "name": "ORILANOLIMAB",
+        "chembl_id": "CHEMBL4298117",
+        "reason": "same target: IgG receptor FcRn large subunit p51"
+      }
+    ]
+  }
+}

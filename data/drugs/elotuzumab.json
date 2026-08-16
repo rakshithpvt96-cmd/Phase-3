@@ -1,0 +1,105 @@
+{
+  "drug_name": "Elotuzumab",
+  "slug": "elotuzumab",
+  "enriched_at": "2026-08-16T07:42:14Z",
+  "source_trial_ids": [
+    "NCT06152575"
+  ],
+  "sponsors": [
+    {
+      "name": "Pfizer",
+      "ticker": "PFE",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000078003&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1726104",
+      "generic_name": "elotuzumab",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1743010",
+    "target_chembl_id": "CHEMBL3559386",
+    "target_name": "SLAM family member 7",
+    "mechanism_of_action_chembl": "SLAM family member 7 inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Elotuzumab is a humanized IgG1 monoclonal antibody that specifically targets the SLAMF7 (Signaling Lymphocytic Activation Molecule Family member 7) protein. SLAMF7 is expressed on myeloma cells independent of cytogenetic abnormalities. SLAMF7 is also expressed on Natural Killer (NK) cells, plasma cells, and at lower levels on specific immune cell subsets of differentiated cells within the hematopoietic lineage. Elotuzumab directly activates NK cells through the SLAMF7 pathway. Elotuzumab also targets SLAMF7 on myeloma cells and interacts with Fc receptors on effector cells to mediate the killing of myeloma cells through antibody-dependent cellular cytotoxicity (ADCC) and antibody-dependent cellular phagocytosis (ADCP). In nonclinical models, the combination of elotuzumab and lenalidomide resulted in enhanced activation of NK cells that was greater than the effects of either agent alone and increased anti-tumor activity in vitro and in vivo. Elotuzumab has also demonstrated increased anti-tumor activity when combined with pomalidomide in vivo.",
+    "pharmacokinetics": "12.3 Pharmacokinetics Elotuzumab exhibits nonlinear pharmacokinetics (PK) resulting in greater than proportional increases in area under the concentration-time curve (AUC) indicative of target-mediated clearance. The administration of the recommended 10 mg/kg EMPLICITI regimen with lenalidomide and dexamethasone is predicted to result in geometric mean (CV%) steady-state trough concentrations of 194 μg/mL (52%). The administration of the recommended EMPLICITI regimen with pomalidomide and dexamethasone is predicted to result in geometric mean (CV%) steady-state trough concentrations of 124 μg/mL (59%). Elimination The clearance of elotuzumab in combination with lenalidomide and dexamethasone decreased from a geometric mean (CV%) of 17.5 (21.2%) to 5.8 (31%) mL/day/kg with an increase in dose from 0.5 (i.e., 0.05 times the recommended dosage) to 20 mg/kg (i.e., 2 times the recommended dosage). When elotuzumab is administered with lenalidomide and dexamethasone, approximately 97% of the maximum steady-state concentration is predicted to be eliminated with a geometric mean (CV%) of 82.4 (48%) days. When elotuzumab is administered with pomalidomide and dexamethasone, approximately 97% of the maximum steady-state concentration is predicted to be eliminated with a geometric mean (CV%) of 78 (42%) days. Specific Populations Clinically significant differences were not observed in the PK of elotuzumab based on age (37 to 88 years), sex, race, baseline lactate dehydrogenase, albumin, renal impairment (creatinine clearance (CLcr) 15 to 89 mL/min), end-stage renal disease (CLcr <15 mL/min) with or without hemodialysis, mild hepatic impairment (total bilirubin ≤ upper limit of normal (ULN) and aspartate transaminase (AST) > ULN OR total bilirubin 1 to 1.5 times the ULN and AST any value), and coadministration with lenalidomide/dexamethasone or pomalidomide/dexamethasone. The PK of elotuzumab in patients with moderate (total bilirubin > 1.5 to 3 times the ULN and AST any value) to severe (total bilirubin > 3 times the ULN and AST any value) hepatic impairment is unknown. The clearance of elotuzumab increased with increasing body weight supporting a weight-based dose.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE • EMPLICITI is indicated in combination with lenalidomide and dexamethasone for the treatment of adult patients with multiple myeloma who have received one to three prior therapies. • EMPLICITI is indicated in combination with pomalidomide and dexamethasone for the treatment of adult patients with multiple myeloma who have received at least two prior therapies including lenalidomide and a proteasome inhibitor. EMPLICITI is a SLAMF7-directed immunostimulatory antibody indicated in • combination with lenalidomide and dexamethasone for the treatment of adult patients with multiple myeloma who have received one to three prior therapies. (1) • combination with pomalidomide and dexamethasone for the treatment of adult patients with multiple myeloma who have received at least two prior therapies including lenalidomide and a proteasome inhibitor. (1)",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "EMPLICITI"
+    ],
+    "openfda_generic_names": [
+      "ELOTUZUMAB"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=80686b7e-f6f4-4154-b5c0-c846425e2d91",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Multiple Myeloma",
+    "slug": "multiple-myeloma"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06152575",
+      "title": "MagnetisMM-32: A Study to Learn About the Study Medicine Called Elranatamab in People With Multiple Myeloma (MM) That Has Come Back After Taking Other Treatments (Including Prior Treatment With an Anti-CD38 Antibody and Lenalidomide)",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06152575",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "39449301",
+        "title": "The Real-World Outcomes of Relapsed/Refractory Multiple Myeloma Treated with Elotuzumab, Pomalidomide, and Dexamethasone.",
+        "pubdate": "2024 Sep 30",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39449301/"
+      },
+      {
+        "pmid": "38849283",
+        "title": "Nivolumab, Pomalidomide, and Elotuzumab Combination Regimens for Treatment of Relapsed and Refractory Multiple Myeloma: Results from the Phase 3 CheckMate 602 Study.",
+        "pubdate": "2024 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38849283/"
+      },
+      {
+        "pmid": "38609316",
+        "title": "Phase 1 study combining elotuzumab with autologous stem cell transplant and lenalidomide for multiple myeloma.",
+        "pubdate": "2024 Apr 12",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38609316/"
+      },
+      {
+        "pmid": "38423700",
+        "title": "Health-related quality of life in patients with triple-class exposed relapsed and refractory multiple myeloma treated with idecabtagene vicleucel or standard regimens: patient-reported outcomes from the phase 3, randomised, open-label KarMMa-3 clinical trial.",
+        "pubdate": "2024 Mar",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38423700/"
+      },
+      {
+        "pmid": "38302221",
+        "title": "Elotuzumab, lenalidomide, bortezomib, dexamethasone, and autologous haematopoietic stem-cell transplantation for newly diagnosed multiple myeloma (GMMG-HD6): results from a randomised, phase 3 trial.",
+        "pubdate": "2024 Feb",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38302221/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "AZINTUXIZUMAB VEDOTIN",
+        "chembl_id": "CHEMBL4297859",
+        "reason": "same target: SLAM family member 7"
+      }
+    ]
+  }
+}

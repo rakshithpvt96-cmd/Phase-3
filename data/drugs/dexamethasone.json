@@ -1,10 +1,11 @@
 {
   "drug_name": "Dexamethasone",
   "slug": "dexamethasone",
-  "enriched_at": "2026-08-15T22:15:46Z",
+  "enriched_at": "2026-08-16T07:33:50Z",
   "source_trial_ids": [
     "NCT03539744",
-    "NCT05552976"
+    "NCT05552976",
+    "NCT06152575"
   ],
   "sponsors": [
     {
@@ -18,6 +19,12 @@
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Bristol-Myers%20Squibb&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Pfizer",
+      "ticker": "PFE",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000078003&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
@@ -73,6 +80,13 @@
       "title": "A Study to Evaluate Mezigdomide in Combination With Carfilzomib and Dexamethasone (MeziKD) Versus Carfilzomib and Dexamethasone (Kd) in Participants With Relapsed or Refractory Multiple Myeloma (SUCCESSOR-2)",
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT05552976",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06152575",
+      "title": "MagnetisMM-32: A Study to Learn About the Study Medicine Called Elranatamab in People With Multiple Myeloma (MM) That Has Come Back After Taking Other Treatments (Including Prior Treatment With an Anti-CD38 Antibody and Lenalidomide)",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06152575",
       "has_results": false
     }
   ],

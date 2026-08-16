@@ -1,0 +1,164 @@
+{
+  "drug_name": "Tislelizumab",
+  "slug": "tislelizumab",
+  "enriched_at": "2026-08-16T07:37:38Z",
+  "source_trial_ids": [
+    "NCT04164199",
+    "NCT05152147"
+  ],
+  "sponsors": [
+    {
+      "name": "BeOne Medicines",
+      "ticker": "ONC",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001651308&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Jazz Pharmaceuticals",
+      "ticker": "JAZZ",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001232524&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2677426",
+      "generic_name": "tislelizumab",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4297840",
+    "target_chembl_id": "CHEMBL3307223",
+    "target_name": "Programmed cell death protein 1",
+    "mechanism_of_action_chembl": "Programmed cell death protein 1 inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Binding of the PD-1 ligands PD-L1 and PD-L2, to the PD-1 receptor found on T cells, inhibits T-cell proliferation and cytokine production. Upregulation of PD-1 ligands occurs in some tumors and signaling through this pathway can contribute to inhibition of active T-cell immune surveillance of tumors. Tislelizumab-jsgr binds to PD-1 and blocks its interaction with PD-L1 and PD-L2, releasing PD-1 pathway-mediated inhibition of the immune response, including the anti-tumor immune response. Tislelizumab-jsgr decreased tumor growth in xenograft models and a human PD-1 transgenic mouse model.",
+    "pharmacokinetics": "12.3 Pharmacokinetics Pharmacokinetic parameters are presented as geometric mean (% CV) unless otherwise specified. The peak concentration (C max ) and area under the plasma concentration versus time curve (AUC) of tislelizumab-jsgr increased dose proportionally in the dose range of 0.5 (0.2 times the approved recommended dosage in a 70 kg patient) to 10 mg/kg (3.5 times the approved recommended dosage in a 70 kg patient). The steady-state AUC tau of tislelizumab-jsgr is 1,283 mcg/mL∙day (28.7%) and the C max is 110 mcg/mL (22.2%) following the approved recommended dosage. Steady-state concentration of tislelizumab-jsgr is reached after 12 weeks of repeated dosing with an every 3-week regimen and the systemic accumulation was 2.14-fold. Distribution The tislelizumab-jsgr steady-state total volume of distribution is 6.42 L (32.6%). Elimination The tislelizumab-jsgr total clearance is 0.153 L/day (29.5%) and the terminal half-life (t ½ ) is 24 days (31%). Specific Populations No clinically significant differences in the pharmacokinetics of tislelizumab-jsgr were observed based on age (range: 18 to 90 years), weight (range: 32 to 130 kg), race (White, Asian, or Black), mild to moderate renal impairment (CLcr ≥30 mL/min, estimated by Cockcroft-Gault), mild to moderate hepatic impairment (total bilirubin ≤3 times ULN and any AST, estimated by NCI criteria). The effect of severe hepatic impairment (total bilirubin >3 times ULN and any AST), severe renal impairment (CLcr 15-29 mL/min), or end-stage renal disease (CLcr <15 mL/min) on the pharmacokinetics of tislelizumab-jsgr is unknown.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE TEVIMBRA is a programmed death receptor-1 (PD-1)-blocking antibody indicated for: Esophageal Cancer in combination with platinum-containing chemotherapy for the first-line treatment of adults with unresectable or metastatic esophageal squamous cell carcinoma (ESCC) whose tumors express PD-L1 (≥1). ( 1.1 ) as a single agent in adults with unresectable or metastatic esophageal squamous cell carcinoma (ESCC) after prior systemic chemotherapy that did not include a PD-(L)1 inhibitor. ( 1.1 ) Gastric Cancer in combination with platinum and fluoropyrimidine-based chemotherapy in adults for the first line treatment of unresectable or metastatic HER2-negative gastric or gastroesophageal junction adenocarcinoma whose tumors express PD-L1 (≥1). ( 1.2 ) 1.1 Esophageal Cancer First-Line Treatment of Esophageal Squamous Cell Carcinoma TEVIMBRA, in combination with platinum-containing chemotherapy, is indicated for the first-line treatment of adults with unresectable or metastatic esophageal squamous cell carcinoma (ESCC) whose tumors express PD-L1 (≥1). Previously Treated Esophageal Squamous Cell Carcinoma TEVIMBRA, as a single agent, is indicated for the treatment of adults with unresectable or metastatic esophageal squamous cell carcinoma (ESCC) after prior systemic chemotherapy that did not include a PD-(L)1 inhibitor. 1.2 Gastric Cancer TEVIMBRA, in combination with platinum and fluoropyrimidine-based chemotherapy, is indicated for the first-line treatment of adults with unresectable or metastatic HER2-negative gastric or gastroesophageal junction adenocarcinoma (G/GEJ) whose tumors express PD-L1 (≥1).",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "TEVIMBRA"
+    ],
+    "openfda_generic_names": [
+      "TISLELIZUMAB-JSGR"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=08ef1e3e-496f-4b0b-94ee-fbba3cc1985a",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Advanced Malignancies",
+    "slug": "advanced-malignancies"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04164199",
+      "title": "Study of Tislelizumab, Pamiparib, and Other Investigational Agents in Participants With Advanced Malignancies",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT04164199",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT05152147",
+      "title": "A Study of Zanidatamab in Combination With Chemotherapy Plus or Minus Tislelizumab in Patients With HER2-positive Advanced or Metastatic Gastric and Esophageal Cancers",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05152147",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42578486",
+        "title": "First-line systemic treatment for people with extensive-stage small cell lung cancer: a network meta-analysis.",
+        "pubdate": "2026 Aug 11",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42578486/"
+      },
+      {
+        "pmid": "42529140",
+        "title": "RATIONALE-303: Long-Term Outcomes of Tislelizumab in Previously Treated Advanced/Metastatic NSCLC.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42529140/"
+      },
+      {
+        "pmid": "42495710",
+        "title": "Short-Course Radiotherapy-Based Total Neoadjuvant Therapy plus Tislelizumab for Locally Advanced Rectal Cancer (Neo-STAR): Early Outcomes of a Randomized Phase II Trial.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42495710/"
+      },
+      {
+        "pmid": "42448175",
+        "title": "AdvanTIG-302: Phase 3 Study of Ociperlimab (Anti-TIGIT) + Tislelizumab (Anti-PD-1) Versus Pembrolizumab in Untreated, Locally Advanced, Unresectable, or Metastatic Non-Small Cell Lung Cancer With PD-L1 ≥50.",
+        "pubdate": "2026 Jul 14",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42448175/"
+      },
+      {
+        "pmid": "42407248",
+        "title": "Phase I/Ib study evaluating safety, efficacy, pharmacokinetics and pharmacodynamics of NIZ985 monotherapy and in combination with an anti-PD-1 agent in patients with advanced solid tumors or lymphoma.",
+        "pubdate": "2026 Aug 26",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42407248/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "PEMBROLIZUMAB",
+        "chembl_id": "CHEMBL3137343",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "NIVOLUMAB",
+        "chembl_id": "CHEMBL2108738",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "PIDILIZUMAB",
+        "chembl_id": "CHEMBL2108680",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "CEMIPLIMAB",
+        "chembl_id": "CHEMBL4297723",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "DOSTARLIMAB",
+        "chembl_id": "CHEMBL4298124",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "CAMRELIZUMAB",
+        "chembl_id": "CHEMBL4297715",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "SERPLULIMAB",
+        "chembl_id": "CHEMBL4594550",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "RETIFANLIMAB",
+        "chembl_id": "CHEMBL4298037",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "SPARTALIZUMAB",
+        "chembl_id": "CHEMBL4297831",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "SASANLIMAB",
+        "chembl_id": "CHEMBL4298191",
+        "reason": "same target: Programmed cell death protein 1"
+      }
+    ]
+  }
+}

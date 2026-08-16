@@ -1,8 +1,9 @@
 {
   "drug_name": "Vehicle Cream",
   "slug": "vehicle-cream",
-  "enriched_at": "2026-08-15T21:50:35Z",
+  "enriched_at": "2026-08-16T07:38:01Z",
   "source_trial_ids": [
+    "NCT06548360",
     "NCT06832618"
   ],
   "sponsors": [
@@ -48,6 +49,13 @@
     "slug": "atopic-dermatitis"
   },
   "source_trials": [
+    {
+      "nct_id": "NCT06548360",
+      "title": "A Study to Evaluate the Safety and Efficacy of Ruxolitinib Cream in Pediatric Participants With Nonsegmental Vitiligo",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06548360",
+      "has_results": false
+    },
     {
       "nct_id": "NCT06832618",
       "title": "A Study to Assess the Efficacy and Safety of Ruxolitinib Cream in Children and Adolescents (6 to <18 Years Old) With Moderate Atopic Dermatitis",
@@ -104,6 +112,26 @@
         "name": "Rocatinlimab",
         "chembl_id": null,
         "reason": "same indication trial, sponsor: Amgen"
+      },
+      {
+        "name": "Upadacitinib 15mg Dose",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: AbbVie"
+      },
+      {
+        "name": "Dupilumab 300mg Dose",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: AbbVie"
+      },
+      {
+        "name": "Upadacitinib 30mg Dose",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: AbbVie"
+      },
+      {
+        "name": "CM310",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Keymed Biosciences Co.Ltd"
       }
     ]
   }

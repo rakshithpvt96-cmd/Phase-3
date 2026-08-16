@@ -1,0 +1,150 @@
+{
+  "drug_name": "Ramucirumab+ paclitaxel",
+  "slug": "ramucirumab-paclitaxel",
+  "enriched_at": "2026-08-16T07:34:33Z",
+  "source_trial_ids": [
+    "NCT06346392"
+  ],
+  "sponsors": [
+    {
+      "name": "AstraZeneca",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=AstraZeneca&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1535922",
+      "generic_name": "ramucirumab",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1743062",
+    "target_chembl_id": "CHEMBL279",
+    "target_name": "Vascular endothelial growth factor receptor 2",
+    "mechanism_of_action_chembl": "Vascular endothelial growth factor receptor 2 inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Ramucirumab%2B%20paclitaxel+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Ramucirumab%2B%20paclitaxel+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Ramucirumab%2B%20paclitaxel+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Gastric Cancer",
+    "slug": "gastric-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06346392",
+      "title": "AZD0901 Compared With Investigator's Choice of Therapy in Participants With Second- or Later-line Advanced or Metastatic Gastric or Gastroesophageal Junction Adenocarcinoma Expressing Claudin18.2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06346392",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42160639",
+        "title": "",
+        "pubdate": "2026 Apr",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42160639/"
+      },
+      {
+        "pmid": "41138601",
+        "title": "Patient-reported outcomes with paclitaxel and ramucirumab switch maintenance in advanced gastroesophageal cancer: A secondary endpoint of the ARMANI phase 3 trial.",
+        "pubdate": "2025 Dec 9",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41138601/"
+      },
+      {
+        "pmid": "40614569",
+        "title": "Pharmacometric and Digital Twin modeling for adaptive scheduling of combination therapy in advanced gastric cancer.",
+        "pubdate": "2025 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40614569/"
+      },
+      {
+        "pmid": "40454632",
+        "title": "Trastuzumab Deruxtecan or Ramucirumab plus Paclitaxel in Gastric Cancer.",
+        "pubdate": "2025 Jul 24",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40454632/"
+      },
+      {
+        "pmid": "40070819",
+        "title": "Nab-paclitaxel combined with cadonilimab (AK104) as second-line treatment for advanced gastric cancer: protocol for a phase II prospective, multicenter, single-arm clinical trial.",
+        "pubdate": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40070819/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "CABOZANTINIB S-MALATE",
+        "chembl_id": "CHEMBL2103868",
+        "reason": "same target: Vascular endothelial growth factor receptor 2"
+      },
+      {
+        "name": "ENMD-981693",
+        "chembl_id": "CHEMBL52885",
+        "reason": "same target: Vascular endothelial growth factor receptor 2"
+      },
+      {
+        "name": "BMS-794833",
+        "chembl_id": "CHEMBL2143592",
+        "reason": "same target: Vascular endothelial growth factor receptor 2"
+      },
+      {
+        "name": "BMS-817378",
+        "chembl_id": "CHEMBL3545050",
+        "reason": "same target: Vascular endothelial growth factor receptor 2"
+      },
+      {
+        "name": "CM-082",
+        "chembl_id": "CHEMBL3545427",
+        "reason": "same target: Vascular endothelial growth factor receptor 2"
+      },
+      {
+        "name": "CYC-116",
+        "chembl_id": "CHEMBL482967",
+        "reason": "same target: Vascular endothelial growth factor receptor 2"
+      },
+      {
+        "name": "ALTIRATINIB",
+        "chembl_id": "CHEMBL3545365",
+        "reason": "same target: Vascular endothelial growth factor receptor 2"
+      },
+      {
+        "name": "PF-00337210",
+        "chembl_id": "CHEMBL1738697",
+        "reason": "same target: Vascular endothelial growth factor receptor 2"
+      },
+      {
+        "name": "TAS-115",
+        "chembl_id": "CHEMBL3764045",
+        "reason": "same target: Vascular endothelial growth factor receptor 2"
+      },
+      {
+        "name": "ZD-4190",
+        "chembl_id": "CHEMBL3544937",
+        "reason": "same target: Vascular endothelial growth factor receptor 2"
+      }
+    ]
+  }
+}

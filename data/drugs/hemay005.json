@@ -1,0 +1,70 @@
+{
+  "drug_name": "Hemay005",
+  "slug": "hemay005",
+  "enriched_at": "2026-08-16T07:43:06Z",
+  "source_trial_ids": [
+    "NCT06145893"
+  ],
+  "sponsors": [
+    {
+      "name": "Ganzhou Hemay Pharmaceutical Co., Ltd",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Ganzhou%20Hemay%20Pharmaceutical%20Co.%2C%20Ltd&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 137355584,
+    "iupac_name": "N-[5-[(1S)-1-(3-ethoxy-4-methoxyphenyl)-2-methylsulfonylethyl]-4,6-dioxothieno[3,4-c]pyrrol-3-yl]acetamide",
+    "molecular_formula": "C20H22N2O7S2",
+    "molecular_weight": "466.5",
+    "canonical_smiles": null,
+    "inchikey": "PRSNGWLHNWGOKD-CQSZACIVSA-N",
+    "rxnorm": null
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL5095240",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Hemay005+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Hemay005+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Hemay005+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Behçet's Disease",
+    "slug": "beh-et-s-disease"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06145893",
+      "title": "A Study of Efficacy and Safety of Hemay005 Tablets in Patients With Behçet's Disease",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06145893",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

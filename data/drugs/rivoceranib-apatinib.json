@@ -1,0 +1,99 @@
+{
+  "drug_name": "Rivoceranib (Apatinib)",
+  "slug": "rivoceranib-apatinib",
+  "enriched_at": "2026-08-16T07:35:08Z",
+  "source_trial_ids": [
+    "NCT04639180"
+  ],
+  "sponsors": [
+    {
+      "name": "Jiangsu HengRui Medicine Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Jiangsu%20HengRui%20Medicine%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "815252",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL3186534",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Rivoceranib%20%28Apatinib%29+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Rivoceranib%20%28Apatinib%29+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Rivoceranib%20%28Apatinib%29+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Hepatocellular Carcinoma (HCC)",
+    "slug": "hepatocellular-carcinoma-hcc"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04639180",
+      "title": "A Study to Evaluate Camrelizumab Plus Rivoceranib (Apatinib) as Adjuvant Therapy in Patients With Hepatocellular Carcinoma (HCC) at High Risk of Recurrence After Curative Resection or Ablation",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04639180",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42317124",
+        "title": "Adiposity enhances the anti-metastatic efficacy of apatinib via PKA-mediated lipid metabolism.",
+        "pubdate": "2026 May 20",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42317124/"
+      },
+      {
+        "pmid": "42256684",
+        "title": "Efficacy and safety of camrelizumab plus apatinib in advanced urachal cancer (RUN-SC-0102): a single-arm, multicentre, phase 2 trial in China.",
+        "pubdate": "2026 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42256684/"
+      },
+      {
+        "pmid": "42241673",
+        "title": "Erratum: Efficacy and Safety of Camrelizumab Plus Apatinib in Patients With Refractory Chordoma: A Phase II Clinical Trial.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42241673/"
+      },
+      {
+        "pmid": "42127327",
+        "title": "Efficacy and Safety of Camrelizumab Plus Apatinib in Patients With Refractory Chordoma: A Phase II Clinical Trial.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42127327/"
+      },
+      {
+        "pmid": "42093981",
+        "title": "Real-world study of SHR-1210 plus apatinib in the treatment of BRAF-negative mucosal melanoma: efficacy, safety and implications of precision medicine.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42093981/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

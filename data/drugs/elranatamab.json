@@ -1,0 +1,150 @@
+{
+  "drug_name": "Elranatamab",
+  "slug": "elranatamab",
+  "enriched_at": "2026-08-16T07:42:21Z",
+  "source_trial_ids": [
+    "NCT06152575"
+  ],
+  "sponsors": [
+    {
+      "name": "Pfizer",
+      "ticker": "PFE",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000078003&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2644880",
+      "generic_name": "elranatamab",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4297809",
+    "target_chembl_id": "CHEMBL2364168",
+    "target_name": "T cell surface glycoprotein CD3",
+    "mechanism_of_action_chembl": "T cell surface glycoprotein CD3 binding agent"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Elranatamab-bcmm is a bispecific B-cell maturation antigen (BCMA)-directed T-cell engaging antibody that binds BCMA on plasma cells, plasmablasts, and multiple myeloma cells and CD3 on T-cells leading to cytolysis of the BCMA-expressing cells. Elranatamab-bcmm activated T-cells, caused proinflammatory cytokine release, and resulted in multiple myeloma cell lysis.",
+    "pharmacokinetics": "12.3 Pharmacokinetics Pharmacokinetic parameters are presented as geometric mean (coefficient of variation [CV]%) and are based upon subcutaneously administered unless otherwise specified. Elranatamab-bcmm exhibits dose proportional pharmacokinetics over dose range from 6 to 76 mg (0.079 to 1 times the approved recommended dosage). Elranatamab-bcmm maximum concentration [33.0 mcg/mL (46%)] is achieved at the end of weekly dosing regimen (i.e., at week 24 of 76 mg weekly dosing). Pharmacokinetic exposures are summarized for the recommended dosage of ELREXFIO in Table 10. Table 10. Pharmacokinetic Parameters of Elranatamab-bcmm in Subjects with Relapsed or Refractory Multiple Myeloma Timepoint Parameters C avg (mcg/mL) C max (mcg/mL) C trough (mcg/mL) First full 76 mg dose 3.1 (94%) 3.8 (94%) 3.3 (102%) End of weekly dose (week 24) In patients who have achieved a response. 32.0 (46%) 33.0 (46%) 30.5 (48%) Steady state (biweekly dosing) Steady state exposure of elranatamab biweekly dose is approximated at week 48. 17.7 (53%) 19.5 (51%) 15.1 (60%) Steady state (every 4 weeks dosing) Steady state exposure of elranatamab once every 4 weeks dose is approximated at week 72. 8.8 (58%) 11.5 (54%) 5.9 (78%) Absorption The mean bioavailability of elranatamab-bcmm was 56.2% when administered subcutaneously. The median (min, max) T max after elranatamab SC administration was 7 (3 to 7) days. Distribution The steady state volume of distribution of elranatamab-bcmm was 7.76 L (33%). Elimination The half-life of elranatamab-bcmm is 22 (64%) days at the 76 mg dosage, with clearance of 0.324 L/day (100%) following 24 weeks dosing. Metabolism Elranatamab-bcmm is expected to be metabolized into small peptides by catabolic pathways. Specific Populations No clinically significant differences in the pharmacokinetics of elranatamab-bcmm were observed based on age (36 to 89 years), sex, race (White, Asian, or Black), body weight (37 to 160 kg), mild or moderate renal impairment (estimated glomerular filtration rate [eGFR] by Modification of Diet in Renal Disease [MDRD] method: 30 to 89 mL/min), or mild hepatic impairment (total bilirubin 1 to ≤1.5 x ULN or any AST greater than ULN). The effects of severe renal impairment (eGFR 15 to 29 mL/min), end-stage renal disease (eGFR <15 mL/min), or moderate to severe hepatic impairment (total bilirubin >1.5 times ULN and any AST) on the PK of elranatamab-bcmm are unknown.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE ELREXFIO is indicated for the treatment of adult patients with relapsed or refractory multiple myeloma who have received at least four prior lines of therapy, including a proteasome inhibitor, an immunomodulatory agent, and an anti-CD38 monoclonal antibody. This indication is approved under accelerated approval based on response rate and durability of response [see Clinical Studies (14) ] . Continued approval for this indication may be contingent upon verification of clinical benefit in a confirmatory trial(s). ELREXFIO is a bispecific B-cell maturation antigen (BCMA)-directed CD3 T‑cell engager indicated for the treatment of adult patients with relapsed or refractory multiple myeloma who have received at least four prior lines of therapy including a proteasome inhibitor, an immunomodulatory agent, and an anti-CD38 monoclonal antibody. This indication is approved under accelerated approval based on response rate and durability of response. Continued approval for this indication may be contingent upon verification of clinical benefit in a confirmatory trial(s). ( 1 )",
+    "boxed_warning": "WARNING: CYTOKINE RELEASE SYNDROME and NEUROLOGIC TOXICITY including IMMUNE EFFECTOR CELL-ASSOCIATED NEUROTOXICITY SYNDROME • Cytokine Release Syndrome (CRS), including life-threatening or fatal reactions, can occur in patients receiving ELREXFIO. Initiate treatment with ELREXFIO step-up dosing schedule to reduce the risk of CRS. Withhold ELREXFIO until CRS resolves or permanently discontinue based on severity [see Dosage and Administration (2.2 , 2.5 ), Warnings and Precautions (5.1) ] . • Neurologic toxicity, including Immune Effector Cell-Associated Neurotoxicity Syndrome (ICANS), and serious and life-threatening reactions, can occur in patients receiving ELREXFIO. Monitor patients for signs and symptoms of neurologic toxicity, including ICANS, during treatment. Withhold ELREXFIO until the neurologic toxicity resolves or permanently discontinue based on severity [see Dosage and Administration (2.5) , Warnings and Precautions (5.2) ] . • Because of the risk of CRS and neurologic toxicity, including ICANS, ELREXFIO is available only through a restricted program under a Risk Evaluation and Mitigation Strategy (REMS) called ELREXFIO REMS [see Warnings and Precautions (5.3) ] . WARNING: CYTOKINE RELEASE SYNDROME and NEUROLOGIC TOXICITY including IMMUNE EFFECTOR CELL-ASSOCIATED NEUROTOXICITY SYNDROME See full prescribing information for complete boxed warning. • Cytokine Release Syndrome (CRS), including life-threatening or fatal reactions, can occur in patients receiving ELREXFIO. Initiate treatment with ELREXFIO step-up dosing schedule to reduce risk of CRS. Withhold ELREXFIO until CRS resolves or permanently discontinue based on severity. ( 2.2 , 2.5 , 5.1 ) • Neurologic toxicity, including Immune Effector Cell-Associated Neurotoxicity Syndrome (ICANS), and serious and life-threatening reactions, can occur in patients receiving ELREXFIO. Monitor patients for signs and symptoms of neurologic toxicity, including ICANS, during treatment. Withhold ELREXFIO until the neurologic toxicity resolves or permanently discontinue based on severity. ( 2.5 , 5.2 ) • ELREXFIO is available only through a restricted program called the ELREXFIO Risk Evaluation and Mitigation Strategy (REMS). ( 5.3 )",
+    "openfda_brand_names": [
+      "Elrexfio"
+    ],
+    "openfda_generic_names": [
+      "ELRANATAMAB-BCMM"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=aa044060-5b4b-4692-bf0f-9a50e140b10e",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Multiple Myeloma",
+    "slug": "multiple-myeloma"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06152575",
+      "title": "MagnetisMM-32: A Study to Learn About the Study Medicine Called Elranatamab in People With Multiple Myeloma (MM) That Has Come Back After Taking Other Treatments (Including Prior Treatment With an Anti-CD38 Antibody and Lenalidomide)",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06152575",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42530826",
+        "title": "Revolutionizing 2L+ Myeloma: A Podcast on the New Era of BCMA-Targeted Bispecific Antibody Therapies.",
+        "pubdate": "2026 Jul 30",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42530826/"
+      },
+      {
+        "pmid": "42287565",
+        "title": "Elranatamab Population Pharmacokinetics and Exposure-Response for Cytokine Release Syndrome in Patients with Relapsed or Refractory Multiple Myeloma.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42287565/"
+      },
+      {
+        "pmid": "42099158",
+        "title": "Targeting Relapsed Multiple Myeloma with Elranatamab: A Bispecific Antibody Approach.",
+        "pubdate": "2026 May 4",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42099158/"
+      },
+      {
+        "pmid": "42021581",
+        "title": "Real-world treatment patterns and outcomes of patients with multiple myeloma initiating elranatamab: results from the ALTITUDE-1 and ALTITUDE-2 retrospective cohort studies.",
+        "pubdate": "2026 May",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42021581/"
+      },
+      {
+        "pmid": "41743042",
+        "title": "Elranatamab for Treatment of Multiple Myeloma With Central Nervous Involvement Refractory to Other Interventions.",
+        "pubdate": "2026 Feb",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41743042/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "MUROMONAB-CD3",
+        "chembl_id": "CHEMBL1201608",
+        "reason": "same target: T cell surface glycoprotein CD3"
+      },
+      {
+        "name": "BLINATUMOMAB",
+        "chembl_id": "CHEMBL1742992",
+        "reason": "same target: T cell surface glycoprotein CD3"
+      },
+      {
+        "name": "FORALUMAB",
+        "chembl_id": "CHEMBL1743020",
+        "reason": "same target: T cell surface glycoprotein CD3"
+      },
+      {
+        "name": "CATUMAXOMAB",
+        "chembl_id": "CHEMBL2108581",
+        "reason": "same target: T cell surface glycoprotein CD3"
+      },
+      {
+        "name": "SOLITOMAB",
+        "chembl_id": "CHEMBL2109264",
+        "reason": "same target: T cell surface glycoprotein CD3"
+      },
+      {
+        "name": "IMC-GP100",
+        "chembl_id": "CHEMBL2109434",
+        "reason": "same target: T cell surface glycoprotein CD3"
+      },
+      {
+        "name": "FBT-A05",
+        "chembl_id": "CHEMBL2109351",
+        "reason": "same target: T cell surface glycoprotein CD3"
+      },
+      {
+        "name": "FLOTETUZUMAB",
+        "chembl_id": "CHEMBL3990038",
+        "reason": "same target: T cell surface glycoprotein CD3"
+      },
+      {
+        "name": "TECLISTAMAB",
+        "chembl_id": "CHEMBL4594505",
+        "reason": "same target: T cell surface glycoprotein CD3"
+      },
+      {
+        "name": "TALQUETAMAB",
+        "chembl_id": "CHEMBL4594503",
+        "reason": "same target: T cell surface glycoprotein CD3"
+      }
+    ]
+  }
+}

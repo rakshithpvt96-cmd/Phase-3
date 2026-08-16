@@ -1,0 +1,75 @@
+{
+  "drug_name": "BGB-A445",
+  "slug": "bgb-a445",
+  "enriched_at": "2026-08-16T07:40:59Z",
+  "source_trial_ids": [
+    "NCT04164199"
+  ],
+  "sponsors": [
+    {
+      "name": "BeOne Medicines",
+      "ticker": "ONC",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001651308&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2471491",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL5979224",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=BGB-A445+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=BGB-A445+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=BGB-A445+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Advanced Malignancies",
+    "slug": "advanced-malignancies"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04164199",
+      "title": "Study of Tislelizumab, Pamiparib, and Other Investigational Agents in Participants With Advanced Malignancies",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT04164199",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "41060432",
+        "title": "A phase I study of the OX40 agonist BGB-A445 with or without tislelizumab, an anti-PD-1 monoclonal antibody, in patients with advanced solid tumors: dose-escalation results.",
+        "pubdate": "2025 Oct 8",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41060432/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

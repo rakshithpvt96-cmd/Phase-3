@@ -1,0 +1,139 @@
+{
+  "drug_name": "Teriflunomide",
+  "slug": "teriflunomide",
+  "enriched_at": "2026-08-16T07:37:30Z",
+  "source_trial_ids": [
+    "NCT05147220",
+    "NCT05156281"
+  ],
+  "sponsors": [
+    {
+      "name": "Novartis Pharmaceuticals",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Novartis%20Pharmaceuticals&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 54684141,
+    "iupac_name": "(Z)-2-cyano-3-hydroxy-N-[4-(trifluoromethyl)phenyl]but-2-enamide",
+    "molecular_formula": "C12H9F3N2O2",
+    "molecular_weight": "270.21",
+    "canonical_smiles": null,
+    "inchikey": "UTNUDOFZCWSZMS-YFHOEESVSA-N",
+    "rxnorm": {
+      "rxcui": "1310520",
+      "generic_name": "teriflunomide",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL973",
+    "target_chembl_id": "CHEMBL1966",
+    "target_name": "Dihydroorotate dehydrogenase (quinone), mitochondrial",
+    "mechanism_of_action_chembl": "Dihydroorotate dehydrogenase inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Teriflunomide, an immunomodulatory agent with anti-inflammatory properties, inhibits dihydroorotate dehydrogenase, a mitochondrial enzyme involved in de novo pyrimidine synthesis. The exact mechanism by which teriflunomide exerts its therapeutic effect in multiple sclerosis is unknown but may involve a reduction in the number of activated lymphocytes in CNS.",
+    "pharmacokinetics": "12.3 Pharmacokinetics Teriflunomide is the principal active metabolite of leflunomide and is responsible for leflunomide’s activity in vivo . At recommended doses, teriflunomide and leflunomide result in a similar range of plasma concentrations of teriflunomide. Based on a population analysis of teriflunomide in healthy adult volunteers and adult MS patients, median t 1/2 was approximately 18 and 19 days after repeated doses of 7 mg and 14 mg respectively. It takes approximately 3 months respectively to reach steady-state concentrations. The estimated AUC accumulation ratio is approximately 30 after repeated doses of 7 or 14 mg. Absorption Median time to reach maximum plasma concentrations is between 1 to 4 hours post dose following oral administration of teriflunomide. Food does not have a clinically relevant effect on teriflunomide pharmacokinetics. Distribution Teriflunomide is extensively bound to plasma protein (> 99%) and is mainly distributed in plasma. The volume of distribution is 11 L after a single intravenous (IV) administration. Metabolism Teriflunomide is the major circulating moiety detected in plasma. The primary biotransformation pathway to minor metabolites of teriflunomide is hydrolysis, with oxidation being a minor pathway. Secondary pathways involve oxidation, N-acetylation and sulfate conjugation. Elimination Teriflunomide is eliminated mainly through direct biliary excretion of unchanged drug as well as renal excretion of metabolites. Over 21 days, 60.1% of the administered dose is excreted via feces (37.5%) and urine (22.6%). After an accelerated elimination procedure with cholestyramine, an additional 23.1% was recovered (mostly in feces). After a single IV administration, the total body clearance of teriflunomide is 30.5 mL/h. Drug Interaction Studies Teriflunomide is not metabolized by Cytochrome P450 or flavin monoamine oxidase enzymes. The Potential Effect of Teriflunomide Tablets on Other Drugs: CYP2C8 Substrates: There was an increase in mean repaglinide C max and AUC (1.7- and 2.4-fold, respectively) following repeated doses of teriflunomide and a single dose of 0.25 mg repaglinide, suggesting that teriflunomide is an inhibitor of CYP2C8 in vivo . The magnitude of interaction could be higher at the recommended repaglinide dose [see Drug Interactions (7) ] . CYP1A2 Substrates Repeated doses of teriflunomide decreased mean C max and AUC of caffeine by 18% and 55%, respectively, suggesting that teriflunomide may be a weak inducer of CYP1A2 in vivo [see Drug Interactions (7) ]. OAT3 Substrates There was an increase in mean cefaclor C max and AUC (1.43- and 1.54-fold, respectively), following repeated doses of teriflunomide, suggesting that teriflunomide is an inhibitor of organic anion transporter 3 (OAT3) in vivo [see Drug Interactions (7) ] . BCRP and OATP1B1/1B3 Substrates There was an increase in mean rosuvastatin C max and AUC (2.65- and 2.51-fold, respectively) following repeated doses of teriflunomide, suggesting that teriflunomide is an inhibitor of BCRP transporter and organic anion transporting polypeptide 1B1 and 1B3 (OATP1B1/1B3) [see Drug Interactions (7) ] . Oral Contraceptives There was an increase in mean ethinylestradiol C max and AUC 0-24 (1.58- and 1.54-fold, respectively) and levonorgestrel C max and AUC 0-24 (1.33- and 1.41-fold, respectively) following repeated doses of teriflunomide [see Drug Interactions (7) ] . Teriflunomide did not affect the pharmacokinetics of bupropion (a CYP2B6 substrate), midazolam (a CYP3A4 substrate), S-warfarin (a CYP2C9 substrate), omeprazole (a CYP2C19 substrate), and metoprolol (a CYP2D6 substrate). The Potential Effect of Other Drugs on Teriflunomide Tablets: Potent CYP and Transporter Inducers: Rifampin did not affect the pharmacokinetics of teriflunomide. Specific Populations Hepatic Impairment Mild and moderate hepatic impairment had no impact on the pharmacokinetics of teriflunomide. The pharmacokinetics of teriflunomide in severe hepatic impairment has not been evaluated [see Contraindications (4) , Warnings and Precautions (5.1) , and Use in Specific Populations (8.6) ] . Renal Impairment Severe renal impairment had no impact on the pharmacokinetics of teriflunomide [see Use in Specific Populations (8.7) ] . Gender In a population analysis, the clearance rate for teriflunomide is 23% less in females than in males. Race Effect of race on the pharmacokinetics of teriflunomide cannot be adequately assessed due to a low number of non-white patients in the clinical trials.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE Teriflunomide tablets are indicated for the treatment of relapsing forms of multiple sclerosis (MS), to include clinically isolated syndrome, relapsing-remitting disease, and active secondary progressive disease, in adults. Teriflunomide tablets are a pyrimidine synthesis inhibitor indicated for the treatment of relapsing forms of multiple sclerosis (MS), to include clinically isolated syndrome, relapsing-remitting disease, and active secondary progressive disease, in adults. ( 1 )",
+    "boxed_warning": "WARNING: HEPATOTOXICITY and EMBRYOFETAL TOXICITY • Hepatotoxicity: Clinically significant and potentially life-threatening liver injury, including acute liver failure requiring transplant, has been reported in patients treated with teriflunomide tablets in the postmarketing setting [see Warnings and Precautions (5.1) ] . Concomitant use of teriflunomide tablets with other hepatotoxic drugs may increase the risk of severe liver injury. Obtain transaminase and bilirubin levels within 6 months before initiation of teriflunomide tablets therapy. Monitor ALT levels at least monthly for six months after starting teriflunomide tablets [see Warnings and Precautions (5.1) ]. If drug induced liver injury is suspected, discontinue teriflunomide tablets and start an accelerated elimination procedure with cholestyramine or charcoal [see Warnings and Precautions (5.3) ] . Teriflunomide tablets are contraindicated in patients with severe hepatic impairment [see Contraindications (4) ] . Patients with pre-existing liver disease may be at increased risk of developing elevated serum transaminases when taking teriflunomide tablets. • Embryofetal Toxicity: Teriflunomide tablets are contraindicated for use in pregnant women and in females of reproductive potential who are not using effective contraception because of the potential for fetal harm. Teratogenicity and embryolethality occurred in animals at plasma teriflunomide exposures lower than that in humans. Exclude pregnancy before the start of treatment with teriflunomide tablets in females of reproductive potential. Advise females of reproductive potential to use effective contraception during teriflunomide tablets treatment and during an accelerated drug elimination procedure after teriflunomide tablets treatment. Stop teriflunomide tablets and use an accelerated drug elimination procedure if the patient becomes pregnant [see Contraindications (4) , Warnings and Precautions (5.2 , 5.3) , Use in Specific Populations (8.1 , 8.3) , and Clinical Pharmacology (12.3) ] . WARNING: HEPATOTOXICITY and EMBRYOFETAL TOXICITY See full prescribing information for complete boxed warning. • Hepatotoxicity: Clinically significant and potentially life-threatening liver injury, including acute liver failure requiring transplant, has been reported in patients treated with teriflunomide tablets in the postmarketing setting ( 5.1 ). Concomitant use of teriflunomide tablets with other hepatotoxic drugs may increase the risk of severe liver injury. Obtain transaminase and bilirubin levels within 6 months before initiation of teriflunomide tablets and monitor ALT levels at least monthly for six months ( 5.1 ). If drug induced liver injury is suspected, discontinue teriflunomide tablets and start accelerated elimination procedure ( 5.3 ). • Embryofetal Toxicity: Teratogenicity and embryolethality occurred in animals administered teriflunomide ( 5.2 , 8.1 ). Exclude pregnancy prior to initiating teriflunomide tablets therapy ( 4 , 5.2 , 8.1 , 8.3 ). Advise use of effective contraception in females of reproductive potential during treatment and during an accelerated drug elimination procedure ( 4 , 5.2 , 5.3 , 8.1 , 8.3 ). Stop teriflunomide tablets and use an accelerated drug elimination procedure if the patient becomes pregnant ( 5.2 , 5.3 , 8.1 ).",
+    "openfda_brand_names": [
+      "Teriflunomide"
+    ],
+    "openfda_generic_names": [
+      "TERIFLUNOMIDE"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2d2724f6-8812-4a26-b2ec-936b71f868e1",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Relapsing Multiple Sclerosis",
+    "slug": "relapsing-multiple-sclerosis"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05147220",
+      "title": "Efficacy and Safety of Remibrutinib Compared to Teriflunomide in Participants With Relapsing Multiple Sclerosis (RMS)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05147220",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT05156281",
+      "title": "Efficacy and Safety of Remibrutinib Compared to Teriflunomide in Participants With Relapsing Multiple Sclerosis (RMS)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05156281",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42587259",
+        "title": "Heterogeneity in Teriflunomide Treatment Arms: A Systematic Review and Meta‑Regression of Randomised Multiple Sclerosis Trials.",
+        "pubdate": "2026 Aug 12",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42587259/"
+      },
+      {
+        "pmid": "42431607",
+        "title": "West Nile Neuroinvasive Disease: Current Management, Emerging Therapies and Future Clinical Trial Priorities.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42431607/"
+      },
+      {
+        "pmid": "42292352",
+        "title": "Disease outcomes with ublituximab in treatment-naïve participants: subpopulation analyses of the phase 3 ULTIMATE I and II studies in participants with relapsing multiple sclerosis.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42292352/"
+      },
+      {
+        "pmid": "42241400",
+        "title": "Mapping metabolic reprogramming in lung and breast cancer through integrative bioinformatics.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42241400/"
+      },
+      {
+        "pmid": "42114075",
+        "title": "Uncoupling Relapse Reduction and Disability Progression: Evidence From Tolebrutinib Studies.",
+        "pubdate": "2026 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42114075/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "LEFLUNOMIDE",
+        "chembl_id": "CHEMBL960",
+        "reason": "same target: Dihydroorotate dehydrogenase (quinone), mitochondrial"
+      },
+      {
+        "name": "ASLAN-003",
+        "chembl_id": "CHEMBL2263632",
+        "reason": "same target: Dihydroorotate dehydrogenase (quinone), mitochondrial"
+      },
+      {
+        "name": "VIDOFLUDIMUS",
+        "chembl_id": "CHEMBL197194",
+        "reason": "same target: Dihydroorotate dehydrogenase (quinone), mitochondrial"
+      },
+      {
+        "name": "EMVODODSTAT",
+        "chembl_id": "CHEMBL4650336",
+        "reason": "same target: Dihydroorotate dehydrogenase (quinone), mitochondrial"
+      },
+      {
+        "name": "BREQUINAR",
+        "chembl_id": "CHEMBL38434",
+        "reason": "same target: Dihydroorotate dehydrogenase (quinone), mitochondrial"
+      }
+    ]
+  }
+}

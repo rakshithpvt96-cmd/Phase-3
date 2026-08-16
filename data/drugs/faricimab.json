@@ -1,0 +1,135 @@
+{
+  "drug_name": "Faricimab",
+  "slug": "faricimab",
+  "enriched_at": "2026-08-16T07:42:34Z",
+  "source_trial_ids": [
+    "NCT06176352"
+  ],
+  "sponsors": [
+    {
+      "name": "Hoffmann-La Roche",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hoffmann-La%20Roche&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2591519",
+      "generic_name": "faricimab",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4297750",
+    "target_chembl_id": "CHEMBL3580489",
+    "target_name": "Angiopoietin-2",
+    "mechanism_of_action_chembl": "Angiopoietin-2 inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Faricimab is a humanized bispecific antibody that acts through inhibition of two pathways by binding to VEGF-A and Ang-2. By inhibiting VEGF-A, faricimab suppresses endothelial cell proliferation, neovascularization and vascular permeability. By inhibiting Ang-2, faricimab is thought to promote vascular stability and desensitize blood vessels to the effects of VEGF-A. Ang-2 levels are increased in some patients with nAMD, DME, and RVO. The contribution of Ang-2 inhibition to the treatment effect and clinical response for nAMD, DME, and RVO has yet to be established.",
+    "pharmacokinetics": "12.3 Pharmacokinetics Absorption/Distribution Maximum faricimab plasma concentrations (Cmax) are estimated to occur approximately 2 days post-dose. Mean (±SD) free faricimab (unbound to VEGF-A and Ang-2) plasma Cmax are estimated to be 0.23 (0.07) mcg/mL and 0.22 (0.07) mcg/mL in nAMD and in DME patients, respectively. After repeated intravitreal administrations, mean plasma free faricimab trough concentrations are predicted to be 0.002-0.003 mcg/mL for every 8 weeks (Q8W) dosing and 0.021-0.029 mcg/mL for every 4 weeks (Q4W) dosing. Although not directly measured in the vitreous, no accumulation of faricimab is expected in the vitreous and no accumulation has been observed in plasma when faricimab has been administered as repeat doses in the vitreous. Metabolism/Elimination Metabolism and elimination of faricimab has not been fully characterized. Faricimab is expected to be catabolized in lysosomes to small peptides and amino acids, which may be excreted renally, in a similar manner to the elimination of endogenous IgG. The estimated mean apparent systemic half-life of faricimab is approximately 7.5 days. Specific Populations The systemic pharmacokinetics of faricimab were not influenced by gender, race, or mild to severe renal impairment (i.e., estimated normalized creatinine clearance by Cockroft-Gault equation: 15 to 89 mL/min/1.73 m 2 ). The effect of severe renal impairment or any degree of hepatic impairment on the pharmacokinetics of VABYSMO is unknown. No special dosage modification is required for any of the populations that have been studied (e.g., elderly, gender, race). Population pharmacokinetic analysis indicated that the pharmacokinetics of faricimab are comparable in nAMD, DME, and RVO patients.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE VABYSMO is a vascular endothelial growth factor (VEGF) and angiopoietin 2 (Ang-2) inhibitor indicated for the treatment of patients with: VABYSMO is a vascular endothelial growth factor (VEGF) and angiopoietin-2 (Ang-2) inhibitor indicated for the treatment of patients with: Neovascular (Wet) Age-Related Macular Degeneration (nAMD) ( 1.1 ) Diabetic Macular Edema (DME) ( 1.2 ) Macular Edema Following Retinal Vein Occlusion (RVO) ( 1.3 ) 1.1 Neovascular (wet) Age-Related Macular Degeneration (nAMD) 1.2 Diabetic Macular Edema (DME) 1.3 Macular Edema Following Retinal Vein Occlusion (RVO)",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "VABYSMO"
+    ],
+    "openfda_generic_names": [
+      "FARICIMAB"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=04cc9ef7-c02a-4e92-a655-0062674e8487",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Choroidal Neovascularization Secondary to Pathologic Myopia",
+    "slug": "choroidal-neovascularization-secondary-to-pathologic-myopia"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06176352",
+      "title": "A Study to Evaluate the Efficacy and Safety of Faricimab in Patients With Choroidal Neovascularization Secondary to Pathologic Myopia",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT06176352",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42518711",
+        "title": "Visual Gains with Faricimab vs Aflibercept 8 mg in Naïve Retinovascular Disease: Global Real-World Cases and Literature Review.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42518711/"
+      },
+      {
+        "pmid": "42512849",
+        "title": "Real-World Faricimab for Treatment-Naïve Neovascular AMD and Diabetic Macular Edema: 24-Month Outcomes from a Single-Center Pilot Cohort in South-Eastern Europe.",
+        "pubdate": "2026 Jul 6",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42512849/"
+      },
+      {
+        "pmid": "42486229",
+        "title": "Faricimab for High-Need Aflibercept 2 mg Treated Neovascular Age-Related Macular Degeneration.",
+        "pubdate": "2026 Jul 22",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42486229/"
+      },
+      {
+        "pmid": "42332210",
+        "title": "Summary of Research: Aflibercept 8 mg versus Faricimab Treat‑and‑Extend for Diabetic Macular Edema or Neovascular Age‑Related Macular Degeneration: A Bayesian Fixed‑Effect Network Meta‑analysis of Clinical Trials.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42332210/"
+      },
+      {
+        "pmid": "42313241",
+        "title": "Summary of Research: Four-Year Outcomes of Faricimab in Diabetic Macular Edema: Results From the RHONE-X Extension Trial.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42313241/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "TREBANANIB",
+        "chembl_id": "CHEMBL2108568",
+        "reason": "same target: Angiopoietin-2"
+      },
+      {
+        "name": "NESVACUMAB",
+        "chembl_id": "CHEMBL2108678",
+        "reason": "same target: Angiopoietin-2"
+      },
+      {
+        "name": "VANUCIZUMAB",
+        "chembl_id": "CHEMBL3545259",
+        "reason": "same target: Angiopoietin-2"
+      },
+      {
+        "name": "AMG-780",
+        "chembl_id": "CHEMBL2109586",
+        "reason": "same target: Angiopoietin-2"
+      },
+      {
+        "name": "MEDI-3617",
+        "chembl_id": "CHEMBL2109298",
+        "reason": "same target: Angiopoietin-2"
+      },
+      {
+        "name": "CVX-060",
+        "chembl_id": "CHEMBL4594470",
+        "reason": "same target: Angiopoietin-2"
+      },
+      {
+        "name": "ZANSECIMAB",
+        "chembl_id": "CHEMBL4650486",
+        "reason": "same target: Angiopoietin-2"
+      }
+    ]
+  }
+}

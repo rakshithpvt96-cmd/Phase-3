@@ -1,0 +1,150 @@
+{
+  "drug_name": "dapagliflozin tablet",
+  "slug": "dapagliflozin-tablet",
+  "enriched_at": "2026-08-16T07:41:50Z",
+  "source_trial_ids": [
+    "NCT06589765"
+  ],
+  "sponsors": [
+    {
+      "name": "Shandong Suncadia Medicine Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Shandong%20Suncadia%20Medicine%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1488568",
+      "generic_name": "dapagliflozin Oral Tablet",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL429910",
+    "target_chembl_id": "CHEMBL3884",
+    "target_name": "Sodium/glucose cotransporter 2",
+    "mechanism_of_action_chembl": "Sodium/glucose cotransporter 2 inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=dapagliflozin%20tablet+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=dapagliflozin%20tablet+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=dapagliflozin%20tablet+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Type 2 Diabetes",
+    "slug": "type-2-diabetes"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06589765",
+      "title": "A Study of HRS-7535 Compared With Dapagliflozin in Adult Participants With Type 2 Diabetes and Inadequately Controlled With Metformin",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT06589765",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42338042",
+        "title": "Hepatic Safety of Orforglipron in Adults With Obesity or Overweight and/or Type 2 Diabetes: A Pooled Analysis of the Orforglipron Phase 3 Clinical Trials.",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42338042/"
+      },
+      {
+        "pmid": "41262261",
+        "title": "Study protocol of a multicenter, randomized, non-inferiority, open-label study investigating the efficacy of a fixed-dose combination regimen of dapagliflozin/metformin versus co-administered dual therapy based on glycemic control, satisfaction and adherence in patients with newly diagnosed type 2 diabetes mellitus.",
+        "pubdate": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41262261/"
+      },
+      {
+        "pmid": "40907851",
+        "title": "A Phase 1b Randomized Clinical Trial of AZD5462 and Dapagliflozin in Patients with Heart Failure and Moderate Renal Impairment.",
+        "pubdate": "2026 Jan 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40907851/"
+      },
+      {
+        "pmid": "39179458",
+        "title": "Racial Comparison of the Pharmacokinetics and Safety of Fixed-dose Combination of Dapagliflozin/Sitagliptin in Western and Korean Healthy Adults.",
+        "pubdate": "2024 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39179458/"
+      },
+      {
+        "pmid": "37258803",
+        "title": "Fixed-Dose Combination of Dapagliflozin + Sitagliptin + Metformin in Patients with Type 2 Diabetes Poorly Controlled with Metformin: Phase 3, Randomized Comparison with Dual Combinations.",
+        "pubdate": "2023 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37258803/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "CANAGLIFLOZIN",
+        "chembl_id": "CHEMBL4594217",
+        "reason": "same target: Sodium/glucose cotransporter 2"
+      },
+      {
+        "name": "EMPAGLIFLOZIN",
+        "chembl_id": "CHEMBL2107830",
+        "reason": "same target: Sodium/glucose cotransporter 2"
+      },
+      {
+        "name": "DAPAGLIFLOZIN PROPANEDIOL",
+        "chembl_id": "CHEMBL2103802",
+        "reason": "same target: Sodium/glucose cotransporter 2"
+      },
+      {
+        "name": "REMOGLIFLOZIN ETABONATE",
+        "chembl_id": "CHEMBL2028665",
+        "reason": "same target: Sodium/glucose cotransporter 2"
+      },
+      {
+        "name": "TOFOGLIFLOZIN",
+        "chembl_id": "CHEMBL2105711",
+        "reason": "same target: Sodium/glucose cotransporter 2"
+      },
+      {
+        "name": "ERTUGLIFLOZIN",
+        "chembl_id": "CHEMBL1770248",
+        "reason": "same target: Sodium/glucose cotransporter 2"
+      },
+      {
+        "name": "BEXAGLIFLOZIN",
+        "chembl_id": "CHEMBL1808388",
+        "reason": "same target: Sodium/glucose cotransporter 2"
+      },
+      {
+        "name": "SOTAGLIFLOZIN",
+        "chembl_id": "CHEMBL3039507",
+        "reason": "same target: Sodium/glucose cotransporter 2"
+      },
+      {
+        "name": "IPRAGLIFLOZIN L-PROLINE",
+        "chembl_id": "CHEMBL4297658",
+        "reason": "same target: Sodium/glucose cotransporter 2"
+      },
+      {
+        "name": "LICOGLIFLOZIN",
+        "chembl_id": "CHEMBL4297625",
+        "reason": "same target: Sodium/glucose cotransporter 2"
+      }
+    ]
+  }
+}

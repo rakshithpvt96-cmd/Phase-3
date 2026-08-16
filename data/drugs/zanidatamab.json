@@ -1,0 +1,164 @@
+{
+  "drug_name": "Zanidatamab",
+  "slug": "zanidatamab",
+  "enriched_at": "2026-08-16T07:39:24Z",
+  "source_trial_ids": [
+    "NCT04164199",
+    "NCT05152147"
+  ],
+  "sponsors": [
+    {
+      "name": "BeOne Medicines",
+      "ticker": "ONC",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001651308&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Jazz Pharmaceuticals",
+      "ticker": "JAZZ",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001232524&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2698198",
+      "generic_name": "zanidatamab",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4650256",
+    "target_chembl_id": "CHEMBL1824",
+    "target_name": "Receptor tyrosine-protein kinase erbB-2",
+    "mechanism_of_action_chembl": "Receptor protein-tyrosine kinase erbB-2 inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Zanidatamab‑hrii is a bispecific HER2-directed antibody that binds to two extracellular sites on HER2. Binding of zanidatamab‑hrii with HER2 results in internalization leading to a reduction of the receptor on the tumor cell surface. Zanidatamab‑hrii induces complement-dependent cytotoxicity (CDC), antibody-dependent cellular cytotoxicity (ADCC) and antibody-dependent cellular phagocytosis (ADCP). These mechanisms result in tumor growth inhibition and cell death in vitro and in vivo.",
+    "pharmacokinetics": "12.3 Pharmacokinetics Zanidatamab‑hrii PK parameters are presented as means (percent coefficient of variation) following administration of ZIIHERA 20 mg/kg every 2 weeks after the 7 th or later dose unless otherwise indicated. Zanidatamab‑hrii maximum concentration (C max ) is 600 (22.2) µg/mL, the lowest measured concentration (C trough ) is 178 (29.6) µg/mL, and total systemic exposure (AUC 0-336h ) is 3,976 (22.5) days*µg/mL following administration of ZIIHERA. The C max of zanidatamab‑hrii is dose proportional and the total systemic exposure (AUC 0-inf ) of zanidatamab‑hrii is greater than dose proportional with increasing doses. The mean C trough accumulation ratio of zanidatamab‑hrii is approximately 2.4. Distribution The volume of distribution of zanidatamab‑hrii is approximately 7.5 (33) L based on the population pharmacokinetic analysis. Elimination The estimated half-life (t 1/2 ) of zanidatamab‑hrii is approximately 21 days with an associated clearance (CL) of 0.012 L/h (27.9) based on the population pharmacokinetic analysis. Metabolism Zanidatamab‑hrii is expected to be metabolized into small peptides by catabolic pathways. Specific Populations No clinically significant differences in the pharmacokinetics of zanidatamab-hrii were observed based on age (24 to 88 years), sex, race (White and Asian), mild and moderate renal impairment (eGFR 30 to 89 mL/min estimated using the CKD‑EPI), mild hepatic impairment (total bilirubin ≤ upper limit of normal (ULN) and AST > ULN or total bilirubin between 1 and 1.5 times ULN and any AST), or body weight (35 kg to 128 kg). The effect of severe renal impairment (eGFR 15 to 29 mL/min), end-stage renal disease (eGFR < 15 mL/min) with or without hemodialysis, and moderate (total bilirubin > 1.5 to ≤ 3 ULN and any AST) or severe (total bilirubin > 3 ULN and any AST) hepatic impairment on the pharmacokinetics of zanidatamab‑hrii is unknown.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE ZIIHERA is indicated for the treatment of adults with previously treated, unresectable or metastatic HER2-positive (IHC 3+) biliary tract cancer (BTC), as detected by an FDA-approved test [see Dosage and Administration ( 2.1 )]. This indication is approved under accelerated approval based on overall response rate and duration of response [see Clinical Studies ( 14 )] . Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial(s). ZIIHERA is a bispecific HER2-directed antibody indicated for the treatment of adults with previously treated, unresectable or metastatic HER2-positive (IHC 3+) biliary tract cancer (BTC), as detected by an FDA-approved test. ( 1 ) This indication is approved under accelerated approval based on overall response rate and duration of response. Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial(s). ( 1 )",
+    "boxed_warning": "WARNING: EMBRYO-FETAL TOXICITY Embryo-Fetal Toxicity: Exposure to ZIIHERA during pregnancy can cause embryo-fetal harm. Advise patients of the risk and need for effective contraception [see Warnings and Precautions ( 5.1 ), Use in Specific Populations ( 8.1 , 8.3 )] . WARNING: EMBRYO‑FETAL TOXICITY See full prescribing information for complete boxed warning. • Exposure to ZIIHERA during pregnancy can cause embryo-fetal harm. Advise patients of the risk and need for effective contraception. ( 5.1 )",
+    "openfda_brand_names": [
+      "ZIIHERA"
+    ],
+    "openfda_generic_names": [
+      "ZANIDATAMAB-HRII"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ae5d9425-fae5-4541-a158-150998343348",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Advanced Malignancies",
+    "slug": "advanced-malignancies"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04164199",
+      "title": "Study of Tislelizumab, Pamiparib, and Other Investigational Agents in Participants With Advanced Malignancies",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT04164199",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT05152147",
+      "title": "A Study of Zanidatamab in Combination With Chemotherapy Plus or Minus Tislelizumab in Patients With HER2-positive Advanced or Metastatic Gastric and Esophageal Cancers",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05152147",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42202319",
+        "title": "Zanidatamab with and without Tislelizumab in HER2-Positive Gastroesophageal Cancer.",
+        "pubdate": "2026 May 28",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42202319/"
+      },
+      {
+        "pmid": "41060610",
+        "title": "Opportunities and Approaches to Optimising Advanced Cholangiocarcinoma Outcomes in the Era of Targeted Therapies: A Narrative Review.",
+        "pubdate": "2025 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41060610/"
+      },
+      {
+        "pmid": "40892073",
+        "title": "An evaluation of zanidatamab, a novel, anti-HER2 biparatopic antibody, for the treatment of biliary tract cancer.",
+        "pubdate": "2025 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40892073/"
+      },
+      {
+        "pmid": "39114870",
+        "title": "A plain language summary of the results from the phase 2b HERIZON-BTC-01 study of zanidatamab in participants with HER2-amplified biliary tract cancer.",
+        "pubdate": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39114870/"
+      },
+      {
+        "pmid": "38358339",
+        "title": "Co-clinical Trial of Novel Bispecific Anti-HER2 Antibody Zanidatamab in Patient-Derived Xenografts.",
+        "pubdate": "2024 May 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38358339/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "TRASTUZUMAB",
+        "chembl_id": "CHEMBL1201585",
+        "reason": "same target: Receptor tyrosine-protein kinase erbB-2"
+      },
+      {
+        "name": "PERTUZUMAB",
+        "chembl_id": "CHEMBL2007641",
+        "reason": "same target: Receptor tyrosine-protein kinase erbB-2"
+      },
+      {
+        "name": "TRASTUZUMAB EMTANSINE",
+        "chembl_id": "CHEMBL1743082",
+        "reason": "same target: Receptor tyrosine-protein kinase erbB-2"
+      },
+      {
+        "name": "LAPATINIB DITOSYLATE",
+        "chembl_id": "CHEMBL1201179",
+        "reason": "same target: Receptor tyrosine-protein kinase erbB-2"
+      },
+      {
+        "name": "AFATINIB DIMALEATE",
+        "chembl_id": "CHEMBL2105712",
+        "reason": "same target: Receptor tyrosine-protein kinase erbB-2"
+      },
+      {
+        "name": "AC-480",
+        "chembl_id": "CHEMBL1645462",
+        "reason": "same target: Receptor tyrosine-protein kinase erbB-2"
+      },
+      {
+        "name": "ALLITINIB",
+        "chembl_id": "CHEMBL1947204",
+        "reason": "same target: Receptor tyrosine-protein kinase erbB-2"
+      },
+      {
+        "name": "CP-724714",
+        "chembl_id": "CHEMBL483321",
+        "reason": "same target: Receptor tyrosine-protein kinase erbB-2"
+      },
+      {
+        "name": "CUDC-101",
+        "chembl_id": "CHEMBL598797",
+        "reason": "same target: Receptor tyrosine-protein kinase erbB-2"
+      },
+      {
+        "name": "JNJ-26483327",
+        "chembl_id": "CHEMBL3109738",
+        "reason": "same target: Receptor tyrosine-protein kinase erbB-2"
+      }
+    ]
+  }
+}

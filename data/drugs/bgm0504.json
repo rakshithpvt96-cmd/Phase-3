@@ -1,0 +1,71 @@
+{
+  "drug_name": "BGM0504",
+  "slug": "bgm0504",
+  "enriched_at": "2026-08-16T07:41:05Z",
+  "source_trial_ids": [
+    "NCT07064486"
+  ],
+  "sponsors": [
+    {
+      "name": "BrightGene Bio-Medical Technology Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=BrightGene%20Bio-Medical%20Technology%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": null
+  },
+  "mechanism": {
+    "chembl_id": null,
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=BGM0504+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=BGM0504+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=BGM0504+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Type 2 Diabetes (T2DM)",
+    "slug": "type-2-diabetes-t2dm"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07064486",
+      "title": "A Study of BGM0504 in Participants With Type 2 Diabetes in Indonesia",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07064486",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42219225",
+        "title": "Evaluation of the Safety, Efficacy and Pharmacokinetics of BGM0504 in Chinese Adults With Type 2 Diabetes: A Multicentre, Randomised, Controlled and Double-Blind Phase II Trial.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42219225/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

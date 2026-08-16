@@ -1,0 +1,150 @@
+{
+  "drug_name": "COVID-19 mRNA vaccine",
+  "slug": "covid-19-mrna-vaccine",
+  "enriched_at": "2026-08-16T07:41:42Z",
+  "source_trial_ids": [
+    "NCT07655180"
+  ],
+  "sponsors": [
+    {
+      "name": "Invivyd, Inc.",
+      "ticker": "IVVD",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001832038&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2397740",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4650491",
+    "target_chembl_id": "CHEMBL4662936",
+    "target_name": "Spike glycoprotein",
+    "mechanism_of_action_chembl": "Spike glycoprotein vaccine antigen"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "DailyMed",
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=48c86164-de07-4041-b9dc-f2b5744714e5",
+    "note": "A label exists in DailyMed but structured sections could not be parsed automatically -- see dailymed_url for the full label.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=COVID-19%20mRNA%20vaccine+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=COVID-19%20mRNA%20vaccine+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=COVID-19%20mRNA%20vaccine+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "COVID-19",
+    "slug": "covid-19"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07655180",
+      "title": "Safety and Serum Virus Neutralizing Antibody Responses of VYD2311, a COVID-19 Vaccine, and Coadministered VYD2311 With a COVID-19 Vaccine",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07655180",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42531981",
+        "title": "Immunogenicity, reactogenicity, and safety of an mRNA-based seasonal influenza and SARS-CoV-2 multicomponent vaccine, mRNA-1083, in adults aged ≥50 years in Japan.",
+        "pubdate": "2026 Aug 13",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42531981/"
+      },
+      {
+        "pmid": "42520645",
+        "title": "The Platform trial In COVID-19 priming and BOOsting (PICOBOO): The immunogenicity, reactogenicity and safety of seven licensed COVID-19 vaccines delivered as fifth dose or subsequent boosters in immunocompetent adults.",
+        "pubdate": "2026 Aug 13",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42520645/"
+      },
+      {
+        "pmid": "42520140",
+        "title": "Effect of probiotics on humoral responses to COVID-19 vaccination in older adults: a randomized, placebo-controlled trial (PIRATES-COV study).",
+        "pubdate": "2026 Dec 31",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42520140/"
+      },
+      {
+        "pmid": "42486052",
+        "title": "Real-world effectiveness and safety of protein-based and mRNA COVID-19 vaccines (BEEHIVE trial).",
+        "pubdate": "2026 Aug 13",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42486052/"
+      },
+      {
+        "pmid": "42480193",
+        "title": "Immunogenicity and reactogenicity of fractional vs. full booster doses of COVID-19 vaccines: A non-inferiority, randomized, double-blind, phase IV clinical trial in Pakistan.",
+        "pubdate": "2026 Aug 13",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42480193/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "BAMLANIVIMAB",
+        "chembl_id": "CHEMBL4650379",
+        "reason": "same target: Spike glycoprotein"
+      },
+      {
+        "name": "ETESEVIMAB",
+        "chembl_id": "CHEMBL4650488",
+        "reason": "same target: Spike glycoprotein"
+      },
+      {
+        "name": "SOTROVIMAB",
+        "chembl_id": "CHEMBL4650524",
+        "reason": "same target: Spike glycoprotein"
+      },
+      {
+        "name": "BEBTELOVIMAB",
+        "chembl_id": "CHEMBL4802210",
+        "reason": "same target: Spike glycoprotein"
+      },
+      {
+        "name": "AMUBARVIMAB",
+        "chembl_id": "CHEMBL4650382",
+        "reason": "same target: Spike glycoprotein"
+      },
+      {
+        "name": "ENSOVIBEP",
+        "chembl_id": "CHEMBL4802171",
+        "reason": "same target: Spike glycoprotein"
+      },
+      {
+        "name": "IMDEVIMAB",
+        "chembl_id": "CHEMBL4650249",
+        "reason": "same target: Spike glycoprotein"
+      },
+      {
+        "name": "ADINTREVIMAB",
+        "chembl_id": "CHEMBL4802187",
+        "reason": "same target: Spike glycoprotein"
+      },
+      {
+        "name": "ROMLUSEVIMAB",
+        "chembl_id": "CHEMBL4650383",
+        "reason": "same target: Spike glycoprotein"
+      },
+      {
+        "name": "ABDAVOMERAN",
+        "chembl_id": "CHEMBL4650454",
+        "reason": "same target: Spike glycoprotein"
+      }
+    ]
+  }
+}

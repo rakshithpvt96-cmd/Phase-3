@@ -1,0 +1,99 @@
+{
+  "drug_name": "18F-FDG Injection",
+  "slug": "18f-fdg-injection",
+  "enriched_at": "2026-08-16T07:39:49Z",
+  "source_trial_ids": [
+    "NCT06416852"
+  ],
+  "sponsors": [
+    {
+      "name": "Yantai LNC Biotechnology Singapore PTE. LTD.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Yantai%20LNC%20Biotechnology%20Singapore%20PTE.%20LTD.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1362737",
+      "generic_name": "fluorodeoxyglucose F18",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2108760",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=18F-FDG%20Injection+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=18F-FDG%20Injection+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=18F-FDG%20Injection+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Non-Small Cell Lung Cancer NSCLC",
+    "slug": "non-small-cell-lung-cancer-nsclc"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06416852",
+      "title": "Clinical Study of 18F-Alfatide Injection PET/CT",
+      "status": "NOT_YET_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06416852",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42307959",
+        "title": "Specimen PET-CT Imaging for Intraoperative Margin Assessment in Early-Stage Breast Cancer: The BrIMA Nonrandomized Clinical Trial.",
+        "pubdate": "2026 Aug 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42307959/"
+      },
+      {
+        "pmid": "41174094",
+        "title": "Prospective pilot study with [(89)Zr]Zr-girentuximab PET/CT: CA-IX imaging in metastatic triple negative breast cancer (OPALESCENCE).",
+        "pubdate": "2026 Mar",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41174094/"
+      },
+      {
+        "pmid": "40404705",
+        "title": "First-in-human dosimetry and safety evaluation of (68)Ga-αMSH derivative for PET imaging of melanoma.",
+        "pubdate": "2025 May 22",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40404705/"
+      },
+      {
+        "pmid": "39080423",
+        "title": "The spleen assumes a major role in blood glucose regulation in type 1 diabetes patients treated with BCG.",
+        "pubdate": "2024 Jul 30",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39080423/"
+      },
+      {
+        "pmid": "38528239",
+        "title": "Increased lesion detectability in patients with locally advanced breast cancer-A pilot study using dynamic whole-body [(18)F]FDG PET/CT.",
+        "pubdate": "2024 Mar 25",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38528239/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

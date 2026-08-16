@@ -1,0 +1,105 @@
+{
+  "drug_name": "Selinexor",
+  "slug": "selinexor",
+  "enriched_at": "2026-08-16T07:36:04Z",
+  "source_trial_ids": [
+    "NCT05611931"
+  ],
+  "sponsors": [
+    {
+      "name": "Karyopharm Therapeutics Inc",
+      "ticker": "KPTI",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001503802&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 71481097,
+    "iupac_name": "(Z)-3-[3-[3,5-bis(trifluoromethyl)phenyl]-1,2,4-triazol-1-yl]-N'-pyrazin-2-ylprop-2-enehydrazide",
+    "molecular_formula": "C17H11F6N7O",
+    "molecular_weight": "443.3",
+    "canonical_smiles": null,
+    "inchikey": "DEVSOMFAQLZNKR-RJRFIUFISA-N",
+    "rxnorm": {
+      "rxcui": "2178390",
+      "generic_name": "selinexor",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL3545185",
+    "target_chembl_id": "CHEMBL5661",
+    "target_name": "Exportin-1",
+    "mechanism_of_action_chembl": "Exportin-1 inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action In nonclinical studies, selinexor reversibly inhibits nuclear export of tumor suppressor proteins (TSPs), growth regulators, and mRNAs of oncogenic proteins by blocking exportin 1 (XPO1). XPO1 inhibition by selinexor leads to accumulation of TSPs in the nucleus and reductions in several oncoproteins, such as c-myc and cyclin D1, cell cycle arrest, and apoptosis of cancer cells. Selinexor demonstrated pro-apoptotic activity in vitro in multiple myeloma cells and showed anti-tumor activity in murine xenograft models of multiple myeloma. The combination of selinexor and dexamethasone or bortezomib demonstrated synergistic cytotoxic effects in multiple myeloma in vitro and increased anti-tumor activity in murine xenograft multiple myeloma models in vivo, including those resistant to proteasome inhibitors.",
+    "pharmacokinetics": "12.3 Pharmacokinetics Selinexor C max and AUC increased proportionally over a dose range from 3 mg/m 2 to 85 mg/m 2 (0.05 to 1.44) times the maximum approved recommended dose, based on 1.7 m 2 body surface area. No clinically relevant accumulation at steady state was observed. Selinexor C max and AUC 0-INF after administration of a single dose of XPOVIO in patients with hematologic malignancies are presented in Table 9 . Table 9: Selinexor C max and AUC After Administration of a Single Dose of XPOVIO Mean (SD) XPOVIO Dose 60 mg 80 mg 100 mg C max (ng/mL) 442 (188) 680 (124) 693 (201) AUC 0-INF (ng·h/mL) 4,096 (1,185) 5,386 (1,116) 6,998 (818) Absorption The C max is reached within 4 hours following oral administration of XPOVIO. Effect of Food Concomitant administration of a high-fat meal (800 to 1,000 calories with approximately 50% of total caloric content of the meal from fat) did not affect the pharmacokinetics of selinexor to a clinically significant extent. Distribution The apparent volume of distribution of selinexor is 133 L in patients with cancer. The protein binding of selinexor is 95%. Elimination Following a single dose of XPOVIO, the mean half-life is 6 to 8 hours. The apparent total clearance of selinexor is 18.6 L/h in patients with cancer. Metabolism Selinexor is metabolized by CYP3A4, multiple UDP-glucuronosyltransferases (UGTs) and glutathione S-transferases (GSTs). Specific Populations No clinically significant differences in the pharmacokinetics of selinexor were observed based on age (18 to 94 years old), sex, body weight (36 to 168 kg), ethnicity, mild to severe renal impairment (CL CR : 15 to 89 mL/min, estimated by the Cockcroft-Gault equation), and disease type (hematological, solid tumor). The effect of end-stage renal disease (CL CR <15 mL/min) or hemodialysis on selinexor pharmacokinetics is unknown. Patients with Hepatic Impairment In patients with mild (total bilirubin ≤1x ULN and AST >1x ULN, or total bilirubin >1 to 1.5x ULN and any AST) or moderate (total bilirubin >1.5 to 3x ULN and any AST, n=7) hepatic impairment the pharmacokinetics of selinexor was comparable to patients with normal hepatic function (total bilirubin and AST <ULN). In patients with severe hepatic impairment (total bilirubin >3 ULN and any AST, n=6) there was approximately 32% increase in total and free selinexor exposure compared to patients with normal hepatic function [see Dosage and Administration ( 2.5 ) and Use in Specific Populations ( 8.6 )] . Drug Interaction Studies Clinical Studies Acetaminophen: No clinically significant differences in selinexor pharmacokinetics were observed when co-administered with acetaminophen (up to 1,000 mg daily dose of acetaminophen). Clarithromycin (a strong CYP3A4 inhibitor): No clinically significant differences in selinexor pharmacokinetics were observed when co-administered with clarithromycin (up to 1,000 mg daily dose of clarithromycin). Carbamazepine (a strong CYP3A4 inducer): No clinically significant differences in selinexor pharmacokinetics were observed when co-administered with carbamazepine (up to 300 mg twice-daily dose of carbamazepine). In vitro Studies CYP Enzymes: Selinexor does not inhibit CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, or CYP3A4/5. Selinexor is not a CYP3A4, CYP1A2, or CYP2B6 inducer. Non-CYP Enzyme Systems : Selinexor is a substrate of UGTs and GSTs. Transporter Systems: Selinexor inhibits OATP1B3 but does not inhibit other solute carrier (SLC) transporters. Selinexor is not a substrate of P-gp, BCRP, OATP1B1, OATP1B3, OAT1, OAT3, OCT1, OCT2, MATE1, or MATE2-K.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE XPOVIO is a nuclear export inhibitor indicated: In combination with bortezomib and dexamethasone for the treatment of adult patients with multiple myeloma who have received at least one prior therapy ( 1.1 ). In combination with dexamethasone for the treatment of adult patients with relapsed or refractory multiple myeloma who have received at least four prior therapies and whose disease is refractory to at least two proteasome inhibitors, at least two immunomodulatory agents, and an anti-CD38 monoclonal antibody ( 1.1 ). 1.1 Multiple Myeloma XPOVIO in combination with bortezomib and dexamethasone is indicated for the treatment of adult patients with multiple myeloma who have received at least one prior therapy. XPOVIO in combination with dexamethasone is indicated for the treatment of adult patients with relapsed or refractory multiple myeloma who have received at least four prior therapies and whose disease is refractory to at least two proteasome inhibitors, at least two immunomodulatory agents, and an anti-CD38 monoclonal antibody.",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "XPOVIO"
+    ],
+    "openfda_generic_names": [
+      "SELINEXOR"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f6dd2682-75a6-4863-90a8-a3197f6f78a8",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Endometrial Cancer",
+    "slug": "endometrial-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05611931",
+      "title": "Selinexor in Maintenance Therapy After Systemic Therapy for Participants With p53 Wild-Type, Advanced or Recurrent Endometrial Carcinoma",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05611931",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42544613",
+        "title": "Selinexor combined bortezomib, lenalidomide, and dexamethasone for newly diagnosed multiple myeloma with high-risk factors: a single-arm, multi-center, prospective observational clinical study.",
+        "pubdate": "2026 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42544613/"
+      },
+      {
+        "pmid": "42279279",
+        "title": "The Evolving Landscape of Systemic Therapy for Liposarcoma.",
+        "pubdate": "2026 May 22",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42279279/"
+      },
+      {
+        "pmid": "42169033",
+        "title": "FASN for diffuse malignant peritoneal mesothelioma: a prognostic biomarker after CRS+HIPEC and a therapeutic target.",
+        "pubdate": "2026 May 21",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42169033/"
+      },
+      {
+        "pmid": "42080900",
+        "title": "Nuclear export as a therapeutic vulnerability in ZFTA-RELA ependymoma.",
+        "pubdate": "2026 May 3",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42080900/"
+      },
+      {
+        "pmid": "42071259",
+        "title": "Targeting the nuclear export receptor exportin-1 in acute myeloid leukaemia: From biology to clinical translation.",
+        "pubdate": "2026 May",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42071259/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

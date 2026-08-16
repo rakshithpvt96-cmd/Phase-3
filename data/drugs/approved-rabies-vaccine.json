@@ -1,0 +1,99 @@
+{
+  "drug_name": "approved Rabies vaccine",
+  "slug": "approved-rabies-vaccine",
+  "enriched_at": "2026-08-16T07:40:10Z",
+  "source_trial_ids": [
+    "NCT07500207"
+  ],
+  "sponsors": [
+    {
+      "name": "Changchun BCHT Biotechnology Co.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Changchun%20BCHT%20Biotechnology%20Co.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "9097",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2107909",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": "Biological vaccine - induces immune response"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=approved%20Rabies%20vaccine+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=approved%20Rabies%20vaccine+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=approved%20Rabies%20vaccine+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Rabies Prevention",
+    "slug": "rabies-prevention"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07500207",
+      "title": "A Phase III Clinical Trial on Immunogenicity and Safety of Lyophilized Rabies Vaccine for Human Use (Human Diploid Cell)",
+      "status": "ENROLLING_BY_INVITATION",
+      "url": "https://clinicaltrials.gov/study/NCT07500207",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "41942925",
+        "title": "Metagenomic next-generation sequencing (mNGS) for severe cat bite infections with negative aerobic culture: a single-center retrospective study in a rabies vaccination center.",
+        "pubdate": "2026 Apr 6",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41942925/"
+      },
+      {
+        "pmid": "41466188",
+        "title": "A randomized, non-inferiority phase III clinical trial of immunogenicity and safety of 5-dose and 4-dose schedules of a freeze-dried human rabies vaccine (MRC-5 cells) in participants aged 10-60.",
+        "pubdate": "2025 Dec 29",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41466188/"
+      },
+      {
+        "pmid": "41462130",
+        "title": "Global burden and cross-country inequalities in rabies from 1990 to 2021: a systemic analysis of the global burden of disease study 2021.",
+        "pubdate": "2025 Dec 29",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41462130/"
+      },
+      {
+        "pmid": "40783290",
+        "title": "Post-exposure prophylaxis regimen of rabies monoclonal antibody and vaccine in category 3 potential exposure patients: a phase 4, open-label, randomised, active-controlled trial.",
+        "pubdate": "2025 Aug 9",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40783290/"
+      },
+      {
+        "pmid": "40770667",
+        "title": "One-step ahead: evaluating the efficacy of single-visit rabies pre-exposure prophylaxis against conventional multi-visit protocol: a randomized non-inferiority clinical trial.",
+        "pubdate": "2025 Aug 7",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40770667/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

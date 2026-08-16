@@ -1,0 +1,107 @@
+{
+  "drug_name": "Vosoritide",
+  "slug": "vosoritide",
+  "enriched_at": "2026-08-16T07:38:53Z",
+  "source_trial_ids": [
+    "NCT06455059"
+  ],
+  "sponsors": [
+    {
+      "name": "BioMarin Pharmaceutical",
+      "ticker": "BMRN",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001048477&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 119058036,
+    "iupac_name": "(4R,10S,16S,19S,22S,28S,31S,34S,37S,40S,43S,49S,52R)-52-[[2-[[(2S)-6-amino-2-[[(2S)-2-[[(2S)-2-[[2-[[(2S)-6-amino-2-[[(2S)-6-amino-2-[[(2S)-4-amino-2-[[(2S)-2-[[2-[[(2S)-6-amino-2-[[(2S)-2-[[(2S)-6-amino-2-[[(2S)-2-[[(2S)-2-[[(2S)-4-amino-2-[[(2S)-1-[(2S)-2-[[(2S)-2-[[(2S)-5-amino-5-oxo-2-[[2-[[(2S)-pyrrolidine-2-carbonyl]amino]acetyl]amino]pentanoyl]amino]-4-carboxybutanoyl]amino]-3-(1H-imidazol-5-yl)propanoyl]pyrrolidine-2-carbonyl]amino]-4-oxobutanoyl]amino]propanoyl]amino]-5-carbamimidamidopentanoyl]amino]hexanoyl]amino]-3-(4-hydroxyphenyl)propanoyl]amino]hexanoyl]amino]acetyl]amino]propanoyl]amino]-4-oxobutanoyl]amino]hexanoyl]amino]hexanoyl]amino]acetyl]amino]-4-methylpentanoyl]amino]-3-hydroxypropanoyl]amino]hexanoyl]amino]acetyl]amino]-40-(4-aminobutyl)-49-benzyl-28-[(2S)-butan-2-yl]-31-(3-carbamimidamidopropyl)-34-(carboxymethyl)-16,22-bis(hydroxymethyl)-10,37,43-tris(2-methylpropyl)-19-(2-methylsulfanylethyl)-6,9,12,15,18,21,24,27,30,33,36,39,42,45,48,51-hexadecaoxo-1,2-dithia-5,8,11,14,17,20,23,26,29,32,35,38,41,44,47,50-hexadecazacyclotripentacontane-4-carboxylic acid",
+    "molecular_formula": "C176H290N56O51S3",
+    "molecular_weight": "4103",
+    "canonical_smiles": null,
+    "inchikey": "IGYWDDBBJPSOTG-WBAGYEQSSA-N",
+    "rxnorm": {
+      "rxcui": "2586354",
+      "generic_name": "vosoritide",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL3707276",
+    "target_chembl_id": "CHEMBL1795",
+    "target_name": "Atrial natriuretic peptide receptor 2",
+    "mechanism_of_action_chembl": "Atrial natriuretic peptide receptor B binding agent"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action In patients with achondroplasia, endochondral bone growth is negatively regulated due to a gain of function mutation in fibroblast growth factor receptor 3 ( FGFR3 ). Binding of vosoritide to natriuretic peptide receptor-B (NPR-B) antagonizes FGFR3 downstream signaling by inhibiting the extracellular signal-regulated kinases 1 and 2 (ERK1/2) in the mitogen-activated protein kinase (MAPK) pathway at the level of rapidly accelerating fibrosarcoma serine/threonine protein kinase (RAF-1). As a result, vosoritide, like CNP, acts as a positive regulator of endochondral bone growth as it promotes chondrocyte proliferation and differentiation. In animal models with open growth plates, vosoritide administration resulted in the promotion of chondrocyte proliferation and differentiation that led to a widening of the growth plate and subsequent increase in skeletal growth. In the mouse models of FGFR3-related chondrodysplasia, a partial or complete normalization of the dwarfism phenotype was observed.",
+    "pharmacokinetics": "12.3 Pharmacokinetics The area under the concentration-time curve (AUC) and peak concentration (C max ) of vosoritide increased greater than proportionally following subcutaneous administration to pediatric subjects with achondroplasia in the dose range of 7.5 to 30.0 mcg/kg. The pharmacokinetics of vosoritide were evaluated in 58 subjects aged 5 to 13 years with achondroplasia who received subcutaneous injections of vosoritide 15 mcg/kg once daily for 52 weeks. The mean (± SD) C max and area under the concentration-time curve from time zero to the last measurable concentration (AUC 0-t ) observed across 52 weeks of treatment ranged from 4.71 (± 2.32) to 7.18 (± 9.65) ng/mL, and 161 (± 98.1) to 290 (± 235) ng-min/mL, respectively. No drug accumulation was observed following 15 mcg/kg once daily dosing. The exposure of vosoritide increased with the duration of treatment. The mean AUC 0-t at week 52 increased approximately 20% compared to that at day 1. Absorption Absolute bioavailability for vosoritide following subcutaneous injection was not determined. Vosoritide was absorbed with a median T max of 15 minutes after dosing. Distribution The mean (± SD) apparent volume of distribution of vosoritide across 52 weeks of subcutaneous administration of VOXZOGO 15 mcg/kg once daily ranged from 2880 (± 2450) to 3020 (± 1980) mL/kg. Elimination The mean (± SD) apparent clearance of vosoritide across 52 weeks of subcutaneous administration of VOXZOGO 15 mcg/kg once daily ranged from 79.4 (± 53.0) to 104 (± 98.8) mL/min/kg. The mean (± SD) half-life ranged from 21.0 (± 4.7) to 27.9 (± 9.9) minutes. Metabolism The metabolism of vosoritide is expected to occur via catabolic pathways with degradation into small peptide fragments and amino acids. Specific Populations No clinically significant differences in the vosoritide pharmacokinetics were observed based on age (0.4 to 15 years), sex or race. The effect of hepatic or renal impairment on the pharmacokinetics of vosoritide is unknown. Body weight Population pharmacokinetic analyses indicated that body weight is a significant covariate for vosoritide clearance and volume of distribution. The apparent clearance and volume of distribution of vosoritide increased with increasing body weight in patients with achondroplasia (5 to 74.5 kg). Drug Interaction Studies In vitro assessment of drug-drug interactions In vitro studies showed that vosoritide, at therapeutic concentrations, does not inhibit or induce Cytochrome P450 enzymes. Based on in vitro studies, vosoritide is considered unlikely to inhibit the human drug uptake or efflux transporters such as OAT1, OAT3, OCT1, OCT2, OATP1B1, OATP1B3, MATE1, MATE2-K, BCRP, P-gp, and BSEP at clinically relevant concentrations and therefore, no effect of vosoritide is anticipated on concomitantly administered drugs that are substrates of these transporters. In vivo assessment of drug-drug interactions No clinical studies evaluating the drug-drug interaction potential of vosoritide have been conducted.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE VOXZOGO is indicated to increase linear growth in pediatric patients with achondroplasia with open epiphyses. This indication is approved under accelerated approval based on an improvement in annualized growth velocity [see Clinical Studies (14) ] . Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trial(s). VOXZOGO is a C type natriuretic peptide (CNP) analog indicated to increase linear growth in pediatric patients with achondroplasia with open epiphyses. This indication is approved under accelerated approval based on an improvement in annualized growth velocity. Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trial(s). ( 1 )",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "VOXZOGO 0.4mg",
+      "VOXZOGO 0.56mg",
+      "VOXZOGO 1.2mg"
+    ],
+    "openfda_generic_names": [
+      "VOSORITIDE"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=228e8560-04a4-4bb1-a81f-29531a9e4d27",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Hypochondroplasia",
+    "slug": "hypochondroplasia"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06455059",
+      "title": "Interventional Study of Vosoritide for the Treatment of Children With Hypochondroplasia",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06455059",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42238253",
+        "title": "Real-world growth outcomes of vosoritide in children with achondroplasia: a single-center cohort study.",
+        "pubdate": "2026 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42238253/"
+      },
+      {
+        "pmid": "41783511",
+        "title": "Effect of vosoritide on spine morphology in children with achondroplasia: 1-year results from a randomized phase 2 study.",
+        "pubdate": "2026 Mar",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41783511/"
+      },
+      {
+        "pmid": "41766933",
+        "title": "Effect of vosoritide on genu varum in children with achondroplasia after 1 year in randomized placebo-controlled trials.",
+        "pubdate": "2026 Mar",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41766933/"
+      },
+      {
+        "pmid": "41615893",
+        "title": "The CrescNet Registry Achondroplasia Module: Real-World Demographic Data and Clinical Outcomes in Untreated and Vosoritide-Treated Individuals.",
+        "pubdate": "2026 Jan 30",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41615893/"
+      },
+      {
+        "pmid": "41424367",
+        "title": "Real-world outcomes of vosoritide in achondroplasia: A systematic review and meta-analysis of multinational clinical evidence.",
+        "pubdate": "2026 Mar",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41424367/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

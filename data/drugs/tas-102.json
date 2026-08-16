@@ -1,0 +1,150 @@
+{
+  "drug_name": "TAS-102",
+  "slug": "tas-102",
+  "enriched_at": "2026-08-16T07:37:20Z",
+  "source_trial_ids": [
+    "NCT06346392"
+  ],
+  "sponsors": [
+    {
+      "name": "AstraZeneca",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=AstraZeneca&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "472018",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL3545210",
+    "target_chembl_id": "CHEMBL206",
+    "target_name": "Estrogen receptor",
+    "mechanism_of_action_chembl": "Estrogen receptor alpha antagonist"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=TAS-102+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=TAS-102+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=TAS-102+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Gastric Cancer",
+    "slug": "gastric-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06346392",
+      "title": "AZD0901 Compared With Investigator's Choice of Therapy in Participants With Second- or Later-line Advanced or Metastatic Gastric or Gastroesophageal Junction Adenocarcinoma Expressing Claudin18.2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06346392",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42260101",
+        "title": "Post-adjuvant chemotherapy in ctDNA-positive patients with resected colorectal cancer: a randomized phase 3 trial.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42260101/"
+      },
+      {
+        "pmid": "41781240",
+        "title": "Phase Ib Study to Assess the Safety of Neoadjuvant Trifluridine/Tipiracil With Concurrent Radiation in Resectable Stage II/III Rectal Cancer: The FIERCE Study.",
+        "pubdate": "2026 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41781240/"
+      },
+      {
+        "pmid": "41733397",
+        "title": "Trifluridine-Tipiracil with and without Bevacizumab in Colorectal Cancer.",
+        "pubdate": "2026 Mar",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41733397/"
+      },
+      {
+        "pmid": "41719558",
+        "title": "Multikinase inhibitors in refractory metastatic colorectal cancer: an optimal sequence?",
+        "pubdate": "2026 Jan-Feb",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41719558/"
+      },
+      {
+        "pmid": "41603077",
+        "title": "Indirect comparisons of tucatinib in combination with trastuzumab for patients with previously treated HER2-positive metastatic colorectal cancer.",
+        "pubdate": "2026 Feb",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41603077/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "POLYESTRADIOL PHOSPHATE",
+        "chembl_id": "CHEMBL1201477",
+        "reason": "same target: Estrogen receptor"
+      },
+      {
+        "name": "TAMOXIFEN CITRATE",
+        "chembl_id": "CHEMBL786",
+        "reason": "same target: Estrogen receptor"
+      },
+      {
+        "name": "ESTRONE",
+        "chembl_id": "CHEMBL1405",
+        "reason": "same target: Estrogen receptor"
+      },
+      {
+        "name": "ESTRADIOL",
+        "chembl_id": "CHEMBL135",
+        "reason": "same target: Estrogen receptor"
+      },
+      {
+        "name": "ESTRADIOL ACETATE",
+        "chembl_id": "CHEMBL1200430",
+        "reason": "same target: Estrogen receptor"
+      },
+      {
+        "name": "ESTRADIOL VALERATE",
+        "chembl_id": "CHEMBL1511",
+        "reason": "same target: Estrogen receptor"
+      },
+      {
+        "name": "CLOMIPHENE CITRATE",
+        "chembl_id": "CHEMBL3185958",
+        "reason": "same target: Estrogen receptor"
+      },
+      {
+        "name": "ETHINYL ESTRADIOL",
+        "chembl_id": "CHEMBL691",
+        "reason": "same target: Estrogen receptor"
+      },
+      {
+        "name": "DIENESTROL",
+        "chembl_id": "CHEMBL1018",
+        "reason": "same target: Estrogen receptor"
+      },
+      {
+        "name": "ESTRADIOL CYPIONATE",
+        "chembl_id": "CHEMBL1200973",
+        "reason": "same target: Estrogen receptor"
+      }
+    ]
+  }
+}

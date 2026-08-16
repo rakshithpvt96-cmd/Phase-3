@@ -1,0 +1,158 @@
+{
+  "drug_name": "Retatrutide",
+  "slug": "retatrutide",
+  "enriched_at": "2026-08-16T07:34:56Z",
+  "source_trial_ids": [
+    "NCT05929079",
+    "NCT06260722"
+  ],
+  "sponsors": [
+    {
+      "name": "Eli Lilly and Company",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Eli%20Lilly%20and%20Company&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2722410",
+      "generic_name": "retatrutide",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL5095485",
+    "target_chembl_id": "CHEMBL1985",
+    "target_name": "Glucagon receptor",
+    "mechanism_of_action_chembl": "Glucagon receptor agonist"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "DailyMed",
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=42498bee-d406-178b-e063-6394a90a053d",
+    "note": "A label exists in DailyMed but structured sections could not be parsed automatically -- see dailymed_url for the full label.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Retatrutide+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Retatrutide+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Retatrutide+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Type 2 Diabetes",
+    "slug": "type-2-diabetes"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05929079",
+      "title": "A Study of Retatrutide (LY3437943) in Participants With Type 2 Diabetes Mellitus Who Have Obesity or Overweight",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT05929079",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06260722",
+      "title": "Effect of Retatrutide Compared With Semaglutide in Adult Participants With Type 2 Diabetes and Inadequate Glycemic Control With Metformin With or Without SGLT2 Inhibitor (TRANSCEND-T2D-2)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06260722",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42590128",
+        "title": "Anti-Obesity Medications in Longevity and Aesthetic Medicine.",
+        "pubdate": "2026 Aug 3",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42590128/"
+      },
+      {
+        "pmid": "42529769",
+        "title": "Efficacy and Safety of Dual and Triple Glucagon-Like Peptide-1-Based Polyagonists in Metabolic Dysfunction-Associated Steatotic Liver Disease and Steatohepatitis: A Systematic Review and Meta-Analysis.",
+        "pubdate": "2026 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42529769/"
+      },
+      {
+        "pmid": "42250575",
+        "title": "Efficacy and safety of retatrutide, a GIP, GLP-1, and glucagon receptor agonist, in people with type 2 diabetes and inadequate glycaemic control with diet and exercise (TRANSCEND-T2D-1): a double-blind, randomised, phase 3 trial.",
+        "pubdate": "2026 Jun 13",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42250575/"
+      },
+      {
+        "pmid": "41831086",
+        "title": "Pharmacologic Treatment of Metabolic Dysfunction-Associated Steatotic Liver Disease in the Context of Type 2 Diabetes.",
+        "pubdate": "2026 Mar 14",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41831086/"
+      },
+      {
+        "pmid": "41216380",
+        "title": "Perceived benefits of treatment for obesity with retatrutide: A qualitative study of patients in a phase 2 clinical trial.",
+        "pubdate": "2025 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41216380/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "GLUCAGON HYDROCHLORIDE",
+        "chembl_id": "CHEMBL5314342",
+        "reason": "same target: Glucagon receptor"
+      },
+      {
+        "name": "GLUCAGON",
+        "chembl_id": "CHEMBL5314341",
+        "reason": "same target: Glucagon receptor"
+      },
+      {
+        "name": "SAR425899",
+        "chembl_id": "CHEMBL3545269",
+        "reason": "same target: Glucagon receptor"
+      },
+      {
+        "name": "MK-0893",
+        "chembl_id": "CHEMBL1933349",
+        "reason": "same target: Glucagon receptor"
+      },
+      {
+        "name": "PF-06291874",
+        "chembl_id": "CHEMBL2381848",
+        "reason": "same target: Glucagon receptor"
+      },
+      {
+        "name": "CROTEDUMAB",
+        "chembl_id": "CHEMBL3707278",
+        "reason": "same target: Glucagon receptor"
+      },
+      {
+        "name": "COTADUTIDE",
+        "chembl_id": "CHEMBL4297630",
+        "reason": "same target: Glucagon receptor"
+      },
+      {
+        "name": "MK-3577",
+        "chembl_id": "CHEMBL1933350",
+        "reason": "same target: Glucagon receptor"
+      },
+      {
+        "name": "ADOMEGLIVANT",
+        "chembl_id": "CHEMBL3707351",
+        "reason": "same target: Glucagon receptor"
+      },
+      {
+        "name": "EFINOPEGDUTIDE",
+        "chembl_id": "CHEMBL4297576",
+        "reason": "same target: Glucagon receptor"
+      }
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "drug_name": "Venglustat (GZ402671)",
+  "slug": "venglustat-gz402671",
+  "enriched_at": "2026-08-16T07:38:29Z",
+  "source_trial_ids": [
+    "NCT05280548"
+  ],
+  "sponsors": [
+    {
+      "name": "Sanofi",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Sanofi&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2213531",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4297611",
+    "target_chembl_id": "CHEMBL2063",
+    "target_name": "Ceramide glucosyltransferase",
+    "mechanism_of_action_chembl": "Ceramide glucosyltransferase inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Venglustat%20%28GZ402671%29+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Venglustat%20%28GZ402671%29+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Venglustat%20%28GZ402671%29+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Fabry Disease",
+    "slug": "fabry-disease"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05280548",
+      "title": "A Study to Evaluate the Effect of Venglustat Tablets on Left Ventricular Mass Index in Male and Female Adult Participants With Fabry Disease",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05280548",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "MIGLUSTAT",
+        "chembl_id": "CHEMBL1029",
+        "reason": "same target: Ceramide glucosyltransferase"
+      },
+      {
+        "name": "ELIGLUSTAT TARTRATE",
+        "chembl_id": "CHEMBL5723563",
+        "reason": "same target: Ceramide glucosyltransferase"
+      },
+      {
+        "name": "LUCERASTAT",
+        "chembl_id": "CHEMBL1086997",
+        "reason": "same target: Ceramide glucosyltransferase"
+      }
+    ]
+  }
+}

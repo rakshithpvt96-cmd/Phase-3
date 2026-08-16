@@ -1,0 +1,156 @@
+{
+  "drug_name": "Ilaprazole",
+  "slug": "ilaprazole",
+  "enriched_at": "2026-08-16T07:43:44Z",
+  "source_trial_ids": [
+    "NCT06284876"
+  ],
+  "sponsors": [
+    {
+      "name": "Il-Yang Pharm. Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Il-Yang%20Pharm.%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 214351,
+    "iupac_name": "2-[(4-methoxy-3-methyl-2-pyridinyl)methylsulfinyl]-6-pyrrol-1-yl-1H-benzimidazole",
+    "molecular_formula": "C19H18N4O2S",
+    "molecular_weight": "366.4",
+    "canonical_smiles": null,
+    "inchikey": "HRRXCXABAPSOCP-UHFFFAOYSA-N",
+    "rxnorm": {
+      "rxcui": "736443",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2106370",
+    "target_chembl_id": "CHEMBL2095173",
+    "target_name": "Potassium-transporting ATPase",
+    "mechanism_of_action_chembl": "Potassium-transporting ATPase inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Ilaprazole+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Ilaprazole+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Ilaprazole+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Peptic Ulcer",
+    "slug": "peptic-ulcer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06284876",
+      "title": "Study to Evaluate the Efficacy and Safety of Ilaprazole 10 mg in Prevention NSAIDs Associated Peptic Ulcer",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06284876",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "41852672",
+        "title": "Efficacy and safety of ilaprazole for stress ulcer - associated upper gastrointestinal bleeding prophylaxis in critically ill patients: a randomized, double-blind, non-inferiority phase 3 trial.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41852672/"
+      },
+      {
+        "pmid": "41211681",
+        "title": "Different Doses of Ilaprazole for Dual Therapy Versus Bismuth-Quadruple Therapy for Helicobacter pylori Infection: A Three-Arm, Randomized Clinical Trial.",
+        "pubdate": "2025 Nov-Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41211681/"
+      },
+      {
+        "pmid": "38910891",
+        "title": "Cost-effectiveness analysis of Anaprazole versus Ilaprazole for the treatment of duodenal ulcers in China.",
+        "pubdate": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38910891/"
+      },
+      {
+        "pmid": "38269273",
+        "title": "Population pharmacokinetic modeling of ilaprazole in healthy subjects and patients with duodenal ulcer in China.",
+        "pubdate": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38269273/"
+      },
+      {
+        "pmid": "38026958",
+        "title": "Efficacy and safety of high-dose ilaprazole-amoxicillin dual therapy for Helicobacter pylori eradication: a prospective, single-center, randomized trial.",
+        "pubdate": "2023",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38026958/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "OMEPRAZOLE",
+        "chembl_id": "CHEMBL1503",
+        "reason": "same target: Potassium-transporting ATPase"
+      },
+      {
+        "name": "DEXLANSOPRAZOLE",
+        "chembl_id": "CHEMBL1201863",
+        "reason": "same target: Potassium-transporting ATPase"
+      },
+      {
+        "name": "OMEPRAZOLE MAGNESIUM",
+        "chembl_id": "CHEMBL1567328",
+        "reason": "same target: Potassium-transporting ATPase"
+      },
+      {
+        "name": "RABEPRAZOLE SODIUM",
+        "chembl_id": "CHEMBL1200930",
+        "reason": "same target: Potassium-transporting ATPase"
+      },
+      {
+        "name": "PANTOPRAZOLE SODIUM",
+        "chembl_id": "CHEMBL3989559",
+        "reason": "same target: Potassium-transporting ATPase"
+      },
+      {
+        "name": "LANSOPRAZOLE",
+        "chembl_id": "CHEMBL480",
+        "reason": "same target: Potassium-transporting ATPase"
+      },
+      {
+        "name": "ESOMEPRAZOLE SODIUM",
+        "chembl_id": "CHEMBL1200470",
+        "reason": "same target: Potassium-transporting ATPase"
+      },
+      {
+        "name": "ESOMEPRAZOLE MAGNESIUM",
+        "chembl_id": "CHEMBL5314366",
+        "reason": "same target: Potassium-transporting ATPase"
+      },
+      {
+        "name": "ESOMEPRAZOLE STRONTIUM",
+        "chembl_id": "CHEMBL2146140",
+        "reason": "same target: Potassium-transporting ATPase"
+      },
+      {
+        "name": "VONOPRAZAN FUMARATE",
+        "chembl_id": "CHEMBL2064032",
+        "reason": "same target: Potassium-transporting ATPase"
+      }
+    ]
+  }
+}

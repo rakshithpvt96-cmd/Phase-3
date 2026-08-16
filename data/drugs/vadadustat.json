@@ -1,0 +1,132 @@
+{
+  "drug_name": "vadadustat",
+  "slug": "vadadustat",
+  "enriched_at": "2026-08-16T07:37:54Z",
+  "source_trial_ids": [
+    "NCT05082571",
+    "NCT05082584",
+    "NCT06901505"
+  ],
+  "sponsors": [
+    {
+      "name": "Akebia Therapeutics",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Akebia%20Therapeutics&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 23634441,
+    "iupac_name": "2-[[5-(3-chlorophenyl)-3-hydroxypyridine-2-carbonyl]amino]acetic acid",
+    "molecular_formula": "C14H11ClN2O4",
+    "molecular_weight": "306.70",
+    "canonical_smiles": null,
+    "inchikey": "JGRXMPYUTJLTKT-UHFFFAOYSA-N",
+    "rxnorm": {
+      "rxcui": "2679296",
+      "generic_name": "vadadustat",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL3646221",
+    "target_chembl_id": "CHEMBL5697",
+    "target_name": "Egl nine homolog 1",
+    "mechanism_of_action_chembl": "Egl nine homolog 1 inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Vadadustat is a reversible inhibitor of HIF-prolyl-4-hydroxylases (PH)1, PH2, and PH3 (IC 50 in the nM range). This activity results in the stabilization and nuclear accumulation of HIF-1α and HIF-2α transcription factors, and increased production of erythropoietin (EPO).",
+    "pharmacokinetics": "12.3 Pharmacokinetics Vadadustat AUC and observed peak concentration (C max ) increased proportionally after single doses from 80 mg to 1200 mg (0.27 to 4 times the approved recommended starting dosage). Vadadustat is expected to reach steady state by day 3 following once daily dosing, with no significant accumulation. Absorption The time to peak plasma concentration (T max ) of vadadustat is approximately 2 to 3 hours. Effect of Food No clinically significant differences in vadadustat pharmacokinetics were observed following administration of a high-fat meal. Distribution Protein binding of vadadustat is ≥99.5% in human plasma. Vadadustat does not distribute into red blood cells. Elimination The mean half-life of vadadustat in patients on chronic hemodialysis was 13.9 hours. Metabolism Vadadustat is primarily metabolized via glucuronidation by UDP-glucuronosyltransferase (UGT) enzymes. Excretion After a single radiolabeled oral dose to healthy adults, 85.9% of the total dose was recovered; 58.9% in urine (<1% of total dose unchanged); and 26.9% in feces (9% of total dose unchanged). Specific Populations There were no clinically significant differences in the pharmacokinetics of vadadustat based on age, sex, race/ethnicity, or moderate hepatic impairment (Child-Pugh Class B). The effect of severe hepatic impairment (Child-Pugh Class C) on the pharmacokinetics of vadadustat is unknown. Patients with Renal Impairment Vadadustat clearance decreased with decreasing renal function and exposures in DD-CKD were approximately 2-fold higher compared to healthy adults. In patients with Stage 5 DD-CKD, no significant differences in pharmacokinetics (C max , AUC or mean half-life) were observed when VAFSEO was administered 4 hours before dialysis or 2 hours after dialysis. Drug Interaction Studies The impact of co-administered drugs on vadadustat exposure was examined in several drug-drug interaction (DDI) studies in healthy adults. The change in vadadustat exposure with coadministration compared to VAFSEO alone is summarized in Figure 1. Figure 1 Impact of Other Drugs on Pharmacokinetics of Vadadustat BCRP: breast cancer resistance protein; CI: confidence interval; OAT: organic anion transporter; OATP: organic anion-transporting polypeptide. The solid vertical line represents geometric mean ratio of 1 and dotted vertical lines represent the 0.80 to 1.25 boundary. The impact of vadadustat on the exposure of other drugs was examined in several DDI studies in healthy adults. The change in drug exposure when coadministered with VAFSEO compared to the drug alone is summarized in Figure 2. Figure 2 Effect of Vadadustat on Pharmacokinetics of Other Drugs BCRP: breast cancer resistance protein; CI: confidence interval; OAT: organic anion transporter; OATP: organic anion-transporting polypeptide. The solid vertical line represents geometric mean ratio of 1 and dotted vertical lines represent the 0.80 to 1.25 boundary. Figure 1 Figure 2",
+    "indications_and_usage": "1 INDICATIONS AND USAGE VAFSEO is indicated for the treatment of anemia due to chronic kidney disease (CKD) in adults who have been receiving dialysis for at least three months. Limitations of Use VAFSEO has not been shown to improve quality of life, fatigue, or patient well-being. VAFSEO is not indicated for use: As a substitute for red blood cell transfusions in patients who require immediate correction of anemia In patients with anemia due to CKD not on dialysis [see Warnings and Precautions ( 5.6 )] . VAFSEO is a hypoxia-inducible factor prolyl hydroxylase (HIF PH) inhibitor indicated for the treatment of anemia due to chronic kidney disease (CKD) in adults who have been receiving dialysis for at least three months. ( 1 ) Limitations of Use Not been shown to improve quality of life, fatigue, or patient well-being. Not indicated for use: As a substitute for transfusion in patients requiring immediate correction of anemia. ( 1 ) In patients with anemia due to CKD not on dialysis. ( 1 , 5.6 )",
+    "boxed_warning": "WARNING: INCREASED RISK OF DEATH, MYOCARDIAL INFARCTION, STROKE, VENOUS THROMBOEMBOLISM, and THROMBOSIS OF VASCULAR ACCESS VAFSEO increases the risk of thrombotic vascular events, including major adverse cardiovascular events (MACE) [see Warnings and Precautions ( 5.1 )] . Targeting a hemoglobin level greater than 11 g/dL is expected to further increase the risk of death and arterial and venous thrombotic events, as occurs with erythropoietin stimulating agents (ESAs), which also increase erythropoietin levels [see Warnings and Precautions ( 5.1 )] . No trial has identified a hemoglobin target level, dose of VAFSEO, or dosing strategy that does not increase these risks [see Dosage and Administration ( 2.4 )] . Use the lowest dose of VAFSEO sufficient to reduce the need for red blood cell transfusions [ see Dosage and Administration ( 2.4 )] . WARNING: INCREASED RISK OF DEATH, MYOCARDIAL INFARCTION, STROKE, VENOUS THROMBOEMBOLISM, and THROMBOSIS OF VASCULAR ACCESS. See full prescribing information for complete boxed warning. VAFSEO increases the risk of thrombotic vascular events, including major adverse cardiovascular events (MACE). ( 5.1 ) Targeting a hemoglobin level greater than 11 g/dL is expected to further increase the risk of death and arterial and venous thrombotic events, as occurs with erythropoietin stimulating agents (ESAs), which also increase erythropoietin levels. ( 5.1 ) No trial has identified a hemoglobin target level, dose of VAFSEO, or dosing strategy that does not increase these risks. ( 2.4 ) Use the lowest dose of VAFSEO sufficient to reduce the need for red blood cell transfusions. ( 2.4 )",
+    "openfda_brand_names": [
+      "VAFSEO"
+    ],
+    "openfda_generic_names": [
+      "VADADUSTAT"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ac9da724-5a62-4ab6-a89c-376a25f6195b",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Anemia of Chronic Kidney Disease",
+    "slug": "anemia-of-chronic-kidney-disease"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05082571",
+      "title": "Study to Evaluate the Safety and Efficacy of Oral Vadadustat in Pediatric Participants With Anemia of Chronic Kidney Disease",
+      "status": "WITHDRAWN",
+      "url": "https://clinicaltrials.gov/study/NCT05082571",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT05082584",
+      "title": "Study to Evaluate the Safety and Efficacy of Oral Vadadustat in Pediatric Participants With Anemia of Chronic Kidney Disease Naive to Erythropoiesis-Stimulating Agents",
+      "status": "WITHDRAWN",
+      "url": "https://clinicaltrials.gov/study/NCT05082584",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06901505",
+      "title": "To Evaluate the Efficacy of Three Times Weekly (TIW) Vadadustat Compared to Standard of Care ESA in Patients With Anemia of CKD Receiving In-Center Hemodialysis",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06901505",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "41842948",
+        "title": "Comparing Vadadustat and Darbepoetin in Maintenance Dialysis with CKD-Related Anemia: A Win Statistics Analysis.",
+        "pubdate": "2026 Jun 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41842948/"
+      },
+      {
+        "pmid": "41376433",
+        "title": "Safety and Efficacy of Vadadustat Versus Darbepoetin Alfa for Chronic Kidney Disease-Related Anemia in Patients Receiving Dialysis by Baseline Erythropoiesis-Stimulating Agent Dose.",
+        "pubdate": "2026 Jan",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41376433/"
+      },
+      {
+        "pmid": "40790188",
+        "title": "A randomized trial to evaluate the pharmacokinetics, pharmacodynamics, and safety of vadadustat in patients with anemia associated with chronic kidney disease receiving hemodialysis.",
+        "pubdate": "2025 Aug 11",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40790188/"
+      },
+      {
+        "pmid": "40698683",
+        "title": "Unveiling Vadadustat: Comprehensive Review of its Chemistry, Pharmacology, Bioanalysis, and Patent Landscape as a Novel HIF-PH Inhibitor.",
+        "pubdate": "2025 Jul 22",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40698683/"
+      },
+      {
+        "pmid": "40359056",
+        "title": "Safety and Efficacy of Vadadustat for the Treatment of CKD-Related Anemia within and outside the United States.",
+        "pubdate": "2025 Oct 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40359056/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "ENARODUSTAT",
+        "chembl_id": "CHEMBL4297619",
+        "reason": "same target: Egl nine homolog 1"
+      },
+      {
+        "name": "MOLIDUSTAT",
+        "chembl_id": "CHEMBL3646118",
+        "reason": "same target: Egl nine homolog 1"
+      }
+    ]
+  }
+}

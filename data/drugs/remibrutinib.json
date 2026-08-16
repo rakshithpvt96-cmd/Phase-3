@@ -1,0 +1,113 @@
+{
+  "drug_name": "Remibrutinib",
+  "slug": "remibrutinib",
+  "enriched_at": "2026-08-16T07:34:45Z",
+  "source_trial_ids": [
+    "NCT05147220",
+    "NCT05156281"
+  ],
+  "sponsors": [
+    {
+      "name": "Novartis Pharmaceuticals",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Novartis%20Pharmaceuticals&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 118107483,
+    "iupac_name": "N-[3-[6-amino-5-[2-[methyl(prop-2-enoyl)amino]ethoxy]pyrimidin-4-yl]-5-fluoro-2-methylphenyl]-4-cyclopropyl-2-fluorobenzamide",
+    "molecular_formula": "C27H27F2N5O3",
+    "molecular_weight": "507.5",
+    "canonical_smiles": null,
+    "inchikey": "CUABMPOJOBCXJI-UHFFFAOYSA-N",
+    "rxnorm": {
+      "rxcui": "2724365",
+      "generic_name": "remibrutinib",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4483575",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Remibrutinib is an oral, small molecule kinase inhibitor that inhibits Bruton’s tyrosine kinase (BTK). BTK is an intracellular protein expressed in mast cells, basophils, B cells, macrophages, and thrombocytes. BTK is involved in intracellular signaling via Fc epsilon receptor-1 (FcεR1), Fc gamma receptors (FcγR), and the B cell antigen receptor (BCR). Remibrutinib also inhibits the BTK-related kinases tec protein tyrosine kinase (TEC) and BMX non-receptor tyrosine kinase (BMX). Remibrutinib inhibits mast cell and basophil degranulation, including release of histamine and other proinflammatory mediators, mediated by pathogenic IgE or IgG directed against the FcεR1 or IgE.",
+    "pharmacokinetics": "12.3 Pharmacokinetics Following administration of remibrutinib 25 mg twice daily, the mean (standard deviation) C max is 57 (27) ng/mL and AUC last is 193 (136) ng*h/mL at steady state. Remibrutinib C max and AUC increase in a dose-proportional manner between 0.4 to 4 times the recommended dosage. Following administration of multiple doses of 25 mg twice daily, C max increases 1.6-fold and AUC 0-4 increases 2.7-fold. No clinically significant differences in remibrutinib pharmacokinetics were observed between healthy subjects and patients with CSU. Absorption Remibrutinib median (min, max) time to maximum plasma concentration (T max ) is 1 hour (0, 4 hours) at steady state. Effect of food No clinically significant differences in remibrutinib pharmacokinetics were observed following administration of a high-fat meal (1000 calories, 50% fat). Distribution Remibrutinib blood-to-plasma ratio is 0.813 in vitro. Plasma protein binding is 95.4% and is not concentration-dependent in vitro. The estimated remibrutinib steady state apparent (oral) volume of distribution is 1238 L. Elimination Remibrutinib estimated elimination half-life is 1 to 2 hours with an apparent (oral) clearance of 160 L/hr. Metabolism Remibrutinib is primarily metabolized by CYP3A4. Excretion Following IV administration of 14 C remibrutinib to healthy subjects, 70% of the total radioactivity was recovered in feces (0% as unchanged remibrutinib), and 30% was recovered in urine (2.9% as unchanged remibrutinib). Specific Populations No clinically significant differences in the pharmacokinetics of remibrutinib were observed based on age (range: 18 to 80 years), sex (63.5% females and 36.5% males), race/ethnicity (59.3% Non-Asian [White, Black, and Others], 8.8% Mainland Chinese, 12.2% Japanese, and 19.7% other Asian), body weight (range: 39 to 162 kg), and mild (eGFR 60-89 mL/min/1.73 m 2 , estimated by Cockcroft-Gault), moderate (eGFR 30-59 mL/min/1.73 m 2 ) or severe (eGFR 15-29 mL/min/1.73 m 2 ) renal impairment. Patients with Hepatic Impairment The pharmacokinetics of remibrutinib were evaluated in subjects with mild (Child-Pugh Class A), moderate (Child-Pugh Class B), and severe (Child-Pugh Class C) hepatic impairment following administration of 25 mg twice daily. Relative to patients with normal hepatic function, remibrutinib AUC increased 2.33-fold and C max increased 1.85-fold in patients with mild hepatic impairment, AUC increased 2.3-fold and C max increased 1.65-fold in patients with moderate hepatic impairment, and AUC increased 3.49-fold and C max increased 1.99-fold in patients with severe hepatic impairment [see Use in Special Populations (8.6)] . Drug Interaction Studies Clinical Studies and Model-Informed Approaches Strong CYP3A4 Inhibitors: Remibrutinib C max increased by 3.3-fold and AUC increased by 4.3-fold following concomitant administration with ritonavir (a strong CYP3A4 inhibitor) 100 mg twice daily for 4 days [see Drug Interactions (7.1)] . Remibrutinib C max increased by 1.24-fold and AUC increased by 1.3-fold when co-administered with grapefruit juice. Moderate CYP3A4 Inhibitors: Remibrutinib C max is predicted to increase by approximately 1.9-fold and AUC is predicted to increase by approximately 2.3-fold following concomitant administration with erythromycin (a moderate CYP3A4 inhibitor) 500 mg four times a day for 7 days [see Drug Interactions (7.1)] . Strong CYP3A4 Inducers: Remibrutinib C max decreased by 74% and AUC decreased by approximately 77% following concomitant administration with carbamazepine (a strong CYP3A4 inducer) 300 mg twice daily for 14 days [see Drug Interactions (7.1)] . Moderate CYP3A4 Inducers: Remibrutinib C max is predicted to decrease by approximately 60% and AUC is predicted to decrease by approximately 64% following concomitant administration with efavirenz (a moderate CYP3A4 inducer) 600 mg once daily for 14 days [see Drug Interactions (7.1)] . P-gp Substrates: Co-administration of remibrutinib at four times the recommended dosage with a single dose of 0.25 mg digoxin (a P-gp substrate) increased digoxin C max by 2.1-fold and AUC by 1.4-fold [see Drug Interactions (7.1)] . BCRP Substrates: Co-administration of remibrutinib at four times the recommended dosage with a single dose of 10 mg rosuvastatin (a BCRP and OATP1B substrate) increased rosuvastatin C max by 1.6-fold and AUC by 1.7-fold. Other Drugs: No clinically significant differences in the pharmacokinetics of the following drugs were observed when used concomitantly with remibrutinib: oral midazolam (CYP3A4 substrate), oral contraceptives containing ethinyl estradiol and levonorgestrel (CYP3A4 substrate), tolbutamide (CYP2C9 substrate), caffeine (CYP1A2 substrate), and coproporphyrin I (an endogenous OATP1B substrate). In Vitro Studies CYP450 Enzymes: Remibrutinib is a CYP3A4 substrate. Remibrutinib inhibits CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6 and CYP3A4/5. Remibrutinib induces CYP1A2, CYP2B6, CYP2C9 and CYP3A4/5. Transporter Systems: In vitro, remibrutinib is a P-gp substrate. Remibrutinib inhibits P-gp, BCRP, BSEP, OATP1B1, OATP1B3, OAT1, OAT3, OCT1, OCT2 and MATE1.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE RHAPSIDO ® is indicated for the treatment of chronic spontaneous urticaria (CSU) in adult patients who remain symptomatic despite H1 antihistamine treatment. Limitations of Use: RHAPSIDO is not indicated for other forms of urticaria. RHAPSIDO ® is a kinase inhibitor indicated for the treatment of chronic spontaneous urticaria (CSU) in adult patients who remain symptomatic despite H1 antihistamine treatment. ( 1 ) Limitations of Use: Not indicated for other forms of urticaria. ( 1 )",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "RHAPSIDO"
+    ],
+    "openfda_generic_names": [
+      "REMIBRUTINIB"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e5e89bff-6ced-4165-acc5-fb13136b3a3d",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Relapsing Multiple Sclerosis",
+    "slug": "relapsing-multiple-sclerosis"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05147220",
+      "title": "Efficacy and Safety of Remibrutinib Compared to Teriflunomide in Participants With Relapsing Multiple Sclerosis (RMS)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05147220",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT05156281",
+      "title": "Efficacy and Safety of Remibrutinib Compared to Teriflunomide in Participants With Relapsing Multiple Sclerosis (RMS)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05156281",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42342652",
+        "title": "Emerging synthetic drugs for the management of hidradenitis suppurativa: a comprehensive update.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42342652/"
+      },
+      {
+        "pmid": "42297099",
+        "title": "Remibrutinib impact on disease control, sleep, and quality of life: Analysis of phase 3 REMIX-1/2.",
+        "pubdate": "2026 Jun 15",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42297099/"
+      },
+      {
+        "pmid": "42242425",
+        "title": "Safety of Remibrutinib in Chronic Spontaneous Urticaria: A Pooled Analysis of REMIX-1 and REMIX-2 Trials.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42242425/"
+      },
+      {
+        "pmid": "42134274",
+        "title": "Investigations of remibrutinib in models pertinent to multiple sclerosis.",
+        "pubdate": "2026 Apr",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42134274/"
+      },
+      {
+        "pmid": "42075951",
+        "title": "Bruton's Tyrosine Kinase Inhibitors in Multiple Sclerosis: Mechanistic Considerations Across Relapsing and Progressive Disease.",
+        "pubdate": "2026 Apr 12",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42075951/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

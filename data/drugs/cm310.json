@@ -1,0 +1,135 @@
+{
+  "drug_name": "CM310",
+  "slug": "cm310",
+  "enriched_at": "2026-08-16T07:33:44Z",
+  "source_trial_ids": [
+    "NCT06495229"
+  ],
+  "sponsors": [
+    {
+      "name": "Keymed Biosciences Co.Ltd",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Keymed%20Biosciences%20Co.Ltd&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2688566",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL5095324",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=CM310+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=CM310+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=CM310+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Atopic Dermatitis",
+    "slug": "atopic-dermatitis"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06495229",
+      "title": "Study of CM310 in Adolescent Subjects With Atopic Dermatis",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06495229",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "40051426",
+        "title": "Stapokibart (CM310) in patients with uncontrolled seasonal allergic rhinitis (PHECDA): Rationale and design of a multicentre, randomized, double-blind, placebo-controlled study.",
+        "pubdate": "2025 Mar",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40051426/"
+      },
+      {
+        "pmid": "39262798",
+        "title": "Stapokibart (CM310) targets IL-4Rα for the treatment of type 2 inflammation.",
+        "pubdate": "2024 Sep 20",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39262798/"
+      },
+      {
+        "pmid": "39220573",
+        "title": "Anti-IL-4Rα monoclonal antibody (CM310) in patients with chronic rhinosinusitis with nasal polyps (CROWNS-2): Rationale and design of a multicenter, randomized, double-blind, placebo-controlled, parallel-group study.",
+        "pubdate": "2024 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39220573/"
+      },
+      {
+        "pmid": "39080181",
+        "title": "Long-Term Efficacy and Safety of Stapokibart in Adults with Moderate-to-Severe Atopic Dermatitis: An Open-Label Extension, Nonrandomized Clinical Trial.",
+        "pubdate": "2024 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39080181/"
+      },
+      {
+        "pmid": "39064040",
+        "title": "A Comprehensive Review of Biologics in Phase III and IV Clinical Trials for Atopic Dermatitis.",
+        "pubdate": "2024 Jul 9",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39064040/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "Jaktinib Hydrochloride Tablet",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Suzhou Zelgen Biopharmaceuticals Co.,Ltd"
+      },
+      {
+        "name": "Rocatinlimab",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Amgen"
+      },
+      {
+        "name": "Ruxolitinib",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Incyte Corporation"
+      },
+      {
+        "name": "Vehicle Cream",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Incyte Corporation"
+      },
+      {
+        "name": "Upadacitinib 15mg Dose",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: AbbVie"
+      },
+      {
+        "name": "Dupilumab 300mg Dose",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: AbbVie"
+      },
+      {
+        "name": "Upadacitinib 30mg Dose",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: AbbVie"
+      }
+    ]
+  }
+}

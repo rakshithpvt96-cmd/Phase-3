@@ -1,0 +1,136 @@
+{
+  "drug_name": "HRS9531 Injection",
+  "slug": "hrs9531-injection",
+  "enriched_at": "2026-08-16T07:43:17Z",
+  "source_trial_ids": [
+    "NCT06649344"
+  ],
+  "sponsors": [
+    {
+      "name": "Fujian Shengdi Pharmaceutical Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Fujian%20Shengdi%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": null
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2108760",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=HRS9531%20Injection+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=HRS9531%20Injection+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=HRS9531%20Injection+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Type 2 Diabetes",
+    "slug": "type-2-diabetes"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06649344",
+      "title": "A Study of HRS9531 Versus Semaglutide Once Weekly as Add-on Therapy to Metformin Monotherapy or in Combination With SGLT2 Inhibitors in Participants With Type 2 Diabetes",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT06649344",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42603198",
+        "title": "Liver Transplantation Following Hepatocellular Carcinoma Rupture and Long-Term Immunotherapy: A Case Report.",
+        "pubdate": "2026 Aug 15",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42603198/"
+      },
+      {
+        "pmid": "42602754",
+        "title": "Liposomal bupivacaine surgical site injection for decrease of narcotic use in hip fractures: a pilot multicenter randomized trial.",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42602754/"
+      },
+      {
+        "pmid": "42602644",
+        "title": "Effects of Preemptive Analgesia Using Wrist-Ankle Acupuncture on Postoperative Pain and Urinary Retention After Haemorrhoidectomy: A Randomised, Three-Arm, Clinical Trial.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42602644/"
+      },
+      {
+        "pmid": "42601628",
+        "title": "Medication transitions and predictors of illicit substance use during opioid agonist treatment: a three-year follow-up study.",
+        "pubdate": "2026 Aug 14",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42601628/"
+      },
+      {
+        "pmid": "42600059",
+        "title": "Protective Effects and Mechanisms of Extracellular Vesicles in Remote Ischemic Preconditioning on Renal Injury Induced by Inflammation.",
+        "pubdate": "2026 Aug 31",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42600059/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "HRS-7535 tablet",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Shandong Suncadia Medicine Co., Ltd."
+      },
+      {
+        "name": "dapagliflozin tablet",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Shandong Suncadia Medicine Co., Ltd."
+      },
+      {
+        "name": "THP-00101",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: THPharm Corp."
+      },
+      {
+        "name": "THP-00102",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: THPharm Corp."
+      },
+      {
+        "name": "THP-00103",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: THPharm Corp."
+      },
+      {
+        "name": "THP-00104",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: THPharm Corp."
+      },
+      {
+        "name": "THP-00105",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: THPharm Corp."
+      },
+      {
+        "name": "THP-00106",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: THPharm Corp."
+      }
+    ]
+  }
+}

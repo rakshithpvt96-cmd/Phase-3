@@ -1,0 +1,89 @@
+{
+  "drug_name": "KVD900 300 mg",
+  "slug": "kvd900-300-mg",
+  "enriched_at": "2026-08-16T07:44:04Z",
+  "source_trial_ids": [
+    "NCT05505916"
+  ],
+  "sponsors": [
+    {
+      "name": "KalVista Pharmaceuticals, Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=KalVista%20Pharmaceuticals%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": null
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL5314922",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=KVD900%20300%20mg+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=KVD900%20300%20mg+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=KVD900%20300%20mg+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Hereditary Angioedema",
+    "slug": "hereditary-angioedema"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05505916",
+      "title": "An Open-label Extension Trial to Evaluate the Long-term Safety of KVD900 (Sebetralstat) for On-Demand Treatment of Angioedema Attacks in Adolescent and Adult Patients With Hereditary Angioedema (HAE)",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT05505916",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42318595",
+        "title": "Sebetralstat for on-demand treatment of hereditary angioedema: A pooled analysis of placebo-controlled clinical trials.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42318595/"
+      },
+      {
+        "pmid": "41786301",
+        "title": "Impact of Oral Sebetralstat on Anxiety Associated With Hereditary Angioedema Attacks.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41786301/"
+      },
+      {
+        "pmid": "40089800",
+        "title": "Indirect treatment comparison of oral sebetralstat and intravenous recombinant human C1 esterase inhibitor for on-demand treatment of hereditary angioedema attacks.",
+        "pubdate": "2025 Mar 15",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40089800/"
+      },
+      {
+        "pmid": "38819658",
+        "title": "Oral Sebetralstat for On-Demand Treatment of Hereditary Angioedema Attacks.",
+        "pubdate": "2024 Jul 4",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38819658/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

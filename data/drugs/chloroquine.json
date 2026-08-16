@@ -1,0 +1,105 @@
+{
+  "drug_name": "Chloroquine",
+  "slug": "chloroquine",
+  "enriched_at": "2026-08-16T07:41:32Z",
+  "source_trial_ids": [
+    "NCT06666491"
+  ],
+  "sponsors": [
+    {
+      "name": "GlaxoSmithKline",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=GlaxoSmithKline&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 2719,
+    "iupac_name": "4-N-(7-chloroquinolin-4-yl)-1-N,1-N-diethylpentane-1,4-diamine",
+    "molecular_formula": "C18H26ClN3",
+    "molecular_weight": "319.9",
+    "canonical_smiles": null,
+    "inchikey": "WHTVZRBIWZFKQO-UHFFFAOYSA-N",
+    "rxnorm": {
+      "rxcui": "2393",
+      "generic_name": "chloroquine",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL76",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "Mechanism of Action: Chloroquine, a 4-aminoquinoline, is an anti-protozoal agent. The precise mechanism by which chloroquine exhibits activity is not known. Chloroquine, may exert its effect against Plasmodium species by concentrating in the acid vesicles of the parasite and by inhibiting polymerization of heme. It can also inhibit certain enzymes by its interaction with DNA. Activity in Vitro and in Clinical Infections: Chloroquine is active against the erythrocytic forms of susceptible strains of Plasmodium falciparum, Plasmodium malariae, Plasmodium ovale , and Plasmodium vivax . Chloroquine is not active against the gametocytes and the exoerythrocytic forms including the hypnozoite stage ( P. vivax and P. ovale ) of the Plasmodium parasites. In vitro studies with Chloroquine demonstrated that it is active against the trophozoites of Entamoeba histolytica. Drug Resistance: Resistance of Plasmodium parasites to chloroquine is widespread (see INDICATIONS AND USAGE , Limitations of Use in Malaria and WARNINGS ). Plasmodium parasites exhibiting reduced susceptibility to hydroxychloroquine also show reduced susceptibility to chloroquine. Patients in whom chloroquine or hydroxychloroquine have failed to prevent or cure clinical malaria or parasitemia, or patients who acquired malaria in a geographic area where chloroquine resistance is known to occur should be treated with another form of antimalarial therapy (see WARNINGS and INDICATIONS AND USAGE , Limitations of Use).",
+    "pharmacokinetics": null,
+    "indications_and_usage": "INDICATIONS AND USAGE Chloroquine phosphate tablets are indicated for the: Treatment of uncomplicated malaria due to susceptible strains of P. falciparum, P.malariae, P. ovale, and P.vivax . Prophylaxis of malaria in geographic areas where resistance to chloroquine is not present. Treatment of extraintestinal amebiasis. Chloroquine phosphate tablets do not prevent relapses in patients with vivax or ovale malaria because it is not effective against exoerythrocytic forms of the parasites. Limitations of Use in Malaria: Do not use chloroquine phosphate tablets for the treatment of complicated malaria (high-grade parasitemia and/or complications e.g., cerebral malaria or acute renal failure). Do not use chloroquine phosphate tablets for malaria prophylaxis in areas where chloroquine resistance occurs, Resistance to chloroquine phosphate tablets is widespread in P. falciparum, and is reported in P.vivax (see WARNINGS ). Concomitant therapy with an 8-aminoquinoline drug is necessary for treatment of the hypnozoite liver stage forms of P.vivax and P.ovale (see DOSAGE AND ADMINISTRATION ).",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "Chloroquine Phosphate"
+    ],
+    "openfda_generic_names": [
+      "CHLOROQUINE PHOSPHATE"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=06c69e2b-211b-4746-9f3a-f86d36520570",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Malaria, Vivax",
+    "slug": "malaria-vivax"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06666491",
+      "title": "An Interventional Study to Compare the Efficacy and Safety of Tafenoquine (TQ) and Primaquine (PQ) When Either Are Taken Together With Chloroquine (CQ) for the Treatment of P. Vivax Malaria in Indian Participants Aged 2 Years and Older",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06666491",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42159798",
+        "title": "Bortezomib synergizes with homoharringtonine in FLT3-ITD-relapsed/refractory acute myeloid leukemia by inducing FLT3-ITD protein degradation.",
+        "pubdate": "2026 May 20",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42159798/"
+      },
+      {
+        "pmid": "42114535",
+        "title": "Dihydroartemisinin-piperaquine versus chloroquine for the treatment of uncomplicated Plasmodium vivax malaria with concurrent or delayed high-dose primaquine in Brazil (Curavivax): an open-label, single-centre, randomised clinical trial.",
+        "pubdate": "2026 May 11",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42114535/"
+      },
+      {
+        "pmid": "41922323",
+        "title": "Collateral hypersensitivity between ZY19489 and piperaquine neutralizes PfCRT-mediated drug efflux and Plasmodium falciparum resistance.",
+        "pubdate": "2026 Apr 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41922323/"
+      },
+      {
+        "pmid": "41768389",
+        "title": "Efficacy of primaquine-chloroquine combination on Plasmodium vivax transmission and parasite clearance in Ethiopia: a randomized controlled trial.",
+        "pubdate": "2026 May",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41768389/"
+      },
+      {
+        "pmid": "41746719",
+        "title": "Efficacy of hydroxychloroquine with azithromycin in mild COVID-19: randomized clinical trial.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41746719/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

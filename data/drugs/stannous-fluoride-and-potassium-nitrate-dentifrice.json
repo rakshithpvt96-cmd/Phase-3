@@ -1,0 +1,99 @@
+{
+  "drug_name": "Stannous fluoride and Potassium nitrate Dentifrice",
+  "slug": "stannous-fluoride-and-potassium-nitrate-dentifrice",
+  "enriched_at": "2026-08-16T07:36:35Z",
+  "source_trial_ids": [
+    "NCT07215767"
+  ],
+  "sponsors": [
+    {
+      "name": "HALEON",
+      "ticker": "HLN",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001900304&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2689877",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1909079",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Stannous%20fluoride%20and%20Potassium%20nitrate%20Dentifrice+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Stannous%20fluoride%20and%20Potassium%20nitrate%20Dentifrice+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Stannous%20fluoride%20and%20Potassium%20nitrate%20Dentifrice+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Dentin Hypersensitivity",
+    "slug": "dentin-hypersensitivity"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07215767",
+      "title": "Clinical Study to Investigate the Antihypersensitivity Efficacy of a Novel Dentifrice",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07215767",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "40444818",
+        "title": "Randomized clinical trial evaluating kinetic benefits of desensitizing agents: Magnitude, onset, and stability of relief.",
+        "pubdate": "2025 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40444818/"
+      },
+      {
+        "pmid": "39566485",
+        "title": "Effect of a Stannous Fluoride Toothpaste Stabilized With Nitrate and Phosphates (SNaP) on Dentin Hypersensitivity: In Vitro Study and Randomized Controlled Trial.",
+        "pubdate": "2024 Nov-Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39566485/"
+      },
+      {
+        "pmid": "29334437",
+        "title": "A Randomized Clinical Trial to Measure the Erosion Protection Benefits of a Novel Stabilized Stannous Fluoride Dentifrice versus a Control Dentifrice.",
+        "pubdate": "2017 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29334437/"
+      },
+      {
+        "pmid": "25483802",
+        "title": "Desensitizing toothpaste versus placebo for dentin hypersensitivity: a systematic review and meta-analysis.",
+        "pubdate": "2015 Feb",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25483802/"
+      },
+      {
+        "pmid": "24571703",
+        "title": "A randomised in situ trial, measuring the anti-erosive properties of a stannous-containing sodium fluoride dentifrice compared with a sodium fluoride/potassium nitrate dentifrice.",
+        "pubdate": "2014 Mar",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24571703/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

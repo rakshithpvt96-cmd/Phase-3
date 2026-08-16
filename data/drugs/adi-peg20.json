@@ -1,0 +1,105 @@
+{
+  "drug_name": "ADI PEG20",
+  "slug": "adi-peg20",
+  "enriched_at": "2026-08-16T07:39:58Z",
+  "source_trial_ids": [
+    "NCT05712694"
+  ],
+  "sponsors": [
+    {
+      "name": "Polaris Group",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Polaris%20Group&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2120089",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL3137346",
+    "target_chembl_id": "CHEMBL4651302",
+    "target_name": "L-arginine",
+    "mechanism_of_action_chembl": "L-arginine hydrolytic enzyme"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=ADI%20PEG20+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=ADI%20PEG20+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=ADI%20PEG20+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Soft Tissue Sarcoma",
+    "slug": "soft-tissue-sarcoma"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05712694",
+      "title": "Study of ADI-PEG 20 or Placebo Plus Gem and Doc in Previously Treated Subjects With Leiomyosarcoma (ARGSARC)",
+      "status": "TERMINATED",
+      "url": "https://clinicaltrials.gov/study/NCT05712694",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "38358753",
+        "title": "Pegargiminase Plus First-Line Chemotherapy in Patients With Nonepithelioid Pleural Mesothelioma: The ATOMIC-Meso Randomized Clinical Trial.",
+        "pubdate": "2024 Apr 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38358753/"
+      },
+      {
+        "pmid": "36903394",
+        "title": "Bench-to-Bedside Studies of Arginine Deprivation in Cancer.",
+        "pubdate": "2023 Feb 24",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36903394/"
+      },
+      {
+        "pmid": "34415578",
+        "title": "Assessment of pegylated arginine deiminase and modified FOLFOX6 in patients with advanced hepatocellular carcinoma: Results of an international, single-arm, phase 2 study.",
+        "pubdate": "2021 Dec 15",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34415578/"
+      },
+      {
+        "pmid": "31113844",
+        "title": "Arginine Starvation and Docetaxel Induce c-Myc-Driven hENT1 Surface Expression to Overcome Gemcitabine Resistance in ASS1-Negative Tumors.",
+        "pubdate": "2019 Aug 15",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31113844/"
+      },
+      {
+        "pmid": "29659672",
+        "title": "Phase III randomized study of second line ADI-PEG 20 plus best supportive care versus placebo plus best supportive care in patients with advanced hepatocellular carcinoma.",
+        "pubdate": "2018 Jun 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29659672/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "PEGZILARGINASE",
+        "chembl_id": "CHEMBL4297803",
+        "reason": "same target: L-arginine"
+      }
+    ]
+  }
+}

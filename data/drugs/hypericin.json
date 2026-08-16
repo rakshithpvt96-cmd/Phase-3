@@ -1,0 +1,105 @@
+{
+  "drug_name": "Hypericin",
+  "slug": "hypericin",
+  "enriched_at": "2026-08-16T07:43:28Z",
+  "source_trial_ids": [
+    "NCT06470451"
+  ],
+  "sponsors": [
+    {
+      "name": "Soligenix",
+      "ticker": "SNGX",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000812796&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 3663,
+    "iupac_name": "9,11,13,16,18,20-hexahydroxy-5,24-dimethyloctacyclo[13.11.1.12,10.03,8.04,25.019,27.021,26.014,28]octacosa-1(26),2,4(25),5,8,10,12,14(28),15(27),16,18,20,23-tridecaene-7,22-dione",
+    "molecular_formula": "C30H16O8",
+    "molecular_weight": "504.4",
+    "canonical_smiles": null,
+    "inchikey": "YDOIFHVUBCIUHF-UHFFFAOYSA-N",
+    "rxnorm": {
+      "rxcui": "1546455",
+      "generic_name": "hypericin",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL286494",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Hypericin+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Hypericin+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Hypericin+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "CTCL/ Mycosis Fungoides",
+    "slug": "ctcl-mycosis-fungoides"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06470451",
+      "title": "Confirmatory Study of Topical HyBryte™ vs. Placebo for the Treatment of CTCL",
+      "status": "TERMINATED",
+      "url": "https://clinicaltrials.gov/study/NCT06470451",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "41920459",
+        "title": "Emerging Therapeutic Strategies in Cutaneous T-Cell Lymphoma: A Comprehensive Review of Clinical Trials.",
+        "pubdate": "2026 May",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41920459/"
+      },
+      {
+        "pmid": "38674046",
+        "title": "Promising Approaches in Plant-Based Therapies for Thyroid Cancer: An Overview of In Vitro, In Vivo, and Clinical Trial Studies.",
+        "pubdate": "2024 Apr 18",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38674046/"
+      },
+      {
+        "pmid": "38673695",
+        "title": "Fluorescence-Guided Laparoscopy after Oral Hypericin Administration for Staging of Locally Advanced Gastric Cancer-A Pilot Study.",
+        "pubdate": "2024 Apr 21",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38673695/"
+      },
+      {
+        "pmid": "37923285",
+        "title": "Photodynamic inactivation by hypericin-P123 on azole-resistant isolates of the Trichophyton rubrum complex as planktonic cells and biofilm.",
+        "pubdate": "2023 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37923285/"
+      },
+      {
+        "pmid": "37242570",
+        "title": "An Update on Recent Advances of Photodynamic Therapy for Primary Cutaneous Lymphomas.",
+        "pubdate": "2023 Apr 24",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37242570/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

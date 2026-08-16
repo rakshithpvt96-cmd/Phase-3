@@ -1,0 +1,117 @@
+{
+  "drug_name": "IBI362",
+  "slug": "ibi362",
+  "enriched_at": "2026-08-16T07:43:36Z",
+  "source_trial_ids": [
+    "NCT07469800"
+  ],
+  "sponsors": [
+    {
+      "name": "Innovent Biologics (Suzhou) Co. Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Innovent%20Biologics%20%28Suzhou%29%20Co.%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 167312357,
+    "iupac_name": "20-[[(1S)-4-[2-[2-[2-[2-[2-[2-[[(5S)-5-[[(2S)-2-[[(2S)-6-amino-2-[[(2S)-6-amino-2-[[(2S)-2-[[(2S)-2-[[(2S)-2-[[(2S)-2-[[(2S)-6-amino-2-[[(2S)-2-[[(2S)-2-[[(2S)-2-[[(2S)-2-[[(2S,3R)-2-[[(2S)-2-[[(2S,3R)-2-[[2-[[(2S)-5-amino-2-[[2-[[(2S)-2-amino-3-(1H-imidazol-4-yl)propanoyl]amino]-2-methylpropanoyl]amino]-5-oxopentanoyl]amino]acetyl]amino]-3-hydroxybutanoyl]amino]-3-phenylpropanoyl]amino]-3-hydroxybutanoyl]amino]-3-hydroxypropanoyl]amino]-3-carboxypropanoyl]amino]-3-(4-hydroxyphenyl)propanoyl]amino]-3-hydroxypropanoyl]amino]hexanoyl]amino]-3-(4-hydroxyphenyl)propanoyl]amino]-4-methylpentanoyl]amino]-3-carboxypropanoyl]amino]-4-carboxybutanoyl]amino]hexanoyl]amino]hexanoyl]amino]propanoyl]amino]-6-[[(2S)-1-[[(2S)-1-[[(2S)-1-[[(2S)-1-[[(2S)-1-[[(2S)-1-[[(2S)-1-[[(2S)-1-[[2-[[2-[(2S)-2-[[(2S)-1-[(2-amino-2-oxoethyl)amino]-3-hydroxy-1-oxopropan-2-yl]carbamoyl]pyrrolidin-1-yl]-2-oxoethyl]amino]-2-oxoethyl]amino]-4-carboxy-1-oxobutan-2-yl]amino]-4-methyl-1-oxopentan-2-yl]amino]-4-methyl-1-oxopentan-2-yl]amino]-3-(1H-indol-3-yl)-1-oxopropan-2-yl]amino]-4-carboxy-1-oxobutan-2-yl]amino]-3-methyl-1-oxobutan-2-yl]amino]-1-oxo-3-phenylpropan-2-yl]amino]-4-carboxy-1-oxobutan-2-yl]amino]-6-oxohexyl]amino]-2-oxoethoxy]ethoxy]ethylamino]-2-oxoethoxy]ethoxy]ethylamino]-1-carboxy-4-oxobutyl]amino]-20-oxoicosanoic acid",
+    "molecular_formula": "C207H317N45O65",
+    "molecular_weight": "4476",
+    "canonical_smiles": null,
+    "inchikey": "XRBYWQZGSZWYEJ-HMQIFOERSA-N",
+    "rxnorm": null
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL5095358",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=IBI362+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=IBI362+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=IBI362+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Overweight",
+    "slug": "overweight"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07469800",
+      "title": "Efficacy and Safety of IBI362 in Hypertensive Patients With Overweight/Obesity",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07469800",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42251595",
+        "title": "Treatment With 9-mg Mazdutide for Weight Reduction in Chinese Adults With Obesity: The GLORY-2 Randomized Clinical Trial.",
+        "pubdate": "2026 Aug 4",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42251595/"
+      },
+      {
+        "pmid": "41407859",
+        "title": "Mazdutide versus placebo in Chinese adults with type 2 diabetes.",
+        "pubdate": "2026 Apr",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41407859/"
+      },
+      {
+        "pmid": "41260459",
+        "title": "Mazdutide versus Semaglutide for the treatment of type 2 diabetes and obesity: Rationale, design and baseline data of DREAMS-3 phase 3 trial.",
+        "pubdate": "2026 Jan",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41260459/"
+      },
+      {
+        "pmid": "41025406",
+        "title": "Shared mechanistic pathways of glucagon signalling: Unlocking its potential for treating obesity, metabolic dysfunction-associated steatotic liver disease, and other cardio-kidney-metabolic conditions.",
+        "pubdate": "2025 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41025406/"
+      },
+      {
+        "pmid": "40832785",
+        "title": "Mazdutide reduces body weight in adults with overweight or obesity: A high-dose Phase 1 trial.",
+        "pubdate": "2025 Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40832785/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "Tirzepatide",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Eli Lilly and Company"
+      },
+      {
+        "name": "Placebo",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Eli Lilly and Company"
+      },
+      {
+        "name": "Retatrutide",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Eli Lilly and Company"
+      }
+    ]
+  }
+}

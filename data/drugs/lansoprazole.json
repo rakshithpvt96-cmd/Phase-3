@@ -1,0 +1,156 @@
+{
+  "drug_name": "Lansoprazole",
+  "slug": "lansoprazole",
+  "enriched_at": "2026-08-16T07:44:18Z",
+  "source_trial_ids": [
+    "NCT06284876"
+  ],
+  "sponsors": [
+    {
+      "name": "Il-Yang Pharm. Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Il-Yang%20Pharm.%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 3883,
+    "iupac_name": "2-[[3-methyl-4-(2,2,2-trifluoroethoxy)-2-pyridinyl]methylsulfinyl]-1H-benzimidazole",
+    "molecular_formula": "C16H14F3N3O2S",
+    "molecular_weight": "369.4",
+    "canonical_smiles": null,
+    "inchikey": "MJIHNNLFOKEZEW-UHFFFAOYSA-N",
+    "rxnorm": {
+      "rxcui": "17128",
+      "generic_name": "lansoprazole",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL480",
+    "target_chembl_id": "CHEMBL2095173",
+    "target_name": "Potassium-transporting ATPase",
+    "mechanism_of_action_chembl": "Potassium-transporting ATPase inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Lansoprazole belongs to a class of antisecretory compounds, the substituted benzimidazoles, that suppress gastric acid secretion by specific inhibition of the (H + , K + )-ATPase enzyme system at the secretory surface of the gastric parietal cell. Because this enzyme system is regarded as the acid (proton) pump within the parietal cell, lansoprazole has been characterized as a gastric acid-pump inhibitor, in that it blocks the final step of acid production. This effect is dose-related and leads to inhibition of both basal and stimulated gastric acid secretion irrespective of the stimulus. Lansoprazole does not exhibit anticholinergic or histamine type-2 antagonist activity.",
+    "pharmacokinetics": "12.3 Pharmacokinetics Absorption : Lansoprazole delayed-release capsules contain an enteric-coated granule formulation of lansoprazole (because lansoprazole is acid-labile), so that absorption of lansoprazole begins only after the granules leave the stomach. The mean peak plasma levels of lansoprazole occur at approximately 1.7 hours. After a single-dose administration of 15 mg to 60 mg of oral lansoprazole, the peak plasma concentrations (C max ) of lansoprazole and the area under the plasma concentration curves (AUCs) of lansoprazole were approximately proportional to the administered dose. Lansoprazole does not accumulate and its pharmacokinetics are unaltered by multiple dosing. The absolute bioavailability is over 80%. In healthy subjects, the mean (±SD) plasma half-life was 1.5 (±1.0) hours. Both the C max and AUC are diminished by about 50% to 70% if lansoprazole is given 30 minutes after food, compared to the fasting condition. There is no significant food effect if lansoprazole is given before meals. Distribution : Lansoprazole is 97% bound to plasma proteins. Plasma protein binding is constant over the concentration range of 0.05 to 5.0 mcg/mL. Elimination: Metabolism : Lansoprazole is extensively metabolized in the liver. Two metabolites have been identified in measurable quantities in plasma (the hydroxylated sulfinyl and sulfone derivatives of lansoprazole). These metabolites have very little or no antisecretory activity. Lansoprazole is thought to be transformed into two active species which inhibit acid secretion by blocking the proton pump [(H + , K + )-ATPase enzyme system] at the secretory surface of the gastric parietal cell. The two active species are not present in the systemic circulation. The plasma elimination half-life of lansoprazole is less than two hours while the acid inhibitory effect lasts more than 24 hours. Therefore, the plasma elimination half-life of lansoprazole does not reflect its duration of suppression of gastric acid secretion. Excretion : Following single-dose oral administration of lansoprazole, virtually no unchanged lansoprazole was excreted in the urine. In one study, after a single oral dose of 14 C-lansoprazole, approximately one-third of the administered radiation was excreted in the urine and two-thirds was recovered in the feces. This implies a significant biliary excretion of the lansoprazole metabolites. Specific Populations Pediatric Patients: One year to 17 years of age The pharmacokinetics of lansoprazole were studied in pediatric patients with GERD aged one year to 11 years and 12 years to 17 years in two separate clinical studies. In children aged one year to 11 years, lansoprazole was dosed 15 mg daily for subjects weighing ≤30 kg and 30 mg daily for subjects weighing greater than 30 kg. Mean C max and AUC values observed on Day 5 of dosing were similar between the two dose groups and were not affected by weight or age within each weight-adjusted dose group used in the study. In adolescent subjects aged 12 years to 17 years, subjects were randomized to receive lansoprazole at 15 mg or 30 mg daily. Mean C max and AUC values of lansoprazole were not affected by body weight or age; and nearly dose-proportional increases in mean C max and AUC values were observed between the two dose groups in the study. Overall, lansoprazole pharmacokinetics in pediatric patients aged 1 year to 17 years were similar to those observed in healthy adult subjects. Ger iatric Patients: The clearance of lansoprazole is decreased in the elderly, with elimination half-life increased approximately 50% to 100%. Because the mean half-life in the elderly remains between 1.9 to 2.9 hours, repeated once daily dosing does not result in accumulation of lansoprazole. Peak plasma levels were not increased in the elderly. No dosage adjustment is necessary in the elderly [see Use in Specific Populations ( 8.5 )]. Male and Female Patients: In a study comparing 12 male and six female human subjects who received lansoprazole, no sex-related differences were found in pharmacokinetics and intragastric pH results. Racial or Ethnic Groups: The pooled mean pharmacokinetic parameters of Lansoprazole from twelve U.S. studies (N=513) were compared to the mean pharmacokinetic parameters from two Asian studies (N=20). The mean AUCs of Lansoprazole in Asian subjects were approximately twice those seen in pooled U.S. data; however, the interindividual variability was high. The C max values were comparable. Patients with Renal Impairment: In patients with severe renal impairment, plasma protein binding decreased by 1.0% to 1.5% after administration of 60 mg of lansoprazole. Patients with renal impairment had a shortened elimination half-life and decreased total AUC (free and bound). The AUC for free lansoprazole in plasma, however, was not related to the degree of renal impairment; and the C max and T max (time to reach the maximum concentration) were not different than the C max and T max from subjects with normal renal function. Therefore, the pharmacokinetics of lansoprazole were not clinically different in patients with mild, moderate or severe renal impairment compared to healthy subjects with normal renal function. Patients with Hepatic Impairment: In patients with mild (Child-Pugh Class A) or moderate (Child-Pugh Class B) hepatic impairment there was an approximate 3-fold increase in mean AUC compared to healthy subjects with normal hepatic function following multiple oral doses of 30 mg Lansoprazole for 7 days. The corresponding mean plasma half-life of lansoprazole was prolonged from 1.5 hours to 4 hours (Child-Pugh A) or 5 hours (Child Pugh B). In patients with compensated and decompensated cirrhosis, there was an approximate 6- and 5-fold increase in AUC, respectively, compared to healthy subjects with normal hepatic function following a single oral dose of 30 mg Lansoprazole [ see Dosage and Administration ( 2.3 ), Use in Specific Populations ( 8.6 )] Drug-Drug Interaction Studies Effect of Lansoprazole on Other Drugs Cytochrome P450 Interactions: Lansoprazole is metabolized through the cytochrome P 450 system, specifically through the CYP3A and CYP2C19 isozymes. Studies have shown that lansoprazole does not have clinically significant interactions with other drugs metabolized by the cytochrome P 450 system, such as warfarin, antipyrine, indomethacin, ibuprofen, phenytoin, propranolol, prednisone, diazepam, or clarithromycin in healthy subjects. These compounds are metabolized through various cytochrome P 450 isozymes including CYP1A2, CYP2C9, CYP2C19, CYP2D6, and CYP3A. Theophylline: When lansoprazole was administered concomitantly with theophylline (CYP1A2, CYP3A), a minor increase (10%) in the clearance of theophylline was seen. Because of the small magnitude and the direction of the effect on theophylline clearance, this interaction is unlikely to be of clinical concern [ see Drug Interactions ( 7 )] Methotrexate and 7-hydromethotrexate : In an open-label, single-arm, eight-day, pharmacokinetic study of 28 adult rheumatoid arthritis patients (who required the chronic use of 7.5 to 15 mg of methotrexate given weekly), administration of seven days of naproxen 500 mg twice daily and lansoprazole 30 mg daily had no effect on the pharmacokinetics of methotrexate and 7-hydroxymethotrexate. While this study was not designed to assess the safety of this combination of drugs, no major adverse reactions were noted. However, this study was conducted with low doses of methotrexate. A drug interaction study with high doses of methotrexate has not been conducted [ see Warnings and Precautions ( 5.10 )]. Amoxicillin: Lansoprazole has also been shown to have no clinically significant interaction with amoxicillin. Sucralfate: In a single-dose crossover study examining lansoprazole 30 mg and omeprazole 20 mg each administered alone and concomitantly with sucralfate 1 gram, absorption of the proton pump inhibitors was delayed and their bioavailability was reduced by 17% and 16%, respectively, when administered concomitantly with sucralfate. Therefore, proton pump inhibitors should be taken at least 30 minutes prior to sucralfate. [see Dosage and Administration ( 2.4 ), Drug Interactions ( 7 )]. Antacids : In clinical trials, antacids were administered concomitantly with lansoprazole and there was no evidence of a change in the efficacy of lansoprazole. Clopidogrel : Clopidogrel is metabolized to its active metabolite in part by CYP2C19. A study of healthy subjects who were CYP2C19 extensive metabolizers, receiving once daily administration of clopidogrel 75 mg alone or concomitantly with lansoprazole 30 mg (n=40), for nine days was conducted. The mean AUC of the active metabolite of clopidogrel was reduced by approximately 14% (mean AUC ratio was 86%, with 90% CI of 80 to 92%) when lansoprazole was coadministered compared to administration of clopidogrel alone. Pharmacodynamic parameters were also measured and demonstrated that the change in inhibition of platelet aggregation (induced by 5 mcM ADP) was related to the change in the exposure to clopidogrel active metabolite. The effect on exposure to the active metabolite of clopidogrel and on clopidogrel-induced platelet inhibition is not considered clinically important. Effect of Other Drugs on Lansoprazole Because lansoprazole is metabolized by CYP2C19 and CYP3A4, inducers and inhibitors of these enzymes may potentially alter exposure of lansoprazole.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE Lansoprazole delayed-release capsules are a proton pump inhibitor (PPI) indicated for the: Treatment of active duodenal ulcer in adults ( 1.1 ) Eradication of H. pylori to reduce the risk of duodenal ulcer recurrence in adults ( 1.2 ) Maintenance of healed duodenal ulcers in adults ( 1.3 ) Treatment of active benign gastric ulcer in adults ( 1.4 ) Healing of nonsteroidal anti-inflammatory drugs (NSAID)-associated gastric ulcer in adults ( 1.5 ) Risk reduction of NSAID-associated gastric ulcer in adults ( 1.6 ) Treatment of symptomatic gastroesophageal reflux disease (GERD) in adults and pediatric patients 1 year of age and older. ( 1.7 ) Treatment of erosive esophagitis (EE) in adults and pediatric patients 1 year of age and older. ( 1.8 ) Maintenance of healing of EE in adults ( 1.9 ) Pathological hypersecretory conditions, including Zollinger-Ellison Syndrome (ZES) in adults ( 1.10 ) 1.1 Treatment of Active Duodenal Ulcer Lansoprazole delayed-release capsules are indicated for short-term treatment (for four weeks) for healing and symptom relief of active duodenal ulcer [see Clinical Studies ( 14.1 )]. 1.2 Eradication of H. pylori to Reduce the Risk of Duodenal Ulcer Recurrence Triple Therapy: lansoprazole/amoxicillin/clarithromycin Lansoprazole delayed-release capsules in combination with amoxicillin plus clarithromycin as triple therapy is indicated for the treatment of patients with H. pylori infection and duodenal ulcer disease (active or one-year history of a duodenal ulcer) to eradicate H. pylori . Eradication of H. pylori has been shown to reduce the risk of duodenal ulcer recurrence [see Clinical Studies ( 14.2 )]. Please refer to the full prescribing information for amoxicillin and clarithromycin. Dual Therapy: lansoprazole/amoxicillin Lansoprazole delayed-release capsules in combination with amoxicillin as dual therapy is indicated for the treatment of patients with H. pylori infection and duodenal ulcer disease (active or one-year history of a duodenal ulcer) who are either allergic or intolerant to clarithromycin or in whom resistance to clarithromycin is known or suspected (see the clarithromycin prescribing information, MICROBIOLOGY section). Eradication of H. pylori has been shown to reduce the risk of duodenal ulcer recurrence [see Clinical Studies ( 14.2 )]. Please refer to the full prescribing information for amoxicillin. 1.3 Maintenance of Healed Duodenal Ulcers Lansoprazole delayed-release capsules are indicated in adults to maintain healing of duodenal ulcers. Controlled studies do not extend beyond 12 months [see Clinical Studies ( 14.3 )]. 1.4 Treatment of Active Benign Gastric Ulcer Lansoprazole delayed-release capsules are indicated in adults for short-term treatment (up to eight weeks) for healing and symptom relief of active benign gastric ulcer [see Clinical Studies ( 14.4 )]. 1.5 Healing of NSAID-Associated Gastric Ulcer Lansoprazole delayed-release capsules are indicated in adults for the treatment of NSAID-associated gastric ulcer in patients who continue NSAID use. Controlled studies did not extend beyond eight weeks [see Clinical Studies ( 14.5 )]. 1.6 Risk Reduction of NSAID-Associated Gastric Ulcer Lansoprazole delayed-release capsules are indicated in adults for reducing the risk of NSAID-associated gastric ulcers in patients with a history of a documented gastric ulcer who require the use of an NSAID. Controlled studies did not extend beyond 12 weeks [see Clinical Studies ( 14.6 )]. 1.7 Treatment of Symptomatic Gastroesophageal Reflux Disease (GERD) Lansoprazole delayed-release capsules are indicated for short-term treatment in adults and pediatric patients 12 years to 17 years of age (up to eight weeks) and pediatric patients one year to 11 years of age (up to 12 weeks) for the treatment of heartburn and other symptoms associated with GERD [see Clinical Studies ( 14.7 ) ]. 1.8 Treatment of Erosive Esophagitis (EE) Lansoprazole delayed-release capsules are indicated for short-term treatment in adults and pediatric patients 12 years to 17 years of age (up to eight weeks) and pediatric patients one year to 11 years of age (up to 12 weeks) for healing and symptom relief of all grades of EE. For adults who do not heal with lansoprazole for eight weeks (5 to 10%), it may be helpful to give an additional eight weeks of treatment. If there is a recurrence of erosive esophagitis an additional eight week course of lansoprazole may be considered [see Clinical Studies ( 14.8 )] 1.9 Maintenance of Healing of EE Lansoprazole delayed-release capsules are indicated in adults to maintain healing of EE. Controlled studies did not extend beyond 12 months [see Clinical Studies ( 14.9 )] 1.10 Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome (ZES) Lansoprazole delayed-release capsules are indicated in adults for the long-term treatment of pathological hypersecretory conditions, including Zollinger-Ellison syndrome [ see Clinical Studies ( 14.10 )].",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "Lansoprazole"
+    ],
+    "openfda_generic_names": [
+      "LANSOPRAZOLE"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7a79feee-2e21-4cd0-a720-c59643764303",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Peptic Ulcer",
+    "slug": "peptic-ulcer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06284876",
+      "title": "Study to Evaluate the Efficacy and Safety of Ilaprazole 10 mg in Prevention NSAIDs Associated Peptic Ulcer",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06284876",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42253103",
+        "title": "Efficacy and Safety of Fexuprazan-Based Modified High-Dose Dual Therapy for Helicobacter pylori Eradication: A Randomized Clinical Trial.",
+        "pubdate": "2026 May-Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42253103/"
+      },
+      {
+        "pmid": "42069497",
+        "title": "Fourteen-day vonoprazan-based dual therapy with amoxicillin as first-line Helicobacter pylori treatment in comparison with sequential therapy: A randomized controlled trial.",
+        "pubdate": "2026 May 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42069497/"
+      },
+      {
+        "pmid": "41893950",
+        "title": "Drug Utilization Pattern of Proton Pump Inhibitors in Patients with Acid Peptic Disease and Comorbidities in India: A Real-World Electronic Medical Records-Based Study.",
+        "pubdate": "2026 Mar 27",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41893950/"
+      },
+      {
+        "pmid": "41620038",
+        "title": "Vonoprazan-Tetracycline Dual Regimen as Rescue Therapy for Helicobacter pylori Infection: Randomized Controlled Trial.",
+        "pubdate": "2026 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41620038/"
+      },
+      {
+        "pmid": "41540828",
+        "title": "Randomized, Double-Blind, Active-Controlled, Parallel, Phase 3 Clinical Trial for Evaluating the Efficacy and Safety of Zastaprazan in Patients with Gastric Ulcers.",
+        "pubdate": "2026 Jul 15",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41540828/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "OMEPRAZOLE",
+        "chembl_id": "CHEMBL1503",
+        "reason": "same target: Potassium-transporting ATPase"
+      },
+      {
+        "name": "DEXLANSOPRAZOLE",
+        "chembl_id": "CHEMBL1201863",
+        "reason": "same target: Potassium-transporting ATPase"
+      },
+      {
+        "name": "OMEPRAZOLE MAGNESIUM",
+        "chembl_id": "CHEMBL1567328",
+        "reason": "same target: Potassium-transporting ATPase"
+      },
+      {
+        "name": "RABEPRAZOLE SODIUM",
+        "chembl_id": "CHEMBL1200930",
+        "reason": "same target: Potassium-transporting ATPase"
+      },
+      {
+        "name": "PANTOPRAZOLE SODIUM",
+        "chembl_id": "CHEMBL3989559",
+        "reason": "same target: Potassium-transporting ATPase"
+      },
+      {
+        "name": "ESOMEPRAZOLE SODIUM",
+        "chembl_id": "CHEMBL1200470",
+        "reason": "same target: Potassium-transporting ATPase"
+      },
+      {
+        "name": "ESOMEPRAZOLE MAGNESIUM",
+        "chembl_id": "CHEMBL5314366",
+        "reason": "same target: Potassium-transporting ATPase"
+      },
+      {
+        "name": "ESOMEPRAZOLE STRONTIUM",
+        "chembl_id": "CHEMBL2146140",
+        "reason": "same target: Potassium-transporting ATPase"
+      },
+      {
+        "name": "VONOPRAZAN FUMARATE",
+        "chembl_id": "CHEMBL2064032",
+        "reason": "same target: Potassium-transporting ATPase"
+      },
+      {
+        "name": "TEGOPRAZAN",
+        "chembl_id": "CHEMBL4297583",
+        "reason": "same target: Potassium-transporting ATPase"
+      }
+    ]
+  }
+}

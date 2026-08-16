@@ -1,0 +1,150 @@
+{
+  "drug_name": "Zimberelimab",
+  "slug": "zimberelimab",
+  "enriched_at": "2026-08-16T07:39:35Z",
+  "source_trial_ids": [
+    "NCT05568095"
+  ],
+  "sponsors": [
+    {
+      "name": "Arcus Biosciences, Inc.",
+      "ticker": "RCUS",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001724521&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2615290",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4297856",
+    "target_chembl_id": "CHEMBL3307223",
+    "target_name": "Programmed cell death protein 1",
+    "mechanism_of_action_chembl": "Programmed cell death protein 1 inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Zimberelimab+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Zimberelimab+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Zimberelimab+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Advanced Upper Gastrointestinal Tract Adenocarcinoma",
+    "slug": "advanced-upper-gastrointestinal-tract-adenocarcinoma"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05568095",
+      "title": "A Clinical Trial of a New Combination Treatment, Domvanalimab and Zimberelimab, Plus Chemotherapy, for People With an Upper Gastrointestinal Tract Cancer That Cannot be Removed With Surgery That Has Spread to Other Parts of the Body",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05568095",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "41268635",
+        "title": "Study design and rationale for the NeoTRACE trial: a multicenter phase II study of neoadjuvant sacituzumab govitecan plus zimberelimab followed by adjuvant zimberelimab with or without sacituzumab govitecan in patients with resectable non-small cell lung cancer.",
+        "pubdate": "2025 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41268635/"
+      },
+      {
+        "pmid": "41109921",
+        "title": "Domvanalimab and zimberelimab in advanced gastric, gastroesophageal junction or esophageal cancer: a phase 2 trial.",
+        "pubdate": "2025 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41109921/"
+      },
+      {
+        "pmid": "39799811",
+        "title": "Long-term follow-up of zimberelimab in relapsed or refractory classic Hodgkin lymphoma: Insights from the phase Ⅱ YH-S001-04 clinical trial.",
+        "pubdate": "2025 Feb",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39799811/"
+      },
+      {
+        "pmid": "38310035",
+        "title": "STAR-121: A Phase III Randomized Study of Domvanalimab and Zimberelimab in Combination With Chemotherapy Versus Pembrolizumab With Chemotherapy in Untreated Metastatic Non-Small Cell Lung Cancer With No Actionable Gene Alterations.",
+        "pubdate": "2024 May",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38310035/"
+      },
+      {
+        "pmid": "37875323",
+        "title": "Efficacy and safety of zimberelimab (GLS-010) monotherapy in patients with recurrent or metastatic cervical cancer: a multicenter, single-arm, phase II study.",
+        "pubdate": "2023 Dec 4",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37875323/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "PEMBROLIZUMAB",
+        "chembl_id": "CHEMBL3137343",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "NIVOLUMAB",
+        "chembl_id": "CHEMBL2108738",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "PIDILIZUMAB",
+        "chembl_id": "CHEMBL2108680",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "CEMIPLIMAB",
+        "chembl_id": "CHEMBL4297723",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "DOSTARLIMAB",
+        "chembl_id": "CHEMBL4298124",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "CAMRELIZUMAB",
+        "chembl_id": "CHEMBL4297715",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "SERPLULIMAB",
+        "chembl_id": "CHEMBL4594550",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "RETIFANLIMAB",
+        "chembl_id": "CHEMBL4298037",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "SPARTALIZUMAB",
+        "chembl_id": "CHEMBL4297831",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "SASANLIMAB",
+        "chembl_id": "CHEMBL4298191",
+        "reason": "same target: Programmed cell death protein 1"
+      }
+    ]
+  }
+}

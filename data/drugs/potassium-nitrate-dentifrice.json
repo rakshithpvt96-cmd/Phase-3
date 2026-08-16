@@ -1,0 +1,99 @@
+{
+  "drug_name": "Potassium nitrate Dentifrice",
+  "slug": "potassium-nitrate-dentifrice",
+  "enriched_at": "2026-08-16T07:34:22Z",
+  "source_trial_ids": [
+    "NCT07215767"
+  ],
+  "sponsors": [
+    {
+      "name": "HALEON",
+      "ticker": "HLN",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001900304&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "34316",
+      "generic_name": "potassium nitrate",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1644029",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "DailyMed",
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3f47f399-1a14-5264-e063-6394a90aeb1c",
+    "note": "A label exists in DailyMed but structured sections could not be parsed automatically -- see dailymed_url for the full label.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Potassium%20nitrate%20Dentifrice+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Potassium%20nitrate%20Dentifrice+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Potassium%20nitrate%20Dentifrice+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Dentin Hypersensitivity",
+    "slug": "dentin-hypersensitivity"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07215767",
+      "title": "Clinical Study to Investigate the Antihypersensitivity Efficacy of a Novel Dentifrice",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07215767",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42501317",
+        "title": "Effect of Whitening Dentifrices on Short-Term Color Stability and Tooth Sensitivity After In-Office Bleaching: A Randomized Single-Blind Clinical Trial.",
+        "pubdate": "2026 Jul 25",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42501317/"
+      },
+      {
+        "pmid": "41213421",
+        "title": "An exploratory randomised controlled clinical trial to evaluate the efficacy of an experimental toothpaste in the relief of dentine hypersensitivity.",
+        "pubdate": "2026 Jan",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41213421/"
+      },
+      {
+        "pmid": "40444818",
+        "title": "Randomized clinical trial evaluating kinetic benefits of desensitizing agents: Magnitude, onset, and stability of relief.",
+        "pubdate": "2025 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40444818/"
+      },
+      {
+        "pmid": "39810073",
+        "title": "Home-use agents in the treatment of dentin hypersensitivity: clinical effectiveness evaluation with different measurement methods.",
+        "pubdate": "2025 Jan 15",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39810073/"
+      },
+      {
+        "pmid": "39566485",
+        "title": "Effect of a Stannous Fluoride Toothpaste Stabilized With Nitrate and Phosphates (SNaP) on Dentin Hypersensitivity: In Vitro Study and Randomized Controlled Trial.",
+        "pubdate": "2024 Nov-Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39566485/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

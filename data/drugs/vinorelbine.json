@@ -1,8 +1,9 @@
 {
   "drug_name": "Vinorelbine",
   "slug": "vinorelbine",
-  "enriched_at": "2026-08-15T21:50:40Z",
+  "enriched_at": "2026-08-16T07:38:34Z",
   "source_trial_ids": [
+    "NCT06343948",
     "NCT06519370"
   ],
   "sponsors": [
@@ -11,6 +12,12 @@
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Shanghai%20Fudan-Zhangjiang%20Bio-Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Sichuan Baili Pharmaceutical Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Sichuan%20Baili%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
@@ -50,10 +57,17 @@
     "further_reading": null
   },
   "condition": {
-    "raw": "Triple Negative Breast Cancer",
-    "slug": "triple-negative-breast-cancer"
+    "raw": "HR+HER2- Breast Cancer",
+    "slug": "hr-her2-breast-cancer"
   },
   "source_trials": [
+    {
+      "nct_id": "NCT06343948",
+      "title": "A Study Comparing BL-B01D1 With Chemotherapy of Physician's Choice in Patients With Unresectable Locally Advanced, Recurrent, or Metastatic HR+HER2- Breast Cancer(PANKU-Breast01)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06343948",
+      "has_results": false
+    },
     {
       "nct_id": "NCT06519370",
       "title": "FDA018-ADC vs Investigator's Choice Chemotherapy to Treat Locally Advanced, Recurrent or Metastatic Triple-negative Breast Cancer",
@@ -100,37 +114,6 @@
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": [
-      {
-        "name": "SKB264",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Sichuan Kelun-Biotech Biopharmaceutical Co., Ltd."
-      },
-      {
-        "name": "Paclitaxel",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Sichuan Kelun-Biotech Biopharmaceutical Co., Ltd."
-      },
-      {
-        "name": "Nab-paclitaxel",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Sichuan Kelun-Biotech Biopharmaceutical Co., Ltd."
-      },
-      {
-        "name": "Capecitabine",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Sichuan Kelun-Biotech Biopharmaceutical Co., Ltd."
-      },
-      {
-        "name": "Eribulin",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Sichuan Kelun-Biotech Biopharmaceutical Co., Ltd."
-      },
-      {
-        "name": "Carboplatin",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Sichuan Kelun-Biotech Biopharmaceutical Co., Ltd."
-      }
-    ]
+    "items": []
   }
 }

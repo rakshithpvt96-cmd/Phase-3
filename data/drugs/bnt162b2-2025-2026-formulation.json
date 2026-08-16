@@ -1,0 +1,109 @@
+{
+  "drug_name": "BNT162b2 (2025/2026 formulation)",
+  "slug": "bnt162b2-2025-2026-formulation",
+  "enriched_at": "2026-08-16T07:41:13Z",
+  "source_trial_ids": [
+    "NCT07222384"
+  ],
+  "sponsors": [
+    {
+      "name": "BioNTech SE",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=BioNTech%20SE&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2722613",
+      "generic_name": "SARS-CoV-2 (COVID-19) vaccine, mRNA-BNT162b2 OMICRON (LP.8.1) Injection [Comirnaty 2025-2026]",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL582440",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=BNT162b2%20%282025/2026%20formulation%29+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=BNT162b2%20%282025/2026%20formulation%29+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=BNT162b2%20%282025/2026%20formulation%29+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "COVID-19",
+    "slug": "covid-19"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07222384",
+      "title": "A Study to Learn About BNT162b2 (LP.8.1)-Adapted Vaccine Against SARS-CoV-2 in Children 5 Through 11 Years of Age That Are Considered at Higher Risk of Severe COVID-19",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT07222384",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "nirmatrelvir",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Pfizer"
+      },
+      {
+        "name": "ritonavir",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Pfizer"
+      },
+      {
+        "name": "VYD2311-SD",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Invivyd, Inc."
+      },
+      {
+        "name": "VYD2311-MD",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Invivyd, Inc."
+      },
+      {
+        "name": "Placebo",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Invivyd, Inc."
+      },
+      {
+        "name": "COVID-19 mRNA vaccine",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Invivyd, Inc."
+      },
+      {
+        "name": "VYD2311",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Invivyd, Inc."
+      },
+      {
+        "name": "Placebo (Normal Saline)",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Invivyd, Inc."
+      }
+    ]
+  }
+}

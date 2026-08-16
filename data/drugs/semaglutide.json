@@ -1,0 +1,184 @@
+{
+  "drug_name": "Semaglutide",
+  "slug": "semaglutide",
+  "enriched_at": "2026-08-16T07:36:11Z",
+  "source_trial_ids": [
+    "NCT06260722",
+    "NCT06534411",
+    "NCT06633783",
+    "NCT07064486"
+  ],
+  "sponsors": [
+    {
+      "name": "BrightGene Bio-Medical Technology Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=BrightGene%20Bio-Medical%20Technology%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Eli Lilly and Company",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Eli%20Lilly%20and%20Company&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Hangzhou Jiuyuan Gene Engineering Co. Ltd.,",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hangzhou%20Jiuyuan%20Gene%20Engineering%20Co.%20Ltd.%2C&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Novo Nordisk A/S",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Novo%20Nordisk%20A/S&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 56843331,
+    "iupac_name": "18-[[(1R)-4-[2-[2-[2-[2-[2-[2-[[(5S)-5-[[(2S)-2-[[(2S)-2-[[(2S)-5-amino-2-[[2-[[(2S)-2-[[(2S)-2-[[(2S)-2-[[(2S)-2-[[(2S)-2-[[(2S)-2-[[(2S)-2-[[(2S)-2-[[(2S,3R)-2-[[(2S)-2-[[(2S,3R)-2-[[2-[[(2S)-2-[[2-[[(2S)-2-amino-3-(1H-imidazol-5-yl)propanoyl]amino]-2-methylpropanoyl]amino]-4-carboxybutanoyl]amino]acetyl]amino]-3-hydroxybutanoyl]amino]-3-phenylpropanoyl]amino]-3-hydroxybutanoyl]amino]-3-hydroxypropanoyl]amino]-3-carboxypropanoyl]amino]-3-methylbutanoyl]amino]-3-hydroxypropanoyl]amino]-3-hydroxypropanoyl]amino]-3-(4-hydroxyphenyl)propanoyl]amino]-4-methylpentanoyl]amino]-4-carboxybutanoyl]amino]acetyl]amino]-5-oxopentanoyl]amino]propanoyl]amino]propanoyl]amino]-6-[[(2S)-1-[[(2S)-1-[[(2S,3S)-1-[[(2S)-1-[[(2S)-1-[[(2S)-1-[[(2S)-1-[[(2S)-5-carbamimidamido-1-[[2-[[(2S)-5-carbamimidamido-1-(carboxymethylamino)-1-oxopentan-2-yl]amino]-2-oxoethyl]amino]-1-oxopentan-2-yl]amino]-3-methyl-1-oxobutan-2-yl]amino]-4-methyl-1-oxopentan-2-yl]amino]-3-(1H-indol-3-yl)-1-oxopropan-2-yl]amino]-1-oxopropan-2-yl]amino]-3-methyl-1-oxopentan-2-yl]amino]-1-oxo-3-phenylpropan-2-yl]amino]-4-carboxy-1-oxobutan-2-yl]amino]-6-oxohexyl]amino]-2-oxoethoxy]ethoxy]ethylamino]-2-oxoethoxy]ethoxy]ethylamino]-1-carboxy-4-oxobutyl]amino]-18-oxooctadecanoic acid",
+    "molecular_formula": "C187H291N45O59",
+    "molecular_weight": "4114",
+    "canonical_smiles": null,
+    "inchikey": "DLSWIYLPEUIQAV-CCUURXOWSA-N",
+    "rxnorm": {
+      "rxcui": "1991302",
+      "generic_name": "semaglutide",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4556788",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Semaglutide is a GLP-1 analogue with 94% sequence homology to human GLP-1. Semaglutide acts as a GLP-1 receptor agonist that selectively binds to and activates the GLP-1 receptor, the target for native GLP-1. GLP-1 is a physiological hormone that has multiple actions on glucose, mediated by the GLP-1 receptors. The principal mechanism of protraction resulting in the long half-life of semaglutide is albumin binding, which results in decreased renal clearance and protection from metabolic degradation. Furthermore, semaglutide is stabilized against degradation by the DPP-4 enzyme. Semaglutide reduces blood glucose through a mechanism where it stimulates insulin secretion and lowers glucagon secretion, both in a glucose-dependent manner. Thus, when blood glucose is high, insulin secretion is stimulated and glucagon secretion is inhibited. The mechanism of blood glucose lowering also involves a minor delay in gastric emptying in the early postprandial phase.",
+    "pharmacokinetics": "12.3 Pharmacokinetics Semaglutide estimated mean steady-state concentration was 6.7 nmol/L and 14.6 nmol/L following once daily oral administration of 7 mg and 14 mg of RYBELSUS, respectively, in patients with type 2 diabetes mellitus. Semaglutide exposures increased in a dose-proportional manner. Steady-state exposure was achieved following 4 to 5 weeks of semaglutide tablets oral administration. Absorption RYBELSUS and OZEMPIC tablets are co-formulated with SNAC which facilitates the absorption of semaglutide after oral administration. The absorption of semaglutide predominantly occurs in the stomach. Semaglutide estimated absolute bioavailability was approximately: • 0.4% to 1% after oral administration of 3 mg, 7 mg and 14 mg of RYBELSUS. • 1% to 2% after oral administration of 1.5 mg, 4 mg and 9 mg of OZEMPIC tablets. Semaglutide maximum concentration was reached approximately 1-hour after oral administration of semaglutide tablets. Effect of Semaglutide Tablet Formulations : There were no clinically significant differences observed in the mean steady state AUC 0-24h,SS and C max,SS between the 3 mg, 7 mg and 14 mg doses of RYBELSUS and the 1.5 mg, 4 mg and 9 mg doses of OZEMPIC tablets, respectively, in a clinical study conducted in healthy subjects. Effect of Volume and Timing of Water Consumption : Single oral doses of semaglutide tablets were administered with 50 mL or 240 mL of water after an 8-hour overnight fast and a continued fast of 4 hours post-dose in healthy subjects. Semaglutide absorption (i.e., area under the curve (AUC) and peak concentrations (C max ) were higher following dosing with 50 mL water compared to that of 240 mL water. For 10 days, healthy subjects received semaglutide tablets once daily doses orally with 50 mL or 120 mL of water under fasting conditions with post-dose fasting period of 15, 30, 60 or 120 minutes. In this study, semaglutide absorption (i.e., AUC and C max ) was higher after a longer post-dose fasting period. There were no clinically significant differences in semaglutide absorption with administration of 50 mL or 120 mL of water. Distribution Semaglutide absolute volume of distribution is approximately 8 L in patients with type 2 diabetes. Semaglutide is >99% bound to plasma albumin. Elimination Semaglutide elimination half-life is approximately one week with an absolute clearance of approximately 0.04 L/hour in patients with type 2 diabetes. Semaglutide is present in the circulation for about five weeks after the last semaglutide tablet dose. Metabolism : The primary route of elimination for semaglutide is metabolism following proteolytic cleavage of the peptide backbone and sequential beta-oxidation of the fatty acid side chain. Excretion : The primary excretion routes of semaglutide-related material are via the urine and feces. Approximately 3% of the absorbed dose is excreted in the urine as intact semaglutide. Specific Populations No clinically significant differences in semaglutide pharmacokinetics were observed based on age (≥18 years old), sex, race (White, Asian or Black or African American), ethnicity, body weight (40 to 188 kg), upper GI disease (i.e., chronic gastritis and/or gastroesophageal reflux disease), hepatic impairment (i.e., mild, moderate, severe based on the Child-Pugh system) and renal impairment (i.e., mild, moderate, severe, end staged renal disease). Drug Interaction Studies Clinical Studies and Model-Informed Approaches : The delay of gastric emptying with semaglutide may influence the absorption of concomitantly administered oral drugs. Trials were conducted to study the potential effect of semaglutide on the absorption of oral drugs taken with semaglutide administered orally at steady-state exposure. Levothyroxine : Total thyroxine (i.e., adjusted for endogenous levels) AUC was increased by 33% following administration of a single dose of levothyroxine 600 mcg concomitantly administered with semaglutide tablets. Maximum exposure (C max ) was unchanged. Other Drugs : No clinically significant differences in semaglutide pharmacokinetics were observed when used concomitantly with omeprazole. No clinically significant differences in the pharmacokinetics of the following drugs were observed when used concomitantly with semaglutide: lisinopril, S-warfarin, R-warfarin, metformin, digoxin, ethinyl estradiol, levonorgestrel, furosemide or rosuvastatin. In Vitro Studies : Semaglutide has very low potential to inhibit or induce CYP enzymes, and to inhibit drug transporters.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE RYBELSUS and OZEMPIC tablets are indicated: • as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus. • to reduce the risk of major adverse cardiovascular (CV) events (CV death, non-fatal myocardial infarction or non-fatal stroke) in adults with type 2 diabetes mellitus who are at high risk for these events. RYBELSUS and OZEMPIC tablets are glucagon-like peptide-1 (GLP-1) receptor agonists indicated: • as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus. ( 1 ) • to reduce the risk of major adverse cardiovascular events (cardiovascular death, non-fatal myocardial infarction, or non-fatal stroke) in adults with type 2 diabetes mellitus who are at high risk for these events. ( 1 )",
+    "boxed_warning": "WARNING: RISK OF THYROID C-CELL TUMORS • In rodents, semaglutide causes dose-dependent and treatment-duration-dependent thyroid C-cell tumors at clinically relevant exposures. It is unknown whether RYBELSUS and OZEMPIC tablets cause thyroid C-cell tumors, including medullary thyroid carcinoma (MTC), in humans as human relevance of semaglutide-induced rodent thyroid C-cell tumors has not been determined [see Warnings and Precautions ( 5.1 ), Nonclinical Toxicology ( 13.1 )] . • RYBELSUS and OZEMPIC tablets are contraindicated in patients with a personal or family history of MTC or in patients with Multiple Endocrine Neoplasia syndrome type 2 (MEN 2) [see Contraindications ( 4 )] . Counsel patients regarding the potential risk for MTC with the use of RYBELSUS or OZEMPIC tablets and inform them of symptoms of thyroid tumors (e.g., a mass in the neck, dysphagia, dyspnea, persistent hoarseness). Routine monitoring of serum calcitonin or using thyroid ultrasound is of uncertain value for early detection of MTC in patients treated with RYBELSUS or OZEMPIC tablets [see Contraindications ( 4 ), Warnings and Precautions ( 5.1 )]. WARNING: RISK OF THYROID C-CELL TUMORS See full prescribing information for complete boxed warning. • In rodents, semaglutide causes thyroid C-cell tumors. It is unknown whether RYBELSUS and OZEMPIC tablets cause thyroid C-cell tumors, including medullary thyroid carcinoma (MTC), in humans as the human relevance of semaglutide-induced rodent thyroid C-cell tumors has not been determined ( 5.1 , 13.1 ). • RYBELSUS and OZEMPIC tablets are contraindicated in patients with a personal or family history of MTC or in patients with Multiple Endocrine Neoplasia syndrome type 2 (MEN 2). Counsel patients regarding the potential risk of MTC and symptoms of thyroid tumors ( 4 , 5.1 ).",
+    "openfda_brand_names": [
+      "OZEMPIC",
+      "RYBELSUS"
+    ],
+    "openfda_generic_names": [
+      "ORAL SEMAGLUTIDE"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=42bdd912-2393-44c4-b7e0-47672ca28991",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Obesity",
+    "slug": "obesity"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06260722",
+      "title": "Effect of Retatrutide Compared With Semaglutide in Adult Participants With Type 2 Diabetes and Inadequate Glycemic Control With Metformin With or Without SGLT2 Inhibitor (TRANSCEND-T2D-2)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06260722",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06534411",
+      "title": "A Research Study to See How Much CagriSema Lowers Blood Sugar and Body Weight Compared to Tirzepatide in People With Type 2 Diabetes Treated With Metformin, SGLT2 Inhibitor or Both",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT06534411",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06633783",
+      "title": "A Phase III Study Comparing the Weight Loss Effects of Semaglutide Injection and Wegovy®",
+      "status": "NOT_YET_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06633783",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT07064486",
+      "title": "A Study of BGM0504 in Participants With Type 2 Diabetes in Indonesia",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07064486",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42598626",
+        "title": "Efficacy and safety of semaglutide injection in Indian patients with type 2 diabetes mellitus inadequately controlled on metformin: A phase 3, randomized, active-controlled, multicenter, non-inferiority trial (WIN-IND study).",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42598626/"
+      },
+      {
+        "pmid": "42590128",
+        "title": "Anti-Obesity Medications in Longevity and Aesthetic Medicine.",
+        "pubdate": "2026 Aug 3",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42590128/"
+      },
+      {
+        "pmid": "42582425",
+        "title": "Potential nephroprotective mechanisms of orforglipron, an oral non-peptide GLP-1 receptor agonist.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42582425/"
+      },
+      {
+        "pmid": "42580587",
+        "title": "EQ-5D Health Utility Gains with Once-Weekly Semaglutide 2.4 mg in People with MASH and F2/F3 Fibrosis: An Analysis of ESSENCE.",
+        "pubdate": "2026 Aug 11",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42580587/"
+      },
+      {
+        "pmid": "42573665",
+        "title": "Semaglutide as a potential neuroprotective agent for neurological and neurodegenerative disorders: Mechanisms, preclinical evidence, and translational challenges and opportunities.",
+        "pubdate": "2026 Aug 10",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42573665/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "Tirzepatide",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Eli Lilly and Company"
+      },
+      {
+        "name": "Placebo",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Eli Lilly and Company"
+      },
+      {
+        "name": "RAY1225",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Guangdong Raynovent Biotech Co., Ltd"
+      },
+      {
+        "name": "Retatrutide",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Eli Lilly and Company"
+      },
+      {
+        "name": "TQF3510 (Semaglutide Injection)",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Chia Tai Tianqing Pharmaceutical Group Co., Ltd."
+      },
+      {
+        "name": "Wegovy®",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Chia Tai Tianqing Pharmaceutical Group Co., Ltd."
+      },
+      {
+        "name": "IBI362",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Innovent Biologics (Suzhou) Co. Ltd."
+      }
+    ]
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "drug_name": "Bortezomib",
+  "slug": "bortezomib",
+  "enriched_at": "2026-08-16T07:41:25Z",
+  "source_trial_ids": [
+    "NCT06152575"
+  ],
+  "sponsors": [
+    {
+      "name": "Pfizer",
+      "ticker": "PFE",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000078003&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 387447,
+    "iupac_name": "[(1R)-3-methyl-1-[[(2S)-3-phenyl-2-(pyrazine-2-carbonylamino)propanoyl]amino]butyl]boronic acid",
+    "molecular_formula": "C19H25BN4O4",
+    "molecular_weight": "384.2",
+    "canonical_smiles": null,
+    "inchikey": "GXJABQQUPOEUTA-RDJZCZTQSA-N",
+    "rxnorm": {
+      "rxcui": "358258",
+      "generic_name": "bortezomib",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL325041",
+    "target_chembl_id": "CHEMBL2364701",
+    "target_name": "26S proteasome",
+    "mechanism_of_action_chembl": "26S proteasome inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Bortezomib is a reversible inhibitor of the chymotrypsin-like activity of the 26S proteasome in mammalian cells. The 26S proteasome is a large protein complex that degrades ubiquitinated proteins. The ubiquitin-proteasome pathway plays an essential role in regulating the intracellular concentration of specific proteins, thereby maintaining homeostasis within cells. Inhibition of the 26S proteasome prevents this targeted proteolysis, which can affect multiple signaling cascades within the cell. This disruption of normal homeostatic mechanisms can lead to cell death. Experiments have demonstrated that bortezomib is cytotoxic to a variety of cancer cell types in vitro . Bortezomib causes a delay in tumor growth in vivo in nonclinical tumor models, including multiple myeloma.",
+    "pharmacokinetics": "12.3 Pharmacokinetics Following intravenous administration of 1 mg/m 2 and 1.3 mg/m 2 doses, the mean maximum plasma concentrations of bortezomib (C max ) after the first dose (Day 1) were 57 and 112 ng/mL, respectively. When administered twice weekly, the mean maximum observed plasma concentrations ranged from 67 to 106 ng/mL for the 1 mg/m 2 dose and 89 to 120 ng/mL for the 1.3 mg/m 2 dose. Following an intravenous bolus or subcutaneous injection of a 1.3 mg/m 2 dose to patients with multiple myeloma, the total systemic exposure after repeat dose administration (AUC last ) was equivalent for subcutaneous and intravenous administration. The AUC last geometric mean ratio (90% confidence interval) was 0.99 (0.80 to 1.23). The C max after subcutaneous administration (20.4 ng/mL) was lower than after intravenous administration (223 ng/mL) with repeat dose administration. Distribution The mean distribution volume of bortezomib ranged from approximately 498 to 1884 L/m 2 following single- or repeat-dose administration of 1 mg/m 2 or 1.3 mg/m 2 to patients with multiple myeloma. The binding of bortezomib to human plasma proteins averaged 83% over the concentration range of 100 to 1000 ng/mL. Elimination The mean elimination half-life of bortezomib upon multiple dosing ranged from 40 to 193 hours after the 1 mg/m 2 dose and 76 to 108 hours after the 1.3 mg/m 2 dose. The mean total body clearances were 102 and 112 L/h following the first dose for doses of 1 mg/m 2 and 1.3 mg/m 2 , respectively, and ranged from 15 to 32 L/h following subsequent doses for doses of 1 and 1.3 mg/m 2 , respectively. Metabolism Bortezomib is primarily oxidatively metabolized to several inactive metabolites in vitro via cytochrome P450 (CYP) enzymes 3A4, CYP2C19, and CYP1A2, and to a lesser extent by CYP2D6 and CYP2C9. Excretion The pathways of elimination of bortezomib have not been characterized in humans. Specific Populations No clinically significant differences in the pharmacokinetics of bortezomib were observed based on age, sex, or renal impairment (including patients administered bortezomib after dialysis). The effect of race on bortezomib pharmacokinetics is unknown. Patients with Hepatic Impairment Following administration of bortezomib doses ranging from 0.5 to 1.3 mg/m 2 , mild (total bilirubin ≤1x ULN and AST > ULN, or total bilirubin >1 to 1.5x ULN and any AST) hepatic impairment did not alter dose-normalized bortezomib AUC when compared to patients with normal hepatic function. Dose normalized mean bortezomib AUC increased by approximately 60% in patients with moderate (total bilirubin >1.5 to 3x ULN and any AST) or severe (total bilirubin >3x ULN and any AST) hepatic impairment. A lower starting dose is recommended in patients with moderate or severe hepatic impairment. Drug Interaction Studies Clinical Studies No clinically significant differences in bortezomib pharmacokinetics were observed when coadministered with dexamethasone (weak CYP3A4 inducer), omeprazole (strong CYP2C19 inhibitor), or melphalan in combination with prednisone. Strong CYP3A4 Inhibitor Coadministration with ketoconazole (strong CYP3A4 inhibitor) increased bortezomib exposure by 35%. Strong CYP3A4 Inducer Coadministration with rifampin (strong CYP3A4 inducer) decreased bortezomib exposure by approximately 45%. In Vitro Studies Bortezomib may inhibit CYP2C19 activity and increase exposure to drugs that are substrates for this enzyme.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE Bortezomib for injection is a proteasome inhibitor indicated for: • treatment of adult patients with multiple myeloma ( 1.1 ) • treatment of adult patients with mantle cell lymphoma ( 1.2 ) 1.1 Multiple Myeloma Bortezomib for injection is indicated for the treatment of adult patients with multiple myeloma. 1.2 Mantle Cell Lymphoma Bortezomib for injection is indicated for the treatment of adult patients with mantle cell lymphoma.",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "Bortezomib"
+    ],
+    "openfda_generic_names": [
+      "BORTEZOMIB"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=decb5d94-2ea2-48d8-b08b-3196b24c0ed3",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Multiple Myeloma",
+    "slug": "multiple-myeloma"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06152575",
+      "title": "MagnetisMM-32: A Study to Learn About the Study Medicine Called Elranatamab in People With Multiple Myeloma (MM) That Has Come Back After Taking Other Treatments (Including Prior Treatment With an Anti-CD38 Antibody and Lenalidomide)",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06152575",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42544613",
+        "title": "Selinexor combined bortezomib, lenalidomide, and dexamethasone for newly diagnosed multiple myeloma with high-risk factors: a single-arm, multi-center, prospective observational clinical study.",
+        "pubdate": "2026 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42544613/"
+      },
+      {
+        "pmid": "42537584",
+        "title": "MYC rearrangement improves the predictive efficacy of the double-hit model in newly diagnosed multiple myeloma.",
+        "pubdate": "2026 Jul 31",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42537584/"
+      },
+      {
+        "pmid": "42530826",
+        "title": "Revolutionizing 2L+ Myeloma: A Podcast on the New Era of BCMA-Targeted Bispecific Antibody Therapies.",
+        "pubdate": "2026 Jul 30",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42530826/"
+      },
+      {
+        "pmid": "42456135",
+        "title": "Continuous or Fixed-Duration Maintenance Therapy in Multiple Myeloma.",
+        "pubdate": "2026 Jul 16",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42456135/"
+      },
+      {
+        "pmid": "42418224",
+        "title": "Belantamab mafodotin, a BCMA-directed antibody-drug conjugate for multiple myeloma.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42418224/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "CARFILZOMIB",
+        "chembl_id": "CHEMBL451887",
+        "reason": "same target: 26S proteasome"
+      },
+      {
+        "name": "IXAZOMIB CITRATE",
+        "chembl_id": "CHEMBL3545432",
+        "reason": "same target: 26S proteasome"
+      },
+      {
+        "name": "OPROZOMIB",
+        "chembl_id": "CHEMBL2103884",
+        "reason": "same target: 26S proteasome"
+      },
+      {
+        "name": "IXAZOMIB",
+        "chembl_id": "CHEMBL2141296",
+        "reason": "same target: 26S proteasome"
+      },
+      {
+        "name": "BORTEZOMIB D-MANNITOL",
+        "chembl_id": "CHEMBL5315122",
+        "reason": "same target: 26S proteasome"
+      }
+    ]
+  }
+}

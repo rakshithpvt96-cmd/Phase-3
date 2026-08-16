@@ -1,0 +1,156 @@
+{
+  "drug_name": "Fruquintinib",
+  "slug": "fruquintinib",
+  "enriched_at": "2026-08-16T07:42:41Z",
+  "source_trial_ids": [
+    "NCT04164199"
+  ],
+  "sponsors": [
+    {
+      "name": "BeOne Medicines",
+      "ticker": "ONC",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001651308&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 44480399,
+    "iupac_name": "6-(6,7-dimethoxyquinazolin-4-yl)oxy-N,2-dimethyl-1-benzofuran-3-carboxamide",
+    "molecular_formula": "C21H19N3O5",
+    "molecular_weight": "393.4",
+    "canonical_smiles": null,
+    "inchikey": "BALLNEJQLSTPIO-UHFFFAOYSA-N",
+    "rxnorm": {
+      "rxcui": "2670179",
+      "generic_name": "fruquintinib",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4303214",
+    "target_chembl_id": "CHEMBL2095227",
+    "target_name": "Vascular endothelial growth factor receptor",
+    "mechanism_of_action_chembl": "Vascular endothelial growth factor receptor inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1. Mechanism of Action Fruquintinib is a small molecule kinase inhibitor of vascular endothelial growth factor receptors (VEGFR)-1, -2, and -3 with IC 50 values of 33, 35, and 0.5 nM, respectively. In vitro studies showed fruquintinib inhibited VEGF-mediated endothelial cell proliferation and tubular formation. In vitro and in vivo studies showed fruquintinib inhibited VEGF-induced VEGFR-2 phosphorylation. In vivo studies showed fruquintinib inhibited tumor growth in a tumor xenograft mouse model of colon cancer.",
+    "pharmacokinetics": "12.3. Pharmacokinetics The fruquintinib steady-state geometric mean (% coefficient of variation [CV]) maximum concentration (C max ) is 300 ng/mL (28%) and area under the concentration-time curve for the dosing interval (AUC 0-24h ) is 5880 ng∙h/mL (29%) at the recommended dosage. The fruquintinib C max and AUC 0-24h are dose-proportional across the dosage range of 1 to 6 mg (0.2 to 1.2 times the recommended dosage). Fruquintinib steady state is achieved after 14 days with a mean AUC 0-24h accumulation of 4-fold. Absorption The fruquintinib median (min, max) time to C max is approximately 2 hours (0, 26 hours). Effect of Food No clinically significant differences in fruquintinib pharmacokinetics were observed following administration of a high-fat meal (800 to 1000 calories, 50% fat). Distribution The mean (SD) apparent volume of distribution of fruquintinib is approximately 46 (13) L. Plasma protein binding of fruquintinib is approximately 95%. Elimination The fruquintinib mean (SD) elimination half-life is approximately 42 (11) hours and the apparent clearance is 14.8 (4.4) mL/min. Metabolism Fruquintinib is primarily eliminated by CYP450 and non-CYP450 (i.e., sulfation and glucuronidation) metabolism. CYP3A and to a lesser extent CYP2C8, CYP2C9, and CYP2C19 are the CYP450 enzymes involved in fruquintinib metabolism. Excretion Following oral administration of a 5 mg radiolabeled fruquintinib dose, approximately 60% of the dose was recovered in urine (0.5% unchanged) and 30% of the dose was recovered in feces (5% unchanged). Specific Populations No clinically significant differences in the pharmacokinetics of fruquintinib were observed based on age (18 to 82 years), sex, race (Asian, Black, and White), ethnicity (Hispanic/Latino vs. non-Hispanic/Latino), body weight (48 to 108 kg), mild to severe renal impairment (CLcr 15 to 89 mL/min estimated by the Cockcroft-Gault equation), mild hepatic impairment (total bilirubin less than or equal to ULN with AST greater than ULN or total bilirubin greater than 1 to 1.5 times ULN with any AST). The effect of moderate to severe hepatic impairment (total bilirubin greater than 1.5 times ULN and any AST) on fruquintinib pharmacokinetics is unknown. Drug Interaction Studies Clinical Studies and Model-Informed Approaches Strong CYP3A inducers: Fruquintinib C max decreased by 12% and AUC inf by 65% following concomitant use with rifampin (strong CYP3A inducer). Moderate CYP3A inducers: Fruquintinib C max is predicted to decrease by 4% and AUC inf by 32% following concomitant use with efavirenz (moderate CYP3A inducer). Other Drugs: No clinically significant differences in fruquintinib pharmacokinetics were observed when used concomitantly with itraconazole (strong CYP3A inhibitor) or rabeprazole (proton pump inhibitor; gastric acid reducing agent). No clinically significant differences in the pharmacokinetics of the following drugs were observed when used concomitantly with fruquintinib: dabigatran etexilate (P-gp substrate), or rosuvastatin (BCRP substrate). In Vitro Studies Cytochrome P450 Enzymes: Fruquintinib is not an inhibitor of CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6 and CYP3A, or an inducer of CYP1A2, CYP2B6, CYP3A. Transporter Systems: Fruquintinib is not a substrate of P-glycoprotein (P-gp), organic anion transporting polypeptide (OATP)1B1 or OATP1B3. Fruquintinib is not an inhibitor of OATP1B1, OATP1B3, organic anion transporter (OAT)1, OAT3, organic cation transporter (OCT)2, multidrug and toxin extrusion protein (MATE)1, or MATE2-K.",
+    "indications_and_usage": "1. INDICATIONS AND USAGE FRUZAQLA is indicated for the treatment of adult patients with metastatic colorectal cancer (mCRC) who have been previously treated with fluoropyrimidine‑, oxaliplatin‑, and irinotecan‑based chemotherapy, an anti‑VEGF therapy, and, if RAS wild‑type and medically appropriate, an anti-EGFR therapy. FRUZAQLA is a kinase inhibitor indicated for the treatment of adult patients with metastatic colorectal cancer (mCRC) who have been previously treated with fluoropyrimidine‑, oxaliplatin‑, and irinotecan‑based chemotherapy, an anti‑VEGF therapy, and, if RAS wild‑type and medically appropriate, an anti-EGFR therapy. ( 1 )",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "Fruzaqla"
+    ],
+    "openfda_generic_names": [
+      "FRUQUINTINIB"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=186d786e-dc8a-45f2-b5e1-01ac0201879f",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Advanced Malignancies",
+    "slug": "advanced-malignancies"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04164199",
+      "title": "Study of Tislelizumab, Pamiparib, and Other Investigational Agents in Participants With Advanced Malignancies",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT04164199",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42428050",
+        "title": "Optimizing third-line and beyond therapies for metastatic colorectal cancer in Taiwan: an evidence-based consensus.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42428050/"
+      },
+      {
+        "pmid": "42248751",
+        "title": "Fruquintinib or Regorafenib? A Weighted Toxicity Score Analysis to Facilitate Better Discussions on Toxicity and Benefits in Later-line Colorectal Cancer Treatment.",
+        "pubdate": "2026 May 12",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42248751/"
+      },
+      {
+        "pmid": "42206059",
+        "title": "Sintilimab plus fruquintinib with or without radiotherapy for third-line treatment of colorectal cancer with liver metastases: study protocol for a randomized controlled, multicenter phase II trial.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42206059/"
+      },
+      {
+        "pmid": "42128747",
+        "title": "Late-line Systemic Therapy in Metastatic Colorectal Cancer: A Narrative Review and Australian Expert Perspective.",
+        "pubdate": "2026 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42128747/"
+      },
+      {
+        "pmid": "41815543",
+        "title": "Explore the efficacy of microwave ablation combined with fruquintinib and tislelizumab in the treatment of metastatic colorectal cancer.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41815543/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "SUNITINIB MALATE",
+        "chembl_id": "CHEMBL1567",
+        "reason": "same target: Vascular endothelial growth factor receptor"
+      },
+      {
+        "name": "AXITINIB",
+        "chembl_id": "CHEMBL1289926",
+        "reason": "same target: Vascular endothelial growth factor receptor"
+      },
+      {
+        "name": "VANDETANIB",
+        "chembl_id": "CHEMBL24828",
+        "reason": "same target: Vascular endothelial growth factor receptor"
+      },
+      {
+        "name": "SORAFENIB TOSYLATE",
+        "chembl_id": "CHEMBL1200485",
+        "reason": "same target: Vascular endothelial growth factor receptor"
+      },
+      {
+        "name": "PAZOPANIB HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1201733",
+        "reason": "same target: Vascular endothelial growth factor receptor"
+      },
+      {
+        "name": "REGORAFENIB",
+        "chembl_id": "CHEMBL1946170",
+        "reason": "same target: Vascular endothelial growth factor receptor"
+      },
+      {
+        "name": "NINTEDANIB ESYLATE",
+        "chembl_id": "CHEMBL3039504",
+        "reason": "same target: Vascular endothelial growth factor receptor"
+      },
+      {
+        "name": "LENVATINIB MESYLATE",
+        "chembl_id": "CHEMBL2105704",
+        "reason": "same target: Vascular endothelial growth factor receptor"
+      },
+      {
+        "name": "SU-014813",
+        "chembl_id": "CHEMBL1721885",
+        "reason": "same target: Vascular endothelial growth factor receptor"
+      },
+      {
+        "name": "4SC-203",
+        "chembl_id": "CHEMBL5314406",
+        "reason": "same target: Vascular endothelial growth factor receptor"
+      }
+    ]
+  }
+}

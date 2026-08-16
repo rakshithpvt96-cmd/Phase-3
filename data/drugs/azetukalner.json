@@ -1,0 +1,109 @@
+{
+  "drug_name": "Azetukalner",
+  "slug": "azetukalner",
+  "enriched_at": "2026-08-16T07:40:37Z",
+  "source_trial_ids": [
+    "NCT06775379"
+  ],
+  "sponsors": [
+    {
+      "name": "Xenon Pharmaceuticals Inc.",
+      "ticker": "XENE",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001582313&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 24743936,
+    "iupac_name": "N-[4-(6-fluoro-3,4-dihydro-1H-isoquinolin-2-yl)-2,6-dimethylphenyl]-3,3-dimethylbutanamide",
+    "molecular_formula": "C23H29FN2O",
+    "molecular_weight": "368.5",
+    "canonical_smiles": null,
+    "inchikey": "FJNPZKZPWVVSON-UHFFFAOYSA-N",
+    "rxnorm": {
+      "rxcui": "2721349",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL5095264",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Azetukalner+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Azetukalner+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Azetukalner+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Major Depressive Disorder",
+    "slug": "major-depressive-disorder"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06775379",
+      "title": "A Randomized Study of Azetukalner Versus Placebo in Major Depressive Disorder",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06775379",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "40423966",
+        "title": "Azetukalner, a Novel KV7 Potassium Channel Opener, in Adults With Major Depressive Disorder: A Randomized Clinical Trial.",
+        "pubdate": "2025 May 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40423966/"
+      },
+      {
+        "pmid": "40053315",
+        "title": "Interim analysis of the long-term efficacy and safety of azetukalner in an ongoing open-label extension study following a phase 2b clinical trial (X-TOLE) in adults with focal epilepsy.",
+        "pubdate": "2025 Apr",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40053315/"
+      },
+      {
+        "pmid": "38571335",
+        "title": "A profile of azetukalner for the treatment of epilepsy: from pharmacology to potential for therapy.",
+        "pubdate": "2024 May-Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38571335/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "DT120",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Definium Therapeutics US, Inc."
+      },
+      {
+        "name": "CYB003",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Cybin IRL Limited"
+      },
+      {
+        "name": "Placebo",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Cybin IRL Limited"
+      }
+    ]
+  }
+}

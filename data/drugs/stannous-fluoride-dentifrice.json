@@ -1,0 +1,99 @@
+{
+  "drug_name": "Stannous fluoride Dentifrice",
+  "slug": "stannous-fluoride-dentifrice",
+  "enriched_at": "2026-08-16T07:36:41Z",
+  "source_trial_ids": [
+    "NCT07215767"
+  ],
+  "sponsors": [
+    {
+      "name": "HALEON",
+      "ticker": "HLN",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001900304&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "10030",
+      "generic_name": "stannous fluoride",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1909079",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Stannous%20fluoride%20Dentifrice+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Stannous%20fluoride%20Dentifrice+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Stannous%20fluoride%20Dentifrice+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Dentin Hypersensitivity",
+    "slug": "dentin-hypersensitivity"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07215767",
+      "title": "Clinical Study to Investigate the Antihypersensitivity Efficacy of a Novel Dentifrice",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07215767",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42571895",
+        "title": "Oral malodor control with a stabilized stannous fluoride toothpaste compared to sodium monofluorophosphate: A randomized controlled trial.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42571895/"
+      },
+      {
+        "pmid": "42533623",
+        "title": "Zinc-stabilized stannous fluoride modulates the periodontal microbiome, reducing Fusobacteria, key Gram-negative species, and overall inflammation within an experimental gingivitis clinical trial.",
+        "pubdate": "2026 Jul 31",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42533623/"
+      },
+      {
+        "pmid": "41156831",
+        "title": "Multi-Omics Insights into Gingivitis from a Clinical Trial: Understanding the Role of Bacterial and Host Factors.",
+        "pubdate": "2025 Oct 15",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41156831/"
+      },
+      {
+        "pmid": "40550352",
+        "title": "Metals, fluoride and bioactive glass on dentin hypersensitivity and quality of life: A 6-month double-blind randomized clinical trial.",
+        "pubdate": "2025 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40550352/"
+      },
+      {
+        "pmid": "40455955",
+        "title": "A 3-month randomized trial evaluating the effects of stannous fluoride bioavailability on gingivitis.",
+        "pubdate": "2025 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40455955/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

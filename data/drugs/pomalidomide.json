@@ -1,0 +1,140 @@
+{
+  "drug_name": "Pomalidomide",
+  "slug": "pomalidomide",
+  "enriched_at": "2026-08-16T07:34:08Z",
+  "source_trial_ids": [
+    "NCT03539744",
+    "NCT06152575"
+  ],
+  "sponsors": [
+    {
+      "name": "AbbVie",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=AbbVie&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Pfizer",
+      "ticker": "PFE",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000078003&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 134780,
+    "iupac_name": "4-amino-2-(2,6-dioxopiperidin-3-yl)isoindole-1,3-dione",
+    "molecular_formula": "C13H11N3O4",
+    "molecular_weight": "273.24",
+    "canonical_smiles": null,
+    "inchikey": "UVSMNLNDYGZFPF-UHFFFAOYSA-N",
+    "rxnorm": {
+      "rxcui": "1369713",
+      "generic_name": "pomalidomide",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL43452",
+    "target_chembl_id": "CHEMBL3833061",
+    "target_name": "CRL4(CRBN) E3 ubiquitin ligase",
+    "mechanism_of_action_chembl": "CRL4(CRBN) E3 ubiquitin ligase inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Pomalidomide is an analogue of thalidomide with immunomodulatory, antiangiogenic, and antineoplastic properties. Cellular activities of pomalidomide are mediated through its target cereblon, a component of a cullin ring E3 ubiquitin ligase enzyme complex. In vitro, in the presence of drug, substrate proteins (including Aiolos and Ikaros) are targeted for ubiquitination and subsequent degradation leading to direct cytotoxic and immunomodulatory effects. In in vitro cellular assays, pomalidomide inhibited proliferation and induced apoptosis of hematopoietic tumor cells. Additionally, pomalidomide inhibited the proliferation of lenalidomide-resistant multiple myeloma (MM) cell lines and synergized with dexamethasone in both lenalidomide-sensitive and lenalidomide-resistant cell lines to induce tumor cell apoptosis. Pomalidomide enhanced T cell- and natural killer (NK) cell-mediated immunity and inhibited production of pro-inflammatory cytokines (e.g., TNF-α and IL-6) by monocytes. Pomalidomide demonstrated anti-angiogenic activity in a mouse tumor model and in the in vitro umbilical cord model.",
+    "pharmacokinetics": "12.3 Pharmacokinetics In patients with MM who received pomalidomide 4 mg daily alone or in combination with dexamethasone, pomalidomide steady-state drug exposure was characterized by AUC (CV%) of 860 (37%) ng∙h/mL and C max (CV%) of 75 (32%) ng/mL. In patients with Kaposi sarcoma (KS) who received pomalidomide 5 mg daily, pomalidomide steady-state drug exposure was characterized by AUC of 462.3 ng∙h/mL (82%) and C max of 53.1 ng/mL (50%). Absorption Following administration of single oral doses of pomalidomide, the maximum plasma concentration (C max ) for pomalidomide occurs at 2 to 3 hours postdose in patients with MM or KS. Effect of Food Co-administration of pomalidomide capsules with a high-fat meal (approximately 50% of the total caloric content) and high-calorie meal (approximately 800 to 1000 calories) (the meal contained approximately 150, 250, and 500 to 600 calories from protein, carbohydrates, and fat, respectively) delays the T max by 2.5 hours, decreased mean plasma C max and AUC in healthy subjects by about 27% and 8%, respectively. Distribution Pomalidomide has a mean apparent volume of distribution (Vd/F) between 62 and 138 L at steady state in patients with MM or KS. Pomalidomide is distributed in semen of healthy subjects at a concentration of approximately 67% of plasma level at 4 hours postdose (~T max ) after 4 days of 2 mg once-daily dosing. Human plasma protein binding of pomalidomide ranges from 12% to 44% and is not concentration dependent. Pomalidomide is a substrate for P-gp. Elimination Pomalidomide has a mean total body clearance (CL/F) of 7-10 L/h in patients with MM or KS. Pomalidomide is eliminated with a median plasma half-life of 9.5 hours in healthy subjects and 7.5 hours in patients with MM or KS. Metabolism Pomalidomide is primarily metabolized in the liver by CYP1A2 and CYP3A4. Minor contributions from CYP2C19 and CYP2D6 were also observed in vitro. Excretion Following a single oral administration of [ 14 C]-pomalidomide to healthy subjects, approximately 73% and 15% of the radioactive dose was eliminated in urine and feces, respectively, with approximately 2% and 8% of the radiolabeled dose eliminated unchanged as pomalidomide in urine and feces. Specific Populations Age (61 to 85 years old), sex and race have no clinically significant effect on the systemic exposure of pomalidomide. Patients with Renal Impairment Pomalidomide pharmacokinetic parameters were not significantly affected in patients with moderate (30 mL/min ≤ CLcr< 60 mL/min) or severe (15 mL/min ≤ CLcr< 30 mL/min) renal impairment relative to patients with normal renal function (CLcr ≥ 60 mL/min). Mean exposure (AUC) to pomalidomide increased by 38% in patients with severe renal impairment requiring dialysis (CLcr< 30 mL/min requiring dialysis) and 40% in patients with end stage renal disease (CLcr< 15 mL/min) on non-dialysis days. In patients with severe renal impairment requiring dialysis, the estimated dialysis clearance is approximately 12 L/h which is higher than pomalidomide total body clearance, indicating hemodialysis will remove pomalidomide from the blood circulation. Patients with Hepatic Impairment Mean exposure (AUC) of pomalidomide increased by 51%, 58% and 72% in subjects with mild, moderate or severe hepatic impairment as defined by Child-Pugh criteria, respectively. Drug Interaction Studies Clinical Studies Co-administration of pomalidomide with the following drugs did not increase pomalidomide exposure to a clinically significant extent: ketoconazole (a strong CYP3A4 and P-gp inhibitor), carbamazepine (a strong CYP3A4 inducer) and dexamethasone (a weak to moderate CYP3A4 inducer). Co-administration of pomalidomide capsules with drugs that are CYP1A2 inducers has not been studied. CYP1A2 Inhibitors: Co-administration of fluvoxamine (a strong CYP1A2 inhibitor) with pomalidomide increased mean [90% confidence interval] pomalidomide exposure by 125% [98% to 157%] compared to pomalidomide alone in healthy subjects. Co-administration of fluvoxamine in the presence of ketoconazole (a strong CYP3A4 and P-gp inhibitor) with pomalidomide increased mean pomalidomide exposure by 146% [126% to 167%] compared to pomalidomide administered alone in healthy subjects, indicating the predominant effect of CYP1A2 inhibition in the increase of pomalidomide exposure [see Dosage and Administration (2.6) and Drug Interactions (7.1 )]. Strong CYP3A4 and P-gp Inhibitors: Co-administration of ketoconazole (a strong CYP3A4 and P-gp inhibitor) in 16 healthy male subjects increased AUC of pomalidomide by 19% compared to pomalidomide administered alone. Strong CYP1A2 Inducers: Co-administration of pomalidomide capsules with drugs that are CYP1A2 inducers has not been studied and may reduce pomalidomide exposure. Strong CYP3A4 Inducers: Co-administration of carbamazepine to 16 healthy male subjects decreased AUC of pomalidomide by 20% with a 90% confidence interval [13% to 27%] compared to when pomalidomide was administered alone. Dexamethasone: Co-administration of multiple doses of 4 mg pomalidomide capsules with 20 mg to 40 mg dexamethasone (a weak to moderate inducer of CYP3A4) to patients with MM had no effect on thepharmacokinetics of pomalidomide compared to when pomalidomide was administered alone. Smoking: In 14 healthy male subjects who smoked 25 cigarettes per day for a total of 10 days, after single oral dose of 4 mg pomalidomide capsules, C max of pomalidomide increased 14% while AUC of pomalidomide decreased 32%, compared to that in 13 healthy male subjects who were non-smokers. In Vitro Studies Pomalidomide does not inhibit or induce cytochrome p450 enzymes or transporters in vitro.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE Pomalidomide capsules are a thalidomide analogue indicated for the treatment of adult patients: in combination with dexamethasone, for patients with multiple myeloma (MM) who have received at least two prior therapies including lenalidomide and a proteasome inhibitor and have demonstrated disease progression on or within 60 days of completion of the last therapy ( 1.1 ). with AIDS-related Kaposi sarcoma (KS) after failure of highly active antiretroviral therapy (HAART) or in patients with KS who are HIV-negative. This indication is approved under accelerated approval based on overall response rate. Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial(s) ( 1.2 ). 1.1 Multiple Myeloma Pomalidomide, in combination with dexamethasone, are indicated for adult patients with multiple myeloma (MM) who have received at least two prior therapies including lenalidomide and a proteasome inhibitor and have demonstrated disease progression on or within 60 days of completion of the last therapy. 1.2 Kaposi Sarcoma Pomalidomide capsules are indicated for the treatment of: Adult patients with AIDS-related Kaposi sarcoma (KS) after failure of highly active antiretroviral therapy (HAART). Kaposi sarcoma (KS) in adult patients who are HIV-negative. This indication is approved under accelerated approval based on overall response rate [see Clinical Studies (14.2 )]. Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial(s).",
+    "boxed_warning": "BOXED WARNING WARNING: EMBRYO-FETAL TOXICITY and VENOUS AND ARTERIAL THROMBOEMBOLISM Embryo-Fetal Toxicity Pomalidomide capsules are contraindicated in pregnancy. Pomalidomide capsules are a thalidomide analogue. Thalidomide is a known human teratogen that causes severe birth defects or embryo-fetal death. In females of reproductive potential, obtain 2 negative pregnancy tests before starting pomalidomide capsules treatment. Females of reproductive potential must use 2 forms of contraception or continuously abstain from heterosexual sex during and for 4 weeks after stopping pomalidomide capsules treatment [see Contraindications (4), Warnings and Precautions (5.1) and Use in Specific Populations (8.1, 8.3 )]. Pomalidomide capsules are only available through a restricted distribution program called PS-Pomalidomide REMS [see Warnings and Precautions (5.2 )]. Information about PS-Pomalidomide REMS is available at www.PS-PomalidomideREMS.com or by calling the REMS Call Center at 1-888-423-5436. Venous and Arterial Thromboembolism Deep venous thrombosis (DVT), pulmonary embolism (PE), myocardial infarction, and stroke occur in patients with multiple myeloma treated with pomalidomide capsules. Prophylactic antithrombotic measures were employed in clinical trials. Thromboprophylaxis is recommended, and the choice of regimen should be based on assessment of the patient's underlying risk factors [see Warnings and Precautions (5.3 )]. WARNING: EMBRYO-FETAL TOXICITY and VENOUS AND ARTERIAL THROMBOEMBOLISM See full prescribing information for complete boxed warning EMBRYO-FETAL TOXICITY Pomalidomide capsules are contraindicated in pregnancy. Pomalidomide capsules are a thalidomide analogue. Thalidomide is a known human teratogen that causes severe life-threatening birth defects ( 4, 5.1, 8.1 ). For females of reproductive potential: Exclude pregnancy before start of treatment. Prevent pregnancy during treatment by the use of 2 reliable methods of contraception ( 5.1, 8.3 ). Pomalidomide capsules are available only through a restricted program called PS-Pomalidomide REMS ( 5.2 ). VENOUS AND ARTERIAL THROMBOEMBOLISM Deep venous thrombosis (DVT), pulmonary embolism (PE), myocardial infarction, and stroke occur in patients with multiple myeloma treated with pomalidomide capsules. Antithrombotic prophylaxis is recommended ( 5.3 ).",
+    "openfda_brand_names": [
+      "Pomalidomide"
+    ],
+    "openfda_generic_names": [
+      "POMALIDOMIDE"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=dee932c5-0c7c-45f0-b2bb-c027badee537",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Multiple Myeloma",
+    "slug": "multiple-myeloma"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT03539744",
+      "title": "A Study Designed to Evaluate the Safety and Efficacy of Venetoclax Plus Dexamethasone (VenDex) Compared With Pomalidomide Plus Dexamethasone (PomDex) in Participants With t(11;14)-Positive Relapsed or Refractory Multiple Myeloma.",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT03539744",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06152575",
+      "title": "MagnetisMM-32: A Study to Learn About the Study Medicine Called Elranatamab in People With Multiple Myeloma (MM) That Has Come Back After Taking Other Treatments (Including Prior Treatment With an Anti-CD38 Antibody and Lenalidomide)",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06152575",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42530826",
+        "title": "Revolutionizing 2L+ Myeloma: A Podcast on the New Era of BCMA-Targeted Bispecific Antibody Therapies.",
+        "pubdate": "2026 Jul 30",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42530826/"
+      },
+      {
+        "pmid": "42418224",
+        "title": "Belantamab mafodotin, a BCMA-directed antibody-drug conjugate for multiple myeloma.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42418224/"
+      },
+      {
+        "pmid": "42294841",
+        "title": "Talquetamab-Daratumumab in Relapsed or Refractory Myeloma.",
+        "pubdate": "2026 Aug 13",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42294841/"
+      },
+      {
+        "pmid": "42253630",
+        "title": "Biological Drivers of IMiD-Induced Peripheral Neuropathy in Multiple Myeloma.",
+        "pubdate": "2026 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42253630/"
+      },
+      {
+        "pmid": "42243065",
+        "title": "Simulation Framework to Investigate Efficacy and Ocular Safety of Belantamab Mafodotin Combinations in Relapsed/Refractory Multiple Myeloma.",
+        "pubdate": "2026 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42243065/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "THALIDOMIDE",
+        "chembl_id": "CHEMBL468",
+        "reason": "same target: CRL4(CRBN) E3 ubiquitin ligase"
+      },
+      {
+        "name": "LENALIDOMIDE",
+        "chembl_id": "CHEMBL848",
+        "reason": "same target: CRL4(CRBN) E3 ubiquitin ligase"
+      },
+      {
+        "name": "IBERDOMIDE",
+        "chembl_id": "CHEMBL3989927",
+        "reason": "same target: CRL4(CRBN) E3 ubiquitin ligase"
+      },
+      {
+        "name": "LENALIDOMIDE HYDROCHLORIDE MONOHYDRATE",
+        "chembl_id": "CHEMBL6068337",
+        "reason": "same target: CRL4(CRBN) E3 ubiquitin ligase"
+      }
+    ]
+  }
+}

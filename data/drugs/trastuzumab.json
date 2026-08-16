@@ -1,0 +1,150 @@
+{
+  "drug_name": "Trastuzumab",
+  "slug": "trastuzumab",
+  "enriched_at": "2026-08-16T07:37:47Z",
+  "source_trial_ids": [
+    "NCT05152147"
+  ],
+  "sponsors": [
+    {
+      "name": "Jazz Pharmaceuticals",
+      "ticker": "JAZZ",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001232524&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "224905",
+      "generic_name": "trastuzumab",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1201585",
+    "target_chembl_id": "CHEMBL1824",
+    "target_name": "Receptor tyrosine-protein kinase erbB-2",
+    "mechanism_of_action_chembl": "Receptor protein-tyrosine kinase erbB-2 inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Ado-trastuzumab emtansine is a HER2-targeted antibody-drug conjugate. The antibody is the humanized anti-HER2 IgG1, trastuzumab. The small molecule cytotoxin, DM1, is a microtubule inhibitor. Upon binding to sub-domain IV of the HER2 receptor, ado-trastuzumab emtansine undergoes receptor-mediated internalization and subsequent lysosomal degradation, resulting in intracellular release of DM1-containing cytotoxic catabolites. Binding of DM1 to tubulin disrupts microtubule networks in the cell, which results in cell cycle arrest and apoptotic cell death. In addition, in vitro studies have shown that similar to trastuzumab, ado-trastuzumab emtansine inhibits HER2 receptor signaling, mediates antibody-dependent cell-mediated cytotoxicity and inhibits shedding of the HER2 extracellular domain in human breast cancer cells that overexpress HER2.",
+    "pharmacokinetics": "12.3 Pharmacokinetics The pharmacokinetics of KADCYLA was evaluated in a phase 1 study and in a population pharmacokinetic analysis for the ado-trastuzumab emtansine conjugate (ADC) using pooled data from 5 trials in patients with breast cancer. A linear two-compartment model with first-order elimination from the central compartment adequately describes the ADC concentration-time profile. In addition to ADC, the pharmacokinetics of total antibody (conjugated and unconjugated trastuzumab), DM1 were also determined. The population pharmacokinetic analysis of ADC suggested no difference in KADCYLA exposure based on disease status (adjuvant vs. metastatic setting). The pharmacokinetics of KADCYLA are summarized below. Distribution Maximum concentrations (C max ) of ADC and DM1 were observed close to the end of infusion. In EMILIA, mean (SD) ADC and DM1 Cycle 1 C max following KADCYLA administration was 83.4 (16.5) µg/mL and 4.61 (1.61) ng/mL, respectively. In KATHERINE, mean (SD) ADC and DM1 Cycle 1 C max following KADCYLA administration was 72.6 (24.3) µg/mL and 4.71 (2.25) ng/mL, respectively. In vitro , the mean binding of DM1 to human plasma proteins was 93%. In vitro, DM1 was a substrate of P-glycoprotein (P-gp). Based on population pharmacokinetic analysis, the central volume of distribution of ADC was 3.13 L. Metabolism In vitro studies indicate that DM1, the small molecule component of KADCYLA, undergoes metabolism by CYP3A4/5. DM1 did not inhibit or induce major CYP450 enzymes in vitro. In human plasma, ado-trastuzumab emtansine catabolites MCC-DM1, Lys-MCC-DM1, and DM1 were detected at low levels. Elimination Based on population pharmacokinetic analysis, following intravenous infusion of KADCYLA, the clearance of the ADC was 0.68 L/day and the elimination half-life (t 1/2 ) was approximately 4 days. No accumulation of KADCYLA was observed after repeated dosing of intravenous infusion every 3 weeks. Based on population pharmacokinetic analysis (n=671), body weight, sum of longest diameter of target lesions by RECIST, HER2 extracellular domain (ECD) concentrations, AST, albumin, and baseline trastuzumab concentrations were identified as statistically significant covariates for ado-trastuzumab emtansine clearance. However, the magnitude of effect of these covariates on ado-trastuzumab emtansine exposure suggests that, with the exception of body weight, these covariates are unlikely to have a clinically meaningful effect on KADCYLA exposure. Therefore, the body weight based dose of 3.6 mg/kg every 3 weeks without correction for other covariates is considered appropriate. Effect of Renal Impairment Based on population pharmacokinetic analysis in 668 patients, including moderate (CLcr 30 - 59 mL/min, n=53) and mild (CLcr 60 - 89 mL/min, n=254) renal impairment, indicate that pharmacokinetics of the ADC is not affected by mild to moderate renal impairment as compared to normal renal function (CLcr ≥ 90 mL/min, n=361). Data from only one patient with severe renal impairment (CLcr < 30 mL/min) is available [see Use in Specific Populations (8.7) ] . Effect of Hepatic Impairment The liver is a primary organ for eliminating DM1 and DM1-containing catabolites. The pharmacokinetics of ado-trastuzumab emtansine and DM1-containing catabolites were evaluated after the administration of 3.6 mg/kg of KADCYLA to metastatic HER2-positive breast cancer patients with normal hepatic function (n=10), mild (Child-Pugh A; n=10) and moderate (Child-Pugh B; n=8) hepatic impairment. – Plasma concentrations of DM1 and DM1-containing catabolites (Lys-MCC-DM1 and MCC-DM1) were low and comparable between patients with and without hepatic impairment. – Systemic exposures (AUC) of ado-trastuzumab emtansine at Cycle 1 in patients with mild and moderate hepatic impairment were approximately 38% and 67% lower than that of patients with normal hepatic function, respectively. Ado-trastuzumab emtansine exposure (AUC) at Cycle 3 after repeated dosing in patients with mild or moderate hepatic dysfunction was within the range observed in patients with normal hepatic function. KADCYLA has not been studied in patients with severe hepatic impairment (Child-Pugh class C). Effects of Age and Race Based on population pharmacokinetic analysis, age (< 65 [n=577]; 65 - 75 (n=78); > 75 [n=16]) and race (Asian [n=73]; non-Asian [n=598]) do not have a clinically meaningful effect on the pharmacokinetics of ado-trastuzumab emtansine.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE KADCYLA is a HER2-targeted antibody and microtubule inhibitor conjugate indicated, as a single agent, for: the treatment of patients with HER2-positive, metastatic breast cancer who previously received trastuzumab and a taxane, separately or in combination. Patients should have either: received prior therapy for metastatic disease, or developed disease recurrence during or within six months of completing adjuvant therapy. ( 1.1 ) the adjuvant treatment of patients with HER2-positive early breast cancer who have residual invasive disease after neoadjuvant taxane and trastuzumab-based treatment. ( 1.2 ) Select patients for therapy based on an FDA-authorized test for KADCYLA [see Dosage and Administration (2.1) ] 1.1 Metastatic Breast Cancer (MBC) KADCYLA ® , as a single agent, is indicated for the treatment of patients with HER2-positive, metastatic breast cancer who previously received trastuzumab and a taxane, separately or in combination. Patients should have either: Received prior therapy for metastatic disease, or Developed disease recurrence during or within six months of completing adjuvant therapy. Select patients for therapy based on an FDA-authorized test for KADCYLA [ see Dosage and Administration (2.1) ]. 1.2 Early Breast Cancer (EBC) KADCYLA, as a single agent, is indicated for the adjuvant treatment of patients with HER2-positive early breast cancer who have residual invasive disease after neoadjuvant taxane and trastuzumab -based treatment. Select patients for therapy based on an FDA-authorized test for KADCYLA [ see Dosage and Administration (2.1) ].",
+    "boxed_warning": "WARNING: HEPATOTOXICITY, CARDIAC TOXICITY, EMBRYO-FETAL TOXICITY Hepatotoxicity: Serious hepatotoxicity has been reported, including liver failure and death in patients treated with KADCYLA. Monitor serum transaminases and bilirubin prior to initiation of KADCYLA treatment and prior to each KADCYLA dose. Reduce dose or discontinue KADCYLA as appropriate in cases of increased serum transaminases or total bilirubin. ( 2.3 , 5.1 ) Cardiac Toxicity: KADCYLA administration may lead to reductions in left ventricular ejection fraction (LVEF). Evaluate left ventricular function in all patients prior to and during treatment with KADCYLA. Withhold treatment for clinically significant decrease in left ventricular function. ( 2.3 , 5.2 ) Embryo-Fetal Toxicity: Exposure to KADCYLA during pregnancy can result in embryo-fetal harm. Advise patients of these risks and the need for effective contraception. ( 5.3 , 8.1 , 8.3 ) WARNING: HEPATOTOXICITY, CARDIAC TOXICITY, EMBRYO-FETAL TOXICITY See full prescribing information for complete boxed warning Hepatotoxicity, liver failure and death have occurred in KADCYLA-treated patients. Monitor hepatic function prior to initiation and prior to each dose. Institute dose modifications or permanently discontinue as appropriate. ( 2.3 , 5.1 ) KADCYLA may lead to reductions in left ventricular ejection fraction (LVEF). Assess LVEF prior to initiation. Monitor and withhold dosing or discontinue as appropriate. ( 2.3 , 5.2 ) Embryo-Fetal Toxicity: Exposure to KADCYLA during pregnancy can result in embryo-fetal harm. Advise patients of these risks and the need for effective contraception. ( 5.3 , 8.1 , 8.3 )",
+    "openfda_brand_names": [
+      "KADCYLA"
+    ],
+    "openfda_generic_names": [
+      "ADO-TRASTUZUMAB EMTANSINE"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9a94f5b2-b84e-4987-8ea1-c4346db5a5fa",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Gastric Neoplasms",
+    "slug": "gastric-neoplasms"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05152147",
+      "title": "A Study of Zanidatamab in Combination With Chemotherapy Plus or Minus Tislelizumab in Patients With HER2-positive Advanced or Metastatic Gastric and Esophageal Cancers",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05152147",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42575050",
+        "title": "Trastuzumab deruxtecan rechallenge in HER2-positive metastatic breast cancer: EN-SEMBLE.",
+        "pubdate": "2026 Jul 22",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42575050/"
+      },
+      {
+        "pmid": "42551191",
+        "title": "A mouse PDX clinical trial reveals broad efficacy of niraparib and vc-seco-DUBA anti-HER2 ADC SYD985 in HER2/neu expressing endometrial cancer.",
+        "pubdate": "2026 Aug 4",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42551191/"
+      },
+      {
+        "pmid": "42550611",
+        "title": "Molecular evaluation of residual disease following neoadjuvant chemotherapy in triple negative breast cancer CALGB40603 (Alliance).",
+        "pubdate": "2026 Aug 4",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42550611/"
+      },
+      {
+        "pmid": "42562949",
+        "title": "AKAP13 regulates GLI1/ULK1 axis and drive tumor resistance to next-generation HER2-targeted therapies.",
+        "pubdate": "2026 Aug 6",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42562949/"
+      },
+      {
+        "pmid": "42507167",
+        "title": "Cycloastragenol overcomes trastuzumab resistance in HER2-positive breast cancer by regulating cell cycle and epithelial-mesenchymal transition through EZH2/PTEN/AKT pathway.",
+        "pubdate": "2026 Jul 27",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42507167/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "PERTUZUMAB",
+        "chembl_id": "CHEMBL2007641",
+        "reason": "same target: Receptor tyrosine-protein kinase erbB-2"
+      },
+      {
+        "name": "TRASTUZUMAB EMTANSINE",
+        "chembl_id": "CHEMBL1743082",
+        "reason": "same target: Receptor tyrosine-protein kinase erbB-2"
+      },
+      {
+        "name": "LAPATINIB DITOSYLATE",
+        "chembl_id": "CHEMBL1201179",
+        "reason": "same target: Receptor tyrosine-protein kinase erbB-2"
+      },
+      {
+        "name": "AFATINIB DIMALEATE",
+        "chembl_id": "CHEMBL2105712",
+        "reason": "same target: Receptor tyrosine-protein kinase erbB-2"
+      },
+      {
+        "name": "AC-480",
+        "chembl_id": "CHEMBL1645462",
+        "reason": "same target: Receptor tyrosine-protein kinase erbB-2"
+      },
+      {
+        "name": "ALLITINIB",
+        "chembl_id": "CHEMBL1947204",
+        "reason": "same target: Receptor tyrosine-protein kinase erbB-2"
+      },
+      {
+        "name": "CP-724714",
+        "chembl_id": "CHEMBL483321",
+        "reason": "same target: Receptor tyrosine-protein kinase erbB-2"
+      },
+      {
+        "name": "CUDC-101",
+        "chembl_id": "CHEMBL598797",
+        "reason": "same target: Receptor tyrosine-protein kinase erbB-2"
+      },
+      {
+        "name": "JNJ-26483327",
+        "chembl_id": "CHEMBL3109738",
+        "reason": "same target: Receptor tyrosine-protein kinase erbB-2"
+      },
+      {
+        "name": "AV-412",
+        "chembl_id": "CHEMBL6067986",
+        "reason": "same target: Receptor tyrosine-protein kinase erbB-2"
+      }
+    ]
+  }
+}

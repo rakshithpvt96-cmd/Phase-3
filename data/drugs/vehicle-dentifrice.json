@@ -1,0 +1,99 @@
+{
+  "drug_name": "Vehicle Dentifrice",
+  "slug": "vehicle-dentifrice",
+  "enriched_at": "2026-08-16T07:38:07Z",
+  "source_trial_ids": [
+    "NCT07215767"
+  ],
+  "sponsors": [
+    {
+      "name": "HALEON",
+      "ticker": "HLN",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001900304&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "693233",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2108661",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Vehicle%20Dentifrice+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Vehicle%20Dentifrice+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Vehicle%20Dentifrice+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Dentin Hypersensitivity",
+    "slug": "dentin-hypersensitivity"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07215767",
+      "title": "Clinical Study to Investigate the Antihypersensitivity Efficacy of a Novel Dentifrice",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07215767",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "39566486",
+        "title": "Stannous Fluoride Toothpaste Stabilized With Nitrate and Phosphates (SNaP) Reduces Oral Malodor: A Randomized Clinical Study.",
+        "pubdate": "2024 Nov-Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39566486/"
+      },
+      {
+        "pmid": "31772463",
+        "title": "Comparing the Effectiveness of Probiotic, Green Tea, and Chlorhexidine- and Fluoride-containing Dentifrices on Oral Microbial Flora: A Double-blind, Randomized Clinical Trial.",
+        "pubdate": "2018 Oct-Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31772463/"
+      },
+      {
+        "pmid": "20606431",
+        "title": "Preventive effect of high-fluoride dentifrice (5,000 ppm) in caries-active adolescents: a 2-year clinical trial.",
+        "pubdate": "2010",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20606431/"
+      },
+      {
+        "pmid": "16965523",
+        "title": "Effect of triclosan/copolymer-containing toothpaste on the association between plaque and gingival bleeding: a randomized controlled clinical trial.",
+        "pubdate": "2006 Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16965523/"
+      },
+      {
+        "pmid": "11763912",
+        "title": "Essential oils in an antiplaque and antigingivitis dentifrice: a 6-month study.",
+        "pubdate": "2000 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11763912/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

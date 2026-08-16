@@ -1,0 +1,101 @@
+{
+  "drug_name": "Dupilumab 300mg Dose",
+  "slug": "dupilumab-300mg-dose",
+  "enriched_at": "2026-08-16T07:42:08Z",
+  "source_trial_ids": [
+    "NCT06389136"
+  ],
+  "sponsors": [
+    {
+      "name": "AbbVie",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=AbbVie&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1876401",
+      "generic_name": "2 ML dupilumab 150 MG/ML Prefilled Syringe",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2108675",
+    "target_chembl_id": "CHEMBL3580490",
+    "target_name": "Interleukin-4 receptor subunit alpha",
+    "mechanism_of_action_chembl": "Interleukin-4 receptor subunit alpha antagonist"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Dupilumab%20300mg%20Dose+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Dupilumab%20300mg%20Dose+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Dupilumab%20300mg%20Dose+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Atopic Dermatitis",
+    "slug": "atopic-dermatitis"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06389136",
+      "title": "A Study of Upadacitinib in Adult Participants With Moderate-to-Severe Atopic Dermatitis and Inadequate Response to Dupilumab",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06389136",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "27268421",
+        "title": "Dupilumab therapy provides clinically meaningful improvement in patient-reported outcomes (PROs): A phase IIb, randomized, placebo-controlled, clinical trial in adult patients with moderate to severe atopic dermatitis (AD).",
+        "pubdate": "2016 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27268421/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "Jaktinib Hydrochloride Tablet",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Suzhou Zelgen Biopharmaceuticals Co.,Ltd"
+      },
+      {
+        "name": "Rocatinlimab",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Amgen"
+      },
+      {
+        "name": "Ruxolitinib",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Incyte Corporation"
+      },
+      {
+        "name": "Vehicle Cream",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Incyte Corporation"
+      },
+      {
+        "name": "CM310",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Keymed Biosciences Co.Ltd"
+      }
+    ]
+  }
+}

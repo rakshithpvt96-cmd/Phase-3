@@ -1,0 +1,150 @@
+{
+  "drug_name": "Irinotecan/Tegafur",
+  "slug": "irinotecan-tegafur",
+  "enriched_at": "2026-08-16T07:43:59Z",
+  "source_trial_ids": [
+    "NCT04415853"
+  ],
+  "sponsors": [
+    {
+      "name": "Sunshine Lake Pharma Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Sunshine%20Lake%20Pharma%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "4582",
+      "generic_name": "tegafur",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL3989514",
+    "target_chembl_id": "CHEMBL1781",
+    "target_name": "DNA topoisomerase 1",
+    "mechanism_of_action_chembl": "DNA topoisomerase I inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Irinotecan/Tegafur+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Irinotecan/Tegafur+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Irinotecan/Tegafur+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Esophageal Cancer",
+    "slug": "esophageal-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04415853",
+      "title": "Study of Larotinib in Unresectable Advanced or Recurrent Esophageal Cancer",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04415853",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "34015686",
+        "title": "Metastatic colorectal cancer: Advances in the folate-fluoropyrimidine chemotherapy backbone.",
+        "pubdate": "2021 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34015686/"
+      },
+      {
+        "pmid": "30940189",
+        "title": "Irinotecan plus S-1 versus S-1 in patients with previously treated recurrent or metastatic esophageal cancer (ESWN 01): a prospective randomized, multicenter, open-labeled phase 3 trial.",
+        "pubdate": "2019 Apr 2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30940189/"
+      },
+      {
+        "pmid": "30806758",
+        "title": "A study of second-line irinotecan plus cisplatin vs. irinotecan alone in platinum-naïve patients with early relapse of gastric cancer refractory to adjuvant S-1 monotherapy: exploratory subgroup analysis of the randomized phase III TRICS trial.",
+        "pubdate": "2019 May",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30806758/"
+      },
+      {
+        "pmid": "29644459",
+        "title": "A phase II study of bevacizumab and irinotecan plus alternate-day S-1 as a second-line therapy in patients with metastatic colorectal cancer: the AIRS study.",
+        "pubdate": "2018 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29644459/"
+      },
+      {
+        "pmid": "29372461",
+        "title": "Phase II study of oxaliplatin, irinotecan and S-1 therapy in patients with advanced gastric cancer: the Korean Cancer Study Group ST14-11.",
+        "pubdate": "2018 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29372461/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "TOPOTECAN HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1607",
+        "reason": "same target: DNA topoisomerase 1"
+      },
+      {
+        "name": "BECATECARIN",
+        "chembl_id": "CHEMBL2107313",
+        "reason": "same target: DNA topoisomerase 1"
+      },
+      {
+        "name": "ETIRINOTECAN PEGOL",
+        "chembl_id": "CHEMBL3039558",
+        "reason": "same target: DNA topoisomerase 1"
+      },
+      {
+        "name": "IRINOTECAN SUCROSOFATE",
+        "chembl_id": "CHEMBL5314381",
+        "reason": "same target: DNA topoisomerase 1"
+      },
+      {
+        "name": "TRASTUZUMAB DERUXTECAN",
+        "chembl_id": "CHEMBL4297844",
+        "reason": "same target: DNA topoisomerase 1"
+      },
+      {
+        "name": "SACITUZUMAB GOVITECAN",
+        "chembl_id": "CHEMBL3545262",
+        "reason": "same target: DNA topoisomerase 1"
+      },
+      {
+        "name": "TLC-388",
+        "chembl_id": "CHEMBL4594352",
+        "reason": "same target: DNA topoisomerase 1"
+      },
+      {
+        "name": "DIFLOMOTECAN",
+        "chembl_id": "CHEMBL306280",
+        "reason": "same target: DNA topoisomerase 1"
+      },
+      {
+        "name": "RUBITECAN",
+        "chembl_id": "CHEMBL77305",
+        "reason": "same target: DNA topoisomerase 1"
+      },
+      {
+        "name": "BELOTECAN",
+        "chembl_id": "CHEMBL2111084",
+        "reason": "same target: DNA topoisomerase 1"
+      }
+    ]
+  }
+}

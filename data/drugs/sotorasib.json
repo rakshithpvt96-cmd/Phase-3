@@ -1,0 +1,126 @@
+{
+  "drug_name": "Sotorasib",
+  "slug": "sotorasib",
+  "enriched_at": "2026-08-16T07:36:27Z",
+  "source_trial_ids": [
+    "NCT06497556"
+  ],
+  "sponsors": [
+    {
+      "name": "Hoffmann-La Roche",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hoffmann-La%20Roche&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 137278711,
+    "iupac_name": "6-fluoro-7-(2-fluoro-6-hydroxyphenyl)-1-(4-methyl-2-propan-2-yl-3-pyridinyl)-4-[(2S)-2-methyl-4-prop-2-enoylpiperazin-1-yl]pyrido[2,3-d]pyrimidin-2-one",
+    "molecular_formula": "C30H30F2N6O3",
+    "molecular_weight": "560.6",
+    "canonical_smiles": null,
+    "inchikey": "NXQKSXLFSAEQCZ-SFHVURJKSA-N",
+    "rxnorm": {
+      "rxcui": "2550714",
+      "generic_name": "sotorasib",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL5174767",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Sotorasib is an inhibitor of KRAS G12C, a tumor-restricted, mutant-oncogenic form of the RAS GTPase, KRAS. Sotorasib forms an irreversible, covalent bond with the unique cysteine of KRAS G12C, locking the protein in an inactive state that prevents downstream signaling without affecting wild-type KRAS. Sotorasib blocked KRAS signaling, inhibited cell growth, and promoted apoptosis only in KRAS G12C tumor cell lines. Sotorasib inhibited KRAS G12C in vitro and in vivo with minimal detectable off-target activity. In mouse tumor xenograft models, sotorasib-treatment led to tumor regressions and prolonged survival, and was associated with anti-tumor immunity in KRAS G12C models. In the setting of KRAS G12C-mutant CRC, epidermal growth factor receptor (EGFR) activation has been identified as a mechanism of resistance to KRAS G12C inhibition. In a murine patient-derived colorectal tumor xenograft model, the combination of sotorasib and panitumumab, an EGFR antagonist, had increased antitumor activity compared to either sotorasib or panitumumab alone.",
+    "pharmacokinetics": "12.3 Pharmacokinetics The pharmacokinetics of sotorasib have been characterized in healthy subjects and in patients with KRAS G12C -mutated solid tumors, including NSCLC. Sotorasib exhibited non-linear, time-dependent, pharmacokinetics over the dose range of 180 mg to 960 mg (0.19 to 1 time the approved recommended dosage) once daily with similar systemic exposure (i.e., AUC 0-24h and C max ) across doses at steady state. Sotorasib systemic exposure was comparable between film-coated tablets and film-coated tablets predispersed in water administered under fasted conditions. Sotorasib plasma concentrations reached steady state within 22 days. No accumulation was observed after repeat LUMAKRAS dosages with a mean accumulation ratio of 0.56 (coefficient of variation (CV): 59%). Absorption The median time to sotorasib peak plasma concentration is 1 hour. Effect of Food When 960 mg LUMAKRAS was administered with a high-fat, high-calorie meal (containing approximately 800 to 1000 calories with 150, 250, and 500 to 600 calories from protein, carbohydrate and fat, respectively) in patients, sotorasib AUC 0-24h increased by 25% compared to administration under fasted conditions. Distribution The sotorasib mean volume of distribution (V d ) at steady state is 211 L (CV: 135%). In vitro , sotorasib plasma protein binding is 89%. Elimination The sotorasib mean terminal elimination half-life is 5 hours (standard deviation (SD): 2). At 960 mg LUMAKRAS once daily, the sotorasib steady state apparent clearance is 26.2 L/hr (CV: 76%). Metabolism The main metabolic pathways of sotorasib are non-enzymatic conjugation and oxidative metabolism with CYP3As. Excretion After a single dose of radiolabeled sotorasib, 74% of the dose was recovered in feces (53% unchanged) and 6% (1% unchanged) in urine. Specific Populations No clinically meaningful differences in the pharmacokinetics of sotorasib were observed based on age (28 to 86 years), sex, race (White, Black and Asian), body weight (36.8 to 157.9 kg), line of therapy, ECOG PS (0, 1), mild and moderate renal impairment (eGFR: ≥ 30 mL/min/1.73 m 2 ), or mild hepatic impairment (AST or ALT < 2.5 × ULN or total bilirubin < 1.5 × ULN). The effect of severe renal impairment on sotorasib pharmacokinetics has not been studied. Hepatic Impairment The mean AUC of sotorasib decreased by 25% in subjects with moderate hepatic impairment (Child-Pugh B) and increased by 4% in subjects with severe hepatic impairment (Child-Pugh C) compared to subjects with normal hepatic function following a single dose of 960 mg LUMAKRAS. Clinical Studies Acid-Reducing Agents : Coadministration of repeat doses of omeprazole (PPI) with a single dose of LUMAKRAS decreased sotorasib C max by 65% and AUC by 57% under fed conditions, and decreased sotorasib C max by 57% and AUC by 42% under fasted conditions. Coadministration of a single dose of famotidine (H 2 receptor antagonist) given 10 hours prior to and 2 hours after a single dose of LUMAKRAS under fed conditions decreased sotorasib C max by 35% and AUC by 38% . Strong CYP3A4 Inducers : Coadministration of repeat doses of rifampin (a strong CYP3A4 inducer) with a single dose of LUMAKRAS decreased sotorasib C max by 35% and AUC by 51%. Other Drugs : No clinically meaningful effect on the exposure of sotorasib was observed following coadministration of LUMAKRAS with itraconazole (a combined strong CYP3A4 and P-gp inhibitor) and a single dose of rifampin (an OATP1B1/1B3 inhibitor), or metformin (a MATE1/MATE2-K substrate). CYP3A4 substrates : Coadministration of LUMAKRAS with midazolam (a sensitive CYP3A4 substrate) decreased midazolam C max by 48% and AUC by 53%. P-gp substrates : Coadministration of LUMAKRAS with digoxin (a P-gp substrate) increased digoxin C max by 91% and AUC by 21%. MATE1/MATE2-K substrates : No clinically meaningful effect on the exposure of metformin (a MATE1/MATE2-K substrate) was observed following coadministration of LUMAKRAS. BCRP substrates : Coadministration of LUMAKRAS with rosuvastatin (a BCRP substrate) increased rosuvastatin C max by 70% and AUC by 34%. In Vitro Studies Cytochrome P450 (CYP) Enzymes : Sotorasib may induce CYP2C8, CYP2C9 and CYP2B6. Sotorasib does not inhibit CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, or CYP2D6.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE LUMAKRAS is an inhibitor of the RAS GTPase family indicated for: KRAS G12C-mutated Locally Advanced or Metastatic Non-Small Cell Lung Cancer (NSCLC) As a single agent, for the treatment of adult patients with KRAS G12C-mutated locally advanced or metastatic NSCLC, as determined by an FDA-approved test, who have received at least one prior systemic therapy. ( 1.1 ) This indication is approved under accelerated approval based on overall response rate (ORR) and duration of response (DOR). Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial(s). ( 1.1 ) KRAS G12C-mutated Metastatic Colorectal Cancer (mCRC) In combination with panitumumab, for the treatment of adult patients with KRAS G12C-mutated mCRC as determined by an FDA approved-test, who have received prior fluoropyrimidine-, oxaliplatin- and irinotecan-based chemotherapy. ( 1.2 ) 1.1 KRAS G12C-mutated Locally Advanced or Metastatic Non-Small Cell Lung Cancer (NSCLC) LUMAKRAS as a single agent is indicated for the treatment of adult patients with KRAS G12C -mutated locally advanced or metastatic non-small cell lung cancer (NSCLC), as determined by an FDA-approved test [see Dosage and Administration (2.1) ] , who have received at least one prior systemic therapy. This indication is approved under accelerated approval based on overall response rate (ORR) and duration of response (DOR) [see Clinical Studies (14.1) ] . Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial(s). 1.2 KRAS G12C-mutated Metastatic Colorectal Cancer (mCRC) LUMAKRAS, in combination with panitumumab, is indicated for the treatment of adult patients with KRAS G12C -mutated metastatic colorectal cancer (mCRC), as determined by an FDA-approved test, who have received prior fluoropyrimidine-, oxaliplatin- and irinotecan-based chemotherapy [see Dosage and Administration (2.1) and Clinical Studies (14.2) ] .",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "LUMAKRAS"
+    ],
+    "openfda_generic_names": [
+      "SOTORASIB"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=c80a362c-7ac3-4894-a076-0691e68ef8c1",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Non-Small Cell Lung Cancer",
+    "slug": "non-small-cell-lung-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06497556",
+      "title": "A Study Evaluating the Efficacy and Safety of Divarasib Versus Sotorasib or Adagrasib in Participants With Previously Treated KRAS G12C-positive Advanced or Metastatic Non-Small Cell Lung Cancer",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06497556",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42283833",
+        "title": "Drug repurposing in KRAS G12C-mutant NSCLC: a focus on resistance mechanisms and clinical strategies.",
+        "pubdate": "2026 Jun 12",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42283833/"
+      },
+      {
+        "pmid": "42173791",
+        "title": "Matching-Adjusted Indirect Comparison of Sotorasib Plus Panitumumab Versus Trifluridine/Tipiracil Plus Bevacizumab in Chemorefractory Metastatic Colorectal Cancer.",
+        "pubdate": "2026 Apr 23",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42173791/"
+      },
+      {
+        "pmid": "42041157",
+        "title": "MRTX1133 Suppresses ERK Signaling but Elicits Context-Dependent Antiproliferative Responses in KRAS (G12C) Cancer Cells.",
+        "pubdate": "2026 Apr 27",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42041157/"
+      },
+      {
+        "pmid": "41830517",
+        "title": "MRTX1133 suppresses ERK signaling but elicits context-dependent antiproliferative responses in KRAS (G12C) cancer cells.",
+        "pubdate": "2026 Mar 14",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41830517/"
+      },
+      {
+        "pmid": "41665865",
+        "title": "Evaluating Post-Progression Survival in the Context of Progression-Free Survival Benefits: A Revisit of the CodeBreaK200 Design.",
+        "pubdate": "2026 May",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41665865/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "BL-B01D1",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Sichuan Baili Pharmaceutical Co., Ltd."
+      },
+      {
+        "name": "Pemetrexed+Cisplatin or Carboplatin",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Sichuan Baili Pharmaceutical Co., Ltd."
+      },
+      {
+        "name": "JDQ443",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Novartis Pharmaceuticals"
+      },
+      {
+        "name": "docetaxel",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Novartis Pharmaceuticals"
+      }
+    ]
+  }
+}

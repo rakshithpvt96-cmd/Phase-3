@@ -1,0 +1,151 @@
+{
+  "drug_name": "Rosuvastatin",
+  "slug": "rosuvastatin",
+  "enriched_at": "2026-08-16T07:35:16Z",
+  "source_trial_ids": [
+    "NCT07216482"
+  ],
+  "sponsors": [
+    {
+      "name": "Merck Sharp & Dohme LLC",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Merck%20Sharp%20%26%20Dohme%20LLC&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 446157,
+    "iupac_name": "(E,3R,5S)-7-[4-(4-fluorophenyl)-2-[methyl(methylsulfonyl)amino]-6-propan-2-ylpyrimidin-5-yl]-3,5-dihydroxyhept-6-enoic acid",
+    "molecular_formula": "C22H28FN3O6S",
+    "molecular_weight": "481.5",
+    "canonical_smiles": null,
+    "inchikey": "BPRHUIZQVSMCRT-VEUZHWNKSA-N",
+    "rxnorm": {
+      "rxcui": "301542",
+      "generic_name": "rosuvastatin",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1744447",
+    "target_chembl_id": "CHEMBL402",
+    "target_name": "3-hydroxy-3-methylglutaryl-coenzyme A reductase",
+    "mechanism_of_action_chembl": "HMG-CoA reductase inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Rosuvastatin is an inhibitor of HMG-CoA reductase, the rate-limiting enzyme that converts 3‑hydroxy‑3‑methylglutaryl coenzyme A to mevalonate, a precursor of cholesterol.",
+    "pharmacokinetics": "12.3 Pharmacokinetics Absorption In clinical pharmacology studies in man, peak plasma concentrations of rosuvastatin were reached 3 to 5 hours following oral dosing. Both C max and AUC increased in approximate proportion to rosuvastatin dose. The absolute bioavailability of rosuvastatin is approximately 20%. The AUC of rosuvastatin does not differ following evening or morning drug administration. Effect of food Administration of rosuvastatin with food did not affect the AUC of rosuvastatin. Distribution Mean volume of distribution at steady-state of rosuvastatin is approximately 134 liters. Rosuvastatin is 88% bound to plasma proteins, mostly albumin. This binding is reversible and independent of plasma concentrations. Elimination Metabolism Rosuvastatin is not extensively metabolized; approximately 10% of a radiolabeled dose is recovered as metabolite. The major metabolite is N-desmethyl rosuvastatin, which is formed principally by cytochrome P450 \\ 2C9, and in vitro studies have demonstrated that N-desmethyl rosuvastatin has approximately one-sixth to one-half the HMG‑CoA reductase inhibitory activity of the parent compound. Overall, greater than 90% of active plasma HMG‑CoA reductase inhibitory activity is accounted for by the parent compound. Excretion Following oral administration, rosuvastatin and its metabolites are primarily excreted in the feces (90%). After an intravenous dose, approximately 28% of total body clearance was via the renal route, and 72% by the hepatic route. The elimination half-life of rosuvastatin is approximately 19 hours. Specific Populations Geriatric Patients There were no differences in plasma concentrations of rosuvastatin between the nonelderly and elderly populations (age ≥65 years). Pediatric Patients In a population pharmacokinetic analysis of two pediatric trials involving patients with HeFH 10 to 17 years of age and 8 to 17 years of age, respectively, rosuvastatin exposure appeared comparable to or lower than rosuvastatin exposure in adult patients. Male and Female Patients There were no differences in plasma concentrations of rosuvastatin between males and females. Racial or Ethnic Groups A population pharmacokinetic analysis revealed no clinically relevant differences in pharmacokinetics among White, Hispanic or Latino ethnicity, and Black or Afro-Caribbean groups. However, pharmacokinetic studies, including one conducted in the US, have demonstrated an approximate 2‑fold elevation in median exposure (AUC and C max ) in Asian subjects when compared with a White control group. Patients with Renal Impairment Mild to moderate renal impairment (CL cr ≥30 mL/min/1.73 m 2 ) had no influence on plasma concentrations of rosuvastatin. However, plasma concentrations of rosuvastatin increased to a clinically significant extent (about 3‑fold) in patients with severe renal impairment (CL cr <30 mL/min/1.73 m 2 ) not receiving hemodialysis compared with healthy subjects (CL cr >80 mL/min/1.73 m 2 ). Steady-state plasma concentrations of rosuvastatin in patients on chronic hemodialysis were approximately 50% greater compared with healthy volunteer subjects with normal renal function. Patients with Hepatic Impairment In patients with chronic alcohol liver disease, plasma concentrations of rosuvastatin were modestly increased. In patients with Child‑Pugh A disease, C max and AUC were increased by 60% and 5%, respectively, as compared with patients with normal liver function. In patients with Child‑Pugh B disease, C max and AUC were increased 100% and 21%, respectively, compared with patients with normal liver function. Drug Interaction Studies Rosuvastatin clearance is not dependent on metabolism by cytochrome P450 3A4 to a clinically significant extent. Rosuvastatin is a substrate for certain transporter proteins including the hepatic uptake transporter organic anion-transporting polyprotein 1B1 (OATP1B1) and efflux transporter breast cancer resistance protein (BCRP). Concomitant administration of rosuvastatin with medications that are inhibitors of these transporter proteins (e.g. cyclosporine, certain HIV protease inhibitors [see Dosage and Administration ( 2.6 ) and Drug Interactions ( 7.1 )] and ticagrelor [see Drug Interactions ( 7.1 )]) may result in increased rosuvastatin plasma concentrations. Table 8: Effect of Coadministered Drugs on Rosuvastatin Systemic Exposure Coadministered drug and dosing regimen Rosuvastatin Mean Ratio (ratio with/without coadministered drug) No Effect=1.0 Dose (mg) Single dose unless otherwise noted. Change in AUC Change in C max Sofosbuvir/velpatasvir/voxilaprevir (400 mg -100 mg-100 mg) + Voxilaprevir (100 mg) once daily for 15 days 10 mg, single dose 7.39 Clinically significant [see Dosage and Administration ( 2) and Warnings and Precautions ( 5)] (6.68-8.18) Mean ratio with 90% CI (with/without coadministered drug, e.g., 1= no change, 0.7 = 30% decrease, 11=11‑fold increase in exposure) 18.88 (16.23-21.96) Cyclosporine - stable dose required (75 mg - 200 mg BID) 10 mg, QD for 10 days 7.1 11 Darolutamide 600 mg BID, 5 days 5 mg, single dose 5.2 ~5 Regorafenib 160 mg QD, 14 days 5 mg, single dose 3.8 4.6 Atazanavir/ritonavir combination 300 mg/100 mg QD for 8 days 10 mg 3.1 7 Simeprevir 150 mg QD, 7 days 10 mg, single dose 2.8 (2.3-3.4) 3.2 (2.6-3.9) Velpatasvir 100 mg once daily 10 mg, single dose 2.69 (2.46-2.94) 2.61 (2.32-2.92) Ombitasvir 25 mg/paritaprevir 150 mg/ ritonavir 100 mg + dasabuvir 400 mg BID 5 mg, single dose 2.59 (2.09-3.21) 7.13 (5.11-9.96) Teriflunomide Not available 2.51 2 2.65 Enasidenib 100 mg QD, 28 days 10 mg, single dose 2.44 3.66 Elbasvir 50 mg/grazoprevir 200 mg once daily 10 mg, single dose 2.26 (1.89-2.69) 5.49 (4.29-7.04) Glecaprevir 400 mg/pibrentasvir 120 mg once daily 5 mg, once daily 2.15 (1.88-2.46) 5.62 (4.80-6.59) Lopinavir/ritonavir combination 400 mg/100 mg BID for 17 days 20 mg, QD for 7 days 2.1 (1.7-2.6) 5 (3.4-6.4) Capmatinib 400 mg BID 10 mg, single dose 2.08 (1.56-2.76) 3.04 (2.36-3.92) Fostamatinib 100 mg BID 20 mg, single dose 1.96 (1.77-2.15) 1.88 (1.69-2.09) Febuxostat 120 mg QD for 4 days 10 mg, single dose 1.9 (1.5-2.5) 2.1 (1.8-2.6) Gemfibrozil 600 mg BID for 7 days 80 mg 1.9 (1.6-2.2) 2.2 (1.8-2.7) Tafamidis 61 mg BID on Days 1 & 2, followed by QD on Days 3 to 9 10 mg 1.97 (1.68-2.31) 1.86 (1.59-2.16) Eltrombopag 75 mg QD, 5 days 10 mg 1.6 (1.4-1.7) 2 (1.8-2.3) Darunavir 600 mg/ritonavir 100 mg BID, 7 days 10 mg, QD for 7 days 1.5 (1.0-2.1) 2.4 (1.6-3.6) Tipranavir/ritonavir combination 500 mg/200 mg BID for 11 days 10 mg 1.4 (1.2-1.6) 2.2 (1.8-2.7) Dronedarone 400 mg BID 10 mg 1.4 Itraconazole 200 mg QD, 5 days 10 mg or 80 mg 1.4 (1.2-1.6) 1.3 (1.1-1.4) 1.4 (1.2-1.5) 1.2 (0.9-1.4) Ezetimibe 10 mg QD, 14 days 10 mg, QD for 14 days 1.2 (0.9-1.6) 1.2 (0.8-1.6) Fosamprenavir/ritonavir 700 mg/100 mg BID for 7 days 10 mg 1.1 1.5 Fenofibrate 67 mg TID for 7 days 10 mg ↔ 1.2 (1.1-1.3) Rifampicin 450 mg QD, 7 days 20 mg ↔ Aluminum & magnesium hydroxide combination antacidAdministered simultaneously. Administered 2 hours apart 40 mg. 40 mg 0.5 (0.4-0.5) 0.8 (0.7-0.9) 0.5 (0.4-0.6) 0.8 (0.7-1.0) Ketoconazole 200 mg BID for 7 days 80 mg 1.0 (0.8-1.2) 1.0 (0.7-1.3) Fluconazole 200 mg QD for 11 days 80 mg 1.1 (1.0-1.3) 1.1 (0.9-1.4) Erythromycin 500 mg QID for 7 days 80 mg 0.8 (0.7-0.9) 0.7 (0.5-0.9) QD= Once daily, BID= Twice daily, TID= Three times daily, QID= Four times daily Table 9: Effect of Rosuvastatin Coadministration on Systemic Exposure to Other Drugs Rosuvastatin Dosage Regimen Coadministered Drug Mean Ratio (ratio with/without coadministered drug) No Effect=1.0 Name and Dose Change in AUC Change in C max 40 mg QD for 10 days Warfarin Clinically significant pharmacodynamic effects [see Drug Interactions ( 7.3)] 25 mg single dose R- Warfarin 1.0 (1.0-1.1) Mean ratio with 90% CI (with/without coadministered drug, e.g., 1= no change, 0.7=30% decrease, 11=11-fold increase in exposure) S-Warfarin 1.1 (1.0-1.1) R-Warfarin 1.0 (0.9-1.0) S-Warfarin 1.0 (0.9-1.1) 40 mg QD for 12 days Digoxin 0.5 mg single dose 1.0 (0.9-1.2) 1.0 (0.9-1.2) 40 mg QD for 28 days Oral Contraceptive (ethinyl estradiol 0.035 mg & norgestrel 0.180, 0.215 and 0.250 mg) QD for 21 Days EE 1.3 (1.2-1.3) NG 1.3 (1.3-1.4) EE 1.3 (1.2-1.3) NG 1.2 (1.1-1.3) EE = ethinyl estradiol, NG = norgestrel, QD= Once daily",
+    "indications_and_usage": "1 INDICATIONS AND USAGE Rosuvastatin tablets is indicated: To reduce the risk major adverse cardiovascular (CV) events (CV death, nonfatal myocardial infarction, nonfatal stroke, or an arterial revascularization procedure) in adults without established coronary heart disease who are at increased risk of CV disease based on age, high-sensitivity C-reactive protein (hsCRP) ≥2 mg/L, and at least one additional CV risk factor. As an adjunct to diet to: Reduce low-density lipoprotein cholesterol (LDL-C) in adults with primary hyperlipidemia. Reduce LDL-C and slow the progression of atherosclerosis in adults. Reduce LDL-C in adults and pediatric patients aged 8 years and older with heterozygous familial hypercholesterolemia (HeFH). As an adjunct to other LDL-C-lowering therapies, or alone if such treatments are unavailable, to reduce LDL-C in adults and pediatric patients aged 7 years and older with homozygous familial hypercholesterolemia (HoFH). As an adjunct to diet for the treatment of adults with: Primary dysbetalipoproteinemia. Hypertriglyceridemia. Rosuvastatin tablets is an HMG Co-A reductase inhibitor (statin) indicated: ( 1 ) To reduce the risk of major adverse cardiovascular (CV) events (CV death, nonfatal myocardial infarction, nonfatal stroke, or an arterial revascularization procedure) in adults without established coronary heart disease who are at increased risk of CV disease based on age, high-sensitivity C-reactive protein (hsCRP) ≥ 2 mg/L, and at least one additional CV risk factor. As an adjunct to diet to reduce LDL-C in adults with primary hyperlipidemia. to reduce LDL-C and slow the progression of atherosclerosis in adults. to reduce LDL-C in adults and pediatric patients aged 8 years and older with heterozygous familial hypercholesterolemia (HeFH). As an adjunct to other LDL-C-lowering therapies, or alone if such treatments are unavailable, to reduce LDL-C in adults and pediatric patients aged 7 years and older with homozygous familial hypercholesterolemia (HoFH). As an adjunct to diet for the treatment of adults with: Primary dysbetalipoproteinemia. Hypertriglyceridemia.",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "Rosuvastatin Calcium"
+    ],
+    "openfda_generic_names": [
+      "ROSUVASTATIN CALCIUM"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=23cc6801-f296-494e-b737-6d7c6df092c3",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Hyperlipidemia",
+    "slug": "hyperlipidemia"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07216482",
+      "title": "A Clinical Study of Enlicitide in Participants With High Cholesterol (MK-0616-037)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07216482",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42547721",
+        "title": "Assessment of periodontal regeneration with blood derivatives: a systematic review and network meta-analysis.",
+        "pubdate": "2026 Aug 3",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42547721/"
+      },
+      {
+        "pmid": "42516953",
+        "title": "Effects of statins on functional capacity and cardiac remodeling in patients with heart failure and preserved ejection fraction: a randomized open-label pilot trial.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42516953/"
+      },
+      {
+        "pmid": "42203295",
+        "title": "Pragmatic trial assessing polygenic risk driven statin therapy for cardiovascular disease prevention: study protocol for the EE-PRS trial.",
+        "pubdate": "2026 May 27",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42203295/"
+      },
+      {
+        "pmid": "42203164",
+        "title": "Design of VICTORION-2 Prevent: A randomized double-blind, placebo-controlled trial, assessing the impact of inclisiran on major adverse cardiovascular events in patients with established cardiovascular disease.",
+        "pubdate": "2026 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42203164/"
+      },
+      {
+        "pmid": "42137960",
+        "title": "Laroprovstat, the First Oral Small-Molecule PCSK9 Inhibitor for the Treatment of Hypercholesterolemia: Results From a Randomized, Single-Blind, Placebo-Controlled Phase 1 Trial in Treatment-Naïve Patients.",
+        "pubdate": "2026 Jun 23",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42137960/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "LOVASTATIN",
+        "chembl_id": "CHEMBL503",
+        "reason": "same target: 3-hydroxy-3-methylglutaryl-coenzyme A reductase"
+      },
+      {
+        "name": "CERIVASTATIN SODIUM",
+        "chembl_id": "CHEMBL1200563",
+        "reason": "same target: 3-hydroxy-3-methylglutaryl-coenzyme A reductase"
+      },
+      {
+        "name": "PITAVASTATIN CALCIUM",
+        "chembl_id": "CHEMBL1237061",
+        "reason": "same target: 3-hydroxy-3-methylglutaryl-coenzyme A reductase"
+      },
+      {
+        "name": "FLUVASTATIN SODIUM",
+        "chembl_id": "CHEMBL2218894",
+        "reason": "same target: 3-hydroxy-3-methylglutaryl-coenzyme A reductase"
+      },
+      {
+        "name": "PRAVASTATIN SODIUM",
+        "chembl_id": "CHEMBL690",
+        "reason": "same target: 3-hydroxy-3-methylglutaryl-coenzyme A reductase"
+      },
+      {
+        "name": "ATORVASTATIN CALCIUM",
+        "chembl_id": "CHEMBL393220",
+        "reason": "same target: 3-hydroxy-3-methylglutaryl-coenzyme A reductase"
+      },
+      {
+        "name": "SIMVASTATIN",
+        "chembl_id": "CHEMBL1064",
+        "reason": "same target: 3-hydroxy-3-methylglutaryl-coenzyme A reductase"
+      },
+      {
+        "name": "PITAVASTATIN MAGNESIUM",
+        "chembl_id": "CHEMBL3989923",
+        "reason": "same target: 3-hydroxy-3-methylglutaryl-coenzyme A reductase"
+      },
+      {
+        "name": "PITAVASTATIN SODIUM",
+        "chembl_id": "CHEMBL3989920",
+        "reason": "same target: 3-hydroxy-3-methylglutaryl-coenzyme A reductase"
+      }
+    ]
+  }
+}
