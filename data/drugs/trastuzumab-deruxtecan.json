@@ -1,8 +1,9 @@
 {
   "drug_name": "Trastuzumab Deruxtecan",
   "slug": "trastuzumab-deruxtecan",
-  "enriched_at": "2026-08-15T21:50:14Z",
+  "enriched_at": "2026-08-17T07:57:44Z",
   "source_trial_ids": [
+    "NCT04704934",
     "NCT05048797"
   ],
   "sponsors": [
@@ -11,6 +12,12 @@
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=AstraZeneca&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Daiichi Sankyo",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Daiichi%20Sankyo&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
@@ -48,6 +55,13 @@
     "slug": "locally-advanced-or-metastatic-non-small-cell-lung-cancer"
   },
   "source_trials": [
+    {
+      "nct_id": "NCT04704934",
+      "title": "Trastuzumab Deruxtecan for Subjects With HER2-Positive Gastric Cancer or Gastro-Esophageal Junction Adenocarcinoma After Progression on or After a Trastuzumab-Containing Regimen (DESTINY-Gastric04)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04704934",
+      "has_results": false
+    },
     {
       "nct_id": "NCT05048797",
       "title": "A Study to Investigate the Efficacy and Safety of Trastuzumab Deruxtecan as the First Treatment Option for Unresectable, Locally Advanced/Metastatic Non-Small Cell Lung Cancer With HER2 Mutations",

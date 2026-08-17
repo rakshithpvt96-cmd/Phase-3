@@ -1,7 +1,7 @@
 {
   "drug_name": "Placebo",
   "slug": "placebo",
-  "enriched_at": "2026-08-15T22:21:43Z",
+  "enriched_at": "2026-08-17T07:56:51Z",
   "source_trial_ids": [
     "NCT04023552",
     "NCT04036435",
@@ -9,11 +9,13 @@
     "NCT04768972",
     "NCT05164341",
     "NCT05316220",
+    "NCT05330182",
     "NCT05353257",
     "NCT05395689",
     "NCT05600777",
     "NCT05608291",
     "NCT05627648",
+    "NCT05797610",
     "NCT05799287",
     "NCT05929079",
     "NCT05983250",
@@ -33,6 +35,7 @@
     "NCT06470451",
     "NCT06472076",
     "NCT06481891",
+    "NCT06534723",
     "NCT06553027",
     "NCT06564818",
     "NCT06602271",
@@ -194,6 +197,12 @@
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Guangdong%20Raynovent%20Biotech%20Co.%2C%20Ltd&type=10-K&dateb=&owner=include&count=40"
     },
     {
+      "name": "Hoffmann-La Roche",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hoffmann-La%20Roche&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
       "name": "Innovent Biologics (Suzhou) Co. Ltd.",
       "ticker": null,
       "market_cap_display": null,
@@ -246,6 +255,12 @@
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Longboard%20Pharmaceuticals&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Lumen Bioscience, Inc.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Lumen%20Bioscience%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Novartis Pharmaceuticals",
@@ -330,6 +345,12 @@
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Shanghai%20Mabgeek%20Biotech.Co.Ltd&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Sichuan Jishengtang Pharmaceutical Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Sichuan%20Jishengtang%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Soligenix",
@@ -434,6 +455,13 @@
       "has_results": false
     },
     {
+      "nct_id": "NCT05330182",
+      "title": "LMN-201 for Prevention of C. Difficile Infection Recurrence",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05330182",
+      "has_results": false
+    },
+    {
       "nct_id": "NCT05353257",
       "title": "A Study to Evaluate the Efficacy and Safety of Serplulimab in Combination With Chemotherapy and Concurrent Radiotherapy in Patients With Limited-Stage Small Cell Lung Cancer",
       "status": "ACTIVE_NOT_RECRUITING",
@@ -466,6 +494,13 @@
       "title": "Phase 3 Study of KP-100LI in Subjects With Vocal Fold Scar",
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT05627648",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT05797610",
+      "title": "A Study to Evaluate the Efficacy and Safety of Sefaxersen (RO7434656) in Participants With Primary Immunoglobulin A (IgA) Nephropathy at High Risk of Progression",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05797610",
       "has_results": false
     },
     {
@@ -599,6 +634,13 @@
       "title": "A Study to Evaluate the Efficacy and Safety of Sotagliflozin in Symptomatic Obstructive and Non-obstructive Hypertrophic Cardiomyopathy",
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT06481891",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06534723",
+      "title": "Phase 3 Clinical Trial of Wujia Yizhi Granules in the Treatment of Mild-to-moderate Alzheimer's Dementia (Syndrome of Deficiency of Spleen and Kidney)",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06534723",
       "has_results": false
     },
     {

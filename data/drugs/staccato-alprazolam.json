@@ -1,0 +1,138 @@
+{
+  "drug_name": "Staccato alprazolam",
+  "slug": "staccato-alprazolam",
+  "enriched_at": "2026-08-17T07:58:35Z",
+  "source_trial_ids": [
+    "NCT05077904"
+  ],
+  "sponsors": [
+    {
+      "name": "UCB Biopharma SRL",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=UCB%20Biopharma%20SRL&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "596",
+      "generic_name": "alprazolam",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL661",
+    "target_chembl_id": "CHEMBL2093872",
+    "target_name": "GABA-A receptor; anion channel",
+    "mechanism_of_action_chembl": "GABA-A receptor; anion channel positive allosteric modulator"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Staccato%20alprazolam+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Staccato%20alprazolam+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Staccato%20alprazolam+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Stereotypical Prolonged Seizures",
+    "slug": "stereotypical-prolonged-seizures"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05077904",
+      "title": "A Study to Test the Efficacy and Safety of Staccato Alprazolam in Study Participants 12 Years of Age and Older With Stereotypical Prolonged Seizures",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05077904",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "41133403",
+        "title": "Pharmacokinetics and tolerability of single-dose Staccato® alprazolam in adolescents with epilepsy, and population pharmacokinetic analysis to support dose selection in adolescents.",
+        "pubdate": "2026 Jan",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41133403/"
+      },
+      {
+        "pmid": "36268811",
+        "title": "A randomized phase 2b efficacy study in patients with seizure episodes with a predictable pattern using Staccato® alprazolam for rapid seizure termination.",
+        "pubdate": "2023 Feb",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36268811/"
+      },
+      {
+        "pmid": "31268555",
+        "title": "Inhaled alprazolam rapidly suppresses epileptic activity in photosensitive participants.",
+        "pubdate": "2019 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31268555/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "METHOXYFLURANE",
+        "chembl_id": "CHEMBL1341",
+        "reason": "same target: GABA-A receptor; anion channel"
+      },
+      {
+        "name": "FLUMAZENIL",
+        "chembl_id": "CHEMBL407",
+        "reason": "same target: GABA-A receptor; anion channel"
+      },
+      {
+        "name": "CLORAZEPATE DIPOTASSIUM",
+        "chembl_id": "CHEMBL2096631",
+        "reason": "same target: GABA-A receptor; anion channel"
+      },
+      {
+        "name": "CHLORDIAZEPOXIDE",
+        "chembl_id": "CHEMBL451",
+        "reason": "same target: GABA-A receptor; anion channel"
+      },
+      {
+        "name": "CHLORDIAZEPOXIDE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1200703",
+        "reason": "same target: GABA-A receptor; anion channel"
+      },
+      {
+        "name": "DIAZEPAM",
+        "chembl_id": "CHEMBL12",
+        "reason": "same target: GABA-A receptor; anion channel"
+      },
+      {
+        "name": "ESZOPICLONE",
+        "chembl_id": "CHEMBL1522",
+        "reason": "same target: GABA-A receptor; anion channel"
+      },
+      {
+        "name": "OXAZEPAM",
+        "chembl_id": "CHEMBL568",
+        "reason": "same target: GABA-A receptor; anion channel"
+      },
+      {
+        "name": "MEPROBAMATE",
+        "chembl_id": "CHEMBL979",
+        "reason": "same target: GABA-A receptor; anion channel"
+      },
+      {
+        "name": "CLOBAZAM",
+        "chembl_id": "CHEMBL70418",
+        "reason": "same target: GABA-A receptor; anion channel"
+      }
+    ]
+  }
+}

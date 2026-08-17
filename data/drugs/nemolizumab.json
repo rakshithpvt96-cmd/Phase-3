@@ -1,0 +1,99 @@
+{
+  "drug_name": "Nemolizumab",
+  "slug": "nemolizumab",
+  "enriched_at": "2026-08-17T07:56:06Z",
+  "source_trial_ids": [
+    "NCT03989206"
+  ],
+  "sponsors": [
+    {
+      "name": "Galderma R&D",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Galderma%20R%26D&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2691310",
+      "generic_name": "nemolizumab",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4297794",
+    "target_chembl_id": "CHEMBL4630894",
+    "target_name": "Interleukin-31 receptor subunit alpha",
+    "mechanism_of_action_chembl": "Interleukin-31 receptor subunit alpha inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Nemolizumab-ilto is a humanized IgG2 monoclonal antibody that inhibits IL-31 signaling by binding selectively to IL-31 RA. IL-31 is a naturally occurring cytokine that is involved in pruritus, inflammation, epidermal dysregulation, and fibrosis. Nemolizumab-ilto inhibited IL-31-induced responses including the release of proinflammatory cytokines and chemokines.",
+    "pharmacokinetics": "12.3 Pharmacokinetics After a single-dose, nemolizumab-ilto exposure increased dose proportionally over a dose range of 0.03 and 3 mg/kg following subcutaneous administration. After multiple doses, nemolizumab-ilto systemic exposure increased in an approximately dose-proportional manner across the subcutaneous dose range up to 30 mg. There was a decrease in bioavailability by 9% with the 60 mg subcutaneous dose and by 15% with the 90 mg subcutaneous dose. Prurigo Nodularis: Following multiple doses of NEMLUVIO in subjects with prurigo nodularis, the estimated mean (SD) steady-state trough concentrations of nemolizumab-ilto were 3.04 (1.23) μg/mL in subjects with bodyweight less than 90 kg; and 3.66 (1.63) μg/mL in subjects with bodyweight of 90 kg or more. Steady state nemolizumab-ilto concentrations were achieved by week 4 in subjects weighting less than 90 kg and by week 12 in subjects weighing 90 kg or more. Atopic Dermatitis: Following multiple doses of NEMLUVIO in subjects with atopic dermatitis, the estimated mean (SD) steady-state trough concentrations of nemolizumab-ilto were 2.63 (1.27) μg/mL for 30 mg administered every 4 weeks and 0.74 (0.44) μg/mL for 30 mg administered every 8 weeks. Steady-state nemolizumab-ilto concentrations were achieved 4 weeks after the initial 60 mg loading dose. Absorption Following an initial subcutaneous dose of 60 mg, nemolizumab-ilto reached peak mean (SD) concentrations (Cmax) of 7.5 (2.31) μg/mL by approximately 6 days post dose. Distribution The volume of distribution of nemolizumab-ilto was estimated to be 7.67 L. Elimination Nemolizumab-ilto is expected to be degraded in the same manner as endogenous IgG. The terminal elimination half-life (SD) of nemolizumab-ilto was estimated to be 18.9 (4.96) days and systemic clearance was estimated to be 0.263 L/day. Metabolism The metabolic pathway of nemolizumab-ilto has not been characterized. Nemolizumab-ilto is expected to be degraded into small peptides by catabolic pathways. Specific Populations Geriatric Populations No clinically significant difference in the pharmacokinetics of nemolizumab-ilto was estimated based on age (subjects 18 to 65 years of age and older than 65 years of age). Dose adjustment in this population is not needed. Pediatric Population Atopic Dermatitis: No clinically significant difference in the pharmacokinetics of nemolizumab-ilto was estimated in pediatric subjects 12 to 17 years of age compared to adults. Dose adjustment in this population is not needed. Renal or Hepatic Impairment No clinically significant differences in the pharmacokinetics of nemolizumab-ilto were estimated based on mild to moderate renal or hepatic impairments. The effect of severe renal and severe hepatic impairments on the pharmacokinetics of nemolizumab-ilto is unknown. Body Weight The exposure of nemolizumab-ilto decreases with increasing body weight. After a 30-mg dose every 4 weeks, the steady state mean exposure parameters (AUCss, Cmaxss and Ctrough) of subjects with bodyweight of above 87 kg is expected to be 1.7-fold lower than that of subjects weighing below 62 kg. Prurigo Nodularis: The variability in systemic exposure due to body weight had a clinically meaningful impact on skin lesion efficacy (IGA response) but not on pruritus improvement. Atopic Dermatitis: The difference in systemic exposure due to body weight had no clinically meaningful impact on efficacy in subjects with atopic dermatitis. Dose adjustment based on body weight is not needed. Drug Interaction Studies The effects of nemolizumab on the pharmacokinetics of midazolam (CYP3A4/5 substrate), warfarin (CYP2C9 substrate), omeprazole (CYP2C19 substrate), metoprolol (CYP2D6 substrate), and caffeine (CYP1A2 substrate) were evaluated in a study in 14 subjects with moderate to severe AD receiving an initial SC dose of 60 mg followed by 30 mg SC every four weeks for 12 weeks. No clinically significant changes in the exposure of CYP450 substrates before and after multiple nemolizumab injections were observed, with Cmax and AUC ratios ranging from 88.2 to 107.8%. The concomitant use of nemolizumab-ilto is unlikely to influence the PK profiles of CYP substrates.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE NEMLUVIO is an interleukin-31 receptor antagonist indicated for: Prurigo Nodularis The treatment of adults with prurigo nodularis. ( 1.1 ) Atopic Dermatitis The treatment of adults and pediatric patients 12 years of age and older with moderate-to-severe atopic dermatitis in combination with topical corticosteroids and/or calcineurin inhibitors when the disease is not adequately controlled with topical prescription therapies. ( 1.2 ) 1.1 Prurigo Nodularis NEMLUVIO is indicated for the treatment of adults with prurigo nodularis. 1.2 Atopic Dermatitis NEMLUVIO is indicated for the treatment of adults and pediatric patients 12 years of age and older with moderate-to-severe atopic dermatitis in combination with topical corticosteroids and/or calcineurin inhibitors when the disease is not adequately controlled with topical prescription therapies.",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "NEMLUVIO"
+    ],
+    "openfda_generic_names": [
+      "NEMOLIZUMAB-ILTO"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e9229ef1-ac60-4c24-afb6-009d3c781687",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Moderate-to-Severe Atopic Dermatitis",
+    "slug": "moderate-to-severe-atopic-dermatitis"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT03989206",
+      "title": "Long-term Safety and Efficacy of Nemolizumab With Moderate-to-severe Atopic Dermatitis",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT03989206",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42272192",
+        "title": "Efficacy and Safety of Nemolizumab at Week 48: Results from the Maintenance Phase of Two Global Phase 3 Pivotal Studies (ARCADIA 1&2) in Patients with Moderate-to-Severe Atopic Dermatitis.",
+        "pubdate": "2026 Jun 10",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42272192/"
+      },
+      {
+        "pmid": "42228089",
+        "title": "[Chronic prurigo: overview of pathophysiology, diagnosis, and treatment].",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42228089/"
+      },
+      {
+        "pmid": "41903084",
+        "title": "Clinical Trial Comparison of Dupilumab and Nemolizumab for Prurigo Nodularis FDA-Approved Biologic Therapy Selection in Prurigo Nodularis.",
+        "pubdate": "2026 May",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41903084/"
+      },
+      {
+        "pmid": "41712432",
+        "title": "Targeting the neuroimmune axis in prurigo nodularis: a critical appraisal of the nemolizumab trials.",
+        "pubdate": "2026 Jan-Feb",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41712432/"
+      },
+      {
+        "pmid": "41539329",
+        "title": "Model-informed drug development to support nemolizumab clinical development in adults and adolescents with moderate to severe atopic dermatitis.",
+        "pubdate": "2026 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41539329/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

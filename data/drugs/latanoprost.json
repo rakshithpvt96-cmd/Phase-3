@@ -1,0 +1,146 @@
+{
+  "drug_name": "Latanoprost",
+  "slug": "latanoprost",
+  "enriched_at": "2026-08-17T07:55:46Z",
+  "source_trial_ids": [
+    "NCT06666855"
+  ],
+  "sponsors": [
+    {
+      "name": "Santen Pharmaceutical Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Santen%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 5311221,
+    "iupac_name": "propan-2-yl (Z)-7-[(1R,2R,3R,5S)-3,5-dihydroxy-2-[(3R)-3-hydroxy-5-phenylpentyl]cyclopentyl]hept-5-enoate",
+    "molecular_formula": "C26H40O5",
+    "molecular_weight": "432.6",
+    "canonical_smiles": null,
+    "inchikey": "GGXICVAJURFBLW-CEYXHVGTSA-N",
+    "rxnorm": {
+      "rxcui": "43611",
+      "generic_name": "latanoprost",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1051",
+    "target_chembl_id": "CHEMBL1987",
+    "target_name": "Prostaglandin F2-alpha receptor",
+    "mechanism_of_action_chembl": "Prostanoid FP receptor agonist"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Latanoprost is a prostaglandin F 2α analogue that is believed to reduce the IOP by increasing the outflow of aqueous humor. Studies in animals and man suggest that the main mechanism of action is increased uveoscleral outflow. Elevated IOP represents a major risk factor for glaucomatous field loss. The higher the level of IOP, the greater the likelihood of optic nerve damage and visual field loss.",
+    "pharmacokinetics": "12.3 Pharmacokinetics Absorption Latanoprost is absorbed through the cornea where the isopropyl ester prodrug is hydrolyzed to the acid form to become biologically active. Distribution The distribution volume in humans is 0.16 ± 0.02 L/kg. The acid of latanoprost can be measured in aqueous humor during the first 4 hours, and in plasma only during the first hour after local administration. Studies in man indicate that the peak concentration in the aqueous humor is reached about two hours after topical administration. Elimination Metabolism Latanoprost, an isopropyl ester prodrug, is hydrolyzed by esterases in the cornea to the biologically active acid. The active acid of latanoprost reaching the systemic circulation is primarily metabolized by the liver to the 1,2-dinor and 1,2,3,4-tetranor metabolites via fatty acid β-oxidation. Excretion The elimination of the acid of latanoprost from human plasma is rapid (t 1/2 = 17 min) after both IV and topical administration. Systemic clearance is approximately 7 mL/min/kg. Following hepatic β-oxidation, the metabolites are mainly eliminated via the kidneys. Approximately 88% and 98% of the administered dose are recovered in the urine after topical and IV dosing, respectively.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE Latanoprost ophthalmic solution is indicated for the reduction of elevated intraocular pressure (IOP) in patients with open-angle glaucoma or ocular hypertension. Latanoprost ophthalmic solution is a prostaglandin F 2α analogue indicated for the reduction of elevated intraocular pressure in patients with open-angle glaucoma or ocular hypertension. (1)",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "latanoprost"
+    ],
+    "openfda_generic_names": [
+      "LATANOPROST"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=be74d517-7f73-a74c-e053-2a95a90a3819",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Open Angle Glaucoma",
+    "slug": "open-angle-glaucoma"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06666855",
+      "title": "A Phase III Study in Subjects With Primary Open Angle Glaucoma or Ocular Hypertension in China",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06666855",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42298273",
+        "title": "Efficacy and safety of sepetaprost in patients with primary open-angle glaucoma or ocular hypertension: results from the randomised, phase 3 ANGEL-J1 study.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42298273/"
+      },
+      {
+        "pmid": "41707599",
+        "title": "Investigation of the effect of latanoprostene bunod and latanoprost on peripapillary optical coherence tomography angiography.",
+        "pubdate": "2026 Mar",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41707599/"
+      },
+      {
+        "pmid": "41580829",
+        "title": "Preservative-free latanoprost induces meibomian gland dysfunction through inflammatory and oxidative stress pathways.",
+        "pubdate": "2026 Jan 24",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41580829/"
+      },
+      {
+        "pmid": "39779541",
+        "title": "Evaluation of the efficacy, safety, and satisfaction rate of topical latanoprost in patients with hypopigmented burn scars treated with fractional CO2 laser: a double-blind randomized controlled clinical trial.",
+        "pubdate": "2025 Jan 9",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39779541/"
+      },
+      {
+        "pmid": "39477206",
+        "title": "A phase 3 adaptive dose selection trial of NCX 470, a nitric oxide-donating bimatoprost for open-angle glaucoma or ocular hypertension: The MONT BLANC study.",
+        "pubdate": "2024 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39477206/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "TAFLUPROST",
+        "chembl_id": "CHEMBL1963683",
+        "reason": "same target: Prostaglandin F2-alpha receptor"
+      },
+      {
+        "name": "TRAVOPROST",
+        "chembl_id": "CHEMBL1200799",
+        "reason": "same target: Prostaglandin F2-alpha receptor"
+      },
+      {
+        "name": "DINOPROST TROMETHAMINE",
+        "chembl_id": "CHEMBL1200896",
+        "reason": "same target: Prostaglandin F2-alpha receptor"
+      },
+      {
+        "name": "BIMATOPROST",
+        "chembl_id": "CHEMBL1200963",
+        "reason": "same target: Prostaglandin F2-alpha receptor"
+      },
+      {
+        "name": "CARBOPROST TROMETHAMINE",
+        "chembl_id": "CHEMBL1237105",
+        "reason": "same target: Prostaglandin F2-alpha receptor"
+      },
+      {
+        "name": "LATANOPROSTENE BUNOD",
+        "chembl_id": "CHEMBL2364612",
+        "reason": "same target: Prostaglandin F2-alpha receptor"
+      },
+      {
+        "name": "AL-12182",
+        "chembl_id": "CHEMBL184999",
+        "reason": "same target: Prostaglandin F2-alpha receptor"
+      },
+      {
+        "name": "SEPETAPROST",
+        "chembl_id": "CHEMBL4297633",
+        "reason": "same target: Prostaglandin F2-alpha receptor"
+      }
+    ]
+  }
+}

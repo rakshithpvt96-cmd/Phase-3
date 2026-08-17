@@ -1,0 +1,81 @@
+{
+  "drug_name": "HS-20093",
+  "slug": "hs-20093",
+  "enriched_at": "2026-08-17T07:55:34Z",
+  "source_trial_ids": [
+    "NCT06935409"
+  ],
+  "sponsors": [
+    {
+      "name": "Hansoh BioMedical R&D Company",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hansoh%20BioMedical%20R%26D%20Company&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2739825",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4297389",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=HS-20093+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=HS-20093+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=HS-20093+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Osteosarcoma",
+    "slug": "osteosarcoma"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06935409",
+      "title": "Study of HS-20093 Versus Gemcitabine in Combination With Docetaxel in Treatment of Osteosarcoma After Previous Second-line Treatment Failure",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06935409",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "41791381",
+        "title": "HS-20093, a B7-H3-targeted antibody-drug conjugate in lung cancer: Results from the ARTEMIS-001 phase 1a/b trial.",
+        "pubdate": "2026 Apr 13",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41791381/"
+      },
+      {
+        "pmid": "38327753",
+        "title": "B7-H3 Inhibitors in Oncology Clinical Trials: A Review.",
+        "pubdate": "2024 Feb",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38327753/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

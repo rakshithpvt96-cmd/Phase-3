@@ -1,0 +1,110 @@
+{
+  "drug_name": "RSVpreF",
+  "slug": "rsvpref",
+  "enriched_at": "2026-08-17T07:58:21Z",
+  "source_trial_ids": [
+    "NCT07543380"
+  ],
+  "sponsors": [
+    {
+      "name": "Pfizer",
+      "ticker": "PFE",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000078003&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2642138",
+      "generic_name": "respiratory syncytial virus pre-fusion F protein, A, recombinant, stabilized",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": null,
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=RSVpreF+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=RSVpreF+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=RSVpreF+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Respiratory Syncytial Virus (RSV)",
+    "slug": "respiratory-syncytial-virus-rsv"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07543380",
+      "title": "A Study to Learn Safety and Immune Response to Study Vaccine -RSVpreF in Adults at High Risk of Severe RSV Disease.",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07543380",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42592141",
+        "title": "Summary of the National Advisory Committee on Immunization (NACI) Statement: Updated guidance to protect infants and children from respiratory syncytial virus disease.",
+        "pubdate": "2026 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42592141/"
+      },
+      {
+        "pmid": "42506661",
+        "title": "Maternal Immunization Against Respiratory Syncytial Virus: An Integrative Review of Efficacy, Safety, and Implementation.",
+        "pubdate": "2026 Jul 16",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42506661/"
+      },
+      {
+        "pmid": "42496785",
+        "title": "Cost-Effectiveness of Bivalent Respiratory Syncytial Virus Prefusion F Vaccine for Older Adults in the Netherlands.",
+        "pubdate": "2026 Jul 24",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42496785/"
+      },
+      {
+        "pmid": "42486480",
+        "title": "Phase 2 Randomized Bivalent RSVpreF Maternal Vaccine Trial: Final Safety, Antibody Persistence and Efficacy.",
+        "pubdate": "2026 Jul 23",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42486480/"
+      },
+      {
+        "pmid": "42219049",
+        "title": "A pragmatic randomized trial to evaluate the vaccine effectiveness of bivalent RSV prefusion F vaccine for preventing RSV hospitalizations in adults (DAN-RSV): Trial design update.",
+        "pubdate": "2026 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42219049/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "Recombinant Respiratory Syncytial Virus Vaccine (CHO Cell)",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: MAXVAX Biotechnology Limited Liability Company"
+      },
+      {
+        "name": "Placebo (Saline solution)",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: MAXVAX Biotechnology Limited Liability Company"
+      }
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "drug_name": "Gemcitabine combined with docetaxel",
+  "slug": "gemcitabine-combined-with-docetaxel",
+  "enriched_at": "2026-08-17T07:55:21Z",
+  "source_trial_ids": [
+    "NCT06935409"
+  ],
+  "sponsors": [
+    {
+      "name": "Hansoh BioMedical R&D Company",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hansoh%20BioMedical%20R%26D%20Company&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "12574",
+      "generic_name": "gemcitabine",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL3039516",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Gemcitabine%20combined%20with%20docetaxel+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Gemcitabine%20combined%20with%20docetaxel+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Gemcitabine%20combined%20with%20docetaxel+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Osteosarcoma",
+    "slug": "osteosarcoma"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06935409",
+      "title": "Study of HS-20093 Versus Gemcitabine in Combination With Docetaxel in Treatment of Osteosarcoma After Previous Second-line Treatment Failure",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06935409",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42206900",
+        "title": "Computed tomography-derived extracellular volume fraction is associated with high-grade recurrence in non-muscle-invasive bladder cancer treated with intravesical gemcitabine and docetaxel.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42206900/"
+      },
+      {
+        "pmid": "41631899",
+        "title": "Analysis of Plasma Epstein-Barr Virus DNA and Clinical Outcomes to Pembrolizumab or Chemotherapy in Recurrent/Metastatic Nasopharyngeal Cancer in KEYNOTE-122.",
+        "pubdate": "2026 Feb",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41631899/"
+      },
+      {
+        "pmid": "40414743",
+        "title": "Re-analysis of intravesical gemcitabine in the era of Bacillus Calmette-Guérin (BCG)-unresponsive non-muscle-invasive bladder cancer.",
+        "pubdate": "2025 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40414743/"
+      },
+      {
+        "pmid": "39488901",
+        "title": "Gemcitabine plus cisplatin versus docetaxel plus cisplatin and fluorouracil induction chemotherapy combined with locoregional radiotherapy in de novo metastatic nasopharyngeal carcinoma: A single center prospective phase II clinical trial.",
+        "pubdate": "2024 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39488901/"
+      },
+      {
+        "pmid": "39442958",
+        "title": "Intensive chemotherapy versus standard chemotherapy among patients with high risk, operable, triple negative breast cancer based on integrated mRNA-lncRNA signature (BCTOP-T-A01): randomised, multicentre, phase 3 trial.",
+        "pubdate": "2024 Oct 23",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39442958/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

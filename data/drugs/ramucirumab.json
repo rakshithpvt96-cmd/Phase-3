@@ -1,0 +1,150 @@
+{
+  "drug_name": "Ramucirumab",
+  "slug": "ramucirumab",
+  "enriched_at": "2026-08-17T07:57:22Z",
+  "source_trial_ids": [
+    "NCT04704934"
+  ],
+  "sponsors": [
+    {
+      "name": "Daiichi Sankyo",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Daiichi%20Sankyo&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1535922",
+      "generic_name": "ramucirumab",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1743062",
+    "target_chembl_id": "CHEMBL279",
+    "target_name": "Vascular endothelial growth factor receptor 2",
+    "mechanism_of_action_chembl": "Vascular endothelial growth factor receptor 2 inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Ramucirumab is a VEGFR2 antagonist that specifically binds VEGFR2 and blocks binding of VEGFR ligands, VEGF-A, VEGF-C, and VEGF-D. As a result, ramucirumab inhibits ligand-stimulated activation of VEGFR2, thereby inhibiting ligand-induced proliferation, and migration of human endothelial cells. Ramucirumab inhibited angiogenesis in an in vivo animal model.",
+    "pharmacokinetics": "12.3 Pharmacokinetics The pharmacokinetics (PK) of ramucirumab were studied in patients with various cancers over a dose range of 6-12 mg/kg administered every two or three weeks. The PK characteristics of ramucirumab are similar for patients across cancer types based on a population PK analysis. Ramucirumab systemic exposure increased dose proportionally at doses of 8 mg/kg and above and steady state concentrations were achieved at approximately 12 weeks. Distribution The mean (% coefficient of variation [CV%]) volume of distribution of ramucirumab at steady-state (Vss) was 5.4 L (15%). Elimination The mean (CV%) clearance of ramucirumab was 0.015 L/hour (30%) and the mean elimination half-life was 14 days (20%). Specific Populations Age (19-88 years), sex (68% male), race (70% White, 24% Asian), renal impairment (creatinine clearance [CLcr] calculated by Cockcroft-Gault, 15-89 mL/min, mild hepatic impairment (total bilirubin within ULN and AST>ULN or total bilirubin >1 to 1.5 times ULN and any AST), or moderate hepatic impairment (total bilirubin >1.5 to 3 times ULN) had no clinically meaningful effect on the PK of ramucirumab. The effect of severe hepatic impairment (total bilirubin >3 times ULN and any AST) on the PK of ramucirumab is unknown. Drug Interaction Studies No clinically meaningful changes in the exposure of either ramucirumab or its concomitant drugs in the approved combinations, including paclitaxel, docetaxel, irinotecan (or its active metabolite, SN-38), and erlotinib were observed in patients with solid tumors.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE CYRAMZA ® is a human vascular endothelial growth factor receptor 2 (VEGFR2) antagonist indicated: as a single agent or in combination with paclitaxel, for treatment of adults with advanced or metastatic gastric or gastro-esophageal junction adenocarcinoma with disease progression on or after prior fluoropyrimidine- or platinum-containing chemotherapy. ( 1.1 ) in combination with erlotinib, for first-line treatment of adults with metastatic non-small cell lung cancer with epidermal growth factor receptor (EGFR) exon 19 deletions or exon 21 (L858R) mutations. ( 1.2 ) in combination with docetaxel, for treatment of adults with metastatic non-small cell lung cancer with disease progression on or after platinum-based chemotherapy. Patients with EGFR or ALK genomic tumor aberrations should have disease progression on FDA-approved therapy for these aberrations prior to receiving CYRAMZA. ( 1.2 ) in combination with FOLFIRI, for the treatment of adults with metastatic colorectal cancer with disease progression on or after prior therapy with bevacizumab, oxaliplatin, and a fluoropyrimidine. ( 1.3 ) as a single agent, for the treatment of adults with hepatocellular carcinoma in patients who have an alpha fetoprotein of ≥400 ng/mL and have been treated with sorafenib. ( 1.4 ) 1.1 Gastric Cancer CYRAMZA ® , as a single agent or in combination with paclitaxel, is indicated for the treatment of adults with advanced or metastatic, gastric or gastro-esophageal junction (GEJ) adenocarcinoma with disease progression on or after prior fluoropyrimidine- or platinum-containing chemotherapy. 1.2 Non-Small Cell Lung Cancer CYRAMZA, in combination with erlotinib, is indicated for the first-line treatment of adults with metastatic non-small cell lung cancer (NSCLC) whose tumors have epidermal growth factor receptor (EGFR) exon 19 deletions or exon 21 (L858R) substitution mutations. CYRAMZA, in combination with docetaxel, is indicated for the treatment of adults with metastatic non-small cell lung cancer (NSCLC) with disease progression on or after platinum-based chemotherapy. Patients with epidermal growth factor receptor (EGFR) or anaplastic lymphoma kinase (ALK) genomic tumor aberrations should have disease progression on FDA-approved therapy for these aberrations prior to receiving CYRAMZA. 1.3 Colorectal Cancer CYRAMZA, in combination with FOLFIRI (irinotecan, folinic acid, and fluorouracil), is indicated for the treatment of adults with metastatic colorectal cancer (mCRC) with disease progression on or after prior therapy with bevacizumab, oxaliplatin, and a fluoropyrimidine. 1.4 Hepatocellular Carcinoma CYRAMZA, as a single agent, is indicated for the treatment of adults with hepatocellular carcinoma (HCC) who have an alpha fetoprotein (AFP) of ≥400 ng/mL and have been treated with sorafenib.",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "CYRAMZA"
+    ],
+    "openfda_generic_names": [
+      "RAMUCIRUMAB"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=c6080942-dee6-423e-b688-1272c2ae90d4",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Gastric Cancer, Adenocarcinoma",
+    "slug": "gastric-cancer-adenocarcinoma"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04704934",
+      "title": "Trastuzumab Deruxtecan for Subjects With HER2-Positive Gastric Cancer or Gastro-Esophageal Junction Adenocarcinoma After Progression on or After a Trastuzumab-Containing Regimen (DESTINY-Gastric04)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04704934",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42096800",
+        "title": "Phase II study of ramucirumab plus erlotinib for treatment-naïve patients with EGFR-mutant non-squamous non-small cell lung cancer and pleural effusion (RELAY-Effusion).",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42096800/"
+      },
+      {
+        "pmid": "42074824",
+        "title": "Therapeutic Targeting of VEGFR-2, PD-L1, and EGFR-MET Pathways in Non-Small Cell Lung Cancer: Clinical Progress with Ramucirumab, Atezolizumab, and Amivantamab.",
+        "pubdate": "2026 Apr 15",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42074824/"
+      },
+      {
+        "pmid": "42006277",
+        "title": "Mutation-Specific Response to Ramucirumab in EGFR-Mutated Metastatic NSCLC: Insights From Circulating Cell-Free DNA Profiling (Liquid Biopsy Japan Addendum of RELAY Phase 3 Randomized Study).",
+        "pubdate": "2026 May",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42006277/"
+      },
+      {
+        "pmid": "42160639",
+        "title": "",
+        "pubdate": "2026 Apr",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42160639/"
+      },
+      {
+        "pmid": "41227318",
+        "title": "Precision Antibody Therapy in Gastric and Gastroesophageal Cancer: Targeting FGFR2b, CLDN18.2, and VEGFR2.",
+        "pubdate": "2025 Oct 26",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41227318/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "CABOZANTINIB S-MALATE",
+        "chembl_id": "CHEMBL2103868",
+        "reason": "same target: Vascular endothelial growth factor receptor 2"
+      },
+      {
+        "name": "ENMD-981693",
+        "chembl_id": "CHEMBL52885",
+        "reason": "same target: Vascular endothelial growth factor receptor 2"
+      },
+      {
+        "name": "BMS-794833",
+        "chembl_id": "CHEMBL2143592",
+        "reason": "same target: Vascular endothelial growth factor receptor 2"
+      },
+      {
+        "name": "BMS-817378",
+        "chembl_id": "CHEMBL3545050",
+        "reason": "same target: Vascular endothelial growth factor receptor 2"
+      },
+      {
+        "name": "CM-082",
+        "chembl_id": "CHEMBL3545427",
+        "reason": "same target: Vascular endothelial growth factor receptor 2"
+      },
+      {
+        "name": "CYC-116",
+        "chembl_id": "CHEMBL482967",
+        "reason": "same target: Vascular endothelial growth factor receptor 2"
+      },
+      {
+        "name": "ALTIRATINIB",
+        "chembl_id": "CHEMBL3545365",
+        "reason": "same target: Vascular endothelial growth factor receptor 2"
+      },
+      {
+        "name": "PF-00337210",
+        "chembl_id": "CHEMBL1738697",
+        "reason": "same target: Vascular endothelial growth factor receptor 2"
+      },
+      {
+        "name": "TAS-115",
+        "chembl_id": "CHEMBL3764045",
+        "reason": "same target: Vascular endothelial growth factor receptor 2"
+      },
+      {
+        "name": "ZD-4190",
+        "chembl_id": "CHEMBL3544937",
+        "reason": "same target: Vascular endothelial growth factor receptor 2"
+      }
+    ]
+  }
+}

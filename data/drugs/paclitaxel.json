@@ -1,8 +1,9 @@
 {
   "drug_name": "Paclitaxel",
   "slug": "paclitaxel",
-  "enriched_at": "2026-08-15T22:21:08Z",
+  "enriched_at": "2026-08-17T07:56:31Z",
   "source_trial_ids": [
+    "NCT04704934",
     "NCT05298423",
     "NCT06018337",
     "NCT06279364",
@@ -15,6 +16,12 @@
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=AstraZeneca&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Daiichi Sankyo",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Daiichi%20Sankyo&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "DualityBio Inc.",
@@ -82,6 +89,13 @@
     "slug": "gastric-cancer"
   },
   "source_trials": [
+    {
+      "nct_id": "NCT04704934",
+      "title": "Trastuzumab Deruxtecan for Subjects With HER2-Positive Gastric Cancer or Gastro-Esophageal Junction Adenocarcinoma After Progression on or After a Trastuzumab-Containing Regimen (DESTINY-Gastric04)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04704934",
+      "has_results": false
+    },
     {
       "nct_id": "NCT05298423",
       "title": "Study of Pembrolizumab/Vibostolimab (MK-7684A) in Combination With Concurrent Chemoradiotherapy Followed by Pembrolizumab/Vibostolimab Versus Concurrent Chemoradiotherapy Followed by Durvalumab in Participants With Stage III Non-small Cell Lung Cancer (MK-7684A-006)",

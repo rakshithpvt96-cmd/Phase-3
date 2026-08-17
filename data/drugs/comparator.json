@@ -1,0 +1,99 @@
+{
+  "drug_name": "Comparator",
+  "slug": "comparator",
+  "enriched_at": "2026-08-17T07:57:50Z",
+  "source_trial_ids": [
+    "NCT07168473"
+  ],
+  "sponsors": [
+    {
+      "name": "Daewon Pharmaceutical Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Daewon%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1648887",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL3983509",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Comparator+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Comparator+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Comparator+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Perennial Allergic Rhinitis Accompanied by Asthma",
+    "slug": "perennial-allergic-rhinitis-accompanied-by-asthma"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07168473",
+      "title": "Study to Evaluate the Efficacy and Safety of DW1807 in Perennial Allergic Rhinitis Patients With Asthma",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07168473",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42604785",
+        "title": "[The Next Frontier of Medical AI in Brain Tumor Care:From Prediction to Trust].",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42604785/"
+      },
+      {
+        "pmid": "42604670",
+        "title": "Induction TPF versus adjuvant PF after CCRT in locally advanced nasopharyngeal carcinoma: A multicenter, randomized controlled phase III clinical trial.",
+        "pubdate": "2026 Aug 16",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42604670/"
+      },
+      {
+        "pmid": "42604595",
+        "title": "Atezolizumab vs durvalumab for extensive-stage small cell lung cancer in Japan: a real-world comparative analysis of costs and clinical outcomes.",
+        "pubdate": "2026 Aug 16",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42604595/"
+      },
+      {
+        "pmid": "42604435",
+        "title": "Clinical Evaluation of CAD/CAM All-Ceramic Crowns: A Randomized Controlled Study Comparing Lithium Disilicate and Lithium Aluminosilicate.",
+        "pubdate": "2026 Aug 16",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42604435/"
+      },
+      {
+        "pmid": "42604369",
+        "title": "Effect of Adding Erector Spinae Plane Block to a Multimodal Analgesic Regimen on Quality of Recovery After Laparoscopic Colon Cancer Surgery: A Prospective Randomized Controlled Trial.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42604369/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

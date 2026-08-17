@@ -1,0 +1,68 @@
+{
+  "drug_name": "Wujia Yizhi granules",
+  "slug": "wujia-yizhi-granules",
+  "enriched_at": "2026-08-17T07:58:41Z",
+  "source_trial_ids": [
+    "NCT06534723"
+  ],
+  "sponsors": [
+    {
+      "name": "Sichuan Jishengtang Pharmaceutical Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Sichuan%20Jishengtang%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1664172",
+      "generic_name": "influenza B virus B/Hubei Wujigang/158/2009/antigen",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL564",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Wujia%20Yizhi%20granules+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Wujia%20Yizhi%20granules+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Wujia%20Yizhi%20granules+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Alzheimer's Dementia",
+    "slug": "alzheimer-s-dementia"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06534723",
+      "title": "Phase 3 Clinical Trial of Wujia Yizhi Granules in the Treatment of Mild-to-moderate Alzheimer's Dementia (Syndrome of Deficiency of Spleen and Kidney)",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06534723",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

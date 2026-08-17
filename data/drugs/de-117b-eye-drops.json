@@ -1,0 +1,75 @@
+{
+  "drug_name": "DE-117B Eye Drops",
+  "slug": "de-117b-eye-drops",
+  "enriched_at": "2026-08-17T07:55:07Z",
+  "source_trial_ids": [
+    "NCT06666855"
+  ],
+  "sponsors": [
+    {
+      "name": "Santen Pharmaceutical Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Santen%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2562253",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL3977007",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=DE-117B%20Eye%20Drops+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=DE-117B%20Eye%20Drops+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=DE-117B%20Eye%20Drops+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Open Angle Glaucoma",
+    "slug": "open-angle-glaucoma"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06666855",
+      "title": "A Phase III Study in Subjects With Primary Open Angle Glaucoma or Ocular Hypertension in China",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06666855",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "39750078",
+        "title": "Bioequivalence of Preservative-Free and Preserved Omidenepag Isopropyl 0.002% Ophthalmic Solutions in Patients With Primary Open Angle Glaucoma or Ocular Hypertension: Phase 3 DAISY Study.",
+        "pubdate": "2025 Apr 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39750078/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}
