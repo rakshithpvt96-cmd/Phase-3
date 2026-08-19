@@ -1,0 +1,150 @@
+{
+  "drug_name": "Bevacizumab",
+  "slug": "bevacizumab",
+  "enriched_at": "2026-08-19T07:48:01Z",
+  "source_trial_ids": [
+    "NCT06618664"
+  ],
+  "sponsors": [
+    {
+      "name": "Suzhou Suncadia Biopharmaceuticals Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Suzhou%20Suncadia%20Biopharmaceuticals%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "253337",
+      "generic_name": "bevacizumab",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1201583",
+    "target_chembl_id": "CHEMBL1783",
+    "target_name": "Vascular endothelial growth factor A, long form",
+    "mechanism_of_action_chembl": "Vascular endothelial growth factor A inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Bevacizumab products bind VEGF and prevent the interaction of VEGF to its receptors (Flt-1 and KDR) on the surface of endothelial cells. The interaction of VEGF with its receptors leads to endothelial cell proliferation and new blood vessel formation in in vitro models of angiogenesis. Administration of bevacizumab to xenotransplant models of colon cancer in nude (athymic) mice caused reduction of microvascular growth and inhibition of metastatic disease progression.",
+    "pharmacokinetics": "12.3 Pharmacokinetics The pharmacokinetic profile of bevacizumab was assessed using an assay that measures total serum bevacizumab concentrations (i.e., the assay did not distinguish between free bevacizumab and bevacizumab bound to VEGF ligand). Based on a population pharmacokinetic analysis of 491 patients who received 1 to 20 mg/kg of bevacizumab every week, every 2 weeks, or every 3 weeks, bevacizumab pharmacokinetics are linear and the predicted time to reach more than 90% of steady state concentration is 84 days. The accumulation ratio following a dose of 10 mg/kg of bevacizumab once every 2 weeks is 2.8. Population simulations of bevacizumab exposures provide a median trough concentration of 80.3 mcg/mL on Day 84 (10 th , 90 th percentile: 45, 128) following a dose of 5 mg/kg once every two weeks. Distribution The mean (% coefficient of variation [CV%]) central volume of distribution is 2.9 (22%) L. Elimination The mean (CV%) clearance is 0.23 (33) L/day. The estimated half-life is 20 days (11 to 50 days). Specific Populations The clearance of bevacizumab varied by body weight, sex, and tumor burden. After correcting for body weight, males had a higher bevacizumab clearance (0.26 L/day vs. 0.21 L/day) and a larger central volume of distribution (3.2 L vs. 2.7 L) than females. Patients with higher tumor burden (at or above median value of tumor surface area) had a higher bevacizumab clearance (0.25 L/day vs. 0.20 L/day) than patients with tumor burdens below the median. In Study AVF2107g, there was no evidence of lesser efficacy (hazard ratio for overall survival) in males or patients with higher tumor burden treated with bevacizumab as compared to females and patients with low tumor burden.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE MVASI is a vascular endothelial growth factor inhibitor indicated for the treatment of: Metastatic colorectal cancer, in combination with intravenous fluorouracil-based chemotherapy for first- or second-line treatment. ( 1.1 ) Metastatic colorectal cancer, in combination with fluoropyrimidine-irinotecan- or fluoropyrimidine-oxaliplatin-based chemotherapy for second-line treatment in patients who have progressed on a first-line bevacizumab product-containing regimen. ( 1.1 ) Limitations of Use : MVASI is not indicated for adjuvant treatment of colon cancer. ( 1.1 ) Unresectable, locally advanced, recurrent or metastatic non-squamous non-small cell lung cancer, in combination with carboplatin and paclitaxel for first-line treatment. ( 1.2 ) Recurrent glioblastoma in adults. ( 1.3 ) Metastatic renal cell carcinoma in combination with interferon-alfa. ( 1.4 ) Persistent, recurrent, or metastatic cervical cancer, in combination with paclitaxel and cisplatin, or paclitaxel and topotecan. ( 1.5 ) Epithelial ovarian, fallopian tube, or primary peritoneal cancer: in combination with carboplatin and paclitaxel, followed by MVASI as a single agent, for stage III or IV disease following initial surgical resection ( 1.6 ) in combination with paclitaxel, pegylated liposomal doxorubicin, or topotecan for platinum-resistant recurrent disease who received no more than 2 prior chemotherapy regimens ( 1.6 ) in combination with carboplatin and paclitaxel or carboplatin and gemcitabine, followed by MVASI as a single agent, for platinum-sensitive recurrent disease ( 1.6 ) 1.1 Metastatic Colorectal Cancer MVASI, in combination with intravenous fluorouracil-based chemotherapy, is indicated for the first- or second-line treatment of patients with metastatic colorectal cancer (mCRC). MVASI, in combination with fluoropyrimidine-irinotecan- or fluoropyrimidine-oxaliplatin-based chemotherapy, is indicated for the second-line treatment of patients with mCRC who have progressed on a first-line bevacizumab product-containing regimen. Limitations of Use : MVASI is not indicated for adjuvant treatment of colon cancer [see Clinical Studies (14.2) ]. 1.2 First-Line Non-Squamous Non-Small Cell Lung Cancer MVASI, in combination with carboplatin and paclitaxel, is indicated for the first-line treatment of patients with unresectable, locally advanced, recurrent or metastatic non-squamous non-small cell lung cancer (NSCLC). 1.3 Recurrent Glioblastoma MVASI is indicated for the treatment of recurrent glioblastoma (GBM) in adults. 1.4 Metastatic Renal Cell Carcinoma MVASI, in combination with interferon-alfa, is indicated for the treatment of metastatic renal cell carcinoma (mRCC). 1.5 Persistent, Recurrent, or Metastatic Cervical Cancer MVASI, in combination with paclitaxel and cisplatin or paclitaxel and topotecan, is indicated for the treatment of patients with persistent, recurrent, or metastatic cervical cancer. 1.6 Epithelial Ovarian, Fallopian Tube, or Primary Peritoneal Cancer MVASI, in combination with carboplatin and paclitaxel, followed by MVASI as a single agent, is indicated for the treatment of patients with stage III or IV epithelial ovarian, fallopian tube, or primary peritoneal cancer following initial surgical resection. MVASI, in combination with paclitaxel, pegylated liposomal doxorubicin, or topotecan, is indicated for the treatment of patients with platinum-resistant recurrent epithelial ovarian, fallopian tube or primary peritoneal cancer who received no more than 2 prior chemotherapy regimens. MVASI, in combination with carboplatin and paclitaxel, or with carboplatin and gemcitabine, followed by MVASI as a single agent, is indicated for the treatment of patients with platinum-sensitive recurrent epithelial ovarian, fallopian tube, or primary peritoneal cancer.",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "MVASI"
+    ],
+    "openfda_generic_names": [
+      "BEVACIZUMAB-AWWB"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7f9a3014-b3d4-4943-a83a-92a77d8f947c",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Advanced Hepatocellular Carcinoma",
+    "slug": "advanced-hepatocellular-carcinoma"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06618664",
+      "title": "A Clinical Study of SHR-8068 Combined With Adebrelimab and Bevacizumab Versus Sintilimab or Atezolizumab Combined With Bevacizumab for the Treatment of Advanced Hepatocellular Carcinoma",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06618664",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42606323",
+        "title": "Baseline circulating and tumor γδ T cells and early circulating CD8⁺PD1⁺ expansion predict response to Atezolizumab-bevacizumab in HCC.",
+        "pubdate": "2026 Aug 17",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42606323/"
+      },
+      {
+        "pmid": "42596020",
+        "title": "AI-assisted ascites volumetry for prognostic stratification in HCC treated with Atezolizumab/Bevacizumab.",
+        "pubdate": "2026 Aug 11",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42596020/"
+      },
+      {
+        "pmid": "42545685",
+        "title": "Addition of High-Dose Vitamin D3 to Standard Treatment in Patients With Metastatic Colorectal Cancer: The SOLARIS Randomized Clinical Trial (Alliance A021703).",
+        "pubdate": "2026 Aug 3",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42545685/"
+      },
+      {
+        "pmid": "42542998",
+        "title": "Population Pharmacokinetic Comparability of CT-P16 Versus EU-Avastin(®) and US-Avastin(®) in Healthy Subjects and Patients with Non-Squamous Non-Small Cell Lung Cancer.",
+        "pubdate": "2026 Aug 2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42542998/"
+      },
+      {
+        "pmid": "42534285",
+        "title": "Prolonged response to combined BRAF and MEK inhibition in BRAF mutant colorectal cancer, a case report.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42534285/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "PEGAPTANIB SODIUM",
+        "chembl_id": "CHEMBL1201421",
+        "reason": "same target: Vascular endothelial growth factor A, long form"
+      },
+      {
+        "name": "RANIBIZUMAB",
+        "chembl_id": "CHEMBL1201825",
+        "reason": "same target: Vascular endothelial growth factor A, long form"
+      },
+      {
+        "name": "AFLIBERCEPT",
+        "chembl_id": "CHEMBL1742982",
+        "reason": "same target: Vascular endothelial growth factor A, long form"
+      },
+      {
+        "name": "BEVACIZUMAB 111IN",
+        "chembl_id": "CHEMBL3707253",
+        "reason": "same target: Vascular endothelial growth factor A, long form"
+      },
+      {
+        "name": "MUPARFOSTAT",
+        "chembl_id": "CHEMBL4297163",
+        "reason": "same target: Vascular endothelial growth factor A, long form"
+      },
+      {
+        "name": "CONBERCEPT",
+        "chembl_id": "CHEMBL2108313",
+        "reason": "same target: Vascular endothelial growth factor A, long form"
+      },
+      {
+        "name": "BROLUCIZUMAB",
+        "chembl_id": "CHEMBL3707357",
+        "reason": "same target: Vascular endothelial growth factor A, long form"
+      },
+      {
+        "name": "VANUCIZUMAB",
+        "chembl_id": "CHEMBL3545259",
+        "reason": "same target: Vascular endothelial growth factor A, long form"
+      },
+      {
+        "name": "FARICIMAB",
+        "chembl_id": "CHEMBL4297750",
+        "reason": "same target: Vascular endothelial growth factor A, long form"
+      },
+      {
+        "name": "ABICIPAR PEGOL",
+        "chembl_id": "CHEMBL4297684",
+        "reason": "same target: Vascular endothelial growth factor A, long form"
+      }
+    ]
+  }
+}

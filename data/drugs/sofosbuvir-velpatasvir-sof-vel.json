@@ -1,0 +1,145 @@
+{
+  "drug_name": "Sofosbuvir-Velpatasvir (SOF/VEL)",
+  "slug": "sofosbuvir-velpatasvir-sof-vel",
+  "enriched_at": "2026-08-19T07:44:43Z",
+  "source_trial_ids": [
+    "NCT06868264"
+  ],
+  "sponsors": [
+    {
+      "name": "Atea Pharmaceuticals, Inc.",
+      "ticker": "AVIR",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001593899&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1799211",
+      "generic_name": "sofosbuvir / velpatasvir",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL3545062",
+    "target_chembl_id": "CHEMBL3307224",
+    "target_name": "Nonstructural protein 5A",
+    "mechanism_of_action_chembl": "Nonstructural protein 5A inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Sofosbuvir-Velpatasvir%20%28SOF/VEL%29+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Sofosbuvir-Velpatasvir%20%28SOF/VEL%29+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Sofosbuvir-Velpatasvir%20%28SOF/VEL%29+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "HEPATITIS C VIRUS CHRONIC INFECTION",
+    "slug": "hepatitis-c-virus-chronic-infection"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06868264",
+      "title": "C-BEYOND: Efficacy and Safety of BEM/RZR vs. SOF/VEL in Subjects With Chronic HCV",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06868264",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42558970",
+        "title": "Evaluation of the Safety and Efficacy of SOF/VEL Treatment and Pre-treatment of TAF in Patients with Chronic Hepatitis B Virus/Hepatitis C Virus Coinfection: A Multicenter Study.",
+        "pubdate": "2026 Jul 28",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42558970/"
+      },
+      {
+        "pmid": "41754612",
+        "title": "Predictive Value of Sustained Virologic Response at Week 4 in Patients with Hepatitis C Virus Infection Treated with Sofosbuvir/Velpatasvir.",
+        "pubdate": "2026 Feb 21",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41754612/"
+      },
+      {
+        "pmid": "38258866",
+        "title": "Postpartum Treatment for Chronic Hepatitis C Virus Among People With Opioid Use Disorder: A Prospective Pilot Clinical Trial.",
+        "pubdate": "2024 Mar-Apr 01",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38258866/"
+      },
+      {
+        "pmid": "37288719",
+        "title": "Efficacy and safety of treatment with sofosbuvir/velpatasvir in patients aged 6-18 years with chronic hepatitis C-Results of the PANDAA-PED study.",
+        "pubdate": "2023 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37288719/"
+      },
+      {
+        "pmid": "36852107",
+        "title": "Sofosbuvir plus velpatasvir for 8 weeks in patients with acute hepatitis C: The HepNet acute HCV-V study.",
+        "pubdate": "2023 Mar",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36852107/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "LEDIPASVIR",
+        "chembl_id": "CHEMBL2374220",
+        "reason": "same target: Nonstructural protein 5A"
+      },
+      {
+        "name": "OMBITASVIR",
+        "chembl_id": "CHEMBL3127326",
+        "reason": "same target: Nonstructural protein 5A"
+      },
+      {
+        "name": "DACLATASVIR DIHYDROCHLORIDE",
+        "chembl_id": "CHEMBL2303621",
+        "reason": "same target: Nonstructural protein 5A"
+      },
+      {
+        "name": "ELBASVIR",
+        "chembl_id": "CHEMBL3039514",
+        "reason": "same target: Nonstructural protein 5A"
+      },
+      {
+        "name": "PIBRENTASVIR",
+        "chembl_id": "CHEMBL3545123",
+        "reason": "same target: Nonstructural protein 5A"
+      },
+      {
+        "name": "RUZASVIR",
+        "chembl_id": "CHEMBL3971095",
+        "reason": "same target: Nonstructural protein 5A"
+      },
+      {
+        "name": "RAVIDASVIR",
+        "chembl_id": "CHEMBL3121849",
+        "reason": "same target: Nonstructural protein 5A"
+      },
+      {
+        "name": "ODALASVIR",
+        "chembl_id": "CHEMBL3544977",
+        "reason": "same target: Nonstructural protein 5A"
+      },
+      {
+        "name": "SAMATASVIR",
+        "chembl_id": "CHEMBL3039519",
+        "reason": "same target: Nonstructural protein 5A"
+      }
+    ]
+  }
+}

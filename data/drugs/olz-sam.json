@@ -1,0 +1,110 @@
+{
+  "drug_name": "OLZ/SAM",
+  "slug": "olz-sam",
+  "enriched_at": "2026-08-19T07:50:13Z",
+  "source_trial_ids": [
+    "NCT05303064"
+  ],
+  "sponsors": [
+    {
+      "name": "Alkermes, Inc.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Alkermes%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "9504",
+      "generic_name": "S-adenosylmethionine",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1235831",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=OLZ/SAM+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=OLZ/SAM+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=OLZ/SAM+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Schizophrenia",
+    "slug": "schizophrenia"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05303064",
+      "title": "Study to Evaluate Weight Gain as Assessed by Change in BMI Z-score in Pediatric Subjects With Schizophrenia or Bipolar I Disorder",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05303064",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "41715037",
+        "title": "Clinical characteristics and risk factors of antipsychotic-associated metabolic syndrome in bipolar disorder: a retrospective analysis.",
+        "pubdate": "2026 Feb 19",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41715037/"
+      },
+      {
+        "pmid": "39832309",
+        "title": "Olanzapine/Samidorphan Effects on Weight Gain: An Individual Patient Data Meta-Analysis of Phase 2 and 3 Randomized Double-Blind Studies.",
+        "pubdate": "2025 Jan 2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39832309/"
+      },
+      {
+        "pmid": "39630083",
+        "title": "Long-Term Safety, Tolerability, and Durability of Treatment Effect of Olanzapine and Samidorphan: Results of a 4-Year Open-Label Study.",
+        "pubdate": "2024 Dec 4",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39630083/"
+      },
+      {
+        "pmid": "36305696",
+        "title": "Reduction in Multiple Cardiometabolic Risk Factors With Combined Olanzapine/Samidorphan Compared With Olanzapine: Post Hoc Analyses From a 24-Week Phase 3 Study.",
+        "pubdate": "2023 Mar 15",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36305696/"
+      },
+      {
+        "pmid": "36226902",
+        "title": "Olanzapine/samidorphan combination consistently mitigates weight gain across various subgroups of patients.",
+        "pubdate": "2023 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36226902/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "3-6mg QLM1016",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Qilu Pharmaceutical Co., Ltd."
+      },
+      {
+        "name": "10-20 mg Aripiprazole oral solution film",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Qilu Pharmaceutical Co., Ltd."
+      }
+    ]
+  }
+}

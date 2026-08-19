@@ -1,0 +1,105 @@
+{
+  "drug_name": "Prednisone",
+  "slug": "prednisone",
+  "enriched_at": "2026-08-19T07:44:24Z",
+  "source_trial_ids": [
+    "NCT04824092"
+  ],
+  "sponsors": [
+    {
+      "name": "Incyte Corporation",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Incyte%20Corporation&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 5865,
+    "iupac_name": "(8S,9S,10R,13S,14S,17R)-17-hydroxy-17-(2-hydroxyacetyl)-10,13-dimethyl-6,7,8,9,12,14,15,16-octahydrocyclopenta[a]phenanthrene-3,11-dione",
+    "molecular_formula": "C21H26O5",
+    "molecular_weight": "358.4",
+    "canonical_smiles": null,
+    "inchikey": "XOFYZVNMUHMLCC-ZPOLXVRWSA-N",
+    "rxnorm": {
+      "rxcui": "8640",
+      "generic_name": "prednisone",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL15720",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": "INDICATIONS Prednisone tablets are indicated in the following conditions: 1. Endocrine Disorders Primary or secondary adrenocortical insufficiency (hydrocortisone or cortisone is the first choice; synthetic analogs may be used in conjunction with mineralocorticoids where applicable; in infancy mineralocorticoid supplementation is of particular importance) Congenital adrenal hyperplasia Hypercalcemia associated with cancer Nonsuppurative thyroiditis 2. Rheumatic Disorders As adjunctive therapy for short-term administration (to tide the patient over an acute episode or exacerbation) in: Psoriatic arthritis Rheumatoid arthritis, including juvenile rheumatoid arthritis (selected cases may require low-dose maintenance therapy) Ankylosing spondylitis Acute and subacute bursitis Acute nonspecific tenosynovitis Acute gouty arthritis Post-traumatic osteoarthritis Synovitis of osteoarthritis Epicondylitis 3. Collagen Diseases During an exacerbation or as maintenance therapy in selected cases of: Systemic lupus erythematosus Systemic dermatomyositis (polymyositis) Acute rheumatic carditis 4. Dermatologic Diseases Pemphigus Bullous dermatitis herpetiformis Severe erythema multiforme (Stevens-Johnson syndrome) Exfoliative dermatitis Mycosis fungoides Severe psoriasis Severe seborrheic dermatitis 5. Allergic States Control of severe or incapacitating allergic conditions intractable to adequate trials of conventional treatment: Seasonal or perennial allergic rhinitis Bronchial asthma Contact dermatitis Atopic dermatitis Serum sickness Drug hypersensitivity reactions 6. Ophthalmic Diseases Severe acute and chronic allergic and inflammatory processes involving the eye and its adnexa such as: Allergic corneal marginal ulcers Herpes zoster ophthalmicus Anterior segment inflammation Diffuse posterior uveitis and choroiditis Sympathetic ophthalmia Allergic conjunctivitis Keratitis Chorioretinitis Optic neuritis Iritis and iridocyclitis 7. Respiratory Diseases Symptomatic sarcoidosis Loeffler’s syndrome not manageable by other means Berylliosis Fulminating or disseminated pulmonary tuberculosis when used concurrently with appropriate antituberculous chemotherapy Aspiration pneumonitis 8. Hematologic Disorders Idiopathic thrombocytopenic purpura in adults Secondary thrombocytopenia in adults Acquired (autoimmune) hemolytic anemia Erythroblastopenia (RBC anemia) Congenital (erythroid) hypoplastic anemia 9. Neoplastic Diseases For palliative management of: Leukemias and lymphomas in adults Acute leukemia of childhood 10. Edematous States To induce a diuresis or remission of proteinuria in the nephrotic syndrome, without uremia, of the idiopathic type or that due to lupus erythematosus. 11. Gastrointestinal Diseases To tide the patient over a critical period of the disease in: Ulcerative colitis Regional enteritis 12. Nervous System Acute exacerbations of multiple sclerosis 13. Miscellaneous Tuberculous meningitis with subarachnoid block or impending block when used concurrently with appropriate antituberculous chemotherapy Trichinosis with neurologic or myocardial involvement",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "PredniSONE"
+    ],
+    "openfda_generic_names": [
+      "PREDNISONE"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=474974ac-9811-c9f5-4050-58e535351d00",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Diffuse Large B-cell Lymphoma",
+    "slug": "diffuse-large-b-cell-lymphoma"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04824092",
+      "title": "Tafasitamab + Lenalidomide + R-CHOP Versus R-CHOP in Newly Diagnosed High-intermediate and High Risk DLBCL Patients",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04824092",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42583764",
+        "title": "Achievement of real-world adapted DORIS remission targets among patients with systemic lupus erythematosus initiating belimumab in the USA: A retrospective, observational, cohort study.",
+        "pubdate": "2026 Aug 12",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42583764/"
+      },
+      {
+        "pmid": "42581349",
+        "title": "Trials in progress: CARMAN - study protocol of a randomized controlled, international, multicenter, open-label phase II trial evaluating early treatment intensification in patients with high-risk mantle cell lymphoma using CAR-T-cell treatment after an abbreviated induction therapy with rituximab and ibrutinib and 6 months ibrutinib maintenance as compared to standard of care induction and maintenance.",
+        "pubdate": "2026 Aug 11",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42581349/"
+      },
+      {
+        "pmid": "42554948",
+        "title": "Real-World Effect of Ruxolitinib Cream: Decreased Use of Additional Topical Therapies and Limited Escalation to Systemic Treatments.",
+        "pubdate": "2026 Aug 5",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42554948/"
+      },
+      {
+        "pmid": "42547787",
+        "title": "Prednisone, not vamorolone, suppresses novel serum bone and cartilage biomarkers associated with growth failure in children with Duchenne muscular dystrophy.",
+        "pubdate": "2026 Aug 3",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42547787/"
+      },
+      {
+        "pmid": "42543655",
+        "title": "[Future directions in clinical development of first-line therapy for diffuse large B-cell lymphoma].",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42543655/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

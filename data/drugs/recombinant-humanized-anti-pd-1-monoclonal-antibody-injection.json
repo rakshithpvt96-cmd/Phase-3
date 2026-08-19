@@ -1,0 +1,109 @@
+{
+  "drug_name": "Recombinant humanized anti-PD-1 monoclonal antibody injection",
+  "slug": "recombinant-humanized-anti-pd-1-monoclonal-antibody-injection",
+  "enriched_at": "2026-08-19T07:50:47Z",
+  "source_trial_ids": [
+    "NCT06123884"
+  ],
+  "sponsors": [
+    {
+      "name": "Bio-Thera Solutions",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Bio-Thera%20Solutions&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2633995",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2109418",
+    "target_chembl_id": "CHEMBL3390823",
+    "target_name": "Disialoganglioside GD2",
+    "mechanism_of_action_chembl": "Disialoganglioside GD2 other"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Recombinant%20humanized%20anti-PD-1%20monoclonal%20antibody%20injection+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Recombinant%20humanized%20anti-PD-1%20monoclonal%20antibody%20injection+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Recombinant%20humanized%20anti-PD-1%20monoclonal%20antibody%20injection+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Cervical Cancer",
+    "slug": "cervical-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06123884",
+      "title": "BAT1308 Combined with Platinum-Based Chemotherapy± Bevacizumab for PDL1-Positive (CPS ≥1) Cervical Cancer",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06123884",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "DINUTUXIMAB",
+        "chembl_id": "CHEMBL3137342",
+        "reason": "same target: Disialoganglioside GD2"
+      },
+      {
+        "name": "EMD-273063",
+        "chembl_id": "CHEMBL2109417",
+        "reason": "same target: Disialoganglioside GD2"
+      },
+      {
+        "name": "4B5",
+        "chembl_id": "CHEMBL2109421",
+        "reason": "same target: Disialoganglioside GD2"
+      },
+      {
+        "name": "BIW-8962",
+        "chembl_id": "CHEMBL2109426",
+        "reason": "same target: Disialoganglioside GD2"
+      },
+      {
+        "name": "14G2A",
+        "chembl_id": "CHEMBL2109425",
+        "reason": "same target: Disialoganglioside GD2"
+      },
+      {
+        "name": "MORAB-028",
+        "chembl_id": "CHEMBL2109416",
+        "reason": "same target: Disialoganglioside GD2"
+      },
+      {
+        "name": "NAXITAMAB",
+        "chembl_id": "CHEMBL4297984",
+        "reason": "same target: Disialoganglioside GD2"
+      },
+      {
+        "name": "DINUTUXIMAB BETA",
+        "chembl_id": "CHEMBL5315068",
+        "reason": "same target: Disialoganglioside GD2"
+      }
+    ]
+  }
+}

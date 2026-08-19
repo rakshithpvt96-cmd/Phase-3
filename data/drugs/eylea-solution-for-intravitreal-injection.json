@@ -1,0 +1,99 @@
+{
+  "drug_name": "Eylea® Solution for intravitreal injection",
+  "slug": "eylea-solution-for-intravitreal-injection",
+  "enriched_at": "2026-08-19T07:49:03Z",
+  "source_trial_ids": [
+    "NCT06470373"
+  ],
+  "sponsors": [
+    {
+      "name": "Rophibio, Inc.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Rophibio%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1232159",
+      "generic_name": "0.05 ML aflibercept 40 MG/ML Injection [Eylea]",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2108760",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Eylea%C2%AE%20Solution%20for%20intravitreal%20injection+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Eylea%C2%AE%20Solution%20for%20intravitreal%20injection+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Eylea%C2%AE%20Solution%20for%20intravitreal%20injection+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Neovascular Age-related Macular Degeneration (nAMD)",
+    "slug": "neovascular-age-related-macular-degeneration-namd"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06470373",
+      "title": "A Phase 3 Clinical Trial to Compare RBS-001 to Eylea® in Subjects With Neovascular Age-Related Macular Degeneration",
+      "status": "NOT_YET_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06470373",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "41411005",
+        "title": "Aflibercept 8 mg in Polypoidal Choroidal Vasculopathy: Post Hoc Analysis of the PULSAR Randomized Clinical Trial.",
+        "pubdate": "2026 Feb 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41411005/"
+      },
+      {
+        "pmid": "40436012",
+        "title": "Oral lamivudine in diabetic macular edema: A randomized, double-blind, placebo-controlled clinical trial.",
+        "pubdate": "2025 Sep 12",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40436012/"
+      },
+      {
+        "pmid": "35881122",
+        "title": "Effect of Intravitreal Aflibercept vs Laser Photocoagulation on Treatment Success of Retinopathy of Prematurity: The FIREFLEYE Randomized Clinical Trial.",
+        "pubdate": "2022 Jul 26",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35881122/"
+      },
+      {
+        "pmid": "35715871",
+        "title": "Ocular inflammation after agitation of siliconized and silicone oil-free syringes: a randomized, double-blind, controlled clinical trial.",
+        "pubdate": "2022 Jun 17",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35715871/"
+      },
+      {
+        "pmid": "31826853",
+        "title": "Changes in neovascular activity following fixed dosing with an anti-vascular endothelial growth factor agent over 52 weeks in the phase III VIEW 1 and VIEW 2 studies.",
+        "pubdate": "2020 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31826853/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

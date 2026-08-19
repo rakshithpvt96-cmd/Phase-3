@@ -1,9 +1,10 @@
 {
   "drug_name": "Lenalidomide",
   "slug": "lenalidomide",
-  "enriched_at": "2026-08-15T21:36:38Z",
+  "enriched_at": "2026-08-19T07:43:25Z",
   "source_trial_ids": [
-    "NCT04712097"
+    "NCT04712097",
+    "NCT04824092"
   ],
   "sponsors": [
     {
@@ -11,6 +12,12 @@
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hoffmann-La%20Roche&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Incyte Corporation",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Incyte%20Corporation&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
@@ -59,6 +66,13 @@
       "title": "A Study Evaluating the Efficacy and Safety of Mosunetuzumab in Combination With Lenalidomide in Comparison to Rituximab in Combination With Lenalidomide With a US Extension of Mosunetuzumab in Combination With Lenalidomide in Participants With Follicular Lymphoma",
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT04712097",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT04824092",
+      "title": "Tafasitamab + Lenalidomide + R-CHOP Versus R-CHOP in Newly Diagnosed High-intermediate and High Risk DLBCL Patients",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04824092",
       "has_results": false
     }
   ],

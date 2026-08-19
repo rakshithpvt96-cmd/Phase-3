@@ -1,0 +1,99 @@
+{
+  "drug_name": "8% arginine toothpaste",
+  "slug": "8-arginine-toothpaste",
+  "enriched_at": "2026-08-19T07:46:39Z",
+  "source_trial_ids": [
+    "NCT07664592"
+  ],
+  "sponsors": [
+    {
+      "name": "Colgate Palmolive",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Colgate%20Palmolive&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "801612",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL267405",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=8%25%20arginine%20toothpaste+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=8%25%20arginine%20toothpaste+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=8%25%20arginine%20toothpaste+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Dentinal Sensitivity",
+    "slug": "dentinal-sensitivity"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07664592",
+      "title": "Comparative Efficacy of Different Dentin Occluding Toothpaste Technologies",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07664592",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42322443",
+        "title": "Efficacy of 8% arginine associated with low-level laser therapy in the treatment of dentin hypersensitivity: randomized double-blind clinical trial.",
+        "pubdate": "2026 Jun 20",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42322443/"
+      },
+      {
+        "pmid": "41789273",
+        "title": "Comparing Diode Laser (660 nm) & 8% Arginine Toothpaste vs. Laser Alone for Dentin Hypersensitivity: A Randomized Clinical Trial.",
+        "pubdate": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41789273/"
+      },
+      {
+        "pmid": "40794532",
+        "title": "Arginine Dentifrices and Childhood Caries Prevention: A Randomized Clinical Trial.",
+        "pubdate": "2026 Apr",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40794532/"
+      },
+      {
+        "pmid": "39810073",
+        "title": "Home-use agents in the treatment of dentin hypersensitivity: clinical effectiveness evaluation with different measurement methods.",
+        "pubdate": "2025 Jan 15",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39810073/"
+      },
+      {
+        "pmid": "38685035",
+        "title": "Evaluation and comparison of the effects of a new paste containing 8% L-Arginine and CaCO3 plus KNO3 on dentinal tubules occlusion and dental sensitivity: a randomized, triple blinded clinical trial study.",
+        "pubdate": "2024 Apr 29",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38685035/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

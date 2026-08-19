@@ -1,0 +1,150 @@
+{
+  "drug_name": "Bevacizumab Injection",
+  "slug": "bevacizumab-injection",
+  "enriched_at": "2026-08-19T07:48:12Z",
+  "source_trial_ids": [
+    "NCT06123884"
+  ],
+  "sponsors": [
+    {
+      "name": "Bio-Thera Solutions",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Bio-Thera%20Solutions&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1657065",
+      "generic_name": "bevacizumab Injection",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1201583",
+    "target_chembl_id": "CHEMBL1783",
+    "target_name": "Vascular endothelial growth factor A, long form",
+    "mechanism_of_action_chembl": "Vascular endothelial growth factor A inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Bevacizumab%20Injection+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Bevacizumab%20Injection+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Bevacizumab%20Injection+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Cervical Cancer",
+    "slug": "cervical-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06123884",
+      "title": "BAT1308 Combined with Platinum-Based Chemotherapy± Bevacizumab for PDL1-Positive (CPS ≥1) Cervical Cancer",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06123884",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42606323",
+        "title": "Baseline circulating and tumor γδ T cells and early circulating CD8⁺PD1⁺ expansion predict response to Atezolizumab-bevacizumab in HCC.",
+        "pubdate": "2026 Aug 17",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42606323/"
+      },
+      {
+        "pmid": "42533334",
+        "title": "Direct randomized evidence comparing ranibizumab and bevacizumab for macular edema secondary to retinal vein occlusion: a systematic review and meta-analysis.",
+        "pubdate": "2026 Jul 30",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42533334/"
+      },
+      {
+        "pmid": "42365524",
+        "title": "Efficacy of Intralesional Bevacizumab Versus Intralesional Triamcinolone Acetonide Injection in the Treatment of Keloids: A Randomized Clinical Trial.",
+        "pubdate": "2026 Jun 28",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42365524/"
+      },
+      {
+        "pmid": "42234083",
+        "title": "Safety of GBL1204-An Ophthalmic Bevacizumab in Prefilled Syringe for Neovascular Age-Related Macular Degeneration: A Phase I Study.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42234083/"
+      },
+      {
+        "pmid": "41877338",
+        "title": "Safety and efficacy of intrathecal pemetrexed and bevacizumab in non-small cell lung cancer (NSCLC) patients with leptomeningeal metastases (LM): protocol for a single-arm, prospective, phase Ia trial.",
+        "pubdate": "2026 Mar 23",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41877338/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "PEGAPTANIB SODIUM",
+        "chembl_id": "CHEMBL1201421",
+        "reason": "same target: Vascular endothelial growth factor A, long form"
+      },
+      {
+        "name": "RANIBIZUMAB",
+        "chembl_id": "CHEMBL1201825",
+        "reason": "same target: Vascular endothelial growth factor A, long form"
+      },
+      {
+        "name": "AFLIBERCEPT",
+        "chembl_id": "CHEMBL1742982",
+        "reason": "same target: Vascular endothelial growth factor A, long form"
+      },
+      {
+        "name": "BEVACIZUMAB 111IN",
+        "chembl_id": "CHEMBL3707253",
+        "reason": "same target: Vascular endothelial growth factor A, long form"
+      },
+      {
+        "name": "MUPARFOSTAT",
+        "chembl_id": "CHEMBL4297163",
+        "reason": "same target: Vascular endothelial growth factor A, long form"
+      },
+      {
+        "name": "CONBERCEPT",
+        "chembl_id": "CHEMBL2108313",
+        "reason": "same target: Vascular endothelial growth factor A, long form"
+      },
+      {
+        "name": "BROLUCIZUMAB",
+        "chembl_id": "CHEMBL3707357",
+        "reason": "same target: Vascular endothelial growth factor A, long form"
+      },
+      {
+        "name": "VANUCIZUMAB",
+        "chembl_id": "CHEMBL3545259",
+        "reason": "same target: Vascular endothelial growth factor A, long form"
+      },
+      {
+        "name": "FARICIMAB",
+        "chembl_id": "CHEMBL4297750",
+        "reason": "same target: Vascular endothelial growth factor A, long form"
+      },
+      {
+        "name": "ABICIPAR PEGOL",
+        "chembl_id": "CHEMBL4297684",
+        "reason": "same target: Vascular endothelial growth factor A, long form"
+      }
+    ]
+  }
+}

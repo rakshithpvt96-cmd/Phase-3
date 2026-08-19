@@ -1,0 +1,68 @@
+{
+  "drug_name": "Bemnifosbuvir-Ruzasvir (BEM/RZR)",
+  "slug": "bemnifosbuvir-ruzasvir-bem-rzr",
+  "enriched_at": "2026-08-19T07:41:45Z",
+  "source_trial_ids": [
+    "NCT06868264"
+  ],
+  "sponsors": [
+    {
+      "name": "Atea Pharmaceuticals, Inc.",
+      "ticker": "AVIR",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001593899&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2686485",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL5095404",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Bemnifosbuvir-Ruzasvir%20%28BEM/RZR%29+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Bemnifosbuvir-Ruzasvir%20%28BEM/RZR%29+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Bemnifosbuvir-Ruzasvir%20%28BEM/RZR%29+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "HEPATITIS C VIRUS CHRONIC INFECTION",
+    "slug": "hepatitis-c-virus-chronic-infection"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06868264",
+      "title": "C-BEYOND: Efficacy and Safety of BEM/RZR vs. SOF/VEL in Subjects With Chronic HCV",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06868264",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

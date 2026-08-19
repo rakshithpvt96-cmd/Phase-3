@@ -1,0 +1,150 @@
+{
+  "drug_name": "Adebrelimab",
+  "slug": "adebrelimab",
+  "enriched_at": "2026-08-19T07:47:14Z",
+  "source_trial_ids": [
+    "NCT06618664"
+  ],
+  "sponsors": [
+    {
+      "name": "Suzhou Suncadia Biopharmaceuticals Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Suzhou%20Suncadia%20Biopharmaceuticals%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2471561",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4297828",
+    "target_chembl_id": "CHEMBL3580522",
+    "target_name": "Programmed cell death 1 ligand 1",
+    "mechanism_of_action_chembl": "Programmed cell death 1 ligand 1 inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Adebrelimab+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Adebrelimab+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Adebrelimab+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Advanced Hepatocellular Carcinoma",
+    "slug": "advanced-hepatocellular-carcinoma"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06618664",
+      "title": "A Clinical Study of SHR-8068 Combined With Adebrelimab and Bevacizumab Versus Sintilimab or Atezolizumab Combined With Bevacizumab for the Treatment of Advanced Hepatocellular Carcinoma",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06618664",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42578486",
+        "title": "First-line systemic treatment for people with extensive-stage small cell lung cancer: a network meta-analysis.",
+        "pubdate": "2026 Aug 11",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42578486/"
+      },
+      {
+        "pmid": "42568417",
+        "title": "Case Report: Long-term survival in extensive-stage small cell lung cancer treated with adebrelimab-based combination therapy.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42568417/"
+      },
+      {
+        "pmid": "42170283",
+        "title": "Real-world effectiveness and safety of adebrelimab as first-line treatment in patients with extensive-stage small cell lung cancer.",
+        "pubdate": "2026 Apr 30",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42170283/"
+      },
+      {
+        "pmid": "41820935",
+        "title": "Adebrelimab plus chemotherapy as neoadjuvant therapy for locally advanced esophageal squamous cell carcinoma (ESCC): a single-center, phase II, single-arm, open-label clinical trial (ADENEO) protocol.",
+        "pubdate": "2026 Mar 13",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41820935/"
+      },
+      {
+        "pmid": "41816563",
+        "title": "DAWN trial: a prospective, multicenter, single-arm phase II study of neoadjuvant disitamab vedotin (RC48) in combination with adebrelimab, apatinib, and S-1 for locally advanced HER2-positive gastric cancer.",
+        "pubdate": "2026 Feb 28",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41816563/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "ATEZOLIZUMAB",
+        "chembl_id": "CHEMBL3707227",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      },
+      {
+        "name": "DURVALUMAB",
+        "chembl_id": "CHEMBL3301587",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      },
+      {
+        "name": "AVELUMAB",
+        "chembl_id": "CHEMBL3833373",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      },
+      {
+        "name": "SUGEMALIMAB",
+        "chembl_id": "CHEMBL4594535",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      },
+      {
+        "name": "BINTRAFUSP ALFA",
+        "chembl_id": "CHEMBL4298024",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      },
+      {
+        "name": "ENVAFOLIMAB",
+        "chembl_id": "CHEMBL4298006",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      },
+      {
+        "name": "PACMILIMAB",
+        "chembl_id": "CHEMBL4297563",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      },
+      {
+        "name": "ERFONRILIMAB",
+        "chembl_id": "CHEMBL4650483",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      },
+      {
+        "name": "SOCAZOLIMAB",
+        "chembl_id": "CHEMBL4802221",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      },
+      {
+        "name": "COSIBELIMAB",
+        "chembl_id": "CHEMBL4297729",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      }
+    ]
+  }
+}

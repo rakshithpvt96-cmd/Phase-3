@@ -1,0 +1,99 @@
+{
+  "drug_name": "Placebo [Ambulatory Cohort] only",
+  "slug": "placebo-ambulatory-cohort-only",
+  "enriched_at": "2026-08-19T07:50:29Z",
+  "source_trial_ids": [
+    "NCT04587908"
+  ],
+  "sponsors": [
+    {
+      "name": "Taiho Pharmaceutical Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Taiho%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "8375",
+      "generic_name": "placebo",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL464738",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Placebo%20%5BAmbulatory%20Cohort%5D%20only+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Placebo%20%5BAmbulatory%20Cohort%5D%20only+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Placebo%20%5BAmbulatory%20Cohort%5D%20only+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Duchenne Muscular Dystrophy",
+    "slug": "duchenne-muscular-dystrophy"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04587908",
+      "title": "A Phase 3 Study of TAS-205 in Patients With Duchenne Muscular Dystrophy（REACH-DMD）",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT04587908",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42610748",
+        "title": "Factors for Success and Failure of Allergen Immunotherapy (AIT) Trial Design in the Light of Evidence-Based Medicine: Current Aspects 2026.",
+        "pubdate": "2026 Aug 18",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42610748/"
+      },
+      {
+        "pmid": "42605056",
+        "title": "Bimekizumab efficacy in male and female patients with axial spondyloarthritis: 52-week results from the Phase 3 BE MOBILE rials.",
+        "pubdate": "2026 Aug 14",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42605056/"
+      },
+      {
+        "pmid": "42598364",
+        "title": "Precision synbiotic intervention with 2'-fucosyllactose and infant-derived Bifidobacterium modulates gut-immune axis and reduces disease risk in toddlers: a randomized controlled trial.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42598364/"
+      },
+      {
+        "pmid": "42593642",
+        "title": "An Examination into the Anti-stress and Anti-fatigue Effects of an Ashwagandha Extract (Ashwa.30™) in Stressed Adults: A Randomised, Double-Blind, Placebo-controlled Trial.",
+        "pubdate": "2026 Aug 13",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42593642/"
+      },
+      {
+        "pmid": "42592560",
+        "title": "Lipid Metabolism Modulation by a Flavonoid-Standardized Citrus Bergamia Extract in an Asian Population: Findings From a Double-Blind, Placebo-Controlled Clinical Trial.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42592560/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

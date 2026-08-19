@@ -1,0 +1,145 @@
+{
+  "drug_name": "Chemotherapy",
+  "slug": "chemotherapy",
+  "enriched_at": "2026-08-19T07:48:22Z",
+  "source_trial_ids": [
+    "NCT06196736"
+  ],
+  "sponsors": [
+    {
+      "name": "Mabwell (Shanghai) Bioscience Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Mabwell%20%28Shanghai%29%20Bioscience%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "598781",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4297950",
+    "target_chembl_id": "CHEMBL1996",
+    "target_name": "Granulocyte colony-stimulating factor receptor",
+    "mechanism_of_action_chembl": "Granulocyte colony stimulating factor receptor agonist"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Chemotherapy+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Chemotherapy+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Chemotherapy+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Advanced Urothelial Carcinoma",
+    "slug": "advanced-urothelial-carcinoma"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06196736",
+      "title": "A Study to Evaluate 9MW2821 Versus Chemotherapy in Subjects With Previously Treated Locally Advanced or Metastatic Urothelial Cancer",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06196736",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42613139",
+        "title": "Ovarian reserve as a measure of adjuvant chemotherapy benefit in hormone receptor positive (HR-positive), HER2-negative, node-positive breast cancer in SWOG S1007 (RxPONDER).",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42613139/"
+      },
+      {
+        "pmid": "42611864",
+        "title": "Association Between Anti-vascular Endothelial Growth Factor Therapy Exposure and Visual Outcomes in Diabetic Macular Edema and Retinal Vein Occlusion.",
+        "pubdate": "2026 Aug 7",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42611864/"
+      },
+      {
+        "pmid": "42611779",
+        "title": "Eltrombopag plus cyclosporine A for moderate aplastic anemia (EMAA): a placebo-controlled, double-blind, phase 3 trial.",
+        "pubdate": "2026 Aug 18",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42611779/"
+      },
+      {
+        "pmid": "42611092",
+        "title": "KRAS G12C-mutated Metastatic Colorectal Cancer: Current Therapeutic Strategies and Future Directions.",
+        "pubdate": "2026 Aug 18",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42611092/"
+      },
+      {
+        "pmid": "42610550",
+        "title": "Beyond erythropoiesis-stimulating agents: The evolving role of hypoxia-inducible factor stabilizers in anemia of chronic kidney disease.",
+        "pubdate": "2026 Aug 18",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42610550/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "FILGRASTIM",
+        "chembl_id": "CHEMBL1201567",
+        "reason": "same target: Granulocyte colony-stimulating factor receptor"
+      },
+      {
+        "name": "PEGFILGRASTIM",
+        "chembl_id": "CHEMBL1201568",
+        "reason": "same target: Granulocyte colony-stimulating factor receptor"
+      },
+      {
+        "name": "BALUGRASTIM",
+        "chembl_id": "CHEMBL2108572",
+        "reason": "same target: Granulocyte colony-stimulating factor receptor"
+      },
+      {
+        "name": "LIPEGFILGRASTIM",
+        "chembl_id": "CHEMBL4594230",
+        "reason": "same target: Granulocyte colony-stimulating factor receptor"
+      },
+      {
+        "name": "PEGTEOGRASTIM",
+        "chembl_id": "CHEMBL4297800",
+        "reason": "same target: Granulocyte colony-stimulating factor receptor"
+      },
+      {
+        "name": "LENOGRASTIM",
+        "chembl_id": "CHEMBL2109128",
+        "reason": "same target: Granulocyte colony-stimulating factor receptor"
+      },
+      {
+        "name": "ANUMIGILIMAB",
+        "chembl_id": "CHEMBL4650461",
+        "reason": "same target: Granulocyte colony-stimulating factor receptor"
+      },
+      {
+        "name": "EFLAPEGRASTIM",
+        "chembl_id": "CHEMBL3833384",
+        "reason": "same target: Granulocyte colony-stimulating factor receptor"
+      },
+      {
+        "name": "REGRAMOSTIM",
+        "chembl_id": "CHEMBL2107881",
+        "reason": "same target: Granulocyte colony-stimulating factor receptor"
+      }
+    ]
+  }
+}

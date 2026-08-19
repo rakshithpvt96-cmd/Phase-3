@@ -1,11 +1,13 @@
 {
   "drug_name": "Carboplatin",
   "slug": "carboplatin",
-  "enriched_at": "2026-08-15T22:14:36Z",
+  "enriched_at": "2026-08-19T07:42:04Z",
   "source_trial_ids": [
     "NCT05048797",
     "NCT05261399",
     "NCT05298423",
+    "NCT06123884",
+    "NCT06151574",
     "NCT06211023",
     "NCT06279364",
     "NCT06687369",
@@ -17,6 +19,18 @@
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=AstraZeneca&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Bio-Thera Solutions",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Bio-Thera%20Solutions&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Boehringer Ingelheim",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Boehringer%20Ingelheim&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "CSPC Megalith Biopharmaceutical Co.,Ltd.",
@@ -112,6 +126,20 @@
       "has_results": false
     },
     {
+      "nct_id": "NCT06123884",
+      "title": "BAT1308 Combined with Platinum-Based Chemotherapy± Bevacizumab for PDL1-Positive (CPS ≥1) Cervical Cancer",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06123884",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06151574",
+      "title": "Beamion LUNG-2: A Study to Test Whether Zongertinib (BI 1810631) Helps People With Advanced Non-small Cell Lung Cancer With HER2 Mutations Compared With Standard Treatment",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06151574",
+      "has_results": false
+    },
+    {
       "nct_id": "NCT06211023",
       "title": "A Study of SHR-A1921 With or Without Carboplatin in Subjects With Ovarian Cancer",
       "status": "UNKNOWN",
@@ -144,6 +172,12 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42608991",
+        "title": "Anthracycline-Free Neoadjuvant Therapy With Nab-Paclitaxel and Carboplatin in Non-Luminal Breast Cancer: A Single-Arm Clinical Trial.",
+        "pubdate": "2026 Aug 17",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42608991/"
+      },
+      {
         "pmid": "42578486",
         "title": "First-line systemic treatment for people with extensive-stage small cell lung cancer: a network meta-analysis.",
         "pubdate": "2026 Aug 11",
@@ -166,12 +200,6 @@
         "title": "Extensive-stage small cell lung cancer in Hungary: a real-world analysis (2013-2022).",
         "pubdate": "2026",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42534780/"
-      },
-      {
-        "pmid": "42523785",
-        "title": "An exploratory study of nimotuzumab combined with toripalimab and chemotherapy for locally advanced tonsillar cancer.",
-        "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42523785/"
       }
     ]
   },

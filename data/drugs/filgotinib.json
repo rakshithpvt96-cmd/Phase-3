@@ -1,0 +1,156 @@
+{
+  "drug_name": "Filgotinib",
+  "slug": "filgotinib",
+  "enriched_at": "2026-08-19T07:43:08Z",
+  "source_trial_ids": [
+    "NCT02914535"
+  ],
+  "sponsors": [
+    {
+      "name": "Alfasigma S.p.A.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Alfasigma%20S.p.A.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 49831257,
+    "iupac_name": "N-[5-[4-[(1,1-dioxo-1,4-thiazinan-4-yl)methyl]phenyl]-[1,2,4]triazolo[1,5-a]pyridin-2-yl]cyclopropanecarboxamide",
+    "molecular_formula": "C21H23N5O3S",
+    "molecular_weight": "425.5",
+    "canonical_smiles": null,
+    "inchikey": "RIJLVEAXPNLDTC-UHFFFAOYSA-N",
+    "rxnorm": {
+      "rxcui": "1911407",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4298167",
+    "target_chembl_id": "CHEMBL2835",
+    "target_name": "Tyrosine-protein kinase JAK1",
+    "mechanism_of_action_chembl": "Tyrosine-protein kinase JAK1 inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Filgotinib+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Filgotinib+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Filgotinib+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Ulcerative Colitis",
+    "slug": "ulcerative-colitis"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT02914535",
+      "title": "Filgotinib in Long-Term Extension Study of Adults With Ulcerative Colitis",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT02914535",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42586909",
+        "title": "Efficacy and safety of filgotinib in patients with active radiographic and nonradiographic axial spondyloarthritis: results from OLINGUITO, a phase 3 trial consisting of 2 randomised, placebo-controlled, double-blind, parallel-group studies.",
+        "pubdate": "2027 Jul 28",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42586909/"
+      },
+      {
+        "pmid": "42546722",
+        "title": "Impact of BMI on response to Janus kinase inhibitors in rheumatoid arthritis: an individual patient data meta-analysis of randomised controlled trials.",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42546722/"
+      },
+      {
+        "pmid": "41841789",
+        "title": "Integrated Safety Analysis of Filgotinib in Japanese Patients With Moderately to Severely Active Rheumatoid Arthritis Over a Treatment Duration of up to 5 Years.",
+        "pubdate": "2026 Mar 17",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41841789/"
+      },
+      {
+        "pmid": "41841670",
+        "title": "Advances in the use of Janus kinase inhibitors.",
+        "pubdate": "2026 May 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41841670/"
+      },
+      {
+        "pmid": "41711072",
+        "title": "Long-term safety and efficacy of filgotinib in patients with idiopathic multicentric Castleman disease: 52-week results from a Phase Ib clinical trial.",
+        "pubdate": "2026 Jun 30",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41711072/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "RUXOLITINIB PHOSPHATE",
+        "chembl_id": "CHEMBL1795071",
+        "reason": "same target: Tyrosine-protein kinase JAK1"
+      },
+      {
+        "name": "CERDULATINIB",
+        "chembl_id": "CHEMBL4116008",
+        "reason": "same target: Tyrosine-protein kinase JAK1"
+      },
+      {
+        "name": "GLPG-0555",
+        "chembl_id": "CHEMBL3545249",
+        "reason": "same target: Tyrosine-protein kinase JAK1"
+      },
+      {
+        "name": "ABROCITINIB",
+        "chembl_id": "CHEMBL3655081",
+        "reason": "same target: Tyrosine-protein kinase JAK1"
+      },
+      {
+        "name": "TRICETAMIDE",
+        "chembl_id": "CHEMBL2106468",
+        "reason": "same target: Tyrosine-protein kinase JAK1"
+      },
+      {
+        "name": "FILGOTINIB",
+        "chembl_id": "CHEMBL3301607",
+        "reason": "same target: Tyrosine-protein kinase JAK1"
+      },
+      {
+        "name": "SOLCITINIB",
+        "chembl_id": "CHEMBL3301606",
+        "reason": "same target: Tyrosine-protein kinase JAK1"
+      },
+      {
+        "name": "ITACITINIB",
+        "chembl_id": "CHEMBL3622820",
+        "reason": "same target: Tyrosine-protein kinase JAK1"
+      },
+      {
+        "name": "INCB-047986",
+        "chembl_id": "CHEMBL3545225",
+        "reason": "same target: Tyrosine-protein kinase JAK1"
+      },
+      {
+        "name": "MOMELOTINIB",
+        "chembl_id": "CHEMBL1078178",
+        "reason": "same target: Tyrosine-protein kinase JAK1"
+      }
+    ]
+  }
+}

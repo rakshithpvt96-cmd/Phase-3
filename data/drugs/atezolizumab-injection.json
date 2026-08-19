@@ -1,0 +1,150 @@
+{
+  "drug_name": "Atezolizumab injection",
+  "slug": "atezolizumab-injection",
+  "enriched_at": "2026-08-19T07:47:52Z",
+  "source_trial_ids": [
+    "NCT06618664"
+  ],
+  "sponsors": [
+    {
+      "name": "Suzhou Suncadia Biopharmaceuticals Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Suzhou%20Suncadia%20Biopharmaceuticals%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1792779",
+      "generic_name": "atezolizumab Injection",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL3707227",
+    "target_chembl_id": "CHEMBL3580522",
+    "target_name": "Programmed cell death 1 ligand 1",
+    "mechanism_of_action_chembl": "Programmed cell death 1 ligand 1 inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Atezolizumab%20injection+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Atezolizumab%20injection+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Atezolizumab%20injection+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Advanced Hepatocellular Carcinoma",
+    "slug": "advanced-hepatocellular-carcinoma"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06618664",
+      "title": "A Clinical Study of SHR-8068 Combined With Adebrelimab and Bevacizumab Versus Sintilimab or Atezolizumab Combined With Bevacizumab for the Treatment of Advanced Hepatocellular Carcinoma",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06618664",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42606323",
+        "title": "Baseline circulating and tumor γδ T cells and early circulating CD8⁺PD1⁺ expansion predict response to Atezolizumab-bevacizumab in HCC.",
+        "pubdate": "2026 Aug 17",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42606323/"
+      },
+      {
+        "pmid": "42498486",
+        "title": "Personalized tumor-loaded monocyte-derived dendritic cell vaccination in combination with atezolizumab as maintenance treatment in extensive-stage small cell lung cancer (ES-SCLC): phase Ib-II VENEZOLUNG trial.",
+        "pubdate": "2026 Jul 24",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42498486/"
+      },
+      {
+        "pmid": "42214243",
+        "title": "Efficacy and safety of subcutaneous and intravenous administration of atezolizumab in patients with non-small cell lung cancer, including early-stage, locally advanced or metastatic disease: Updated results of the IMscin001 and IMscin002 randomized studies.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42214243/"
+      },
+      {
+        "pmid": "41888981",
+        "title": "Reprogramming myeloid cells and restoring T cell fitness in checkpoint inhibitor resistant melanoma patients.",
+        "pubdate": "2026 Mar 27",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41888981/"
+      },
+      {
+        "pmid": "41296193",
+        "title": "Exploratory Analyses of Patient Preferences for Atezolizumab Subcutaneous Versus Intravenous from the IMscin002 Study in Patients with Non-Small Cell Lung Cancer.",
+        "pubdate": "2026 Mar",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41296193/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "DURVALUMAB",
+        "chembl_id": "CHEMBL3301587",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      },
+      {
+        "name": "AVELUMAB",
+        "chembl_id": "CHEMBL3833373",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      },
+      {
+        "name": "SUGEMALIMAB",
+        "chembl_id": "CHEMBL4594535",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      },
+      {
+        "name": "BINTRAFUSP ALFA",
+        "chembl_id": "CHEMBL4298024",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      },
+      {
+        "name": "ENVAFOLIMAB",
+        "chembl_id": "CHEMBL4298006",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      },
+      {
+        "name": "PACMILIMAB",
+        "chembl_id": "CHEMBL4297563",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      },
+      {
+        "name": "ERFONRILIMAB",
+        "chembl_id": "CHEMBL4650483",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      },
+      {
+        "name": "SOCAZOLIMAB",
+        "chembl_id": "CHEMBL4802221",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      },
+      {
+        "name": "ADEBRELIMAB",
+        "chembl_id": "CHEMBL4297828",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      },
+      {
+        "name": "COSIBELIMAB",
+        "chembl_id": "CHEMBL4297729",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      }
+    ]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "drug_name": "TAS-205 [Ambulatory Cohort] [Non-ambulatory Cohort]",
+  "slug": "tas-205-ambulatory-cohort-non-ambulatory-cohort",
+  "enriched_at": "2026-08-19T07:51:40Z",
+  "source_trial_ids": [
+    "NCT04587908"
+  ],
+  "sponsors": [
+    {
+      "name": "Taiho Pharmaceutical Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Taiho%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "226443",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL3545210",
+    "target_chembl_id": "CHEMBL206",
+    "target_name": "Estrogen receptor",
+    "mechanism_of_action_chembl": "Estrogen receptor alpha antagonist"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=TAS-205%20%5BAmbulatory%20Cohort%5D%20%5BNon-ambulatory%20Cohort%5D+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=TAS-205%20%5BAmbulatory%20Cohort%5D%20%5BNon-ambulatory%20Cohort%5D+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=TAS-205%20%5BAmbulatory%20Cohort%5D%20%5BNon-ambulatory%20Cohort%5D+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Duchenne Muscular Dystrophy",
+    "slug": "duchenne-muscular-dystrophy"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04587908",
+      "title": "A Phase 3 Study of TAS-205 in Patients With Duchenne Muscular Dystrophy（REACH-DMD）",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT04587908",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "POLYESTRADIOL PHOSPHATE",
+        "chembl_id": "CHEMBL1201477",
+        "reason": "same target: Estrogen receptor"
+      },
+      {
+        "name": "TAMOXIFEN CITRATE",
+        "chembl_id": "CHEMBL786",
+        "reason": "same target: Estrogen receptor"
+      },
+      {
+        "name": "ESTRONE",
+        "chembl_id": "CHEMBL1405",
+        "reason": "same target: Estrogen receptor"
+      },
+      {
+        "name": "ESTRADIOL",
+        "chembl_id": "CHEMBL135",
+        "reason": "same target: Estrogen receptor"
+      },
+      {
+        "name": "ESTRADIOL ACETATE",
+        "chembl_id": "CHEMBL1200430",
+        "reason": "same target: Estrogen receptor"
+      },
+      {
+        "name": "ESTRADIOL VALERATE",
+        "chembl_id": "CHEMBL1511",
+        "reason": "same target: Estrogen receptor"
+      },
+      {
+        "name": "CLOMIPHENE CITRATE",
+        "chembl_id": "CHEMBL3185958",
+        "reason": "same target: Estrogen receptor"
+      },
+      {
+        "name": "ETHINYL ESTRADIOL",
+        "chembl_id": "CHEMBL691",
+        "reason": "same target: Estrogen receptor"
+      },
+      {
+        "name": "DIENESTROL",
+        "chembl_id": "CHEMBL1018",
+        "reason": "same target: Estrogen receptor"
+      },
+      {
+        "name": "ESTRADIOL CYPIONATE",
+        "chembl_id": "CHEMBL1200973",
+        "reason": "same target: Estrogen receptor"
+      }
+    ]
+  }
+}

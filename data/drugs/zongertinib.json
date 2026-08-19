@@ -1,0 +1,105 @@
+{
+  "drug_name": "zongertinib",
+  "slug": "zongertinib",
+  "enriched_at": "2026-08-19T07:46:06Z",
+  "source_trial_ids": [
+    "NCT06151574"
+  ],
+  "sponsors": [
+    {
+      "name": "Boehringer Ingelheim",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Boehringer%20Ingelheim&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 160283094,
+    "iupac_name": "N-[1-[4-[3-methyl-4-(1-methylbenzimidazol-5-yl)oxyanilino]pyrimido[5,4-d]pyrimidin-6-yl]piperidin-4-yl]prop-2-enamide",
+    "molecular_formula": "C29H29N9O2",
+    "molecular_weight": "535.6",
+    "canonical_smiles": null,
+    "inchikey": "YSGNGFPNTLERCR-UHFFFAOYSA-N",
+    "rxnorm": {
+      "rxcui": "2721604",
+      "generic_name": "zongertinib",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL5314498",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Zongertinib is a kinase inhibitor of human epidermal growth factor receptor 2 (HER2). In vitro, zongertinib inhibited phosphorylation of HER2, downstream signaling of HER2 (phosphorylation of ERK), and proliferation of lung cancer cells harboring HER2 tyrosine kinase domain activating mutations. In vivo, zongertinib demonstrated anti-tumor activity in mouse xenograft models of NSCLC harboring HER2 tyrosine kinase domain activating mutations.",
+    "pharmacokinetics": "12.3 Pharmacokinetics Zongertinib pharmacokinetics were observed at steady state in patients with advanced or metastatic solid tumors with HER2 aberrations at the approved recommended dosage and are presented as geometric mean (CV%), unless otherwise specified. Zongertinib maximum concentration (C max,ss ) is 3 (37%) µmol/L and the total systemic exposure (AUC) is 34 (34%) µmol*h/L following HERNEXEOS 120 mg orally daily. Zongertinib C max and AUC increase in an approximately dose proportional manner across the dose range of 60 mg (0.5 times the approved recommended dosage) to 360 mg (3 times the approved recommended dosage). Zongertinib accumulation is approximately 1.5-fold for AUC and 1.3-fold for C max at the approved recommended dosage. Steady state is achieved within 2.5 days. Absorption Zongertinib median (min, max) time to maximum plasma concentration (T max ) is approximately 2 hours (min, max: 2, 6 hours). Zongertinib absolute oral bioavailability is 76%. Effect of Food No clinically significant differences in zongertinib C max and AUC were observed following administration of a single 240 mg dose (2 times the approved recommended dose) with a high-fat meal (approximately 1,000 calories, approximately 50% fat). Distribution Zongertinib plasma protein binding is > 99%. The apparent (oral) volume of distribution is 118 L (29%). Elimination Zongertinib effective half-life is 12 hours (21%) with an apparent (oral) clearance of 115 mL/min (31%). Metabolism Based on in vitro metabolite profiling, CYP-mediated oxidation pathways represent 48% to 62% (mainly CYP3A4 and CYP3A5), glucuronidation 13% to 25% (mainly UGT1A4), and glutathione conjugation 13% to 26% of total hepatic metabolism. Unchanged zongertinib represented the majority (75%) of total radioactivity in plasma. Excretion After a single oral dose of radiolabeled zongertinib 60 mg to healthy participants, approximately 93% of the dose was recovered in feces (31% unchanged) and 1.3% in urine (0.2% unchanged). Specific Populations The apparent volume of distribution and clearance of zongertinib increase with increasing body weight (34 to 122 kg). No clinically significant differences in the pharmacokinetics of zongertinib were observed based on age (30 to 88 years), sex, race (36% White, 49% Asian, 1.3% Black/African American), eGFR 60 to < 90 mL/min, or mild (defined as Child-Pugh A; AST > ULN and total bilirubin ≤ ULN; or total bilirubin > 1 to 1.5× ULN and any AST) and moderate (Child-Pugh B) hepatic impairment. The effect of eGFR 15 to < 60 mL/min, end-stage renal disease (eGFR < 15 mL/min) and severe hepatic impairment on the pharmacokinetics of zongertinib has not been studied. Drug Interaction Studies CYP3A Inducers: Zongertinib AUC decreased by 63% and C max decreased by 43% following concomitant use of carbamazepine (strong CYP3A inducer) 600 mg once daily for 7 days. The effect of concomitant use of moderate CYP3A inducers on zongertinib C max and AUC are unknown. BCRP Substrates : Rosuvastatin (BCRP substrate) C max increased 3-fold and AUC 2.3-fold following concomitant use of HERNEXEOS 120 mg daily for 12 days. Other Drugs: No clinically significant differences in zongertinib pharmacokinetics were observed when used concomitantly with strong CYP3A, P-gp, BCRP inhibitors and rabeprazole (proton pump inhibitor). No clinically significant differences in the pharmacokinetics of the following were observed when used concomitantly with zongertinib: midazolam (a CYP3A substrate), dabigatran (a P-gp substrate), metformin (a OCT2 and MATE1/2-K substrate), or repaglinide (a sensitive CYP2C8 substrate).",
+    "indications_and_usage": "1 INDICATIONS AND USAGE HERNEXEOS is indicated for the treatment of adult patients with unresectable or metastatic non-squamous non-small cell lung cancer (NSCLC) whose tumors have HER2 (ERBB2) tyrosine kinase domain activating mutations, as detected by an FDA-authorized test [see Dosage and Administration (2.1) ] . This indication is approved under accelerated approval based on objective response rate and duration of response [see Clinical Studies (14) ] . Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial. HERNEXEOS is a kinase inhibitor indicated for the treatment of adult patients with unresectable or metastatic non-squamous non-small cell lung cancer (NSCLC) whose tumors have HER2 (ERBB2) tyrosine kinase domain activating mutations, as detected by an FDA-authorized test. ( 1 ) This indication is approved under accelerated approval based on objective response rate and duration of response. Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial. ( 1 )",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "HERNEXEOS"
+    ],
+    "openfda_generic_names": [
+      "ZONGERTINIB"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d3fabf12-354e-4e5c-b5de-20fdb579b783",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Lung Cancer, Non-squamous, Non-small Cell",
+    "slug": "lung-cancer-non-squamous-non-small-cell"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06151574",
+      "title": "Beamion LUNG-2: A Study to Test Whether Zongertinib (BI 1810631) Helps People With Advanced Non-small Cell Lung Cancer With HER2 Mutations Compared With Standard Treatment",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06151574",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42058342",
+        "title": "Novel Human Epidermal Growth Factor Receptor 2 (HER2)-Targeted Therapy in a Non-Smoking Asian-American Woman Diagnosed With Never-Smoker Non-Small Cell Lung Cancer (NSCLC): A Case Report.",
+        "pubdate": "2026 Mar",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42058342/"
+      },
+      {
+        "pmid": "41962512",
+        "title": "First case report of transformation of adenocarcinoma to adenosquamous carcinoma with giant-cell carcinoma harboring HER2 mutation after zongertinib (BI 1810631) resistance.",
+        "pubdate": "2026 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41962512/"
+      },
+      {
+        "pmid": "41959903",
+        "title": "Evolving treatment strategies for HER2-altered non-small-cell lung cancer: the rise of TKIs and ADCs.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41959903/"
+      },
+      {
+        "pmid": "41777164",
+        "title": "Beamion PANTUMOR-1: rationale and design of a Phase II trial of zongertinib in HER2-overexpressed/amplified or HER2-mutant solid tumors.",
+        "pubdate": "2026 Mar",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41777164/"
+      },
+      {
+        "pmid": "41640088",
+        "title": "The role of zongertinib, a highly selective tyrosine kinase inhibitor, in targeting HER2-mutant NSCLC: a bench-to-bedside review.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41640088/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

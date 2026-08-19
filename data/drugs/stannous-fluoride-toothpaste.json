@@ -1,0 +1,99 @@
+{
+  "drug_name": "stannous fluoride toothpaste",
+  "slug": "stannous-fluoride-toothpaste",
+  "enriched_at": "2026-08-19T07:51:30Z",
+  "source_trial_ids": [
+    "NCT07458464"
+  ],
+  "sponsors": [
+    {
+      "name": "Colgate Palmolive",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Colgate%20Palmolive&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "378674",
+      "generic_name": "stannous fluoride Toothpaste",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1909079",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=stannous%20fluoride%20toothpaste+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=stannous%20fluoride%20toothpaste+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=stannous%20fluoride%20toothpaste+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Plaque",
+    "slug": "plaque"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07458464",
+      "title": "A Study to Investigate Stannous Fluoride Containing Toothpaste on Antibacterial Effects in the Different Regions of the Mouth",
+      "status": "NOT_YET_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07458464",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42571895",
+        "title": "Oral malodor control with a stabilized stannous fluoride toothpaste compared to sodium monofluorophosphate: A randomized controlled trial.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42571895/"
+      },
+      {
+        "pmid": "42533623",
+        "title": "Zinc-stabilized stannous fluoride modulates the periodontal microbiome, reducing Fusobacteria, key Gram-negative species, and overall inflammation within an experimental gingivitis clinical trial.",
+        "pubdate": "2026 Jul 31",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42533623/"
+      },
+      {
+        "pmid": "40550352",
+        "title": "Metals, fluoride and bioactive glass on dentin hypersensitivity and quality of life: A 6-month double-blind randomized clinical trial.",
+        "pubdate": "2025 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40550352/"
+      },
+      {
+        "pmid": "40444818",
+        "title": "Randomized clinical trial evaluating kinetic benefits of desensitizing agents: Magnitude, onset, and stability of relief.",
+        "pubdate": "2025 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40444818/"
+      },
+      {
+        "pmid": "40335199",
+        "title": "ANTIPLAQUE AND ANTIGINGIVITIS EFFECTS OF A NOVEL ORAL CARE REGIMEN FEATURING STANNOUS FLUORIDE TOOTHPASTE, A UNIQUE TOOTHBRUSH, AND CETYLPYRIDINIUM CHLORIDE MOUTHWASH: A RANDOMIZED CLINICAL TRIAL.",
+        "pubdate": "2025 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40335199/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

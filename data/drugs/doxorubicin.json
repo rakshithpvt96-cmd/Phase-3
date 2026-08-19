@@ -1,11 +1,18 @@
 {
   "drug_name": "Doxorubicin",
   "slug": "doxorubicin",
-  "enriched_at": "2026-08-16T07:41:55Z",
+  "enriched_at": "2026-08-19T07:42:40Z",
   "source_trial_ids": [
+    "NCT04824092",
     "NCT06394492"
   ],
   "sponsors": [
+    {
+      "name": "Incyte Corporation",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Incyte%20Corporation&type=10-K&dateb=&owner=include&count=40"
+    },
     {
       "name": "Suzhou Suncadia Biopharmaceuticals Co., Ltd.",
       "ticker": null,
@@ -54,6 +61,13 @@
     "slug": "ovarian-cancer"
   },
   "source_trials": [
+    {
+      "nct_id": "NCT04824092",
+      "title": "Tafasitamab + Lenalidomide + R-CHOP Versus R-CHOP in Newly Diagnosed High-intermediate and High Risk DLBCL Patients",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04824092",
+      "has_results": false
+    },
     {
       "nct_id": "NCT06394492",
       "title": "SHR-A1921 for Injection in Patients With Platinum-Resistant Recurrent Epithelial Ovarian Cancer",

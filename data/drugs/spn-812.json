@@ -1,0 +1,105 @@
+{
+  "drug_name": "SPN-812",
+  "slug": "spn-812",
+  "enriched_at": "2026-08-19T07:44:51Z",
+  "source_trial_ids": [
+    "NCT02736656"
+  ],
+  "sponsors": [
+    {
+      "name": "Supernus Pharmaceuticals, Inc.",
+      "ticker": "SUPN",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001356576&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 71424,
+    "iupac_name": "2-[(2-ethoxyphenoxy)methyl]morpholine;hydrochloride",
+    "molecular_formula": "C13H20ClNO3",
+    "molecular_weight": "273.75",
+    "canonical_smiles": null,
+    "inchikey": "HJOCKFVCMLCPTP-UHFFFAOYSA-N",
+    "rxnorm": {
+      "rxcui": "2728232",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL5880533",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=SPN-812+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=SPN-812+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=SPN-812+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Attention-Deficit/Hyperactivity Disorder",
+    "slug": "attention-deficit-hyperactivity-disorder"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT02736656",
+      "title": "Open-label Study to Evaluate Long-term Safety and Efficacy of SPN-812 (Viloxazine Extended-release Capsule)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT02736656",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "38502148",
+        "title": "Viloxazine extended-release capsules as an emerging treatment for attention-deficit/hyperactivity disorder in children and adolescents.",
+        "pubdate": "2024 May",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38502148/"
+      },
+      {
+        "pmid": "35845566",
+        "title": "Extended-Release Viloxazine for Children and Adolescents With Attention Deficit Hyperactivity Disorder.",
+        "pubdate": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35845566/"
+      },
+      {
+        "pmid": "34581911",
+        "title": "A post hoc analysis of the effect of viloxazine extended-release capsules on learning and school problems in children and adolescents with attention-deficit/hyperactivity disorder.",
+        "pubdate": "2023 Mar",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34581911/"
+      },
+      {
+        "pmid": "34269426",
+        "title": "Population Pharmacokinetics of Viloxazine Extended-Release Capsules in Pediatric Subjects With Attention Deficit/Hyperactivity Disorder.",
+        "pubdate": "2021 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34269426/"
+      },
+      {
+        "pmid": "34092822",
+        "title": "A Phase 3 Placebo-Controlled Trial of Once-Daily 400-mg and 600-mg SPN-812 (Viloxazine Extended-Release) in Adolescents with ADHD.",
+        "pubdate": "2021 Mar 16",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34092822/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

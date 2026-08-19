@@ -1,0 +1,121 @@
+{
+  "drug_name": "Acoramidis",
+  "slug": "acoramidis",
+  "enriched_at": "2026-08-19T07:47:02Z",
+  "source_trial_ids": [
+    "NCT04882735"
+  ],
+  "sponsors": [
+    {
+      "name": "Eidos Therapeutics, a BridgeBio company",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Eidos%20Therapeutics%2C%20a%20BridgeBio%20company&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 71464713,
+    "iupac_name": "3-[3-(3,5-dimethyl-1H-pyrazol-4-yl)propoxy]-4-fluorobenzoic acid",
+    "molecular_formula": "C15H17FN2O3",
+    "molecular_weight": "292.30",
+    "canonical_smiles": null,
+    "inchikey": "WBFUHHBPNXWNCC-UHFFFAOYSA-N",
+    "rxnorm": {
+      "rxcui": "2698312",
+      "generic_name": "acoramidis",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4650226",
+    "target_chembl_id": "CHEMBL3194",
+    "target_name": "Transthyretin",
+    "mechanism_of_action_chembl": "Transthyretin stabiliser"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Acoramidis is a selective stabilizer of transthyretin (TTR). Acoramidis binds TTR at thyroxine binding sites and slows dissociation of the TTR tetramer into its constituent monomers, the rate-limiting step in amyloidogenesis.",
+    "pharmacokinetics": "12.3 Pharmacokinetics The systemic exposures (C max and AUC) increase in a less than dose proportional manner following single and multiple doses of acoramidis. Over the dose range from 89 mg twice daily to 712 mg twice daily, AUC increases only 130%. Acoramidis steady state is achieved by 4 days with approximately 1.3-fold accumulation at the approved recommended dosage. At steady state, a dose of 712 mg twice daily results in a mean (SD) C max of 13700 (6090) ng/mL and AUC 0-12h of 47200 (10300) ng.h/mL. Absorption The time to C max of acoramidis (T max ) is approximately 1 hour following oral administration. Effect of Food No clinically significant differences in acoramidis pharmacokinetics were observed following administration of a high-fat meal (800-1000 total calories, ≥ 50% fat). Distribution The apparent steady-state volume of distribution for acoramidis is 654 liters. Acoramidis is 96% bound to human plasma proteins in vitro. Acoramidis primarily binds to TTR. Elimination The effective half-life of acoramidis is approximately 6 hours with a steady state apparent clearance of 16 L/hr. Metabolism Acoramidis is primarily metabolized by glucuronidation via UGT1A9, UGT1A1 and UGT2B7. Acoramidis-β-D-glucuronide (Acoramidis-AG) is the predominant metabolite of acoramidis (8% of total circulating drug related moieties). Acoramidis-AG is approximately 1/3 as pharmacologically active compared with acoramidis, has a low potential for covalent binding, and does not contribute to pharmacological activity. Excretion After a single oral dose of radiolabeled acoramidis 712 mg to healthy adult subjects, approximately 32% of the dose radioactivity was recovered in feces (15% unchanged), and approximately 68% was recovered in urine (<10% unchanged). Specific Populations No clinically significant differences in the pharmacokinetics of acoramidis were observed based on age, race/ethnicity (including Japanese and non-Japanese), sex, or renal impairment. The effect of hepatic impairment (Child Pugh A, B, or C) on acoramidis pharmacokinetics is unknown. Drug Interaction Studies Clinical Studies Following the administration of acoramidis (712 mg, BID) in a clinical study in healthy adult volunteers, there was not a clinically significant increase in exposure to the organic anion transporter-1 (OAT1) substrate (adefovir) and to OAT3 substrate (oseltamivir carboxylate). Concomitant diuretic use in patients does not affect steady-state plasma acoramidis concentrations. In Vitro Studies Cytochrome P450 Enzymes: Acoramidis is a time-dependent inhibitor of CYP2C9, but does not inhibit CYP1A2, CYP2B6, CYP2C8, CYP2C19, CYP2D6, or CYP3A4/5. Acoramidis does not induce CYP1A2, CYP2B6, or CYP3A4. UDP-Glucuronosyl Transferase (UGT): Acoramidis is a substrate of multiple UGT enzymes including UGT1A9, UGT1A1, and UGT2B7. Transporter Systems: Acoramidis is a substrate for OAT1 and breast cancer resistance protein (BCRP). Acoramidis inhibits OAT1 and OAT3, but does not inhibit MATE1, OCT1, OCT2, OATP1B1, OATP1B3, MATE2-K, BCRP, P-gp, or BSEP.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE ATTRUBY is indicated for the treatment of the cardiomyopathy of wild-type or variant transthyretin-mediated amyloidosis (ATTR-CM) in adults to reduce cardiovascular death and cardiovascular-related hospitalization. ATTRUBY is a transthyretin stabilizer indicated for the treatment of the cardiomyopathy of wild-type or variant transthyretin-mediated amyloidosis (ATTR-CM) in adults to reduce cardiovascular death and cardiovascular-related hospitalization. ( 1 , 2.1 )",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "Attruby"
+    ],
+    "openfda_generic_names": [
+      "ACORAMIDIS HYDROCHLORIDE"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=913552ef-875d-4cb7-bf05-a7d20a394c38",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Transthyretin-Related (ATTR) Familial Amyloid Polyneuropathy",
+    "slug": "transthyretin-related-attr-familial-amyloid-polyneuropathy"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04882735",
+      "title": "Efficacy and Safety of Acoramidis (AG10) in Subjects with Transthyretin Amyloid Polyneurophathy (ATTRibute-PN)",
+      "status": "WITHDRAWN",
+      "url": "https://clinicaltrials.gov/study/NCT04882735",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42554365",
+        "title": "Effect of acoramidis on risk of death and heart problem-related hospitalizations in people with transthyretin amyloid cardiomyopathy: a plain language summary.",
+        "pubdate": "2026 Aug 5",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42554365/"
+      },
+      {
+        "pmid": "42533192",
+        "title": "Rationale and Design of ACO-REAL: A Real-World Non-Interventional Study of Acoramidis in Routine Clinical Practice.",
+        "pubdate": "2026 Jul 31",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42533192/"
+      },
+      {
+        "pmid": "42525404",
+        "title": "Effect of Acoramidis on Heart Failure-Related Health Status: A Secondary Analysis of the ATTRibute-CM Randomized Clinical Trial.",
+        "pubdate": "2026 Jul 29",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42525404/"
+      },
+      {
+        "pmid": "42433826",
+        "title": "Gene silencing versus protein stabilization in transthyretin amyloid cardiomyopathy: contextualizing the HELIOS-B results and the road to precision agent selection.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42433826/"
+      },
+      {
+        "pmid": "42389794",
+        "title": "Effects of Acoramidis on Kidney Function in Transthyretin Amyloid Cardiomyopathy.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42389794/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "TAFAMIDIS",
+        "chembl_id": "CHEMBL2103837",
+        "reason": "same target: Transthyretin"
+      },
+      {
+        "name": "TAFAMIDIS MEGLUMINE",
+        "chembl_id": "CHEMBL2105675",
+        "reason": "same target: Transthyretin"
+      },
+      {
+        "name": "ACORAMIDIS",
+        "chembl_id": "CHEMBL3940890",
+        "reason": "same target: Transthyretin"
+      }
+    ]
+  }
+}

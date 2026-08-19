@@ -1,0 +1,135 @@
+{
+  "drug_name": "Risankizumab",
+  "slug": "risankizumab",
+  "enriched_at": "2026-08-19T07:50:57Z",
+  "source_trial_ids": [
+    "NCT06100744"
+  ],
+  "sponsors": [
+    {
+      "name": "AbbVie",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=AbbVie&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2166040",
+      "generic_name": "risankizumab",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL3990029",
+    "target_chembl_id": "CHEMBL2364154",
+    "target_name": "Interleukin-23",
+    "mechanism_of_action_chembl": "Interleukin-23 inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Risankizumab-rzaa is a humanized IgG1 monoclonal antibody that selectively binds to the p19 subunit of human IL-23 cytokine and inhibits its interaction with the IL-23 receptor. IL-23 is a naturally occurring cytokine that is involved in inflammatory and immune responses. Risankizumab-rzaa inhibits the release of pro-inflammatory cytokines and chemokines.",
+    "pharmacokinetics": "12.3 Pharmacokinetics Risankizumab-rzaa plasma concentrations, after single dose administration increased dose proportionally from 18 mg to 360 mg when administered subcutaneously (0.12 to 2.4 times the lowest recommended dose and 0.05 to 1 times the highest recommended dose) and from 200 mg to 1,800 mg when administered as an up to 3-hour intravenous infusion (0.2 to 3 times the recommended dose) in healthy subjects. In subjects with plaque psoriasis treated with 150 mg subcutaneously at Weeks 0, 4, and every 12 weeks thereafter, steady-state peak concentration (C max ) and trough concentration (C trough ) are estimated to be 12 mcg/mL and 2 mcg/mL, respectively. With the same subcutaneous dosing regimen, the pharmacokinetics of risankizumab-rzaa in subjects with psoriatic arthritis were similar to that in subjects with plaque psoriasis. In subjects with Crohn’s disease treated with 600 mg intravenous induction dose at Weeks 0, 4, and 8, followed by 180 mg or 360 mg subcutaneous maintenance dose at Week 12 and every 8 weeks thereafter, the median C max and C trough are estimated to be 156 mcg/mL and 38.8 mcg/mL, respectively, during Weeks 8-12; and the steady state median C max and C trough are estimated to be 14 mcg/mL and 4.1 mcg/mL, respectively for 180 mg or 28 mcg/mL and 8.1 mcg/mL, respectively, for 360 mg, during Weeks 40-48. In subjects with ulcerative colitis treated with 1,200 mg intravenous induction dose at Weeks 0, 4, and 8, followed by 180 mg or 360 mg subcutaneous maintenance dose at Week 12 and every 8 weeks thereafter, the median C max and C trough are estimated to be 350 and 87.7 mcg/mL, respectively, during the induction period (Weeks 8-12); and the steady state median C max and C trough are estimated to be 19.6 and 4.64 µg/mL, respectively, for 180 mg or 39.2 mcg/mL and 9.29 mcg/mL, respectively, for 360 mg, during the maintenance period (Weeks 40-48). Based on population pharmacokinetic analyses, the pharmacokinetics of risankizumab-rzaa in subjects with ulcerative colitis was generally similar to that in subjects with Crohn’s disease. Absorption The absolute bioavailability of risankizumab-rzaa was estimated to be 74 to 89% following subcutaneous injection. In healthy subjects, following administration of a single subcutaneous dose, C max was reached by 3 to 14 days. Distribution The estimated steady-state volume of distribution (inter-subject CV%) was 11.2 L (34%) in subjects with plaque psoriasis, and 7.68 L (64%) in subjects with Crohn’s disease. Elimination The estimated systemic clearance (inter-subject CV%) was 0.31 L/day (24%) and 0.30 L/day (34%) and terminal elimination half-life was approximately 28 days and 21 days in subjects with plaque psoriasis and Crohn’s disease, respectively. Metabolism The metabolic pathway of risankizumab-rzaa has not been characterized. As a humanized IgG1 monoclonal antibody, risankizumab-rzaa is expected to be degraded into small peptides and amino acids via catabolic pathways in a manner similar to endogenous IgG. Specific Populations Pediatric Patients Plaque Psoriasis: Risankizumab-rzaa exposures in pediatric subjects 6 years of age and older with plaque psoriasis receiving weight-based dosing regimens were consistent with those in adults. At the recommended dosing regimens evaluated in these subjects, estimated median steady-state peak and trough plasma concentrations were 15.7 and 2.3 mcg/mL, respectively, in subjects weighing less than 40 kg, and 11.1 and 1.6 mcg/mL, respectively, in subjects weighing 40 kg or greater. Psoriatic Arthritis: Risankizumab exposures in patients 6 years of age and older with active psoriatic arthritis at the recommended pediatric dosage are predicted to be comparable to those observed in adult patients with psoriatic arthritis based on population pharmacokinetic modeling simulation. Geriatric Patients Risankizumab-rzaa exposures (C trough ) in geriatric patients (≥65 years) are comparable to those in younger adult patients within each indication. No studies have been conducted to determine the effect of renal or hepatic impairment on the pharmacokinetics of risankizumab-rzaa. Body Weight Risankizumab-rzaa clearance and volume of distribution increase and plasma concentrations decrease as body weight increases; however, no dose adjustment is recommended based on body weight in adult patients. Drug Interaction Studies Cytochrome P450 Substrates No clinically significant changes in exposure of caffeine (CYP1A2 substrate), warfarin (CYP2C9 substrate), omeprazole (CYP2C19 substrate), metoprolol (CYP2D6 substrate), or midazolam (CYP3A substrate) were observed when used concomitantly with risankizumab-rzaa in subjects with plaque psoriasis (risankizumab-rzaa 150 mg administered subcutaneously at Weeks 0, 4, 8, and 12) and subjects with Crohn’s disease or ulcerative colitis (risankizumab-rzaa 1,800 mg administered intravenously at Weeks 0, 4, and 8, i.e., 3 times and 1.5 times the recommended dose for Crohn’s disease and ulcerative colitis, respectively).",
+    "indications_and_usage": "1 INDICATIONS AND USAGE SKYRIZI is an interleukin-23 antagonist indicated for the treatment of: moderate-to-severe plaque psoriasis in adults and pediatric patients 6 years of age and older who are candidates for systemic therapy or phototherapy. ( 1.1 ) active psoriatic arthritis in adults and pediatric patients 6 years of age and older. ( 1.2 ) moderately to severely active Crohn's disease in adults. ( 1.3 ) moderately to severely active ulcerative colitis in adults. ( 1.4 ) 1.1 Plaque Psoriasis SKYRIZI ® is indicated for the treatment of moderate-to-severe plaque psoriasis in adults and pediatric patients 6 years of age and older who are candidates for systemic therapy or phototherapy. 1.2 Psoriatic Arthritis SKYRIZI is indicated for the treatment of active psoriatic arthritis in adults and pediatric patients 6 years of age and older. 1.3 Crohn’s Disease SKYRIZI is indicated for the treatment of moderately to severely active Crohn's disease in adults. 1.4 Ulcerative Colitis SKYRIZI is indicated for the treatment of moderately to severely active ulcerative colitis in adults.",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "Skyrizi"
+    ],
+    "openfda_generic_names": [
+      "RISANKIZUMAB-RZAA"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7148c8eb-b39e-e20a-6494-a6df82392858",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Juvenile Psoriatic Arthritis",
+    "slug": "juvenile-psoriatic-arthritis"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06100744",
+      "title": "A Study to Assess Adverse Events, Change in Disease Activity, and How the Drug Moves Through the Body in Children With Juvenile Psoriatic Arthritis (jPsA) Receiving Subcutaneously Injected Risankizumab or Adalimumab",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06100744",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42577288",
+        "title": "Dose Reduction of IL17 and IL23 Inhibitors in Psoriasis (BeNeBio study): An International, Pragmatic, Multicentre, Randomised, Controlled, Non-Inferiority Trial.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42577288/"
+      },
+      {
+        "pmid": "42499815",
+        "title": "Highlights of the 2026 European Crohn's and Colitis Conference: redefining the IBD care continuum.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42499815/"
+      },
+      {
+        "pmid": "42479626",
+        "title": "Corticosteroid-sparing effects of risankizumab versus ustekinumab in patients with moderately to severely active Crohn's disease: post hoc results from the phase 3b SEQUENCE trial.",
+        "pubdate": "2026 Jul 7",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42479626/"
+      },
+      {
+        "pmid": "42393457",
+        "title": "Matching-Adjusted Indirect Comparison of Risankizumab Versus Icotrokinra in Adult Patients with Moderate-to-Severe Plaque Psoriasis.",
+        "pubdate": "2026 Jul 2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42393457/"
+      },
+      {
+        "pmid": "42240734",
+        "title": "Cost-Effectiveness Analysis of Bimekizumab against Interleukin-23 Inhibitors in Patients with Plaque Psoriasis in Japan.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42240734/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "USTEKINUMAB",
+        "chembl_id": "CHEMBL1201835",
+        "reason": "same target: Interleukin-23"
+      },
+      {
+        "name": "BRIAKINUMAB",
+        "chembl_id": "CHEMBL1742995",
+        "reason": "same target: Interleukin-23"
+      },
+      {
+        "name": "GUSELKUMAB",
+        "chembl_id": "CHEMBL2364648",
+        "reason": "same target: Interleukin-23"
+      },
+      {
+        "name": "TILDRAKIZUMAB",
+        "chembl_id": "CHEMBL2108681",
+        "reason": "same target: Interleukin-23"
+      },
+      {
+        "name": "BRAZIKUMAB",
+        "chembl_id": "CHEMBL3833372",
+        "reason": "same target: Interleukin-23"
+      },
+      {
+        "name": "MIRIKIZUMAB",
+        "chembl_id": "CHEMBL3990014",
+        "reason": "same target: Interleukin-23"
+      },
+      {
+        "name": "EBDAROKIMAB",
+        "chembl_id": "CHEMBL4650437",
+        "reason": "same target: Interleukin-23"
+      }
+    ]
+  }
+}

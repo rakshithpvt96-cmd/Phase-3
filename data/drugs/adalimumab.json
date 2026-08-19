@@ -1,14 +1,25 @@
 {
   "drug_name": "Adalimumab",
   "slug": "adalimumab",
-  "enriched_at": "2026-08-15T20:50:09Z",
+  "enriched_at": "2026-08-19T07:41:15Z",
   "source_trial_ids": [
     "NCT05814627",
+    "NCT06100744",
     "NCT06640517"
   ],
   "sponsors": [
-    "AbbVie",
-    "Biocad"
+    {
+      "name": "AbbVie",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=AbbVie&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Biocad",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Biocad&type=10-K&dateb=&owner=include&count=40"
+    }
   ],
   "identity": {
     "rxnorm": {
@@ -36,7 +47,7 @@
     "openfda_generic_names": [
       "ADALIMUMAB-AACF"
     ],
-    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=12f609c9-2088-bb05-e063-6394a90a9ecc",
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1602cfaf-9ddd-4eb6-b847-10a4eebcf5e5",
     "note": null,
     "further_reading": null
   },
@@ -50,6 +61,13 @@
       "title": "Study to Assess Change in Disease Activity and Adverse Events of Oral Upadacitinib Compared to Subcutaneous Adalimumab in Adult Participants With Moderate to Severe Rheumatoid Arthritis",
       "status": "COMPLETED",
       "url": "https://clinicaltrials.gov/study/NCT05814627",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06100744",
+      "title": "A Study to Assess Adverse Events, Change in Disease Activity, and How the Drug Moves Through the Body in Children With Juvenile Psoriatic Arthritis (jPsA) Receiving Subcutaneously Injected Risankizumab or Adalimumab",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06100744",
       "has_results": false
     },
     {

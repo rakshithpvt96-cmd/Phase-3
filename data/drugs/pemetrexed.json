@@ -1,11 +1,12 @@
 {
   "drug_name": "Pemetrexed",
   "slug": "pemetrexed",
-  "enriched_at": "2026-08-15T22:21:25Z",
+  "enriched_at": "2026-08-19T07:44:09Z",
   "source_trial_ids": [
     "NCT05048797",
     "NCT05261399",
     "NCT05298423",
+    "NCT06151574",
     "NCT06687369",
     "NCT06927986"
   ],
@@ -15,6 +16,12 @@
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=AstraZeneca&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Boehringer Ingelheim",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Boehringer%20Ingelheim&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "CSPC Megalith Biopharmaceutical Co.,Ltd.",
@@ -95,6 +102,13 @@
       "title": "Study of Pembrolizumab/Vibostolimab (MK-7684A) in Combination With Concurrent Chemoradiotherapy Followed by Pembrolizumab/Vibostolimab Versus Concurrent Chemoradiotherapy Followed by Durvalumab in Participants With Stage III Non-small Cell Lung Cancer (MK-7684A-006)",
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT05298423",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06151574",
+      "title": "Beamion LUNG-2: A Study to Test Whether Zongertinib (BI 1810631) Helps People With Advanced Non-small Cell Lung Cancer With HER2 Mutations Compared With Standard Treatment",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06151574",
       "has_results": false
     },
     {

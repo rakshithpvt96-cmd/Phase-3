@@ -1,0 +1,156 @@
+{
+  "drug_name": "fenfluramine",
+  "slug": "fenfluramine",
+  "enriched_at": "2026-08-19T07:42:57Z",
+  "source_trial_ids": [
+    "NCT06118255"
+  ],
+  "sponsors": [
+    {
+      "name": "UCB BIOSCIENCES, Inc.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=UCB%20BIOSCIENCES%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 3337,
+    "iupac_name": "N-ethyl-1-[3-(trifluoromethyl)phenyl]propan-2-amine",
+    "molecular_formula": "C12H16F3N",
+    "molecular_weight": "231.26",
+    "canonical_smiles": null,
+    "inchikey": "DBGIVFWFUFKIQN-UHFFFAOYSA-N",
+    "rxnorm": {
+      "rxcui": "4328",
+      "generic_name": "fenfluramine",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2106217",
+    "target_chembl_id": "CHEMBL1983",
+    "target_name": "5-hydroxytryptamine receptor 1D",
+    "mechanism_of_action_chembl": "Serotonin 1d (5-HT1d) receptor agonist"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action The precise mechanism by which fenfluramine exerts its therapeutic effects in the treatment of seizures associated with Dravet syndrome and Lennox-Gastaut syndrome is unknown. Fenfluramine and the metabolite, norfenfluramine, exhibit agonist activity at serotonin 5-HT2 receptors. There is an association between serotonergic drugs with 5-HT2B receptor agonist activity, including fenfluramine and norfenfluramine, and valvular heart disease and pulmonary arterial hypertension.",
+    "pharmacokinetics": "12.3 Pharmacokinetics The pharmacokinetics of fenfluramine and norfenfluramine were studied in healthy subjects, in pediatric patients with DS, and in pediatric and adult patients with LGS. The steady-state systemic exposure (C max and AUC) of fenfluramine was slightly greater than dose proportional over the dose range of 13 to 51.8 mg twice-daily fenfluramine (i.e., 1 to 4 times the maximum recommended dose). In pediatric patients with DS who received FINTEPLA 0.7 mg/kg/day, up to a total daily dose of 26 mg fenfluramine, the geometric mean steady-state fenfluramine (coefficient of variation) C max was 68.0 (41%) ng/mL and AUC 0-24h was 1390 (44%) ng*h/mL. Absorption Fenfluramine has a time to maximum plasma concentration (T max ) of 3 to 5 hours at steady state. The absolute bioavailability of fenfluramine is approximately 68-74%. There was no effect of food on the pharmacokinetics of fenfluramine or norfenfluramine. Distribution The geometric mean (CV%) apparent volume of distribution (Vz/F) of fenfluramine is 11.9 (16.5%) L/kg following oral administration of FINTEPLA in healthy subjects. Fenfluramine is 50% bound to human plasma proteins in vitro and binding is independent of drug concentrations. Elimination The elimination half-life of fenfluramine was 20 hours and the geometric mean (CV%) clearance (CL/F) was 24.8 (29%) L/h, following oral administration of FINTEPLA in healthy subjects. Metabolism Over 75% of fenfluramine is metabolized to norfenfluramine prior to elimination, primarily by CYP1A2, CYP2B6, and CYP2D6. Other CYP enzymes involved to a minor extent are CYP2C9, CYP2C19, and CYP3A4/5. Both fenfluramine and norfenfluramine are pharmacologically active. Norfenfluramine is further deaminated and oxidized to form inactive metabolites. Excretion Most of an orally administered dose of fenfluramine (greater than 90%) is excreted in the urine as fenfluramine, norfenfluramine, or other metabolites with fenfluramine and norfenfluramine accounting for less than 25% of the total; less than 5% is found in feces. Specific Populations The effect of age (range: 2 to 50 years), sex, and race had no clinically meaningful effect on the pharmacokinetics of fenfluramine. Patients with Renal Impairment In a dedicated clinical study comparing the pharmacokinetics of a single dose of 0.35 mg/kg FINTEPLA in subjects with severe renal impairment (eGFR < 30 mL/min/1.73m 2 determined by MDRD) and matched healthy volunteers, C max and AUC 0-inf of fenfluramine increased by 20% and 88%, respectively, and C max and AUC 0-inf of norfenfluramine increased by 13% and 21%, respectively in subjects with severe renal impairment [see Use in Specific Populations (8.6) ] . FINTEPLA has not been studied in patients with eGFR < 15 mL/min/1.73m 2 (determined by MDRD). It is not known if fenfluramine or norfenfluramine is dialyzable. Patients with Hepatic Impairment In a study comparing the pharmacokinetics of a single dose of 0.35 mg/kg FINTEPLA in subjects with mild, moderate, or severe hepatic impairment (Child-Pugh Class A, B, or C) and subjects with normal liver function, AUC 0-t of fenfluramine increased by 95%, 113%, and 185% in subjects with mild, moderate, and severe hepatic impairment, respectively. C max of fenfluramine increased by 19%, 16%, and 29% in subjects with mild, moderate, and severe hepatic impairment, respectively. AUC 0-t of norfenfluramine increased by 18% in mild hepatic impairment, 4% in moderate hepatic impairment, and decreased by 11% in severe hepatic impairment. C max of norfenfluramine decreased by 21%, 36%, and 45% in subjects with mild, moderate, and severe hepatic impairment, respectively. Combined molar AUC 0-t of fenfluramine and norfenfluramine increased by 55%, 56%, and 82% in subjects with mild, moderate, and severe hepatic impairment, respectively. Combined molar C max of fenfluramine and norfenfluramine increased by 7.5%, 1.3%, and 8% in subjects with mild, moderate, and severe hepatic impairment, respectively. The maximum daily dosage of FINTEPLA should be reduced in patients with mild hepatic impairment with/without stiripentol plus clobazam. The maximum daily dosage of FINTEPLA should be reduced in patients with moderate or severe hepatic impairment without stiripentol plus clobazam [see Dosage and Administration (2.5) and Use in Specific Populations (8.7) ]. Drug Interaction Studies Clinical Studies Effect of a single dose of stiripentol, clobazam, and valproic acid combination: Coadministration of a single 0.7 mg/kg dose of FINTEPLA, with a single dose of a stiripentol, clobazam, and valproic acid combination in healthy volunteers, increased the AUC 0-inf of fenfluramine by 69% and the C max by 18%, and decreased the AUC 0-72 hours of norfenfluramine by 41% and the C max by 42%, as compared to FINTEPLA administered alone. Effect of steady state stiripentol plus clobazam, with or without valproate: Fenfluramine pharmacokinetic data were collected from patients after receiving multiple fenfluramine administrations in Study 1 as well as Study 2. Population pharmacokinetic modeling and simulation were used to assess the effect of stiripentol plus clobazam with or without valproate on fenfluramine pharmacokinetics. The effect of stiripentol plus clobazam, with or without valproate, on fenfluramine pharmacokinetics is greater when FINTEPLA is at steady-state than for the first dose of FINTEPLA. At steady state in the patient population, the coadministration of 0.1 mg/kg twice daily (0.2 mg/kg/day), maximum 17 mg/day, of FINTEPLA with stiripentol plus clobazam with or without valproate, is expected to result in a 166% increase in fenfluramine AUC 0-24 and a 38% decrease in norfenfluramine AUC 0-24 , as compared to 0.2 mg/kg/day, maximum 26 mg/day, FINTEPLA dose administered alone [see Dosage and Administration (2.1 , 2.2) and Drug Interactions (7.1) ] . Effect of steady state cannabidiol: Coadministration of a single 0.35 mg/kg dose of FINTEPLA with repeated doses of cannabidiol increased the AUC 0-inf of fenfluramine by 59% and the C max by 10%, and decreased the AUC 0-inf of norfenfluramine by 22% and the C max by 33%, as compared to FINTEPLA administered alone. This interaction is not expected to be clinically significant. Effect of strong CYP1A2 or CYP2D6 inhibitors: Coadministration of a single 0.35 mg/kg dose of FINTEPLA with fluvoxamine (a strong CYP1A2 inhibitor) at steady state (50 mg once daily) in healthy volunteers increased the AUC 0- inf of fenfluramine by 102% and the C max by 22%, and decreased the AUC 0-inf of norfenfluramine by 22% and the C max by 44%, as compared to FINTEPLA administered alone [see Drug Interactions (7.1) ]. Coadministration of a single 0.35 mg/kg dose of FINTEPLA with paroxetine (a strong CYP2D6 inhibitor) at steady state (30 mg once daily) in healthy volunteers increased the AUC 0-inf of fenfluramine by 81% and the C max by 13%, and decreased the AUC 0-inf of norfenfluramine by 13% and the C max by 29%, as compared to FINTEPLA administered alone [see Drug Interactions (7.1) ]. Effect of strong CYP1A2, CYP2B6 or CYP3A inducers: Coadministration of a single 0.35 mg/kg dose of FINTEPLA with rifampin (a CYP1A2, CYP2B6, and CYP3A inducer) at steady state (600 mg once daily) in healthy volunteers decreased the AUC 0-inf of fenfluramine by 58% and the C max by 40%, and decreased the AUC 0-inf of norfenfluramine by 50%, and increased the C max of norfenfluramine by 13%, as compared to FINTEPLA administered alone [see Drug Interactions (7.1) ]. Effect of FINTEPLA on other drugs: Coadministration of a single 0.7 mg/kg dose of FINTEPLA, with a single dose of a stiripentol, clobazam, and valproic acid combination, did not affect the pharmacokinetics of stiripentol, nor the pharmacokinetics of clobazam or its N‑desmethyl-metabolite norclobazam, nor the pharmacokinetics of valproic acid, as compared to the stiripentol, clobazam, and valproic acid combination alone. Coadministration of a single 0.35 mg/kg dose of FINTEPLA, with repeated doses of cannabidiol, did not affect the pharmacokinetics of cannabidiol, as compared to cannabidiol alone. In Vitro Studies Fenfluramine is primarily metabolized by CYP1A2, CYP2B6, and CYP2D6 in vitro. Other CYP enzymes involved to a minor extent are CYP2C9, CYP2C19, and CYP3A4/5. Effect of fenfluramine and norfenfluramine on CYP Substrates: fenfluramine and norfenfluramine are not inhibitors or inducers of CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, or CYP3A4 at clinically relevant concentrations. Effect of transporters on fenfluramine and norfenfluramine: fenfluramine and norfenfluramine are not substrates of the P-g, BCRP, OAT1, OAT3, OCT2, MATE1, or MATE2-K transporters. Effect of FINTEPLA on Transporters: fenfluramine and norfenfluramine are not inhibitors of P-gp, BCRP, OAT1B1, OATP1B3, OAT1, OAT3, OCT2, MATE1, or MATE2-K transporters.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE FINTEPLA is indicated for the treatment of seizures associated with Dravet syndrome (DS) and Lennox-Gastaut syndrome (LGS) in patients 2 years of age and older. FINTEPLA is indicated for the treatment of seizures associated with Dravet syndrome and Lennox-Gastaut syndrome in patients 2 years of age and older. ( 1 )",
+    "boxed_warning": "WARNING: VALVULAR HEART DISEASE and PULMONARY ARTERIAL HYPERTENSION FINTEPLA can cause valvular heart disease and pulmonary arterial hypertension [see Warnings and Precautions (5.1) ]. Echocardiogram assessments are required before, during, and after treatment with FINTEPLA. The benefits versus the risks of initiating or continuing FINTEPLA must be considered, based on echocardiogram findings [see Dosage and Administration (2.1 , 2.6 ) and Warnings and Precautions (5.1) ]. Because of the risks of valvular heart disease and pulmonary arterial hypertension, FINTEPLA is available only through a restricted program under a Risk Evaluation and Mitigation Strategy (REMS) called the FINTEPLA REMS [see Warnings and Precautions (5.2) ]. WARNING: VALVULAR HEART DISEASE and PULMONARY ARTERIAL HYPERTENSION See full prescribing information for complete boxed warning. FINTEPLA can cause valvular heart disease and pulmonary arterial hypertension. ( 5.1 ) Echocardiogram assessments are required before, during, and after treatment with FINTEPLA. ( 2.1 , 2.6 , 5.1 ) FINTEPLA is available only through a restricted program called the FINTEPLA REMS. ( 5.2 )",
+    "openfda_brand_names": [
+      "Fintepla"
+    ],
+    "openfda_generic_names": [
+      "FENFLURAMINE"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e88f360e-33ad-4cd6-b2de-5ef885857c5d",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Dravet Syndrome",
+    "slug": "dravet-syndrome"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06118255",
+      "title": "A Study to Evaluate Safety, Tolerability, and Pharmacokinetics of Fenfluramine (Hydrochloride) in Infants 1 Year to Less Than 2 Years of Age With Dravet Syndrome",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06118255",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42545895",
+        "title": "Changes in effectiveness and safety in patients with Lennox-Gastaut syndrome transitioning from the fenfluramine randomized controlled trial to open-label extension study.",
+        "pubdate": "2026 Aug 3",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42545895/"
+      },
+      {
+        "pmid": "42389070",
+        "title": "Fenfluramine for seizures in Dravet syndrome and Lennox-Gastaut syndrome: Mechanisms, clinical evidence, safety, and practical integration.",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42389070/"
+      },
+      {
+        "pmid": "41324386",
+        "title": "Relieving the Weight: Fenfluramine's Re-emergence as Antiseizure Medication for Lennox-Gastaut and Dravet Syndrome.",
+        "pubdate": "2026 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41324386/"
+      },
+      {
+        "pmid": "40468679",
+        "title": "Current and emerging pharmacotherapies in Lennox-Gastaut syndrome.",
+        "pubdate": "2025 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40468679/"
+      },
+      {
+        "pmid": "38962968",
+        "title": "Practical considerations for the use of fenfluramine to manage patients with Dravet syndrome or Lennox-Gastaut syndrome in clinical practice.",
+        "pubdate": "2024 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38962968/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "DIHYDROERGOTAMINE MESYLATE",
+        "chembl_id": "CHEMBL1200517",
+        "reason": "same target: 5-hydroxytryptamine receptor 1D"
+      },
+      {
+        "name": "ERGOTAMINE TARTRATE",
+        "chembl_id": "CHEMBL2448612",
+        "reason": "same target: 5-hydroxytryptamine receptor 1D"
+      },
+      {
+        "name": "ELETRIPTAN HYDROBROMIDE",
+        "chembl_id": "CHEMBL1201003",
+        "reason": "same target: 5-hydroxytryptamine receptor 1D"
+      },
+      {
+        "name": "NARATRIPTAN HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1200601",
+        "reason": "same target: 5-hydroxytryptamine receptor 1D"
+      },
+      {
+        "name": "ZOLMITRIPTAN",
+        "chembl_id": "CHEMBL1185",
+        "reason": "same target: 5-hydroxytryptamine receptor 1D"
+      },
+      {
+        "name": "ALMOTRIPTAN MALATE",
+        "chembl_id": "CHEMBL1200521",
+        "reason": "same target: 5-hydroxytryptamine receptor 1D"
+      },
+      {
+        "name": "FROVATRIPTAN SUCCINATE",
+        "chembl_id": "CHEMBL2138684",
+        "reason": "same target: 5-hydroxytryptamine receptor 1D"
+      },
+      {
+        "name": "RIZATRIPTAN BENZOATE",
+        "chembl_id": "CHEMBL1201032",
+        "reason": "same target: 5-hydroxytryptamine receptor 1D"
+      },
+      {
+        "name": "SUMATRIPTAN SUCCINATE",
+        "chembl_id": "CHEMBL1201150",
+        "reason": "same target: 5-hydroxytryptamine receptor 1D"
+      },
+      {
+        "name": "SUMATRIPTAN",
+        "chembl_id": "CHEMBL128",
+        "reason": "same target: 5-hydroxytryptamine receptor 1D"
+      }
+    ]
+  }
+}

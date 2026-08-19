@@ -1,0 +1,156 @@
+{
+  "drug_name": "Olanzapine",
+  "slug": "olanzapine",
+  "enriched_at": "2026-08-19T07:50:05Z",
+  "source_trial_ids": [
+    "NCT05303064"
+  ],
+  "sponsors": [
+    {
+      "name": "Alkermes, Inc.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Alkermes%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 135398745,
+    "iupac_name": "2-methyl-4-(4-methylpiperazin-1-yl)-10H-thieno[2,3-b][1,5]benzodiazepine",
+    "molecular_formula": "C17H20N4S",
+    "molecular_weight": "312.4",
+    "canonical_smiles": null,
+    "inchikey": "KVWDHTXUZHCGIO-UHFFFAOYSA-N",
+    "rxnorm": {
+      "rxcui": "61381",
+      "generic_name": "olanzapine",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL3989694",
+    "target_chembl_id": "CHEMBL224",
+    "target_name": "5-hydroxytryptamine receptor 2A",
+    "mechanism_of_action_chembl": "Serotonin 2a (5-HT2a) receptor antagonist"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action The mechanism of action of olanzapine, in the listed indications is unclear. However, the efficacy of olanzapine in schizophrenia could be mediated through a combination of dopamine and serotonin type 2 (5HT2) antagonism.",
+    "pharmacokinetics": "12.3 Pharmacokinetics Oral Administration, Monotherapy — Olanzapine is well absorbed and reaches peak concentrations in approximately 6 hours following an oral dose. It is eliminated extensively by first pass metabolism, with approximately 40% of the dose metabolized before reaching the systemic circulation. Food does not affect the rate or extent of olanzapine absorption. Pharmacokinetic studies showed that olanzapine tablets and olanzapine orally disintegrating tablets dosage forms of olanzapine are bioequivalent. Olanzapine displays linear kinetics over the clinical dosing range. Its half-life ranges from 21 to 54 hours (5th to 95th percentile; mean of 30 hr), and apparent plasma clearance ranges from 12 to 47 L/hr (5th to 95th percentile; mean of 25 L/hr). Administration of olanzapine once daily leads to steady-state concentrations in about 1 week that are approximately twice the concentrations after single doses. Plasma concentrations, half-life, and clearance of olanzapine may vary between individuals on the basis of smoking status, gender, and age. Olanzapine is extensively distributed throughout the body, with a volume of distribution of approximately 1000 L. It is 93% bound to plasma proteins over the concentration range of 7 to 1100 ng/mL, binding primarily to albumin and α 1 -acid glycoprotein. Metabolism and Elimination — Following a single oral dose of 14 C labeled olanzapine, 7% of the dose of olanzapine was recovered in the urine as unchanged drug, indicating that olanzapine is highly metabolized. Approximately 57% and 30% of the dose was recovered in the urine and feces, respectively. In the plasma, olanzapine accounted for only 12% of the AUC for total radioactivity, indicating significant exposure to metabolites. After multiple dosing, the major circulating metabolites were the 10-N-glucuronide, present at steady state at 44% of the concentration of olanzapine, and 4′-N-desmethyl olanzapine, present at steady state at 31% of the concentration of olanzapine. Both metabolites lack pharmacological activity at the concentrations observed. Direct glucuronidation and cytochrome P450 (CYP) mediated oxidation are the primary metabolic pathways for olanzapine. In vitro studies suggest that CYPs 1A2 and 2D6, and the flavin-containing monooxygenase system are involved in olanzapine oxidation. CYP2D6 mediated oxidation appears to be a minor metabolic pathway in vivo, because the clearance of olanzapine is not reduced in subjects who are deficient in this enzyme. Specific Populations Renal Impairment — Because olanzapine is highly metabolized before excretion and only 7% of the drug is excreted unchanged, renal dysfunction alone is unlikely to have a major impact on the pharmacokinetics of olanzapine. The pharmacokinetic characteristics of olanzapine were similar in patients with severe renal impairment and normal subjects, indicating that dosage adjustment based upon the degree of renal impairment is not required. In addition, olanzapine is not removed by dialysis. The effect of renal impairment on metabolite elimination has not been studied. Hepatic Impairment — Although the presence of hepatic impairment may be expected to reduce the clearance of olanzapine, a study of the effect of impaired liver function in subjects (n=6) with clinically significant (Childs Pugh Classification A and B) cirrhosis revealed little effect on the pharmacokinetics of olanzapine. Geriatric — In a study involving 24 healthy subjects, the mean elimination half-life of olanzapine was about 1.5 times greater in elderly (≥65 years) than in nonelderly subjects (<65 years). Caution should be used in dosing the elderly, especially if there are other factors that might additively influence drug metabolism and/or pharmacodynamic sensitivity [see Dosage and Administration ( 2 )] . Gender — Clearance of olanzapine is approximately 30% lower in women than in men. There were, however, no apparent differences between men and women in effectiveness or adverse effects. Dosage modifications based on gender should not be needed. Smoking Status — Olanzapine clearance is about 40% higher in smokers than in nonsmokers, although dosage modifications are not routinely recommended. Race — In vivo studies have shown that exposures are similar among Japanese, Chinese and Caucasians, especially after normalization for body weight differences. Dosage modifications for race are, therefore, not recommended. Combined Effects — The combined effects of age, smoking, and gender could lead to substantial pharmacokinetic differences in populations. The clearance in young smoking males, for example, may be 3 times higher than that in elderly nonsmoking females. Dosing modification may be necessary in patients who exhibit a combination of factors that may result in slower metabolism of olanzapine [see Dosage and Administration ( 2 )] . Adolescents (ages 13 to 17 years) — In clinical studies, most adolescents were nonsmokers and this population had a lower average body weight, which resulted in higher average olanzapine exposure compared to adults.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE Olanzapine is an atypical antipsychotic indicated: As oral formulation for the: Treatment of schizophrenia. ( 1.1 ) Adults: Efficacy was established in three clinical trials in patients with schizophrenia: two 6-week trials and one maintenance trial. ( 14.1 ) Adolescents (ages 13-17): Efficacy was established in one 6-week trial in patients with schizophrenia ( 14.1 ). The increased potential (in adolescents compared with adults) for weight gain and dyslipidemia may lead clinicians to consider prescribing other drugs first in adolescents. ( 1.1 ) Acute treatment of manic or mixed episodes associated with bipolar I disorder and maintenance treatment of bipolar I disorder. ( 1.2 ) Adults: Efficacy was established in three clinical trials in patients with manic or mixed episodes of bipolar I disorder: two 3- to 4-week trials and one maintenance trial. ( 14.2 ) Adolescents (ages 13-17): Efficacy was established in one 3-week trial in patients with manic or mixed episodes associated with bipolar I disorder ( 14.2 ). The increased potential (in adolescents compared with adults) for weight gain and dyslipidemia may lead clinicians to consider prescribing other drugs first in adolescents. ( 1.2 ) Medication therapy for pediatric patients with schizophrenia or bipolar I disorder should be undertaken only after a thorough diagnostic evaluation and with careful consideration of the potential risks. ( 1.3 ) Adjunct to valproate or lithium in the treatment of manic or mixed episodes associated with bipolar I disorder. ( 1.2 ) Efficacy was established in two 6-week clinical trials in adults ( 14.2 ). Maintenance efficacy has not been systematically evaluated. As Olanzapine and Fluoxetine in Combination for the: Treatment of depressive episodes associated with bipolar I disorder. ( 1.5 ) Efficacy was established with Symbyax (olanzapine and fluoxetine in combination); refer to the product label for Symbyax. Treatment of treatment resistant depression. ( 1.6 ) Efficacy was established with Symbyax (olanzapine and fluoxetine in combination) in adults; refer to the product label for Symbyax. 1.1 Schizophrenia Oral olanzapine is indicated for the treatment of schizophrenia. Efficacy was established in three clinical trials in adult patients with schizophrenia: two 6-week trials and one maintenance trial. In adolescent patients with schizophrenia (ages 13-17), efficacy was established in one 6-week trial [see Clinical Studies ( 14.1 )] . When deciding among the alternative treatments available for adolescents, clinicians should consider the increased potential (in adolescents as compared with adults) for weight gain and dyslipidemia. Clinicians should consider the potential long-term risks when prescribing to adolescents, and in many cases this may lead them to consider prescribing other drugs first in adolescents [see Warnings and Precautions ( 5.5 ] . 1.2 Bipolar I Disorder (Manic or Mixed Episodes) Monotherapy — Oral olanzapine is indicated for the acute treatment of manic or mixed episodes associated with bipolar I disorder and maintenance treatment of bipolar I disorder. Efficacy was established in three clinical trials in adult patients with manic or mixed episodes of bipolar I disorder: two 3- to 4-week trials and one monotherapy maintenance trial. In adolescent patients with manic or mixed episodes associated with bipolar I disorder (ages 13-17), efficacy was established in one 3-week trial [see Clinical Studies ( 14.2 )] . When deciding among the alternative treatments available for adolescents, clinicians should consider the increased potential (in adolescents as compared with adults) for weight gain and dyslipidemia. Clinicians should consider the potential long-term risks when prescribing to adolescents, and in many cases this may lead them to consider prescribing other drugs first in adolescents [see Warnings and Precautions ( 5.5 ] . Adjunctive Therapy to Lithium or Valproate — Oral olanzapine is indicated for the treatment of manic or mixed episodes associated with bipolar I disorder as an adjunct to lithium or valproate. Efficacy was established in two 6-week clinical trials in adults. The effectiveness of adjunctive therapy for longer-term use has not been systematically evaluated in controlled trials [see Clinical Studies ( 14.2 )] . 1.3 Special Considerations in Treating Pediatric Schizophrenia and Bipolar I Disorder Pediatric schizophrenia and bipolar I disorder are serious mental disorders; however, diagnosis can be challenging. For pediatric schizophrenia, symptom profiles can be variable, and for bipolar I disorder, pediatric patients may have variable patterns of periodicity of manic or mixed symptoms. It is recommended that medication therapy for pediatric schizophrenia and bipolar I disorder be initiated only after a thorough diagnostic evaluation has been performed and careful consideration given to the risks associated with medication treatment. Medication treatment for both pediatric schizophrenia and bipolar I disorder should be part of a total treatment program that often includes psychological, educational and social interventions. 1.5 Olanzapine and Fluoxetine in Combination: Depressive Episodes Associated with Bipolar I Disorder Oral olanzapine and fluoxetine in combination is indicated for the treatment of depressive episodes associated with bipolar I disorder, based on clinical studies. When using olanzapine and fluoxetine in combination, refer to the Clinical Studies section of the package insert for Symbyax. Olanzapine monotherapy is not indicated for the treatment of depressive episodes associated with bipolar I disorder. 1.6 Olanzapine and Fluoxetine in Combination: Treatment Resistant Depression Oral olanzapine and fluoxetine in combination is indicated for the treatment of treatment resistant depression (major depressive disorder in patients who do not respond to 2 separate trials of different antidepressants of adequate dose and duration in the current episode), based on clinical studies in adult patients. When using olanzapine and fluoxetine in combination, refer to the Clinical Studies section of the package insert for Symbyax. Olanzapine monotherapy is not indicated for the treatment of treatment resistant depression.",
+    "boxed_warning": "WARNING: INCREASED MORTALITY IN ELDERLY PATIENTS WITH DEMENTIA-RELATED PSYCHOSIS Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death. Analyses of seventeen placebo-controlled trials (modal duration of 10 weeks), largely in patients taking atypical antipsychotic drugs, revealed a risk of death in drug-treated patients of between 1.6 to 1.7 times the risk of death in placebo-treated patients. Over the course of a typical 10-week controlled trial, the rate of death in drug-treated patients was about 4.5%, compared to a rate of about 2.6% in the placebo group. Although the causes of death were varied, most of the deaths appeared to be either cardiovascular (e.g., heart failure, sudden death) or infectious (e.g., pneumonia) in nature. Observational studies suggest that, similar to atypical antipsychotic drugs, treatment with conventional antipsychotic drugs may increase mortality. The extent to which the findings of increased mortality in observational studies may be attributed to the antipsychotic drug as opposed to some characteristic(s) of the patients is not clear. ZYPREXA (olanzapine) is not approved for the treatment of patients with dementia-related psychosis [see Warnings and Precautions ( 5.1 ), Use in Specific Populations ( 8.5 ), and Patient Counseling Information ( 17 )] . When using olanzapine and fluoxetine in combination, also refer to the Boxed Warning section of the package insert for Symbyax. WARNING: INCREASED MORTALITY IN ELDERLY PATIENTS WITH DEMENTIA-RELATED PSYCHOSIS See full prescribing information for complete boxed warning. Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death. Olanzapine is not approved for the treatment of patients with dementia-related psychosis. ( 5.1 , 8.5 , 17 ) When using olanzapine and fluoxetine in combination, also refer to the Boxed Warning section of the package insert for Symbyax.",
+    "openfda_brand_names": [
+      "Olanzapine"
+    ],
+    "openfda_generic_names": [
+      "OLANZAPINE"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=709d79a1-2742-4629-af43-161be166833a",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Schizophrenia",
+    "slug": "schizophrenia"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05303064",
+      "title": "Study to Evaluate Weight Gain as Assessed by Change in BMI Z-score in Pediatric Subjects With Schizophrenia or Bipolar I Disorder",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05303064",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42498119",
+        "title": "Effects of adjunctive memantine on executive function and global cognition in bipolar disorder (BD): A randomized, double-blind, placebo-controlled clinical trial.",
+        "pubdate": "2026 Jul 24",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42498119/"
+      },
+      {
+        "pmid": "42469725",
+        "title": "Efficacy and safety of memantine as adjunctive treatment for manic episodes in bipolar disorder (BD): a randomized, double-blind, placebo-controlled clinical trial.",
+        "pubdate": "2026 Jul 17",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42469725/"
+      },
+      {
+        "pmid": "42338244",
+        "title": "The Danish Out-of-Hospital Cardiac Arrest Trial: A Statistical Analysis Plan.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42338244/"
+      },
+      {
+        "pmid": "42338242",
+        "title": "Prophylactic Olanzapine Versus Placebo in Comatose Survivors of Out-of-Hospital Cardiac Arrest: Protocol for a Multicenter Randomized Comparison Within the Danish Out-of-Hospital Cardiac Arrest (DANOHCA) Trial.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42338242/"
+      },
+      {
+        "pmid": "42317925",
+        "title": "Potential of Glucagon-Like Peptide-1 (GLP-1) Receptor Agonists in Mitigating Metabolic Side Effects Associated With Clozapine or Olanzapine Therapy: A Literature Review.",
+        "pubdate": "2026 May",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42317925/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "LOXAPINE",
+        "chembl_id": "CHEMBL831",
+        "reason": "same target: 5-hydroxytryptamine receptor 2A"
+      },
+      {
+        "name": "CHLORPROTHIXENE",
+        "chembl_id": "CHEMBL908",
+        "reason": "same target: 5-hydroxytryptamine receptor 2A"
+      },
+      {
+        "name": "CHLORPROMAZINE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1713",
+        "reason": "same target: 5-hydroxytryptamine receptor 2A"
+      },
+      {
+        "name": "CLOZAPINE",
+        "chembl_id": "CHEMBL42",
+        "reason": "same target: 5-hydroxytryptamine receptor 2A"
+      },
+      {
+        "name": "CYCLOBENZAPRINE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1200636",
+        "reason": "same target: 5-hydroxytryptamine receptor 2A"
+      },
+      {
+        "name": "CHLORPROMAZINE",
+        "chembl_id": "CHEMBL71",
+        "reason": "same target: 5-hydroxytryptamine receptor 2A"
+      },
+      {
+        "name": "TRAZODONE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1200798",
+        "reason": "same target: 5-hydroxytryptamine receptor 2A"
+      },
+      {
+        "name": "CARPHENAZINE MALEATE",
+        "chembl_id": "CHEMBL2358147",
+        "reason": "same target: 5-hydroxytryptamine receptor 2A"
+      },
+      {
+        "name": "DROPERIDOL",
+        "chembl_id": "CHEMBL1108",
+        "reason": "same target: 5-hydroxytryptamine receptor 2A"
+      },
+      {
+        "name": "ARIPIPRAZOLE",
+        "chembl_id": "CHEMBL1112",
+        "reason": "same target: 5-hydroxytryptamine receptor 2A"
+      }
+    ]
+  }
+}

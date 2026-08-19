@@ -1,0 +1,132 @@
+{
+  "drug_name": "Tafasitamab placebo",
+  "slug": "tafasitamab-placebo",
+  "enriched_at": "2026-08-19T07:45:29Z",
+  "source_trial_ids": [
+    "NCT04824092"
+  ],
+  "sponsors": [
+    {
+      "name": "Incyte Corporation",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Incyte%20Corporation&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2387211",
+      "generic_name": "tafasitamab",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4298047",
+    "target_chembl_id": "CHEMBL3390821",
+    "target_name": "B-lymphocyte antigen CD19",
+    "mechanism_of_action_chembl": "B-lymphocyte antigen CD19 binding agent"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Tafasitamab%20placebo+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Tafasitamab%20placebo+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Tafasitamab%20placebo+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Diffuse Large B-cell Lymphoma",
+    "slug": "diffuse-large-b-cell-lymphoma"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04824092",
+      "title": "Tafasitamab + Lenalidomide + R-CHOP Versus R-CHOP in Newly Diagnosed High-intermediate and High Risk DLBCL Patients",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04824092",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42217458",
+        "title": "Tafasitamab plus lenalidomide and R-CHOP versus R-CHOP for first-line treatment of patients with high-risk diffuse large B-cell lymphoma (frontMIND): a global, phase 3, randomised, double-blind, placebo-controlled trial.",
+        "pubdate": "2026 Jun 20",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42217458/"
+      },
+      {
+        "pmid": "41360064",
+        "title": "Tafasitamab, lenalidomide, and rituximab in relapsed or refractory follicular lymphoma (inMIND): a global, phase 3, randomised controlled trial.",
+        "pubdate": "2026 Jan 10",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41360064/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "BLINATUMOMAB",
+        "chembl_id": "CHEMBL1742992",
+        "reason": "same target: B-lymphocyte antigen CD19"
+      },
+      {
+        "name": "TAPLITUMOMAB PAPTOX",
+        "chembl_id": "CHEMBL2107890",
+        "reason": "same target: B-lymphocyte antigen CD19"
+      },
+      {
+        "name": "COLTUXIMAB RAVTANSINE",
+        "chembl_id": "CHEMBL2109286",
+        "reason": "same target: B-lymphocyte antigen CD19"
+      },
+      {
+        "name": "ONCOLYSIN B",
+        "chembl_id": "CHEMBL2109308",
+        "reason": "same target: B-lymphocyte antigen CD19"
+      },
+      {
+        "name": "INEBILIZUMAB",
+        "chembl_id": "CHEMBL2109334",
+        "reason": "same target: B-lymphocyte antigen CD19"
+      },
+      {
+        "name": "DENINTUZUMAB MAFODOTIN",
+        "chembl_id": "CHEMBL3545371",
+        "reason": "same target: B-lymphocyte antigen CD19"
+      },
+      {
+        "name": "DENINTUZUMAB",
+        "chembl_id": "CHEMBL3544992",
+        "reason": "same target: B-lymphocyte antigen CD19"
+      },
+      {
+        "name": "MDX-1342",
+        "chembl_id": "CHEMBL2109337",
+        "reason": "same target: B-lymphocyte antigen CD19"
+      },
+      {
+        "name": "AMG-729",
+        "chembl_id": "CHEMBL2109338",
+        "reason": "same target: B-lymphocyte antigen CD19"
+      },
+      {
+        "name": "AXICABTAGENE CILOLEUCEL",
+        "chembl_id": "CHEMBL3989989",
+        "reason": "same target: B-lymphocyte antigen CD19"
+      }
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "drug_name": "5% Calcium Sodium Phosphosilicate toothpaste",
+  "slug": "5-calcium-sodium-phosphosilicate-toothpaste",
+  "enriched_at": "2026-08-19T07:46:23Z",
+  "source_trial_ids": [
+    "NCT07664592"
+  ],
+  "sponsors": [
+    {
+      "name": "Colgate Palmolive",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Colgate%20Palmolive&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2729261",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL6067999",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=5%25%20Calcium%20Sodium%20Phosphosilicate%20toothpaste+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=5%25%20Calcium%20Sodium%20Phosphosilicate%20toothpaste+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=5%25%20Calcium%20Sodium%20Phosphosilicate%20toothpaste+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Dentinal Sensitivity",
+    "slug": "dentinal-sensitivity"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07664592",
+      "title": "Comparative Efficacy of Different Dentin Occluding Toothpaste Technologies",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07664592",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "30968066",
+        "title": "An Exploratory Randomised Study to Evaluate the Efficacy of an Experimental Occlusion-based Dentifrice in the Relief of Dentin Hypersensitivity.",
+        "pubdate": "2019",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30968066/"
+      },
+      {
+        "pmid": "30166822",
+        "title": "Comparative Evaluation of Desensitizing Efficacy of Dentifrice Containing 5% Fluoro Calcium Phosphosilicate versus 5% Calcium Sodium Phosphosilicate: A Randomized Controlled Clinical Trial.",
+        "pubdate": "2018 Jul-Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30166822/"
+      },
+      {
+        "pmid": "28390207",
+        "title": "A Randomized Clinical Trial Investigating the Effect of Particle Size of Calcium Sodium Phosphosilicate (CSPS) on the Efficacy of CSPS-containing Dentifrices for the Relief of Dentin Hypersensitivity.",
+        "pubdate": "2016 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28390207/"
+      },
+      {
+        "pmid": "27012568",
+        "title": "Calcium sodium phosphosilicate had some benefit on dentine hypersensitivity.",
+        "pubdate": "2016 Mar",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27012568/"
+      },
+      {
+        "pmid": "26268772",
+        "title": "A prospective randomized clinical trial into the capacity of a toothpaste containing NovaMin to prevent white spot lesions and gingivitis during orthodontic treatment.",
+        "pubdate": "2015",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26268772/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

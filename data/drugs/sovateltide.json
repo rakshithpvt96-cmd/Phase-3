@@ -1,0 +1,99 @@
+{
+  "drug_name": "Sovateltide",
+  "slug": "sovateltide",
+  "enriched_at": "2026-08-19T07:51:23Z",
+  "source_trial_ids": [
+    "NCT05691244"
+  ],
+  "sponsors": [
+    {
+      "name": "Pharmazz, Inc.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Pharmazz%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 16130933,
+    "iupac_name": "(4S)-4-[[(2S)-4-carboxy-2-[[(2S)-3-carboxy-2-(3-carboxypropanoylamino)propanoyl]amino]butanoyl]amino]-5-[[(2S)-1-[[(2S)-1-[[(2S)-1-[[(2S)-1-[[(2S)-1-[[(2S)-1-[[(2S)-1-[[(2S)-3-carboxy-1-[[(2S,3S)-1-[[(2S,3S)-1-[[(1S)-1-carboxy-2-(1H-indol-3-yl)ethyl]amino]-3-methyl-1-oxopentan-2-yl]amino]-3-methyl-1-oxopentan-2-yl]amino]-1-oxopropan-2-yl]amino]-4-methyl-1-oxopentan-2-yl]amino]-3-(1H-imidazol-5-yl)-1-oxopropan-2-yl]amino]-1-oxopropan-2-yl]amino]-1-oxo-3-phenylpropan-2-yl]amino]-3-(4-hydroxyphenyl)-1-oxopropan-2-yl]amino]-3-methyl-1-oxobutan-2-yl]amino]-1-oxopropan-2-yl]amino]-5-oxopentanoic acid",
+    "molecular_formula": "C86H117N17O27",
+    "molecular_weight": "1820.9",
+    "canonical_smiles": null,
+    "inchikey": "DXPHNGAMYPPTBJ-TZMIJSMNSA-N",
+    "rxnorm": {
+      "rxcui": "2717688",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL3188091",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Sovateltide+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Sovateltide+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Sovateltide+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Acute Ischemic Stroke",
+    "slug": "acute-ischemic-stroke"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05691244",
+      "title": "Assess the Safety and Efficacy of Sovateltide in Patients With Acute Cerebral Ischemic Stroke",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05691244",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "39542995",
+        "title": "Efficacy and Safety of Sovateltide in Patients with Acute Cerebral Ischaemic Stroke: A Randomised, Double-Blind, Placebo-Controlled, Multicentre, Phase III Clinical Trial.",
+        "pubdate": "2024 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39542995/"
+      },
+      {
+        "pmid": "33428177",
+        "title": "Safety and Efficacy of Sovateltide (IRL-1620) in a Multicenter Randomized Controlled Clinical Trial in Patients with Acute Cerebral Ischemic Stroke.",
+        "pubdate": "2021 Jan",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33428177/"
+      },
+      {
+        "pmid": "22331757",
+        "title": "IRL-1620, an endothelin-B receptor agonist, enhanced radiation induced reduction in tumor volume in Dalton's Lymphoma Ascites tumor model.",
+        "pubdate": "2012 Jan",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22331757/"
+      },
+      {
+        "pmid": "19666119",
+        "title": "Repeated administration of ET(B) receptor agonist, IRL-1620, produces tachyphylaxis only to its hypotensive effect.",
+        "pubdate": "2009 Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19666119/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

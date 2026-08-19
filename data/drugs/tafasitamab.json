@@ -1,0 +1,150 @@
+{
+  "drug_name": "Tafasitamab",
+  "slug": "tafasitamab",
+  "enriched_at": "2026-08-19T07:45:18Z",
+  "source_trial_ids": [
+    "NCT04824092"
+  ],
+  "sponsors": [
+    {
+      "name": "Incyte Corporation",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Incyte%20Corporation&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2387211",
+      "generic_name": "tafasitamab",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4298047",
+    "target_chembl_id": "CHEMBL3390821",
+    "target_name": "B-lymphocyte antigen CD19",
+    "mechanism_of_action_chembl": "B-lymphocyte antigen CD19 binding agent"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Tafasitamab-cxix is an Fc-modified monoclonal antibody that binds to CD19 antigen expressed on the surface of pre-B and mature B lymphocytes and on several B-cell malignancies, including diffuse large B-cell lymphoma (DLBCL) and follicular lymphoma (FL). Upon binding to CD19, tafasitamab-cxix mediates B-cell lysis through apoptosis and immune effector mechanisms, including antibody-dependent cellular cytotoxicity (ADCC) and antibody-dependent cellular phagocytosis (ADCP). In studies conducted in vitro in DLBCL tumor cells, tafasitamab-cxix in combination with lenalidomide resulted in increased ADCC activity compared to tafasitamab-cxix or lenalidomide alone.",
+    "pharmacokinetics": "12.3 Pharmacokinetics Pharmacokinetic (PK) parameters are presented as geometric mean (CV%) unless otherwise specified. Tafasitamab-cxix maximum concentration is achieved at the end of weekly dosing (i.e., end of Cycle 3). PK exposures are summarized for the recommended dosage of MONJUVI in Table 8. Table 8: Exposure Parameters of Tafasitamab-cxix in Patients with Relapsed or Refractory DLBCL and Relapsed or Refractory FL Following Recommended Dosage C avg (mcg/mL) Values are geometric mean with geometric CV%. C max (mcg/mL) C trough (mcg/mL) End of weekly dosing (end of Cycle 3) (N = 367) 315 (30.3%) 489 (22.8%) 226 (38.5%) Steady state Steady state values are approximated at Cycle 6 with every 2-week dosing (N = 285) 185 (32.5%) 375 (20.8%) 112 (44.8%) Distribution Tafasitamab-cxix steady state total volume of distribution was 7.11 L (29.7%). Elimination Tafasitamab-cxix estimated elimination half-life was 13.4 days (31.7%) with an apparent clearance of 0.44 L/day (29.2%). Specific Populations Body weight (37.6 to 163 kg) has a significant effect on the PK of tafasitamab‑cxix, with higher clearance and volume of distribution expected with higher body weight. No clinically meaningful differences in the PK of tafasitamab-cxix were observed based on age (16 to 90 years), sex, race (Asian versus non-Asian), mild to severe renal impairment (creatinine clearance [CLcr] 15 to < 90 mL/min as estimated by Cockcroft-Gault formula), and mild to moderate hepatic impairment (total bilirubin ≤ ULN and AST > ULN, or total bilirubin 1 to 3.0 times ULN and any AST). The effect of end-stage renal disease (CLcr < 15 mL/min) and severe hepatic impairment (total bilirubin > 3.0 times ULN and any AST) on the PK of tafasitamab-cxix are unknown. Drug Interaction Studies No clinical studies evaluating the drug interaction potential of tafasitamab-cxix have been conducted. In population PK analyses, no clinically meaningful differences in tafasitamab-cxix PK were observed when used concomitantly with lenalidomide and with the combination of lenalidomide and rituximab.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE MONJUVI is a CD19-directed cytolytic antibody indicated: in combination with lenalidomide for the treatment of adult patients with relapsed or refractory diffuse large B-cell lymphoma (DLBCL) not otherwise specified, including DLBCL arising from low grade lymphoma, and who are not eligible for autologous stem cell transplant (ASCT). This indication is approved under accelerated approval based on overall response rate. Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial(s). ( 1.1 ) in combination with lenalidomide and rituximab for the treatment of adult patients with relapsed or refractory follicular lymphoma (FL). ( 1.2 ) Limitations of Use : MONJUVI is not indicated and is not recommended for the treatment of patients with relapsed or refractory marginal zone lymphoma outside of controlled clinical trials. ( 1.2 , 14.3 ) 1.1 Relapsed or Refractory Diffuse Large B-cell Lymphoma MONJUVI, in combination with lenalidomide, is indicated for the treatment of adult patients with relapsed or refractory diffuse large B-cell lymphoma (DLBCL) not otherwise specified, including DLBCL arising from low grade lymphoma, and who are not eligible for autologous stem cell transplant (ASCT). This indication is approved under accelerated approval based on overall response rate [ see Clinical Studies ( 14.1 )] . Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial(s). 1.2 Relapsed or Refractory Follicular Lymphoma MONJUVI, in combination with lenalidomide and rituximab, is indicated for the treatment of adult patients with relapsed or refractory follicular lymphoma (FL). Limitations of Use : MONJUVI is not indicated and is not recommended for the treatment of patients with relapsed or refractory marginal zone lymphoma outside of controlled clinical trials [see Clinical Studies ( 14.3 )].",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "MONJUVI"
+    ],
+    "openfda_generic_names": [
+      "TAFASITAMAB-CXIX"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ec13ac6b-bfde-4e84-907a-83bd69584d95",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Diffuse Large B-cell Lymphoma",
+    "slug": "diffuse-large-b-cell-lymphoma"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04824092",
+      "title": "Tafasitamab + Lenalidomide + R-CHOP Versus R-CHOP in Newly Diagnosed High-intermediate and High Risk DLBCL Patients",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04824092",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42217458",
+        "title": "Tafasitamab plus lenalidomide and R-CHOP versus R-CHOP for first-line treatment of patients with high-risk diffuse large B-cell lymphoma (frontMIND): a global, phase 3, randomised, double-blind, placebo-controlled trial.",
+        "pubdate": "2026 Jun 20",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42217458/"
+      },
+      {
+        "pmid": "41563911",
+        "title": "Tafasitamab as Monotherapy or in Combination in Japanese Patients With B-Cell Non-Hodgkin Lymphoma: Results From the Phase 1b J-MIND Study.",
+        "pubdate": "2026 Apr",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41563911/"
+      },
+      {
+        "pmid": "41360064",
+        "title": "Tafasitamab, lenalidomide, and rituximab in relapsed or refractory follicular lymphoma (inMIND): a global, phase 3, randomised controlled trial.",
+        "pubdate": "2026 Jan 10",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41360064/"
+      },
+      {
+        "pmid": "41090546",
+        "title": "The emerging role of tafasitamab in follicular lymphoma.",
+        "pubdate": "2025 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41090546/"
+      },
+      {
+        "pmid": "38202077",
+        "title": "Treatment of Relapsed or Refractory Diffuse Large B-Cell Lymphoma: New Approved Options.",
+        "pubdate": "2023 Dec 22",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38202077/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "BLINATUMOMAB",
+        "chembl_id": "CHEMBL1742992",
+        "reason": "same target: B-lymphocyte antigen CD19"
+      },
+      {
+        "name": "TAPLITUMOMAB PAPTOX",
+        "chembl_id": "CHEMBL2107890",
+        "reason": "same target: B-lymphocyte antigen CD19"
+      },
+      {
+        "name": "COLTUXIMAB RAVTANSINE",
+        "chembl_id": "CHEMBL2109286",
+        "reason": "same target: B-lymphocyte antigen CD19"
+      },
+      {
+        "name": "ONCOLYSIN B",
+        "chembl_id": "CHEMBL2109308",
+        "reason": "same target: B-lymphocyte antigen CD19"
+      },
+      {
+        "name": "INEBILIZUMAB",
+        "chembl_id": "CHEMBL2109334",
+        "reason": "same target: B-lymphocyte antigen CD19"
+      },
+      {
+        "name": "DENINTUZUMAB MAFODOTIN",
+        "chembl_id": "CHEMBL3545371",
+        "reason": "same target: B-lymphocyte antigen CD19"
+      },
+      {
+        "name": "DENINTUZUMAB",
+        "chembl_id": "CHEMBL3544992",
+        "reason": "same target: B-lymphocyte antigen CD19"
+      },
+      {
+        "name": "MDX-1342",
+        "chembl_id": "CHEMBL2109337",
+        "reason": "same target: B-lymphocyte antigen CD19"
+      },
+      {
+        "name": "AMG-729",
+        "chembl_id": "CHEMBL2109338",
+        "reason": "same target: B-lymphocyte antigen CD19"
+      },
+      {
+        "name": "AXICABTAGENE CILOLEUCEL",
+        "chembl_id": "CHEMBL3989989",
+        "reason": "same target: B-lymphocyte antigen CD19"
+      }
+    ]
+  }
+}

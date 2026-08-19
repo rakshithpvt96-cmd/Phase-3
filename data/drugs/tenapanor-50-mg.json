@@ -1,0 +1,99 @@
+{
+  "drug_name": "Tenapanor 50 MG",
+  "slug": "tenapanor-50-mg",
+  "enriched_at": "2026-08-19T07:45:53Z",
+  "source_trial_ids": [
+    "NCT05643534"
+  ],
+  "sponsors": [
+    {
+      "name": "Ardelyx",
+      "ticker": "ARDX",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001437402&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2199675",
+      "generic_name": "tenapanor 50 MG",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL5314922",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Tenapanor%2050%20MG+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Tenapanor%2050%20MG+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Tenapanor%2050%20MG+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Irritable Bowel Syndrome With Constipation (IBS-C)",
+    "slug": "irritable-bowel-syndrome-with-constipation-ibs-c"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05643534",
+      "title": "Study to Assess Safety and Efficacy of Tenapanor for Treatment of IBS-C in Pediatric Patients 12 to Less Than 18 Years",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05643534",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42472689",
+        "title": "Safety, tolerability, pharmacokinetics, and pharmacodynamics of oral JMKX003002 in Chinese healthy participants: a randomized, double-blind, placebo-controlled, single- and multiple-ascending dose, and food-effect phase I clinical trial.",
+        "pubdate": "2026 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42472689/"
+      },
+      {
+        "pmid": "42387036",
+        "title": "Tenapanor reduces phosphate binder pill burden among hemodialysis patients in a post hoc phase 3 analysis.",
+        "pubdate": "2026 Jul 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42387036/"
+      },
+      {
+        "pmid": "41158898",
+        "title": "Tenapanor for Irritable Bowel Syndrome With Constipation (IBS-C): A Systematic Review of Randomized Trials Assessing Food and Drug Administration (FDA) Composite Response, Durability, and Risk-of-Bias (RoB-2).",
+        "pubdate": "2025 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41158898/"
+      },
+      {
+        "pmid": "40623235",
+        "title": "The Positive Impact of Patient Education on Tenapanor Adherence in the OPTIMIZE Study.",
+        "pubdate": "2025 May-Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40623235/"
+      },
+      {
+        "pmid": "38323855",
+        "title": "Tenapanor as Therapy for Hyperphosphatemia in Maintenance Dialysis Patients: Results from the OPTIMIZE Study.",
+        "pubdate": "2024 May 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38323855/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

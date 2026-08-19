@@ -1,11 +1,12 @@
 {
   "drug_name": "Pembrolizumab",
   "slug": "pembrolizumab",
-  "enriched_at": "2026-08-15T22:21:16Z",
+  "enriched_at": "2026-08-19T07:44:00Z",
   "source_trial_ids": [
     "NCT03711032",
     "NCT05048797",
     "NCT05608291",
+    "NCT06151574",
     "NCT06472076",
     "NCT06980272"
   ],
@@ -15,6 +16,12 @@
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=AstraZeneca&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Boehringer Ingelheim",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Boehringer%20Ingelheim&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "GlaxoSmithKline",
@@ -95,6 +102,13 @@
       "title": "A Trial to See if the Combination of Fianlimab With Cemiplimab Works Better Than Pembrolizumab for Preventing or Delaying Melanoma From Coming Back After it Has Been Removed With Surgery",
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT05608291",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06151574",
+      "title": "Beamion LUNG-2: A Study to Test Whether Zongertinib (BI 1810631) Helps People With Advanced Non-small Cell Lung Cancer With HER2 Mutations Compared With Standard Treatment",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06151574",
       "has_results": false
     },
     {

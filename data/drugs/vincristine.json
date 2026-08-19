@@ -1,0 +1,105 @@
+{
+  "drug_name": "Vincristine",
+  "slug": "vincristine",
+  "enriched_at": "2026-08-19T07:45:59Z",
+  "source_trial_ids": [
+    "NCT04824092"
+  ],
+  "sponsors": [
+    {
+      "name": "Incyte Corporation",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Incyte%20Corporation&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 5978,
+    "iupac_name": "methyl (1R,9R,10S,11R,12R,19R)-11-acetyloxy-12-ethyl-4-[(13S,15S,17S)-17-ethyl-17-hydroxy-13-methoxycarbonyl-1,11-diazatetracyclo[13.3.1.04,12.05,10]nonadeca-4(12),5,7,9-tetraen-13-yl]-8-formyl-10-hydroxy-5-methoxy-8,16-diazapentacyclo[10.6.1.01,9.02,7.016,19]nonadeca-2,4,6,13-tetraene-10-carboxylate",
+    "molecular_formula": "C46H56N4O10",
+    "molecular_weight": "825.0",
+    "canonical_smiles": null,
+    "inchikey": "OGWKCGZFUXNPDA-XQKSVPLYSA-N",
+    "rxnorm": {
+      "rxcui": "11202",
+      "generic_name": "vincristine",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL90555",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": "INDICATIONS AND USAGE Vincristine Sulfate Injection is indicated in acute leukemia. Vincristine Sulfate Injection has also been shown to be useful in combination with other oncolytic agents in Hodgkin's disease, non–Hodgkin's malignant lymphomas, rhabdomyosarcoma, neuroblastoma, and Wilms' tumor.",
+    "boxed_warning": "WARNINGS Caution–This preparation should be administered by individuals experienced in the administration of Vincristine Sulfate Injection. It is extremely important that the intravenous needle or catheter be properly positioned before any vincristine is injected. Leakage into surrounding tissue during intravenous administration of Vincristine Sulfate Injection may cause considerable irritation. If extravasation occurs, the injection should be discontinued immediately, and any remaining portion of the dose should then be introduced into another vein. Local injection of hyaluronidase and the application of moderate heat to the area of leakage help disperse the drug and are thought to minimize discomfort and the possibility of cellulitis. FOR INTRAVENOUS USE ONLY – FATAL IF GIVEN BY OTHER ROUTES. See OVERDOSAGE section for the treatment of patients given intrathecal Vincristine Sulfate Injection.",
+    "openfda_brand_names": [
+      "VinCRIStine Sulfate"
+    ],
+    "openfda_generic_names": [
+      "VINCRISTINE SULFATE"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b22e4c8e-dbe1-4d4b-a026-e1812974071c",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Diffuse Large B-cell Lymphoma",
+    "slug": "diffuse-large-b-cell-lymphoma"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04824092",
+      "title": "Tafasitamab + Lenalidomide + R-CHOP Versus R-CHOP in Newly Diagnosed High-intermediate and High Risk DLBCL Patients",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04824092",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42581349",
+        "title": "Trials in progress: CARMAN - study protocol of a randomized controlled, international, multicenter, open-label phase II trial evaluating early treatment intensification in patients with high-risk mantle cell lymphoma using CAR-T-cell treatment after an abbreviated induction therapy with rituximab and ibrutinib and 6 months ibrutinib maintenance as compared to standard of care induction and maintenance.",
+        "pubdate": "2026 Aug 11",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42581349/"
+      },
+      {
+        "pmid": "42543655",
+        "title": "[Future directions in clinical development of first-line therapy for diffuse large B-cell lymphoma].",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42543655/"
+      },
+      {
+        "pmid": "42528231",
+        "title": "Real-world comparison of brentuximab vedotin plus cyclophosphamide, doxorubicin, and prednisone and anthracycline-based regimens in peripheral T-cell lymphoma: A multicenter retrospective study from the Gifu Hematology Study Group.",
+        "pubdate": "2026 Jul 30",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42528231/"
+      },
+      {
+        "pmid": "42377743",
+        "title": "Matching-Adjusted Indirect Comparison of Tarlatamab for Patients with Platinum-Refractory or Platinum-Resistant Extensive-Stage Small-Cell Lung Cancer.",
+        "pubdate": "2026 Jun 30",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42377743/"
+      },
+      {
+        "pmid": "42304371",
+        "title": "Cost-effectiveness analysis of PET-guided BrECADD with chemotherapy in advanced-stage, classical Hodgkin lymphoma.",
+        "pubdate": "2026 Jun 16",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42304371/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "drug_name": "Standard therapy for INCS",
+  "slug": "standard-therapy-for-incs",
+  "enriched_at": "2026-08-19T07:44:59Z",
+  "source_trial_ids": [
+    "NCT06339008"
+  ],
+  "sponsors": [
+    {
+      "name": "Eli Lilly and Company",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Eli%20Lilly%20and%20Company&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "215502",
+      "generic_name": "Azo Urinary Pain Relief",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL521875",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Standard%20therapy%20for%20INCS+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Standard%20therapy%20for%20INCS+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Standard%20therapy%20for%20INCS+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Perennial Allergic Rhinitis (PAR)",
+    "slug": "perennial-allergic-rhinitis-par"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06339008",
+      "title": "A Study of Lebrikizumab in Adult Participants With Perennial Allergic Rhinitis (PREPARED-1)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06339008",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "41701976",
+        "title": "IMS-IMWG 2025 consensus genomic staging predicts outcomes with daratumumab-based quadruplet regimens for NDMM.",
+        "pubdate": "2026 Apr 28",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41701976/"
+      },
+      {
+        "pmid": "40884290",
+        "title": "Effectiveness and Safety of Dupilumab Monotherapy in Japanese Patients With Chronic Rhinosinusitis With Nasal Polyps.",
+        "pubdate": "2025 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40884290/"
+      },
+      {
+        "pmid": "39986336",
+        "title": "Oral factor xia inhibitor milvexian after a recent acute coronary syndrome: Rationale and design of the phase 3 (Librexia ACS).",
+        "pubdate": "2025 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39986336/"
+      },
+      {
+        "pmid": "36849264",
+        "title": "A Phase I/II Study of Necitumumab Plus Pembrolizumab, Nab-Paclitaxel, and Carboplatin for Previously Untreated Advanced Squamous Non-Small Cell Lung Cancer Study: (NEJ048A/NEXUS).",
+        "pubdate": "2023 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36849264/"
+      },
+      {
+        "pmid": "32478474",
+        "title": "Tofacitinib in the treatment of Indian patients with rheumatoid arthritis: A post hoc analysis of efficacy and safety in Phase 3 and long-term extension studies over 7 years.",
+        "pubdate": "2020 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32478474/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

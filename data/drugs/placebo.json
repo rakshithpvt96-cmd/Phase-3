@@ -1,11 +1,13 @@
 {
   "drug_name": "Placebo",
   "slug": "placebo",
-  "enriched_at": "2026-08-17T07:56:51Z",
+  "enriched_at": "2026-08-19T07:44:17Z",
   "source_trial_ids": [
+    "NCT02914535",
     "NCT04023552",
     "NCT04036435",
     "NCT04336722",
+    "NCT04652882",
     "NCT04768972",
     "NCT05164341",
     "NCT05316220",
@@ -15,6 +17,7 @@
     "NCT05600777",
     "NCT05608291",
     "NCT05627648",
+    "NCT05643534",
     "NCT05797610",
     "NCT05799287",
     "NCT05929079",
@@ -24,6 +27,7 @@
     "NCT06104124",
     "NCT06145893",
     "NCT06290128",
+    "NCT06339008",
     "NCT06347003",
     "NCT06347016",
     "NCT06347133",
@@ -50,10 +54,13 @@
     "NCT06777238",
     "NCT06779136",
     "NCT06827431",
+    "NCT06846515",
     "NCT06863493",
     "NCT06878404",
     "NCT06893016",
+    "NCT06910358",
     "NCT06945107",
+    "NCT06994507",
     "NCT07140783",
     "NCT07146126",
     "NCT07220109",
@@ -77,16 +84,34 @@
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Albireo%2C%20an%20Ipsen%20Company&type=10-K&dateb=&owner=include&count=40"
     },
     {
+      "name": "Alfasigma S.p.A.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Alfasigma%20S.p.A.&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
       "name": "Amgen",
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Amgen&type=10-K&dateb=&owner=include&count=40"
     },
     {
+      "name": "Ardelyx",
+      "ticker": "ARDX",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001437402&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
       "name": "Arrowhead Pharmaceuticals",
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Arrowhead%20Pharmaceuticals&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Arthrosi Therapeutics",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Arthrosi%20Therapeutics&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Astellas Pharma Global Development, Inc.",
@@ -159,6 +184,12 @@
       "ticker": "CYTK",
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001061983&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Disc Medicine, Inc",
+      "ticker": "IRON",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001816736&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Eli Lilly and Company",
@@ -371,6 +402,12 @@
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Tenax%20Therapeutics%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
     },
     {
+      "name": "Vanda Pharmaceuticals",
+      "ticker": "VNDA",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001347178&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
       "name": "Xenon Pharmaceuticals Inc.",
       "ticker": "XENE",
       "market_cap_display": null,
@@ -413,6 +450,13 @@
   },
   "source_trials": [
     {
+      "nct_id": "NCT02914535",
+      "title": "Filgotinib in Long-Term Extension Study of Adults With Ulcerative Colitis",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT02914535",
+      "has_results": false
+    },
+    {
       "nct_id": "NCT04023552",
       "title": "Assessing the Impact of Lipoprotein (a) Lowering With Pelacarsen (TQJ230) on Major Cardiovascular Events in Patients With CVD",
       "status": "ACTIVE_NOT_RECRUITING",
@@ -431,6 +475,13 @@
       "title": "Efficacy and Safety of Odevixibat in Children With Biliary Atresia Who Have Undergone a Kasai HPE (BOLD)",
       "status": "COMPLETED",
       "url": "https://clinicaltrials.gov/study/NCT04336722",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT04652882",
+      "title": "Evaluating the Effects of Tasimelteon vs. Placebo in Delayed Sleep-Wake Phase Disorder (DSWPD)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04652882",
       "has_results": false
     },
     {
@@ -497,6 +548,13 @@
       "has_results": false
     },
     {
+      "nct_id": "NCT05643534",
+      "title": "Study to Assess Safety and Efficacy of Tenapanor for Treatment of IBS-C in Pediatric Patients 12 to Less Than 18 Years",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05643534",
+      "has_results": false
+    },
+    {
       "nct_id": "NCT05797610",
       "title": "A Study to Evaluate the Efficacy and Safety of Sefaxersen (RO7434656) in Participants With Primary Immunoglobulin A (IgA) Nephropathy at High Risk of Progression",
       "status": "ACTIVE_NOT_RECRUITING",
@@ -557,6 +615,13 @@
       "title": "A Study to Test the Effects and Safety of Riliprubart in People With Chronic Inflammatory Demyelinating Polyneuropathy (CIDP) for Which the Usual Treatments do Not Work",
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT06290128",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06339008",
+      "title": "A Study of Lebrikizumab in Adult Participants With Perennial Allergic Rhinitis (PREPARED-1)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06339008",
       "has_results": false
     },
     {
@@ -742,6 +807,13 @@
       "has_results": false
     },
     {
+      "nct_id": "NCT06846515",
+      "title": "Phase 3 Evaluation of Efficacy and Safety of AR882 in Gout Patients (AR882-301)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06846515",
+      "has_results": false
+    },
+    {
       "nct_id": "NCT06863493",
       "title": "Comparison of Otezla to SFA-002 to Placebo in Plaque Psoriasis Patients",
       "status": "NOT_YET_RECRUITING",
@@ -763,10 +835,24 @@
       "has_results": false
     },
     {
+      "nct_id": "NCT06910358",
+      "title": "Study of Bitopertin in Participants With EPP or XLP (APOLLO)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06910358",
+      "has_results": false
+    },
+    {
       "nct_id": "NCT06945107",
       "title": "A Study of Switching to Picankibart in Chinese Patients With Plaque Psoriasis With an Inadequate Response to Interleukin-17 Monoclonal Antibody Therapy",
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT06945107",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06994507",
+      "title": "GM1 Prophylaxis for Nab-paclitaxel-associated Chemotherapy-induced Peripheral Neuropathy (CIPN) in Patients With Breast Cancer",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06994507",
       "has_results": false
     },
     {
@@ -830,34 +916,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42602754",
-        "title": "Liposomal bupivacaine surgical site injection for decrease of narcotic use in hip fractures: a pilot multicenter randomized trial.",
-        "pubdate": "2026 Sep",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42602754/"
+        "pmid": "42612789",
+        "title": "Inhibition of Salt-Inducible Kinases 2 and 3 reduces inflammatory signature in Psoriasis.",
+        "pubdate": "2026 Aug 18",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42612789/"
       },
       {
-        "pmid": "42602524",
-        "title": "Comparison of double-blind and open-label decline rates in lecanemab and donanemab trials in Alzheimer's disease.",
-        "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42602524/"
+        "pmid": "42611779",
+        "title": "Eltrombopag plus cyclosporine A for moderate aplastic anemia (EMAA): a placebo-controlled, double-blind, phase 3 trial.",
+        "pubdate": "2026 Aug 18",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42611779/"
       },
       {
-        "pmid": "42602089",
-        "title": "The effect of esketamine on sleep disorders in parturients undergoing cesarean section under general anesthesia: a single-center, randomized, double-blind, placebo-controlled prospective study.",
-        "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42602089/"
+        "pmid": "42611163",
+        "title": "Efficacy and Safety of SSGJ-608 in Moderate-to-Severe Plaque Psoriasis: A Pivotal Multicenter, Double-Blind, Placebo-Controlled, Randomized, Phase III Clinical Trial.",
+        "pubdate": "2026 Aug 18",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42611163/"
       },
       {
-        "pmid": "42601880",
-        "title": "Dietary α-linolenic acid improves skin blood flow following cold exposure and endothelial function in healthy adults: a randomized, double-blind, placebo-controlled, parallel-group comparative trial.",
-        "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42601880/"
+        "pmid": "42610748",
+        "title": "Factors for Success and Failure of Allergen Immunotherapy (AIT) Trial Design in the Light of Evidence-Based Medicine: Current Aspects 2026.",
+        "pubdate": "2026 Aug 18",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42610748/"
       },
       {
-        "pmid": "42601227",
-        "title": "Nigella sativa (Black Seed) Oil Alleviates the Serum Levels of IL-6 and Insulin in Patients With Polycystic Ovary Syndrome.",
-        "pubdate": "2026 Aug",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42601227/"
+        "pmid": "42610550",
+        "title": "Beyond erythropoiesis-stimulating agents: The evolving role of hypoxia-inducible factor stabilizers in anemia of chronic kidney disease.",
+        "pubdate": "2026 Aug 18",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42610550/"
       }
     ]
   },

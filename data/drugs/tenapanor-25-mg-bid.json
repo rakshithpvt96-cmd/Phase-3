@@ -1,0 +1,68 @@
+{
+  "drug_name": "Tenapanor 25 mg bid",
+  "slug": "tenapanor-25-mg-bid",
+  "enriched_at": "2026-08-19T07:45:46Z",
+  "source_trial_ids": [
+    "NCT05643534"
+  ],
+  "sponsors": [
+    {
+      "name": "Ardelyx",
+      "ticker": "ARDX",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001437402&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2199674",
+      "generic_name": "tenapanor",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL5314922",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Tenapanor%2025%20mg%20bid+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Tenapanor%2025%20mg%20bid+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Tenapanor%2025%20mg%20bid+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Irritable Bowel Syndrome With Constipation (IBS-C)",
+    "slug": "irritable-bowel-syndrome-with-constipation-ibs-c"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05643534",
+      "title": "Study to Assess Safety and Efficacy of Tenapanor for Treatment of IBS-C in Pediatric Patients 12 to Less Than 18 Years",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05643534",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

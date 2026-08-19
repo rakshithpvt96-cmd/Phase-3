@@ -1,0 +1,99 @@
+{
+  "drug_name": "Combined metabolic activators",
+  "slug": "combined-metabolic-activators",
+  "enriched_at": "2026-08-19T07:48:32Z",
+  "source_trial_ids": [
+    "NCT07062198"
+  ],
+  "sponsors": [
+    {
+      "name": "ScandiBio Therapeutics AB",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=ScandiBio%20Therapeutics%20AB&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "215010",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2106049",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Combined%20metabolic%20activators+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Combined%20metabolic%20activators+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Combined%20metabolic%20activators+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Alzheimer Disease",
+    "slug": "alzheimer-disease"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07062198",
+      "title": "Combined Metabolic Activator Supplementation in Subjects Diagnosed With Alzheimer's Disease",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07062198",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42608656",
+        "title": "Review Article: Fibrosis Reversal in Metabolic Dysfunction-Associated Steatohepatitis-The Promise of Emerging Therapeutics.",
+        "pubdate": "2026 Aug 17",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42608656/"
+      },
+      {
+        "pmid": "42607838",
+        "title": "Ingestion of 20 g of a plant-derived protein blend with and without added leucine or whey protein does not increase muscle protein synthesis rates in older males.",
+        "pubdate": "2026 Aug 17",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42607838/"
+      },
+      {
+        "pmid": "42607698",
+        "title": "Long-term safety of oral orforglipron in Japanese participants with type 2 diabetes (ACHIEVE-J): a multicentre, randomised, open-label, parallel-group phase 3 trial.",
+        "pubdate": "2026 Aug 17",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42607698/"
+      },
+      {
+        "pmid": "42605535",
+        "title": "Efficacy of Luseogliflozin Added to Semaglutide in Patients With Metabolic Dysfunction-Associated Steatohepatitis and Type 2 Diabetes Mellitus: A Randomised, Open-Label Trial.",
+        "pubdate": "2026 Aug 17",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42605535/"
+      },
+      {
+        "pmid": "42601067",
+        "title": "Comprehensive Profiling of OTSSP167 Action in Adrenocortical Carcinoma.",
+        "pubdate": "2026 Aug 15",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42601067/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

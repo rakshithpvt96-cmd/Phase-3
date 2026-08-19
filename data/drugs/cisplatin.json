@@ -1,12 +1,14 @@
 {
   "drug_name": "Cisplatin",
   "slug": "cisplatin",
-  "enriched_at": "2026-08-15T22:15:01Z",
+  "enriched_at": "2026-08-19T07:42:10Z",
   "source_trial_ids": [
     "NCT05048797",
     "NCT05152147",
     "NCT05261399",
     "NCT05298423",
+    "NCT06123884",
+    "NCT06151574",
     "NCT06687369",
     "NCT06927986"
   ],
@@ -16,6 +18,18 @@
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=AstraZeneca&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Bio-Thera Solutions",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Bio-Thera%20Solutions&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Boehringer Ingelheim",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Boehringer%20Ingelheim&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "CSPC Megalith Biopharmaceutical Co.,Ltd.",
@@ -112,6 +126,20 @@
       "has_results": false
     },
     {
+      "nct_id": "NCT06123884",
+      "title": "BAT1308 Combined with Platinum-Based Chemotherapy± Bevacizumab for PDL1-Positive (CPS ≥1) Cervical Cancer",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06123884",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06151574",
+      "title": "Beamion LUNG-2: A Study to Test Whether Zongertinib (BI 1810631) Helps People With Advanced Non-small Cell Lung Cancer With HER2 Mutations Compared With Standard Treatment",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06151574",
+      "has_results": false
+    },
+    {
       "nct_id": "NCT06687369",
       "title": "A Study to Compare Pharmacokinetics, Efficacy, Safety, and Immunogenicity of MB12 (Proposed Pembrolizumab Biosimilar) to Keytruda® in Non-small Cell Lung Cancer (BENITO Study)",
       "status": "RECRUITING",
@@ -129,6 +157,12 @@
   "prior_results": {
     "ctgov_results_urls": [],
     "pubmed_articles": [
+      {
+        "pmid": "42604595",
+        "title": "Atezolizumab vs durvalumab for extensive-stage small cell lung cancer in Japan: a real-world comparative analysis of costs and clinical outcomes.",
+        "pubdate": "2026 Aug 16",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42604595/"
+      },
       {
         "pmid": "42578486",
         "title": "First-line systemic treatment for people with extensive-stage small cell lung cancer: a network meta-analysis.",
@@ -150,14 +184,8 @@
       {
         "pmid": "42561946",
         "title": "Biomarker-guided responses in patient-derived organoids predict effective therapies in breast cancer.",
-        "pubdate": "2026 Aug 6",
+        "pubdate": "2026 Aug 18",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42561946/"
-      },
-      {
-        "pmid": "42546669",
-        "title": "Efficacy and Safety of Camrelizumab Combined with Concurrent Chemoradiotherapy in Locally Advanced Cervical Cancer: A Phase II Single-Arm Clinical Trial.",
-        "pubdate": "2026 Jul 11",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42546669/"
       }
     ]
   },

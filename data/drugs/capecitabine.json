@@ -1,10 +1,11 @@
 {
   "drug_name": "Capecitabine",
   "slug": "capecitabine",
-  "enriched_at": "2026-08-15T22:14:28Z",
+  "enriched_at": "2026-08-19T07:41:55Z",
   "source_trial_ids": [
     "NCT05152147",
     "NCT05568095",
+    "NCT05717764",
     "NCT06018337",
     "NCT06279364",
     "NCT06343948",
@@ -16,6 +17,12 @@
       "ticker": "RCUS",
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001724521&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "CSPC Zhongnuo Pharmaceutical (Shijiazhuang) Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=CSPC%20Zhongnuo%20Pharmaceutical%20%28Shijiazhuang%29%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "DualityBio Inc.",
@@ -101,6 +108,13 @@
       "title": "A Clinical Trial of a New Combination Treatment, Domvanalimab and Zimberelimab, Plus Chemotherapy, for People With an Upper Gastrointestinal Tract Cancer That Cannot be Removed With Surgery That Has Spread to Other Parts of the Body",
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT05568095",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT05717764",
+      "title": "Clinical Study of Mitoxantrone Hydrochloride Liposome Injection Combined With Capecitabine Versus Capecitabine Monotherapy in Patients With Recurrent Metastatic Nasopharyngeal Carcinoma Who Failed Platinum-containing Treatment",
+      "status": "NOT_YET_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05717764",
       "has_results": false
     },
     {

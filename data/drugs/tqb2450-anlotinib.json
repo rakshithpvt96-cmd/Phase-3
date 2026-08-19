@@ -1,0 +1,119 @@
+{
+  "drug_name": "TQB2450+Anlotinib",
+  "slug": "tqb2450-anlotinib",
+  "enriched_at": "2026-08-19T07:51:50Z",
+  "source_trial_ids": [
+    "NCT06469879"
+  ],
+  "sponsors": [
+    {
+      "name": "Chia Tai Tianqing Pharmaceutical Group Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Chia%20Tai%20Tianqing%20Pharmaceutical%20Group%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1939861",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4303201",
+    "target_chembl_id": "CHEMBL279",
+    "target_name": "Vascular endothelial growth factor receptor 2",
+    "mechanism_of_action_chembl": "Vascular endothelial growth factor receptor 2 inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=TQB2450%2BAnlotinib+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=TQB2450%2BAnlotinib+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=TQB2450%2BAnlotinib+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Small Cell Lung Cancer Limited Stage",
+    "slug": "small-cell-lung-cancer-limited-stage"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06469879",
+      "title": "A Clinical Study of TQB2450 Combined With Anlotinib in Limited-Stage Small Cell Lung Cancer Patients",
+      "status": "NOT_YET_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06469879",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "CABOZANTINIB S-MALATE",
+        "chembl_id": "CHEMBL2103868",
+        "reason": "same target: Vascular endothelial growth factor receptor 2"
+      },
+      {
+        "name": "RAMUCIRUMAB",
+        "chembl_id": "CHEMBL1743062",
+        "reason": "same target: Vascular endothelial growth factor receptor 2"
+      },
+      {
+        "name": "ENMD-981693",
+        "chembl_id": "CHEMBL52885",
+        "reason": "same target: Vascular endothelial growth factor receptor 2"
+      },
+      {
+        "name": "BMS-794833",
+        "chembl_id": "CHEMBL2143592",
+        "reason": "same target: Vascular endothelial growth factor receptor 2"
+      },
+      {
+        "name": "BMS-817378",
+        "chembl_id": "CHEMBL3545050",
+        "reason": "same target: Vascular endothelial growth factor receptor 2"
+      },
+      {
+        "name": "CM-082",
+        "chembl_id": "CHEMBL3545427",
+        "reason": "same target: Vascular endothelial growth factor receptor 2"
+      },
+      {
+        "name": "CYC-116",
+        "chembl_id": "CHEMBL482967",
+        "reason": "same target: Vascular endothelial growth factor receptor 2"
+      },
+      {
+        "name": "ALTIRATINIB",
+        "chembl_id": "CHEMBL3545365",
+        "reason": "same target: Vascular endothelial growth factor receptor 2"
+      },
+      {
+        "name": "PF-00337210",
+        "chembl_id": "CHEMBL1738697",
+        "reason": "same target: Vascular endothelial growth factor receptor 2"
+      },
+      {
+        "name": "TAS-115",
+        "chembl_id": "CHEMBL3764045",
+        "reason": "same target: Vascular endothelial growth factor receptor 2"
+      }
+    ]
+  }
+}

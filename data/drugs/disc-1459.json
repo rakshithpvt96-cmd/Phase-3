@@ -1,0 +1,74 @@
+{
+  "drug_name": "DISC-1459",
+  "slug": "disc-1459",
+  "enriched_at": "2026-08-19T07:42:33Z",
+  "source_trial_ids": [
+    "NCT06910358"
+  ],
+  "sponsors": [
+    {
+      "name": "Disc Medicine, Inc",
+      "ticker": "IRON",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001816736&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 24946690,
+    "iupac_name": "[4-[3-fluoro-5-(trifluoromethyl)-2-pyridinyl]piperazin-1-yl]-[5-methylsulfonyl-2-[(2S)-1,1,1-trifluoropropan-2-yl]oxyphenyl]methanone",
+    "molecular_formula": "C21H20F7N3O4S",
+    "molecular_weight": "543.5",
+    "canonical_smiles": null,
+    "inchikey": "YUUGYIUSCYNSQR-LBPRGKRZSA-N",
+    "rxnorm": {
+      "rxcui": "711218",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL5877209",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=DISC-1459+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=DISC-1459+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=DISC-1459+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Erythropoietic Protoporphyria (EPP)",
+    "slug": "erythropoietic-protoporphyria-epp"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06910358",
+      "title": "Study of Bitopertin in Participants With EPP or XLP (APOLLO)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06910358",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "drug_name": "IVIG (Intravenous Immunoglobulin)",
+  "slug": "ivig-intravenous-immunoglobulin",
+  "enriched_at": "2026-08-19T07:43:16Z",
+  "source_trial_ids": [
+    "NCT06742190"
+  ],
+  "sponsors": [
+    {
+      "name": "argenx",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=argenx&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2645007",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1201599",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": "Replacement therapy, immunomodulatory effects"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=IVIG%20%28Intravenous%20Immunoglobulin%29+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=IVIG%20%28Intravenous%20Immunoglobulin%29+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=IVIG%20%28Intravenous%20Immunoglobulin%29+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Multifocal Motor Neuropathy (MMN)",
+    "slug": "multifocal-motor-neuropathy-mmn"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06742190",
+      "title": "A Study to Assess the Efficacy and Safety of Empasiprubart Versus IVIg in Adults With Multifocal Motor Neuropathy",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06742190",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42431607",
+        "title": "West Nile Neuroinvasive Disease: Current Management, Emerging Therapies and Future Clinical Trial Priorities.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42431607/"
+      },
+      {
+        "pmid": "42404894",
+        "title": "FcRn antagonist and C5 complement inhibitor as early rescue strategies in severe Myasthenia Gravis: a two-case report.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42404894/"
+      },
+      {
+        "pmid": "42358964",
+        "title": "The safety and efficacy of human umbilical cord mesenchymal stem cell for acute respiratory distress syndrome: an open-label and multicenter phase 1 clinical trial.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42358964/"
+      },
+      {
+        "pmid": "42243711",
+        "title": "Human parvovirus B19-associated Guillain-Barré syndrome diagnosed by cerebrospinal fluid targeted next-generation sequencing: a case report and literature review.",
+        "pubdate": "2026 Jun 4",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42243711/"
+      },
+      {
+        "pmid": "42218742",
+        "title": "Pharmacokinetic Model Based Sensitivity Analysis to Lower Recruitment Burden for Young Children Requiring Intravenous Immunoglobulin G Replacement.",
+        "pubdate": "2026 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42218742/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

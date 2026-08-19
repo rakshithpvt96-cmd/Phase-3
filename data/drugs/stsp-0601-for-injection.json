@@ -1,0 +1,77 @@
+{
+  "drug_name": "STSP-0601 for Injection",
+  "slug": "stsp-0601-for-injection",
+  "enriched_at": "2026-08-19T07:45:09Z",
+  "source_trial_ids": [
+    "NCT06922045"
+  ],
+  "sponsors": [
+    {
+      "name": "Jiangsu BioJeTay Biotechnology Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Jiangsu%20BioJeTay%20Biotechnology%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": null
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2108760",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=STSP-0601%20for%20Injection+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=STSP-0601%20for%20Injection+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=STSP-0601%20for%20Injection+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Hemophilia",
+    "slug": "hemophilia"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06922045",
+      "title": "Phase III Clinical Trial of STSP-0601 for Injection in Hemophilia Patients",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06922045",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "36796484",
+        "title": "Preclinical studies of a factor X activator and a phase 1 trial for hemophilia patients with inhibitors.",
+        "pubdate": "2023 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36796484/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "Fitusiran",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Genzyme, a Sanofi Company"
+      }
+    ]
+  }
+}

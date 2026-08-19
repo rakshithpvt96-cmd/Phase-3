@@ -1,0 +1,97 @@
+{
+  "drug_name": "9MW2821",
+  "slug": "9mw2821",
+  "enriched_at": "2026-08-19T07:46:53Z",
+  "source_trial_ids": [
+    "NCT06196736"
+  ],
+  "sponsors": [
+    {
+      "name": "Mabwell (Shanghai) Bioscience Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Mabwell%20%28Shanghai%29%20Bioscience%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": null
+  },
+  "mechanism": {
+    "chembl_id": null,
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=9MW2821+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=9MW2821+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=9MW2821+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Advanced Urothelial Carcinoma",
+    "slug": "advanced-urothelial-carcinoma"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06196736",
+      "title": "A Study to Evaluate 9MW2821 Versus Chemotherapy in Subjects With Previously Treated Locally Advanced or Metastatic Urothelial Cancer",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06196736",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "37196158",
+        "title": "Preclinical Evaluation of 9MW2821, a Site-Specific Monomethyl Auristatin E-based Antibody-Drug Conjugate for Treatment of Nectin-4-expressing Cancers.",
+        "pubdate": "2023 Aug 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37196158/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "SHR-A2102 for Injection",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Shanghai Hengrui Pharmaceutical Co., Ltd."
+      },
+      {
+        "name": "Docetaxel Injection",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Shanghai Hengrui Pharmaceutical Co., Ltd."
+      },
+      {
+        "name": "Paclitaxel Injection",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Shanghai Hengrui Pharmaceutical Co., Ltd."
+      },
+      {
+        "name": "Gemcitabine Hydrochloride for Injection",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Shanghai Hengrui Pharmaceutical Co., Ltd."
+      },
+      {
+        "name": "Pemetrexed Disodium for Injection",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Shanghai Hengrui Pharmaceutical Co., Ltd."
+      }
+    ]
+  }
+}

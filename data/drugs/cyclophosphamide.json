@@ -1,0 +1,105 @@
+{
+  "drug_name": "Cyclophosphamide",
+  "slug": "cyclophosphamide",
+  "enriched_at": "2026-08-19T07:42:26Z",
+  "source_trial_ids": [
+    "NCT04824092"
+  ],
+  "sponsors": [
+    {
+      "name": "Incyte Corporation",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Incyte%20Corporation&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 2907,
+    "iupac_name": "N,N-bis(2-chloroethyl)-2-oxo-1,3,2lambda5-oxazaphosphinan-2-amine",
+    "molecular_formula": "C7H15Cl2N2O2P",
+    "molecular_weight": "261.08",
+    "canonical_smiles": null,
+    "inchikey": "CMSMOCZEIVJLDB-UHFFFAOYSA-N",
+    "rxnorm": {
+      "rxcui": "3002",
+      "generic_name": "cyclophosphamide",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL88",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action The mechanism of action has not been fully characterized. However, cross-linking of tumor cell DNA may be involved. The active alkylating metabolites of cyclophosphamide interfere with the growth of susceptible rapidly proliferating malignant cells",
+    "pharmacokinetics": "12.3 Pharmacokinetics Cyclophosphamide is a prodrug. Cyclophosphamide pharmacokinetics are linear over the approved recommended dose range. Distribution The volume of distribution of cyclophosphamide is 30 to 50 L. Cyclophosphamide is approximately 20% protein bound, with no dose dependent changes. Some metabolites are greater than 60% protein bound. Elimination The elimination half-life (t½) of cyclophosphamide ranges from 3 to 12 hours, and clearance (CL) ranges from 4 to 5.6 L/h. When cyclophosphamide was administered at 4 g/m 2 (approximately 2 times the approved recommended dosage) over a 90-minute infusion, concentration-time data demonstrate saturable elimination in parallel with first-order renal elimination. Metabolism Cyclophosphamide is metabolized by cytochrome P450s including CYP2A6, 2B6, 3A, 2C9, and 2C19. Cyclophosphamide is activated to form 4-hydroxycyclophosphamide, which is in equilibrium with its ring-open tautomer aldophosphamide. 4-hydroxycyclophosphamide and aldophosphamide can undergo oxidation by aldehyde dehydrogenases to form the inactive metabolites 4-ketocyclophosphamide and carboxyphosphamide, respectively. Aldophosphamide can undergo β-elimination to form active metabolites phosphoramide mustard and acrolein. This spontaneous conversion can be catalyzed by albumin and other proteins. At high doses, the fraction of parent compound cleared by 4-hydroxylation is reduced resulting in non-linear elimination of cyclophosphamide. Cyclophosphamide appears to induce its own metabolism. This auto-induction results in an increase in CL, increased formation of active 4-hydroxycyclophosphamide and shortened t½ following multiple doses administered at 12-to 24-hour interval. Excretion Cyclophosphamide and its metabolites are eliminated by hepatic and renal pathways. Cyclophosphamide is primarily excreted as metabolites. Ten to 20% is excreted unchanged in the urine. A small percentage of cyclophosphamide may be eliminated unchanged in bile. Specific Populations Renal Impairment Following one-hour intravenous infusion, cyclophosphamide AUC increased by 38% in patients with CLcr of 25 to 50 mL/min, by 77% in patients with CLcr of 10 to 24 mL/min and by 23% in the hemodialysis group (CLcr of < 10 mL/min) compared to the control group (CLcr≥ 80 mL/min). Cyclophosphamide is dialyzable. Dialysis clearance averaged 104 mL/min, which is similar to the metabolic clearance of 95 mL/min for cyclophosphamide. A mean of 37% of the administered dose of cyclophosphamide was removed during a 4-hour hemodialysis period. The t½ was 3.3 hours in patients during hemodialysis, a 49% reduction compared to t½ of 6.5 hours in uremic patients. Hepatic Impairment Cyclophosphamide CL is decreased by 40% (45 ± 8.6 L/kg) and t½ is prolonged by 64% (12.5 ± 1 hours) in patients with hepatic impairment with a mean bilirubin 3.5 mg/dL and mean AST 90 IU/L compared to patients with normal hepatic function (mean bilirubin 0.5 mg/dL, mean AST 10 IU/L).",
+    "indications_and_usage": "1 INDICATIONS AND USAGE Cyclophosphamide for injection is an alkylating drug indicated for treatment of adults and pediatric patients with: Malignant Diseases: malignant lymphomas: Hodgkin’s disease, lymphocytic lymphoma, mixed-cell type lymphoma, histiocytic lymphoma, Burkitt’s lymphoma; multiple myeloma, leukemias, mycosis fungoides, neuroblastoma, adenocarcinoma of ovary, retinoblastoma, breast carcinoma ( 1.1 ) Minimal Change Nephrotic Syndrome in Pediatric Patients: biopsy proven minimal change nephrotic syndrome patients who failed to adequately respond to or are unable to tolerate adrenocorticosteroid therapy ( 1.2 ) Limitations of Use: The safety and effectiveness for the treatment of nephrotic syndrome in adults or other renal disease has not been established. (1.2) 1.1 Malignant Diseases Cyclophosphamide for injection is indicated for the treatment of adult and pediatric patients with: malignant lymphomas (Stages III and IV of the Ann Arbor staging system), Hodgkin's disease, lymphocytic lymphoma (nodular or diffuse), mixed-cell type lymphoma, histiocytic lymphoma, Burkitt's lymphoma multiple myeloma leukemias: chronic lymphocytic leukemia, chronic granulocytic leukemia (it is usually ineffective in acute blastic crisis), acute myelogenous and monocytic leukemia, acute lymphoblastic (stem-cell) leukemia (cyclophosphamide given during remission is effective in prolonging its duration) mycosis fungoides (advanced disease) neuroblastoma (disseminated disease) adenocarcinoma of the ovary retinoblastoma carcinoma of the breast Cyclophosphamide, although effective alone in susceptible malignancies, is more frequently used concurrently or sequentially with other antineoplastic drugs. 1.2 Minimal Change Nephrotic Syndrome in Pediatric Patients Cyclophosphamide for injection is indicated for the treatment of biopsy proven minimal change nephrotic syndrome in pediatrics patients who failed to adequately respond to or are unable to tolerate adrenocorticosteroid therapy. Limitations of Use: The safety and effectiveness of cyclophosphamide for injection for the treatment of nephrotic syndrome in adults or other renal disease has not been established.",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "CYCLOPHOSPHAMIDE"
+    ],
+    "openfda_generic_names": [
+      "CYCLOPHOSPHAMIDE"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=571a5a63-fb66-0617-e063-6394a90a2d04",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Diffuse Large B-cell Lymphoma",
+    "slug": "diffuse-large-b-cell-lymphoma"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04824092",
+      "title": "Tafasitamab + Lenalidomide + R-CHOP Versus R-CHOP in Newly Diagnosed High-intermediate and High Risk DLBCL Patients",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04824092",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42581349",
+        "title": "Trials in progress: CARMAN - study protocol of a randomized controlled, international, multicenter, open-label phase II trial evaluating early treatment intensification in patients with high-risk mantle cell lymphoma using CAR-T-cell treatment after an abbreviated induction therapy with rituximab and ibrutinib and 6 months ibrutinib maintenance as compared to standard of care induction and maintenance.",
+        "pubdate": "2026 Aug 11",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42581349/"
+      },
+      {
+        "pmid": "42561548",
+        "title": "Vinorelbine and low-dose cyclophosphamide as maintenance therapy in the treatment of Ewing sarcoma rationale for the international INTER-EWING-1 trial for Ewing sarcoma patients.",
+        "pubdate": "2026 Jul 27",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42561548/"
+      },
+      {
+        "pmid": "42543655",
+        "title": "[Future directions in clinical development of first-line therapy for diffuse large B-cell lymphoma].",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42543655/"
+      },
+      {
+        "pmid": "42537452",
+        "title": "A novel neoadjuvant immunotherapy confers improved overall survival in oral cancer patients with low tumor PD-L1 expression The IT-MATTERS Clinical trial - Prognostic role of tumor PD-L1 expression.",
+        "pubdate": "2026 Jul 31",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42537452/"
+      },
+      {
+        "pmid": "42534709",
+        "title": "Resolution of Paraneoplastic Cutaneous Angioendotheliomatosis After CAR T-Cell Therapy in TP53-Deleted CLL: A Case Report.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42534709/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}
