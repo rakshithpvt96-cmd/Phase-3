@@ -1,0 +1,126 @@
+{
+  "drug_name": "Alectinib",
+  "slug": "alectinib",
+  "enriched_at": "2026-08-20T07:43:25Z",
+  "source_trial_ids": [
+    "NCT06624059"
+  ],
+  "sponsors": [
+    {
+      "name": "Hoffmann-La Roche",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hoffmann-La%20Roche&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 49806720,
+    "iupac_name": "9-ethyl-6,6-dimethyl-8-(4-morpholin-4-ylpiperidin-1-yl)-11-oxo-5H-benzo[b]carbazole-3-carbonitrile",
+    "molecular_formula": "C30H34N4O2",
+    "molecular_weight": "482.6",
+    "canonical_smiles": null,
+    "inchikey": "KDGFLJKFZUIJMX-UHFFFAOYSA-N",
+    "rxnorm": {
+      "rxcui": "1727455",
+      "generic_name": "alectinib",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1738797",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Alectinib is a tyrosine kinase inhibitor that targets ALK and RET. In nonclinical studies, alectinib inhibited ALK phosphorylation and ALK-mediated activation of the downstream signaling proteins STAT3 and AKT, and decreased tumor cell viability in multiple cell lines harboring ALK fusions, amplifications, or activating mutations. The major active metabolite of alectinib, M4, showed similar in vitro potency and activity. Alectinib and M4 demonstrated in vitro and in vivo activity against multiple mutant forms of the ALK enzyme, including some mutations identified in NSCLC tumors in patients who have progressed on crizotinib. In mouse models implanted with tumors carrying ALK fusions, administration of alectinib resulted in antitumor activity and prolonged survival, including in mouse models implanted intracranially with ALK-driven tumor cell lines.",
+    "pharmacokinetics": "12.3 Pharmacokinetics The pharmacokinetics of alectinib and its major active metabolite M4 have been characterized in patients with ALK-positive NSCLC and healthy subjects. In patients with ALK-positive NSCLC, the geometric mean (coefficient of variation %) steady-state maximal concentration (C max,ss ) for alectinib was 665 ng/mL (44%) and for M4 was 246 ng/mL (45%) with peak to trough concentration ratio of 1.2. The geometric mean steady-state area under the curve from 0 to 12 hours (AUC 0-12h,ss ) for alectinib was 7,430 ng*h/mL (46%) and for M4 was 2,810 ng*h/mL (46%). Alectinib exposure is dose proportional across the dose range of 460 mg to 900 mg (i.e., 0.75 to 1.5 times the approved recommended dosage) under fed conditions. Alectinib and M4 reached steady-state concentrations by day 7. The geometric mean accumulation was approximately 6-fold for both alectinib and M4. Absorption Alectinib reached maximal concentrations at 4 hours following administration of ALECENSA 600 mg twice daily under fed conditions in patients with ALK-positive NSCLC. The absolute bioavailability of alectinib was 37% (90% CI: 34%, 40%) under fed conditions. A high-fat, high-calorie meal increased the combined exposure (AUC 0-inf ) of alectinib plus M4 by 3.1-fold (90% CI: 2.7, 3.6) following oral administration of a single 600 mg dose of ALECENSA. Distribution The apparent volume of distribution is 4,016 L for alectinib and 10,093 L for M4. Alectinib and M4 are bound to human plasma proteins greater than 99%, independent of drug concentration. Alectinib concentrations in the cerebrospinal fluid in patients with ALK-positive NSCLC approximate estimated alectinib free concentrations in the plasma. In vitro studies suggest that alectinib is not a substrate of P-glycoprotein (P-gp), but M4 is a substrate of P-gp. Alectinib and M4 are not substrates of breast cancer resistance protein (BCRP), organic anion-transporting polypeptide (OATP) 1B1, or OATP1B3. Elimination The apparent clearance (CL/F) is 81.9 L/hour for alectinib and 217 L/hour for M4. The geometric mean elimination half-life is 33 hours for alectinib and 31 hours for M4 in patients with ALK-positive NSCLC. Metabolism Alectinib is metabolized by CYP3A4 to its major active metabolite M4. The geometric mean metabolite/parent exposure ratio at steady-state is 0.40. M4 is subsequently metabolized by CYP3A4. Alectinib and M4 were the main circulating moieties in plasma, constituting 76% of the total radioactivity. Excretion Ninety-eight percent of the radioactivity was excreted in feces following oral administration of a single radiolabeled dose of alectinib under fed conditions. Eighty-four percent of the dose was excreted in the feces as unchanged alectinib, and 6% of the dose was excreted as M4. Excretion of radioactivity in urine was less than 0.5% of administered radiolabeled dose of alectinib. Specific Populations Age (21 to 83 years), body weight (38 to 128 kg), mild hepatic impairment (total bilirubin ≤ ULN and AST > ULN or total bilirubin 1 to ≤ 1.5 × ULN and AST any value), mild to moderate renal impairment (creatinine clearance 30 to 89 mL/min), race (White, Asian, and Other), and sex had no clinically meaningful effect on the systemic exposure of alectinib and M4. The pharmacokinetics of alectinib have not been studied in patients with severe renal impairment (creatinine clearance < 30 mL/min), or end-stage renal disease. Hepatic Impairment: Following administration of a single oral dose of 300 mg ALECENSA, the geometric mean ratio [90% confidence interval] for the combined AUC inf of alectinib and M4 in subjects with moderate hepatic impairment (Child-Pugh B) was 1.36 [0.947, 1.96] and in subjects with severe hepatic impairment (Child-Pugh C) was 1.76 [0.984, 3.15] as compared to that in subjects with normal hepatic function. The combined C max of alectinib and M4 was comparable among the three groups. No dose adjustment is recommended for patients with mild or moderate hepatic impairment. The recommended dose of ALECENSA in patients with severe hepatic impairment is 450 mg orally twice daily [see Dosage and Administration (2.3) and Use in Specific Populations (8.7) ] . Drug Interactions Effect of Other Drugs on Alectinib No clinically meaningful effect on the combined exposure of alectinib plus M4 was observed in clinical studies following co-administration of ALECENSA with a strong CYP3A inhibitor (posaconazole), a strong CYP3A inducer (rifampin), or an acid-reducing agent (esomeprazole). Effect of Alectinib on Other Drugs No clinically meaningful effect on the exposure of midazolam (sensitive CYP3A substrate) or repaglinide (sensitive CYP2C8 substrate) is expected following co-administration with ALECENSA. In vitro studies suggest that alectinib and M4 do not inhibit CYP1A2, 2B6, 2C9, 2C19 or 2D6. In vitro studies suggest that alectinib and M4 inhibit P-gp and BCRP. Alectinib did not inhibit OATP1B1, OATP1B3, OAT1, OAT3, or OCT2 transport activity in vitro.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE ALECENSA is a kinase inhibitor indicated for: adjuvant treatment in adult patients following tumor resection of anaplastic lymphoma kinase (ALK)-positive non-small cell lung cancer (NSCLC) (tumors ≥ 4 cm or node positive) as detected by an FDA-approved test. ( 1.1 ) treatment of adult patients with ALK-positive metastatic NSCLC as detected by an FDA-approved test. ( 1.2 ) 1.1 Adjuvant Treatment of Resected ALK-Positive Non-Small Cell Lung Cancer (NSCLC) ALECENSA is indicated as adjuvant treatment in adult patients following tumor resection of anaplastic lymphoma kinase (ALK)-positive non-small cell lung cancer (NSCLC) (tumors ≥ 4 cm or node positive), as detected by an FDA-approved test [see Dosage & Administration (2.1) ]. 1.2 Treatment of Metastatic ALK-Positive NSCLC ALECENSA is indicated for the treatment of adult patients with ALK-positive metastatic NSCLC as detected by an FDA-approved test [see Dosage & Administration (2.1) ] .",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "ALECENSA"
+    ],
+    "openfda_generic_names": [
+      "ALECTINIB HYDROCHLORIDE"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=42c49deb-713b-427a-9670-08af08adcffb",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Non-Small Cell Lung Cancer",
+    "slug": "non-small-cell-lung-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06624059",
+      "title": "A Study to See How Well and How Safely Different Treatments Work in a Group of Participants With Non-Small Cell Lung Cancer (NSCLC)",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT06624059",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42335416",
+        "title": "Optimal Use of Targeted Therapy and Immunotherapy in Early-Stage, Resectable Non-Small Cell Lung Cancer.",
+        "pubdate": "2026 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42335416/"
+      },
+      {
+        "pmid": "42150148",
+        "title": "Use of ALK Inhibitors in Patients With Nonlung Malignancies Bearing ALK Alteration Prolongs Treatment Duration.",
+        "pubdate": "2026 May",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42150148/"
+      },
+      {
+        "pmid": "41996761",
+        "title": "Disease characteristics and treatment outcomes in patients with resected early-stage ALK-positive non-small cell lung cancer from the randomized ALINA trial.",
+        "pubdate": "2026 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41996761/"
+      },
+      {
+        "pmid": "41949116",
+        "title": "Lorlatinib in patients with ALK-positive metastatic NSCLC previously treated with an ALK inhibitor: results from a phase IV study.",
+        "pubdate": "2026 Apr",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41949116/"
+      },
+      {
+        "pmid": "41726776",
+        "title": "The long-term avoided recurrences and recurrence-related cost of alectinib for postoperative adjuvant therapy in Chinese patients with early-stage ALK-positive non-small cell lung cancer.",
+        "pubdate": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41726776/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "BL-B01D1",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Sichuan Baili Pharmaceutical Co., Ltd."
+      },
+      {
+        "name": "Pemetrexed+Cisplatin or Carboplatin",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Sichuan Baili Pharmaceutical Co., Ltd."
+      },
+      {
+        "name": "JDQ443",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Novartis Pharmaceuticals"
+      },
+      {
+        "name": "docetaxel",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Novartis Pharmaceuticals"
+      }
+    ]
+  }
+}

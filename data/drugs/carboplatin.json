@@ -1,7 +1,7 @@
 {
   "drug_name": "Carboplatin",
   "slug": "carboplatin",
-  "enriched_at": "2026-08-19T07:42:04Z",
+  "enriched_at": "2026-08-20T07:43:02Z",
   "source_trial_ids": [
     "NCT05048797",
     "NCT05261399",
@@ -10,6 +10,7 @@
     "NCT06151574",
     "NCT06211023",
     "NCT06279364",
+    "NCT06624059",
     "NCT06687369",
     "NCT06927986"
   ],
@@ -37,6 +38,12 @@
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=CSPC%20Megalith%20Biopharmaceutical%20Co.%2CLtd.&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Hoffmann-La Roche",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hoffmann-La%20Roche&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Merck Sharp & Dohme LLC",
@@ -151,6 +158,13 @@
       "title": "A Study of SKB264 Versus Investigator's Choice Chemotherapy in Patients With Unresectable Recurrent or Metastatic Triple-Negative Breast Cancer",
       "status": "RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT06279364",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06624059",
+      "title": "A Study to See How Well and How Safely Different Treatments Work in a Group of Participants With Non-Small Cell Lung Cancer (NSCLC)",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT06624059",
       "has_results": false
     },
     {
