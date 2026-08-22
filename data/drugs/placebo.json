@@ -1,7 +1,7 @@
 {
   "drug_name": "Placebo",
   "slug": "placebo",
-  "enriched_at": "2026-08-19T07:44:17Z",
+  "enriched_at": "2026-08-22T07:34:12Z",
   "source_trial_ids": [
     "NCT02914535",
     "NCT04023552",
@@ -9,6 +9,7 @@
     "NCT04336722",
     "NCT04652882",
     "NCT04768972",
+    "NCT04965675",
     "NCT05164341",
     "NCT05316220",
     "NCT05330182",
@@ -36,7 +37,6 @@
     "NCT06440967",
     "NCT06455059",
     "NCT06456528",
-    "NCT06470451",
     "NCT06472076",
     "NCT06481891",
     "NCT06534723",
@@ -228,6 +228,12 @@
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Guangdong%20Raynovent%20Biotech%20Co.%2C%20Ltd&type=10-K&dateb=&owner=include&count=40"
     },
     {
+      "name": "H. Lundbeck A/S",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=H.%20Lundbeck%20A/S&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
       "name": "Hoffmann-La Roche",
       "ticker": null,
       "market_cap_display": null,
@@ -384,12 +390,6 @@
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Sichuan%20Jishengtang%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
     },
     {
-      "name": "Soligenix",
-      "ticker": "SNGX",
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000812796&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
       "name": "Suzhou Suncadia Biopharmaceuticals Co., Ltd.",
       "ticker": null,
       "market_cap_display": null,
@@ -445,8 +445,8 @@
     }
   },
   "condition": {
-    "raw": "CTCL/ Mycosis Fungoides",
-    "slug": "ctcl-mycosis-fungoides"
+    "raw": "Arthritis, Psoriatic",
+    "slug": "arthritis-psoriatic"
   },
   "source_trials": [
     {
@@ -489,6 +489,13 @@
       "title": "FUSION: A Study to Evaluate the Efficacy, Safety, Pharmacokinetics and Pharmacodynamics of ION363 in Amyotrophic Lateral Sclerosis Participants With Fused in Sarcoma Mutations (FUS-ALS)",
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT04768972",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT04965675",
+      "title": "A Study With Eptinezumab in Adolescents (12-17 Years) With Chronic Migraine",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04965675",
       "has_results": false
     },
     {
@@ -678,13 +685,6 @@
       "title": "QL0911 for the Treatment of Cancer Treatment-Induced Thrombocytopenia",
       "status": "RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT06456528",
-      "has_results": false
-    },
-    {
-      "nct_id": "NCT06470451",
-      "title": "Confirmatory Study of Topical HyBryte™ vs. Placebo for the Treatment of CTCL",
-      "status": "TERMINATED",
-      "url": "https://clinicaltrials.gov/study/NCT06470451",
       "has_results": false
     },
     {
@@ -916,34 +916,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42612789",
-        "title": "Inhibition of Salt-Inducible Kinases 2 and 3 reduces inflammatory signature in Psoriasis.",
-        "pubdate": "2026 Aug 18",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42612789/"
+        "pmid": "42629232",
+        "title": "Improvement in neuropsychological function with memantine treatment among patients with systemic lupus erythematosus: a phase 2 randomised placebo-controlled clinical trial.",
+        "pubdate": "2026 Aug 21",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42629232/"
       },
       {
-        "pmid": "42611779",
-        "title": "Eltrombopag plus cyclosporine A for moderate aplastic anemia (EMAA): a placebo-controlled, double-blind, phase 3 trial.",
-        "pubdate": "2026 Aug 18",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42611779/"
+        "pmid": "42628840",
+        "title": "Five-Year Outcomes of Perioperative Pembrolizumab for Early-Stage Non-Small-Cell Lung Cancer From the Randomized KEYNOTE-671 Study.",
+        "pubdate": "2026 Aug 21",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42628840/"
       },
       {
-        "pmid": "42611163",
-        "title": "Efficacy and Safety of SSGJ-608 in Moderate-to-Severe Plaque Psoriasis: A Pivotal Multicenter, Double-Blind, Placebo-Controlled, Randomized, Phase III Clinical Trial.",
-        "pubdate": "2026 Aug 18",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42611163/"
+        "pmid": "42628839",
+        "title": "Atezolizumab with or without tiragolumab in unresectable esophageal squamous cell carcinoma following definitive concurrent chemoradiotherapy (SKYSCRAPER-07): a randomised, phase III study.",
+        "pubdate": "2026 Aug 21",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42628839/"
       },
       {
-        "pmid": "42610748",
-        "title": "Factors for Success and Failure of Allergen Immunotherapy (AIT) Trial Design in the Light of Evidence-Based Medicine: Current Aspects 2026.",
-        "pubdate": "2026 Aug 18",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42610748/"
+        "pmid": "42628808",
+        "title": "Effect of Lithium Mouthwash on Oral Mucositis and Taste Dysfunction in Head and Neck Radiotherapy: The Phase I/II Clinical Trial.",
+        "pubdate": "2026 Aug 21",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42628808/"
       },
       {
-        "pmid": "42610550",
-        "title": "Beyond erythropoiesis-stimulating agents: The evolving role of hypoxia-inducible factor stabilizers in anemia of chronic kidney disease.",
-        "pubdate": "2026 Aug 18",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42610550/"
+        "pmid": "42628555",
+        "title": "Efficacy and safety of mazdutide in adults with obesity or overweight: a US-based, multicentre, phase 2, randomised, placebo-controlled clinical trial.",
+        "pubdate": "2026 Aug 21",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42628555/"
       }
     ]
   },

@@ -1,0 +1,110 @@
+{
+  "drug_name": "Eptinezumab",
+  "slug": "eptinezumab",
+  "enriched_at": "2026-08-22T07:34:22Z",
+  "source_trial_ids": [
+    "NCT04965675"
+  ],
+  "sponsors": [
+    {
+      "name": "H. Lundbeck A/S",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=H.%20Lundbeck%20A/S&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2282660",
+      "generic_name": "eptinezumab",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL3833320",
+    "target_chembl_id": "CHEMBL3832947",
+    "target_name": "Calcitonin gene-related peptide",
+    "mechanism_of_action_chembl": "Calcitonin gene-related peptide inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "DailyMed",
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=79065861-6aa5-4d1f-829f-3a6471286b36",
+    "note": "A label exists in DailyMed but structured sections could not be parsed automatically -- see dailymed_url for the full label.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Eptinezumab+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Eptinezumab+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Eptinezumab+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Chronic Migraine in Children",
+    "slug": "chronic-migraine-in-children"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04965675",
+      "title": "A Study With Eptinezumab in Adolescents (12-17 Years) With Chronic Migraine",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04965675",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42533319",
+        "title": "Twelve-months prospective real-world assessment of effectiveness and safety of eptinezumab in migraine patients difficult-to-treat and naïve to CGRP monoclonal antibodies: results of the French FHU INOVPAIN registry.",
+        "pubdate": "2026 Jul 29",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42533319/"
+      },
+      {
+        "pmid": "42410521",
+        "title": "Cross-response to Calcitonin Gene-Related Peptide monoclonal antibodies in a real-world setting: analysis of prospective data collected in the French FHU InovPain registry.",
+        "pubdate": "2026 Jul 7",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42410521/"
+      },
+      {
+        "pmid": "42288801",
+        "title": "Efficacy and safety of eptinezumab in adults with chronic migraine and medication-overuse headache who also received patient education: 24-week results of the randomized RESOLUTION trial.",
+        "pubdate": "2026 Jun 13",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42288801/"
+      },
+      {
+        "pmid": "42265869",
+        "title": "Online interest in calcitonin gene-related peptide-therapies: An infodemiology study using Google trends.",
+        "pubdate": "2026 Jun 9",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42265869/"
+      },
+      {
+        "pmid": "41913100",
+        "title": "Forecasting migraine with time-series machine learning from mobile health data.",
+        "pubdate": "2026 Mar 30",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41913100/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "GALCANEZUMAB",
+        "chembl_id": "CHEMBL3707328",
+        "reason": "same target: Calcitonin gene-related peptide"
+      },
+      {
+        "name": "FREMANEZUMAB",
+        "chembl_id": "CHEMBL4297756",
+        "reason": "same target: Calcitonin gene-related peptide"
+      }
+    ]
+  }
+}
