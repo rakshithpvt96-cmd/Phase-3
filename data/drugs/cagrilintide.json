@@ -1,12 +1,17 @@
 {
   "drug_name": "Cagrilintide",
   "slug": "cagrilintide",
-  "enriched_at": "2026-08-15T21:09:15Z",
+  "enriched_at": "2026-08-23T08:25:56Z",
   "source_trial_ids": [
     "NCT06534411"
   ],
   "sponsors": [
-    "Novo Nordisk A/S"
+    {
+      "name": "Novo Nordisk A/S",
+      "ticker": "NVO",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000353278&type=10-K&dateb=&owner=include&count=40"
+    }
   ],
   "identity": {
     "pubchem_cid": 171397054,
@@ -95,6 +100,17 @@
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": []
+    "items": [
+      {
+        "name": "Retatrutide",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Eli Lilly and Company"
+      },
+      {
+        "name": "Semaglutide",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Eli Lilly and Company"
+      }
+    ]
   }
 }

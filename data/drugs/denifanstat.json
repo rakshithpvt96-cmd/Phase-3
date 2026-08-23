@@ -1,12 +1,17 @@
 {
   "drug_name": "denifanstat",
   "slug": "denifanstat",
-  "enriched_at": "2026-08-15T21:11:42Z",
+  "enriched_at": "2026-08-23T08:27:03Z",
   "source_trial_ids": [
     "NCT06692283"
   ],
   "sponsors": [
-    "Sagimet Biosciences Inc."
+    {
+      "name": "Sagimet Biosciences Inc.",
+      "ticker": "SGMT",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001400118&type=10-K&dateb=&owner=include&count=40"
+    }
   ],
   "identity": {
     "pubchem_cid": 66548316,

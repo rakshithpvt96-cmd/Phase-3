@@ -1,12 +1,17 @@
 {
   "drug_name": "Gadobutrol Injection",
   "slug": "gadobutrol-injection",
-  "enriched_at": "2026-08-15T21:14:49Z",
+  "enriched_at": "2026-08-23T08:28:23Z",
   "source_trial_ids": [
     "NCT07275814"
   ],
   "sponsors": [
-    "Shanghai Shengdi Pharmaceutical Co., Ltd"
+    {
+      "name": "Shanghai Shengdi Pharmaceutical Co., Ltd",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Shanghai%20Shengdi%20Pharmaceutical%20Co.%2C%20Ltd&type=10-K&dateb=&owner=include&count=40"
+    }
   ],
   "identity": {
     "rxnorm": {

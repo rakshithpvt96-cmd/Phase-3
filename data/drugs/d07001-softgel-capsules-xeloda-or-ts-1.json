@@ -1,12 +1,17 @@
 {
   "drug_name": "D07001-softgel capsules + Xeloda (or TS-1)",
   "slug": "d07001-softgel-capsules-xeloda-or-ts-1",
-  "enriched_at": "2026-08-15T21:11:17Z",
+  "enriched_at": "2026-08-23T08:26:51Z",
   "source_trial_ids": [
     "NCT05065957"
   ],
   "sponsors": [
-    "InnoPharmax Inc."
+    {
+      "name": "InnoPharmax Inc.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=InnoPharmax%20Inc.&type=10-K&dateb=&owner=include&count=40"
+    }
   ],
   "identity": {
     "rxnorm": {

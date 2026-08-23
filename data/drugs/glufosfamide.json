@@ -1,12 +1,17 @@
 {
   "drug_name": "Glufosfamide",
   "slug": "glufosfamide",
-  "enriched_at": "2026-08-15T21:15:24Z",
+  "enriched_at": "2026-08-23T08:28:39Z",
   "source_trial_ids": [
     "NCT01954992"
   ],
   "sponsors": [
-    "Eleison Pharmaceuticals LLC."
+    {
+      "name": "Eleison Pharmaceuticals LLC.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Eleison%20Pharmaceuticals%20LLC.&type=10-K&dateb=&owner=include&count=40"
+    }
   ],
   "identity": {
     "pubchem_cid": 123628,

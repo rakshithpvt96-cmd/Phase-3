@@ -1,12 +1,17 @@
 {
   "drug_name": "Diluted I.V.-Hepabig inj(GC5103)",
   "slug": "diluted-i-v-hepabig-inj-gc5103",
-  "enriched_at": "2026-08-15T21:11:56Z",
+  "enriched_at": "2026-08-23T08:27:08Z",
   "source_trial_ids": [
     "NCT05686759"
   ],
   "sponsors": [
-    "GC Biopharma Corp"
+    {
+      "name": "GC Biopharma Corp",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=GC%20Biopharma%20Corp&type=10-K&dateb=&owner=include&count=40"
+    }
   ],
   "identity": {
     "rxnorm": {

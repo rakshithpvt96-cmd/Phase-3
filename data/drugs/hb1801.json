@@ -1,12 +1,17 @@
 {
   "drug_name": "HB1801",
   "slug": "hb1801",
-  "enriched_at": "2026-08-15T21:16:03Z",
+  "enriched_at": "2026-08-23T08:29:01Z",
   "source_trial_ids": [
     "NCT06319313"
   ],
   "sponsors": [
-    "Shanghai JMT-Bio Inc."
+    {
+      "name": "Shanghai JMT-Bio Inc.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Shanghai%20JMT-Bio%20Inc.&type=10-K&dateb=&owner=include&count=40"
+    }
   ],
   "identity": {
     "pubchem_cid": 60857,

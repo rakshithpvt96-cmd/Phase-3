@@ -1,12 +1,17 @@
 {
   "drug_name": "EN3835",
   "slug": "en3835",
-  "enriched_at": "2026-08-15T21:13:34Z",
+  "enriched_at": "2026-08-23T08:27:55Z",
   "source_trial_ids": [
     "NCT06151197"
   ],
   "sponsors": [
-    "Endo USA Inc., a Keenova Therapeutics Company"
+    {
+      "name": "Endo USA Inc., a Keenova Therapeutics Company",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Endo%20USA%20Inc.%2C%20a%20Keenova%20Therapeutics%20Company&type=10-K&dateb=&owner=include&count=40"
+    }
   ],
   "identity": {
     "rxnorm": null

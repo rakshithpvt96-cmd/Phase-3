@@ -1,12 +1,17 @@
 {
   "drug_name": "contezolid acefosamil (IV)/contezolid (PO)",
   "slug": "contezolid-acefosamil-iv-contezolid-po",
-  "enriched_at": "2026-08-15T21:11:05Z",
+  "enriched_at": "2026-08-23T08:26:45Z",
   "source_trial_ids": [
     "NCT05369052"
   ],
   "sponsors": [
-    "MicuRx"
+    {
+      "name": "MicuRx",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=MicuRx&type=10-K&dateb=&owner=include&count=40"
+    }
   ],
   "identity": {
     "rxnorm": {

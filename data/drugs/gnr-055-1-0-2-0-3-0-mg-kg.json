@@ -1,12 +1,17 @@
 {
   "drug_name": "GNR-055 1.0-2.0-3.0 mg/kg",
   "slug": "gnr-055-1-0-2-0-3-0-mg-kg",
-  "enriched_at": "2026-08-15T21:15:30Z",
+  "enriched_at": "2026-08-23T08:28:44Z",
   "source_trial_ids": [
     "NCT05208281"
   ],
   "sponsors": [
-    "AO GENERIUM"
+    {
+      "name": "AO GENERIUM",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=AO%20GENERIUM&type=10-K&dateb=&owner=include&count=40"
+    }
   ],
   "identity": {
     "rxnorm": {

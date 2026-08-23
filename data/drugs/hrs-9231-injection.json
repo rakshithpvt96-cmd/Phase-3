@@ -1,12 +1,17 @@
 {
   "drug_name": "HRS-9231 Injection",
   "slug": "hrs-9231-injection",
-  "enriched_at": "2026-08-15T21:16:39Z",
+  "enriched_at": "2026-08-23T08:29:46Z",
   "source_trial_ids": [
     "NCT07275814"
   ],
   "sponsors": [
-    "Shanghai Shengdi Pharmaceutical Co., Ltd"
+    {
+      "name": "Shanghai Shengdi Pharmaceutical Co., Ltd",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Shanghai%20Shengdi%20Pharmaceutical%20Co.%2C%20Ltd&type=10-K&dateb=&owner=include&count=40"
+    }
   ],
   "identity": {
     "rxnorm": {
@@ -53,38 +58,7 @@
   ],
   "prior_results": {
     "ctgov_results_urls": [],
-    "pubmed_articles": [
-      {
-        "pmid": "42602754",
-        "title": "Liposomal bupivacaine surgical site injection for decrease of narcotic use in hip fractures: a pilot multicenter randomized trial.",
-        "pubdate": "2026 Sep",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42602754/"
-      },
-      {
-        "pmid": "42602644",
-        "title": "Effects of Preemptive Analgesia Using Wrist-Ankle Acupuncture on Postoperative Pain and Urinary Retention After Haemorrhoidectomy: A Randomised, Three-Arm, Clinical Trial.",
-        "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42602644/"
-      },
-      {
-        "pmid": "42601628",
-        "title": "Medication transitions and predictors of illicit substance use during opioid agonist treatment: a three-year follow-up study.",
-        "pubdate": "2026 Aug 14",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42601628/"
-      },
-      {
-        "pmid": "42600059",
-        "title": "Protective Effects and Mechanisms of Extracellular Vesicles in Remote Ischemic Preconditioning on Renal Injury Induced by Inflammation.",
-        "pubdate": "2026 Aug 31",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42600059/"
-      },
-      {
-        "pmid": "42599579",
-        "title": "Pharmacokinetics, Safety, and Immunogenicity of DMB-3115, a Ustekinumab Biosimilar for Immune-Mediated Diseases, in Healthy Japanese Male Participants: A Randomized, Double-Blind, Single-Dose Study.",
-        "pubdate": "2026 Aug 14",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42599579/"
-      }
-    ]
+    "pubmed_articles": []
   },
   "related_drugs": {
     "method": "ctgov_same_condition",

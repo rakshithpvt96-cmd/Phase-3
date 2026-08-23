@@ -1,12 +1,17 @@
 {
   "drug_name": "DTT106",
   "slug": "dtt106",
-  "enriched_at": "2026-08-15T21:12:34Z",
+  "enriched_at": "2026-08-23T08:27:31Z",
   "source_trial_ids": [
     "NCT06264414"
   ],
   "sponsors": [
-    "EMS"
+    {
+      "name": "EMS",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=EMS&type=10-K&dateb=&owner=include&count=40"
+    }
   ],
   "identity": {
     "rxnorm": null

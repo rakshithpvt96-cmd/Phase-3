@@ -1,12 +1,17 @@
 {
   "drug_name": "febuxostat tablets + placebo of HR091506 tablets",
   "slug": "febuxostat-tablets-placebo-of-hr091506-tablets",
-  "enriched_at": "2026-08-15T21:14:10Z",
+  "enriched_at": "2026-08-23T08:28:18Z",
   "source_trial_ids": [
     "NCT06414837"
   ],
   "sponsors": [
-    "Jiangsu HengRui Medicine Co., Ltd."
+    {
+      "name": "Jiangsu HengRui Medicine Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Jiangsu%20HengRui%20Medicine%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
   ],
   "identity": {
     "rxnorm": {

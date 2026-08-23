@@ -1,12 +1,17 @@
 {
   "drug_name": "Coagadex(R)",
   "slug": "coagadex-r",
-  "enriched_at": "2026-08-15T21:10:21Z",
+  "enriched_at": "2026-08-23T08:26:07Z",
   "source_trial_ids": [
     "NCT06963216"
   ],
   "sponsors": [
-    "Kedrion S.p.A."
+    {
+      "name": "Kedrion S.p.A.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Kedrion%20S.p.A.&type=10-K&dateb=&owner=include&count=40"
+    }
   ],
   "identity": {
     "rxnorm": {

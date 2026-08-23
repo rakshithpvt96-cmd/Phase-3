@@ -1,7 +1,7 @@
 {
   "drug_name": "LP352",
   "slug": "lp352",
-  "enriched_at": "2026-08-15T21:52:11Z",
+  "enriched_at": "2026-08-23T08:32:43Z",
   "source_trial_ids": [
     "NCT06660394"
   ],
@@ -90,6 +90,12 @@
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": []
+    "items": [
+      {
+        "name": "fenfluramine",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: UCB BIOSCIENCES, Inc."
+      }
+    ]
   }
 }

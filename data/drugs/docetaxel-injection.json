@@ -1,12 +1,17 @@
 {
   "drug_name": "Docetaxel Injection",
   "slug": "docetaxel-injection",
-  "enriched_at": "2026-08-15T21:12:17Z",
+  "enriched_at": "2026-08-23T08:27:19Z",
   "source_trial_ids": [
     "NCT06738251"
   ],
   "sponsors": [
-    "Shanghai Hengrui Pharmaceutical Co., Ltd."
+    {
+      "name": "Shanghai Hengrui Pharmaceutical Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Shanghai%20Hengrui%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
   ],
   "identity": {
     "rxnorm": {
@@ -89,6 +94,17 @@
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": []
+    "items": [
+      {
+        "name": "9MW2821",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Mabwell (Shanghai) Bioscience Co., Ltd."
+      },
+      {
+        "name": "Chemotherapy",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Mabwell (Shanghai) Bioscience Co., Ltd."
+      }
+    ]
   }
 }

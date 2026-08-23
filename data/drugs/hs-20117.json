@@ -1,12 +1,17 @@
 {
   "drug_name": "HS-20117",
   "slug": "hs-20117",
-  "enriched_at": "2026-08-15T21:16:46Z",
+  "enriched_at": "2026-08-23T08:29:55Z",
   "source_trial_ids": [
     "NCT06417008"
   ],
   "sponsors": [
-    "Hansoh BioMedical R&D Company"
+    {
+      "name": "Hansoh BioMedical R&D Company",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hansoh%20BioMedical%20R%26D%20Company&type=10-K&dateb=&owner=include&count=40"
+    }
   ],
   "identity": {
     "rxnorm": {

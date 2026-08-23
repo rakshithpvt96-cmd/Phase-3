@@ -1,12 +1,17 @@
 {
   "drug_name": "Gemcitabine Hydrochloride for Injection",
   "slug": "gemcitabine-hydrochloride-for-injection",
-  "enriched_at": "2026-08-15T21:15:12Z",
+  "enriched_at": "2026-08-23T08:28:31Z",
   "source_trial_ids": [
     "NCT06738251"
   ],
   "sponsors": [
-    "Shanghai Hengrui Pharmaceutical Co., Ltd."
+    {
+      "name": "Shanghai Hengrui Pharmaceutical Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Shanghai%20Hengrui%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
   ],
   "identity": {
     "rxnorm": {

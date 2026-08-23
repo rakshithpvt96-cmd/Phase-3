@@ -1,12 +1,17 @@
 {
   "drug_name": "EU-sourced Keytruda®",
   "slug": "eu-sourced-keytruda",
-  "enriched_at": "2026-08-15T21:13:51Z",
+  "enriched_at": "2026-08-23T08:28:00Z",
   "source_trial_ids": [
     "NCT06687369"
   ],
   "sponsors": [
-    "mAbxience Research S.L."
+    {
+      "name": "mAbxience Research S.L.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=mAbxience%20Research%20S.L.&type=10-K&dateb=&owner=include&count=40"
+    }
   ],
   "identity": {
     "rxnorm": {

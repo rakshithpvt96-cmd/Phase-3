@@ -1,7 +1,7 @@
 {
   "drug_name": "Paclitaxel Injection",
   "slug": "paclitaxel-injection",
-  "enriched_at": "2026-08-16T07:56:18Z",
+  "enriched_at": "2026-08-23T08:35:07Z",
   "source_trial_ids": [
     "NCT06738251"
   ],
@@ -94,6 +94,17 @@
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": []
+    "items": [
+      {
+        "name": "9MW2821",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Mabwell (Shanghai) Bioscience Co., Ltd."
+      },
+      {
+        "name": "Chemotherapy",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Mabwell (Shanghai) Bioscience Co., Ltd."
+      }
+    ]
   }
 }
