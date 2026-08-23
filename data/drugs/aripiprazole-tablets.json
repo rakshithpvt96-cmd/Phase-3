@@ -1,12 +1,17 @@
 {
   "drug_name": "Aripiprazole tablets",
   "slug": "aripiprazole-tablets",
-  "enriched_at": "2026-08-15T20:52:22Z",
+  "enriched_at": "2026-08-23T08:03:53Z",
   "source_trial_ids": [
     "NCT06589817"
   ],
   "sponsors": [
-    "Chengdu Kanghong Pharmaceutical Group Co., Ltd."
+    {
+      "name": "Chengdu Kanghong Pharmaceutical Group Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Chengdu%20Kanghong%20Pharmaceutical%20Group%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
   ],
   "identity": {
     "rxnorm": {

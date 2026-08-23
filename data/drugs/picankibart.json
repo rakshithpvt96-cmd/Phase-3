@@ -1,7 +1,7 @@
 {
   "drug_name": "Picankibart",
   "slug": "picankibart",
-  "enriched_at": "2026-08-15T21:45:26Z",
+  "enriched_at": "2026-08-23T07:54:44Z",
   "source_trial_ids": [
     "NCT06945107"
   ],
@@ -93,6 +93,11 @@
         "name": "Adalimumab",
         "chembl_id": null,
         "reason": "same indication trial, sponsor: Biocad"
+      },
+      {
+        "name": "Apremilast",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Amgen"
       }
     ]
   }

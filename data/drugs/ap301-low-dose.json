@@ -1,12 +1,17 @@
 {
   "drug_name": "AP301 Low Dose",
   "slug": "ap301-low-dose",
-  "enriched_at": "2026-08-15T20:51:52Z",
+  "enriched_at": "2026-08-23T08:03:27Z",
   "source_trial_ids": [
     "NCT06933472"
   ],
   "sponsors": [
-    "Alebund Pharmaceuticals"
+    {
+      "name": "Alebund Pharmaceuticals",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Alebund%20Pharmaceuticals&type=10-K&dateb=&owner=include&count=40"
+    }
   ],
   "identity": {
     "rxnorm": {

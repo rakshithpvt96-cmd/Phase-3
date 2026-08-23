@@ -1,12 +1,17 @@
 {
   "drug_name": "Aumolertinib",
   "slug": "aumolertinib",
-  "enriched_at": "2026-08-15T20:53:18Z",
+  "enriched_at": "2026-08-23T08:04:09Z",
   "source_trial_ids": [
     "NCT06417008"
   ],
   "sponsors": [
-    "Hansoh BioMedical R&D Company"
+    {
+      "name": "Hansoh BioMedical R&D Company",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hansoh%20BioMedical%20R%26D%20Company&type=10-K&dateb=&owner=include&count=40"
+    }
   ],
   "identity": {
     "pubchem_cid": 121280087,

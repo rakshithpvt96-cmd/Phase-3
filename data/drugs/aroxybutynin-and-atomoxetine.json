@@ -1,12 +1,17 @@
 {
   "drug_name": "Aroxybutynin and Atomoxetine",
   "slug": "aroxybutynin-and-atomoxetine",
-  "enriched_at": "2026-08-15T20:52:45Z",
+  "enriched_at": "2026-08-23T08:04:02Z",
   "source_trial_ids": [
     "NCT06566820"
   ],
   "sponsors": [
-    "Apnimed"
+    {
+      "name": "Apnimed",
+      "ticker": "APMD",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001745648&type=10-K&dateb=&owner=include&count=40"
+    }
   ],
   "identity": {
     "rxnorm": {

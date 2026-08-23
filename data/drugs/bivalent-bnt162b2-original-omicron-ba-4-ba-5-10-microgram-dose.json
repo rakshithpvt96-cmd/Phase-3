@@ -1,12 +1,17 @@
 {
   "drug_name": "Bivalent BNT162b2 (original/Omicron BA.4/BA.5) 10 microgram dose",
   "slug": "bivalent-bnt162b2-original-omicron-ba-4-ba-5-10-microgram-dose",
-  "enriched_at": "2026-08-15T20:54:46Z",
+  "enriched_at": "2026-08-23T08:04:48Z",
   "source_trial_ids": [
     "NCT05543616"
   ],
   "sponsors": [
-    "BioNTech SE"
+    {
+      "name": "BioNTech SE",
+      "ticker": "BNTX",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001776985&type=10-K&dateb=&owner=include&count=40"
+    }
   ],
   "identity": {
     "rxnorm": {

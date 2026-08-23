@@ -1,12 +1,17 @@
 {
   "drug_name": "89Zr-TLX250 PET/CT",
   "slug": "89zr-tlx250-pet-ct",
-  "enriched_at": "2026-08-15T20:49:42Z",
+  "enriched_at": "2026-08-23T08:02:35Z",
   "source_trial_ids": [
     "NCT06750419"
   ],
   "sponsors": [
-    "Telix Pharmaceuticals (Innovations) Pty Limited"
+    {
+      "name": "Telix Pharmaceuticals (Innovations) Pty Limited",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Telix%20Pharmaceuticals%20%28Innovations%29%20Pty%20Limited&type=10-K&dateb=&owner=include&count=40"
+    }
   ],
   "identity": {
     "rxnorm": {
@@ -55,6 +60,24 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42625055",
+        "title": "Automated joint segmentation enables quantitative molecular imaging of degeneration with [¹⁸F]FDG and [¹⁸F]NaF PET/CT.",
+        "pubdate": "2026 Aug 21",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42625055/"
+      },
+      {
+        "pmid": "42620272",
+        "title": "(18)F-FDOPA PET/CT for neuroendocrine tumors in multiple endocrine neoplasia type 1.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42620272/"
+      },
+      {
+        "pmid": "42610817",
+        "title": "(68)Ga-NK224 PET/CT Reveals Intra- and Intertumoral Heterogeneity of PD-L1 in Non-Small Cell Lung Cancer.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42610817/"
+      },
+      {
         "pmid": "42595485",
         "title": "Clinical Trial Protocol for LPS-Boost: Intensified [(177)Lu]Lu-PSMA-617 Treatment for Patients with Metastatic Castration-Resistant Prostate Cancer with Low PSMA-Expressing Disease.",
         "pubdate": "2026 Aug 13",
@@ -65,24 +88,6 @@
         "title": "Head-to-Head (18)F-rhPSMA-7.3 and (18)F-PSMA-1007 PET/CT in Recurrent Prostate Cancer: Pulmonary and Nodal Uptake as a Diagnostic Challenge.",
         "pubdate": "2026 Aug 1",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42587674/"
-      },
-      {
-        "pmid": "42581700",
-        "title": "Evaluating the efficacy of prednisolone for silicosis with progressive massive fibrosis in Australia: an observational pilot study.",
-        "pubdate": "2026 Aug",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42581700/"
-      },
-      {
-        "pmid": "42564330",
-        "title": "Development and evaluation of a peptide-based radiotracer for targeting TIM-3 in preclinical models.",
-        "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42564330/"
-      },
-      {
-        "pmid": "42563201",
-        "title": "Correction: [(18)F]FDG PET/CT performs better than CT in determining the bone biopsy site : randomized controlled clinical trial.",
-        "pubdate": "2026 Aug 6",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42563201/"
       }
     ]
   },

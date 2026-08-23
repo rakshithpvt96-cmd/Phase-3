@@ -1,12 +1,17 @@
 {
   "drug_name": "3K3A-APC",
   "slug": "3k3a-apc",
-  "enriched_at": "2026-08-15T20:49:11Z",
+  "enriched_at": "2026-08-23T08:02:26Z",
   "source_trial_ids": [
     "NCT05484154"
   ],
   "sponsors": [
-    "ZZ Biotech, LLC"
+    {
+      "name": "ZZ Biotech, LLC",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=ZZ%20Biotech%2C%20LLC&type=10-K&dateb=&owner=include&count=40"
+    }
   ],
   "identity": {
     "rxnorm": {

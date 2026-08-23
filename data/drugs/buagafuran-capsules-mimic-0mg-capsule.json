@@ -1,13 +1,18 @@
 {
   "drug_name": "Buagafuran capsules mimic, 0mg/ capsule",
   "slug": "buagafuran-capsules-mimic-0mg-capsule",
-  "enriched_at": "2026-08-15T21:08:44Z",
+  "enriched_at": "2026-08-23T08:05:30Z",
   "source_trial_ids": [
     "NCT06243614",
     "NCT06243640"
   ],
   "sponsors": [
-    "Beijing Union Pharmaceutical Factory Ltd"
+    {
+      "name": "Beijing Union Pharmaceutical Factory Ltd",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Beijing%20Union%20Pharmaceutical%20Factory%20Ltd&type=10-K&dateb=&owner=include&count=40"
+    }
   ],
   "identity": {
     "rxnorm": {

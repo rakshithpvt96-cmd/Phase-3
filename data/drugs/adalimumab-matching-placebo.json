@@ -1,12 +1,17 @@
 {
   "drug_name": "Adalimumab Matching Placebo",
   "slug": "adalimumab-matching-placebo",
-  "enriched_at": "2026-08-15T20:50:21Z",
+  "enriched_at": "2026-08-23T08:02:50Z",
   "source_trial_ids": [
     "NCT05814627"
   ],
   "sponsors": [
-    "AbbVie"
+    {
+      "name": "AbbVie",
+      "ticker": "ABBV",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001551152&type=10-K&dateb=&owner=include&count=40"
+    }
   ],
   "identity": {
     "rxnorm": {

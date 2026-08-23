@@ -1,12 +1,17 @@
 {
   "drug_name": "10-20 mg Aripiprazole oral solution film",
   "slug": "10-20-mg-aripiprazole-oral-solution-film",
-  "enriched_at": "2026-08-15T20:48:39Z",
+  "enriched_at": "2026-08-23T08:01:37Z",
   "source_trial_ids": [
     "NCT06799559"
   ],
   "sponsors": [
-    "Qilu Pharmaceutical Co., Ltd."
+    {
+      "name": "Qilu Pharmaceutical Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Qilu%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
   ],
   "identity": {
     "rxnorm": {

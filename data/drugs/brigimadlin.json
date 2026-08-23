@@ -1,12 +1,17 @@
 {
   "drug_name": "Brigimadlin",
   "slug": "brigimadlin",
-  "enriched_at": "2026-08-15T21:08:22Z",
+  "enriched_at": "2026-08-23T08:05:15Z",
   "source_trial_ids": [
     "NCT06370871"
   ],
   "sponsors": [
-    "Boehringer Ingelheim"
+    {
+      "name": "Boehringer Ingelheim",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Boehringer%20Ingelheim&type=10-K&dateb=&owner=include&count=40"
+    }
   ],
   "identity": {
     "pubchem_cid": 129264140,

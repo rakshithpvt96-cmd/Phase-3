@@ -1,7 +1,7 @@
 {
   "drug_name": "Placebo",
   "slug": "placebo",
-  "enriched_at": "2026-08-22T07:34:12Z",
+  "enriched_at": "2026-08-23T07:54:52Z",
   "source_trial_ids": [
     "NCT02914535",
     "NCT04023552",
@@ -68,14 +68,15 @@
     "NCT07300839",
     "NCT07305987",
     "NCT07403266",
-    "NCT07469800"
+    "NCT07469800",
+    "NCT07473960"
   ],
   "sponsors": [
     {
       "name": "AbbVie",
-      "ticker": null,
+      "ticker": "ABBV",
       "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=AbbVie&type=10-K&dateb=&owner=include&count=40"
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001551152&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Albireo, an Ipsen Company",
@@ -91,9 +92,9 @@
     },
     {
       "name": "Amgen",
-      "ticker": null,
+      "ticker": "AMGN",
       "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Amgen&type=10-K&dateb=&owner=include&count=40"
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000318154&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Ardelyx",
@@ -103,9 +104,9 @@
     },
     {
       "name": "Arrowhead Pharmaceuticals",
-      "ticker": null,
+      "ticker": "ARWR",
       "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Arrowhead%20Pharmaceuticals&type=10-K&dateb=&owner=include&count=40"
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000879407&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Arthrosi Therapeutics",
@@ -139,9 +140,9 @@
     },
     {
       "name": "BioNTech SE",
-      "ticker": null,
+      "ticker": "BNTX",
       "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=BioNTech%20SE&type=10-K&dateb=&owner=include&count=40"
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001776985&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Biocad",
@@ -151,9 +152,9 @@
     },
     {
       "name": "Bristol-Myers Squibb",
-      "ticker": null,
+      "ticker": "BMY",
       "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Bristol-Myers%20Squibb&type=10-K&dateb=&owner=include&count=40"
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000014272&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "CSPC ZhongQi Pharmaceutical Technology Co., Ltd.",
@@ -259,9 +260,9 @@
     },
     {
       "name": "Ionis Pharmaceuticals, Inc.",
-      "ticker": null,
+      "ticker": "IONS",
       "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Ionis%20Pharmaceuticals%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000874015&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Janssen Research & Development, LLC",
@@ -283,9 +284,9 @@
     },
     {
       "name": "Lexicon Pharmaceuticals",
-      "ticker": null,
+      "ticker": "LXRX",
       "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Lexicon%20Pharmaceuticals&type=10-K&dateb=&owner=include&count=40"
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001062822&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Longboard Pharmaceuticals",
@@ -343,9 +344,9 @@
     },
     {
       "name": "Regeneron Pharmaceuticals",
-      "ticker": null,
+      "ticker": "REGN",
       "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Regeneron%20Pharmaceuticals&type=10-K&dateb=&owner=include&count=40"
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000872589&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "RemeGen Co., Ltd.",
@@ -361,15 +362,15 @@
     },
     {
       "name": "Sagimet Biosciences Inc.",
-      "ticker": null,
+      "ticker": "SGMT",
       "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Sagimet%20Biosciences%20Inc.&type=10-K&dateb=&owner=include&count=40"
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001400118&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Sanofi",
-      "ticker": null,
+      "ticker": "SNY",
       "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Sanofi&type=10-K&dateb=&owner=include&count=40"
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001121404&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Shanghai Henlius Biotech",
@@ -397,9 +398,9 @@
     },
     {
       "name": "Tenax Therapeutics, Inc.",
-      "ticker": null,
+      "ticker": "TENX",
       "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Tenax%20Therapeutics%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000034956&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Vanda Pharmaceuticals",
@@ -910,40 +911,47 @@
       "status": "RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT07469800",
       "has_results": false
+    },
+    {
+      "nct_id": "NCT07473960",
+      "title": "IBI306 Monotherapy in Non-Familial Hypercholesterolemia and Mixed Hyperlipidemia",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07473960",
+      "has_results": false
     }
   ],
   "prior_results": {
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42629232",
-        "title": "Improvement in neuropsychological function with memantine treatment among patients with systemic lupus erythematosus: a phase 2 randomised placebo-controlled clinical trial.",
-        "pubdate": "2026 Aug 21",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42629232/"
+        "pmid": "42632595",
+        "title": "Disease-Modifying Antirheumatic Drugs for Hand Osteoarthritis: A Systematic Review and Network Meta-analysis.",
+        "pubdate": "2026 Aug 22",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42632595/"
       },
       {
-        "pmid": "42628840",
-        "title": "Five-Year Outcomes of Perioperative Pembrolizumab for Early-Stage Non-Small-Cell Lung Cancer From the Randomized KEYNOTE-671 Study.",
-        "pubdate": "2026 Aug 21",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42628840/"
+        "pmid": "42631796",
+        "title": "Expert Perspectives on TGCT and the Outcomes of the Phase 3 MANEUVER Study of Pimicotinib Presented at ASCO and ESMO 2025: A Podcast Discussion.",
+        "pubdate": "2026 Aug 22",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42631796/"
       },
       {
-        "pmid": "42628839",
-        "title": "Atezolizumab with or without tiragolumab in unresectable esophageal squamous cell carcinoma following definitive concurrent chemoradiotherapy (SKYSCRAPER-07): a randomised, phase III study.",
-        "pubdate": "2026 Aug 21",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42628839/"
+        "pmid": "42631762",
+        "title": "Impact of organic selenium supplementation on glycaemic control and quality of life in patients with diabetic neuropathy: a randomized placebo-controlled trial.",
+        "pubdate": "2026 Aug 22",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42631762/"
       },
       {
-        "pmid": "42628808",
-        "title": "Effect of Lithium Mouthwash on Oral Mucositis and Taste Dysfunction in Head and Neck Radiotherapy: The Phase I/II Clinical Trial.",
-        "pubdate": "2026 Aug 21",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42628808/"
+        "pmid": "42631623",
+        "title": "Bruton's tyrosine kinase inhibition for food-induced anaphylaxis.",
+        "pubdate": "2026 Aug 24",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42631623/"
       },
       {
-        "pmid": "42628555",
-        "title": "Efficacy and safety of mazdutide in adults with obesity or overweight: a US-based, multicentre, phase 2, randomised, placebo-controlled clinical trial.",
-        "pubdate": "2026 Aug 21",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42628555/"
+        "pmid": "42630921",
+        "title": "Effect of Intranasal Dexmedetomidine on the Night Before Surgery for Postoperative Delirium in Older Patients Undergoing Total Hip or Knee Arthroplasty: A Randomized Clinical Trial.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42630921/"
       }
     ]
   },

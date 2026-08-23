@@ -1,12 +1,17 @@
 {
   "drug_name": "AMDC-USR",
   "slug": "amdc-usr",
-  "enriched_at": "2026-08-15T20:50:52Z",
+  "enriched_at": "2026-08-23T08:03:07Z",
   "source_trial_ids": [
     "NCT03997318"
   ],
   "sponsors": [
-    "Cook MyoSite"
+    {
+      "name": "Cook MyoSite",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Cook%20MyoSite&type=10-K&dateb=&owner=include&count=40"
+    }
   ],
   "identity": {
     "rxnorm": {

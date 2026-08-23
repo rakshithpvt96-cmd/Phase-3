@@ -1,7 +1,7 @@
 {
   "drug_name": "SC Placebo",
   "slug": "sc-placebo",
-  "enriched_at": "2026-08-16T07:35:47Z",
+  "enriched_at": "2026-08-23T07:57:24Z",
   "source_trial_ids": [
     "NCT06052059"
   ],
@@ -60,40 +60,51 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42602754",
-        "title": "Liposomal bupivacaine surgical site injection for decrease of narcotic use in hip fractures: a pilot multicenter randomized trial.",
-        "pubdate": "2026 Sep",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42602754/"
+        "pmid": "42631796",
+        "title": "Expert Perspectives on TGCT and the Outcomes of the Phase 3 MANEUVER Study of Pimicotinib Presented at ASCO and ESMO 2025: A Podcast Discussion.",
+        "pubdate": "2026 Aug 22",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42631796/"
       },
       {
-        "pmid": "42602089",
-        "title": "The effect of esketamine on sleep disorders in parturients undergoing cesarean section under general anesthesia: a single-center, randomized, double-blind, placebo-controlled prospective study.",
+        "pmid": "42631762",
+        "title": "Impact of organic selenium supplementation on glycaemic control and quality of life in patients with diabetic neuropathy: a randomized placebo-controlled trial.",
+        "pubdate": "2026 Aug 22",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42631762/"
+      },
+      {
+        "pmid": "42630921",
+        "title": "Effect of Intranasal Dexmedetomidine on the Night Before Surgery for Postoperative Delirium in Older Patients Undergoing Total Hip or Knee Arthroplasty: A Randomized Clinical Trial.",
         "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42602089/"
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42630921/"
       },
       {
-        "pmid": "42601095",
-        "title": "REenergizeME: intermittent hypoxia-hyperoxia treatment for myalgic encephalomyelitis/chronic fatigue syndrome-protocol for a randomised, placebo-controlled trial.",
-        "pubdate": "2026 Aug 14",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42601095/"
+        "pmid": "42630793",
+        "title": "Efficacy and safety of desogestrel/ethinylestradiol 150/20 flexible extended regimen (FREEDOM 150/20) in dysmenorrhea: phase 3 study in Japan.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42630793/"
       },
       {
-        "pmid": "42600624",
-        "title": "Neurological effects of encapsulated dexamethasone sodium phosphate in children aged 6-9 years with ataxia telangiectasia (NEAT): a multicentre, randomised, double-blind, placebo-controlled, phase 3 trial.",
-        "pubdate": "2026 Aug 14",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42600624/"
-      },
-      {
-        "pmid": "42600127",
-        "title": "Effect of Low-Intensity Transcranial Focused Ultrasound Stimulation on Neuropathic Pain: Protocol for a Randomized, Single-Blind, Placebo-Controlled, 3-Arm, Parallel-Group Trial.",
-        "pubdate": "2026 Aug 14",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42600127/"
+        "pmid": "42629547",
+        "title": "EP262, an MRGPRX2 Antagonist for the Treatment of Atopic Dermatitis: Results From the Phase 2 Randomized EASE Study.",
+        "pubdate": "2026 Aug 21",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42629547/"
       }
     ]
   },
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": []
+    "items": [
+      {
+        "name": "Filgotinib",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Alfasigma S.p.A."
+      },
+      {
+        "name": "Placebo",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Alfasigma S.p.A."
+      }
+    ]
   }
 }

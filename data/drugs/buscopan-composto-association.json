@@ -1,12 +1,17 @@
 {
   "drug_name": "Buscopan® Composto association",
   "slug": "buscopan-composto-association",
-  "enriched_at": "2026-08-15T21:08:50Z",
+  "enriched_at": "2026-08-23T08:05:36Z",
   "source_trial_ids": [
     "NCT05640232"
   ],
   "sponsors": [
-    "EMS"
+    {
+      "name": "EMS",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=EMS&type=10-K&dateb=&owner=include&count=40"
+    }
   ],
   "identity": {
     "rxnorm": {

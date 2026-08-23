@@ -1,12 +1,17 @@
 {
   "drug_name": "3-6mg QLM1016",
   "slug": "3-6mg-qlm1016",
-  "enriched_at": "2026-08-15T20:48:57Z",
+  "enriched_at": "2026-08-23T08:02:13Z",
   "source_trial_ids": [
     "NCT06799559"
   ],
   "sponsors": [
-    "Qilu Pharmaceutical Co., Ltd."
+    {
+      "name": "Qilu Pharmaceutical Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Qilu%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
   ],
   "identity": {
     "rxnorm": {
@@ -77,6 +82,17 @@
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": []
+    "items": [
+      {
+        "name": "OLZ/SAM",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Alkermes, Inc."
+      },
+      {
+        "name": "Olanzapine",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Alkermes, Inc."
+      }
+    ]
   }
 }

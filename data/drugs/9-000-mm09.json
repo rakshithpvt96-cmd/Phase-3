@@ -1,12 +1,17 @@
 {
   "drug_name": "9,000 MM09",
   "slug": "9-000-mm09",
-  "enriched_at": "2026-08-15T20:49:48Z",
+  "enriched_at": "2026-08-23T08:02:40Z",
   "source_trial_ids": [
     "NCT05641272"
   ],
   "sponsors": [
-    "Inmunotek S.L."
+    {
+      "name": "Inmunotek S.L.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Inmunotek%20S.L.&type=10-K&dateb=&owner=include&count=40"
+    }
   ],
   "identity": {
     "rxnorm": null
@@ -54,6 +59,12 @@
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": []
+    "items": [
+      {
+        "name": "HDM SLIT-tablet (12 SQ-HDM)",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: ALK-Abelló A/S"
+      }
+    ]
   }
 }
