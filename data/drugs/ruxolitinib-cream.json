@@ -1,16 +1,16 @@
 {
   "drug_name": "Ruxolitinib Cream",
   "slug": "ruxolitinib-cream",
-  "enriched_at": "2026-08-16T08:04:15Z",
+  "enriched_at": "2026-08-23T09:00:19Z",
   "source_trial_ids": [
     "NCT06548360"
   ],
   "sponsors": [
     {
       "name": "Incyte Corporation",
-      "ticker": null,
+      "ticker": "INCY",
       "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Incyte%20Corporation&type=10-K&dateb=&owner=include&count=40"
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000879169&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
@@ -60,6 +60,12 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42605165",
+        "title": "Real-world effectiveness of topical ruxolitinib in non-segmental vitiligo: repigmentation, mental health, and quality-of-life outcomes in an 860-patient multicentre study.",
+        "pubdate": "2026 Aug 17",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42605165/"
+      },
+      {
         "pmid": "42554948",
         "title": "Real-World Effect of Ruxolitinib Cream: Decreased Use of Additional Topical Therapies and Limited Escalation to Systemic Treatments.",
         "pubdate": "2026 Aug 5",
@@ -82,12 +88,6 @@
         "title": "Safety and Tolerability of Ruxolitinib Cream in Adolescents with Mild-to-Moderate Atopic Dermatitis: Results From a 1-Year, Phase III, Open-Label Study.",
         "pubdate": "2026 Jul",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42201487/"
-      },
-      {
-        "pmid": "41793220",
-        "title": "Prolonged ruxolitinib cream treatment for vitiligo among patients with no or limited response in the first 6 months.",
-        "pubdate": "2026 Aug",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41793220/"
       }
     ]
   },

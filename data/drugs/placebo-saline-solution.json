@@ -1,7 +1,7 @@
 {
   "drug_name": "Placebo (Saline solution)",
   "slug": "placebo-saline-solution",
-  "enriched_at": "2026-08-16T07:58:42Z",
+  "enriched_at": "2026-08-23T08:57:39Z",
   "source_trial_ids": [
     "NCT07272434"
   ],
@@ -74,7 +74,7 @@
       {
         "pmid": "42138680",
         "title": "Intravenous Magnesium Sulfate for Acute Nontraumatic Headache in the Emergency Department.",
-        "pubdate": "2026 May 14",
+        "pubdate": "2026 Sep",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42138680/"
       },
       {
@@ -94,6 +94,12 @@
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": []
+    "items": [
+      {
+        "name": "RSVpreF",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Pfizer"
+      }
+    ]
   }
 }
