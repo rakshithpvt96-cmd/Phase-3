@@ -1,0 +1,116 @@
+{
+  "drug_name": "IBI306",
+  "slug": "ibi306",
+  "enriched_at": "2026-08-23T07:42:06Z",
+  "source_trial_ids": [
+    "NCT07473960"
+  ],
+  "sponsors": [
+    {
+      "name": "Innovent Biologics (Suzhou) Co. Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Innovent%20Biologics%20%28Suzhou%29%20Co.%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2471478",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4594554",
+    "target_chembl_id": "CHEMBL2929",
+    "target_name": "Proprotein convertase subtilisin/kexin type 9",
+    "mechanism_of_action_chembl": "Subtilisin/kexin type 9 inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=IBI306+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=IBI306+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=IBI306+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Non-Familial Hypercholesterolemia and Mixed Hyperlipidemia",
+    "slug": "non-familial-hypercholesterolemia-and-mixed-hyperlipidemia"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07473960",
+      "title": "IBI306 Monotherapy in Non-Familial Hypercholesterolemia and Mixed Hyperlipidemia",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07473960",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "37614541",
+        "title": "Tafolecimab in Chinese Patients With Hypercholesterolemia (CREDIT-4): A Randomized, Double-Blind, Placebo-Controlled Phase 3 Trial.",
+        "pubdate": "2023 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37614541/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "ALIROCUMAB",
+        "chembl_id": "CHEMBL2109540",
+        "reason": "same target: Proprotein convertase subtilisin/kexin type 9"
+      },
+      {
+        "name": "EVOLOCUMAB",
+        "chembl_id": "CHEMBL2364655",
+        "reason": "same target: Proprotein convertase subtilisin/kexin type 9"
+      },
+      {
+        "name": "BOCOCIZUMAB",
+        "chembl_id": "CHEMBL3137349",
+        "reason": "same target: Proprotein convertase subtilisin/kexin type 9"
+      },
+      {
+        "name": "RG-7652",
+        "chembl_id": "CHEMBL2109539",
+        "reason": "same target: Proprotein convertase subtilisin/kexin type 9"
+      },
+      {
+        "name": "RALPANCIZUMAB",
+        "chembl_id": "CHEMBL3137352",
+        "reason": "same target: Proprotein convertase subtilisin/kexin type 9"
+      },
+      {
+        "name": "FROVOCIMAB",
+        "chembl_id": "CHEMBL4298016",
+        "reason": "same target: Proprotein convertase subtilisin/kexin type 9"
+      },
+      {
+        "name": "ONGERICIMAB",
+        "chembl_id": "CHEMBL4594566",
+        "reason": "same target: Proprotein convertase subtilisin/kexin type 9"
+      },
+      {
+        "name": "LERODALCIBEP",
+        "chembl_id": "CHEMBL4650405",
+        "reason": "same target: Proprotein convertase subtilisin/kexin type 9"
+      }
+    ]
+  }
+}

@@ -1,13 +1,18 @@
 {
   "drug_name": "Colgate Cavity Protection Toothpaste",
   "slug": "colgate-cavity-protection-toothpaste",
-  "enriched_at": "2026-08-15T21:10:41Z",
+  "enriched_at": "2026-08-23T07:39:14Z",
   "source_trial_ids": [
     "NCT07398378",
     "NCT07499115"
   ],
   "sponsors": [
-    "Colgate Palmolive"
+    {
+      "name": "Colgate Palmolive",
+      "ticker": "CL",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000021665&type=10-K&dateb=&owner=include&count=40"
+    }
   ],
   "identity": {
     "rxnorm": {

@@ -1,12 +1,17 @@
 {
   "drug_name": "Belrestotug",
   "slug": "belrestotug",
-  "enriched_at": "2026-08-15T20:54:00Z",
+  "enriched_at": "2026-08-23T07:37:48Z",
   "source_trial_ids": [
     "NCT06472076"
   ],
   "sponsors": [
-    "GlaxoSmithKline"
+    {
+      "name": "GlaxoSmithKline",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=GlaxoSmithKline&type=10-K&dateb=&owner=include&count=40"
+    }
   ],
   "identity": {
     "rxnorm": {

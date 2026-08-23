@@ -1,12 +1,17 @@
 {
   "drug_name": "BLU-5937",
   "slug": "blu-5937",
-  "enriched_at": "2026-08-15T20:55:17Z",
+  "enriched_at": "2026-08-23T07:38:06Z",
   "source_trial_ids": [
     "NCT05600777"
   ],
   "sponsors": [
-    "Bellus Health Inc. - a GSK company"
+    {
+      "name": "Bellus Health Inc. - a GSK company",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Bellus%20Health%20Inc.%20-%20a%20GSK%20company&type=10-K&dateb=&owner=include&count=40"
+    }
   ],
   "identity": {
     "pubchem_cid": 76955630,

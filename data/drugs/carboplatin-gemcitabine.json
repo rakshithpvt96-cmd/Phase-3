@@ -1,12 +1,17 @@
 {
   "drug_name": "Carboplatin + Gemcitabine",
   "slug": "carboplatin-gemcitabine",
-  "enriched_at": "2026-08-15T21:09:44Z",
+  "enriched_at": "2026-08-23T07:38:54Z",
   "source_trial_ids": [
     "NCT03682068"
   ],
   "sponsors": [
-    "AstraZeneca"
+    {
+      "name": "AstraZeneca",
+      "ticker": "AZN",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000901832&type=10-K&dateb=&owner=include&count=40"
+    }
   ],
   "identity": {
     "rxnorm": {

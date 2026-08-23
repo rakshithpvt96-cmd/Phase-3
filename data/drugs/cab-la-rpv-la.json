@@ -1,12 +1,17 @@
 {
   "drug_name": "CAB LA + RPV LA",
   "slug": "cab-la-rpv-la",
-  "enriched_at": "2026-08-15T21:09:08Z",
+  "enriched_at": "2026-08-23T07:38:32Z",
   "source_trial_ids": [
     "NCT06694805"
   ],
   "sponsors": [
-    "ViiV Healthcare"
+    {
+      "name": "ViiV Healthcare",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=ViiV%20Healthcare&type=10-K&dateb=&owner=include&count=40"
+    }
   ],
   "identity": {
     "rxnorm": {

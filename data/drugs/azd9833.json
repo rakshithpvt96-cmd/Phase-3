@@ -1,12 +1,17 @@
 {
   "drug_name": "AZD9833",
   "slug": "azd9833",
-  "enriched_at": "2026-08-15T20:53:40Z",
+  "enriched_at": "2026-08-23T07:37:35Z",
   "source_trial_ids": [
     "NCT04711252"
   ],
   "sponsors": [
-    "AstraZeneca"
+    {
+      "name": "AstraZeneca",
+      "ticker": "AZN",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000901832&type=10-K&dateb=&owner=include&count=40"
+    }
   ],
   "identity": {
     "pubchem_cid": 134453496,

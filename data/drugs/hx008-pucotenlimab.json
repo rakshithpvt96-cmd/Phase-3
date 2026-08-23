@@ -1,12 +1,17 @@
 {
   "drug_name": "HX008(Pucotenlimab)",
   "slug": "hx008-pucotenlimab",
-  "enriched_at": "2026-08-15T21:16:54Z",
+  "enriched_at": "2026-08-23T07:41:59Z",
   "source_trial_ids": [
     "NCT05652894"
   ],
   "sponsors": [
-    "Taizhou Hanzhong biomedical co. LTD"
+    {
+      "name": "Taizhou Hanzhong biomedical co. LTD",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Taizhou%20Hanzhong%20biomedical%20co.%20LTD&type=10-K&dateb=&owner=include&count=40"
+    }
   ],
   "identity": {
     "rxnorm": {

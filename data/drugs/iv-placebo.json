@@ -1,7 +1,7 @@
 {
   "drug_name": "IV Placebo",
   "slug": "iv-placebo",
-  "enriched_at": "2026-08-15T22:18:29Z",
+  "enriched_at": "2026-08-23T07:42:31Z",
   "source_trial_ids": [
     "NCT06052059"
   ],
@@ -60,6 +60,12 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42605743",
+        "title": "The Combination of Buprenorphine and Pregabalin in the Management of Peripheral Neuropathic Pain: A Phase IV, Randomized, Double-Blind and Placebo-Controlled Clinical Trial.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42605743/"
+      },
+      {
         "pmid": "42580781",
         "title": "A randomized controlled trial of intravenous magnesium sulfate shows no analgesic or anti-inflammatory benefit in dogs undergoing thoracolumbar disk herniation surgery.",
         "pubdate": "2026 Aug 11",
@@ -82,18 +88,23 @@
         "title": "The occurrence and potential role of mystical experiences in MDMA-assisted therapy for PTSD: A secondary analysis.",
         "pubdate": "2026 Aug 6",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42563131/"
-      },
-      {
-        "pmid": "42561565",
-        "title": "Relationships between cannabis and cocaine use in a randomized trial of combined buprenorphine and naltrexone for DSM-IV cocaine dependence.",
-        "pubdate": "2026 Jul 29",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42561565/"
       }
     ]
   },
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": []
+    "items": [
+      {
+        "name": "Filgotinib",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Alfasigma S.p.A."
+      },
+      {
+        "name": "Placebo",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Alfasigma S.p.A."
+      }
+    ]
   }
 }

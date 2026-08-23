@@ -1,7 +1,7 @@
 {
   "drug_name": "CM310",
   "slug": "cm310",
-  "enriched_at": "2026-08-16T07:33:44Z",
+  "enriched_at": "2026-08-23T07:39:05Z",
   "source_trial_ids": [
     "NCT06495229"
   ],
@@ -106,16 +106,6 @@
         "reason": "same indication trial, sponsor: Amgen"
       },
       {
-        "name": "Ruxolitinib",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Incyte Corporation"
-      },
-      {
-        "name": "Vehicle Cream",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Incyte Corporation"
-      },
-      {
         "name": "Upadacitinib 15mg Dose",
         "chembl_id": null,
         "reason": "same indication trial, sponsor: AbbVie"
@@ -129,6 +119,16 @@
         "name": "Upadacitinib 30mg Dose",
         "chembl_id": null,
         "reason": "same indication trial, sponsor: AbbVie"
+      },
+      {
+        "name": "Ruxolitinib",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Incyte Corporation"
+      },
+      {
+        "name": "Vehicle Cream",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Incyte Corporation"
       }
     ]
   }

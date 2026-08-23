@@ -1,12 +1,17 @@
 {
   "drug_name": "GTX-102",
   "slug": "gtx-102",
-  "enriched_at": "2026-08-15T21:15:57Z",
+  "enriched_at": "2026-08-23T07:41:17Z",
   "source_trial_ids": [
     "NCT06617429"
   ],
   "sponsors": [
-    "Ultragenyx Pharmaceutical Inc"
+    {
+      "name": "Ultragenyx Pharmaceutical Inc",
+      "ticker": "RARE",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001515673&type=10-K&dateb=&owner=include&count=40"
+    }
   ],
   "identity": {
     "rxnorm": {

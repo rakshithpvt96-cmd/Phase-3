@@ -1,7 +1,7 @@
 {
   "drug_name": "JDQ443",
   "slug": "jdq443",
-  "enriched_at": "2026-08-15T21:36:28Z",
+  "enriched_at": "2026-08-23T07:42:50Z",
   "source_trial_ids": [
     "NCT05132075"
   ],
@@ -78,6 +78,37 @@
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": []
+    "items": [
+      {
+        "name": "Alectinib",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Hoffmann-La Roche"
+      },
+      {
+        "name": "Cisplatin",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Hoffmann-La Roche"
+      },
+      {
+        "name": "Carboplatin",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Hoffmann-La Roche"
+      },
+      {
+        "name": "Pemetrexed",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Hoffmann-La Roche"
+      },
+      {
+        "name": "BL-B01D1",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Sichuan Baili Pharmaceutical Co., Ltd."
+      },
+      {
+        "name": "Pemetrexed+Cisplatin or Carboplatin",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Sichuan Baili Pharmaceutical Co., Ltd."
+      }
+    ]
   }
 }

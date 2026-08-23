@@ -1,12 +1,17 @@
 {
   "drug_name": "HLX10",
   "slug": "hlx10",
-  "enriched_at": "2026-08-15T21:16:18Z",
+  "enriched_at": "2026-08-23T07:41:51Z",
   "source_trial_ids": [
     "NCT05353257"
   ],
   "sponsors": [
-    "Shanghai Henlius Biotech"
+    {
+      "name": "Shanghai Henlius Biotech",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Shanghai%20Henlius%20Biotech&type=10-K&dateb=&owner=include&count=40"
+    }
   ],
   "identity": {
     "rxnorm": {
@@ -53,7 +58,38 @@
   ],
   "prior_results": {
     "ctgov_results_urls": [],
-    "pubmed_articles": []
+    "pubmed_articles": [
+      {
+        "pmid": "42578486",
+        "title": "First-line systemic treatment for people with extensive-stage small cell lung cancer: a network meta-analysis.",
+        "pubdate": "2026 Aug 11",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42578486/"
+      },
+      {
+        "pmid": "42458439",
+        "title": "Real-world serplulimab plus chemotherapy for extensive-stage small cell lung cancer in china: an external validation of ASTRUM-005 trial.",
+        "pubdate": "2026 Jul 15",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42458439/"
+      },
+      {
+        "pmid": "42371576",
+        "title": "Safety and efficacy of the MNK/VEGFR inhibitor JDB153 combined with the anti-PD-1 antibody serplulimab in patients with advanced pancreatic cancer refractory to standard treatment: a single-arm, phase Ib/II study protocol.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42371576/"
+      },
+      {
+        "pmid": "42240984",
+        "title": "First-Line Serplulimab in Extensive-Stage Small Cell Lung Cancer: Secondary Analysis of the ASTRUM-005 Phase 3 Randomized Clinical Trial.",
+        "pubdate": "2026 Aug 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42240984/"
+      },
+      {
+        "pmid": "42225112",
+        "title": "Perioperative serplulimab with neoadjuvant chemotherapy versus perioperative chemotherapy in PD-L1-positive gastric cancer (ASTRUM-006): a randomised, double-blind, multicentre, phase 3 study.",
+        "pubdate": "2026 Jun 20",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42225112/"
+      }
+    ]
   },
   "related_drugs": {
     "method": "chembl_same_target",

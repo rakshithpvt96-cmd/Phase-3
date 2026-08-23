@@ -1,7 +1,7 @@
 {
   "drug_name": "CYB003",
   "slug": "cyb003",
-  "enriched_at": "2026-08-15T22:15:25Z",
+  "enriched_at": "2026-08-23T07:39:30Z",
   "source_trial_ids": [
     "NCT06564818"
   ],
@@ -66,11 +66,6 @@
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
     "items": [
-      {
-        "name": "DT120",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Definium Therapeutics US, Inc."
-      },
       {
         "name": "Azetukalner",
         "chembl_id": null,

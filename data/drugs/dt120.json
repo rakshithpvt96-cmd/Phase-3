@@ -1,11 +1,10 @@
 {
   "drug_name": "DT120",
   "slug": "dt120",
-  "enriched_at": "2026-08-15T22:16:18Z",
+  "enriched_at": "2026-08-23T07:40:20Z",
   "source_trial_ids": [
     "NCT06741228",
-    "NCT06809595",
-    "NCT06941844"
+    "NCT06809595"
   ],
   "sponsors": [
     {
@@ -42,8 +41,8 @@
     }
   },
   "condition": {
-    "raw": "Major Depressive Disorder",
-    "slug": "major-depressive-disorder"
+    "raw": "Generalized Anxiety Disorder",
+    "slug": "generalized-anxiety-disorder"
   },
   "source_trials": [
     {
@@ -59,13 +58,6 @@
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT06809595",
       "has_results": false
-    },
-    {
-      "nct_id": "NCT06941844",
-      "title": "A Phase 3 Trial of DT120 for Major Depressive Disorder (Emerge)",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06941844",
-      "has_results": false
     }
   ],
   "prior_results": {
@@ -77,19 +69,24 @@
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
     "items": [
       {
-        "name": "CYB003",
+        "name": "Buagafuran capsules, 15mg/ capsule",
         "chembl_id": null,
-        "reason": "same indication trial, sponsor: Cybin IRL Limited"
+        "reason": "same indication trial, sponsor: Beijing Union Pharmaceutical Factory Ltd"
       },
       {
-        "name": "Placebo",
+        "name": "Buspirone tablets, 5mg/ tablet",
         "chembl_id": null,
-        "reason": "same indication trial, sponsor: Cybin IRL Limited"
+        "reason": "same indication trial, sponsor: Beijing Union Pharmaceutical Factory Ltd"
       },
       {
-        "name": "Azetukalner",
+        "name": "Buagafuran capsules mimic, 0mg/ capsule",
         "chembl_id": null,
-        "reason": "same indication trial, sponsor: Xenon Pharmaceuticals Inc."
+        "reason": "same indication trial, sponsor: Beijing Union Pharmaceutical Factory Ltd"
+      },
+      {
+        "name": "Buspirone tablets mimic, 0mg/ tablet",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Beijing Union Pharmaceutical Factory Ltd"
       }
     ]
   }

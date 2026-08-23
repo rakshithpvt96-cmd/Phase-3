@@ -1,6 +1,101 @@
 {
-  "generated_at": "2026-08-22T09:29:17Z",
-  "new_trial_count": 0,
-  "new_trials": [],
+  "generated_at": "2026-08-23T07:35:42Z",
+  "new_trial_count": 2,
+  "new_trials": [
+    {
+      "nct_id": "NCT07060885",
+      "title": "A Research Study of House Dust Mite (HDM) SLIT-tablet for the Treatment of HDM Allergy in Chinese Participants Aged 12-65",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "ALK-Abelló A/S",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-09-06",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Allergic Rhinoconjunctivitis",
+        "Allergic Rhinitis"
+      ],
+      "interventions": [
+        {
+          "name": "HDM SLIT-tablet (12 SQ-HDM)",
+          "type": "BIOLOGICAL"
+        },
+        {
+          "name": "Placebo",
+          "type": "OTHER"
+        }
+      ],
+      "drug_names": [
+        "HDM SLIT-tablet (12 SQ-HDM)"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT07060885",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "ALK-Abelló A/S",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=ALK-Abell%C3%B3%20A/S&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-08-23T07:35:03Z"
+      }
+    },
+    {
+      "nct_id": "NCT07473960",
+      "title": "IBI306 Monotherapy in Non-Familial Hypercholesterolemia and Mixed Hyperlipidemia",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Innovent Biologics (Suzhou) Co. Ltd.",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-09-06",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Non-Familial Hypercholesterolemia and Mixed Hyperlipidemia"
+      ],
+      "interventions": [
+        {
+          "name": "IBI306",
+          "type": "DRUG"
+        },
+        {
+          "name": "placebo",
+          "type": "DRUG"
+        },
+        {
+          "name": "placebo",
+          "type": "DRUG"
+        },
+        {
+          "name": "IBI306",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "IBI306",
+        "placebo"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT07473960",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Innovent Biologics (Suzhou) Co. Ltd.",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Innovent%20Biologics%20%28Suzhou%29%20Co.%20Ltd.&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-08-23T07:35:22Z"
+      }
+    }
+  ],
   "removed_trial_ids": []
 }

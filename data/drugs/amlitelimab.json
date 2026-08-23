@@ -1,12 +1,17 @@
 {
   "drug_name": "Amlitelimab",
   "slug": "amlitelimab",
-  "enriched_at": "2026-08-15T20:51:03Z",
+  "enriched_at": "2026-08-23T07:36:48Z",
   "source_trial_ids": [
     "NCT06407934"
   ],
   "sponsors": [
-    "Sanofi"
+    {
+      "name": "Sanofi",
+      "ticker": "SNY",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001121404&type=10-K&dateb=&owner=include&count=40"
+    }
   ],
   "identity": {
     "rxnorm": {

@@ -1,12 +1,17 @@
 {
   "drug_name": "Anastrozole placebo",
   "slug": "anastrozole-placebo",
-  "enriched_at": "2026-08-15T20:51:35Z",
+  "enriched_at": "2026-08-23T07:36:56Z",
   "source_trial_ids": [
     "NCT04711252"
   ],
   "sponsors": [
-    "AstraZeneca"
+    {
+      "name": "AstraZeneca",
+      "ticker": "AZN",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000901832&type=10-K&dateb=&owner=include&count=40"
+    }
   ],
   "identity": {
     "rxnorm": {
@@ -63,7 +68,7 @@
       {
         "pmid": "42224659",
         "title": "Fovinaciclib for First-Line Therapy of Advanced Breast Cancer: A Randomized Clinical Trial.",
-        "pubdate": "2026 Jun 1",
+        "pubdate": "2026 Aug 1",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42224659/"
       },
       {

@@ -1,12 +1,17 @@
 {
   "drug_name": "GnRH (agonist)",
   "slug": "gnrh-agonist",
-  "enriched_at": "2026-08-15T21:15:48Z",
+  "enriched_at": "2026-08-23T07:41:08Z",
   "source_trial_ids": [
     "NCT02531516"
   ],
   "sponsors": [
-    "Aragon Pharmaceuticals, Inc."
+    {
+      "name": "Aragon Pharmaceuticals, Inc.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Aragon%20Pharmaceuticals%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
+    }
   ],
   "identity": {
     "rxnorm": {
@@ -89,6 +94,12 @@
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": []
+    "items": [
+      {
+        "name": "64Cu-SAR-bisPSMA",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Clarity Pharmaceuticals Ltd"
+      }
+    ]
   }
 }

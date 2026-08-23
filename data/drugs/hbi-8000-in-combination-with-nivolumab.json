@@ -1,12 +1,17 @@
 {
   "drug_name": "HBI-8000 in combination with nivolumab",
   "slug": "hbi-8000-in-combination-with-nivolumab",
-  "enriched_at": "2026-08-15T21:16:11Z",
+  "enriched_at": "2026-08-23T07:41:36Z",
   "source_trial_ids": [
     "NCT04674683"
   ],
   "sponsors": [
-    "HUYABIO International, LLC."
+    {
+      "name": "HUYABIO International, LLC.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=HUYABIO%20International%2C%20LLC.&type=10-K&dateb=&owner=include&count=40"
+    }
   ],
   "identity": {
     "rxnorm": {

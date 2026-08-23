@@ -1,12 +1,17 @@
 {
   "drug_name": "DB-1303/BNT323",
   "slug": "db-1303-bnt323",
-  "enriched_at": "2026-08-15T21:11:36Z",
+  "enriched_at": "2026-08-23T07:39:42Z",
   "source_trial_ids": [
     "NCT06018337"
   ],
   "sponsors": [
-    "DualityBio Inc."
+    {
+      "name": "DualityBio Inc.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=DualityBio%20Inc.&type=10-K&dateb=&owner=include&count=40"
+    }
   ],
   "identity": {
     "rxnorm": {

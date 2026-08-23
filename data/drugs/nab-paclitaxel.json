@@ -1,7 +1,7 @@
 {
   "drug_name": "nab-paclitaxel",
   "slug": "nab-paclitaxel",
-  "enriched_at": "2026-08-15T21:38:02Z",
+  "enriched_at": "2026-08-23T07:44:01Z",
   "source_trial_ids": [
     "NCT03257033",
     "NCT05254171",
@@ -24,15 +24,15 @@
     },
     {
       "name": "RenovoRx",
-      "ticker": null,
+      "ticker": "RNXT",
       "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=RenovoRx&type=10-K&dateb=&owner=include&count=40"
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001574094&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Revolution Medicines, Inc.",
-      "ticker": null,
+      "ticker": "RVMD",
       "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Revolution%20Medicines%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001628171&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Sichuan Kelun-Biotech Biopharmaceutical Co., Ltd.",
@@ -122,6 +122,12 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42608991",
+        "title": "Anthracycline-Free Neoadjuvant Therapy With Nab-Paclitaxel and Carboplatin in Non-Luminal Breast Cancer: A Single-Arm Clinical Trial.",
+        "pubdate": "2026 Aug 17",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42608991/"
+      },
+      {
         "pmid": "42587052",
         "title": "First-line PD-1/VEGF bispecific antibody plus chemotherapy in triple-negative breast cancer: a phase 2 trial.",
         "pubdate": "2026 Aug 12",
@@ -144,12 +150,6 @@
         "title": "Maximal Ablative Irradiation Because of Encasement for Patients With Locally Advanced Pancreatic Cancer: A Nonrandomized Clinical Trial.",
         "pubdate": "2026 Jul 29",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42525419/"
-      },
-      {
-        "pmid": "42523785",
-        "title": "An exploratory study of nimotuzumab combined with toripalimab and chemotherapy for locally advanced tonsillar cancer.",
-        "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42523785/"
       }
     ]
   },

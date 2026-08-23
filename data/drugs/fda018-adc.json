@@ -1,12 +1,17 @@
 {
   "drug_name": "FDA018-ADC",
   "slug": "fda018-adc",
-  "enriched_at": "2026-08-15T21:14:02Z",
+  "enriched_at": "2026-08-23T07:40:41Z",
   "source_trial_ids": [
     "NCT06519370"
   ],
   "sponsors": [
-    "Shanghai Fudan-Zhangjiang Bio-Pharmaceutical Co., Ltd."
+    {
+      "name": "Shanghai Fudan-Zhangjiang Bio-Pharmaceutical Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Shanghai%20Fudan-Zhangjiang%20Bio-Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
   ],
   "identity": {
     "rxnorm": {

@@ -1,12 +1,17 @@
 {
   "drug_name": "0.75% Phentolamine Ophthalmic Solution",
   "slug": "0-75-phentolamine-ophthalmic-solution",
-  "enriched_at": "2026-08-15T20:48:26Z",
+  "enriched_at": "2026-08-23T07:35:51Z",
   "source_trial_ids": [
     "NCT07140783"
   ],
   "sponsors": [
-    "Ocuphire Pharma, Inc."
+    {
+      "name": "Ocuphire Pharma, Inc.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Ocuphire%20Pharma%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
+    }
   ],
   "identity": {
     "rxnorm": {
@@ -59,6 +64,12 @@
         "title": "Reversal of Pharmacologic Mydriasis in Pediatric Subjects with Ryzumvi (0.75% Phentolamine Ophthalmic Solution): A Post-Hoc Pooled Analysis from Three Randomized, Placebo-Controlled Phase 3 Trials.",
         "pubdate": "2026",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41743463/"
+      },
+      {
+        "pmid": "39293681",
+        "title": "Reversal of Pharmacologically Induced Mydriasis with Phentolamine Ophthalmic Solution.",
+        "pubdate": "2025 Jan",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39293681/"
       }
     ]
   },
