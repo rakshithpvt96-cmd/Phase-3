@@ -1,7 +1,7 @@
 {
   "drug_name": "BAY3723113",
   "slug": "bay3723113",
-  "enriched_at": "2026-08-17T07:54:52Z",
+  "enriched_at": "2026-08-24T08:00:11Z",
   "source_trial_ids": [
     "NCT07023341"
   ],
@@ -59,6 +59,17 @@
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": []
+    "items": [
+      {
+        "name": "HRS-1893 Tablets",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Shandong Suncadia Medicine Co., Ltd."
+      },
+      {
+        "name": "HRS-1893 Placebo Tablets",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Shandong Suncadia Medicine Co., Ltd."
+      }
+    ]
   }
 }

@@ -1,7 +1,7 @@
 {
   "drug_name": "Staccato alprazolam",
   "slug": "staccato-alprazolam",
-  "enriched_at": "2026-08-17T07:58:35Z",
+  "enriched_at": "2026-08-24T08:09:17Z",
   "source_trial_ids": [
     "NCT05077904"
   ],
@@ -21,10 +21,10 @@
     }
   },
   "mechanism": {
-    "chembl_id": "CHEMBL661",
-    "target_chembl_id": "CHEMBL2093872",
-    "target_name": "GABA-A receptor; anion channel",
-    "mechanism_of_action_chembl": "GABA-A receptor; anion channel positive allosteric modulator"
+    "chembl_id": null,
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
   },
   "fda_label": {
     "has_label": false,
@@ -80,59 +80,8 @@
     ]
   },
   "related_drugs": {
-    "method": "chembl_same_target",
+    "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": [
-      {
-        "name": "METHOXYFLURANE",
-        "chembl_id": "CHEMBL1341",
-        "reason": "same target: GABA-A receptor; anion channel"
-      },
-      {
-        "name": "FLUMAZENIL",
-        "chembl_id": "CHEMBL407",
-        "reason": "same target: GABA-A receptor; anion channel"
-      },
-      {
-        "name": "CLORAZEPATE DIPOTASSIUM",
-        "chembl_id": "CHEMBL2096631",
-        "reason": "same target: GABA-A receptor; anion channel"
-      },
-      {
-        "name": "CHLORDIAZEPOXIDE",
-        "chembl_id": "CHEMBL451",
-        "reason": "same target: GABA-A receptor; anion channel"
-      },
-      {
-        "name": "CHLORDIAZEPOXIDE HYDROCHLORIDE",
-        "chembl_id": "CHEMBL1200703",
-        "reason": "same target: GABA-A receptor; anion channel"
-      },
-      {
-        "name": "DIAZEPAM",
-        "chembl_id": "CHEMBL12",
-        "reason": "same target: GABA-A receptor; anion channel"
-      },
-      {
-        "name": "ESZOPICLONE",
-        "chembl_id": "CHEMBL1522",
-        "reason": "same target: GABA-A receptor; anion channel"
-      },
-      {
-        "name": "OXAZEPAM",
-        "chembl_id": "CHEMBL568",
-        "reason": "same target: GABA-A receptor; anion channel"
-      },
-      {
-        "name": "MEPROBAMATE",
-        "chembl_id": "CHEMBL979",
-        "reason": "same target: GABA-A receptor; anion channel"
-      },
-      {
-        "name": "CLOBAZAM",
-        "chembl_id": "CHEMBL70418",
-        "reason": "same target: GABA-A receptor; anion channel"
-      }
-    ]
+    "items": []
   }
 }
