@@ -1,0 +1,93 @@
+{
+  "drug_name": "Avexitide",
+  "slug": "avexitide",
+  "enriched_at": "2026-08-25T07:46:53Z",
+  "source_trial_ids": [
+    "NCT06747468"
+  ],
+  "sponsors": [
+    {
+      "name": "Amylyx Pharmaceuticals Inc.",
+      "ticker": "AMLX",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001658551&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 16198321,
+    "iupac_name": "(4S)-4-[[(2S)-2-[[(2S)-2-[[(2S)-2-[[(2S)-5-amino-2-[[(2S)-6-amino-2-[[(2S)-2-[[(2S)-2-[[(2S)-2-amino-3-carboxypropanoyl]amino]-4-methylpentanoyl]amino]-3-hydroxypropanoyl]amino]hexanoyl]amino]-5-oxopentanoyl]amino]-4-methylsulfanylbutanoyl]amino]-4-carboxybutanoyl]amino]-4-carboxybutanoyl]amino]-5-[[(2S)-1-[[(2S)-1-[[(2S)-1-[[(2S)-1-[[(2S)-1-[[(2S,3S)-1-[[(2S)-1-[[(2S)-1-[[(2S)-1-[[(2S)-6-amino-1-[[(2S)-4-amino-1-[[2-[[2-[(2S)-2-[[(2S)-1-[[(2S)-1-[[2-[[(2S)-1-[(2S)-2-[(2S)-2-[(2S)-2-[[(2S)-1-amino-3-hydroxy-1-oxopropan-2-yl]carbamoyl]pyrrolidine-1-carbonyl]pyrrolidine-1-carbonyl]pyrrolidin-1-yl]-1-oxopropan-2-yl]amino]-2-oxoethyl]amino]-3-hydroxy-1-oxopropan-2-yl]amino]-3-hydroxy-1-oxopropan-2-yl]carbamoyl]pyrrolidin-1-yl]-2-oxoethyl]amino]-2-oxoethyl]amino]-1,4-dioxobutan-2-yl]amino]-1-oxohexan-2-yl]amino]-4-methyl-1-oxopentan-2-yl]amino]-3-(1H-indol-3-yl)-1-oxopropan-2-yl]amino]-4-carboxy-1-oxobutan-2-yl]amino]-3-methyl-1-oxopentan-2-yl]amino]-1-oxo-3-phenylpropan-2-yl]amino]-4-methyl-1-oxopentan-2-yl]amino]-5-carbamimidamido-1-oxopentan-2-yl]amino]-3-methyl-1-oxobutan-2-yl]amino]-1-oxopropan-2-yl]amino]-5-oxopentanoic acid",
+    "molecular_formula": "C149H234N40O47S",
+    "molecular_weight": "3369.8",
+    "canonical_smiles": null,
+    "inchikey": "WSEVKKHALHSUMB-MVNVRWBSSA-N",
+    "rxnorm": {
+      "rxcui": "73331",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": null,
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Avexitide+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Avexitide+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Avexitide+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Post Bariatric Hypoglycemia",
+    "slug": "post-bariatric-hypoglycemia"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06747468",
+      "title": "Avexitide for Treatment of Post-Bariatric Hypoglycemia",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06747468",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "38151760",
+        "title": "Elucidating the glucose-lowering effect of the bile acid sequestrant sevelamer.",
+        "pubdate": "2024 Apr",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38151760/"
+      },
+      {
+        "pmid": "32833560",
+        "title": "A Pilot Study Examining the Effects of GLP-1 Receptor Blockade Using Exendin-(9,39) on Gastric Emptying and Caloric Intake in Subjects With and Without Bariatric Surgery.",
+        "pubdate": "2020 Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32833560/"
+      },
+      {
+        "pmid": "24315990",
+        "title": "Blockade of glucagon-like peptide 1 receptor corrects postprandial hypoglycemia after gastric bypass.",
+        "pubdate": "2014 Mar",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24315990/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}
