@@ -1,6 +1,215 @@
 {
-  "generated_at": "2026-08-25T09:37:52Z",
-  "new_trial_count": 0,
-  "new_trials": [],
-  "removed_trial_ids": []
+  "generated_at": "2026-08-27T18:08:46Z",
+  "new_trial_count": 4,
+  "new_trials": [
+    {
+      "nct_id": "NCT05018585",
+      "title": "A Phase III Study to Investigate if the Study Drug Diamyd Can Preserve Insulin Production and Improve Glycemic Control in Patients Newly Diagnosed With Type 1 Diabetes",
+      "status": "TERMINATED",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Diamyd Medical AB",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-06-24",
+      "primary_completion_date_type": "ACTUAL",
+      "window": "lookback",
+      "conditions": [
+        "Type 1 Diabetes Mellitus"
+      ],
+      "interventions": [
+        {
+          "name": "Recombinant human glutamic acid decarboxylase (rhGAD65) formulated in Alhydrogel®",
+          "type": "BIOLOGICAL"
+        },
+        {
+          "name": "Colecalciferol 2000 IU",
+          "type": "DIETARY_SUPPLEMENT"
+        },
+        {
+          "name": "Placebo",
+          "type": "BIOLOGICAL"
+        }
+      ],
+      "drug_names": [
+        "Recombinant human glutamic acid decarboxylase (rhGAD65) formulated in Alhydrogel®",
+        "Placebo"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT05018585",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Diamyd Medical AB",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Diamyd%20Medical%20AB&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-08-27T18:08:40Z"
+      }
+    },
+    {
+      "nct_id": "NCT07790120",
+      "title": "A Study to Evaluate the Efficacy and Safety in Participants With Uncontrolled Hypertension on Two or More Medications Including Participants With Resistant Hypertension",
+      "status": "COMPLETED",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Shenzhen Salubris Pharmaceuticals Co., Ltd.",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-07-02",
+      "primary_completion_date_type": "ACTUAL",
+      "window": "lookback",
+      "conditions": [
+        "Uncontrolled Hypertension",
+        "Resistant Hypertension"
+      ],
+      "interventions": [
+        {
+          "name": "SAL0120",
+          "type": "DRUG"
+        },
+        {
+          "name": "Placebo",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "SAL0120",
+        "Placebo"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT07790120",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Shenzhen Salubris Pharmaceuticals Co., Ltd.",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Shenzhen%20Salubris%20Pharmaceuticals%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-08-27T18:08:43Z"
+      }
+    },
+    {
+      "nct_id": "NCT05831202",
+      "title": "SEAL™IT: Saccular Endovascular Aneurysm Lattice System Interventional Pivotal Trial",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Galaxy Therapeutics INC",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-09-10",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Intracranial Aneurysm"
+      ],
+      "interventions": [
+        {
+          "name": "The SEAL™ Saccular Endovascular Aneurysm Lattice System",
+          "type": "DEVICE"
+        }
+      ],
+      "drug_names": [],
+      "url": "https://clinicaltrials.gov/study/NCT05831202",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Galaxy Therapeutics INC",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Galaxy%20Therapeutics%20INC&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-08-27T18:08:41Z"
+      }
+    },
+    {
+      "nct_id": "NCT06855160",
+      "title": "A Study on the Immune Response and Safety of an Investigational Chickenpox Vaccine and a Marketed Measles, Mumps and Rubella Vaccine When Administered as Intramuscular Injection to Healthy Children 12 to 15 Months of Age",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-09-10",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Chickenpox"
+      ],
+      "interventions": [
+        {
+          "name": "Candidate varicella vaccine",
+          "type": "BIOLOGICAL"
+        },
+        {
+          "name": "Marketed varicella vaccine",
+          "type": "BIOLOGICAL"
+        },
+        {
+          "name": "MMR vaccine",
+          "type": "BIOLOGICAL"
+        },
+        {
+          "name": "Hepatitis A vaccine",
+          "type": "BIOLOGICAL"
+        },
+        {
+          "name": "PCV (pneumococcal conjugate vaccine) 13",
+          "type": "BIOLOGICAL"
+        },
+        {
+          "name": "PCV 20",
+          "type": "BIOLOGICAL"
+        },
+        {
+          "name": "Vaxneuvance",
+          "type": "BIOLOGICAL"
+        }
+      ],
+      "drug_names": [
+        "Candidate varicella vaccine",
+        "Marketed varicella vaccine",
+        "MMR vaccine",
+        "Hepatitis A vaccine",
+        "PCV (pneumococcal conjugate vaccine) 13",
+        "PCV 20",
+        "Vaxneuvance"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06855160",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "GlaxoSmithKline",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=GlaxoSmithKline&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-08-23T07:35:20Z"
+      }
+    }
+  ],
+  "removed_trial_ids": [
+    "NCT03383458",
+    "NCT04770896",
+    "NCT05077904",
+    "NCT05505916",
+    "NCT05511922",
+    "NCT06047444",
+    "NCT06100939",
+    "NCT06149559",
+    "NCT06366464",
+    "NCT06481891",
+    "NCT07036419",
+    "NCT07155668"
+  ]
 }

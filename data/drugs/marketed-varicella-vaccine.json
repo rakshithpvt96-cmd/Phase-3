@@ -1,0 +1,87 @@
+{
+  "drug_name": "Marketed varicella vaccine",
+  "slug": "marketed-varicella-vaccine",
+  "enriched_at": "2026-08-27T18:14:10Z",
+  "source_trial_ids": [
+    "NCT06855160"
+  ],
+  "sponsors": [
+    {
+      "name": "GlaxoSmithKline",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=GlaxoSmithKline&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1292422",
+      "generic_name": "varicella-zoster virus vaccine live (Oka-Merck) strain",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2108573",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": "Biological vaccine - induces immune response"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Marketed%20varicella%20vaccine+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Marketed%20varicella%20vaccine+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Marketed%20varicella%20vaccine+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Chickenpox",
+    "slug": "chickenpox"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06855160",
+      "title": "A Study on the Immune Response and Safety of an Investigational Chickenpox Vaccine and a Marketed Measles, Mumps and Rubella Vaccine When Administered as Intramuscular Injection to Healthy Children 12 to 15 Months of Age",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06855160",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "40641250",
+        "title": "The safety of co-administration of recombinant zoster vaccine (Shingrix) and influenza vaccines in the elderly in VAERS during 2018-2024.",
+        "pubdate": "2025 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40641250/"
+      },
+      {
+        "pmid": "34157417",
+        "title": "Immunogenicity and safety of a live attenuated varicella vaccine in children 1-12 years of age: A randomized, blinded, controlled, non-inferiority phase 3 clinical trial.",
+        "pubdate": "2021 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34157417/"
+      },
+      {
+        "pmid": "28509605",
+        "title": "Safety and immunogenicity of Bio Pox™, a live varicella vaccine (Oka strain) in Indian children: A comparative multicentric, randomized phase II/III clinical trial.",
+        "pubdate": "2017 Sep 2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28509605/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

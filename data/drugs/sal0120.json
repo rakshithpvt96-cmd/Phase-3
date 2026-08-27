@@ -1,0 +1,64 @@
+{
+  "drug_name": "SAL0120",
+  "slug": "sal0120",
+  "enriched_at": "2026-08-27T18:15:43Z",
+  "source_trial_ids": [
+    "NCT07790120"
+  ],
+  "sponsors": [
+    {
+      "name": "Shenzhen Salubris Pharmaceuticals Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Shenzhen%20Salubris%20Pharmaceuticals%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": null
+  },
+  "mechanism": {
+    "chembl_id": null,
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=SAL0120+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=SAL0120+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=SAL0120+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Uncontrolled Hypertension",
+    "slug": "uncontrolled-hypertension"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07790120",
+      "title": "A Study to Evaluate the Efficacy and Safety in Participants With Uncontrolled Hypertension on Two or More Medications Including Participants With Resistant Hypertension",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT07790120",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

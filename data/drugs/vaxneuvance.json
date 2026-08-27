@@ -1,0 +1,99 @@
+{
+  "drug_name": "Vaxneuvance",
+  "slug": "vaxneuvance",
+  "enriched_at": "2026-08-27T18:16:44Z",
+  "source_trial_ids": [
+    "NCT06855160"
+  ],
+  "sponsors": [
+    {
+      "name": "GlaxoSmithKline",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=GlaxoSmithKline&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2566418",
+      "generic_name": "Vaxneuvance",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL6068493",
+    "target_chembl_id": "CHEMBL5498506",
+    "target_name": "Polysaccharide conjugated to Corynebacterium diphtheriae CRM197",
+    "mechanism_of_action_chembl": "Polysaccharide conjugated to Corynebacterium diphtheriae CRM197 vaccine antigen"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "DailyMed",
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1158fa93-ef41-4a29-8252-9251f94c53c8",
+    "note": "A label exists in DailyMed but structured sections could not be parsed automatically -- see dailymed_url for the full label.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Vaxneuvance+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Vaxneuvance+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Vaxneuvance+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Chickenpox",
+    "slug": "chickenpox"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06855160",
+      "title": "A Study on the Immune Response and Safety of an Investigational Chickenpox Vaccine and a Marketed Measles, Mumps and Rubella Vaccine When Administered as Intramuscular Injection to Healthy Children 12 to 15 Months of Age",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06855160",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "38497448",
+        "title": "A phase 3, single-arm, open-label study to evaluate the safety, tolerability, and immunogenicity of a 15-valent pneumococcal conjugate vaccine, V114, in a 3+1 regimen in healthy infants in South Korea (PNEU-PED-KOR).",
+        "pubdate": "2024 Dec 31",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38497448/"
+      },
+      {
+        "pmid": "38111990",
+        "title": "PCV15, a pneumococcal conjugate vaccine, for the prevention of invasive pneumococcal disease in infants and children.",
+        "pubdate": "2024 Jan-Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38111990/"
+      },
+      {
+        "pmid": "37338158",
+        "title": "A Phase 3, Randomized, Double-Blind, Comparator-Controlled Study to Evaluate Safety, Tolerability, and Immunogenicity of V114, a 15-Valent Pneumococcal Conjugate Vaccine, in Allogeneic Hematopoietic Cell Transplant Recipients (PNEU-STEM).",
+        "pubdate": "2023 Oct 13",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37338158/"
+      },
+      {
+        "pmid": "37309607",
+        "title": "Safety and Tolerability of V114 Pneumococcal Vaccine in Infants: A Phase 3 Study.",
+        "pubdate": "2023 Jul 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37309607/"
+      },
+      {
+        "pmid": "34507861",
+        "title": "A phase 3 trial of safety, tolerability, and immunogenicity of V114, 15-valent pneumococcal conjugate vaccine, compared with 13-valent pneumococcal conjugate vaccine in adults 50 years of age and older (PNEU-AGE).",
+        "pubdate": "2022 Jan 3",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34507861/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

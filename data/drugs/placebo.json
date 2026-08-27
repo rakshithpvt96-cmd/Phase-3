@@ -1,7 +1,7 @@
 {
   "drug_name": "Placebo",
   "slug": "placebo",
-  "enriched_at": "2026-08-23T07:54:52Z",
+  "enriched_at": "2026-08-27T18:10:29Z",
   "source_trial_ids": [
     "NCT02914535",
     "NCT04023552",
@@ -10,6 +10,7 @@
     "NCT04652882",
     "NCT04768972",
     "NCT04965675",
+    "NCT05018585",
     "NCT05164341",
     "NCT05316220",
     "NCT05330182",
@@ -38,7 +39,6 @@
     "NCT06455059",
     "NCT06456528",
     "NCT06472076",
-    "NCT06481891",
     "NCT06534723",
     "NCT06553027",
     "NCT06564818",
@@ -56,7 +56,6 @@
     "NCT06827431",
     "NCT06846515",
     "NCT06863493",
-    "NCT06878404",
     "NCT06893016",
     "NCT06910358",
     "NCT06945107",
@@ -69,7 +68,8 @@
     "NCT07305987",
     "NCT07403266",
     "NCT07469800",
-    "NCT07473960"
+    "NCT07473960",
+    "NCT07790120"
   ],
   "sponsors": [
     {
@@ -187,6 +187,12 @@
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001061983&type=10-K&dateb=&owner=include&count=40"
     },
     {
+      "name": "Diamyd Medical AB",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Diamyd%20Medical%20AB&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
       "name": "Disc Medicine, Inc",
       "ticker": "IRON",
       "market_cap_display": null,
@@ -265,12 +271,6 @@
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000874015&type=10-K&dateb=&owner=include&count=40"
     },
     {
-      "name": "Janssen Research & Development, LLC",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Janssen%20Research%20%26%20Development%2C%20LLC&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
       "name": "Kringle Pharma, Inc.",
       "ticker": null,
       "market_cap_display": null,
@@ -281,12 +281,6 @@
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Laboratorios%20Sophia%20S.A%20de%20C.V.&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
-      "name": "Lexicon Pharmaceuticals",
-      "ticker": "LXRX",
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001062822&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Longboard Pharmaceuticals",
@@ -385,6 +379,12 @@
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Shanghai%20Mabgeek%20Biotech.Co.Ltd&type=10-K&dateb=&owner=include&count=40"
     },
     {
+      "name": "Shenzhen Salubris Pharmaceuticals Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Shenzhen%20Salubris%20Pharmaceuticals%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
       "name": "Sichuan Jishengtang Pharmaceutical Co., Ltd.",
       "ticker": null,
       "market_cap_display": null,
@@ -446,8 +446,8 @@
     }
   },
   "condition": {
-    "raw": "Arthritis, Psoriatic",
-    "slug": "arthritis-psoriatic"
+    "raw": "Behçet's Disease",
+    "slug": "beh-et-s-disease"
   },
   "source_trials": [
     {
@@ -497,6 +497,13 @@
       "title": "A Study With Eptinezumab in Adolescents (12-17 Years) With Chronic Migraine",
       "status": "RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT04965675",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT05018585",
+      "title": "A Phase III Study to Investigate if the Study Drug Diamyd Can Preserve Insulin Production and Improve Glycemic Control in Patients Newly Diagnosed With Type 1 Diabetes",
+      "status": "TERMINATED",
+      "url": "https://clinicaltrials.gov/study/NCT05018585",
       "has_results": false
     },
     {
@@ -696,13 +703,6 @@
       "has_results": false
     },
     {
-      "nct_id": "NCT06481891",
-      "title": "A Study to Evaluate the Efficacy and Safety of Sotagliflozin in Symptomatic Obstructive and Non-obstructive Hypertrophic Cardiomyopathy",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06481891",
-      "has_results": false
-    },
-    {
       "nct_id": "NCT06534723",
       "title": "Phase 3 Clinical Trial of Wujia Yizhi Granules in the Treatment of Mild-to-moderate Alzheimer's Dementia (Syndrome of Deficiency of Spleen and Kidney)",
       "status": "RECRUITING",
@@ -822,13 +822,6 @@
       "has_results": false
     },
     {
-      "nct_id": "NCT06878404",
-      "title": "A Study to Evaluate the Efficacy and Safety of JNJ-77242113 (Icotrokinra) in Biologic-naïve Participants With Active Psoriatic Arthritis",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06878404",
-      "has_results": false
-    },
-    {
       "nct_id": "NCT06893016",
       "title": "Evaluation of RAY1225 in Adult Participants Who Have Obesity or Are Overweight",
       "status": "RECRUITING",
@@ -918,40 +911,47 @@
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT07473960",
       "has_results": false
+    },
+    {
+      "nct_id": "NCT07790120",
+      "title": "A Study to Evaluate the Efficacy and Safety in Participants With Uncontrolled Hypertension on Two or More Medications Including Participants With Resistant Hypertension",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT07790120",
+      "has_results": false
     }
   ],
   "prior_results": {
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42632595",
-        "title": "Disease-Modifying Antirheumatic Drugs for Hand Osteoarthritis: A Systematic Review and Network Meta-analysis.",
-        "pubdate": "2026 Aug 22",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42632595/"
+        "pmid": "42658181",
+        "title": "Dupilumab Improves Endoscopic Features in Adult and Adolescent Patients With Eosinophilic Esophagitis: Post Hoc Analysis of LIBERTY EoE TREET Study.",
+        "pubdate": "2026 Aug 27",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42658181/"
       },
       {
-        "pmid": "42631796",
-        "title": "Expert Perspectives on TGCT and the Outcomes of the Phase 3 MANEUVER Study of Pimicotinib Presented at ASCO and ESMO 2025: A Podcast Discussion.",
-        "pubdate": "2026 Aug 22",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42631796/"
+        "pmid": "42657795",
+        "title": "Intraoperative esketamine for postoperative analgesia and depression in pancreatic cancer surgery: protocol for a multicenter randomized controlled trial.",
+        "pubdate": "2026 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42657795/"
       },
       {
-        "pmid": "42631762",
-        "title": "Impact of organic selenium supplementation on glycaemic control and quality of life in patients with diabetic neuropathy: a randomized placebo-controlled trial.",
-        "pubdate": "2026 Aug 22",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42631762/"
+        "pmid": "42657049",
+        "title": "The Effect of a Novel Natural Oil-Pulling Oral Rinse on Oral Microflora, Dental Plaque, and Gingivitis: A Double-Blinded Randomized Controlled Clinical Trial.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42657049/"
       },
       {
-        "pmid": "42631623",
-        "title": "Bruton's tyrosine kinase inhibition for food-induced anaphylaxis.",
-        "pubdate": "2026 Aug 24",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42631623/"
-      },
-      {
-        "pmid": "42630921",
-        "title": "Effect of Intranasal Dexmedetomidine on the Night Before Surgery for Postoperative Delirium in Older Patients Undergoing Total Hip or Knee Arthroplasty: A Randomized Clinical Trial.",
+        "pmid": "42656845",
+        "title": "Comparative efficacy of aripiprazole and paliperidone to treatment-as-usual in managing stimulant-induced psychosis: a 24-month randomized controlled trial.",
         "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42630921/"
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42656845/"
+      },
+      {
+        "pmid": "42656837",
+        "title": "Structured psychiatric care and psychosocial support during placebo participation: association with violent and domestic-violence offending in the ReINVEST trial.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42656837/"
       }
     ]
   },

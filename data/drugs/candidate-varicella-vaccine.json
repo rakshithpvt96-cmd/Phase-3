@@ -1,0 +1,99 @@
+{
+  "drug_name": "Candidate varicella vaccine",
+  "slug": "candidate-varicella-vaccine",
+  "enriched_at": "2026-08-27T18:12:58Z",
+  "source_trial_ids": [
+    "NCT06855160"
+  ],
+  "sponsors": [
+    {
+      "name": "GlaxoSmithKline",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=GlaxoSmithKline&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1292422",
+      "generic_name": "varicella-zoster virus vaccine live (Oka-Merck) strain",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2108573",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": "Biological vaccine - induces immune response"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Candidate%20varicella%20vaccine+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Candidate%20varicella%20vaccine+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Candidate%20varicella%20vaccine+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Chickenpox",
+    "slug": "chickenpox"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06855160",
+      "title": "A Study on the Immune Response and Safety of an Investigational Chickenpox Vaccine and a Marketed Measles, Mumps and Rubella Vaccine When Administered as Intramuscular Injection to Healthy Children 12 to 15 Months of Age",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06855160",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "41703694",
+        "title": "Immunogenicity and Safety of Two-dose Schedules With Different Intervals of an ORF7-deficient Live Vaccine Candidate for Varicella: A Randomized, Double-blind, Controlled, Phase 2b Trial.",
+        "pubdate": "2026 Aug 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41703694/"
+      },
+      {
+        "pmid": "38614117",
+        "title": "Immunogenicity and safety of an ORF7-deficient skin-attenuated and neuro-attenuated live vaccine for varicella: a randomised, double-blind, controlled, phase 2a trial.",
+        "pubdate": "2024 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38614117/"
+      },
+      {
+        "pmid": "37283962",
+        "title": "Safety and immunogenicity of a skin- and neuro-attenuated live vaccine for varicella: a randomized, double-blind, controlled, dose-escalation and age de-escalation phase 1 clinical trial.",
+        "pubdate": "2023 May",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37283962/"
+      },
+      {
+        "pmid": "29079101",
+        "title": "A randomized lot-to-lot immunogenicity consistency study of the candidate zoster vaccine HZ/su.",
+        "pubdate": "2017 Dec 4",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29079101/"
+      },
+      {
+        "pmid": "28708959",
+        "title": "Assessment of the potential public health impact of Herpes Zoster vaccination in Germany.",
+        "pubdate": "2017 Oct 3",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28708959/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

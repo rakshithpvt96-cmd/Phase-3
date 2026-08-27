@@ -1,0 +1,99 @@
+{
+  "drug_name": "Hepatitis A vaccine",
+  "slug": "hepatitis-a-vaccine",
+  "enriched_at": "2026-08-27T18:13:54Z",
+  "source_trial_ids": [
+    "NCT06855160"
+  ],
+  "sponsors": [
+    {
+      "name": "GlaxoSmithKline",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=GlaxoSmithKline&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "253174",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2109163",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "DailyMed",
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=18e8f9fc-4d62-4d30-4ab7-bac03336171e",
+    "note": "A label exists in DailyMed but structured sections could not be parsed automatically -- see dailymed_url for the full label.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Hepatitis%20A%20vaccine+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Hepatitis%20A%20vaccine+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Hepatitis%20A%20vaccine+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Chickenpox",
+    "slug": "chickenpox"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06855160",
+      "title": "A Study on the Immune Response and Safety of an Investigational Chickenpox Vaccine and a Marketed Measles, Mumps and Rubella Vaccine When Administered as Intramuscular Injection to Healthy Children 12 to 15 Months of Age",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06855160",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42086110",
+        "title": "Thirty years of hepatitis A epidemiology and vaccine studies: A narrative review of lessons learned in Alaska.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42086110/"
+      },
+      {
+        "pmid": "41825190",
+        "title": "Immunogenicity and safety of an investigational varicella zoster vaccine in toddlers aged 12-15 months: results of a phase II, controlled, randomized trial.",
+        "pubdate": "2026 Apr 19",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41825190/"
+      },
+      {
+        "pmid": "41295459",
+        "title": "Immunogenicity and Safety of Sabin Strain Inactivated Poliovirus Vaccine Booster Dose Administered Separately or Concomitantly with Inactivated Hepatitis A Vaccine or Measles-Mumps-Rubella Combined Attenuated Live Vaccine: An Open-Labelled, Randomized, Controlled, Phase 4 Clinical Trial.",
+        "pubdate": "2025 Oct 23",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41295459/"
+      },
+      {
+        "pmid": "41151164",
+        "title": "Immunogenicity and safety of co-administration of sabin-strain-based inactivated poliovirus vaccine, diphtheria-tetanus-acellular pertussis vaccine, and live attenuated hepatitis A vaccine in 18-month-old children: A multicenter randomized controlled non-inferiority trial in China.",
+        "pubdate": "2025 Nov 20",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41151164/"
+      },
+      {
+        "pmid": "40305237",
+        "title": "Randomized Controlled Clinical Trial of Pediatric Pneumococcus and Hepatitis A Vaccinations With or Without a High-Dose Oral Vitamin A Supplement.",
+        "pubdate": "2025 Apr 7",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40305237/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

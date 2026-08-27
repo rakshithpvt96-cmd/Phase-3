@@ -1,0 +1,89 @@
+{
+  "drug_name": "Recombinant human glutamic acid decarboxylase (rhGAD65) formulated in Alhydrogel®",
+  "slug": "recombinant-human-glutamic-acid-decarboxylase-rhgad65-formulated-in-alhydrogel",
+  "enriched_at": "2026-08-27T18:15:28Z",
+  "source_trial_ids": [
+    "NCT05018585"
+  ],
+  "sponsors": [
+    {
+      "name": "Diamyd Medical AB",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Diamyd%20Medical%20AB&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2168453",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1201718",
+    "target_chembl_id": "CHEMBL4495554",
+    "target_name": "Hyaluronic acid",
+    "mechanism_of_action_chembl": "Hyaluronic acid hydrolytic enzyme"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Recombinant%20human%20glutamic%20acid%20decarboxylase%20%28rhGAD65%29%20formulated%20in%20Alhydrogel%C2%AE+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Recombinant%20human%20glutamic%20acid%20decarboxylase%20%28rhGAD65%29%20formulated%20in%20Alhydrogel%C2%AE+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Recombinant%20human%20glutamic%20acid%20decarboxylase%20%28rhGAD65%29%20formulated%20in%20Alhydrogel%C2%AE+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Type 1 Diabetes Mellitus",
+    "slug": "type-1-diabetes-mellitus"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05018585",
+      "title": "A Phase III Study to Investigate if the Study Drug Diamyd Can Preserve Insulin Production and Improve Glycemic Control in Patients Newly Diagnosed With Type 1 Diabetes",
+      "status": "TERMINATED",
+      "url": "https://clinicaltrials.gov/study/NCT05018585",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "CONDOLIASE",
+        "chembl_id": "CHEMBL2107876",
+        "reason": "same target: Hyaluronic acid"
+      },
+      {
+        "name": "PEGVORHYALURONIDASE ALFA",
+        "chembl_id": "CHEMBL3989976",
+        "reason": "same target: Hyaluronic acid"
+      },
+      {
+        "name": "HYALURONIDASE",
+        "chembl_id": "CHEMBL1201636",
+        "reason": "same target: Hyaluronic acid"
+      },
+      {
+        "name": "HYALURONIDASE (OVINE)",
+        "chembl_id": "CHEMBL2108607",
+        "reason": "same target: Hyaluronic acid"
+      }
+    ]
+  }
+}
