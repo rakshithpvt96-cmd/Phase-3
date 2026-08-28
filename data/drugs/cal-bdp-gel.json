@@ -1,0 +1,135 @@
+{
+  "drug_name": "CAL/BDP Gel",
+  "slug": "cal-bdp-gel",
+  "enriched_at": "2026-08-28T19:19:20Z",
+  "source_trial_ids": [
+    "NCT07357831"
+  ],
+  "sponsors": [
+    {
+      "name": "Hangzhou Zhongmei Huadong Pharmaceutical Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hangzhou%20Zhongmei%20Huadong%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "605098",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2109562",
+    "target_chembl_id": "CHEMBL3712869",
+    "target_name": "Parathyroid hormone-related protein",
+    "mechanism_of_action_chembl": "Parathyroid hormone-related protein inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=CAL/BDP%20Gel+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=CAL/BDP%20Gel+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=CAL/BDP%20Gel+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Plaque Psoriasis",
+    "slug": "plaque-psoriasis"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07357831",
+      "title": "A Phase III Trial To Evaluate The Efficacy And Safety Of MC2-01 Cream Compared To CAL/BDP Gel and Vehicle In Plaque Psoriasis Subjects",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT07357831",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "40274711",
+        "title": "Best Responders and Super-Responders to Calcipotriol and Betamethasone Dipropionate PAD-Cream: A Post Hoc Pooled Analysis of Two Phase 3 Trials.",
+        "pubdate": "2025 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40274711/"
+      },
+      {
+        "pmid": "37907283",
+        "title": "A novel calcipotriol and betamethasone dipropionate (CAL/BDP) PAD-cream demonstrates greater improvements in daily activities and personal relationships than CAL/BDP gel/TS: A post-hoc analysis of DLQI outcomes from two phase 3 placebo-controlled randomized clinical trials in mild-to-moderate psoriasis.",
+        "pubdate": "2024 Apr",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37907283/"
+      },
+      {
+        "pmid": "37556526",
+        "title": "INDIVIDUAL ARTICLE: Fixed Combination Calcipotriene/Betamethasone (Cal/BDP) Cream: Evaluating the Role of Polyaphron Dispersion (PAD) Technology in Psoriasis Treatment.",
+        "pubdate": "2023 Aug 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37556526/"
+      },
+      {
+        "pmid": "37490268",
+        "title": "Calcipotriene and Betamethasone Dipropionate PAD-Cream Demonstrates Greater Treatment Efficacy in Patients with Moderate-to-Severe Psoriasis Compared to Topical Suspension/Gel: A Subgroup Analysis of Two Phase 3 Studies.",
+        "pubdate": "2023 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37490268/"
+      },
+      {
+        "pmid": "37432045",
+        "title": "Randomized Phase 3 trial demonstrating high efficacy, favourable safety and convenience of a novel calcipotriol and betamethasone dipropionate cream for the treatment of psoriasis.",
+        "pubdate": "2023 Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37432045/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "Netakimab",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Biocad"
+      },
+      {
+        "name": "Placebo",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Biocad"
+      },
+      {
+        "name": "Adalimumab",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Biocad"
+      },
+      {
+        "name": "Picankibart",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Innovent Biopharmaceutical Technology (Hangzhou) Co., LTD."
+      },
+      {
+        "name": "Secukinumab",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Innovent Biopharmaceutical Technology (Hangzhou) Co., LTD."
+      },
+      {
+        "name": "Ixekizumab",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Innovent Biopharmaceutical Technology (Hangzhou) Co., LTD."
+      },
+      {
+        "name": "Apremilast",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Amgen"
+      }
+    ]
+  }
+}

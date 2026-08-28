@@ -1,0 +1,99 @@
+{
+  "drug_name": "Placebo PO QD",
+  "slug": "placebo-po-qd",
+  "enriched_at": "2026-08-28T19:19:13Z",
+  "source_trial_ids": [
+    "NCT06431373"
+  ],
+  "sponsors": [
+    {
+      "name": "Priovant Therapeutics, Inc.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Priovant%20Therapeutics%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "8375",
+      "generic_name": "placebo",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL3400969",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Placebo%20PO%20QD+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Placebo%20PO%20QD+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Placebo%20PO%20QD+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Uveitis, Posterior",
+    "slug": "uveitis-posterior"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06431373",
+      "title": "A Study of Brepocitinib in Adults With Active, Non-Infectious, Non-Anterior Uveitis",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06431373",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "39797497",
+        "title": "Safety, Tolerability, and Pharmacokinetics of NIM-1324 an Oral LANCL2 Agonist in a Randomized, Double-Blind, Placebo-Controlled Phase I Clinical Trial.",
+        "pubdate": "2025 Jan",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39797497/"
+      },
+      {
+        "pmid": "31077582",
+        "title": "The Safety, Tolerability, and Pharmacokinetics Profile of BT-11, an Oral, Gut-Restricted Lanthionine Synthetase C-Like 2 Agonist Investigational New Drug for Inflammatory Bowel Disease: A Randomized, Double-Blind, Placebo-Controlled Phase I Clinical Trial.",
+        "pubdate": "2020 Mar 4",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31077582/"
+      },
+      {
+        "pmid": "19705134",
+        "title": "Colchicine is effective for short-term treatment of slow transit constipation: a double-blind placebo-controlled clinical trial.",
+        "pubdate": "2010 Mar",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19705134/"
+      },
+      {
+        "pmid": "18035193",
+        "title": "Effects of risedronate 5 mg/d on bone mineral density and bone turnover markers in late-postmenopausal women with osteopenia: a multinational, 24-month, randomized, double-blind, placebo-controlled, parallel-group, phase III trial.",
+        "pubdate": "2007 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18035193/"
+      },
+      {
+        "pmid": "8879890",
+        "title": "Efficacy, tolerability, and effects on quality of life of losartan, alone or with hydrochlorothiazide, versus amlodipine, alone or with hydrochlorothiazide, in patients with essential hypertension.",
+        "pubdate": "1996 Jul-Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8879890/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "drug_name": "MC2-01 vehicle",
+  "slug": "mc2-01-vehicle",
+  "enriched_at": "2026-08-28T19:19:50Z",
+  "source_trial_ids": [
+    "NCT07357831"
+  ],
+  "sponsors": [
+    {
+      "name": "Hangzhou Zhongmei Huadong Pharmaceutical Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hangzhou%20Zhongmei%20Huadong%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "11157",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2108661",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=MC2-01%20vehicle+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=MC2-01%20vehicle+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=MC2-01%20vehicle+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Plaque Psoriasis",
+    "slug": "plaque-psoriasis"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07357831",
+      "title": "A Phase III Trial To Evaluate The Efficacy And Safety Of MC2-01 Cream Compared To CAL/BDP Gel and Vehicle In Plaque Psoriasis Subjects",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT07357831",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42653799",
+        "title": "Clascoterone in the Treatment of Acne Vulgaris: A Narrative Review.",
+        "pubdate": "2026 Aug 18",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42653799/"
+      },
+      {
+        "pmid": "42615018",
+        "title": "Trifarotene for Facial and Truncal Acne Vulgaris: A Narrative Review of Clinical Trial Evidence.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42615018/"
+      },
+      {
+        "pmid": "42614794",
+        "title": "Water-Free Cyclosporine 0.1% in Dry Eye Disease: Formulation Rationale, Clinical Evidence, and Unresolved Questions.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42614794/"
+      },
+      {
+        "pmid": "42609889",
+        "title": "Safety and Efficacy of the First Mobile Intelligent Hemodialysis Platform in Mainland China: Protocol for a Single-Center Prospective Exploratory Study in Maintenance Hemodialysis Patients.",
+        "pubdate": "2026 Jan-Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42609889/"
+      },
+      {
+        "pmid": "42551191",
+        "title": "A mouse PDX clinical trial reveals broad efficacy of niraparib and vc-seco-DUBA anti-HER2 ADC SYD985 in HER2/neu expressing endometrial cancer.",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42551191/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "Netakimab",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Biocad"
+      },
+      {
+        "name": "Placebo",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Biocad"
+      },
+      {
+        "name": "Adalimumab",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Biocad"
+      },
+      {
+        "name": "Picankibart",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Innovent Biopharmaceutical Technology (Hangzhou) Co., LTD."
+      },
+      {
+        "name": "Secukinumab",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Innovent Biopharmaceutical Technology (Hangzhou) Co., LTD."
+      },
+      {
+        "name": "Ixekizumab",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Innovent Biopharmaceutical Technology (Hangzhou) Co., LTD."
+      },
+      {
+        "name": "Apremilast",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Amgen"
+      }
+    ]
+  }
+}

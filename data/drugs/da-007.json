@@ -1,0 +1,68 @@
+{
+  "drug_name": "DA-007",
+  "slug": "da-007",
+  "enriched_at": "2026-08-28T19:19:26Z",
+  "source_trial_ids": [
+    "NCT06762548"
+  ],
+  "sponsors": [
+    {
+      "name": "Applied Biology, Inc.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Applied%20Biology%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2686614",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL5974311",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=DA-007+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=DA-007+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=DA-007+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Chemotherapy Induced Alopecia",
+    "slug": "chemotherapy-induced-alopecia"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06762548",
+      "title": "Clinical Study of DA-007 for the Treatment of Chemotherapy Induced Alopecia",
+      "status": "NOT_YET_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06762548",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

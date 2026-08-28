@@ -1,0 +1,131 @@
+{
+  "drug_name": "MC2-01 cream",
+  "slug": "mc2-01-cream",
+  "enriched_at": "2026-08-28T19:19:44Z",
+  "source_trial_ids": [
+    "NCT07357831"
+  ],
+  "sponsors": [
+    {
+      "name": "Hangzhou Zhongmei Huadong Pharmaceutical Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hangzhou%20Zhongmei%20Huadong%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": null
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2108947",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=MC2-01%20cream+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=MC2-01%20cream+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=MC2-01%20cream+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Plaque Psoriasis",
+    "slug": "plaque-psoriasis"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07357831",
+      "title": "A Phase III Trial To Evaluate The Efficacy And Safety Of MC2-01 Cream Compared To CAL/BDP Gel and Vehicle In Plaque Psoriasis Subjects",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT07357831",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42663275",
+        "title": "Vaginal Oestrogen Therapy for Postmenopausal Women Undergoing Prolapse Surgery: A Multicentre Double-Blind Randomised Placebo-Controlled Clinical Trial.",
+        "pubdate": "2026 Aug 28",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42663275/"
+      },
+      {
+        "pmid": "42653799",
+        "title": "Clascoterone in the Treatment of Acne Vulgaris: A Narrative Review.",
+        "pubdate": "2026 Aug 18",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42653799/"
+      },
+      {
+        "pmid": "42605165",
+        "title": "Real-world effectiveness of topical ruxolitinib in non-segmental vitiligo: repigmentation, mental health, and quality-of-life outcomes in an 860-patient multicentre study.",
+        "pubdate": "2026 Aug 17",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42605165/"
+      },
+      {
+        "pmid": "42555080",
+        "title": "Clascoterone Cream 1% is Safe and Effective for Papulopustular Rosacea: A Phase 2 Clinical Trial.",
+        "pubdate": "2026 Aug 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42555080/"
+      },
+      {
+        "pmid": "42554948",
+        "title": "Real-World Effect of Ruxolitinib Cream: Decreased Use of Additional Topical Therapies and Limited Escalation to Systemic Treatments.",
+        "pubdate": "2026 Aug 5",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42554948/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "Netakimab",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Biocad"
+      },
+      {
+        "name": "Placebo",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Biocad"
+      },
+      {
+        "name": "Adalimumab",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Biocad"
+      },
+      {
+        "name": "Picankibart",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Innovent Biopharmaceutical Technology (Hangzhou) Co., LTD."
+      },
+      {
+        "name": "Secukinumab",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Innovent Biopharmaceutical Technology (Hangzhou) Co., LTD."
+      },
+      {
+        "name": "Ixekizumab",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Innovent Biopharmaceutical Technology (Hangzhou) Co., LTD."
+      },
+      {
+        "name": "Apremilast",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Amgen"
+      }
+    ]
+  }
+}

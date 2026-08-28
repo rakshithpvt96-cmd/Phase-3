@@ -1,7 +1,7 @@
 {
   "drug_name": "Placebo",
   "slug": "placebo",
-  "enriched_at": "2026-08-27T18:10:29Z",
+  "enriched_at": "2026-08-28T19:19:07Z",
   "source_trial_ids": [
     "NCT02914535",
     "NCT04023552",
@@ -50,6 +50,7 @@
     "NCT06687967",
     "NCT06687980",
     "NCT06692283",
+    "NCT06762548",
     "NCT06775379",
     "NCT06777238",
     "NCT06779136",
@@ -95,6 +96,12 @@
       "ticker": "AMGN",
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000318154&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Applied Biology, Inc.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Applied%20Biology%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Ardelyx",
@@ -460,7 +467,7 @@
     {
       "nct_id": "NCT04023552",
       "title": "Assessing the Impact of Lipoprotein (a) Lowering With Pelacarsen (TQJ230) on Major Cardiovascular Events in Patients With CVD",
-      "status": "ACTIVE_NOT_RECRUITING",
+      "status": "COMPLETED",
       "url": "https://clinicaltrials.gov/study/NCT04023552",
       "has_results": false
     },
@@ -780,6 +787,13 @@
       "has_results": false
     },
     {
+      "nct_id": "NCT06762548",
+      "title": "Clinical Study of DA-007 for the Treatment of Chemotherapy Induced Alopecia",
+      "status": "NOT_YET_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06762548",
+      "has_results": false
+    },
+    {
       "nct_id": "NCT06775379",
       "title": "A Randomized Study of Azetukalner Versus Placebo in Major Depressive Disorder",
       "status": "RECRUITING",
@@ -924,34 +938,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42658181",
-        "title": "Dupilumab Improves Endoscopic Features in Adult and Adolescent Patients With Eosinophilic Esophagitis: Post Hoc Analysis of LIBERTY EoE TREET Study.",
-        "pubdate": "2026 Aug 27",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42658181/"
+        "pmid": "42663312",
+        "title": "Aficamten for Symptomatic Nonobstructive Hypertrophic Cardiomyopathy.",
+        "pubdate": "2026 Aug 28",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42663312/"
       },
       {
-        "pmid": "42657795",
-        "title": "Intraoperative esketamine for postoperative analgesia and depression in pancreatic cancer surgery: protocol for a multicenter randomized controlled trial.",
-        "pubdate": "2026 Dec",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42657795/"
+        "pmid": "42663301",
+        "title": "Eplontersen for Transthyretin Amyloid Cardiomyopathy.",
+        "pubdate": "2026 Aug 28",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42663301/"
       },
       {
-        "pmid": "42657049",
-        "title": "The Effect of a Novel Natural Oil-Pulling Oral Rinse on Oral Microflora, Dental Plaque, and Gingivitis: A Double-Blinded Randomized Controlled Clinical Trial.",
+        "pmid": "42663275",
+        "title": "Vaginal Oestrogen Therapy for Postmenopausal Women Undergoing Prolapse Surgery: A Multicentre Double-Blind Randomised Placebo-Controlled Clinical Trial.",
+        "pubdate": "2026 Aug 28",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42663275/"
+      },
+      {
+        "pmid": "42663111",
+        "title": "Global Efficacy of Aficamten in Nonobstructive Hypertrophic Cardiomyopathy: Results From ACACIA-HCM.",
+        "pubdate": "2026 Aug 28",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42663111/"
+      },
+      {
+        "pmid": "42662999",
+        "title": "Impact of Prior Biologic Exposure on Upadacitinib Efficacy in Inflammatory Bowel Disease: A Systematic Review of Randomized Controlled Trials.",
         "pubdate": "2026 Jul",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42657049/"
-      },
-      {
-        "pmid": "42656845",
-        "title": "Comparative efficacy of aripiprazole and paliperidone to treatment-as-usual in managing stimulant-induced psychosis: a 24-month randomized controlled trial.",
-        "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42656845/"
-      },
-      {
-        "pmid": "42656837",
-        "title": "Structured psychiatric care and psychosocial support during placebo participation: association with violent and domestic-violence offending in the ReINVEST trial.",
-        "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42656837/"
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42662999/"
       }
     ]
   },
