@@ -1,7 +1,7 @@
 {
   "drug_name": "Docetaxel for injection (Albumin-bound)",
   "slug": "docetaxel-for-injection-albumin-bound",
-  "enriched_at": "2026-08-23T08:27:14Z",
+  "enriched_at": "2026-08-30T13:11:07Z",
   "source_trial_ids": [
     "NCT06296706"
   ],
@@ -63,42 +63,6 @@
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": [
-      {
-        "name": "AZD0901",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: AstraZeneca"
-      },
-      {
-        "name": "Ramucirumab+ paclitaxel",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: AstraZeneca"
-      },
-      {
-        "name": "Paclitaxel",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: AstraZeneca"
-      },
-      {
-        "name": "Docetaxel",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: AstraZeneca"
-      },
-      {
-        "name": "Irinotecan",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: AstraZeneca"
-      },
-      {
-        "name": "TAS-102",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: AstraZeneca"
-      },
-      {
-        "name": "Apatinib",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: AstraZeneca"
-      }
-    ]
+    "items": []
   }
 }
