@@ -1,7 +1,7 @@
 {
   "drug_name": "TQF3510 (Semaglutide Injection)",
   "slug": "tqf3510-semaglutide-injection",
-  "enriched_at": "2026-08-23T09:04:17Z",
+  "enriched_at": "2026-08-30T13:57:05Z",
   "source_trial_ids": [
     "NCT06738979"
   ],
@@ -64,11 +64,6 @@
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
     "items": [
-      {
-        "name": "Semaglutide",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Hangzhou Jiuyuan Gene Engineering Co. Ltd.,"
-      },
       {
         "name": "Tirzepatide",
         "chembl_id": null,

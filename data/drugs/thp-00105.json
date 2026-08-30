@@ -1,7 +1,7 @@
 {
   "drug_name": "THP-00105",
   "slug": "thp-00105",
-  "enriched_at": "2026-08-23T09:03:40Z",
+  "enriched_at": "2026-08-30T13:56:27Z",
   "source_trial_ids": [
     "NCT06647745"
   ],
@@ -64,16 +64,6 @@
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
     "items": [
-      {
-        "name": "HRS-7535 tablet",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Shandong Suncadia Medicine Co., Ltd."
-      },
-      {
-        "name": "dapagliflozin tablet",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Shandong Suncadia Medicine Co., Ltd."
-      },
       {
         "name": "Retatrutide",
         "chembl_id": null,
