@@ -1,7 +1,7 @@
 {
   "drug_name": "BNT162b2 Vaccine",
   "slug": "bnt162b2-vaccine",
-  "enriched_at": "2026-08-23T07:38:17Z",
+  "enriched_at": "2026-08-30T12:43:24Z",
   "source_trial_ids": [
     "NCT07300839"
   ],
@@ -60,6 +60,18 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42646694",
+        "title": "Phase 3 Randomized Study Investigating the Safety, Tolerability, and Immunogenicity of a Combination Modified Messenger RNA Vaccine Against Influenza and COVID-19 in Healthy Adults.",
+        "pubdate": "2026 Aug 5",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42646694/"
+      },
+      {
+        "pmid": "42646679",
+        "title": "Safety and Immunogenicity of an Additional Dose of Thailand Government Pharmaceutical Organization (GPO) Inactivated NDV-HXP-S COVID-19 Vaccine (HXP-GPOVac) Administered After Primary Vaccination with HXP-GPOVac or BNT162b2: An Open-Label Phase II Extension Trial in Thai Adults.",
+        "pubdate": "2026 Jul 28",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42646679/"
+      },
+      {
         "pmid": "42520645",
         "title": "The Platform trial In COVID-19 priming and BOOsting (PICOBOO): The immunogenicity, reactogenicity and safety of seven licensed COVID-19 vaccines delivered as fifth dose or subsequent boosters in immunocompetent adults.",
         "pubdate": "2026 Aug 13",
@@ -76,18 +88,6 @@
         "title": "Immunogenicity and reactogenicity of fractional vs. full booster doses of COVID-19 vaccines: A non-inferiority, randomized, double-blind, phase IV clinical trial in Pakistan.",
         "pubdate": "2026 Aug 13",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42480193/"
-      },
-      {
-        "pmid": "42347602",
-        "title": "Safety and Immunogenicity of a Locally Produced Inactivated NDV-HXP-S COVID-19 Vaccine (HXP-GPOVac) Compared with BNT162b2: A Phase II Randomized, Controlled, Double-Blind Noninferiority Trial in Thai Adults.",
-        "pubdate": "2026 May 28",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42347602/"
-      },
-      {
-        "pmid": "42245650",
-        "title": "Long-term immune response to mRNA anti-SARS-CoV-2 vaccination in patients with cancer.",
-        "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42245650/"
       }
     ]
   },

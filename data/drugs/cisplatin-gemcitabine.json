@@ -1,7 +1,7 @@
 {
   "drug_name": "Cisplatin + Gemcitabine",
   "slug": "cisplatin-gemcitabine",
-  "enriched_at": "2026-08-23T07:38:59Z",
+  "enriched_at": "2026-08-30T12:44:24Z",
   "source_trial_ids": [
     "NCT03682068"
   ],
@@ -60,9 +60,15 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42636656",
+        "title": "B cells in nasopharyngeal carcinoma: From prognostic signal to therapeutic hypothesis-A critical appraisal of the RATIONALE-309 biomarker analysis.",
+        "pubdate": "2026 Aug 24",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42636656/"
+      },
+      {
         "pmid": "42574460",
         "title": "Co-Clinical Evaluation of Synthetic Vitamin D and Chemotherapy in Pancreatic Cancer by Integrated Imaging and Molecular Analyses.",
-        "pubdate": "2026 Aug 10",
+        "pubdate": "2026 Aug 1",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42574460/"
       },
       {
@@ -82,12 +88,6 @@
         "title": "Durvalumab Plus Chemotherapy for Advanced Biliary Tract Cancer: A Post Hoc Analysis of the TOPAZ-1 Randomized Clinical Trial.",
         "pubdate": "2026 Jul 9",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42424063/"
-      },
-      {
-        "pmid": "42409321",
-        "title": "Ivonescimab plus gemcitabine and cisplatin as first-line therapy for advanced biliary tract cancer: a multicenter, open-label phase 2 trial.",
-        "pubdate": "2026 Jul 6",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42409321/"
       }
     ]
   },

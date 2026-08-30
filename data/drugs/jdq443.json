@@ -1,7 +1,7 @@
 {
   "drug_name": "JDQ443",
   "slug": "jdq443",
-  "enriched_at": "2026-08-23T07:42:50Z",
+  "enriched_at": "2026-08-30T12:49:04Z",
   "source_trial_ids": [
     "NCT05132075"
   ],
@@ -108,6 +108,16 @@
         "name": "Pemetrexed+Cisplatin or Carboplatin",
         "chembl_id": null,
         "reason": "same indication trial, sponsor: Sichuan Baili Pharmaceutical Co., Ltd."
+      },
+      {
+        "name": "Durvalumab",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: AstraZeneca"
+      },
+      {
+        "name": "Domvanalimab",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: AstraZeneca"
       }
     ]
   }
