@@ -1,7 +1,7 @@
 {
   "drug_name": "HRS9531 Injection",
   "slug": "hrs9531-injection",
-  "enriched_at": "2026-08-23T08:29:51Z",
+  "enriched_at": "2026-08-30T13:33:19Z",
   "source_trial_ids": [
     "NCT06649344"
   ],
@@ -56,34 +56,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42628555",
-        "title": "Efficacy and safety of mazdutide in adults with obesity or overweight: a US-based, multicentre, phase 2, randomised, placebo-controlled clinical trial.",
-        "pubdate": "2026 Aug 21",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42628555/"
+        "pmid": "42666092",
+        "title": "LDL Cholesterol Lowering With Evolocumab Before Percutaneous Coronary Intervention for Acute Myocardial Infarction: The AMUNDSEN Randomized Clinical Trial.",
+        "pubdate": "2026 Aug 29",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42666092/"
       },
       {
-        "pmid": "42628238",
-        "title": "Characterization of local tolerability of TV-46000, a long-acting subcutaneous formulation of risperidone for the treatment of schizophrenia.",
-        "pubdate": "2026 Aug 6",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42628238/"
+        "pmid": "42665834",
+        "title": "Efficacy and safety of SP16 in preventing acute kidney injury in at-risk subjects with chronic kidney disease undergoing elective cardiac surgery using the heart-lung-machine (EASE-AKI): study protocol for a prospective, randomised, double-blind, placebo-controlled clinical trial.",
+        "pubdate": "2026 Aug 28",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42665834/"
       },
       {
-        "pmid": "42627194",
-        "title": "Cost-neutral adoption of anti-VEGF therapies in neovascular age-related macular degeneration.",
-        "pubdate": "2026 Aug 21",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42627194/"
+        "pmid": "42665830",
+        "title": "95% ethanol rinse combined with lauromacrogol injection versus lauromacrogol injection alone for ultrasound-guided percutaneous sclerotherapy of simple renal cysts in elderly patients: Which is safer and more effective?",
+        "pubdate": "2026 Jul 24",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42665830/"
       },
       {
-        "pmid": "42625900",
-        "title": "Evaluating the effectiveness and safety of Xiyanping injection for severe pneumonia: a target trial emulation protocol using real-world data.",
-        "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42625900/"
+        "pmid": "42665513",
+        "title": "Alkaline Phosphatase and Prostate-specific Antigen Response in Metastatic Castration-resistant Prostate Cancer Treated with Enzalutamide Alone or in Combination with Radium-223: Ad Hoc Analysis of the PEACE-3 Consortium Trial.",
+        "pubdate": "2026 Aug 28",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42665513/"
       },
       {
-        "pmid": "42625076",
-        "title": "Mucoadhesive patch versus benzocaine gel for reducing injection pain: a split-mouth randomized clinical trial.",
-        "pubdate": "2026 Aug 21",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42625076/"
+        "pmid": "42662952",
+        "title": "Pharmacokinetics, Clinical Efficacy, and Safety of Once-Weekly Insulin Icodec: A Structured Narrative Review (2022-2026).",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42662952/"
       }
     ]
   },
@@ -91,16 +91,6 @@
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
     "items": [
-      {
-        "name": "HRS-7535 tablet",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Shandong Suncadia Medicine Co., Ltd."
-      },
-      {
-        "name": "dapagliflozin tablet",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Shandong Suncadia Medicine Co., Ltd."
-      },
       {
         "name": "THP-00101",
         "chembl_id": null,
@@ -130,6 +120,16 @@
         "name": "THP-00106",
         "chembl_id": null,
         "reason": "same indication trial, sponsor: THPharm Corp."
+      },
+      {
+        "name": "Retatrutide",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Eli Lilly and Company"
+      },
+      {
+        "name": "Placebo",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Eli Lilly and Company"
       }
     ]
   }

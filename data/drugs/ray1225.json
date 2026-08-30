@@ -1,7 +1,7 @@
 {
   "drug_name": "RAY1225",
   "slug": "ray1225",
-  "enriched_at": "2026-08-23T08:59:30Z",
+  "enriched_at": "2026-08-30T13:41:08Z",
   "source_trial_ids": [
     "NCT06893016"
   ],
@@ -60,11 +60,6 @@
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
     "items": [
-      {
-        "name": "Semaglutide",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Hangzhou Jiuyuan Gene Engineering Co. Ltd.,"
-      },
       {
         "name": "Tirzepatide",
         "chembl_id": null,

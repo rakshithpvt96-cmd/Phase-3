@@ -1,7 +1,7 @@
 {
   "drug_name": "Semaglutide Injection",
   "slug": "semaglutide-injection",
-  "enriched_at": "2026-08-23T09:00:31Z",
+  "enriched_at": "2026-08-30T13:42:06Z",
   "source_trial_ids": [
     "NCT06649344"
   ],
@@ -60,6 +60,12 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42649514",
+        "title": "Disease-modifying anti-diabetic drugs (DMADDs): bridging the SIMPLE approach to disease interception.",
+        "pubdate": "2026 Aug 26",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42649514/"
+      },
+      {
         "pmid": "42598626",
         "title": "Efficacy and safety of semaglutide injection in Indian patients with type 2 diabetes mellitus inadequately controlled on metformin: A phase 3, randomized, active-controlled, multicenter, non-inferiority trial (WIN-IND study).",
         "pubdate": "2026 Sep",
@@ -82,12 +88,6 @@
         "title": "Analysis of the efficacy and safety of liraglutide, semaglutide, and tirzepatide for the treatment of overweight and obesity: a systematic review and network meta-analysis.",
         "pubdate": "2026 Aug 6",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42560457/"
-      },
-      {
-        "pmid": "42256775",
-        "title": "Prolonged Dysesthesia After Massive Accidental Semaglutide Overdose: A Case Report.",
-        "pubdate": "2026 Aug",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42256775/"
       }
     ]
   },
@@ -95,16 +95,6 @@
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
     "items": [
-      {
-        "name": "HRS-7535 tablet",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Shandong Suncadia Medicine Co., Ltd."
-      },
-      {
-        "name": "dapagliflozin tablet",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Shandong Suncadia Medicine Co., Ltd."
-      },
       {
         "name": "THP-00101",
         "chembl_id": null,
@@ -134,6 +124,16 @@
         "name": "THP-00106",
         "chembl_id": null,
         "reason": "same indication trial, sponsor: THPharm Corp."
+      },
+      {
+        "name": "Retatrutide",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Eli Lilly and Company"
+      },
+      {
+        "name": "Placebo",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Eli Lilly and Company"
       }
     ]
   }
