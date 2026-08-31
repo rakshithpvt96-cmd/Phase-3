@@ -1,7 +1,7 @@
 {
   "drug_name": "Sefaxersen (RO7434656)",
   "slug": "sefaxersen-ro7434656",
-  "enriched_at": "2026-08-24T08:04:28Z",
+  "enriched_at": "2026-08-31T14:55:49Z",
   "source_trial_ids": [
     "NCT05797610"
   ],
@@ -66,17 +66,6 @@
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": [
-      {
-        "name": "Telitacicept",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: RemeGen Co., Ltd."
-      },
-      {
-        "name": "Placebo",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: RemeGen Co., Ltd."
-      }
-    ]
+    "items": []
   }
 }
