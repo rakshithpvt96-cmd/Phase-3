@@ -1,6 +1,88 @@
 {
-  "generated_at": "2026-08-31T16:51:21Z",
-  "new_trial_count": 0,
-  "new_trials": [],
-  "removed_trial_ids": []
+  "generated_at": "2026-09-01T12:25:51Z",
+  "new_trial_count": 1,
+  "new_trials": [
+    {
+      "nct_id": "NCT04634877",
+      "title": "Study of Pembrolizumab (MK-3475) in Combination With Adjuvant Chemotherapy With or Without Radiotherapy in Participants With Newly Diagnosed Endometrial Cancer After Surgery With Curative Intent (MK-3475-B21 / KEYNOTE-B21 / ENGOT-en11 / GOG-3053)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Merck Sharp & Dohme LLC",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-09-15",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Endometrial Neoplasms"
+      ],
+      "interventions": [
+        {
+          "name": "Pembrolizumab",
+          "type": "BIOLOGICAL"
+        },
+        {
+          "name": "Carboplatin",
+          "type": "DRUG"
+        },
+        {
+          "name": "Paclitaxel",
+          "type": "DRUG"
+        },
+        {
+          "name": "Placebo for pembrolizumab",
+          "type": "DRUG"
+        },
+        {
+          "name": "Docetaxel",
+          "type": "DRUG"
+        },
+        {
+          "name": "Cisplatin",
+          "type": "DRUG"
+        },
+        {
+          "name": "External Beam Radiotherapy (EBRT)",
+          "type": "RADIATION"
+        },
+        {
+          "name": "Cisplatin (as radiosensitizer)",
+          "type": "DRUG"
+        },
+        {
+          "name": "Brachytherapy",
+          "type": "RADIATION"
+        }
+      ],
+      "drug_names": [
+        "Pembrolizumab",
+        "Carboplatin",
+        "Paclitaxel",
+        "Placebo for pembrolizumab",
+        "Docetaxel",
+        "Cisplatin",
+        "Cisplatin (as radiosensitizer)"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT04634877",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Merck Sharp & Dohme LLC",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Merck%20Sharp%20%26%20Dohme%20LLC&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-08-30T12:40:27Z"
+      }
+    }
+  ],
+  "removed_trial_ids": [
+    "NCT05152147",
+    "NCT05817812",
+    "NCT06075667",
+    "NCT06534411"
+  ]
 }

@@ -1,22 +1,15 @@
 {
-  "drug_name": "docetaxel",
+  "drug_name": "Docetaxel",
   "slug": "docetaxel",
-  "enriched_at": "2026-08-15T22:16:02Z",
+  "enriched_at": "2026-09-01T12:26:30Z",
   "source_trial_ids": [
+    "NCT04634877",
     "NCT05132075",
     "NCT05943795",
-    "NCT06012435",
     "NCT06319313",
-    "NCT06346392",
     "NCT06370871"
   ],
   "sponsors": [
-    {
-      "name": "AstraZeneca",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=AstraZeneca&type=10-K&dateb=&owner=include&count=40"
-    },
     {
       "name": "Boehringer Ingelheim",
       "ticker": null,
@@ -24,16 +17,16 @@
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Boehringer%20Ingelheim&type=10-K&dateb=&owner=include&count=40"
     },
     {
+      "name": "Merck Sharp & Dohme LLC",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Merck%20Sharp%20%26%20Dohme%20LLC&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
       "name": "Novartis Pharmaceuticals",
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Novartis%20Pharmaceuticals&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
-      "name": "Seagen, a wholly owned subsidiary of Pfizer",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Seagen%2C%20a%20wholly%20owned%20subsidiary%20of%20Pfizer&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Shanghai JMT-Bio Inc.",
@@ -85,10 +78,17 @@
     "further_reading": null
   },
   "condition": {
-    "raw": "Carcinoma, Non-Small-Cell Lung",
-    "slug": "carcinoma-non-small-cell-lung"
+    "raw": "Non-small Cell Lung Adenocarcinoma",
+    "slug": "non-small-cell-lung-adenocarcinoma"
   },
   "source_trials": [
+    {
+      "nct_id": "NCT04634877",
+      "title": "Study of Pembrolizumab (MK-3475) in Combination With Adjuvant Chemotherapy With or Without Radiotherapy in Participants With Newly Diagnosed Endometrial Cancer After Surgery With Curative Intent (MK-3475-B21 / KEYNOTE-B21 / ENGOT-en11 / GOG-3053)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04634877",
+      "has_results": false
+    },
     {
       "nct_id": "NCT05132075",
       "title": "Study of JDQ443 in Comparison With Docetaxel in Participants With Locally Advanced or Metastatic KRAS G12C Mutant Non-small Cell Lung Cancer",
@@ -104,24 +104,10 @@
       "has_results": false
     },
     {
-      "nct_id": "NCT06012435",
-      "title": "A Study of SGN-B6A Versus Docetaxel in Previously Treated Non-small Cell Lung Cancer",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06012435",
-      "has_results": false
-    },
-    {
       "nct_id": "NCT06319313",
       "title": "Efficacy and Safety of JMT101 Combined Wth Docetaxel / HB1801 in Patients With Squamous Cell Non-Small Cell Lung Cancer",
       "status": "NOT_YET_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT06319313",
-      "has_results": false
-    },
-    {
-      "nct_id": "NCT06346392",
-      "title": "AZD0901 Compared With Investigator's Choice of Therapy in Participants With Second- or Later-line Advanced or Metastatic Gastric or Gastroesophageal Junction Adenocarcinoma Expressing Claudin18.2",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06346392",
       "has_results": false
     },
     {

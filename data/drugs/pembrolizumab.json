@@ -1,9 +1,10 @@
 {
   "drug_name": "Pembrolizumab",
   "slug": "pembrolizumab",
-  "enriched_at": "2026-08-19T07:44:00Z",
+  "enriched_at": "2026-09-01T12:26:47Z",
   "source_trial_ids": [
     "NCT03711032",
+    "NCT04634877",
     "NCT05048797",
     "NCT05608291",
     "NCT06151574",
@@ -13,9 +14,9 @@
   "sponsors": [
     {
       "name": "AstraZeneca",
-      "ticker": null,
+      "ticker": "AZN",
       "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=AstraZeneca&type=10-K&dateb=&owner=include&count=40"
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000901832&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Boehringer Ingelheim",
@@ -37,9 +38,9 @@
     },
     {
       "name": "Regeneron Pharmaceuticals",
-      "ticker": null,
+      "ticker": "REGN",
       "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Regeneron%20Pharmaceuticals&type=10-K&dateb=&owner=include&count=40"
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000872589&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Shenyang Sunshine Pharmaceutical Co., LTD.",
@@ -91,6 +92,13 @@
       "has_results": false
     },
     {
+      "nct_id": "NCT04634877",
+      "title": "Study of Pembrolizumab (MK-3475) in Combination With Adjuvant Chemotherapy With or Without Radiotherapy in Participants With Newly Diagnosed Endometrial Cancer After Surgery With Curative Intent (MK-3475-B21 / KEYNOTE-B21 / ENGOT-en11 / GOG-3053)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04634877",
+      "has_results": false
+    },
+    {
       "nct_id": "NCT05048797",
       "title": "A Study to Investigate the Efficacy and Safety of Trastuzumab Deruxtecan as the First Treatment Option for Unresectable, Locally Advanced/Metastatic Non-Small Cell Lung Cancer With HER2 Mutations",
       "status": "ACTIVE_NOT_RECRUITING",
@@ -130,34 +138,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42593482",
-        "title": "Immune checkpoint blockade sensitivity is linked to endogenous retroelement transcriptional changes in cancer.",
-        "pubdate": "2026 Aug 13",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42593482/"
+        "pmid": "42673705",
+        "title": "Lenvatinib plus pembrolizumab for the treatment of patients with non-BRAF mutated anaplastic thyroid cancer: A single center, phase 2 clinical trial.",
+        "pubdate": "2026 Aug 26",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42673705/"
       },
       {
-        "pmid": "42578486",
-        "title": "First-line systemic treatment for people with extensive-stage small cell lung cancer: a network meta-analysis.",
-        "pubdate": "2026 Aug 11",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42578486/"
+        "pmid": "42662364",
+        "title": "Colonic Polyp Regression After Nous-209 Cancer Immunotherapy: A Clinical Trial Case Report.",
+        "pubdate": "2026 Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42662364/"
       },
       {
-        "pmid": "42535874",
-        "title": "TroFuse-011 study design: sacituzumab tirumotecan with or without pembrolizumab for advanced triple-negative breast cancer with PD-L1 CPS <10.",
-        "pubdate": "2026 Aug",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42535874/"
+        "pmid": "42657864",
+        "title": "Efficacy and Safety of Viscum album L. in Patients With Triple-Negative Breast Cancer Receiving Immune Checkpoint Inhibitors: A Protocol for an Open-Label Randomized Clinical Trial.",
+        "pubdate": "2026 Jan-Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42657864/"
       },
       {
-        "pmid": "42535750",
-        "title": "Pharmacological modulation of the PD-1/PD-L1 axis: from immune tolerance in colitis to immune escape in colorectal cancer.",
-        "pubdate": "2026 Jul",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42535750/"
+        "pmid": "42628840",
+        "title": "Five-Year Outcomes of Perioperative Pembrolizumab for Early-Stage Non-Small-Cell Lung Cancer From the Randomized KEYNOTE-671 Study.",
+        "pubdate": "2026 Aug 21",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42628840/"
       },
       {
-        "pmid": "42512387",
-        "title": "Enfortumab Vedotin in Advanced or Metastatic Urothelial Carcinoma: A Systematic Review of Efficacy, Safety, and Clinical Perspectives.",
-        "pubdate": "2026 Jul 18",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42512387/"
+        "pmid": "42627465",
+        "title": "The application of excess hazard models for plausible long-term extrapolation in cost-effectiveness: a re-evaluation of immunotherapy in advanced non-small cell lung cancer using the KEYNOTE-024 trial.",
+        "pubdate": "2026 Aug 21",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42627465/"
       }
     ]
   },
