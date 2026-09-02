@@ -1,0 +1,150 @@
+{
+  "drug_name": "Pembrolizumab Monotherapy",
+  "slug": "pembrolizumab-monotherapy",
+  "enriched_at": "2026-09-02T12:52:30Z",
+  "source_trial_ids": [
+    "NCT06790966"
+  ],
+  "sponsors": [
+    {
+      "name": "PDS Biotechnology Corp.",
+      "ticker": "PDSB",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001472091&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1547545",
+      "generic_name": "pembrolizumab",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL3137343",
+    "target_chembl_id": "CHEMBL3307223",
+    "target_name": "Programmed cell death protein 1",
+    "mechanism_of_action_chembl": "Programmed cell death protein 1 inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Pembrolizumab%20Monotherapy+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Pembrolizumab%20Monotherapy+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Pembrolizumab%20Monotherapy+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Recurrent Head and Neck Cancer",
+    "slug": "recurrent-head-and-neck-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06790966",
+      "title": "Phase 3 Study of PDS0101 and Pembrolizumab in HPV16+ Recurrent/Metastatic Head and Neck Squamous Cell Carcinoma",
+      "status": "TERMINATED",
+      "url": "https://clinicaltrials.gov/study/NCT06790966",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42535750",
+        "title": "Pharmacological modulation of the PD-1/PD-L1 axis: from immune tolerance in colitis to immune escape in colorectal cancer.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42535750/"
+      },
+      {
+        "pmid": "42512387",
+        "title": "Enfortumab Vedotin in Advanced or Metastatic Urothelial Carcinoma: A Systematic Review of Efficacy, Safety, and Clinical Perspectives.",
+        "pubdate": "2026 Jul 18",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42512387/"
+      },
+      {
+        "pmid": "42384869",
+        "title": "Adjuvant Pembrolizumab plus Belzutifan for Renal-Cell Carcinoma.",
+        "pubdate": "2026 Jul 2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42384869/"
+      },
+      {
+        "pmid": "42355925",
+        "title": "Real-World Outcomes of First-Line Pembrolizumab-Based Therapy in Advanced Non-Small-Cell Lung Cancer: A Retrospective Single-Center Study.",
+        "pubdate": "2026 Jun 18",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42355925/"
+      },
+      {
+        "pmid": "42313403",
+        "title": "Pembrolizumab Plus Quad-Shot Radiotherapy for Recurrent, Unresectable, or Metastatic Head and Neck Cancer: A Nonrandomized Clinical Trial.",
+        "pubdate": "2026 Aug 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42313403/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "NIVOLUMAB",
+        "chembl_id": "CHEMBL2108738",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "PIDILIZUMAB",
+        "chembl_id": "CHEMBL2108680",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "CEMIPLIMAB",
+        "chembl_id": "CHEMBL4297723",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "DOSTARLIMAB",
+        "chembl_id": "CHEMBL4298124",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "CAMRELIZUMAB",
+        "chembl_id": "CHEMBL4297715",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "SERPLULIMAB",
+        "chembl_id": "CHEMBL4594550",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "RETIFANLIMAB",
+        "chembl_id": "CHEMBL4298037",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "SPARTALIZUMAB",
+        "chembl_id": "CHEMBL4297831",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "SASANLIMAB",
+        "chembl_id": "CHEMBL4298191",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "SINTILIMAB",
+        "chembl_id": "CHEMBL4297829",
+        "reason": "same target: Programmed cell death protein 1"
+      }
+    ]
+  }
+}
