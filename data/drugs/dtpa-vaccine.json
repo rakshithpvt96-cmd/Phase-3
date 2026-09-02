@@ -1,0 +1,99 @@
+{
+  "drug_name": "dTpa vaccine",
+  "slug": "dtpa-vaccine",
+  "enriched_at": "2026-09-02T11:59:53Z",
+  "source_trial_ids": [
+    "NCT07596173"
+  ],
+  "sponsors": [
+    {
+      "name": "GlaxoSmithKline",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=GlaxoSmithKline&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "3690",
+      "generic_name": "pentetic acid",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2108573",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": "Biological vaccine - induces immune response"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=dTpa%20vaccine+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=dTpa%20vaccine+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=dTpa%20vaccine+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Diphtheria-Tetanus-acellular Pertussis Vaccines",
+    "slug": "diphtheria-tetanus-acellular-pertussis-vaccines"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07596173",
+      "title": "A Study on the Immune Response and Safety of a Combined Vaccine Against Diphtheria, Tetanus and Acellular Pertussis (dTpa) in Healthy Japanese Adolescents Aged 11 Years to <13 Years",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07596173",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "32048889",
+        "title": "Immunogenicity and safety of a combined DTPa-IPV/Hib vaccine administered as a three-dose primary vaccination course and a booster dose in healthy children in Russia: a phase III, non-randomized, open-label study.",
+        "pubdate": "2020 Sep 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32048889/"
+      },
+      {
+        "pmid": "30054160",
+        "title": "Immunogenicity and safety of 11- and 12-valent pneumococcal non-typeable Haemophilus influenzae protein D-conjugate vaccines (11vPHiD-CV, 12vPHiD-CV) in infants: Results from a phase II, randomised, multicentre study.",
+        "pubdate": "2019 Jan 3",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30054160/"
+      },
+      {
+        "pmid": "26169070",
+        "title": "[Is it ethically acceptable to invite a pregnant woman to enroll in a clinical trial with Tdap if it could entail not being vaccinated with Tdap before delivery?].",
+        "pubdate": "2017 Feb",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26169070/"
+      },
+      {
+        "pmid": "25701314",
+        "title": "Immunogenicity and safety of 3-dose primary vaccination with combined DTPa-HBV-IPV/Hib vaccine in Canadian Aboriginal and non-Aboriginal infants.",
+        "pubdate": "2015 Apr 15",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25701314/"
+      },
+      {
+        "pmid": "24004825",
+        "title": "Combined hexavalent diphtheria-tetanus-acellular pertussis-hepatitis B-inactivated poliovirus-Haemophilus influenzae type B vaccine; Infanrix™ hexa: twelve years of experience in Italy.",
+        "pubdate": "2014",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24004825/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}
