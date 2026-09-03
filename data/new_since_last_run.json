@@ -1,46 +1,52 @@
 {
-  "generated_at": "2026-09-03T11:59:39Z",
+  "generated_at": "2026-09-03T12:10:08Z",
   "new_trial_count": 1,
   "new_trials": [
     {
-      "nct_id": "NCT06832410",
-      "title": "An Efficacy, Safety, and Tolerability Study of VX-880 in Participants With Type 1 Diabetes With a Kidney Transplant",
-      "status": "RECRUITING",
+      "nct_id": "NCT06468956",
+      "title": "Efficacy and Safety Study of SHR-1819 Injection in Adult Patients With Severe Atopic Dermatitis",
+      "status": "COMPLETED",
       "phases": [
         "PHASE3"
       ],
-      "sponsor": "Vertex Pharmaceuticals Incorporated",
+      "sponsor": "Guangdong Hengrui Pharmaceutical Co., Ltd",
       "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-09-17",
-      "primary_completion_date_type": "ESTIMATED",
-      "window": "upcoming",
+      "primary_completion_date": "2026-08-26",
+      "primary_completion_date_type": "ACTUAL",
+      "window": "lookback",
       "conditions": [
-        "Type 1 Diabetes",
-        "Kidney Transplant"
+        "Moderate to Severe Atopic Dermatitis"
       ],
       "interventions": [
         {
-          "name": "Biological/Vaccine",
-          "type": "BIOLOGICAL"
+          "name": "SHR-1819",
+          "type": "DRUG"
+        },
+        {
+          "name": "Placebo",
+          "type": "DRUG"
         }
       ],
       "drug_names": [
-        "Biological/Vaccine"
+        "SHR-1819",
+        "Placebo"
       ],
-      "url": "https://clinicaltrials.gov/study/NCT06832410",
+      "url": "https://clinicaltrials.gov/study/NCT06468956",
       "has_results": false,
       "results_first_post_date": null,
       "company_info": {
-        "sponsor": "Vertex Pharmaceuticals Incorporated",
+        "sponsor": "Guangdong Hengrui Pharmaceutical Co., Ltd",
         "ticker": null,
         "cik": null,
         "market_cap": null,
         "market_cap_display": null,
         "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Vertex%20Pharmaceuticals%20Incorporated&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-09-03T11:59:39Z"
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Guangdong%20Hengrui%20Pharmaceutical%20Co.%2C%20Ltd&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-09-03T12:10:08Z"
       }
     }
   ],
-  "removed_trial_ids": []
+  "removed_trial_ids": [
+    "NCT03459534"
+  ]
 }

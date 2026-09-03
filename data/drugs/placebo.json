@@ -1,7 +1,7 @@
 {
   "drug_name": "Placebo",
   "slug": "placebo",
-  "enriched_at": "2026-08-28T19:19:07Z",
+  "enriched_at": "2026-09-03T12:10:17Z",
   "source_trial_ids": [
     "NCT02914535",
     "NCT04023552",
@@ -15,59 +15,50 @@
     "NCT05316220",
     "NCT05330182",
     "NCT05353257",
-    "NCT05395689",
     "NCT05600777",
     "NCT05608291",
     "NCT05627648",
     "NCT05643534",
     "NCT05797610",
-    "NCT05799287",
     "NCT05929079",
     "NCT05983250",
-    "NCT06075667",
     "NCT06081894",
     "NCT06104124",
-    "NCT06145893",
     "NCT06290128",
     "NCT06339008",
     "NCT06347003",
     "NCT06347016",
-    "NCT06347133",
     "NCT06407934",
     "NCT06411288",
     "NCT06440967",
     "NCT06455059",
     "NCT06456528",
+    "NCT06468956",
     "NCT06472076",
     "NCT06534723",
     "NCT06553027",
     "NCT06564818",
     "NCT06602271",
     "NCT06640257",
-    "NCT06640517",
     "NCT06660394",
     "NCT06669754",
     "NCT06687967",
     "NCT06687980",
-    "NCT06692283",
     "NCT06762548",
     "NCT06775379",
     "NCT06777238",
     "NCT06779136",
     "NCT06827431",
     "NCT06846515",
-    "NCT06863493",
     "NCT06893016",
     "NCT06910358",
     "NCT06945107",
     "NCT06994507",
-    "NCT07140783",
     "NCT07146126",
     "NCT07220109",
     "NCT07298434",
     "NCT07300839",
     "NCT07305987",
-    "NCT07403266",
     "NCT07469800",
     "NCT07473960",
     "NCT07790120"
@@ -152,12 +143,6 @@
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001776985&type=10-K&dateb=&owner=include&count=40"
     },
     {
-      "name": "Biocad",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Biocad&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
       "name": "Bristol-Myers Squibb",
       "ticker": "BMY",
       "market_cap_display": null,
@@ -224,16 +209,16 @@
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Gan%20%26%20Lee%20Pharmaceuticals.&type=10-K&dateb=&owner=include&count=40"
     },
     {
-      "name": "Ganzhou Hemay Pharmaceutical Co., Ltd",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Ganzhou%20Hemay%20Pharmaceutical%20Co.%2C%20Ltd&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
       "name": "GlaxoSmithKline",
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=GlaxoSmithKline&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Guangdong Hengrui Pharmaceutical Co., Ltd",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Guangdong%20Hengrui%20Pharmaceutical%20Co.%2C%20Ltd&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Guangdong Raynovent Biotech Co., Ltd",
@@ -308,18 +293,6 @@
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Novartis%20Pharmaceuticals&type=10-K&dateb=&owner=include&count=40"
     },
     {
-      "name": "Ocuphire Pharma, Inc.",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Ocuphire%20Pharma%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
-      "name": "Oils4Cure",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Oils4Cure&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
       "name": "Pharvaris Netherlands B.V.",
       "ticker": null,
       "market_cap_display": null,
@@ -332,12 +305,6 @@
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Prime%20Gene%20Therapeutics%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
     },
     {
-      "name": "Probelte Pharma S.L.U.",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Probelte%20Pharma%20S.L.U.&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
       "name": "Qilu Pharmaceutical Co., Ltd.",
       "ticker": null,
       "market_cap_display": null,
@@ -348,24 +315,6 @@
       "ticker": "REGN",
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000872589&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
-      "name": "RemeGen Co., Ltd.",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=RemeGen%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
-      "name": "SFA Therapeutics",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=SFA%20Therapeutics&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
-      "name": "Sagimet Biosciences Inc.",
-      "ticker": "SGMT",
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001400118&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Sanofi",
@@ -444,7 +393,7 @@
     "boxed_warning": null,
     "openfda_brand_names": [],
     "openfda_generic_names": [],
-    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2ec8f18f-297c-405f-b191-a40767366bad",
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b2482d51-d606-4aaa-8af4-19e4fe2f8872",
     "note": "A label exists in DailyMed but structured sections could not be parsed automatically -- see dailymed_url for the full label.",
     "further_reading": {
       "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Placebo+mechanism+of+action",
@@ -453,8 +402,8 @@
     }
   },
   "condition": {
-    "raw": "Behçet's Disease",
-    "slug": "beh-et-s-disease"
+    "raw": "Psoriatic Arthritis",
+    "slug": "psoriatic-arthritis"
   },
   "source_trials": [
     {
@@ -542,13 +491,6 @@
       "has_results": false
     },
     {
-      "nct_id": "NCT05395689",
-      "title": "Efficacy and Safety Assessment of Beltavac® With Polymerized Extract of HDM",
-      "status": "UNKNOWN",
-      "url": "https://clinicaltrials.gov/study/NCT05395689",
-      "has_results": false
-    },
-    {
       "nct_id": "NCT05600777",
       "title": "A 24-Week Study of the Efficacy and Safety of BLU-5937 in Adults With Refractory Chronic Cough",
       "status": "ACTIVE_NOT_RECRUITING",
@@ -584,13 +526,6 @@
       "has_results": false
     },
     {
-      "nct_id": "NCT05799287",
-      "title": "A Study of Telitacicept for IgA Nephropathy (TELIGAN)",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT05799287",
-      "has_results": false
-    },
-    {
       "nct_id": "NCT05929079",
       "title": "A Study of Retatrutide (LY3437943) in Participants With Type 2 Diabetes Mellitus Who Have Obesity or Overweight",
       "status": "COMPLETED",
@@ -605,13 +540,6 @@
       "has_results": false
     },
     {
-      "nct_id": "NCT06075667",
-      "title": "A Study of Tirzepatide (LY3298176) Once Weekly in Adolescent Participants Who Have Obesity or Overweight With Weight-Related Comorbidities",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06075667",
-      "has_results": false
-    },
-    {
       "nct_id": "NCT06081894",
       "title": "A Trial to Evaluate the Efficacy and Safety of Aficamten Compared to Placebo in Adults With Symptomatic Non-Obstructive Hypertrophic Cardiomyopathy (nHCM)",
       "status": "ACTIVE_NOT_RECRUITING",
@@ -623,13 +551,6 @@
       "title": "A Study to Evaluate the Efficacy and Safety of Dazodalibep in Participants With Sjögren's Syndrome (SS) With Moderate-to-severe Systemic Disease Activity",
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT06104124",
-      "has_results": false
-    },
-    {
-      "nct_id": "NCT06145893",
-      "title": "A Study of Efficacy and Safety of Hemay005 Tablets in Patients With Behçet's Disease",
-      "status": "RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06145893",
       "has_results": false
     },
     {
@@ -661,13 +582,6 @@
       "has_results": false
     },
     {
-      "nct_id": "NCT06347133",
-      "title": "Phase 3 Study of Plozasiran in Adults With Hypertriglyceridemia",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06347133",
-      "has_results": false
-    },
-    {
       "nct_id": "NCT06407934",
       "title": "A Study to Evaluate the Treatment Response and Safety of Two Dose Regimens of Subcutaneous Amlitelimab Compared With Treatment Withdrawal in Participants Aged 12 Years and Older With Moderate-to-severe Atopic Dermatitis",
       "status": "ACTIVE_NOT_RECRUITING",
@@ -677,7 +591,7 @@
     {
       "nct_id": "NCT06411288",
       "title": "Global Study of Del-desiran for the Treatment of DM1",
-      "status": "ACTIVE_NOT_RECRUITING",
+      "status": "COMPLETED",
       "url": "https://clinicaltrials.gov/study/NCT06411288",
       "has_results": false
     },
@@ -700,6 +614,13 @@
       "title": "QL0911 for the Treatment of Cancer Treatment-Induced Thrombocytopenia",
       "status": "RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT06456528",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06468956",
+      "title": "Efficacy and Safety Study of SHR-1819 Injection in Adult Patients With Severe Atopic Dermatitis",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT06468956",
       "has_results": false
     },
     {
@@ -745,13 +666,6 @@
       "has_results": false
     },
     {
-      "nct_id": "NCT06640517",
-      "title": "Study of the Efficacy, Safety, Pharmacokinetics, and Immunogenicity of Netakimab in Children With Moderate to Severe Plaque Psoriasis",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06640517",
-      "has_results": false
-    },
-    {
       "nct_id": "NCT06660394",
       "title": "A Phase 3, Placebo-Controlled Study to Investigate LP352 in Children and Adults With Dravet Syndrome (DS)",
       "status": "RECRUITING",
@@ -777,13 +691,6 @@
       "title": "A Study to Investigate Improvement in Pruritus of Lichen Simplex Chronicus With Dupilumab Injections Compared With Placebo in Male and Female Participants Aged at Least 18 Years (STYLE 2)",
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT06687980",
-      "has_results": false
-    },
-    {
-      "nct_id": "NCT06692283",
-      "title": "A Phase 3 Study Evaluating the Safety and Efficacy of Denifanstat in Patients With MASLD and MASH",
-      "status": "WITHDRAWN",
-      "url": "https://clinicaltrials.gov/study/NCT06692283",
       "has_results": false
     },
     {
@@ -829,13 +736,6 @@
       "has_results": false
     },
     {
-      "nct_id": "NCT06863493",
-      "title": "Comparison of Otezla to SFA-002 to Placebo in Plaque Psoriasis Patients",
-      "status": "NOT_YET_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06863493",
-      "has_results": false
-    },
-    {
       "nct_id": "NCT06893016",
       "title": "Evaluation of RAY1225 in Adult Participants Who Have Obesity or Are Overweight",
       "status": "RECRUITING",
@@ -861,13 +761,6 @@
       "title": "GM1 Prophylaxis for Nab-paclitaxel-associated Chemotherapy-induced Peripheral Neuropathy (CIPN) in Patients With Breast Cancer",
       "status": "RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT06994507",
-      "has_results": false
-    },
-    {
-      "nct_id": "NCT07140783",
-      "title": "OPI-NXYDLD-303 Safety and Efficacy of Phentolamine Ophthalmic Solution in Keratorefractive Surgery Participants With Decreased Mesopic Visual Acuity",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT07140783",
       "has_results": false
     },
     {
@@ -906,13 +799,6 @@
       "has_results": false
     },
     {
-      "nct_id": "NCT07403266",
-      "title": "Treatment With Full-spectrum Cannabis Extract of Refractory Epilepsy Associated With Tuberous Sclerosis Complex (TSC)",
-      "status": "RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT07403266",
-      "has_results": false
-    },
-    {
       "nct_id": "NCT07469800",
       "title": "Efficacy and Safety of IBI362 in Hypertensive Patients With Overweight/Obesity",
       "status": "RECRUITING",
@@ -938,34 +824,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42663312",
-        "title": "Aficamten for Symptomatic Nonobstructive Hypertrophic Cardiomyopathy.",
-        "pubdate": "2026 Aug 28",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42663312/"
+        "pmid": "42687772",
+        "title": "Intravenous Oxytocin Does Not Affect Glucose-Regulating Hormones or Markers of Bone Turnover During Graded Glucose Infusion in Healthy Men.",
+        "pubdate": "2026 Sep 3",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42687772/"
       },
       {
-        "pmid": "42663301",
-        "title": "Eplontersen for Transthyretin Amyloid Cardiomyopathy.",
-        "pubdate": "2026 Aug 28",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42663301/"
+        "pmid": "42686085",
+        "title": "LYNX-1: A Phase 3 Study of 0.75% Phentolamine Ophthalmic Solution in Subjects with Dim Light Vision Disturbances.",
+        "pubdate": "2026 Sep 2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42686085/"
       },
       {
-        "pmid": "42663275",
-        "title": "Vaginal Oestrogen Therapy for Postmenopausal Women Undergoing Prolapse Surgery: A Multicentre Double-Blind Randomised Placebo-Controlled Clinical Trial.",
-        "pubdate": "2026 Aug 28",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42663275/"
+        "pmid": "42685572",
+        "title": "Investigating the effect of sweet almond oil vaginal suppository on spontaneous and duration of labor in nulliparous women: A triple-blind clinical trial study.",
+        "pubdate": "2026 Aug 22",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42685572/"
       },
       {
-        "pmid": "42663111",
-        "title": "Global Efficacy of Aficamten in Nonobstructive Hypertrophic Cardiomyopathy: Results From ACACIA-HCM.",
-        "pubdate": "2026 Aug 28",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42663111/"
+        "pmid": "42684025",
+        "title": "Safety, tolerability and pharmacokinetics of an NMDA receptor subunit 2B-selective negative allosteric modulator, BI 1569912: Results of three partially randomised, placebo-controlled phase I trials.",
+        "pubdate": "2026 Sep 2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42684025/"
       },
       {
-        "pmid": "42662999",
-        "title": "Impact of Prior Biologic Exposure on Upadacitinib Efficacy in Inflammatory Bowel Disease: A Systematic Review of Randomized Controlled Trials.",
-        "pubdate": "2026 Jul",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42662999/"
+        "pmid": "42683746",
+        "title": "52-week ivarmacitinib in moderate-to-severe atopic dermatitis: A phase 3 trial.",
+        "pubdate": "2026 Sep 2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42683746/"
       }
     ]
   },
