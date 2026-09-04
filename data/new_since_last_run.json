@@ -1,6 +1,53 @@
 {
-  "generated_at": "2026-09-03T13:21:56Z",
-  "new_trial_count": 0,
-  "new_trials": [],
-  "removed_trial_ids": []
+  "generated_at": "2026-09-04T12:01:26Z",
+  "new_trial_count": 1,
+  "new_trials": [
+    {
+      "nct_id": "NCT07145333",
+      "title": "Pharmacogenomics ANDA SNP Clinical Study - Topotecan and Single Nucleotide Polymorphisms",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE2",
+        "PHASE3"
+      ],
+      "sponsor": "Han Xu, M.D., Ph.D., FAPCR, Sponsor-Investigator, IRB Chair",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-09-18",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "SCLC"
+      ],
+      "interventions": [
+        {
+          "name": "Topotecan - usual",
+          "type": "DRUG"
+        },
+        {
+          "name": "Topotecan - study",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "Topotecan - usual",
+        "Topotecan - study"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT07145333",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Han Xu, M.D., Ph.D., FAPCR, Sponsor-Investigator, IRB Chair",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Han%20Xu%2C%20M.D.%2C%20Ph.D.%2C%20FAPCR%2C%20Sponsor-Investigator%2C%20IRB%20Chair&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-09-04T12:01:23Z"
+      }
+    }
+  ],
+  "removed_trial_ids": [
+    "NCT06640257"
+  ]
 }

@@ -1,27 +1,27 @@
 {
-  "drug_name": "AMDC-USR (iltamiocel)",
-  "slug": "amdc-usr-iltamiocel",
-  "enriched_at": "2026-09-04T12:02:37Z",
+  "drug_name": "Topotecan - usual",
+  "slug": "topotecan-usual",
+  "enriched_at": "2026-09-04T12:05:21Z",
   "source_trial_ids": [
-    "NCT03104517"
+    "NCT07145333"
   ],
   "sponsors": [
     {
-      "name": "Cook MyoSite",
+      "name": "Han Xu, M.D., Ph.D., FAPCR, Sponsor-Investigator, IRB Chair",
       "ticker": null,
       "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Cook%20MyoSite&type=10-K&dateb=&owner=include&count=40"
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Han%20Xu%2C%20M.D.%2C%20Ph.D.%2C%20FAPCR%2C%20Sponsor-Investigator%2C%20IRB%20Chair&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
     "rxnorm": {
-      "rxcui": "2686509",
-      "generic_name": null,
+      "rxcui": "57308",
+      "generic_name": "topotecan",
       "brand_names": []
     }
   },
   "mechanism": {
-    "chembl_id": null,
+    "chembl_id": "CHEMBL84",
     "target_chembl_id": null,
     "target_name": null,
     "mechanism_of_action_chembl": null
@@ -38,21 +38,21 @@
     "dailymed_url": null,
     "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
     "further_reading": {
-      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=AMDC-USR%20%28iltamiocel%29+mechanism+of+action",
-      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=AMDC-USR%20%28iltamiocel%29+pharmacokinetics",
-      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=AMDC-USR%20%28iltamiocel%29+efficacy+phase+3"
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Topotecan%20-%20usual+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Topotecan%20-%20usual+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Topotecan%20-%20usual+efficacy+phase+3"
     }
   },
   "condition": {
-    "raw": "Stress Urinary Incontinence",
-    "slug": "stress-urinary-incontinence"
+    "raw": "SCLC",
+    "slug": "sclc"
   },
   "source_trials": [
     {
-      "nct_id": "NCT03104517",
-      "title": "Autologous Muscle Derived Cells Compared to Placebo for Urinary Sphincter Repair in Post-surgical Female Stress Incontinence",
+      "nct_id": "NCT07145333",
+      "title": "Pharmacogenomics ANDA SNP Clinical Study - Topotecan and Single Nucleotide Polymorphisms",
       "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT03104517",
+      "url": "https://clinicaltrials.gov/study/NCT07145333",
       "has_results": false
     }
   ],
