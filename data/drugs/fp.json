@@ -1,0 +1,105 @@
+{
+  "drug_name": "FP",
+  "slug": "fp",
+  "enriched_at": "2026-09-05T11:11:39Z",
+  "source_trial_ids": [
+    "NCT06664619"
+  ],
+  "sponsors": [
+    {
+      "name": "Teva Branded Pharmaceutical Products R&D LLC",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Teva%20Branded%20Pharmaceutical%20Products%20R%26D%20LLC&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 4069131,
+    "iupac_name": "1-(2-amino-3-phenylpropanoyl)pyrrolidine-2-carboxylic acid",
+    "molecular_formula": "C14H18N2O3",
+    "molecular_weight": "262.30",
+    "canonical_smiles": null,
+    "inchikey": "WEQJQNWXCSUVMA-UHFFFAOYSA-N",
+    "rxnorm": {
+      "rxcui": "2731654",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": null,
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "DailyMed",
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=574c96e9-77a2-778f-e063-6394a90a0aae",
+    "note": "A label exists in DailyMed but structured sections could not be parsed automatically -- see dailymed_url for the full label.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=FP+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=FP+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=FP+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Asthma",
+    "slug": "asthma"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06664619",
+      "title": "A Randomized, Double-Blind, Placebo-Controlled Trial on Efficacy and Safety of Fluticasone Propionate/Albuterol Sulfate Combination in Participants 12 Years and Older With Asthma",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06664619",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42677015",
+        "title": "Lenvatinib versus Sorafenib in First-Line Treatment of Older Patients with Unresectable Hepatocellular Carcinoma: A Subgroup Analysis of the REFLECT Trial.",
+        "pubdate": "2026 Jul 4",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42677015/"
+      },
+      {
+        "pmid": "42660705",
+        "title": "Targeting the hepcidin-ferroportin axis in polycythemia vera: a complementary approach to clone-directed therapies.",
+        "pubdate": "2026 Aug 26",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42660705/"
+      },
+      {
+        "pmid": "42621648",
+        "title": "Evaluation of copper feeding strategies and sources on nursery and finishing pig performance.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42621648/"
+      },
+      {
+        "pmid": "42597905",
+        "title": "VOGUE: Noninferior Efficacy of Dolutegravir/Lamivudine Versus Bictegravir/Emtricitabine/Tenofovir Alafenamide in Adults With HIV-1 Naive to Treatment.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42597905/"
+      },
+      {
+        "pmid": "42552516",
+        "title": "Etiological characterization of acute respiratory tract infections and associated co-infections using Biofire respiratory 2.1 Plus panel.",
+        "pubdate": "2026 Aug 3",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42552516/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

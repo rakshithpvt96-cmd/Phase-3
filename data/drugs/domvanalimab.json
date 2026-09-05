@@ -1,7 +1,7 @@
 {
   "drug_name": "Domvanalimab",
   "slug": "domvanalimab",
-  "enriched_at": "2026-08-28T19:18:54Z",
+  "enriched_at": "2026-09-05T11:10:52Z",
   "source_trial_ids": [
     "NCT05211895",
     "NCT05568095"
@@ -51,8 +51,8 @@
     }
   },
   "condition": {
-    "raw": "Advanced Upper Gastrointestinal Tract Adenocarcinoma",
-    "slug": "advanced-upper-gastrointestinal-tract-adenocarcinoma"
+    "raw": "Non-Small Cell Lung Cancer",
+    "slug": "non-small-cell-lung-cancer"
   },
   "source_trials": [
     {
@@ -65,7 +65,7 @@
     {
       "nct_id": "NCT05568095",
       "title": "A Clinical Trial of a New Combination Treatment, Domvanalimab and Zimberelimab, Plus Chemotherapy, for People With an Upper Gastrointestinal Tract Cancer That Cannot be Removed With Surgery That Has Spread to Other Parts of the Body",
-      "status": "ACTIVE_NOT_RECRUITING",
+      "status": "COMPLETED",
       "url": "https://clinicaltrials.gov/study/NCT05568095",
       "has_results": false
     }

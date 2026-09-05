@@ -1,0 +1,105 @@
+{
+  "drug_name": "ABS",
+  "slug": "abs",
+  "enriched_at": "2026-09-05T11:11:16Z",
+  "source_trial_ids": [
+    "NCT06664619"
+  ],
+  "sponsors": [
+    {
+      "name": "Teva Branded Pharmaceutical Products R&D LLC",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Teva%20Branded%20Pharmaceutical%20Products%20R%26D%20LLC&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 24756,
+    "iupac_name": "buta-1,3-diene;prop-2-enenitrile;styrene",
+    "molecular_formula": "C15H17N",
+    "molecular_weight": "211.30",
+    "canonical_smiles": null,
+    "inchikey": "XECAHXYUAAWDEL-UHFFFAOYSA-N",
+    "rxnorm": {
+      "rxcui": "2623450",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL5760391",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "DailyMed",
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3ef0cff8-19c1-4441-b780-fca6c7ee1615",
+    "note": "A label exists in DailyMed but structured sections could not be parsed automatically -- see dailymed_url for the full label.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=ABS+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=ABS+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=ABS+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Asthma",
+    "slug": "asthma"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06664619",
+      "title": "A Randomized, Double-Blind, Placebo-Controlled Trial on Efficacy and Safety of Fluticasone Propionate/Albuterol Sulfate Combination in Participants 12 Years and Older With Asthma",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06664619",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42686916",
+        "title": "Treatment of Herpes simplex encephalitis with the helicase-primase inhibitor pritelivir in an immunocompromised patient.",
+        "pubdate": "2026 Sep 2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42686916/"
+      },
+      {
+        "pmid": "42488746",
+        "title": "Can image-guided external beam radiotherapy boost be an alternative when intracavitary brachytherapy is unavailable for locally advanced cervical cancer? A dosimetric analysis and literature review.",
+        "pubdate": "2026 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42488746/"
+      },
+      {
+        "pmid": "42407020",
+        "title": "Phenotype, Severity, and Therapy of Patients With LRP4 Antibody-Associated Myasthenia Gravis in the German Myasthenia Gravis Registry.",
+        "pubdate": "2026 Aug 11",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42407020/"
+      },
+      {
+        "pmid": "42337151",
+        "title": "Allergy burden score and lung function impairment in children with asthma: a dose-response cross-sectional study.",
+        "pubdate": "2026 Jun 23",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42337151/"
+      },
+      {
+        "pmid": "42179814",
+        "title": "Rationale and methods of the MOVI-HIIT! cluster-randomized controlled trial: an avatar-guided virtual platform for classroom activity breaks and its impact on cognition, adiposity, and fitness in preschoolers.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42179814/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

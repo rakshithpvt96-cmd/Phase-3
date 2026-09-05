@@ -1,7 +1,7 @@
 {
   "drug_name": "CAL/BDP Gel",
   "slug": "cal-bdp-gel",
-  "enriched_at": "2026-08-28T19:19:20Z",
+  "enriched_at": "2026-09-05T11:11:24Z",
   "source_trial_ids": [
     "NCT07357831"
   ],
@@ -96,27 +96,17 @@
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
     "items": [
       {
-        "name": "Netakimab",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Biocad"
-      },
-      {
-        "name": "Placebo",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Biocad"
-      },
-      {
-        "name": "Adalimumab",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Biocad"
-      },
-      {
         "name": "Picankibart",
         "chembl_id": null,
         "reason": "same indication trial, sponsor: Innovent Biopharmaceutical Technology (Hangzhou) Co., LTD."
       },
       {
         "name": "Secukinumab",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Innovent Biopharmaceutical Technology (Hangzhou) Co., LTD."
+      },
+      {
+        "name": "Placebo",
         "chembl_id": null,
         "reason": "same indication trial, sponsor: Innovent Biopharmaceutical Technology (Hangzhou) Co., LTD."
       },

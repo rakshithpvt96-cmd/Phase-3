@@ -1,7 +1,7 @@
 {
   "drug_name": "Placebo",
   "slug": "placebo",
-  "enriched_at": "2026-09-03T12:10:17Z",
+  "enriched_at": "2026-09-05T11:10:59Z",
   "source_trial_ids": [
     "NCT02914535",
     "NCT04023552",
@@ -39,8 +39,8 @@
     "NCT06553027",
     "NCT06564818",
     "NCT06602271",
-    "NCT06640257",
     "NCT06660394",
+    "NCT06664619",
     "NCT06669754",
     "NCT06687967",
     "NCT06687980",
@@ -347,16 +347,16 @@
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Sichuan%20Jishengtang%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
     },
     {
-      "name": "Suzhou Suncadia Biopharmaceuticals Co., Ltd.",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Suzhou%20Suncadia%20Biopharmaceuticals%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
       "name": "Tenax Therapeutics, Inc.",
       "ticker": "TENX",
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000034956&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Teva Branded Pharmaceutical Products R&D LLC",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Teva%20Branded%20Pharmaceutical%20Products%20R%26D%20LLC&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Vanda Pharmaceuticals",
@@ -402,8 +402,8 @@
     }
   },
   "condition": {
-    "raw": "Psoriatic Arthritis",
-    "slug": "psoriatic-arthritis"
+    "raw": "Plaque Psoriasis",
+    "slug": "plaque-psoriasis"
   },
   "source_trials": [
     {
@@ -659,17 +659,17 @@
       "has_results": false
     },
     {
-      "nct_id": "NCT06640257",
-      "title": "A Study of the Efficacy and Safety of SHR-1314 for Adult Active Psoriatic Arthritis",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06640257",
-      "has_results": false
-    },
-    {
       "nct_id": "NCT06660394",
       "title": "A Phase 3, Placebo-Controlled Study to Investigate LP352 in Children and Adults With Dravet Syndrome (DS)",
       "status": "RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT06660394",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06664619",
+      "title": "A Randomized, Double-Blind, Placebo-Controlled Trial on Efficacy and Safety of Fluticasone Propionate/Albuterol Sulfate Combination in Participants 12 Years and Older With Asthma",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06664619",
       "has_results": false
     },
     {
@@ -824,40 +824,61 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42687772",
-        "title": "Intravenous Oxytocin Does Not Affect Glucose-Regulating Hormones or Markers of Bone Turnover During Graded Glucose Infusion in Healthy Men.",
-        "pubdate": "2026 Sep 3",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42687772/"
+        "pmid": "42697856",
+        "title": "Impact of Baseline Polyneuropathy Severity on Eplontersen Efficacy in the NEURO-TTRansform Clinical Trial.",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42697856/"
       },
       {
-        "pmid": "42686085",
-        "title": "LYNX-1: A Phase 3 Study of 0.75% Phentolamine Ophthalmic Solution in Subjects with Dim Light Vision Disturbances.",
-        "pubdate": "2026 Sep 2",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42686085/"
+        "pmid": "42696765",
+        "title": "The effect of low-dose ketorolac on minimally invasive transforaminal lumbar interbody fusions: final analysis of a randomized, double-blinded, placebo-controlled trial.",
+        "pubdate": "2026 Sep 4",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42696765/"
       },
       {
-        "pmid": "42685572",
-        "title": "Investigating the effect of sweet almond oil vaginal suppository on spontaneous and duration of labor in nulliparous women: A triple-blind clinical trial study.",
-        "pubdate": "2026 Aug 22",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42685572/"
+        "pmid": "42696663",
+        "title": "Thymic stromal lymphopoietin as a therapeutic target for the treatment of eosinophilic esophagitis.",
+        "pubdate": "2026 Sep 4",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42696663/"
       },
       {
-        "pmid": "42684025",
-        "title": "Safety, tolerability and pharmacokinetics of an NMDA receptor subunit 2B-selective negative allosteric modulator, BI 1569912: Results of three partially randomised, placebo-controlled phase I trials.",
-        "pubdate": "2026 Sep 2",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42684025/"
+        "pmid": "42695945",
+        "title": "Safety and pharmacokinetics of CL-197, a potent compound with low cytotoxicity against HIV-1: a randomized, double-blind, placebo-controlled, first-in-human phase 1 clinical trial.",
+        "pubdate": "2026 Sep 4",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42695945/"
       },
       {
-        "pmid": "42683746",
-        "title": "52-week ivarmacitinib in moderate-to-severe atopic dermatitis: A phase 3 trial.",
-        "pubdate": "2026 Sep 2",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42683746/"
+        "pmid": "42695588",
+        "title": "Pre-Seasonal Treatment With Recombinant Carrier-Based Birch Vaccine Improves Birch Pollen Allergy.",
+        "pubdate": "2026 Sep 4",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42695588/"
       }
     ]
   },
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": []
+    "items": [
+      {
+        "name": "MC2-01 cream",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Hangzhou Zhongmei Huadong Pharmaceutical Co., Ltd."
+      },
+      {
+        "name": "MC2-01 vehicle",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Hangzhou Zhongmei Huadong Pharmaceutical Co., Ltd."
+      },
+      {
+        "name": "CAL/BDP Gel",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Hangzhou Zhongmei Huadong Pharmaceutical Co., Ltd."
+      },
+      {
+        "name": "Apremilast",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Amgen"
+      }
+    ]
   }
 }

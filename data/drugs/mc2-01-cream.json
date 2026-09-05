@@ -1,7 +1,7 @@
 {
   "drug_name": "MC2-01 cream",
   "slug": "mc2-01-cream",
-  "enriched_at": "2026-08-28T19:19:44Z",
+  "enriched_at": "2026-09-05T11:12:08Z",
   "source_trial_ids": [
     "NCT07357831"
   ],
@@ -56,6 +56,12 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42683746",
+        "title": "52-week ivarmacitinib in moderate-to-severe atopic dermatitis: A phase 3 trial.",
+        "pubdate": "2026 Sep 2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42683746/"
+      },
+      {
         "pmid": "42663275",
         "title": "Vaginal Oestrogen Therapy for Postmenopausal Women Undergoing Prolapse Surgery: A Multicentre Double-Blind Randomised Placebo-Controlled Clinical Trial.",
         "pubdate": "2026 Aug 28",
@@ -78,12 +84,6 @@
         "title": "Clascoterone Cream 1% is Safe and Effective for Papulopustular Rosacea: A Phase 2 Clinical Trial.",
         "pubdate": "2026 Aug 1",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42555080/"
-      },
-      {
-        "pmid": "42554948",
-        "title": "Real-World Effect of Ruxolitinib Cream: Decreased Use of Additional Topical Therapies and Limited Escalation to Systemic Treatments.",
-        "pubdate": "2026 Aug 5",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42554948/"
       }
     ]
   },
@@ -92,27 +92,17 @@
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
     "items": [
       {
-        "name": "Netakimab",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Biocad"
-      },
-      {
-        "name": "Placebo",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Biocad"
-      },
-      {
-        "name": "Adalimumab",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Biocad"
-      },
-      {
         "name": "Picankibart",
         "chembl_id": null,
         "reason": "same indication trial, sponsor: Innovent Biopharmaceutical Technology (Hangzhou) Co., LTD."
       },
       {
         "name": "Secukinumab",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Innovent Biopharmaceutical Technology (Hangzhou) Co., LTD."
+      },
+      {
+        "name": "Placebo",
         "chembl_id": null,
         "reason": "same indication trial, sponsor: Innovent Biopharmaceutical Technology (Hangzhou) Co., LTD."
       },
