@@ -1,7 +1,7 @@
 {
   "drug_name": "Placebo",
   "slug": "placebo",
-  "enriched_at": "2026-09-05T11:10:59Z",
+  "enriched_at": "2026-09-06T11:33:38Z",
   "source_trial_ids": [
     "NCT02914535",
     "NCT04023552",
@@ -52,15 +52,16 @@
     "NCT06846515",
     "NCT06893016",
     "NCT06910358",
-    "NCT06945107",
     "NCT06994507",
     "NCT07146126",
     "NCT07220109",
+    "NCT07279194",
     "NCT07298434",
     "NCT07300839",
     "NCT07305987",
     "NCT07469800",
     "NCT07473960",
+    "NCT07555392",
     "NCT07790120"
   ],
   "sponsors": [
@@ -129,6 +130,12 @@
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Bellus%20Health%20Inc.%20-%20a%20GSK%20company&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Bharat Biotech International Limited",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Bharat%20Biotech%20International%20Limited&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "BioMarin Pharmaceutical",
@@ -233,6 +240,12 @@
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=H.%20Lundbeck%20A/S&type=10-K&dateb=&owner=include&count=40"
     },
     {
+      "name": "Hangzhou Zhongmei Huadong Pharmaceutical Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hangzhou%20Zhongmei%20Huadong%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
       "name": "Hoffmann-La Roche",
       "ticker": null,
       "market_cap_display": null,
@@ -243,12 +256,6 @@
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Innovent%20Biologics%20%28Suzhou%29%20Co.%20Ltd.&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
-      "name": "Innovent Biopharmaceutical Technology (Hangzhou) Co., LTD.",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Innovent%20Biopharmaceutical%20Technology%20%28Hangzhou%29%20Co.%2C%20LTD.&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Invivyd, Inc.",
@@ -402,8 +409,8 @@
     }
   },
   "condition": {
-    "raw": "Plaque Psoriasis",
-    "slug": "plaque-psoriasis"
+    "raw": "Lichen Simplex Chronicus",
+    "slug": "lichen-simplex-chronicus"
   },
   "source_trials": [
     {
@@ -750,13 +757,6 @@
       "has_results": false
     },
     {
-      "nct_id": "NCT06945107",
-      "title": "A Study of Switching to Picankibart in Chinese Patients With Plaque Psoriasis With an Inadequate Response to Interleukin-17 Monoclonal Antibody Therapy",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06945107",
-      "has_results": false
-    },
-    {
       "nct_id": "NCT06994507",
       "title": "GM1 Prophylaxis for Nab-paclitaxel-associated Chemotherapy-induced Peripheral Neuropathy (CIPN) in Patients With Breast Cancer",
       "status": "RECRUITING",
@@ -775,6 +775,13 @@
       "title": "A Study on the Immune Response and Safety of Vaccine Against Respiratory Syncytial Virus Given to Chinese Adults 18 to 59 Years of Age at Increased Risk of Respiratory Syncytial Virus Disease",
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT07220109",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT07279194",
+      "title": "Efficacy and Safety of HDM1005 in Chinese Obesity or Overweight Patients Without Diabetes",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07279194",
       "has_results": false
     },
     {
@@ -813,6 +820,13 @@
       "has_results": false
     },
     {
+      "nct_id": "NCT07555392",
+      "title": "A Seamless Phase II/III, Observer-blind, to Evaluate Immunogenicity and Safety of Chikungunya Virus Vaccine in Healthy Subjects 12-65Years of Age.",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07555392",
+      "has_results": false
+    },
+    {
       "nct_id": "NCT07790120",
       "title": "A Study to Evaluate the Efficacy and Safety in Participants With Uncontrolled Hypertension on Two or More Medications Including Participants With Resistant Hypertension",
       "status": "COMPLETED",
@@ -824,61 +838,40 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42697856",
-        "title": "Impact of Baseline Polyneuropathy Severity on Eplontersen Efficacy in the NEURO-TTRansform Clinical Trial.",
+        "pmid": "42700411",
+        "title": "Efficacy and Safety of Luseogliflozin (TS-071) in Japanese Children and Adolescents with Type 2 Diabetes Mellitus: A Multicenter, Randomized, Double-masked, Placebo-controlled Phase 3 Study.",
+        "pubdate": "2026 Sep 5",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42700411/"
+      },
+      {
+        "pmid": "42699772",
+        "title": "A phase III clinical trial of PXT3003 in Chinese patients with Charcot-Marie-Tooth disease type 1A.",
+        "pubdate": "2026 Sep 18",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42699772/"
+      },
+      {
+        "pmid": "42698930",
+        "title": "A Comparison of Clinical Outcomes Among Undenatured Collagen Type II, Glucosamine Sulfate, and Diacerein on Osteoarthritic Knee Treatment: A Randomized Clinical Trial.",
+        "pubdate": "2026 Jul-Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42698930/"
+      },
+      {
+        "pmid": "42698666",
+        "title": "A multicenter, randomized, double-blind, double-simulated, positive drug parallel-controlled clinical trial to evaluate the efficacy and safety of Xiao'er Fengreqing oral liquid in the treatment of acute pharyngitis/tonsillitis in children.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42698666/"
+      },
+      {
+        "pmid": "42698560",
+        "title": "Astragalus membranaceus therapy in patients with spinocerebellar ataxia type 3.",
         "pubdate": "2026 Sep",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42697856/"
-      },
-      {
-        "pmid": "42696765",
-        "title": "The effect of low-dose ketorolac on minimally invasive transforaminal lumbar interbody fusions: final analysis of a randomized, double-blinded, placebo-controlled trial.",
-        "pubdate": "2026 Sep 4",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42696765/"
-      },
-      {
-        "pmid": "42696663",
-        "title": "Thymic stromal lymphopoietin as a therapeutic target for the treatment of eosinophilic esophagitis.",
-        "pubdate": "2026 Sep 4",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42696663/"
-      },
-      {
-        "pmid": "42695945",
-        "title": "Safety and pharmacokinetics of CL-197, a potent compound with low cytotoxicity against HIV-1: a randomized, double-blind, placebo-controlled, first-in-human phase 1 clinical trial.",
-        "pubdate": "2026 Sep 4",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42695945/"
-      },
-      {
-        "pmid": "42695588",
-        "title": "Pre-Seasonal Treatment With Recombinant Carrier-Based Birch Vaccine Improves Birch Pollen Allergy.",
-        "pubdate": "2026 Sep 4",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42695588/"
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42698560/"
       }
     ]
   },
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": [
-      {
-        "name": "MC2-01 cream",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Hangzhou Zhongmei Huadong Pharmaceutical Co., Ltd."
-      },
-      {
-        "name": "MC2-01 vehicle",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Hangzhou Zhongmei Huadong Pharmaceutical Co., Ltd."
-      },
-      {
-        "name": "CAL/BDP Gel",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Hangzhou Zhongmei Huadong Pharmaceutical Co., Ltd."
-      },
-      {
-        "name": "Apremilast",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Amgen"
-      }
-    ]
+    "items": []
   }
 }

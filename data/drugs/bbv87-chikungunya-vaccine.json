@@ -1,0 +1,68 @@
+{
+  "drug_name": "BBV87 Chikungunya vaccine",
+  "slug": "bbv87-chikungunya-vaccine",
+  "enriched_at": "2026-09-06T11:33:45Z",
+  "source_trial_ids": [
+    "NCT07555392"
+  ],
+  "sponsors": [
+    {
+      "name": "Bharat Biotech International Limited",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Bharat%20Biotech%20International%20Limited&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2673238",
+      "generic_name": "chikungunya virus antigen, live attenuated LR2006 OPY1 strain",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2108573",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": "Biological vaccine - induces immune response"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=BBV87%20Chikungunya%20vaccine+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=BBV87%20Chikungunya%20vaccine+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=BBV87%20Chikungunya%20vaccine+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Active Immunisation for Chikungunya Virus Infection",
+    "slug": "active-immunisation-for-chikungunya-virus-infection"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07555392",
+      "title": "A Seamless Phase II/III, Observer-blind, to Evaluate Immunogenicity and Safety of Chikungunya Virus Vaccine in Healthy Subjects 12-65Years of Age.",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07555392",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}
