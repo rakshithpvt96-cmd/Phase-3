@@ -1,6 +1,48 @@
 {
-  "generated_at": "2026-09-06T12:42:16Z",
-  "new_trial_count": 0,
-  "new_trials": [],
-  "removed_trial_ids": []
+  "generated_at": "2026-09-07T13:21:34Z",
+  "new_trial_count": 1,
+  "new_trials": [
+    {
+      "nct_id": "NCT06708299",
+      "title": "CardiolRx in Recurrent Pericarditis (MAVERIC Phase-3)",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Cardiol Therapeutics Inc.",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-09-21",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Recurrent Pericarditis"
+      ],
+      "interventions": [
+        {
+          "name": "CardiolRx",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "CardiolRx"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06708299",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Cardiol Therapeutics Inc.",
+        "ticker": "CRDL",
+        "cik": "0001702123",
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001702123&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-09-07T13:21:33Z"
+      }
+    }
+  ],
+  "removed_trial_ids": [
+    "NCT06687967",
+    "NCT06687980"
+  ]
 }

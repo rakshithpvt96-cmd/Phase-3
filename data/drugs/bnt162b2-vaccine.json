@@ -1,7 +1,7 @@
 {
   "drug_name": "BNT162b2 Vaccine",
   "slug": "bnt162b2-vaccine",
-  "enriched_at": "2026-08-30T12:43:24Z",
+  "enriched_at": "2026-09-07T13:22:52Z",
   "source_trial_ids": [
     "NCT07300839"
   ],
@@ -60,6 +60,12 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42700749",
+        "title": "The platform trial in COVID-19 priming and BOOsting (PICOBOO): The reactogenicity of nine licensed COVID-19 vaccines delivered in immunocompetent adults.",
+        "pubdate": "2026 Sep 5",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42700749/"
+      },
+      {
         "pmid": "42646694",
         "title": "Phase 3 Randomized Study Investigating the Safety, Tolerability, and Immunogenicity of a Combination Modified Messenger RNA Vaccine Against Influenza and COVID-19 in Healthy Adults.",
         "pubdate": "2026 Aug 5",
@@ -82,12 +88,6 @@
         "title": "Immunogenicity, Tolerability, and Safety of BA.1-Adapted BNT162b2 Vaccine in 18- to 55-Year-Olds Previously Vaccinated with BNT162b2 or Who Were COVID-19 Vaccine-Naive.",
         "pubdate": "2026 Jul 25",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42501282/"
-      },
-      {
-        "pmid": "42480193",
-        "title": "Immunogenicity and reactogenicity of fractional vs. full booster doses of COVID-19 vaccines: A non-inferiority, randomized, double-blind, phase IV clinical trial in Pakistan.",
-        "pubdate": "2026 Aug 13",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42480193/"
       }
     ]
   },

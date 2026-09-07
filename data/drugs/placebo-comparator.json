@@ -1,7 +1,7 @@
 {
   "drug_name": "Placebo comparator",
   "slug": "placebo-comparator",
-  "enriched_at": "2026-08-30T12:51:59Z",
+  "enriched_at": "2026-09-07T13:30:20Z",
   "source_trial_ids": [
     "NCT05232279",
     "NCT06101745"
@@ -74,51 +74,40 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42668015",
-        "title": "Effects of acute and short-term grape seed extract supplementation on blood pressure responses to exercise in individuals at cardiometabolic risk: a randomised, double-blind, placebo-controlled exploratory crossover trial.",
-        "pubdate": "2026 Aug 29",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42668015/"
+        "pmid": "42702803",
+        "title": "Associations between fenofibrate use and sight-threatening diabetic retinopathy in type 2 diabetes: UK real-world evidence.",
+        "pubdate": "2026 Sep 7",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42702803/"
       },
       {
-        "pmid": "42667900",
-        "title": "Maternal vaccination with RSVpreF and risk of hypertensive disorders of pregnancy: a systematic review and meta-analysis.",
-        "pubdate": "2026 Aug 29",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42667900/"
+        "pmid": "42701874",
+        "title": "Probiotics and intestinal permeability in adults with metabolic dysfunction-associated steatohepatitis: A secondary analysis of a randomized clinical trial.",
+        "pubdate": "2026 Sep 6",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42701874/"
       },
       {
-        "pmid": "42667274",
-        "title": "Effect of Aficamten on Cardiac Structure and Function in Patients with Symptomatic Nonobstructive Hypertrophic Cardiomyopathy.",
-        "pubdate": "2026 Aug 29",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42667274/"
+        "pmid": "42698930",
+        "title": "A Comparison of Clinical Outcomes Among Undenatured Collagen Type II, Glucosamine Sulfate, and Diacerein on Osteoarthritic Knee Treatment: A Randomized Clinical Trial.",
+        "pubdate": "2026 Jul-Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42698930/"
       },
       {
-        "pmid": "42666703",
-        "title": "Impacts of M. oleifera Leaf Extract on Weight Loss, the Metabolomic Profile, and the Intestinal Microbiota in Individuals With Simple Obesity.",
+        "pmid": "42698666",
+        "title": "A multicenter, randomized, double-blind, double-simulated, positive drug parallel-controlled clinical trial to evaluate the efficacy and safety of Xiao'er Fengreqing oral liquid in the treatment of acute pharyngitis/tonsillitis in children.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42698666/"
+      },
+      {
+        "pmid": "42697856",
+        "title": "Impact of Baseline Polyneuropathy Severity on Eplontersen Efficacy in the NEURO-TTRansform Clinical Trial.",
         "pubdate": "2026 Sep",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42666703/"
-      },
-      {
-        "pmid": "42663861",
-        "title": "Safety of Icotrokinra Through 1 Year for the Treatment of Moderate-to-Severe Plaque Psoriasis and Psoriasis Affecting High-Impact Sites: Pooled Results Across the ICONIC-LEAD, ICONIC-TOTAL, and ICONIC-ADVANCE 1 and 2 Phase 3 Trials.",
-        "pubdate": "2026 Aug 28",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42663861/"
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42697856/"
       }
     ]
   },
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": [
-      {
-        "name": "DTT106",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: EMS"
-      },
-      {
-        "name": "Dutasteride-Tamsulosin",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: EMS"
-      }
-    ]
+    "items": []
   }
 }

@@ -1,7 +1,7 @@
 {
   "drug_name": "CM310",
   "slug": "cm310",
-  "enriched_at": "2026-08-30T12:44:31Z",
+  "enriched_at": "2026-09-07T13:23:44Z",
   "source_trial_ids": [
     "NCT06495229"
   ],
@@ -95,11 +95,6 @@
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
     "items": [
-      {
-        "name": "Jaktinib Hydrochloride Tablet",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Suzhou Zelgen Biopharmaceuticals Co.,Ltd"
-      },
       {
         "name": "Rocatinlimab",
         "chembl_id": null,
