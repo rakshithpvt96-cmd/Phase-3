@@ -1,7 +1,7 @@
 {
   "drug_name": "Semaglutide Injection",
   "slug": "semaglutide-injection",
-  "enriched_at": "2026-08-30T13:42:06Z",
+  "enriched_at": "2026-09-07T14:05:11Z",
   "source_trial_ids": [
     "NCT06649344"
   ],
@@ -60,6 +60,12 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42696191",
+        "title": "Oral Incretin-Based Therapies for Weight Management.",
+        "pubdate": "2026 Sep 4",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42696191/"
+      },
+      {
         "pmid": "42649514",
         "title": "Disease-modifying anti-diabetic drugs (DMADDs): bridging the SIMPLE approach to disease interception.",
         "pubdate": "2026 Aug 26",
@@ -82,12 +88,6 @@
         "title": "Effect of semaglutide on kidney outcomes in the SELECT, FLOW, and SOUL trials: a prespecified pooled analysis.",
         "pubdate": "2026 Aug 7",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42567173/"
-      },
-      {
-        "pmid": "42560457",
-        "title": "Analysis of the efficacy and safety of liraglutide, semaglutide, and tirzepatide for the treatment of overweight and obesity: a systematic review and network meta-analysis.",
-        "pubdate": "2026 Aug 6",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42560457/"
       }
     ]
   },
@@ -95,36 +95,6 @@
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
     "items": [
-      {
-        "name": "THP-00101",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: THPharm Corp."
-      },
-      {
-        "name": "THP-00102",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: THPharm Corp."
-      },
-      {
-        "name": "THP-00103",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: THPharm Corp."
-      },
-      {
-        "name": "THP-00104",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: THPharm Corp."
-      },
-      {
-        "name": "THP-00105",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: THPharm Corp."
-      },
-      {
-        "name": "THP-00106",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: THPharm Corp."
-      },
       {
         "name": "Retatrutide",
         "chembl_id": null,
@@ -134,6 +104,11 @@
         "name": "Placebo",
         "chembl_id": null,
         "reason": "same indication trial, sponsor: Eli Lilly and Company"
+      },
+      {
+        "name": "Oral semaglutide",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Novo Nordisk A/S"
       }
     ]
   }

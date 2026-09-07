@@ -1,7 +1,7 @@
 {
   "drug_name": "Placebo (Normal Saline)",
   "slug": "placebo-normal-saline",
-  "enriched_at": "2026-08-30T13:39:06Z",
+  "enriched_at": "2026-09-07T14:02:22Z",
   "source_trial_ids": [
     "NCT07655180"
   ],
@@ -21,7 +21,7 @@
     }
   },
   "mechanism": {
-    "chembl_id": "CHEMBL2108783",
+    "chembl_id": null,
     "target_chembl_id": null,
     "target_name": null,
     "mechanism_of_action_chembl": null
@@ -60,6 +60,12 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42669884",
+        "title": "Evaluation of Dyclonine Hydrochloride Mucilage for Pain Control in Plaque Control-Oriented Periodontal Therapy: A Double-Blind Randomised Clinical Trial.",
+        "pubdate": "2026 Aug 30",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42669884/"
+      },
+      {
         "pmid": "42641635",
         "title": "Safety and immunogenicity of GBS6 in pregnant women living with and without HIV and their infants in Uganda (PREPARE WP4): a double-blind, randomised, placebo-controlled, phase 2 clinical trial.",
         "pubdate": "2026 Aug 25",
@@ -82,12 +88,6 @@
         "title": "Effect of high-dose intravenous vitamin C on organ support-free days within the first 14 days in severe acute pancreatitis patients: a multicenter, randomized, double-blind, placebo-controlled clinical trial protocol.",
         "pubdate": "2026",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42625618/"
-      },
-      {
-        "pmid": "42602089",
-        "title": "The effect of esketamine on sleep disorders in parturients undergoing cesarean section under general anesthesia: a single-center, randomized, double-blind, placebo-controlled prospective study.",
-        "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42602089/"
       }
     ]
   },
