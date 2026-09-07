@@ -1,7 +1,7 @@
 {
   "drug_name": "HB1801",
   "slug": "hb1801",
-  "enriched_at": "2026-08-30T13:32:50Z",
+  "enriched_at": "2026-09-07T13:43:51Z",
   "source_trial_ids": [
     "NCT06319313"
   ],
@@ -60,7 +60,14 @@
   ],
   "prior_results": {
     "ctgov_results_urls": [],
-    "pubmed_articles": []
+    "pubmed_articles": [
+      {
+        "pmid": "42690668",
+        "title": "Neoadjuvant Anbenitamab and HB1801 in ERBB2-Positive Breast Cancer: A Phase 3 Randomized Clinical Trial.",
+        "pubdate": "2026 Sep 3",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42690668/"
+      }
+    ]
   },
   "related_drugs": {
     "method": "ctgov_same_condition",

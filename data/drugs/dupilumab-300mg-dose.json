@@ -1,7 +1,7 @@
 {
   "drug_name": "Dupilumab 300mg Dose",
   "slug": "dupilumab-300mg-dose",
-  "enriched_at": "2026-08-30T13:11:26Z",
+  "enriched_at": "2026-09-07T13:42:31Z",
   "source_trial_ids": [
     "NCT06389136"
   ],
@@ -71,11 +71,6 @@
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
     "items": [
-      {
-        "name": "Jaktinib Hydrochloride Tablet",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Suzhou Zelgen Biopharmaceuticals Co.,Ltd"
-      },
       {
         "name": "Rocatinlimab",
         "chembl_id": null,

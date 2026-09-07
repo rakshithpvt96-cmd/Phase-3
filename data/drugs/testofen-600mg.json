@@ -1,7 +1,7 @@
 {
   "drug_name": "Testofen 600mg",
   "slug": "testofen-600mg",
-  "enriched_at": "2026-08-30T13:05:22Z",
+  "enriched_at": "2026-09-07T13:35:18Z",
   "source_trial_ids": [
     "NCT05232279"
   ],
@@ -63,17 +63,6 @@
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": [
-      {
-        "name": "DTT106",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: EMS"
-      },
-      {
-        "name": "Dutasteride-Tamsulosin",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: EMS"
-      }
-    ]
+    "items": []
   }
 }
