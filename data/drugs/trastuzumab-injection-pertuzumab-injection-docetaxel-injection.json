@@ -1,0 +1,75 @@
+{
+  "drug_name": "Trastuzumab Injection；Pertuzumab Injection ； Docetaxel Injection",
+  "slug": "trastuzumab-injection-pertuzumab-injection-docetaxel-injection",
+  "enriched_at": "2026-09-09T12:13:12Z",
+  "source_trial_ids": [
+    "NCT06057610"
+  ],
+  "sponsors": [
+    {
+      "name": "Jiangsu HengRui Medicine Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Jiangsu%20HengRui%20Medicine%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2382602",
+      "generic_name": "hyaluronidase / pertuzumab / trastuzumab Injection",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2108760",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Trastuzumab%20Injection%EF%BC%9BPertuzumab%20Injection%20%EF%BC%9B%20Docetaxel%20Injection+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Trastuzumab%20Injection%EF%BC%9BPertuzumab%20Injection%20%EF%BC%9B%20Docetaxel%20Injection+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Trastuzumab%20Injection%EF%BC%9BPertuzumab%20Injection%20%EF%BC%9B%20Docetaxel%20Injection+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "HER2-PositiveRecurrent or Metastatic Breast Cancer",
+    "slug": "her2-positiverecurrent-or-metastatic-breast-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06057610",
+      "title": "A Phase III Study of SHR-A1811 Injection With or Without Pertuzumab in HER2-Positive Recurrent or Metastatic Breast Cancer",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06057610",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "35797012",
+        "title": "Response Rate and Safety of a Neoadjuvant Pertuzumab, Atezolizumab, Docetaxel, and Trastuzumab Regimen for Patients With ERBB2-Positive Stage II/III Breast Cancer: The Neo-PATH Phase 2 Nonrandomized Clinical Trial.",
+        "pubdate": "2022 Sep 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35797012/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}
