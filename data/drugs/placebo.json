@@ -1,7 +1,7 @@
 {
   "drug_name": "Placebo",
   "slug": "placebo",
-  "enriched_at": "2026-09-06T11:33:38Z",
+  "enriched_at": "2026-09-10T12:06:46Z",
   "source_trial_ids": [
     "NCT02914535",
     "NCT04023552",
@@ -15,24 +15,21 @@
     "NCT05316220",
     "NCT05330182",
     "NCT05353257",
-    "NCT05600777",
     "NCT05608291",
     "NCT05627648",
+    "NCT05636176",
     "NCT05643534",
     "NCT05797610",
     "NCT05929079",
     "NCT05983250",
     "NCT06081894",
     "NCT06104124",
-    "NCT06290128",
     "NCT06339008",
     "NCT06347003",
     "NCT06347016",
-    "NCT06407934",
     "NCT06411288",
     "NCT06440967",
     "NCT06455059",
-    "NCT06456528",
     "NCT06468956",
     "NCT06472076",
     "NCT06534723",
@@ -42,8 +39,6 @@
     "NCT06660394",
     "NCT06664619",
     "NCT06669754",
-    "NCT06687967",
-    "NCT06687980",
     "NCT06762548",
     "NCT06775379",
     "NCT06777238",
@@ -124,12 +119,6 @@
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Avidity%20Biosciences%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
-      "name": "Bellus Health Inc. - a GSK company",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Bellus%20Health%20Inc.%20-%20a%20GSK%20company&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Bharat Biotech International Limited",
@@ -300,6 +289,12 @@
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Novartis%20Pharmaceuticals&type=10-K&dateb=&owner=include&count=40"
     },
     {
+      "name": "Novo Nordisk A/S",
+      "ticker": "NVO",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000353278&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
       "name": "Pharvaris Netherlands B.V.",
       "ticker": null,
       "market_cap_display": null,
@@ -322,12 +317,6 @@
       "ticker": "REGN",
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000872589&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
-      "name": "Sanofi",
-      "ticker": "SNY",
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001121404&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Shanghai Henlius Biotech",
@@ -409,8 +398,8 @@
     }
   },
   "condition": {
-    "raw": "Lichen Simplex Chronicus",
-    "slug": "lichen-simplex-chronicus"
+    "raw": "Severe Hypertriglyceridemia",
+    "slug": "severe-hypertriglyceridemia"
   },
   "source_trials": [
     {
@@ -430,7 +419,7 @@
     {
       "nct_id": "NCT04036435",
       "title": "Long-Term Study That Measures the Safety and Efficacy of Deucravacitinib (BMS-986165) in Participants With Psoriasis",
-      "status": "ACTIVE_NOT_RECRUITING",
+      "status": "COMPLETED",
       "url": "https://clinicaltrials.gov/study/NCT04036435",
       "has_results": false
     },
@@ -498,13 +487,6 @@
       "has_results": false
     },
     {
-      "nct_id": "NCT05600777",
-      "title": "A 24-Week Study of the Efficacy and Safety of BLU-5937 in Adults With Refractory Chronic Cough",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT05600777",
-      "has_results": false
-    },
-    {
       "nct_id": "NCT05608291",
       "title": "A Trial to See if the Combination of Fianlimab With Cemiplimab Works Better Than Pembrolizumab for Preventing or Delaying Melanoma From Coming Back After it Has Been Removed With Surgery",
       "status": "ACTIVE_NOT_RECRUITING",
@@ -516,6 +498,13 @@
       "title": "Phase 3 Study of KP-100LI in Subjects With Vocal Fold Scar",
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT05627648",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT05636176",
+      "title": "A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With Heart Failure and Inflammation",
+      "status": "TERMINATED",
+      "url": "https://clinicaltrials.gov/study/NCT05636176",
       "has_results": false
     },
     {
@@ -561,13 +550,6 @@
       "has_results": false
     },
     {
-      "nct_id": "NCT06290128",
-      "title": "A Study to Test the Effects and Safety of Riliprubart in People With Chronic Inflammatory Demyelinating Polyneuropathy (CIDP) for Which the Usual Treatments do Not Work",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06290128",
-      "has_results": false
-    },
-    {
       "nct_id": "NCT06339008",
       "title": "A Study of Lebrikizumab in Adult Participants With Perennial Allergic Rhinitis (PREPARED-1)",
       "status": "ACTIVE_NOT_RECRUITING",
@@ -589,13 +571,6 @@
       "has_results": false
     },
     {
-      "nct_id": "NCT06407934",
-      "title": "A Study to Evaluate the Treatment Response and Safety of Two Dose Regimens of Subcutaneous Amlitelimab Compared With Treatment Withdrawal in Participants Aged 12 Years and Older With Moderate-to-severe Atopic Dermatitis",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06407934",
-      "has_results": false
-    },
-    {
       "nct_id": "NCT06411288",
       "title": "Global Study of Del-desiran for the Treatment of DM1",
       "status": "COMPLETED",
@@ -614,13 +589,6 @@
       "title": "Interventional Study of Vosoritide for the Treatment of Children With Hypochondroplasia",
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT06455059",
-      "has_results": false
-    },
-    {
-      "nct_id": "NCT06456528",
-      "title": "QL0911 for the Treatment of Cancer Treatment-Induced Thrombocytopenia",
-      "status": "RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06456528",
       "has_results": false
     },
     {
@@ -684,20 +652,6 @@
       "title": "Study of Oral Deucrictibant Extended-Release Tablet for Prophylaxis Against Angioedema Attacks in Adolescents and Adults With HAE",
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT06669754",
-      "has_results": false
-    },
-    {
-      "nct_id": "NCT06687967",
-      "title": "A Study to Investigate Improvement in Pruritus of Lichen Simplex Chronicus With Dupilumab Injections Compared With Placebo in Male and Female Participants Aged at Least 18 Years (STYLE 1)",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06687967",
-      "has_results": false
-    },
-    {
-      "nct_id": "NCT06687980",
-      "title": "A Study to Investigate Improvement in Pruritus of Lichen Simplex Chronicus With Dupilumab Injections Compared With Placebo in Male and Female Participants Aged at Least 18 Years (STYLE 2)",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06687980",
       "has_results": false
     },
     {
@@ -838,34 +792,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42700411",
-        "title": "Efficacy and Safety of Luseogliflozin (TS-071) in Japanese Children and Adolescents with Type 2 Diabetes Mellitus: A Multicenter, Randomized, Double-masked, Placebo-controlled Phase 3 Study.",
-        "pubdate": "2026 Sep 5",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42700411/"
+        "pmid": "42717393",
+        "title": "Rademikibart for Asthma With Type 2 Biomarkers: Exploratory Subgroup Analyses From a Phase 2b Randomized Clinical Trial.",
+        "pubdate": "2026 Sep 9",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42717393/"
       },
       {
-        "pmid": "42699772",
-        "title": "A phase III clinical trial of PXT3003 in Chinese patients with Charcot-Marie-Tooth disease type 1A.",
-        "pubdate": "2026 Sep 18",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42699772/"
+        "pmid": "42717263",
+        "title": "Proof-of-concept trial of PP-01 for mitigating cannabis withdrawal syndrome in participants with cannabis use disorder.",
+        "pubdate": "2026 Sep 9",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42717263/"
       },
       {
-        "pmid": "42698930",
-        "title": "A Comparison of Clinical Outcomes Among Undenatured Collagen Type II, Glucosamine Sulfate, and Diacerein on Osteoarthritic Knee Treatment: A Randomized Clinical Trial.",
-        "pubdate": "2026 Jul-Sep",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42698930/"
+        "pmid": "42716513",
+        "title": "Efficacy and Predictors of Response to Biologic Therapy and Endoscopic Sinus Surgery in Patients With Nasal Polyps: A Systematic Review.",
+        "pubdate": "2026 Sep 9",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42716513/"
       },
       {
-        "pmid": "42698666",
-        "title": "A multicenter, randomized, double-blind, double-simulated, positive drug parallel-controlled clinical trial to evaluate the efficacy and safety of Xiao'er Fengreqing oral liquid in the treatment of acute pharyngitis/tonsillitis in children.",
-        "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42698666/"
+        "pmid": "42716471",
+        "title": "25-Hydroxyvitamin D(3) Bioenriched Chicken and Eggs Maintained Vitamin D Status Over the Winter in Healthy Adult Males and Females: A Randomized Controlled Trial.",
+        "pubdate": "2026 Sep 9",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42716471/"
       },
       {
-        "pmid": "42698560",
-        "title": "Astragalus membranaceus therapy in patients with spinocerebellar ataxia type 3.",
-        "pubdate": "2026 Sep",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42698560/"
+        "pmid": "42716074",
+        "title": "Perioperative durvalumab plus fluorouracil, leucovorin, oxaliplatin, and docetaxel for resectable gastric and gastro-oesophageal junction adenocarcinoma (MATTERHORN): final results of overall survival and event-free survival by pathological response in a global, randomised, double-blind, placebo-controlled, multicentre, phase 3 trial.",
+        "pubdate": "2026 Sep 9",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42716074/"
       }
     ]
   },
