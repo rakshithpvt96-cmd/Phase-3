@@ -1,7 +1,7 @@
 {
   "drug_name": "CAL/BDP Gel",
   "slug": "cal-bdp-gel",
-  "enriched_at": "2026-09-05T11:11:24Z",
+  "enriched_at": "2026-09-12T11:32:42Z",
   "source_trial_ids": [
     "NCT07357831"
   ],
@@ -95,26 +95,6 @@
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
     "items": [
-      {
-        "name": "Picankibart",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Innovent Biopharmaceutical Technology (Hangzhou) Co., LTD."
-      },
-      {
-        "name": "Secukinumab",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Innovent Biopharmaceutical Technology (Hangzhou) Co., LTD."
-      },
-      {
-        "name": "Placebo",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Innovent Biopharmaceutical Technology (Hangzhou) Co., LTD."
-      },
-      {
-        "name": "Ixekizumab",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Innovent Biopharmaceutical Technology (Hangzhou) Co., LTD."
-      },
       {
         "name": "Apremilast",
         "chembl_id": null,

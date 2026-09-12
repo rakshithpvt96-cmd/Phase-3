@@ -1,7 +1,7 @@
 {
   "drug_name": "MC2-01 vehicle",
   "slug": "mc2-01-vehicle",
-  "enriched_at": "2026-09-05T11:12:15Z",
+  "enriched_at": "2026-09-12T11:33:56Z",
   "source_trial_ids": [
     "NCT07357831"
   ],
@@ -60,6 +60,18 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42718650",
+        "title": "Innovative herbal oil formulation as a pre-prosthetic mucosal conditioner: a prospective controlled cytological study on the degree of keratinization in edentulous ridge mucosa before and after Its topical application.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42718650/"
+      },
+      {
+        "pmid": "42704415",
+        "title": "Selecting Vehicle Comparators in Dry Eye Disease Clinical Trials: Implications for Efficacy and Safety Assessment and Regulatory Outcomes.",
+        "pubdate": "2026 Sep 7",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42704415/"
+      },
+      {
         "pmid": "42653799",
         "title": "Clascoterone in the Treatment of Acne Vulgaris: A Narrative Review.",
         "pubdate": "2026 Aug 18",
@@ -76,18 +88,6 @@
         "title": "Water-Free Cyclosporine 0.1% in Dry Eye Disease: Formulation Rationale, Clinical Evidence, and Unresolved Questions.",
         "pubdate": "2026",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42614794/"
-      },
-      {
-        "pmid": "42609889",
-        "title": "Safety and Efficacy of the First Mobile Intelligent Hemodialysis Platform in Mainland China: Protocol for a Single-Center Prospective Exploratory Study in Maintenance Hemodialysis Patients.",
-        "pubdate": "2026 Jan-Dec",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42609889/"
-      },
-      {
-        "pmid": "42551191",
-        "title": "A mouse PDX clinical trial reveals broad efficacy of niraparib and vc-seco-DUBA anti-HER2 ADC SYD985 in HER2/neu expressing endometrial cancer.",
-        "pubdate": "2026 Sep",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42551191/"
       }
     ]
   },
@@ -95,26 +95,6 @@
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
     "items": [
-      {
-        "name": "Picankibart",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Innovent Biopharmaceutical Technology (Hangzhou) Co., LTD."
-      },
-      {
-        "name": "Secukinumab",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Innovent Biopharmaceutical Technology (Hangzhou) Co., LTD."
-      },
-      {
-        "name": "Placebo",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Innovent Biopharmaceutical Technology (Hangzhou) Co., LTD."
-      },
-      {
-        "name": "Ixekizumab",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Innovent Biopharmaceutical Technology (Hangzhou) Co., LTD."
-      },
       {
         "name": "Apremilast",
         "chembl_id": null,
