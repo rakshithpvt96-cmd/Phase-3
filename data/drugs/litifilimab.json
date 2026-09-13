@@ -1,0 +1,93 @@
+{
+  "drug_name": "Litifilimab",
+  "slug": "litifilimab",
+  "enriched_at": "2026-09-13T12:36:28Z",
+  "source_trial_ids": [
+    "NCT04961567"
+  ],
+  "sponsors": [
+    {
+      "name": "Biogen",
+      "ticker": "BIIB",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000875045&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2686502",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL3833308",
+    "target_chembl_id": "CHEMBL2176855",
+    "target_name": "C-type lectin domain family 4 member C",
+    "mechanism_of_action_chembl": "C-type lectin domain family 4 member C inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Litifilimab+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Litifilimab+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Litifilimab+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Lupus Erythematosus, Systemic",
+    "slug": "lupus-erythematosus-systemic"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04961567",
+      "title": "A Study to Learn About the Safety of Litifilimab (BIIB059) Injections and Whether They Can Improve Symptoms of Adult Participants Who Have Systemic Lupus Erythematosus",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04961567",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "41890817",
+        "title": "Therapeutic Approaches for Cutaneous Lupus Erythematosus: a Changing Landscape of Clinical Trials.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41890817/"
+      },
+      {
+        "pmid": "40364448",
+        "title": "An Integrative Mechanistic Model of Type 1 IFN-Mediated Inflammation in Systemic Lupus Erythematosus.",
+        "pubdate": "2025 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40364448/"
+      },
+      {
+        "pmid": "40047795",
+        "title": "A focused report on IFN-1 targeted therapies for lupus erythematosus.",
+        "pubdate": "2025 Mar",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40047795/"
+      },
+      {
+        "pmid": "37148249",
+        "title": "Litifilimab (BIIB059), a promising investigational drug for cutaneous lupus erythematosus.",
+        "pubdate": "2023 May",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37148249/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

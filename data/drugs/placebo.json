@@ -1,7 +1,7 @@
 {
   "drug_name": "Placebo",
   "slug": "placebo",
-  "enriched_at": "2026-09-10T12:06:46Z",
+  "enriched_at": "2026-09-13T12:36:35Z",
   "source_trial_ids": [
     "NCT02914535",
     "NCT04023552",
@@ -9,6 +9,7 @@
     "NCT04336722",
     "NCT04652882",
     "NCT04768972",
+    "NCT04961567",
     "NCT04965675",
     "NCT05018585",
     "NCT05164341",
@@ -25,7 +26,6 @@
     "NCT06081894",
     "NCT06104124",
     "NCT06339008",
-    "NCT06347003",
     "NCT06347016",
     "NCT06411288",
     "NCT06440967",
@@ -137,6 +137,12 @@
       "ticker": "BNTX",
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001776985&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Biogen",
+      "ticker": "BIIB",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000875045&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Bristol-Myers Squibb",
@@ -398,8 +404,8 @@
     }
   },
   "condition": {
-    "raw": "Severe Hypertriglyceridemia",
-    "slug": "severe-hypertriglyceridemia"
+    "raw": "Obesity",
+    "slug": "obesity"
   },
   "source_trials": [
     {
@@ -442,6 +448,13 @@
       "title": "FUSION: A Study to Evaluate the Efficacy, Safety, Pharmacokinetics and Pharmacodynamics of ION363 in Amyotrophic Lateral Sclerosis Participants With Fused in Sarcoma Mutations (FUS-ALS)",
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT04768972",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT04961567",
+      "title": "A Study to Learn About the Safety of Litifilimab (BIIB059) Injections and Whether They Can Improve Symptoms of Adult Participants Who Have Systemic Lupus Erythematosus",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04961567",
       "has_results": false
     },
     {
@@ -554,13 +567,6 @@
       "title": "A Study of Lebrikizumab in Adult Participants With Perennial Allergic Rhinitis (PREPARED-1)",
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT06339008",
-      "has_results": false
-    },
-    {
-      "nct_id": "NCT06347003",
-      "title": "Study of Plozasiran (ARO-APOC3) in Adults With Severe Hypertriglyceridemia",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06347003",
       "has_results": false
     },
     {
@@ -792,40 +798,61 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42717393",
-        "title": "Rademikibart for Asthma With Type 2 Biomarkers: Exploratory Subgroup Analyses From a Phase 2b Randomized Clinical Trial.",
-        "pubdate": "2026 Sep 9",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42717393/"
+        "pmid": "42732426",
+        "title": "Magnesium Sulfate as an Analgesic and Sedative-sparing Agent in Patients under Mechanical Ventilation: A Randomized, Double Blind Clinical Trial.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42732426/"
       },
       {
-        "pmid": "42717263",
-        "title": "Proof-of-concept trial of PP-01 for mitigating cannabis withdrawal syndrome in participants with cannabis use disorder.",
-        "pubdate": "2026 Sep 9",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42717263/"
+        "pmid": "42732417",
+        "title": "Efficacy of an Oral Melatonin Suspension in Idiopathic Nocturnal Irritability among Infants Older than 6 Months: A Randomized, Single-blind, Quasi-experimental Trial.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42732417/"
       },
       {
-        "pmid": "42716513",
-        "title": "Efficacy and Predictors of Response to Biologic Therapy and Endoscopic Sinus Surgery in Patients With Nasal Polyps: A Systematic Review.",
-        "pubdate": "2026 Sep 9",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42716513/"
+        "pmid": "42732334",
+        "title": "The Effect of Supplementation with Saccharomyces boulardii in Women with Polycystic Ovary Syndrome: A Double-blind, Randomized Controlled Trial.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42732334/"
       },
       {
-        "pmid": "42716471",
-        "title": "25-Hydroxyvitamin D(3) Bioenriched Chicken and Eggs Maintained Vitamin D Status Over the Winter in Healthy Adult Males and Females: A Randomized Controlled Trial.",
-        "pubdate": "2026 Sep 9",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42716471/"
+        "pmid": "42731845",
+        "title": "Efficacy and safety of mycophenolate mofetil in preventing relapse of IgG4-related disease with re-elevation of serum IgG4 level during maintenance therapy: a protocol for a multicentre, randomised, double-blind, placebo-controlled study in China.",
+        "pubdate": "2026 Sep 11",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42731845/"
       },
       {
-        "pmid": "42716074",
-        "title": "Perioperative durvalumab plus fluorouracil, leucovorin, oxaliplatin, and docetaxel for resectable gastric and gastro-oesophageal junction adenocarcinoma (MATTERHORN): final results of overall survival and event-free survival by pathological response in a global, randomised, double-blind, placebo-controlled, multicentre, phase 3 trial.",
-        "pubdate": "2026 Sep 9",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42716074/"
+        "pmid": "42731828",
+        "title": "Antibiotic-impregnated bone graft to prevent infection after total hip arthroplasty (ABOGRAFT): protocol for a randomised, double-blind, placebo-controlled trial.",
+        "pubdate": "2026 Sep 11",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42731828/"
       }
     ]
   },
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": []
+    "items": [
+      {
+        "name": "Retatrutide",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Eli Lilly and Company"
+      },
+      {
+        "name": "TQF3510 (Semaglutide Injection)",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Chia Tai Tianqing Pharmaceutical Group Co., Ltd."
+      },
+      {
+        "name": "Wegovy®",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Chia Tai Tianqing Pharmaceutical Group Co., Ltd."
+      },
+      {
+        "name": "IBI362",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Innovent Biologics (Suzhou) Co. Ltd."
+      }
+    ]
   }
 }
