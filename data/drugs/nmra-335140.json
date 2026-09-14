@@ -1,0 +1,121 @@
+{
+  "drug_name": "NMRA-335140",
+  "slug": "nmra-335140",
+  "enriched_at": "2026-09-14T14:28:36Z",
+  "source_trial_ids": [
+    "NCT06029439"
+  ],
+  "sponsors": [
+    {
+      "name": "Neumora Therapeutics, Inc.",
+      "ticker": "NMRA",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001885522&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 137434175,
+    "iupac_name": "1-[6-ethyl-8-fluoro-4-methyl-3-(3-methyl-1,2,4-oxadiazol-5-yl)quinolin-2-yl]-N-(oxan-4-yl)piperidin-4-amine",
+    "molecular_formula": "C25H32FN5O2",
+    "molecular_weight": "453.6",
+    "canonical_smiles": null,
+    "inchikey": "CQOJHAJWCDJEAT-UHFFFAOYSA-N",
+    "rxnorm": null
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4592045",
+    "target_chembl_id": "CHEMBL237",
+    "target_name": "Kappa-type opioid receptor",
+    "mechanism_of_action_chembl": "Kappa opioid receptor antagonist"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=NMRA-335140+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=NMRA-335140+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=NMRA-335140+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Major Depressive Disorder",
+    "slug": "major-depressive-disorder"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06029439",
+      "title": "Study to Assess the Safety and Effectiveness of NMRA-335140-501",
+      "status": "TERMINATED",
+      "url": "https://clinicaltrials.gov/study/NCT06029439",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "DEZOCINE",
+        "chembl_id": "CHEMBL1685",
+        "reason": "same target: Kappa-type opioid receptor"
+      },
+      {
+        "name": "ANILERIDINE PHOSPHATE",
+        "chembl_id": "CHEMBL1200543",
+        "reason": "same target: Kappa-type opioid receptor"
+      },
+      {
+        "name": "ANILERIDINE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1201047",
+        "reason": "same target: Kappa-type opioid receptor"
+      },
+      {
+        "name": "BUPRENORPHINE",
+        "chembl_id": "CHEMBL511142",
+        "reason": "same target: Kappa-type opioid receptor"
+      },
+      {
+        "name": "BUPRENORPHINE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL2368861",
+        "reason": "same target: Kappa-type opioid receptor"
+      },
+      {
+        "name": "BUTORPHANOL TARTRATE",
+        "chembl_id": "CHEMBL299400",
+        "reason": "same target: Kappa-type opioid receptor"
+      },
+      {
+        "name": "LEVALLORPHAN TARTRATE",
+        "chembl_id": "CHEMBL2062276",
+        "reason": "same target: Kappa-type opioid receptor"
+      },
+      {
+        "name": "AXOMADOL",
+        "chembl_id": "CHEMBL3989680",
+        "reason": "same target: Kappa-type opioid receptor"
+      },
+      {
+        "name": "NALFURAFINE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL490665",
+        "reason": "same target: Kappa-type opioid receptor"
+      },
+      {
+        "name": "ATICAPRANT",
+        "chembl_id": "CHEMBL1921847",
+        "reason": "same target: Kappa-type opioid receptor"
+      }
+    ]
+  }
+}

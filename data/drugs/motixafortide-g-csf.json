@@ -1,0 +1,111 @@
+{
+  "drug_name": "Motixafortide+G-CSF",
+  "slug": "motixafortide-g-csf",
+  "enriched_at": "2026-09-14T14:27:43Z",
+  "source_trial_ids": [
+    "NCT06514508"
+  ],
+  "sponsors": [
+    {
+      "name": "Guangzhou Gloria Biosciences Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Guangzhou%20Gloria%20Biosciences%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "40112",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL5095030",
+    "target_chembl_id": "CHEMBL2107",
+    "target_name": "C-X-C chemokine receptor type 4",
+    "mechanism_of_action_chembl": "C-X-C chemokine receptor type 4 antagonist"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Motixafortide%2BG-CSF+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Motixafortide%2BG-CSF+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Motixafortide%2BG-CSF+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Multiple Myeloma",
+    "slug": "multiple-myeloma"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06514508",
+      "title": "Mobilization of Stem Cells With Motixafortide (BL-8040) in Combination With G-CSF in Multiple Myeloma Patients",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06514508",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "37069359",
+        "title": "Motixafortide and G-CSF to mobilize hematopoietic stem cells for autologous transplantation in multiple myeloma: a randomized phase 3 trial.",
+        "pubdate": "2023 Apr",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37069359/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "PLERIXAFOR",
+        "chembl_id": "CHEMBL18442",
+        "reason": "same target: C-X-C chemokine receptor type 4"
+      },
+      {
+        "name": "MSX-122",
+        "chembl_id": "CHEMBL3545330",
+        "reason": "same target: C-X-C chemokine receptor type 4"
+      },
+      {
+        "name": "BURIXAFOR",
+        "chembl_id": "CHEMBL3545224",
+        "reason": "same target: C-X-C chemokine receptor type 4"
+      },
+      {
+        "name": "BALIXAFORTIDE",
+        "chembl_id": "CHEMBL4802129",
+        "reason": "same target: C-X-C chemokine receptor type 4"
+      },
+      {
+        "name": "CTCE-9908",
+        "chembl_id": "CHEMBL3544949",
+        "reason": "same target: C-X-C chemokine receptor type 4"
+      },
+      {
+        "name": "ULOCUPLUMAB",
+        "chembl_id": "CHEMBL3039543",
+        "reason": "same target: C-X-C chemokine receptor type 4"
+      },
+      {
+        "name": "MAVORIXAFOR",
+        "chembl_id": "CHEMBL518924",
+        "reason": "same target: C-X-C chemokine receptor type 4"
+      }
+    ]
+  }
+}

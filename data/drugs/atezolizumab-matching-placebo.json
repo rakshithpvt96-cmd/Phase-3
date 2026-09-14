@@ -1,0 +1,126 @@
+{
+  "drug_name": "Atezolizumab Matching Placebo",
+  "slug": "atezolizumab-matching-placebo",
+  "enriched_at": "2026-09-14T14:20:08Z",
+  "source_trial_ids": [
+    "NCT04543617"
+  ],
+  "sponsors": [
+    {
+      "name": "Hoffmann-La Roche",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hoffmann-La%20Roche&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1792776",
+      "generic_name": "atezolizumab",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL3707227",
+    "target_chembl_id": "CHEMBL3580522",
+    "target_name": "Programmed cell death 1 ligand 1",
+    "mechanism_of_action_chembl": "Programmed cell death 1 ligand 1 inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Atezolizumab%20Matching%20Placebo+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Atezolizumab%20Matching%20Placebo+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Atezolizumab%20Matching%20Placebo+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Esophageal Squamous Cell Carcinoma",
+    "slug": "esophageal-squamous-cell-carcinoma"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04543617",
+      "title": "A Study of Atezolizumab With or Without Tiragolumab in Participants With Unresectable Esophageal Squamous Cell Carcinoma Whose Cancers Have Not Progressed Following Definitive Concurrent Chemoradiotherapy",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT04543617",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "31786121",
+        "title": "Atezolizumab plus nab-paclitaxel as first-line treatment for unresectable, locally advanced or metastatic triple-negative breast cancer (IMpassion130): updated efficacy results from a randomised, double-blind, placebo-controlled, phase 3 trial.",
+        "pubdate": "2020 Jan",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31786121/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "DURVALUMAB",
+        "chembl_id": "CHEMBL3301587",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      },
+      {
+        "name": "AVELUMAB",
+        "chembl_id": "CHEMBL3833373",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      },
+      {
+        "name": "SUGEMALIMAB",
+        "chembl_id": "CHEMBL4594535",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      },
+      {
+        "name": "BINTRAFUSP ALFA",
+        "chembl_id": "CHEMBL4298024",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      },
+      {
+        "name": "ENVAFOLIMAB",
+        "chembl_id": "CHEMBL4298006",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      },
+      {
+        "name": "PACMILIMAB",
+        "chembl_id": "CHEMBL4297563",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      },
+      {
+        "name": "ERFONRILIMAB",
+        "chembl_id": "CHEMBL4650483",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      },
+      {
+        "name": "SOCAZOLIMAB",
+        "chembl_id": "CHEMBL4802221",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      },
+      {
+        "name": "ADEBRELIMAB",
+        "chembl_id": "CHEMBL4297828",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      },
+      {
+        "name": "COSIBELIMAB",
+        "chembl_id": "CHEMBL4297729",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      }
+    ]
+  }
+}
