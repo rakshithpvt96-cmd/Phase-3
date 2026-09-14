@@ -1,7 +1,7 @@
 {
   "drug_name": "DT120",
   "slug": "dt120",
-  "enriched_at": "2026-09-07T13:24:45Z",
+  "enriched_at": "2026-09-14T13:47:33Z",
   "source_trial_ids": [
     "NCT06741228",
     "NCT06809595"
@@ -15,6 +15,12 @@
     }
   ],
   "identity": {
+    "pubchem_cid": 208570,
+    "iupac_name": "(6aR,9R)-N,N-diethyl-7-methyl-6,6a,8,9-tetrahydro-4H-indolo[4,3-fg]quinoline-9-carboxamide;(2S,3S)-2,3-dihydroxybutanedioic acid",
+    "molecular_formula": "C24H31N3O7",
+    "molecular_weight": "473.5",
+    "canonical_smiles": null,
+    "inchikey": "HQMPRARIZOUKRO-JDQBHMBOSA-N",
     "rxnorm": null
   },
   "mechanism": {

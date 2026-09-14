@@ -1,27 +1,27 @@
 {
-  "drug_name": "GLM101 (Part B, Open-label)",
-  "slug": "glm101-part-b-open-label",
-  "enriched_at": "2026-09-14T13:48:31Z",
+  "drug_name": "OCU410ST",
+  "slug": "ocu410st",
+  "enriched_at": "2026-09-14T13:52:42Z",
   "source_trial_ids": [
-    "NCT06892288"
+    "NCT05956626"
   ],
   "sponsors": [
     {
-      "name": "Glycomine, Inc.",
-      "ticker": null,
+      "name": "Ocugen",
+      "ticker": "OCGN",
       "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Glycomine%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001372299&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
     "rxnorm": {
-      "rxcui": "1438182",
+      "rxcui": "2722702",
       "generic_name": null,
       "brand_names": []
     }
   },
   "mechanism": {
-    "chembl_id": "CHEMBL5095427",
+    "chembl_id": null,
     "target_chembl_id": null,
     "target_name": null,
     "mechanism_of_action_chembl": null
@@ -38,21 +38,21 @@
     "dailymed_url": null,
     "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
     "further_reading": {
-      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=GLM101%20%28Part%20B%2C%20Open-label%29+mechanism+of+action",
-      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=GLM101%20%28Part%20B%2C%20Open-label%29+pharmacokinetics",
-      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=GLM101%20%28Part%20B%2C%20Open-label%29+efficacy+phase+3"
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=OCU410ST+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=OCU410ST+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=OCU410ST+efficacy+phase+3"
     }
   },
   "condition": {
-    "raw": "Phosphomannomutase 2 Deficiency",
-    "slug": "phosphomannomutase-2-deficiency"
+    "raw": "Stargardt Disease",
+    "slug": "stargardt-disease"
   },
   "source_trials": [
     {
-      "nct_id": "NCT06892288",
-      "title": "A Study to Assess the Efficacy and Safety of Weekly Doses of GLM101 in Participants With PMM2-CDG",
+      "nct_id": "NCT05956626",
+      "title": "A Phase 2/3 Trial to Assess the Efficacy and Safety of OCU410ST for Stargardt Disease",
       "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06892288",
+      "url": "https://clinicaltrials.gov/study/NCT05956626",
       "has_results": false
     }
   ],

@@ -1,6 +1,267 @@
 {
-  "generated_at": "2026-09-13T13:42:48Z",
-  "new_trial_count": 0,
-  "new_trials": [],
-  "removed_trial_ids": []
+  "generated_at": "2026-09-14T13:44:37Z",
+  "new_trial_count": 6,
+  "new_trials": [
+    {
+      "nct_id": "NCT06649045",
+      "title": "A Master Protocol for Orforglipron in Participants With Obstructive Sleep Apnea and Obesity or Overweight",
+      "status": "COMPLETED",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Eli Lilly and Company",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-07-21",
+      "primary_completion_date_type": "ACTUAL",
+      "window": "lookback",
+      "conditions": [
+        "OSA",
+        "Overweight or Obesity"
+      ],
+      "interventions": [
+        {
+          "name": "Orforglipron",
+          "type": "DRUG"
+        },
+        {
+          "name": "Placebo",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "Orforglipron",
+        "Placebo"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06649045",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Eli Lilly and Company",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Eli%20Lilly%20and%20Company&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-09-13T12:47:30Z"
+      }
+    },
+    {
+      "nct_id": "NCT04543617",
+      "title": "A Study of Atezolizumab With or Without Tiragolumab in Participants With Unresectable Esophageal Squamous Cell Carcinoma Whose Cancers Have Not Progressed Following Definitive Concurrent Chemoradiotherapy",
+      "status": "COMPLETED",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Hoffmann-La Roche",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-07-22",
+      "primary_completion_date_type": "ACTUAL",
+      "window": "lookback",
+      "conditions": [
+        "Esophageal Squamous Cell Carcinoma"
+      ],
+      "interventions": [
+        {
+          "name": "Tiragolumab",
+          "type": "DRUG"
+        },
+        {
+          "name": "Atezolizumab",
+          "type": "DRUG"
+        },
+        {
+          "name": "Tiragolumab Matching Placebo",
+          "type": "DRUG"
+        },
+        {
+          "name": "Atezolizumab Matching Placebo",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "Tiragolumab",
+        "Atezolizumab",
+        "Tiragolumab Matching Placebo",
+        "Atezolizumab Matching Placebo"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT04543617",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Hoffmann-La Roche",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hoffmann-La%20Roche&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-09-13T12:47:33Z"
+      }
+    },
+    {
+      "nct_id": "NCT06029439",
+      "title": "Study to Assess the Safety and Effectiveness of NMRA-335140-501",
+      "status": "TERMINATED",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Neumora Therapeutics, Inc.",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-08-17",
+      "primary_completion_date_type": "ACTUAL",
+      "window": "lookback",
+      "conditions": [
+        "Major Depressive Disorder"
+      ],
+      "interventions": [
+        {
+          "name": "NMRA-335140",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "NMRA-335140"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06029439",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Neumora Therapeutics, Inc.",
+        "ticker": "NMRA",
+        "cik": "0001885522",
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001885522&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-09-14T13:44:35Z"
+      }
+    },
+    {
+      "nct_id": "NCT06514508",
+      "title": "Mobilization of Stem Cells With Motixafortide (BL-8040) in Combination With G-CSF in Multiple Myeloma Patients",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Guangzhou Gloria Biosciences Co., Ltd.",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-09-11",
+      "primary_completion_date_type": "ACTUAL",
+      "window": "lookback",
+      "conditions": [
+        "Multiple Myeloma"
+      ],
+      "interventions": [
+        {
+          "name": "Motixafortide+G-CSF",
+          "type": "DRUG"
+        },
+        {
+          "name": "Placebo+G-CSF",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "Motixafortide+G-CSF",
+        "Placebo+G-CSF"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06514508",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Guangzhou Gloria Biosciences Co., Ltd.",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Guangzhou%20Gloria%20Biosciences%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-09-14T13:44:34Z"
+      }
+    },
+    {
+      "nct_id": "NCT05956626",
+      "title": "A Phase 2/3 Trial to Assess the Efficacy and Safety of OCU410ST for Stargardt Disease",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE2",
+        "PHASE3"
+      ],
+      "sponsor": "Ocugen",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-09-28",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Stargardt Disease"
+      ],
+      "interventions": [
+        {
+          "name": "OCU410ST",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "OCU410ST"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT05956626",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Ocugen",
+        "ticker": "OCGN",
+        "cik": "0001372299",
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001372299&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-09-14T13:44:36Z"
+      }
+    },
+    {
+      "nct_id": "NCT06768671",
+      "title": "An Open-label, Single-arm Study to Evaluate Pharmacokinetics and Safety of Subcutaneous Sonelokimab in Adolescents With Moderate to Severe Hidradenitis Suppurativa (VELA-TEEN)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "MoonLake Immunotherapeutics AG",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-09-28",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Hidradenitis Suppurativa"
+      ],
+      "interventions": [
+        {
+          "name": "Sonelokimab",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "Sonelokimab"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06768671",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "MoonLake Immunotherapeutics AG",
+        "ticker": "MLTX",
+        "cik": "0001821586",
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001821586&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-09-14T13:44:34Z"
+      }
+    }
+  ],
+  "removed_trial_ids": [
+    "NCT05298423",
+    "NCT06211023",
+    "NCT06548360",
+    "NCT06893016"
+  ]
 }

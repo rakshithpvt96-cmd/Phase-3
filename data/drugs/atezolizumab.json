@@ -1,14 +1,24 @@
 {
   "drug_name": "Atezolizumab",
   "slug": "atezolizumab",
-  "enriched_at": "2026-08-15T20:52:56Z",
+  "enriched_at": "2026-09-14T13:44:51Z",
   "source_trial_ids": [
-    "NCT04770896",
+    "NCT04543617",
     "NCT05425940"
   ],
   "sponsors": [
-    "Exelixis",
-    "Hoffmann-La Roche"
+    {
+      "name": "Exelixis",
+      "ticker": "EXEL",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000939767&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Hoffmann-La Roche",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hoffmann-La%20Roche&type=10-K&dateb=&owner=include&count=40"
+    }
   ],
   "identity": {
     "rxnorm": {
@@ -46,10 +56,10 @@
   },
   "source_trials": [
     {
-      "nct_id": "NCT04770896",
-      "title": "A Study of Atezolizumab With Lenvatinib or Sorafenib Versus Lenvatinib or Sorafenib Alone in Hepatocellular Carcinoma Previously Treated With Atezolizumab and Bevacizumab",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT04770896",
+      "nct_id": "NCT04543617",
+      "title": "A Study of Atezolizumab With or Without Tiragolumab in Participants With Unresectable Esophageal Squamous Cell Carcinoma Whose Cancers Have Not Progressed Following Definitive Concurrent Chemoradiotherapy",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT04543617",
       "has_results": false
     },
     {
@@ -64,34 +74,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42596020",
-        "title": "AI-assisted ascites volumetry for prognostic stratification in HCC treated with Atezolizumab/Bevacizumab.",
-        "pubdate": "2026 Aug 11",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42596020/"
+        "pmid": "42723827",
+        "title": "Neo-DIANA: descriptive results of a prematurely terminated phase II trial of neoadjuvant atezolizumab, chemotherapy and bevacizumab in resectable EGFR-mutated NSCLC.",
+        "pubdate": "2026 Aug 31",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42723827/"
       },
       {
-        "pmid": "42578486",
-        "title": "First-line systemic treatment for people with extensive-stage small cell lung cancer: a network meta-analysis.",
-        "pubdate": "2026 Aug 11",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42578486/"
+        "pmid": "42702214",
+        "title": "Induction and consolidation atezolizumab with stereotactic body radiation therapy versus radiation alone in high-risk, early-stage non-small-cell lung cancer (SWOG/NRG S1914): a multicentre, open-label, superiority, phase 3, randomised controlled trial.",
+        "pubdate": "2026 Sep 6",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42702214/"
       },
       {
-        "pmid": "42535736",
-        "title": "The weight of the enemy: Tumor burden as a tumor-agnostic prognostic marker and the limits of immunotherapy.",
-        "pubdate": "2026 Aug 1",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42535736/"
+        "pmid": "42680950",
+        "title": "Atezolizumab in early triple-negative breast cancer: the randomized phase 3 NSABP B-59/GeparDouze trial.",
+        "pubdate": "2026 Sep 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42680950/"
       },
       {
-        "pmid": "42518513",
-        "title": "Automated measurement of CD8+ T-cell distribution at the tumor epithelial-stromal interface is associated with NSCLC immunotherapy benefit and transcriptomic pathways.",
-        "pubdate": "2026 Aug",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42518513/"
+        "pmid": "42665190",
+        "title": "Atezolizumab-Bevacizumab with or without Cisplatin-based HAIC for Unresectable HCC: A Randomized Phase 2 Trial.",
+        "pubdate": "2026 Aug 28",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42665190/"
       },
       {
-        "pmid": "42498486",
-        "title": "Personalized tumor-loaded monocyte-derived dendritic cell vaccination in combination with atezolizumab as maintenance treatment in extensive-stage small cell lung cancer (ES-SCLC): phase Ib-II VENEZOLUNG trial.",
-        "pubdate": "2026 Jul 24",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42498486/"
+        "pmid": "42661024",
+        "title": "ctDNA-guided or ctDNA-stratified adjuvant immunotherapy compared with observation or placebo after radical surgery for muscle-invasive urothelial carcinoma: a GRADE-assessed systematic review and meta-analysis.",
+        "pubdate": "2026 Aug 27",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42661024/"
       }
     ]
   },
