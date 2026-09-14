@@ -1,0 +1,111 @@
+{
+  "drug_name": "Orforglipron",
+  "slug": "orforglipron",
+  "enriched_at": "2026-09-14T14:43:19Z",
+  "source_trial_ids": [
+    "NCT06649045"
+  ],
+  "sponsors": [
+    {
+      "name": "Eli Lilly and Company",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Eli%20Lilly%20and%20Company&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 137319706,
+    "iupac_name": "3-[(1S,2S)-1-[5-[(4S)-2,2-dimethyloxan-4-yl]-2-[(4S)-2-(4-fluoro-3,5-dimethylphenyl)-3-[3-(4-fluoro-1-methylindazol-5-yl)-2-oxoimidazol-1-yl]-4-methyl-6,7-dihydro-4H-pyrazolo[4,3-c]pyridine-5-carbonyl]indol-1-yl]-2-methylcyclopropyl]-4H-1,2,4-oxadiazol-5-one",
+    "molecular_formula": "C48H48F2N10O5",
+    "molecular_weight": "883.0",
+    "canonical_smiles": null,
+    "inchikey": "USUWIEBBBWHKNI-KHIFEHGGSA-N",
+    "rxnorm": {
+      "rxcui": "2739838",
+      "generic_name": "orforglipron",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL5314577",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action FOUNDAYO is a GLP-1 receptor agonist that binds to and activates the human GLP-1 receptor. GLP-1 is a physiological regulator of appetite and caloric intake. GLP-1 receptors are present in brain regions that regulate appetite. In animal studies, orforglipron distributed to and activated neurons in brain regions that regulate appetite and food intake.",
+    "pharmacokinetics": "12.3 Pharmacokinetics The pharmacokinetics of orforglipron is similar between healthy subjects and patients with overweight (BMI ≥27 kg/m 2 ) or obesity. Steady state exposure is achieved after approximately 1 week of once daily administration. The data below refer to FOUNDAYO dosages [see Dosage and Administration ( 2.1 )] . Except in the food effect study, data were generated with the corresponding orforglipron investigational formulation [see Adverse Reactions ( 6.1 )] . Absorption Maximum concentration of orforglipron is reached 4 to 8 hours post dose. Orforglipron tablet exposure increases in a dose-proportional manner. The geometric mean absolute bioavailability of orforglipron was 77% after a 0.8 mg dose. Effect of food No clinically relevant food effect on orforglipron exposure was observed. Following multiple doses of an investigational 37.5 mg orforglipron tablet, the AUC (0-24h) decreased by 19%, and C max decreased by 26% with food compared to fasted state. The t max and t 1/2 were unchanged. Distribution The mean steady-state volume of distribution of orforglipron is approximately 285 L, following intravenous dosing in healthy subjects. Orforglipron plasma protein binding is greater than 99%. FOUNDAYO is only for oral use. Elimination The mean systemic clearance of orforglipron is 7.15 L/hour. The elimination half-life is approximately 29 to 49 hours after an oral dose. Metabolism Orforglipron is metabolized primarily via hepatic CYP3A4 to several oxidative metabolites. These oxidative metabolites are excreted into the intestinal lumen. Excretion After administration of a single oral dose of 2.5 mg orforglipron, 87% of the dose was recovered in feces (all metabolites) and less than 1% of the dose was recovered in urine. Special Populations The intrinsic factors of age (18 to 92 years), sex, race (White, Asian, Black or African American, American Indian, Multiracial, or Hawaiian Pacific Islander), ethnicity (Hispanic, Non-Hispanic), body weight (56.4 to 227 kg), and renal impairment (eGFR 27.8 to 156 mL/min/1.73 m 2 ) do not have a clinically relevant effect on the pharmacokinetics of orforglipron. Patients with Hepatic Impairment The pharmacokinetics of orforglipron after a single oral 0.8 mg dose was evaluated in patients with mild, moderate, and severe hepatic impairment (Child-Pugh Class A, B, and C, respectively) and in subjects with normal hepatic function. Orforglipron exposure was similar in patients with mild hepatic impairment and normal hepatic function. Orforglipron AUC (0-∞) increased by 1.7-fold and 4.6-fold in patients with moderate and severe hepatic impairment, respectively, compared to subjects with normal hepatic function. C max in patients with moderate and severe hepatic impairment was similar to C max in subjects with normal hepatic function [see Use in Specific Populations ( 8.6 )] . Patients with Renal Impairment Renal impairment does not impact the pharmacokinetics of orforglipron. The pharmacokinetics of orforglipron after a single oral 0.8 mg dose were evaluated in patients with severe renal impairment and ESRD compared with subjects who had normal renal function. Data from clinical trials have also shown that renal impairment in patients with overweight or obesity does not impact the pharmacokinetics of orforglipron [see Use in Specific Populations ( 8.7 )] . Drug Interaction Studies Clinical Studies and Model-Informed Approaches Effects of Other Drugs on FOUNDAYO Table 4 outlines the results of definitive clinical trials and physiologically based pharmacokinetic (PBPK) simulations assessing the effect of other drugs on orforglipron pharmacokinetics. Concomitant use of strong CYP3A4 inhibitors significantly increased exposure of orforglipron while concomitant use of moderate or strong CYP3A4 inducers led to reductions in orforglipron exposure [see Dose and Administration ( 2.2 ), Drug Interactions ( 7.1 )] . Table 4: Potential for Other Drugs to Affect FOUNDAYO a Simulated using physiologically based pharmacokinetic modeling. Concomitant Drug Category Concomitant Drug (Dose) Change in Orforglipron AUC C max Strong CYP3A4 inhibitors Clarithromycin (500 mg twice daily) ↑3.5-fold ↑1.9-fold Moderate CYP3A4 inhibitors Verapamil a (80 mg three times daily) ↑2-fold ↑1.6-fold Strong CYP3A4 inducers Carbamazepine (300 mg twice daily) ↓82% ↓55% Moderate CYP3A4 inducers Efavirenz a (600 mg once daily) ↓61% ↓33% Weak CYP3A4 inducers Modafinil a (200 mg once daily) ↓16% ↓7% OATP1B inhibitors Cyclosporine (200 mg twice daily) ↑2.6-fold ↑1.3-fold P-gp inhibitors Quinidine (200 mg twice daily) ↓12% ↓26% Acid reducing agents Esomeprazole (40 mg once daily) No effect No effect Effects of FOUNDAYO on Other Drugs Table 5 outlines the results of clinical assessments that evaluated the effect of orforglipron on other drugs. Concomitant use of orforglipron and simvastatin led to significant increases in the active metabolite simvastatin acid whether orforglipron was co-administered or dosing was staggered by 2 hours [see Drug Interactions ( 7.2 )] . No clinically relevant changes were observed for orforglipron when used with rosuvastatin or atorvastatin. Table 5: Potential for FOUNDAYO to Affect Other Drugs Concomitant Drug Category Concomitant Drug (Dose) Orforglipron Dosage Change in Concomitant Drug AUC C max Statin Simvastatin (prodrug) (20 mg) 17.2 mg once daily up to ↓16% up to ↓27% Simvastatin acid (active metabolite) 17.2 mg once daily ↑2- to 2.5-fold ↑2.3- to 2.5-fold Atorvastatin (40 mg) 14.5 mg once daily ↑1.5-fold ↑0.9-fold BCRP substrate Rosuvastatin (20 mg) 17.2 mg once daily ↑1.7-fold ↑1.3-fold CYP3A4 substrates Midazolam (200 mcg) 17.2 mg once daily ↑1.1-fold No effect P-gp substrates Digoxin (0.25 mg) 17.2 mg once daily ↑1.2-fold ↑1.2-fold OATP1B substrates Endogenous OATP1B biomarker coproporphyrin-1 up to 14.5 mg once daily No effect No effect Potential Drug Interactions due to Gastric Emptying Delay Orforglipron delays gastric emptying and has the potential to affect the rate of absorption of other concomitantly administered oral drugs. The gastric emptying delay effect of orforglipron on acetaminophen C max was largest after the first dose of FOUNDAYO 0.8 mg with acetaminophen C max decreased by 28%. The effect diminished after repeated dosing of FOUNDAYO 17.2 mg. In Vitro Assessments of Drug Interactions CYP Enzymes : In in vitro studies, orforglipron did not inhibit or induce CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, or CYP2D6. Orforglipron is a substrate of CYP3A4 and CYP2J2, and is not a substrate of CYP1A2, CYP2B6, CYP2C8, CYP2C19, CYP2D6, and CYP3A5. Transporter Systems : Orforglipron did not inhibit OATP1B1, OATP1B3, OATP2B1, OAT1, OAT3, OCT1, OCT2, MATE1, or MATE2K. Orforglipron is a substrate of P-gp, OATP1B1 and OATP1B3, and is not a substrate of BCRP or OCT1.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE FOUNDAYO TM is indicated in combination with a reduced-calorie diet and increased physical activity to reduce excess body weight and maintain weight reduction long term in adults with obesity or adults with overweight in the presence of at least one weight-related comorbid condition. FOUNDAYO™ is a GLP-1 receptor agonist indicated in combination with a reduced-calorie diet and increased physical activity to reduce excess body weight and maintain weight reduction long term in adults with obesity or adults with overweight in the presence of at least one weight-related comorbid condition. ( 1 ) Limitations of Use Concomitant use with another GLP-1 receptor agonist is not recommended. ( 1 ) Limitations of Use Concomitant use with another GLP-1 receptor agonist is not recommended.",
+    "boxed_warning": "WARNING: RISK OF THYROID C-CELL TUMORS In products with glucagon-like peptide-1 (GLP-1) receptor agonist activity that are pharmacologically active in rats and mice, rodent thyroid C-cell tumors (adenomas and carcinomas) have been observed at clinically relevant exposures and are considered GLP-1 receptor-dependent effects in rodents. Orforglipron is not pharmacologically active in rats or mice and did not produce tumors in rodents [see Nonclinical Toxicology ( 13.1 )] . While orforglipron is pharmacologically active at the human GLP-1 receptor, the human relevance of GLP-1 receptor-dependent thyroid C-cell tumors observed in rodents has not been determined [see Warnings and Precautions ( 5.1 ), Nonclinical Toxicology ( 13.1 )] . FOUNDAYO is contraindicated in patients with a personal or family history of medullary thyroid carcinoma (MTC) or in patients with Multiple Endocrine Neoplasia syndrome type 2 (MEN 2) [see Contraindications ( 4 )] . Counsel patients regarding the potential risk for MTC with the use of FOUNDAYO and inform them of symptoms of thyroid tumors (e.g., a mass in the neck, dysphagia, dyspnea, persistent hoarseness). Routine monitoring of serum calcitonin or using thyroid ultrasound is of uncertain value for early detection of MTC in patients treated with FOUNDAYO [see Contraindications ( 4 ), Warnings and Precautions ( 5.1 )] . WARNING: RISK OF THYROID C-CELL TUMORS See full prescribing information for complete boxed warning. In products with glucagon-like peptide-1 (GLP-1) receptor agonist activity that are pharmacologically active in rats and mice, rodent thyroid C-cell tumors (adenomas and carcinomas) have been observed at clinically relevant exposures and are considered GLP-1 receptor-dependent effects in rodents. Orforglipron is not pharmacologically active in rats or mice and did not produce tumors in rodents ( 13.1 ) . While orforglipron is pharmacologically active at the human GLP-1 receptor, the human relevance of GLP-1 receptor-dependent thyroid C-cell tumors observed in rodents has not been determined ( 5.1 , 13.1 ). FOUNDAYO is contraindicated in patients with a personal or family history of medullary thyroid carcinoma (MTC) or in patients with Multiple Endocrine Neoplasia syndrome type 2 (MEN 2). Counsel patients regarding the potential risk of MTC and symptoms of thyroid tumors ( 4 , 5.1 ).",
+    "openfda_brand_names": [
+      "FOUNDAYO"
+    ],
+    "openfda_generic_names": [
+      "ORFORGLIPRON"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8ac446c5-feba-474f-a103-23facb9b5c62",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "OSA",
+    "slug": "osa"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06649045",
+      "title": "A Master Protocol for Orforglipron in Participants With Obstructive Sleep Apnea and Obesity or Overweight",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT06649045",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42729683",
+        "title": "Oral small-molecule GLP-1 receptor agonists: a new Frontier in cardiometabolic medicine.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42729683/"
+      },
+      {
+        "pmid": "42715144",
+        "title": "Orforglipron and the Kidney: A Promise or Disappointment? The Need for Trials Examining Renal Outcomes.",
+        "pubdate": "2026 Sep 9",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42715144/"
+      },
+      {
+        "pmid": "42696191",
+        "title": "Oral Incretin-Based Therapies for Weight Management.",
+        "pubdate": "2026 Sep 4",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42696191/"
+      },
+      {
+        "pmid": "42607698",
+        "title": "Long-term safety of oral orforglipron in Japanese participants with type 2 diabetes (ACHIEVE-J): a multicentre, randomised, open-label, parallel-group phase 3 trial.",
+        "pubdate": "2026 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42607698/"
+      },
+      {
+        "pmid": "42582425",
+        "title": "Potential nephroprotective mechanisms of orforglipron, an oral non-peptide GLP-1 receptor agonist.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42582425/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "Aroxybutynin and Atomoxetine",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Apnimed"
+      }
+    ]
+  }
+}

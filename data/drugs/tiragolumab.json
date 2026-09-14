@@ -1,0 +1,130 @@
+{
+  "drug_name": "Tiragolumab",
+  "slug": "tiragolumab",
+  "enriched_at": "2026-09-14T14:47:30Z",
+  "source_trial_ids": [
+    "NCT04543617"
+  ],
+  "sponsors": [
+    {
+      "name": "Hoffmann-La Roche",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hoffmann-La%20Roche&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2471558",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4298050",
+    "target_chembl_id": "CHEMBL4630878",
+    "target_name": "T-cell immunoreceptor with Ig and ITIM domains",
+    "mechanism_of_action_chembl": "T-cell immunoreceptor with Ig and ITIM domains inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Tiragolumab+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Tiragolumab+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Tiragolumab+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Esophageal Squamous Cell Carcinoma",
+    "slug": "esophageal-squamous-cell-carcinoma"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04543617",
+      "title": "A Study of Atezolizumab With or Without Tiragolumab in Participants With Unresectable Esophageal Squamous Cell Carcinoma Whose Cancers Have Not Progressed Following Definitive Concurrent Chemoradiotherapy",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT04543617",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42628839",
+        "title": "Atezolizumab with or without tiragolumab in unresectable esophageal squamous cell carcinoma following definitive concurrent chemoradiotherapy (SKYSCRAPER-07): a randomised, phase III study.",
+        "pubdate": "2026 Aug 21",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42628839/"
+      },
+      {
+        "pmid": "42578486",
+        "title": "First-line systemic treatment for people with extensive-stage small cell lung cancer: a network meta-analysis.",
+        "pubdate": "2026 Aug 11",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42578486/"
+      },
+      {
+        "pmid": "42218345",
+        "title": "Accuracy of Index Lymph Node Pathology in Predicting Overall Response to Neoadjuvant Immunotherapy for Clinical Stage III Melanoma: Results From the Prospective NeoACTIVATE Arm C (NCT03554083) Substudy.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42218345/"
+      },
+      {
+        "pmid": "42060297",
+        "title": "Tiragolumab Plus Atezolizumab and Chemotherapy for Advanced Nonsquamous Non-Small Cell Lung Cancer: The Phase 3 SKYSCRAPER-06 Randomized Clinical Trial.",
+        "pubdate": "2026 Jun 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42060297/"
+      },
+      {
+        "pmid": "41950998",
+        "title": "SKYSCRAPER-02C: A Phase 3, Randomized, Double-Blind, Placebo-Controlled Study of Atezolizumab Plus Carboplatin and Etoposide With or Without Tiragolumab in Patients With Untreated Extensive-Stage SCLC in China.",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41950998/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "VIBOSTOLIMAB",
+        "chembl_id": "CHEMBL4297785",
+        "reason": "same target: T-cell immunoreceptor with Ig and ITIM domains"
+      },
+      {
+        "name": "IBI-939",
+        "chembl_id": "CHEMBL4650473",
+        "reason": "same target: T-cell immunoreceptor with Ig and ITIM domains"
+      },
+      {
+        "name": "OCIPERLIMAB",
+        "chembl_id": "CHEMBL4650411",
+        "reason": "same target: T-cell immunoreceptor with Ig and ITIM domains"
+      },
+      {
+        "name": "ASP-8374",
+        "chembl_id": "CHEMBL4297894",
+        "reason": "same target: T-cell immunoreceptor with Ig and ITIM domains"
+      },
+      {
+        "name": "DOMVANALIMAB",
+        "chembl_id": "CHEMBL4650392",
+        "reason": "same target: T-cell immunoreceptor with Ig and ITIM domains"
+      },
+      {
+        "name": "ETIGILIMAB",
+        "chembl_id": "CHEMBL4298205",
+        "reason": "same target: T-cell immunoreceptor with Ig and ITIM domains"
+      }
+    ]
+  }
+}
