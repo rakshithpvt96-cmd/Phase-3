@@ -1,12 +1,17 @@
 {
   "drug_name": "Fezolinetant",
   "slug": "fezolinetant",
-  "enriched_at": "2026-08-15T21:14:20Z",
+  "enriched_at": "2026-09-15T12:33:34Z",
   "source_trial_ids": [
     "NCT06440967"
   ],
   "sponsors": [
-    "Astellas Pharma Global Development, Inc."
+    {
+      "name": "Astellas Pharma Global Development, Inc.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Astellas%20Pharma%20Global%20Development%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
+    }
   ],
   "identity": {
     "pubchem_cid": 117604931,
@@ -61,6 +66,12 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42610452",
+        "title": "Real-world safety signals of fezolinetant in women with menopausal vasomotor symptoms: a pharmacovigilance analysis of the WHO VigiAccess database.",
+        "pubdate": "2026 Aug 18",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42610452/"
+      },
+      {
         "pmid": "42547587",
         "title": "Real-world safety profile of fezolinetant: a disproportionality analysis based on the FAERS database.",
         "pubdate": "2026 Aug 4",
@@ -83,12 +94,6 @@
         "title": "Liver Safety of the Dual Neurokinin-1/-3 Receptor Antagonist Elinzanetant.",
         "pubdate": "2026 Aug",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41849128/"
-      },
-      {
-        "pmid": "41834312",
-        "title": "Comparative Efficacy of Elinzanetant Versus Other Non-Hormonal Pharmaceutical Therapies for the Treatment of Moderate-to-Severe Vasomotor Symptoms Associated With Menopause: A Network Meta-Analysis.",
-        "pubdate": "2026 Mar 15",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41834312/"
       }
     ]
   },

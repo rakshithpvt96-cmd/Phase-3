@@ -1,7 +1,7 @@
 {
   "drug_name": "Bortezomib",
   "slug": "bortezomib",
-  "enriched_at": "2026-08-16T07:41:25Z",
+  "enriched_at": "2026-09-15T12:37:41Z",
   "source_trial_ids": [
     "NCT06152575"
   ],
@@ -45,7 +45,7 @@
     "openfda_generic_names": [
       "BORTEZOMIB"
     ],
-    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=decb5d94-2ea2-48d8-b08b-3196b24c0ed3",
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b605b541-4bfd-db3e-9710-11c27f6dee6c",
     "note": null,
     "further_reading": null
   },
@@ -66,6 +66,18 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42687822",
+        "title": "Exposure-response and dose simulation of belantamab mafodotin in combination with standards of care in patients with relapsed/refractory multiple myeloma.",
+        "pubdate": "2026 Sep 3",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42687822/"
+      },
+      {
+        "pmid": "42630703",
+        "title": "Persistence to Multiple Myeloma Treatments Given at First Relapse-Results From the Australian Real-World OPTIMISE Study.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42630703/"
+      },
+      {
         "pmid": "42544613",
         "title": "Selinexor combined bortezomib, lenalidomide, and dexamethasone for newly diagnosed multiple myeloma with high-risk factors: a single-arm, multi-center, prospective observational clinical study.",
         "pubdate": "2026 Dec",
@@ -74,7 +86,7 @@
       {
         "pmid": "42537584",
         "title": "MYC rearrangement improves the predictive efficacy of the double-hit model in newly diagnosed multiple myeloma.",
-        "pubdate": "2026 Jul 31",
+        "pubdate": "2026 Aug",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42537584/"
       },
       {
@@ -82,18 +94,6 @@
         "title": "Revolutionizing 2L+ Myeloma: A Podcast on the New Era of BCMA-Targeted Bispecific Antibody Therapies.",
         "pubdate": "2026 Jul 30",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42530826/"
-      },
-      {
-        "pmid": "42456135",
-        "title": "Continuous or Fixed-Duration Maintenance Therapy in Multiple Myeloma.",
-        "pubdate": "2026 Jul 16",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42456135/"
-      },
-      {
-        "pmid": "42418224",
-        "title": "Belantamab mafodotin, a BCMA-directed antibody-drug conjugate for multiple myeloma.",
-        "pubdate": "2026 Aug",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42418224/"
       }
     ]
   },

@@ -1,12 +1,17 @@
 {
   "drug_name": "Gedatolisib",
   "slug": "gedatolisib",
-  "enriched_at": "2026-08-15T21:14:55Z",
+  "enriched_at": "2026-09-15T12:33:48Z",
   "source_trial_ids": [
     "NCT05501886"
   ],
   "sponsors": [
-    "Celcuity Inc"
+    {
+      "name": "Celcuity Inc",
+      "ticker": "CELC",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001603454&type=10-K&dateb=&owner=include&count=40"
+    }
   ],
   "identity": {
     "pubchem_cid": 44516953,
@@ -16,8 +21,8 @@
     "canonical_smiles": null,
     "inchikey": "DWZAEMINVBZMHQ-UHFFFAOYSA-N",
     "rxnorm": {
-      "rxcui": "1033355",
-      "generic_name": null,
+      "rxcui": "2747771",
+      "generic_name": "gedatolisib",
       "brand_names": []
     }
   },
@@ -29,20 +34,20 @@
   },
   "fda_label": {
     "has_label": true,
-    "source": "openFDA",
-    "mechanism_of_action": "12.1 Mechanism of Action Gedatolisib is a kinase inhibitor of class I PI3K isoforms (α, β, δ, γ) and mTOR complexes mTORC1 and mTORC2, resulting in downstream inhibition of multiple effectors, including AKT. In estrogen receptor (ER)-positive breast cancer cell lines and xenograft models harboring wild-type or mutant PIK3CA , gedatolisib induced apoptosis and anti-proliferative effects in vitro and reduced tumor cell growth in vivo . In a human ER-positive breast cancer xenograft model harboring a PIK3CA mutation, the combination of gedatolisib with palbociclib and fulvestrant increased tumor growth inhibition compared to each treatment alone or the doublet combinations.",
-    "pharmacokinetics": "12.3 Pharmacokinetics Gedatolisib pharmacokinetic parameters were observed at the approved recommended dosage in patients with breast cancer and are presented as mean (% coefficient of variation [%CV]), unless otherwise specified. Gedatolisib maximum plasma concentration (C max ) is 13,700 (29%) ng/mL and area under the curve (AUC) is 21,400 (21%) ng·h/mL. Gedatolisib C max and AUC values increase dose proportionally in the dose range 10 mg to 319 mg (0.06 to 1.8 times the recommended dose). No accumulation of gedatolisib is observed after once-weekly administration. Distribution Gedatolisib plasma protein binding is 98%, and is not concentration dependent, in vitro. Gedatolisib blood-to-plasma ratio is 0.87, in vitro. Gedatolisib volume of distribution is 393 L. Elimination Gedatolisib elimination half-life (t 1/2 ) is 36 hours with an estimated clearance of 8 (23%) L/hour. Excretion After a single dose of radiolabeled gedatolisib 89 mg to healthy subjects, approximately 67.4% of the dose was recovered in feces (67% unchanged) and 12.2% in urine (11.6% unchanged). Specific Populations No clinically significant effects on the pharmacokinetics of gedatolisib were observed based on age (21 to 84 years), sex, race (White [78%], Asian [9.1%], Black or African American [4.1%]) body weight (35 to 168 kg), mild hepatic impairment (total bilirubin ≤1.5 × ULN and any AST) or estimated glomerular filtration rate (eGFR) ≥ 45 mL/min/1.73 m 2 (MDRD equation). The effect of moderate (total bilirubin >1.5 to 3 times ULN with any AST) or severe (total bilirubin >3 x ULN with any AST) hepatic impairment, eGFR <45 mL/min/1.73 m 2 , or dialysis on gedatolisib pharmacokinetics is unknown. Drug Interactions Clinical Studies and Model-Informed Approaches No clinically significant differences in the pharmacokinetics of the following drugs were observed when used concomitantly with gedatolisib: metformin (MATE1, MATE2-K, and OCT1 substrate), rosuvastatin (BCRP substrate), or repaglinide (CYP2C8 sensitive substrate). In Vitro Studies CYP450 Enzymes: Gedatolisib is not an inhibitor of CYP1A2, CYP2A6, or CYP2B6. The ability of gedatolisib to induce CYP450 enzymes is unknown given the results of the vitro studies were inconclusive due to decreased viability of hepatocytes. Transporter Systems: Gedatolisib is a substrate of P-gp and BCRP and is not a substrate for OATP1B1, OATP1B3, OCT1, NTCP, MRP2, or MRP3. Gedatolisib did not inhibit P-gp, OATP1B1, OATP1B3, OAT1, OAT3, OCT2, and BSEP.",
-    "indications_and_usage": "1 INDICATIONS AND USAGE REVTORPYK is indicated in combination with fulvestrant, with or without palbociclib, for the treatment of adult patients with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative locally advanced or metastatic breast cancer without a PIK3CA mutation detected following progression on or after treatment with at least one line of endocrine therapy in the metastatic setting [see Dosage and Administration (2.1) and Clinical Studies (14) ] . REVTORPYK is a kinase inhibitor indicated in combination with fulvestrant, with or without palbociclib, for the treatment of adult patients with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative locally advanced or metastatic breast cancer without a PIK3CA mutation detected following progression on or after treatment with at least one line of endocrine therapy in the metastatic setting. (1)",
+    "source": "DailyMed",
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
     "boxed_warning": null,
-    "openfda_brand_names": [
-      "REVTORPYK"
-    ],
-    "openfda_generic_names": [
-      "GEDATOLISIB"
-    ],
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
     "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=959d73ef-831f-4005-956c-210702270bda",
-    "note": null,
-    "further_reading": null
+    "note": "A label exists in DailyMed but structured sections could not be parsed automatically -- see dailymed_url for the full label.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Gedatolisib+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Gedatolisib+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Gedatolisib+efficacy+phase+3"
+    }
   },
   "condition": {
     "raw": "Breast Cancer",

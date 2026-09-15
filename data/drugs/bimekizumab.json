@@ -1,9 +1,8 @@
 {
   "drug_name": "Bimekizumab",
   "slug": "bimekizumab",
-  "enriched_at": "2026-08-15T22:13:15Z",
+  "enriched_at": "2026-09-15T12:37:25Z",
   "source_trial_ids": [
-    "NCT04009499",
     "NCT04436640",
     "NCT04901195"
   ],
@@ -46,28 +45,21 @@
     "further_reading": null
   },
   "condition": {
-    "raw": "Psoriatic Arthritis",
-    "slug": "psoriatic-arthritis"
+    "raw": "Hidradenitis Suppurativa",
+    "slug": "hidradenitis-suppurativa"
   },
   "source_trials": [
     {
-      "nct_id": "NCT04009499",
-      "title": "A Study to Assess the Long-term Safety, Tolerability, and Efficacy of Bimekizumab in the Treatment of Subjects With Active Psoriatic Arthritis",
-      "status": "COMPLETED",
-      "url": "https://clinicaltrials.gov/study/NCT04009499",
-      "has_results": false
-    },
-    {
       "nct_id": "NCT04436640",
       "title": "A Study to Evaluate the Long-term Safety, Tolerability and Efficacy of Bimekizumab in Subjects With Active Axial Spondyloarthritis Including Ankylosing Spondylitis and Nonradiographic Axial Spondyloarthritis",
-      "status": "ACTIVE_NOT_RECRUITING",
+      "status": "COMPLETED",
       "url": "https://clinicaltrials.gov/study/NCT04436640",
       "has_results": false
     },
     {
       "nct_id": "NCT04901195",
       "title": "A Study to Test the Long-term Treatment of Bimekizumab in Study Participants With Moderate to Severe Hidradenitis Suppurativa",
-      "status": "ACTIVE_NOT_RECRUITING",
+      "status": "COMPLETED",
       "url": "https://clinicaltrials.gov/study/NCT04901195",
       "has_results": false
     }
@@ -76,34 +68,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42577288",
-        "title": "Dose Reduction of IL17 and IL23 Inhibitors in Psoriasis (BeNeBio study): An International, Pragmatic, Multicentre, Randomised, Controlled, Non-Inferiority Trial.",
-        "pubdate": "2026 Aug",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42577288/"
+        "pmid": "42740449",
+        "title": "Impact of Dual Interleukin-17A and Interleukin-17F Inhibition with Bimekizumab on Inflammatory and Structural Lesions in Axial Spondyloarthritis: MRI and Radiographic Outcomes from the Phase 3 BE MOBILE 1 and 2 Studies and their Open-Label Extension.",
+        "pubdate": "2026 Sep 14",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42740449/"
       },
       {
-        "pmid": "42555037",
-        "title": "Approved Monoclonal Antibody Therapies for Hidradenitis Suppurativa.",
-        "pubdate": "2026 Aug 5",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42555037/"
+        "pmid": "42678333",
+        "title": "Investigating the molecular drivers of high-level clinical responses to bimekizumab in psoriatic disease: Introducing the BE UNIQUE phase 3b study.",
+        "pubdate": "2026 Sep 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42678333/"
       },
       {
-        "pmid": "42536134",
-        "title": "Measuring success in HS treatment from the physician's and the patient's perspective.",
-        "pubdate": "2026 Jul 31",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42536134/"
+        "pmid": "42671722",
+        "title": "Neuropathic Pain Management Using Novel Biologics in Moderate-to-Severe Hidradenitis Suppurativa.",
+        "pubdate": "2026 Aug 31",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42671722/"
       },
       {
-        "pmid": "42452698",
-        "title": "Medical and Surgical Management of Hidradenitis Suppurativa.",
-        "pubdate": "2026 Jul 4",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42452698/"
+        "pmid": "42661716",
+        "title": "IL-17 ligand-targeting inhibitors in psoriatic arthritis: a focused systematic review and network meta-analysis of efficacy, safety, and certainty of evidence.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42661716/"
       },
       {
-        "pmid": "42342652",
-        "title": "Emerging synthetic drugs for the management of hidradenitis suppurativa: a comprehensive update.",
-        "pubdate": "2026 Jul",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42342652/"
+        "pmid": "42605056",
+        "title": "Bimekizumab efficacy in male and female patients with axial spondyloarthritis: 52-week results from the Phase 3 BE MOBILE rials.",
+        "pubdate": "2026 Aug 14",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42605056/"
       }
     ]
   },

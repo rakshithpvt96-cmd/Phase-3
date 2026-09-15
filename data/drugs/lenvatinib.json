@@ -1,30 +1,16 @@
 {
-  "drug_name": "Lenvatinib",
+  "drug_name": "lenvatinib",
   "slug": "lenvatinib",
-  "enriched_at": "2026-08-15T22:19:03Z",
+  "enriched_at": "2026-09-15T12:40:08Z",
   "source_trial_ids": [
-    "NCT04039607",
-    "NCT04164199",
-    "NCT04770896"
+    "NCT04039607"
   ],
   "sponsors": [
     {
-      "name": "BeOne Medicines",
-      "ticker": "ONC",
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001651308&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
       "name": "Bristol-Myers Squibb",
-      "ticker": null,
+      "ticker": "BMY",
       "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Bristol-Myers%20Squibb&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
-      "name": "Hoffmann-La Roche",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hoffmann-La%20Roche&type=10-K&dateb=&owner=include&count=40"
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000014272&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
@@ -64,29 +50,15 @@
     "further_reading": null
   },
   "condition": {
-    "raw": "Advanced Malignancies",
-    "slug": "advanced-malignancies"
+    "raw": "Hepatocellular Carcinoma",
+    "slug": "hepatocellular-carcinoma"
   },
   "source_trials": [
     {
       "nct_id": "NCT04039607",
       "title": "A Study of Nivolumab in Combination With Ipilimumab in Participants With Advanced Hepatocellular Carcinoma",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT04039607",
-      "has_results": false
-    },
-    {
-      "nct_id": "NCT04164199",
-      "title": "Study of Tislelizumab, Pamiparib, and Other Investigational Agents in Participants With Advanced Malignancies",
       "status": "COMPLETED",
-      "url": "https://clinicaltrials.gov/study/NCT04164199",
-      "has_results": false
-    },
-    {
-      "nct_id": "NCT04770896",
-      "title": "A Study of Atezolizumab With Lenvatinib or Sorafenib Versus Lenvatinib or Sorafenib Alone in Hepatocellular Carcinoma Previously Treated With Atezolizumab and Bevacizumab",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT04770896",
+      "url": "https://clinicaltrials.gov/study/NCT04039607",
       "has_results": false
     }
   ],
@@ -94,40 +66,46 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42586114",
-        "title": "Belzutifan plus lenvatinib versus cabozantinib in patients with previously treated advanced renal cell carcinoma (LITESPARK-011): an open-label, randomised, controlled, phase 3 trial.",
-        "pubdate": "2026 Aug 12",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42586114/"
+        "pmid": "42739846",
+        "title": "Recorded Early Imaging Responses After Transarterial Chemoembolization Plus Lenvatinib Versus Transarterial Chemoembolization Without Documented Lenvatinib for Unresectable Hepatocellular Carcinoma: A Vietnamese Cohort Study.",
+        "pubdate": "2026 Sep 3",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42739846/"
       },
       {
-        "pmid": "42527085",
-        "title": "Efficacy of Lenvatinib as Subsequent Therapy After Combination Immune Checkpoint Inhibitors for Unresectable Hepatocellular Carcinoma.",
-        "pubdate": "2026 Aug",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42527085/"
-      },
-      {
-        "pmid": "42449661",
-        "title": "Comprehensive Safety and Efficacy Evaluation of Immunotherapy Combination Approaches Versus Tyrosine Kinase Inhibitor Monotherapy as First-Line Treatment of Hepatocellular Carcinoma: A Network and Individual Patient Data (IPD) Meta-Analysis.",
-        "pubdate": "2026 Jun 30",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42449661/"
-      },
-      {
-        "pmid": "42442381",
-        "title": "Efficacy and safety of dabrafenib plus trametinib in adults with differentiated thyroid cancer: a randomised, double-blind, placebo-controlled, phase 3 trial.",
-        "pubdate": "2026 Aug",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42442381/"
-      },
-      {
-        "pmid": "42404105",
-        "title": "Baseline Sleep Quality and Objective Response in HCC Patients Treated with TACE Combined with Lenvatinib and PD-1 Inhibitors: A Secondary Analysis of a Prospectively Registered Observational Cohort.",
+        "pmid": "42719379",
+        "title": "Thyroid Cancer in the Modern Era: From Molecular Landscape and Multimodal Diagnostics to Integrative Traditional Chinese Medicine-A Comprehensive Review.",
         "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42404105/"
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42719379/"
+      },
+      {
+        "pmid": "42708433",
+        "title": "Synchronizing immunity and angiogenesis in lung adenocarcinoma: bridging biological synergy and clinical translation.",
+        "pubdate": "2026 Dec 31",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42708433/"
+      },
+      {
+        "pmid": "42682622",
+        "title": "Association between gut microbiota characteristics and therapeutic efficacy of multimodal combination therapy in hepatocellular carcinoma with portal vein tumor thrombus: a secondary analysis of a prospective phase II trial.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42682622/"
+      },
+      {
+        "pmid": "42677015",
+        "title": "Lenvatinib versus Sorafenib in First-Line Treatment of Older Patients with Unresectable Hepatocellular Carcinoma: A Subgroup Analysis of the REFLECT Trial.",
+        "pubdate": "2026 Jul 4",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42677015/"
       }
     ]
   },
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": []
+    "items": [
+      {
+        "name": "TACE+Camrelizumab+Apatinib mesylate",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Jiangsu HengRui Medicine Co., Ltd."
+      }
+    ]
   }
 }

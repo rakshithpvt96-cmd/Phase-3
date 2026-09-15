@@ -1,9 +1,8 @@
 {
   "drug_name": "Aflibercept",
   "slug": "aflibercept",
-  "enriched_at": "2026-08-15T22:11:50Z",
+  "enriched_at": "2026-09-15T12:31:23Z",
   "source_trial_ids": [
-    "NCT05885503",
     "NCT06556368"
   ],
   "sponsors": [
@@ -12,12 +11,6 @@
       "ticker": "KOD",
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001468748&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
-      "name": "RemeGen Co., Ltd.",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=RemeGen%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
@@ -51,17 +44,10 @@
     "further_reading": null
   },
   "condition": {
-    "raw": "Diabetic Macular Edema",
-    "slug": "diabetic-macular-edema"
+    "raw": "Wet Age-related Macular Degeneration",
+    "slug": "wet-age-related-macular-degeneration"
   },
   "source_trials": [
-    {
-      "nct_id": "NCT05885503",
-      "title": "Efficacy and Safety of RC28-E Versus Aflibercept in Diabetic Macular Edema",
-      "status": "UNKNOWN",
-      "url": "https://clinicaltrials.gov/study/NCT05885503",
-      "has_results": false
-    },
     {
       "nct_id": "NCT06556368",
       "title": "A Study to Evaluate the Efficacy and Safety of Tarcocimab Tedromer and Tabirafusp Tedromer Compared to Aflibercept in Participants With Neovascular (Wet) Age-related Macular Degeneration (wAMD) - DAYBREAK",
@@ -74,34 +60,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42739526",
+        "title": "Safety and Efficacy of Brolucizumab in the Treatment of Patients with Diabetic Macular Edema and Diabetic Retinopathy: A Systematic Review and Meta-Analysis.",
+        "pubdate": "2026 Aug 23",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42739526/"
+      },
+      {
+        "pmid": "42717802",
+        "title": "Real-World Dosing Intervals for Long-Acting Anti-VEGF Intravitreal Injection Therapies in nAMD and DME: Academy IRIS(®) Registry Analysis.",
+        "pubdate": "2026 Sep 10",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42717802/"
+      },
+      {
+        "pmid": "42622958",
+        "title": "Four-Year Outcomes of Faricimab in Diabetic Macular Edema in the RHONE-X Extension Trial: A Podcast.",
+        "pubdate": "2026 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42622958/"
+      },
+      {
+        "pmid": "42611864",
+        "title": "Association Between Anti-vascular Endothelial Growth Factor Therapy Exposure and Visual Outcomes in Diabetic Macular Edema and Retinal Vein Occlusion.",
+        "pubdate": "2026 Aug 7",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42611864/"
+      },
+      {
         "pmid": "42567877",
         "title": "Aflibercept 8 mg in neovascular age-related macular degeneration and diabetic macular oedema: Translating clinical trials into clinical practice.",
         "pubdate": "2026 Aug 7",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42567877/"
-      },
-      {
-        "pmid": "42518711",
-        "title": "Visual Gains with Faricimab vs Aflibercept 8 mg in Naïve Retinovascular Disease: Global Real-World Cases and Literature Review.",
-        "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42518711/"
-      },
-      {
-        "pmid": "42495046",
-        "title": "Cost Analysis of Aflibercept 8 mg Versus Aflibercept 2 mg for the Treatment of Diabetic Macular Edema in the PHOTON Trial.",
-        "pubdate": "2026 Jul 21",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42495046/"
-      },
-      {
-        "pmid": "42492647",
-        "title": "Comparison of Retinal Nonperfusion in Diabetic Macular Edema Treated with Brolucizumab Versus Aflibercept: A KINGFISHER Trial Analysis.",
-        "pubdate": "2026 Jul 23",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42492647/"
-      },
-      {
-        "pmid": "42486229",
-        "title": "Faricimab for High-Need Aflibercept 2 mg Treated Neovascular Age-Related Macular Degeneration.",
-        "pubdate": "2026 Jul 22",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42486229/"
       }
     ]
   },

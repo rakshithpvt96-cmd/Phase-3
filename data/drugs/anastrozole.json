@@ -1,12 +1,17 @@
 {
   "drug_name": "Anastrozole",
   "slug": "anastrozole",
-  "enriched_at": "2026-08-15T20:51:23Z",
+  "enriched_at": "2026-09-15T12:31:40Z",
   "source_trial_ids": [
     "NCT04711252"
   ],
   "sponsors": [
-    "AstraZeneca"
+    {
+      "name": "AstraZeneca",
+      "ticker": "AZN",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000901832&type=10-K&dateb=&owner=include&count=40"
+    }
   ],
   "identity": {
     "pubchem_cid": 2187,
@@ -40,7 +45,7 @@
     "openfda_generic_names": [
       "ANASTROZOLE"
     ],
-    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5d4f90d4-e535-4681-a863-3d774a2064e6",
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1d1d5818-1594-4f54-90a9-ae9a9afcdc67",
     "note": null,
     "further_reading": null
   },
@@ -69,13 +74,13 @@
       {
         "pmid": "42384406",
         "title": "Lumpectomy Margins and Local Recurrence in DCIS: Results From the NRG Oncology/NSABP B-35 Randomized Clinical Trial.",
-        "pubdate": "2026 Jul 1",
+        "pubdate": "2026 Sep 1",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42384406/"
       },
       {
         "pmid": "42224659",
         "title": "Fovinaciclib for First-Line Therapy of Advanced Breast Cancer: A Randomized Clinical Trial.",
-        "pubdate": "2026 Jun 1",
+        "pubdate": "2026 Aug 1",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42224659/"
       },
       {

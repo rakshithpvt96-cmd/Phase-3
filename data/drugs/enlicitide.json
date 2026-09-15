@@ -1,7 +1,7 @@
 {
   "drug_name": "Enlicitide",
   "slug": "enlicitide",
-  "enriched_at": "2026-08-15T22:16:25Z",
+  "enriched_at": "2026-09-15T12:33:20Z",
   "source_trial_ids": [
     "NCT07216482"
   ],
@@ -20,7 +20,11 @@
     "molecular_weight": "1550.8",
     "canonical_smiles": null,
     "inchikey": "ZJMSWDDEBKNMLX-HMPNVHCESA-O",
-    "rxnorm": null
+    "rxnorm": {
+      "rxcui": "2747751",
+      "generic_name": "enlicitide",
+      "brand_names": []
+    }
   },
   "mechanism": {
     "chembl_id": "CHEMBL6068420",
@@ -62,6 +66,18 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42709041",
+        "title": "Evaluating enlicitide decanoate: first oral PCSK9 inhibitor for the treatment of adults with hypercholesterolemia.",
+        "pubdate": "2026 Sep 15",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42709041/"
+      },
+      {
+        "pmid": "42645869",
+        "title": "Enlicitide, a Novel Oral Macrocyclic Peptide PCSK9 Inhibitor for Lipid Lowering: A Systematic Review and Meta-Analysis.",
+        "pubdate": "2026 Aug 20",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42645869/"
+      },
+      {
         "pmid": "42391098",
         "title": "A Comprehensive Review of PCSK9 Inhibitor Therapy.",
         "pubdate": "2026 Jul 2",
@@ -78,18 +94,6 @@
         "title": "Phase 3 study results for oral PCSK9 inhibition with enlicitide.",
         "pubdate": "2026 Apr 10",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41966715/"
-      },
-      {
-        "pmid": "41907045",
-        "title": "PCSK9 in vascular smooth muscle cells: biology, pathology, and inhibition to fight atherosclerosis.",
-        "pubdate": "2026 Jun",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41907045/"
-      },
-      {
-        "pmid": "41702283",
-        "title": "In silico prediction of the lipid-lowering efficacy of the oral PCSK9 inhibitor enlicitide using a mechanistic computational model.",
-        "pubdate": "2026 Apr",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41702283/"
       }
     ]
   },

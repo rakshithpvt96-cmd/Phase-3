@@ -1,7 +1,7 @@
 {
   "drug_name": "Dexamethasone",
   "slug": "dexamethasone",
-  "enriched_at": "2026-08-16T07:33:50Z",
+  "enriched_at": "2026-09-15T12:33:04Z",
   "source_trial_ids": [
     "NCT03539744",
     "NCT05552976",
@@ -10,15 +10,15 @@
   "sponsors": [
     {
       "name": "AbbVie",
-      "ticker": null,
+      "ticker": "ABBV",
       "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=AbbVie&type=10-K&dateb=&owner=include&count=40"
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001551152&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Bristol-Myers Squibb",
-      "ticker": null,
+      "ticker": "BMY",
       "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Bristol-Myers%20Squibb&type=10-K&dateb=&owner=include&count=40"
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000014272&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Pfizer",
@@ -59,7 +59,7 @@
     "openfda_generic_names": [
       "DEXAMETHASONE"
     ],
-    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a31b013f-924c-42f8-b8ab-ce60bb8ad7b8",
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=11f10a47-1c42-40e4-89d8-bb000fef497c",
     "note": null,
     "further_reading": null
   },
@@ -94,34 +94,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42600624",
-        "title": "Neurological effects of encapsulated dexamethasone sodium phosphate in children aged 6-9 years with ataxia telangiectasia (NEAT): a multicentre, randomised, double-blind, placebo-controlled, phase 3 trial.",
-        "pubdate": "2026 Aug 14",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42600624/"
-      },
-      {
-        "pmid": "42599090",
-        "title": "Glucagon-Like Peptide-1 Receptor Agonists for Patients with Conservatively Managed Nontraumatic Subdural Hematoma.",
-        "pubdate": "2026 Aug 14",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42599090/"
-      },
-      {
-        "pmid": "42582108",
-        "title": "Innovations in conservative and surgical therapy for Ménière's disease-narrative review.",
+        "pmid": "42723960",
+        "title": "Single-dose dexamethasone increases perioperative glycemic variability in older patients with diabetes undergoing lung surgery: a continuous glucose monitoring-based randomized controlled trial.",
         "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42582108/"
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42723960/"
       },
       {
-        "pmid": "42570798",
-        "title": "Ultra-hypofractionated versus conventional chemoradiation for newly diagnosed glioblastoma: Survival and toxicity results of a multicenter randomized trial.",
-        "pubdate": "2026 Aug 8",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42570798/"
+        "pmid": "42691058",
+        "title": "The effect of intravenous dexamethasone in supraclavicular brachial plexus block at Halibet National Referral Hospital, Eritrea 2024-2025: A randomized clinical trial.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42691058/"
       },
       {
-        "pmid": "42566269",
-        "title": "Author Reply to Letter to the Editor Regarding \"Intratympanic Dexamethasone Efficacy in Preventing Cisplatin-Induced Tinnitus: A Randomized Controlled Phase IIIB Clinical Trial\".",
-        "pubdate": "2026 Aug 6",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42566269/"
+        "pmid": "42687822",
+        "title": "Exposure-response and dose simulation of belantamab mafodotin in combination with standards of care in patients with relapsed/refractory multiple myeloma.",
+        "pubdate": "2026 Sep 3",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42687822/"
+      },
+      {
+        "pmid": "42674157",
+        "title": "Interpreting the totality of clinical study data: is there a better way? Statistical methodology for quantitatively interpreting clinical study data across efficacy endpoints.",
+        "pubdate": "2026 Aug 31",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42674157/"
+      },
+      {
+        "pmid": "42669938",
+        "title": "A prospective, phase IV study of ixazomib, pomalidomide and dexamethasone in patients with relapsed or refractory multiple myeloma.",
+        "pubdate": "2026 Aug 30",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42669938/"
       }
     ]
   },

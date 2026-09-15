@@ -1,12 +1,17 @@
 {
   "drug_name": "Control",
   "slug": "control",
-  "enriched_at": "2026-08-15T21:11:10Z",
+  "enriched_at": "2026-09-15T12:32:34Z",
   "source_trial_ids": [
     "NCT04850118"
   ],
   "sponsors": [
-    "Beacon Therapeutics"
+    {
+      "name": "Beacon Therapeutics",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Beacon%20Therapeutics&type=10-K&dateb=&owner=include&count=40"
+    }
   ],
   "identity": {
     "pubchem_cid": 2712,
@@ -40,7 +45,7 @@
     "openfda_generic_names": [
       "ADVANCED STRESS CONTROL DRY SPRAY 72H ANTIPERSPIRANT DEODORANT"
     ],
-    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=07cb1c7c-5188-49d5-916e-e2161b5ca3b0",
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0cb9557b-d465-4c5a-80db-6f7d46afb05c",
     "note": null,
     "further_reading": null
   },
@@ -61,34 +66,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42602754",
-        "title": "Liposomal bupivacaine surgical site injection for decrease of narcotic use in hip fractures: a pilot multicenter randomized trial.",
+        "pmid": "42740907",
+        "title": "Avoidance of cardiac toxicity during the application of immune checkpoint inhibitors: a safety systematic review combining network meta-analysis and pharmacovigilance study.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42740907/"
+      },
+      {
+        "pmid": "42740672",
+        "title": "Use of a caudal intercostal block in horses undergoing surgery for colic.",
+        "pubdate": "2026 Sep 15",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42740672/"
+      },
+      {
+        "pmid": "42740669",
+        "title": "Adding a Prevention Intervention to an Established App: The Blued+ HIV Prevention Pilot Study in Beijing and Chengdu, China.",
         "pubdate": "2026 Sep",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42602754/"
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42740669/"
       },
       {
-        "pmid": "42602753",
-        "title": "The effect of high-intensity interval training on cardiorespiratory fitness for non-ambulatory stroke survivors: a randomized controlled trial.",
-        "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42602753/"
+        "pmid": "42740668",
+        "title": "Comparing Approaches for Estimating Counterfactual HIV Incidence Among Populations With High Vulnerability to HIV in Lima, Peru: A Multi-Study Comparative Analysis.",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42740668/"
       },
       {
-        "pmid": "42602644",
-        "title": "Effects of Preemptive Analgesia Using Wrist-Ankle Acupuncture on Postoperative Pain and Urinary Retention After Haemorrhoidectomy: A Randomised, Three-Arm, Clinical Trial.",
-        "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42602644/"
-      },
-      {
-        "pmid": "42602524",
-        "title": "Comparison of double-blind and open-label decline rates in lecanemab and donanemab trials in Alzheimer's disease.",
-        "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42602524/"
-      },
-      {
-        "pmid": "42602197",
-        "title": "Empowering change: a prospective cohort study of an integrated cognitive behavioral therapy-based outpatient intervention for substance use disorder.",
-        "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42602197/"
+        "pmid": "42739526",
+        "title": "Safety and Efficacy of Brolucizumab in the Treatment of Patients with Diabetic Macular Edema and Diabetic Retinopathy: A Systematic Review and Meta-Analysis.",
+        "pubdate": "2026 Aug 23",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42739526/"
       }
     ]
   },

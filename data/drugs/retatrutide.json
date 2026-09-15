@@ -1,9 +1,8 @@
 {
   "drug_name": "Retatrutide",
   "slug": "retatrutide",
-  "enriched_at": "2026-08-16T07:34:56Z",
+  "enriched_at": "2026-09-15T12:35:46Z",
   "source_trial_ids": [
-    "NCT05929079",
     "NCT06260722"
   ],
   "sponsors": [
@@ -45,17 +44,10 @@
     }
   },
   "condition": {
-    "raw": "Type 2 Diabetes",
-    "slug": "type-2-diabetes"
+    "raw": "Diabetes Mellitus, Type 2",
+    "slug": "diabetes-mellitus-type-2"
   },
   "source_trials": [
-    {
-      "nct_id": "NCT05929079",
-      "title": "A Study of Retatrutide (LY3437943) in Participants With Type 2 Diabetes Mellitus Who Have Obesity or Overweight",
-      "status": "COMPLETED",
-      "url": "https://clinicaltrials.gov/study/NCT05929079",
-      "has_results": false
-    },
     {
       "nct_id": "NCT06260722",
       "title": "Effect of Retatrutide Compared With Semaglutide in Adult Participants With Type 2 Diabetes and Inadequate Glycemic Control With Metformin With or Without SGLT2 Inhibitor (TRANSCEND-T2D-2)",
@@ -68,6 +60,24 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42721492",
+        "title": "CARDIOVASCULAR EFFECTS OF INCRETIN RECEPTOR AGONISTS: BEYOND GLYCEMIC CONTROL.",
+        "pubdate": "2026 Sep 10",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42721492/"
+      },
+      {
+        "pmid": "42649514",
+        "title": "Disease-modifying anti-diabetic drugs (DMADDs): bridging the SIMPLE approach to disease interception.",
+        "pubdate": "2026 Aug 26",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42649514/"
+      },
+      {
+        "pmid": "42608321",
+        "title": "Retatrutide-Associated Improvements in Cardiovascular Risk Biomarkers in Adults With Obesity With or Without Type 2 Diabetes.",
+        "pubdate": "2026 Aug 17",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42608321/"
+      },
+      {
         "pmid": "42590128",
         "title": "Anti-Obesity Medications in Longevity and Aesthetic Medicine.",
         "pubdate": "2026 Aug 3",
@@ -78,24 +88,6 @@
         "title": "Efficacy and Safety of Dual and Triple Glucagon-Like Peptide-1-Based Polyagonists in Metabolic Dysfunction-Associated Steatotic Liver Disease and Steatohepatitis: A Systematic Review and Meta-Analysis.",
         "pubdate": "2026 Jun",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42529769/"
-      },
-      {
-        "pmid": "42250575",
-        "title": "Efficacy and safety of retatrutide, a GIP, GLP-1, and glucagon receptor agonist, in people with type 2 diabetes and inadequate glycaemic control with diet and exercise (TRANSCEND-T2D-1): a double-blind, randomised, phase 3 trial.",
-        "pubdate": "2026 Jun 13",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42250575/"
-      },
-      {
-        "pmid": "41831086",
-        "title": "Pharmacologic Treatment of Metabolic Dysfunction-Associated Steatotic Liver Disease in the Context of Type 2 Diabetes.",
-        "pubdate": "2026 Mar 14",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41831086/"
-      },
-      {
-        "pmid": "41216380",
-        "title": "Perceived benefits of treatment for obesity with retatrutide: A qualitative study of patients in a phase 2 clinical trial.",
-        "pubdate": "2025 Dec",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41216380/"
       }
     ]
   },

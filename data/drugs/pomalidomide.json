@@ -1,7 +1,7 @@
 {
   "drug_name": "Pomalidomide",
   "slug": "pomalidomide",
-  "enriched_at": "2026-08-16T07:34:08Z",
+  "enriched_at": "2026-09-15T12:35:22Z",
   "source_trial_ids": [
     "NCT03539744",
     "NCT06152575"
@@ -9,9 +9,9 @@
   "sponsors": [
     {
       "name": "AbbVie",
-      "ticker": null,
+      "ticker": "ABBV",
       "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=AbbVie&type=10-K&dateb=&owner=include&count=40"
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001551152&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Pfizer",
@@ -52,7 +52,7 @@
     "openfda_generic_names": [
       "POMALIDOMIDE"
     ],
-    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=dee932c5-0c7c-45f0-b2bb-c027badee537",
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3c222961-5398-4185-b2d0-defe90230094",
     "note": null,
     "further_reading": null
   },
@@ -80,6 +80,18 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42687822",
+        "title": "Exposure-response and dose simulation of belantamab mafodotin in combination with standards of care in patients with relapsed/refractory multiple myeloma.",
+        "pubdate": "2026 Sep 3",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42687822/"
+      },
+      {
+        "pmid": "42669938",
+        "title": "A prospective, phase IV study of ixazomib, pomalidomide and dexamethasone in patients with relapsed or refractory multiple myeloma.",
+        "pubdate": "2026 Aug 30",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42669938/"
+      },
+      {
         "pmid": "42530826",
         "title": "Revolutionizing 2L+ Myeloma: A Podcast on the New Era of BCMA-Targeted Bispecific Antibody Therapies.",
         "pubdate": "2026 Jul 30",
@@ -96,18 +108,6 @@
         "title": "Talquetamab-Daratumumab in Relapsed or Refractory Myeloma.",
         "pubdate": "2026 Aug 13",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42294841/"
-      },
-      {
-        "pmid": "42253630",
-        "title": "Biological Drivers of IMiD-Induced Peripheral Neuropathy in Multiple Myeloma.",
-        "pubdate": "2026 Jun",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42253630/"
-      },
-      {
-        "pmid": "42243065",
-        "title": "Simulation Framework to Investigate Efficacy and Ocular Safety of Belantamab Mafodotin Combinations in Relapsed/Refractory Multiple Myeloma.",
-        "pubdate": "2026 Jun",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42243065/"
       }
     ]
   },

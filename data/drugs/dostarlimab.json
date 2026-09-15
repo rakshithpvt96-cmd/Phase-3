@@ -1,12 +1,17 @@
 {
   "drug_name": "Dostarlimab",
   "slug": "dostarlimab",
-  "enriched_at": "2026-08-15T21:12:23Z",
+  "enriched_at": "2026-09-15T12:33:12Z",
   "source_trial_ids": [
     "NCT06472076"
   ],
   "sponsors": [
-    "GlaxoSmithKline"
+    {
+      "name": "GlaxoSmithKline",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=GlaxoSmithKline&type=10-K&dateb=&owner=include&count=40"
+    }
   ],
   "identity": {
     "rxnorm": {
@@ -55,6 +60,12 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42610707",
+        "title": "Use, survival, and adverse events of dostarlimab monotherapy in advanced or recurrent endometrial cancer: a nationwide cohort study in France.",
+        "pubdate": "2026 Aug 6",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42610707/"
+      },
+      {
         "pmid": "42391799",
         "title": "Poly(adenosine diphosphate-ribose) polymerase inhibitor maintenance therapy with niraparib in patients with primary advanced or recurrent endometrial cancer receiving dostarlimab plus chemotherapy.",
         "pubdate": "2026 Aug",
@@ -77,12 +88,6 @@
         "title": "[French recommendations for clinical practice, Nice/Saint-Paul-de-Vence 2024-2025: Management of advanced/relapsing endometrial cancer].",
         "pubdate": "2026 Feb",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41617622/"
-      },
-      {
-        "pmid": "41612885",
-        "title": "JADE: phase 3 study of sequential dostarlimab post chemoradiotherapy in patients with locally advanced unresected HNSCC.",
-        "pubdate": "2026 Feb",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41612885/"
       }
     ]
   },

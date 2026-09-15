@@ -1,16 +1,16 @@
 {
   "drug_name": "Ruxolitinib",
   "slug": "ruxolitinib",
-  "enriched_at": "2026-08-15T21:47:45Z",
+  "enriched_at": "2026-09-15T12:36:00Z",
   "source_trial_ids": [
     "NCT06832618"
   ],
   "sponsors": [
     {
       "name": "Incyte Corporation",
-      "ticker": null,
+      "ticker": "INCY",
       "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Incyte%20Corporation&type=10-K&dateb=&owner=include&count=40"
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000879169&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
@@ -66,34 +66,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42601824",
-        "title": "Janus kinase inhibitors after ruxolitinib failure in myelofibrosis: A systematic review and pooled analysis of phase 3 efficacy and integrated safety across clinical trials and real-world evidence.",
-        "pubdate": "2026 Aug 14",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42601824/"
+        "pmid": "42673530",
+        "title": "Second-line and salvage therapies for steroid-refractory acute graft-versus-host disease: an integrated synthesis of current evidence and clinical sequencing.",
+        "pubdate": "2026 Aug 31",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42673530/"
       },
       {
-        "pmid": "42554948",
-        "title": "Real-World Effect of Ruxolitinib Cream: Decreased Use of Additional Topical Therapies and Limited Escalation to Systemic Treatments.",
-        "pubdate": "2026 Aug 5",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42554948/"
+        "pmid": "42657929",
+        "title": "Final results of a phase II study of the combination of azacitidine and ruxolitinib in patients with myelofibrosis.",
+        "pubdate": "2026 Aug 27",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42657929/"
       },
       {
-        "pmid": "42532067",
-        "title": "Low-dose ruxolitinib for graft-versus-host disease prevention in haploidentical haematopoietic stem-cell transplantation: a multicentre, open-label, randomised, controlled, phase 3 trial.",
+        "pmid": "42652943",
+        "title": "Cutaneous Graft-Versus-Host Disease After Allogeneic Hematopoietic Stem Cell Transplantation: A Single-Center Retrospective Cohort Study of Clinical Spectrum and Treatment Patterns.",
+        "pubdate": "2026 Jul 29",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42652943/"
+      },
+      {
+        "pmid": "42634700",
+        "title": "Sequential High-Dose Ruxolitinib and Low-Dose Splenic Irradiation for Pretransplant Management of Splenomegaly Before Allogeneic Hematopoietic Cell Transplantation With Fludarabine/Busulfan-Based Conditioning in Myelofibrosis.",
         "pubdate": "2026 Aug",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42532067/"
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42634700/"
       },
       {
-        "pmid": "42490934",
-        "title": "Thrombotic thrombocytopenic purpura and macrophage activation syndrome secondary to Sjögren's syndrome: a case report.",
-        "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42490934/"
-      },
-      {
-        "pmid": "42484488",
-        "title": "Chronic graft-versus-host disease: Update on pathobiology, biomarkers, and evolving treatment algorithms.",
-        "pubdate": "2026 Jan-Dec",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42484488/"
+        "pmid": "42624289",
+        "title": "Acalabrutinib for Treatment of Steroid-Refractory Chronic Graft Versus Host Disease.",
+        "pubdate": "2026 Aug 20",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42624289/"
       }
     ]
   },
@@ -102,14 +102,29 @@
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
     "items": [
       {
-        "name": "Jaktinib Hydrochloride Tablet",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Suzhou Zelgen Biopharmaceuticals Co.,Ltd"
-      },
-      {
         "name": "Rocatinlimab",
         "chembl_id": null,
         "reason": "same indication trial, sponsor: Amgen"
+      },
+      {
+        "name": "Upadacitinib 15mg Dose",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: AbbVie"
+      },
+      {
+        "name": "Dupilumab 300mg Dose",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: AbbVie"
+      },
+      {
+        "name": "Upadacitinib 30mg Dose",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: AbbVie"
+      },
+      {
+        "name": "CM310",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Keymed Biosciences Co.Ltd"
       }
     ]
   }

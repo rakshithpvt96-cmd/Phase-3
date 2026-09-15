@@ -1,6 +1,65 @@
 {
-  "generated_at": "2026-09-14T15:45:34Z",
-  "new_trial_count": 0,
-  "new_trials": [],
-  "removed_trial_ids": []
+  "generated_at": "2026-09-15T12:31:07Z",
+  "new_trial_count": 1,
+  "new_trials": [
+    {
+      "nct_id": "NCT05263934",
+      "title": "Efficacy and Safety of Depemokimab Compared With Mepolizumab in Adults With Relapsing or Refractory Eosinophilic Granulomatosis With Polyangiitis (EGPA)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-09-29",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Eosinophilic Granulomatosis With Polyangiitis"
+      ],
+      "interventions": [
+        {
+          "name": "Depemokimab",
+          "type": "BIOLOGICAL"
+        },
+        {
+          "name": "Mepolizumab",
+          "type": "BIOLOGICAL"
+        },
+        {
+          "name": "Placebo matching mepolizumab",
+          "type": "DRUG"
+        },
+        {
+          "name": "Placebo matching depemokimab",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "Depemokimab",
+        "Mepolizumab",
+        "Placebo matching mepolizumab",
+        "Placebo matching depemokimab"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT05263934",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "GlaxoSmithKline",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=GlaxoSmithKline&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-09-13T12:47:32Z"
+      }
+    }
+  ],
+  "removed_trial_ids": [
+    "NCT05425940",
+    "NCT05691244",
+    "NCT05929079",
+    "NCT06383403"
+  ]
 }

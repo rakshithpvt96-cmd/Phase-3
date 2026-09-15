@@ -1,12 +1,17 @@
 {
   "drug_name": "Brivaracetam",
   "slug": "brivaracetam",
-  "enriched_at": "2026-08-15T21:08:30Z",
+  "enriched_at": "2026-09-15T12:37:49Z",
   "source_trial_ids": [
     "NCT04666610"
   ],
   "sponsors": [
-    "UCB Biopharma SRL"
+    {
+      "name": "UCB Biopharma SRL",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=UCB%20Biopharma%20SRL&type=10-K&dateb=&owner=include&count=40"
+    }
   ],
   "identity": {
     "pubchem_cid": 9837243,
@@ -40,7 +45,7 @@
     "openfda_generic_names": [
       "BRIVARACETAM"
     ],
-    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=57cfb2c3-395d-0892-e063-6294a90a1064",
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=11ca0e1d-1c0d-4357-9ebd-ee1e87185dde",
     "note": null,
     "further_reading": null
   },

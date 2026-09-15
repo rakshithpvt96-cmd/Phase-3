@@ -1,14 +1,12 @@
 {
   "drug_name": "Gemcitabine",
   "slug": "gemcitabine",
-  "enriched_at": "2026-08-15T22:17:19Z",
+  "enriched_at": "2026-09-15T12:33:54Z",
   "source_trial_ids": [
-    "NCT03257033",
     "NCT05254171",
     "NCT06343948",
     "NCT06370871",
-    "NCT06519370",
-    "NCT06625320"
+    "NCT06519370"
   ],
   "sponsors": [
     {
@@ -22,18 +20,6 @@
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Panbela%20Therapeutics%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
-      "name": "RenovoRx",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=RenovoRx&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
-      "name": "Revolution Medicines, Inc.",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Revolution%20Medicines%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Shanghai Fudan-Zhangjiang Bio-Pharmaceutical Co., Ltd.",
@@ -85,17 +71,10 @@
     "further_reading": null
   },
   "condition": {
-    "raw": "Locally Advanced Pancreatic Cancer",
-    "slug": "locally-advanced-pancreatic-cancer"
+    "raw": "Advanced Soft Tissue Sarcoma",
+    "slug": "advanced-soft-tissue-sarcoma"
   },
   "source_trials": [
-    {
-      "nct_id": "NCT03257033",
-      "title": "Intra-arterial Gemcitabine vs. IV Gemcitabine and Nab-Paclitaxel Following Radiotherapy for LAPC",
-      "status": "RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT03257033",
-      "has_results": false
-    },
     {
       "nct_id": "NCT05254171",
       "title": "Study of Nab-Paclitaxel and Gemcitabine With or Without SBP-101 in Pancreatic Cancer",
@@ -123,47 +102,40 @@
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT06519370",
       "has_results": false
-    },
-    {
-      "nct_id": "NCT06625320",
-      "title": "Phase 3 Study of Daraxonrasib (RMC-6236) in Patients With Previously Treated Metastatic Pancreatic Ductal Adenocarcinoma (PDAC)",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06625320",
-      "has_results": false
     }
   ],
   "prior_results": {
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42598252",
-        "title": "A Real-World Study Characterizing a US Population of Patients Receiving Rituximab With Gemcitabine and Oxaliplatin for Relapsed or Refractory Large B-Cell Lymphoma.",
-        "pubdate": "2026 Aug",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42598252/"
+        "pmid": "42733563",
+        "title": "Short-term versus long-course neoadjuvant chemotherapy for resectable and borderline resectable pancreatic ductal adenocarcinoma (PACT-21 CASSANDRA): results from the second randomisation analysis of a randomised, open-label, 2 × 2 factorial phase 3 trial.",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42733563/"
       },
       {
-        "pmid": "42574460",
-        "title": "Co-Clinical Evaluation of Synthetic Vitamin D and Chemotherapy in Pancreatic Cancer by Integrated Imaging and Molecular Analyses.",
-        "pubdate": "2026 Aug 10",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42574460/"
+        "pmid": "42727307",
+        "title": "Real-World Treatment Duration With First-line Enfortumab Vedotin Plus Pembrolizumab for Advanced Urothelial Cancer: A National Electronic Health Record Study.",
+        "pubdate": "2026 Aug 17",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42727307/"
       },
       {
-        "pmid": "42535874",
-        "title": "TroFuse-011 study design: sacituzumab tirumotecan with or without pembrolizumab for advanced triple-negative breast cancer with PD-L1 CPS <10.",
-        "pubdate": "2026 Aug",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42535874/"
+        "pmid": "42725320",
+        "title": "Systemic treatment of advanced pancreatic cancer: A Comprehensive Review.",
+        "pubdate": "2026 Mar",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42725320/"
       },
       {
-        "pmid": "42525419",
-        "title": "Maximal Ablative Irradiation Because of Encasement for Patients With Locally Advanced Pancreatic Cancer: A Nonrandomized Clinical Trial.",
-        "pubdate": "2026 Jul 29",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42525419/"
+        "pmid": "42712492",
+        "title": "Multi-modal digital twin model outperforms conventional biomarker stratification in pancreatic cancer.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42712492/"
       },
       {
-        "pmid": "42517235",
-        "title": "Estimating the cost-effectiveness of tumor treating fields for locally advanced pancreatic cancer patients.",
-        "pubdate": "2026 Dec",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42517235/"
+        "pmid": "42691249",
+        "title": "Enhancing Gemcitabine Uptake by Promoting Dimerization of the ENT1 Transporter Improves Sarcoma Patient Response Rate.",
+        "pubdate": "2026 Sep 3",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42691249/"
       }
     ]
   },

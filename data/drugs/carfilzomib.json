@@ -1,7 +1,7 @@
 {
   "drug_name": "Carfilzomib",
   "slug": "carfilzomib",
-  "enriched_at": "2026-08-16T07:33:35Z",
+  "enriched_at": "2026-09-15T12:32:19Z",
   "source_trial_ids": [
     "NCT05552976",
     "NCT06152575"
@@ -9,9 +9,9 @@
   "sponsors": [
     {
       "name": "Bristol-Myers Squibb",
-      "ticker": null,
+      "ticker": "BMY",
       "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Bristol-Myers%20Squibb&type=10-K&dateb=&owner=include&count=40"
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000014272&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Pfizer",
@@ -80,6 +80,12 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42699035",
+        "title": "From toxicity to immunity: Evaluating CAR-T and conventional therapies in multiple myeloma through quality-adjusted life year (QALY) outcomes.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42699035/"
+      },
+      {
         "pmid": "42515832",
         "title": "A Simulation-Based Assessment of Dosage Regimen Appropriateness for Multiple Myeloma Medicines Reflecting Demographic and Ethnic Differences.",
         "pubdate": "2026 Aug",
@@ -102,12 +108,6 @@
         "title": "Mezigdomide, carfilzomib, and dexamethasone versus carfilzomib and dexamethasone in patients with relapsed or refractory multiple myeloma (SUCCESSOR-2): a phase 3, open-label, randomised controlled trial.",
         "pubdate": "2026 Jul 18",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42289183/"
-      },
-      {
-        "pmid": "41942646",
-        "title": "Isatuximab, carfilzomib, lenalidomide and dexamethasone in newly diagnosed multiple myeloma: a randomized phase 3 trial.",
-        "pubdate": "2026 May",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41942646/"
       }
     ]
   },

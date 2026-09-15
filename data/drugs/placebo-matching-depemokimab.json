@@ -1,0 +1,86 @@
+{
+  "drug_name": "Placebo matching depemokimab",
+  "slug": "placebo-matching-depemokimab",
+  "enriched_at": "2026-09-15T12:35:05Z",
+  "source_trial_ids": [
+    "NCT05263934"
+  ],
+  "sponsors": [
+    {
+      "name": "GlaxoSmithKline",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=GlaxoSmithKline&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2729265",
+      "generic_name": "depemokimab",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4650469",
+    "target_chembl_id": "CHEMBL1169600",
+    "target_name": "Interleukin-5",
+    "mechanism_of_action_chembl": "Interleukin-5 inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Placebo%20matching%20depemokimab+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Placebo%20matching%20depemokimab+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Placebo%20matching%20depemokimab+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Eosinophilic Granulomatosis With Polyangiitis",
+    "slug": "eosinophilic-granulomatosis-with-polyangiitis"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05263934",
+      "title": "Efficacy and Safety of Depemokimab Compared With Mepolizumab in Adults With Relapsing or Refractory Eosinophilic Granulomatosis With Polyangiitis (EGPA)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05263934",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "41461999",
+        "title": "Safety and Tolerability of Twice-Yearly Depemokimab in Patients with Asthma and Chronic Rhinosinusitis with Nasal Polyps: Pooled Results from SWIFT-1/-2 and ANCHOR-1/-2.",
+        "pubdate": "2026 Feb",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41461999/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "MEPOLIZUMAB",
+        "chembl_id": "CHEMBL2108429",
+        "reason": "same target: Interleukin-5"
+      },
+      {
+        "name": "RESLIZUMAB",
+        "chembl_id": "CHEMBL2107884",
+        "reason": "same target: Interleukin-5"
+      }
+    ]
+  }
+}

@@ -1,10 +1,9 @@
 {
-  "drug_name": "leucovorin",
+  "drug_name": "Leucovorin",
   "slug": "leucovorin",
-  "enriched_at": "2026-08-15T22:19:10Z",
+  "enriched_at": "2026-09-15T12:40:15Z",
   "source_trial_ids": [
-    "NCT05568095",
-    "NCT06625320"
+    "NCT05568095"
   ],
   "sponsors": [
     {
@@ -12,12 +11,6 @@
       "ticker": "RCUS",
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001724521&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
-      "name": "Revolution Medicines, Inc.",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Revolution%20Medicines%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
@@ -57,22 +50,15 @@
     "further_reading": null
   },
   "condition": {
-    "raw": "Pancreatic Cancer",
-    "slug": "pancreatic-cancer"
+    "raw": "Advanced Upper Gastrointestinal Tract Adenocarcinoma",
+    "slug": "advanced-upper-gastrointestinal-tract-adenocarcinoma"
   },
   "source_trials": [
     {
       "nct_id": "NCT05568095",
       "title": "A Clinical Trial of a New Combination Treatment, Domvanalimab and Zimberelimab, Plus Chemotherapy, for People With an Upper Gastrointestinal Tract Cancer That Cannot be Removed With Surgery That Has Spread to Other Parts of the Body",
-      "status": "ACTIVE_NOT_RECRUITING",
+      "status": "COMPLETED",
       "url": "https://clinicaltrials.gov/study/NCT05568095",
-      "has_results": false
-    },
-    {
-      "nct_id": "NCT06625320",
-      "title": "Phase 3 Study of Daraxonrasib (RMC-6236) in Patients With Previously Treated Metastatic Pancreatic Ductal Adenocarcinoma (PDAC)",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06625320",
       "has_results": false
     }
   ],
@@ -80,34 +66,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42545685",
-        "title": "Addition of High-Dose Vitamin D3 to Standard Treatment in Patients With Metastatic Colorectal Cancer: The SOLARIS Randomized Clinical Trial (Alliance A021703).",
-        "pubdate": "2026 Aug 3",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42545685/"
+        "pmid": "42733563",
+        "title": "Short-term versus long-course neoadjuvant chemotherapy for resectable and borderline resectable pancreatic ductal adenocarcinoma (PACT-21 CASSANDRA): results from the second randomisation analysis of a randomised, open-label, 2 × 2 factorial phase 3 trial.",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42733563/"
       },
       {
-        "pmid": "42536436",
-        "title": "HopeFOL, or FOL of problems? Leucovorin for autistic symptoms.",
-        "pubdate": "2026 Aug 6",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42536436/"
+        "pmid": "42731846",
+        "title": "FOLFOX-based transarterial infusion chemotherapy for unresectable colorectal cancer: protocol of an open-label, multicentre, randomised, controlled, phase II trial.",
+        "pubdate": "2026 Sep 11",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42731846/"
       },
       {
-        "pmid": "42525419",
-        "title": "Maximal Ablative Irradiation Because of Encasement for Patients With Locally Advanced Pancreatic Cancer: A Nonrandomized Clinical Trial.",
-        "pubdate": "2026 Jul 29",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42525419/"
+        "pmid": "42716074",
+        "title": "Perioperative durvalumab plus fluorouracil, leucovorin, oxaliplatin, and docetaxel for resectable gastric and gastro-oesophageal junction adenocarcinoma (MATTERHORN): final results of overall survival and event-free survival by pathological response in a global, randomised, double-blind, placebo-controlled, multicentre, phase 3 trial.",
+        "pubdate": "2026 Sep 9",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42716074/"
       },
       {
-        "pmid": "42516476",
-        "title": "Upper Gastrointestinal Cancer Audit: A Retrospective Analysis of Patient Outcomes in North Wales.",
-        "pubdate": "2026 Jun",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42516476/"
+        "pmid": "42689097",
+        "title": "Folate in autism neurodevelopment.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42689097/"
       },
       {
-        "pmid": "42414817",
-        "title": "The Landmark Series: Neoadjuvant Therapy for Patients with Resectable Gastroesophageal Junction Adenocarcinomas.",
-        "pubdate": "2026 Jul 7",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42414817/"
+        "pmid": "42658449",
+        "title": "Phase II study of mFOLFOX6 in advanced gastric cancer patients with severe peritoneal metastases (WJOG10517G), including an individual patient data comparison with JCOG1108/WJOG7312G.",
+        "pubdate": "2026 Aug 27",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42658449/"
       }
     ]
   },

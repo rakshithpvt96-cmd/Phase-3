@@ -1,16 +1,16 @@
 {
   "drug_name": "Mesalamine",
   "slug": "mesalamine",
-  "enriched_at": "2026-08-16T07:53:16Z",
+  "enriched_at": "2026-09-15T12:40:30Z",
   "source_trial_ids": [
     "NCT05316220"
   ],
   "sponsors": [
     {
       "name": "AbbVie",
-      "ticker": null,
+      "ticker": "ABBV",
       "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=AbbVie&type=10-K&dateb=&owner=include&count=40"
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001551152&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
@@ -45,7 +45,7 @@
     "openfda_generic_names": [
       "MESALAMINE"
     ],
-    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=14ac4435-903b-41f5-a3c4-8c73de3e4cef",
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=c8b93ea3-0367-4605-b87f-06c3812ff3b7",
     "note": null,
     "further_reading": null
   },

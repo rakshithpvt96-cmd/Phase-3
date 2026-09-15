@@ -1,12 +1,17 @@
 {
   "drug_name": "Dexamethasone phosphate",
   "slug": "dexamethasone-phosphate",
-  "enriched_at": "2026-08-15T21:11:51Z",
+  "enriched_at": "2026-09-15T12:38:16Z",
   "source_trial_ids": [
     "NCT07305987"
   ],
   "sponsors": [
-    "Laboratorios Sophia S.A de C.V."
+    {
+      "name": "Laboratorios Sophia S.A de C.V.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Laboratorios%20Sophia%20S.A%20de%20C.V.&type=10-K&dateb=&owner=include&count=40"
+    }
   ],
   "identity": {
     "pubchem_cid": 9400,
@@ -36,7 +41,7 @@
     "boxed_warning": null,
     "openfda_brand_names": [],
     "openfda_generic_names": [],
-    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a31b013f-924c-42f8-b8ab-ce60bb8ad7b8",
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=11f10a47-1c42-40e4-89d8-bb000fef497c",
     "note": "A label exists in DailyMed but structured sections could not be parsed automatically -- see dailymed_url for the full label.",
     "further_reading": {
       "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Dexamethasone%20phosphate+mechanism+of+action",
@@ -61,6 +66,12 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42600624",
+        "title": "Neurological effects of encapsulated dexamethasone sodium phosphate in children aged 6-9 years with ataxia telangiectasia (NEAT): a multicentre, randomised, double-blind, placebo-controlled, phase 3 trial.",
+        "pubdate": "2026 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42600624/"
+      },
+      {
         "pmid": "41789550",
         "title": "A randomized, masked, crossover, clinical trial of the efficacy and safety of nebulized albuterol sulfate and dexamethasone sodium phosphate in asthmatic horses.",
         "pubdate": "2026 Mar 2",
@@ -83,12 +94,6 @@
         "title": "Effectiveness of topical application with dexamethasone during sagittal split osteotomy of the mandible in minimising clinical symptoms of postoperative neurosensory disorders.",
         "pubdate": "2025 Feb 20",
         "url": "https://pubmed.ncbi.nlm.nih.gov/39979951/"
-      },
-      {
-        "pmid": "39152028",
-        "title": "Safety and efficacy of intra-erythrocyte dexamethasone sodium phosphate in children with ataxia telangiectasia (ATTeST): a multicentre, randomised, double-blind, placebo-controlled phase 3 trial.",
-        "pubdate": "2024 Sep",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/39152028/"
       }
     ]
   },

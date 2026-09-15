@@ -1,16 +1,16 @@
 {
   "drug_name": "Oral semaglutide",
   "slug": "oral-semaglutide",
-  "enriched_at": "2026-08-16T07:55:33Z",
+  "enriched_at": "2026-09-15T12:41:19Z",
   "source_trial_ids": [
     "NCT07271251"
   ],
   "sponsors": [
     {
       "name": "Novo Nordisk A/S",
-      "ticker": null,
+      "ticker": "NVO",
       "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Novo%20Nordisk%20A/S&type=10-K&dateb=&owner=include&count=40"
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000353278&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
@@ -67,34 +67,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42729683",
+        "title": "Oral small-molecule GLP-1 receptor agonists: a new Frontier in cardiometabolic medicine.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42729683/"
+      },
+      {
+        "pmid": "42720565",
+        "title": "GLP-1 receptor agonism in Alzheimer's disease after EVOKE: From single hypothesis to stratified program.",
+        "pubdate": "2026 Sep 10",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42720565/"
+      },
+      {
+        "pmid": "42696191",
+        "title": "Oral Incretin-Based Therapies for Weight Management.",
+        "pubdate": "2026 Sep 4",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42696191/"
+      },
+      {
+        "pmid": "42649514",
+        "title": "Disease-modifying anti-diabetic drugs (DMADDs): bridging the SIMPLE approach to disease interception.",
+        "pubdate": "2026 Aug 26",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42649514/"
+      },
+      {
         "pmid": "42582425",
         "title": "Potential nephroprotective mechanisms of orforglipron, an oral non-peptide GLP-1 receptor agonist.",
         "pubdate": "2026",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42582425/"
-      },
-      {
-        "pmid": "42567173",
-        "title": "Effect of semaglutide on kidney outcomes in the SELECT, FLOW, and SOUL trials: a prespecified pooled analysis.",
-        "pubdate": "2026 Aug 7",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42567173/"
-      },
-      {
-        "pmid": "42522065",
-        "title": "Oral Semaglutide for Alcohol Use Disorder: A Randomized Clinical Trial.",
-        "pubdate": "2026 Jul 29",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42522065/"
-      },
-      {
-        "pmid": "42372276",
-        "title": "Weekly and Biweekly Treatment With Bofanglutide Versus Semaglutide in Chinese Patients With Type 2 Diabetes : A Phase 2b Randomized Clinical Trial.",
-        "pubdate": "2026 Jun 30",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42372276/"
-      },
-      {
-        "pmid": "42338042",
-        "title": "Hepatic Safety of Orforglipron in Adults With Obesity or Overweight and/or Type 2 Diabetes: A Pooled Analysis of the Orforglipron Phase 3 Clinical Trials.",
-        "pubdate": "2026 Sep",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42338042/"
       }
     ]
   },
@@ -103,44 +103,14 @@
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
     "items": [
       {
-        "name": "HRS-7535 tablet",
+        "name": "HRS9531 Injection",
         "chembl_id": null,
-        "reason": "same indication trial, sponsor: Shandong Suncadia Medicine Co., Ltd."
+        "reason": "same indication trial, sponsor: Fujian Shengdi Pharmaceutical Co., Ltd."
       },
       {
-        "name": "dapagliflozin tablet",
+        "name": "Semaglutide Injection",
         "chembl_id": null,
-        "reason": "same indication trial, sponsor: Shandong Suncadia Medicine Co., Ltd."
-      },
-      {
-        "name": "THP-00101",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: THPharm Corp."
-      },
-      {
-        "name": "THP-00102",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: THPharm Corp."
-      },
-      {
-        "name": "THP-00103",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: THPharm Corp."
-      },
-      {
-        "name": "THP-00104",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: THPharm Corp."
-      },
-      {
-        "name": "THP-00105",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: THPharm Corp."
-      },
-      {
-        "name": "THP-00106",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: THPharm Corp."
+        "reason": "same indication trial, sponsor: Fujian Shengdi Pharmaceutical Co., Ltd."
       }
     ]
   }

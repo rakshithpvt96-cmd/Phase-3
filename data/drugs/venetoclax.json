@@ -1,16 +1,16 @@
 {
   "drug_name": "Venetoclax",
   "slug": "venetoclax",
-  "enriched_at": "2026-08-16T07:38:21Z",
+  "enriched_at": "2026-09-15T12:36:49Z",
   "source_trial_ids": [
     "NCT03539744"
   ],
   "sponsors": [
     {
       "name": "AbbVie",
-      "ticker": null,
+      "ticker": "ABBV",
       "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=AbbVie&type=10-K&dateb=&owner=include&count=40"
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001551152&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
@@ -66,34 +66,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42583229",
-        "title": "Venetoclax plus azacitidine, low-dose cytarabine, aclarubicin, and G-CSF (VA-CAG regimen) for newly diagnosed young patients with acute myeloid leukemia: A prospective, multicenter, single-arm Phase II clinical trial.",
-        "pubdate": "2026 Aug",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42583229/"
+        "pmid": "42736326",
+        "title": "Targeting CD38 with bispecific antibody XmAb 18968 in patients with relapsed/refractory acute myeloid leukemia and T-cell acute lymphoblastic leukemia.",
+        "pubdate": "2026 Sep 14",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42736326/"
       },
       {
-        "pmid": "42566728",
-        "title": "Contemporary Management of Relapsed or Refractory Chronic Lymphocytic Leukemia.",
-        "pubdate": "2026 Aug 7",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42566728/"
+        "pmid": "42707370",
+        "title": "Venetoclax plus azacitidine in higher-risk myelodysplastic syndromes: a treatment-purpose framework for interpreting response depth.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42707370/"
       },
       {
-        "pmid": "42563153",
-        "title": "DECIDER-2: Prospective randomized multicenter phase III trial of decitabine and venetoclax administered in combination with all-trans retinoic acid or placebo in patients with acute myeloid leukemia who are ineligible for induction chemotherapy.",
-        "pubdate": "2026 Aug 5",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42563153/"
+        "pmid": "42658749",
+        "title": "Redefining Fitness in Chronic Lymphocytic Leukaemia: A Treatment-Specific Framework for the Targeted Therapy Era.",
+        "pubdate": "2026 Aug 27",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42658749/"
       },
       {
-        "pmid": "42534709",
-        "title": "Resolution of Paraneoplastic Cutaneous Angioendotheliomatosis After CAR T-Cell Therapy in TP53-Deleted CLL: A Case Report.",
-        "pubdate": "2026 Aug",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42534709/"
+        "pmid": "42643310",
+        "title": "Antigen-directed p53 restoration in TP53-mutated myeloid neoplasms: a hypothesis and theory perspective.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42643310/"
       },
       {
-        "pmid": "42462092",
-        "title": "First-line ibrutinib plus venetoclax for non-blastoid mantle cell lymphoma in patients ≥65 years or with TP53 mutations.",
-        "pubdate": "2026 Jul 1",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42462092/"
+        "pmid": "42624697",
+        "title": "Real-World Outcomes in First-Line Venetoclax-Based Therapy in Patients With AML Ineligible for Intensive Chemotherapy: A Single Center Study.",
+        "pubdate": "2026 Jul 29",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42624697/"
       }
     ]
   },

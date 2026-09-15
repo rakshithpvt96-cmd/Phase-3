@@ -1,16 +1,16 @@
 {
   "drug_name": "Osimertinib",
   "slug": "osimertinib",
-  "enriched_at": "2026-08-15T21:40:51Z",
+  "enriched_at": "2026-09-15T12:34:51Z",
   "source_trial_ids": [
     "NCT05261399"
   ],
   "sponsors": [
     {
       "name": "AstraZeneca",
-      "ticker": null,
+      "ticker": "AZN",
       "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=AstraZeneca&type=10-K&dateb=&owner=include&count=40"
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000901832&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
@@ -66,34 +66,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42601951",
-        "title": "Case Report: Diabetic ketoacidosis following EGFR-TKIs therapy via aggravated insulin resistance.",
+        "pmid": "42735369",
+        "title": "P-Loop/αC-Helix Compressing Mutations and Exon 20 Insertions in EGFR-Mutant NSCLC: A Rapidly Evolving Therapeutic Landscape.",
+        "pubdate": "2026 Sep 14",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42735369/"
+      },
+      {
+        "pmid": "42732874",
+        "title": "Adjuvant Osimertinib in Resected EGFR-Mutated Stage IB-IIIA Non-Small Cell Lung Cancer: Exploratory 8-year Overall Survival Landmark Update from the ADAURA Trial [161/175].",
+        "pubdate": "2026 Sep 13",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42732874/"
+      },
+      {
+        "pmid": "42728535",
+        "title": "Osimertinib Plus Platinum-Pemetrexed: A Review in Previously Untreated, EGFR-Mutated, Locally Advanced or Metastatic NSCLC.",
+        "pubdate": "2026 Sep 11",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42728535/"
+      },
+      {
+        "pmid": "42728193",
+        "title": "Long-term safety of first-line osimertinib plus platinum-pemetrexed in EGFR-mutated advanced NSCLC: FLAURA2.",
+        "pubdate": "2026 Sep 14",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42728193/"
+      },
+      {
+        "pmid": "42689237",
+        "title": "Yifeixiaoji decoction as an adjunct to osimertinib therapy in advanced EGFR-mutated NSCLC: protocol for a randomized, double-blind, placebo-controlled trial.",
         "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42601951/"
-      },
-      {
-        "pmid": "42574006",
-        "title": "Osimertinib With or Without Chemotherapy in Advanced Non-Small Cell Lung Cancer With EGFR and Concurrent TP53 Mutations: A Randomized Clinical Trial.",
-        "pubdate": "2026 Aug 10",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42574006/"
-      },
-      {
-        "pmid": "42515911",
-        "title": "Lazertinib: A Selective EGFR Mutant Inhibitor to Treat Non-Small Cell Lung Cancer.",
-        "pubdate": "2026 Jul 23",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42515911/"
-      },
-      {
-        "pmid": "42492306",
-        "title": "Assessing time to symptomatic progression, a patient-relevant efficacy endpoint, in the MARIPOSA study in non-small cell lung cancer.",
-        "pubdate": "2026 Jul 9",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42492306/"
-      },
-      {
-        "pmid": "42489649",
-        "title": "Recent advances in EGFR-targeted therapies for non-small cell lung cancer.",
-        "pubdate": "2026 Aug",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42489649/"
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42689237/"
       }
     ]
   },

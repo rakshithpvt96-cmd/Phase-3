@@ -1,16 +1,16 @@
 {
   "drug_name": "Olaparib",
   "slug": "olaparib",
-  "enriched_at": "2026-08-15T22:20:48Z",
+  "enriched_at": "2026-09-15T12:34:42Z",
   "source_trial_ids": [
     "NCT04884360"
   ],
   "sponsors": [
     {
       "name": "AstraZeneca",
-      "ticker": null,
+      "ticker": "AZN",
       "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=AstraZeneca&type=10-K&dateb=&owner=include&count=40"
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000901832&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
@@ -66,6 +66,18 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42725320",
+        "title": "Systemic treatment of advanced pancreatic cancer: A Comprehensive Review.",
+        "pubdate": "2026 Mar",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42725320/"
+      },
+      {
+        "pmid": "42705254",
+        "title": "Chemotherapy with or without pembrolizumab followed by maintenance pembrolizumab with or without olaparib as first-line treatment of patients with advanced BRCA non-mutated epithelial ovarian cancer (ENGOT-OV43/GOG-3036/KEYLYNK-001): a randomised, double-blind, placebo-controlled, phase 3 trial.",
+        "pubdate": "2026 Sep 7",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42705254/"
+      },
+      {
         "pmid": "42595654",
         "title": "Efficacy of Olaparib Plus Abiraterone for Patients with Metastatic Castration-resistant Prostate Cancer and Single Homologous Recombination Repair Gene Mutations in PROpel.",
         "pubdate": "2026 Aug 13",
@@ -80,20 +92,8 @@
       {
         "pmid": "42431822",
         "title": "Real-world clinical outcomes, genetic testing patterns, and treatment patterns of patients with metastatic castration-resistant prostate cancer treated with olaparib monotherapy in the United States.",
-        "pubdate": "2026 Jul 10",
+        "pubdate": "2026 Sep",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42431822/"
-      },
-      {
-        "pmid": "42386344",
-        "title": "PARP inhibition combined with a T-cell receptor β chain-directed antibody fusion molecule drives polyclonal antitumor immunity and tumor regression.",
-        "pubdate": "2026 Jul 1",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42386344/"
-      },
-      {
-        "pmid": "42372741",
-        "title": "Targeting homologous recombination deficiency with intensified chemotherapy versus standard chemotherapy followed by olaparib in stage III breast cancer (SUBITO): an open-label, randomised, controlled, phase 3 trial.",
-        "pubdate": "2026 Jul",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42372741/"
       }
     ]
   },

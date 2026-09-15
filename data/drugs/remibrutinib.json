@@ -1,7 +1,7 @@
 {
   "drug_name": "Remibrutinib",
   "slug": "remibrutinib",
-  "enriched_at": "2026-08-16T07:34:45Z",
+  "enriched_at": "2026-09-15T12:35:36Z",
   "source_trial_ids": [
     "NCT05147220",
     "NCT05156281"
@@ -57,14 +57,14 @@
   "source_trials": [
     {
       "nct_id": "NCT05147220",
-      "title": "Efficacy and Safety of Remibrutinib Compared to Teriflunomide in Participants With Relapsing Multiple Sclerosis (RMS)",
+      "title": "Efficacy and Safety of Remibrutinib Compared to Teriflunomide in Participants With Relapsing Multiple Sclerosis (RMS) (REMODEL-1)",
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT05147220",
       "has_results": false
     },
     {
       "nct_id": "NCT05156281",
-      "title": "Efficacy and Safety of Remibrutinib Compared to Teriflunomide in Participants With Relapsing Multiple Sclerosis (RMS)",
+      "title": "Efficacy and Safety of Remibrutinib Compared to Teriflunomide in Participants With Relapsing Multiple Sclerosis (RMS) (REMODEL-2)",
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT05156281",
       "has_results": false
@@ -74,6 +74,24 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42645084",
+        "title": "Emerging and Newly Approved Therapies for Antihistamine-Refractory Chronic Spontaneous Urticaria: A Narrative Review.",
+        "pubdate": "2026 Jul 31",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42645084/"
+      },
+      {
+        "pmid": "42631623",
+        "title": "Bruton's tyrosine kinase inhibition for food-induced anaphylaxis.",
+        "pubdate": "2026 Oct 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42631623/"
+      },
+      {
+        "pmid": "42615080",
+        "title": "Emerging pharmacotherapies for chronic spontaneous urticaria: spotlight on BTK inhibitors.",
+        "pubdate": "2026 Aug 26",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42615080/"
+      },
+      {
         "pmid": "42342652",
         "title": "Emerging synthetic drugs for the management of hidradenitis suppurativa: a comprehensive update.",
         "pubdate": "2026 Jul",
@@ -82,26 +100,8 @@
       {
         "pmid": "42297099",
         "title": "Remibrutinib impact on disease control, sleep, and quality of life: Analysis of phase 3 REMIX-1/2.",
-        "pubdate": "2026 Jun 15",
+        "pubdate": "2026 Sep",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42297099/"
-      },
-      {
-        "pmid": "42242425",
-        "title": "Safety of Remibrutinib in Chronic Spontaneous Urticaria: A Pooled Analysis of REMIX-1 and REMIX-2 Trials.",
-        "pubdate": "2026 Aug",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42242425/"
-      },
-      {
-        "pmid": "42134274",
-        "title": "Investigations of remibrutinib in models pertinent to multiple sclerosis.",
-        "pubdate": "2026 Apr",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42134274/"
-      },
-      {
-        "pmid": "42075951",
-        "title": "Bruton's Tyrosine Kinase Inhibitors in Multiple Sclerosis: Mechanistic Considerations Across Relapsing and Progressive Disease.",
-        "pubdate": "2026 Apr 12",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42075951/"
       }
     ]
   },

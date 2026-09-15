@@ -1,0 +1,110 @@
+{
+  "drug_name": "Mepolizumab",
+  "slug": "mepolizumab",
+  "enriched_at": "2026-09-15T12:34:26Z",
+  "source_trial_ids": [
+    "NCT05263934"
+  ],
+  "sponsors": [
+    {
+      "name": "GlaxoSmithKline",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=GlaxoSmithKline&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1720597",
+      "generic_name": "mepolizumab",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2108429",
+    "target_chembl_id": "CHEMBL1169600",
+    "target_name": "Interleukin-5",
+    "mechanism_of_action_chembl": "Interleukin-5 inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Mepolizumab is an IL-5 antagonist (IgG1 kappa). IL-5 is the major cytokine responsible for the growth and differentiation, recruitment, activation, and survival of eosinophils. Mepolizumab binds to IL-5 with a dissociation constant of 100 pM, inhibiting the bioactivity of IL-5 by blocking its binding to the alpha chain of the IL-5 receptor complex expressed on the eosinophil cell surface. Inflammation is an important component in the pathogenesis of asthma, CRSwNP, COPD, EGPA, and HES. Multiple cell types (e.g., mast cells, eosinophils, neutrophils, macrophages, lymphocytes) and mediators (e.g., histamine, eicosanoids, leukotrienes, cytokines) are involved in inflammation. Mepolizumab, by inhibiting IL-5 signaling, reduces the production and survival of eosinophils; however, the mechanism of mepolizumab action in asthma, CRSwNP, COPD, EGPA, and HES has not been definitively established.",
+    "pharmacokinetics": "12.3 Pharmacokinetics Following subcutaneous dosing in adult subjects with asthma, mepolizumab exhibited approximately dose‑proportional pharmacokinetics over a dose range of 12.5 to 250 mg. The pharmacokinetic properties of mepolizumab observed in subjects with CRSwNP (adults), COPD (adults), EGPA (adults), or HES (adults and adolescents) were similar to the pharmacokinetic properties observed in subjects with severe asthma (adults and adolescents). Subcutaneous administration of mepolizumab 300 mg had approximately 3 times the systemic exposure of mepolizumab 100 mg. Absorption Following 100-mg subcutaneous administration in the upper arm of adult and adolescent subjects with asthma, the bioavailability of mepolizumab was estimated to be approximately 80%. Following repeat subcutaneous administration once every 4 weeks, there was approximately a 2-fold accumulation at steady state. Distribution The population central volume of distribution of mepolizumab in adult subjects with asthma is estimated to be 3.6 L for a 70-kg individual. Elimination Following subcutaneous administration of mepolizumab in adult subjects with asthma, the mean terminal half-life (t 1/2 ) ranged from 16 to 22 days. The population apparent systemic clearance of mepolizumab in adult and adolescent subjects with asthma is estimated to be 0.28 L/day for a 70-kg individual. Metabolism: Mepolizumab is a humanized IgG1 monoclonal antibody that is degraded by the proteolytic enzymes widely distributed in the body and not restricted to hepatic tissue. Specific Populations Racial Groups and Male and Female Patients: Population pharmacokinetics analyses indicated there was no significant effect of race and gender on mepolizumab clearance. Age: Population pharmacokinetics analyses indicated there was no significant effect of age on mepolizumab clearance. Pediatric Patients: Mepolizumab pharmacokinetics following subcutaneous administration in subjects aged 6 to 11 years with severe asthma was investigated in the initial 12-week treatment phase of an open-label clinical trial. Exposures (AUC) following subcutaneous administration of either 40 mg (for children weighing <40 kg) or 100 mg (for children weighing ≥40 kg) were 1.32 and 1.97 times higher, respectively, compared with that observed in adults and adolescents receiving 100 mg. Based on these results, simulation of a 40-mg subcutaneous dose every 4 weeks in children aged 6 to 11 years, irrespective of body weight, resulted in predicted exposures similar to that observed in adults and adolescents. Patients with Renal Impairment: No clinical trials have been conducted to investigate the effect of renal impairment on the pharmacokinetics of mepolizumab. Based on population pharmacokinetic analyses, mepolizumab clearance was comparable between subjects with creatinine clearance values between 50 and 80 mL/min and patients with normal renal function. There are limited data available in subjects with creatinine clearance values <50 mL/min; however, mepolizumab is not cleared renally. Patients with Hepatic Impairment: No clinical trials have been conducted to investigate the effect of hepatic impairment on the pharmacokinetics of mepolizumab. Since mepolizumab is degraded by widely distributed proteolytic enzymes, not restricted to hepatic tissue, changes in hepatic function are unlikely to have any effect on the elimination of mepolizumab. Drug Interaction Studies No formal drug interaction studies have been conducted with mepolizumab. In population pharmacokinetics analyses of Phase 3 studies, there was no evidence of an effect of commonly coadministered small molecule drugs on mepolizumab exposure.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE NUCALA is an interleukin-5 (IL-5) antagonist monoclonal antibody (IgG1 kappa) indicated for: • Add-on maintenance treatment of adult and pediatric patients aged 6 years and older with severe asthma and with an eosinophilic phenotype. ( 1.1 ) • Add-on maintenance treatment of adult patients aged 18 years and older with chronic rhinosinusitis with nasal polyps (CRSwNP). ( 1.2 ) • Add-on maintenance treatment of adult patients with inadequately controlled chronic obstructive pulmonary disease (COPD) and an eosinophilic phenotype. ( 1.3 ) • The treatment of adult patients with eosinophilic granulomatosis with polyangiitis (EGPA). ( 1.4 ) • The treatment of adult and pediatric patients aged 12 years and older with hypereosinophilic syndrome (HES) for greater than or equal to 6 months without an identifiable non-hematologic secondary cause. ( 1.5 ) Limitations of use: Not for relief of acute bronchospasm or status asthmaticus. ( 1.1 , 1.3 ) 1.1 Maintenance Treatment of Severe Asthma NUCALA is indicated for the add-on maintenance treatment of adult and pediatric patients aged 6 years and older with severe asthma and with an eosinophilic phenotype [see Use in Specific Populations ( 8.4 ), Clinical Studies ( 14.1 )] . Limitations of Use NUCALA is not indicated for the relief of acute bronchospasm or status asthmaticus [see Warnings and Precautions ( 5.2 )] . 1.2 Maintenance Treatment of Chronic Rhinosinusitis with Nasal Polyps NUCALA is indicated for the add-on maintenance treatment of chronic rhinosinusitis with nasal polyps (CRSwNP) in adult patients aged 18 years and older with inadequate response to nasal corticosteroids. 1.3 Maintenance Treatment of Chronic Obstructive Pulmonary Disease NUCALA is indicated for the add-on maintenance treatment of adult patients with inadequately controlled chronic obstructive pulmonary disease (COPD) and an eosinophilic phenotype. Limitations of Use NUCALA is not indicated for the relief of acute bronchospasm [see Warnings and Precautions ( 5.2 )]. 1.4 Eosinophilic Granulomatosis with Polyangiitis NUCALA is indicated for the treatment of adult patients with eosinophilic granulomatosis with polyangiitis (EGPA). 1.5 Hypereosinophilic Syndrome NUCALA is indicated for the treatment of adult and pediatric patients aged 12 years and older with hypereosinophilic syndrome (HES) for greater than or equal to 6 months without an identifiable non-hematologic secondary cause.",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "Nucala"
+    ],
+    "openfda_generic_names": [
+      "MEPOLIZUMAB"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fefb887c-e4ac-431e-8893-e9d1a5a63fea",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Eosinophilic Granulomatosis With Polyangiitis",
+    "slug": "eosinophilic-granulomatosis-with-polyangiitis"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05263934",
+      "title": "Efficacy and Safety of Depemokimab Compared With Mepolizumab in Adults With Relapsing or Refractory Eosinophilic Granulomatosis With Polyangiitis (EGPA)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05263934",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42716513",
+        "title": "Efficacy and Predictors of Response to Biologic Therapy and Endoscopic Sinus Surgery in Patients With Nasal Polyps: A Systematic Review.",
+        "pubdate": "2026 Sep 9",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42716513/"
+      },
+      {
+        "pmid": "42609784",
+        "title": "Add-on mepolizumab in patients with severe asthma on medium-dose inhaled corticosteroids.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42609784/"
+      },
+      {
+        "pmid": "42589941",
+        "title": "The Use of Biological Therapies in the Treatment of Chronic Rhinosinusitis with Nasal Polyps: Current State of Knowledge.",
+        "pubdate": "2026 Jul 26",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42589941/"
+      },
+      {
+        "pmid": "42367766",
+        "title": "Biological functions and clinical efficacy of IL-5/IL-5Rα-targeted therapies across eosinophilia-associated diseases.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42367766/"
+      },
+      {
+        "pmid": "42367648",
+        "title": "Patients' perspectives of eosinophilic granulomatosis with polyangiitis within the context of a clinical trial.",
+        "pubdate": "2025 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42367648/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "RESLIZUMAB",
+        "chembl_id": "CHEMBL2107884",
+        "reason": "same target: Interleukin-5"
+      },
+      {
+        "name": "DEPEMOKIMAB",
+        "chembl_id": "CHEMBL4650469",
+        "reason": "same target: Interleukin-5"
+      }
+    ]
+  }
+}

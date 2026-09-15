@@ -1,12 +1,17 @@
 {
   "drug_name": "Fitusiran",
   "slug": "fitusiran",
-  "enriched_at": "2026-08-15T21:14:26Z",
+  "enriched_at": "2026-09-15T12:39:06Z",
   "source_trial_ids": [
     "NCT03974113"
   ],
   "sponsors": [
-    "Genzyme, a Sanofi Company"
+    {
+      "name": "Genzyme, a Sanofi Company",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Genzyme%2C%20a%20Sanofi%20Company&type=10-K&dateb=&owner=include&count=40"
+    }
   ],
   "identity": {
     "rxnorm": {
@@ -46,7 +51,7 @@
     {
       "nct_id": "NCT03974113",
       "title": "Fitusiran Prophylaxis in Male Pediatric Subjects Aged 1 to Less Than 12 Years With Hemophilia A or B",
-      "status": "ACTIVE_NOT_RECRUITING",
+      "status": "COMPLETED",
       "url": "https://clinicaltrials.gov/study/NCT03974113",
       "has_results": false
     }
@@ -54,6 +59,12 @@
   "prior_results": {
     "ctgov_results_urls": [],
     "pubmed_articles": [
+      {
+        "pmid": "42676001",
+        "title": "Bridging the Gap: A Systematic Review of Modern Hemophilia Therapies and Global Inequities in Clinical Trial Participation.",
+        "pubdate": "2026 Aug 31",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42676001/"
+      },
       {
         "pmid": "41473775",
         "title": "Rebalancing Hemostasis: Fitusiran as a First-in-Class RNAi Therapy in Hemophilia A and B.",
@@ -77,18 +88,18 @@
         "title": "Fitusiran prophylaxis in people with hemophilia A or B who switched from prior BPA/CFC prophylaxis: the ATLAS-PPX trial.",
         "pubdate": "2024 May 30",
         "url": "https://pubmed.ncbi.nlm.nih.gov/38452197/"
-      },
-      {
-        "pmid": "38224699",
-        "title": "Shifting Paradigms and Arising Concerns in Severe Hemophilia A Treatment.",
-        "pubdate": "2024 Jul",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/38224699/"
       }
     ]
   },
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": []
+    "items": [
+      {
+        "name": "STSP-0601 for Injection",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Jiangsu BioJeTay Biotechnology Co., Ltd."
+      }
+    ]
   }
 }

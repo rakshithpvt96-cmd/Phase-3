@@ -1,12 +1,17 @@
 {
   "drug_name": "Atogepant",
   "slug": "atogepant",
-  "enriched_at": "2026-08-15T20:53:06Z",
+  "enriched_at": "2026-09-15T12:31:48Z",
   "source_trial_ids": [
     "NCT06806293"
   ],
   "sponsors": [
-    "AbbVie"
+    {
+      "name": "AbbVie",
+      "ticker": "ABBV",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001551152&type=10-K&dateb=&owner=include&count=40"
+    }
   ],
   "identity": {
     "pubchem_cid": 72163100,
@@ -63,7 +68,7 @@
       {
         "pmid": "42396885",
         "title": "Weight loss with atogepant in the long-term treatment of migraine: An interim analysis of a safety endpoint from a phase 3, multicenter, open-label, 156-week extension study.",
-        "pubdate": "2026 Jul 3",
+        "pubdate": "2026 Sep",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42396885/"
       },
       {
@@ -75,7 +80,7 @@
       {
         "pmid": "42265869",
         "title": "Online interest in calcitonin gene-related peptide-therapies: An infodemiology study using Google trends.",
-        "pubdate": "2026 Jun 9",
+        "pubdate": "2026 Sep",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42265869/"
       },
       {

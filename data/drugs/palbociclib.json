@@ -1,7 +1,7 @@
 {
   "drug_name": "Palbociclib",
   "slug": "palbociclib",
-  "enriched_at": "2026-08-15T21:42:30Z",
+  "enriched_at": "2026-09-15T12:34:57Z",
   "source_trial_ids": [
     "NCT04711252",
     "NCT05501886"
@@ -9,15 +9,15 @@
   "sponsors": [
     {
       "name": "AstraZeneca",
-      "ticker": null,
+      "ticker": "AZN",
       "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=AstraZeneca&type=10-K&dateb=&owner=include&count=40"
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000901832&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Celcuity Inc",
-      "ticker": null,
+      "ticker": "CELC",
       "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Celcuity%20Inc&type=10-K&dateb=&owner=include&count=40"
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001603454&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
@@ -100,7 +100,7 @@
       {
         "pmid": "42340618",
         "title": "Quality of life with palbociclib plus tamoxifen in hormone receptor-positive, HER2-negative advanced breast cancer: results from PATHWAY, an Asian international, double-blind, randomized phase 3 trial.",
-        "pubdate": "2026 Jun 24",
+        "pubdate": "2026 Sep",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42340618/"
       },
       {

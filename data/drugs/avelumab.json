@@ -1,12 +1,17 @@
 {
   "drug_name": "Avelumab",
   "slug": "avelumab",
-  "enriched_at": "2026-08-15T20:53:29Z",
+  "enriched_at": "2026-09-15T12:31:57Z",
   "source_trial_ids": [
     "NCT03815643"
   ],
   "sponsors": [
-    "EMD Serono Research & Development Institute, Inc."
+    {
+      "name": "EMD Serono Research & Development Institute, Inc.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=EMD%20Serono%20Research%20%26%20Development%20Institute%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
+    }
   ],
   "identity": {
     "rxnorm": {
@@ -55,6 +60,12 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42740907",
+        "title": "Avoidance of cardiac toxicity during the application of immune checkpoint inhibitors: a safety systematic review combining network meta-analysis and pharmacovigilance study.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42740907/"
+      },
+      {
         "pmid": "42429125",
         "title": "Real-World Use of Avelumab First-Line Maintenance for Locally Advanced or Metastatic Urothelial Carcinoma in Japan: Treatment Patterns, Effectiveness, and Safety.",
         "pubdate": "2026 Jul",
@@ -75,14 +86,8 @@
       {
         "pmid": "42275082",
         "title": "Avelumab Plus Methotrexate for Gestational Trophoblastic Tumors: The TROPHAMET Phase 1/2 Nonrandomized Clinical Trial.",
-        "pubdate": "2026 Jun 11",
+        "pubdate": "2026 Aug 1",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42275082/"
-      },
-      {
-        "pmid": "41996022",
-        "title": "Infusion-Related Reactions from Immune Checkpoint Inhibitors in Solid Tumors: A Proportional and Network Meta-Analysis.",
-        "pubdate": "2026 May",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41996022/"
       }
     ]
   },

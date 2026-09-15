@@ -1,7 +1,7 @@
 {
   "drug_name": "Medroxyprogesterone acetate",
   "slug": "medroxyprogesterone-acetate",
-  "enriched_at": "2026-08-16T07:53:06Z",
+  "enriched_at": "2026-09-15T12:40:21Z",
   "source_trial_ids": [
     "NCT06904274"
   ],
@@ -45,7 +45,7 @@
     "openfda_generic_names": [
       "MEDROXYPROGESTERONE ACETATE"
     ],
-    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=987496bf-b4b0-409b-b745-f52ed0871f4e",
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a0a92717-c1cb-40eb-a95a-1c5dfd32cfc0",
     "note": null,
     "further_reading": null
   },
@@ -65,6 +65,12 @@
   "prior_results": {
     "ctgov_results_urls": [],
     "pubmed_articles": [
+      {
+        "pmid": "42624928",
+        "title": "Efficacy of combined metformin plus progestin therapy versus progestin monotherapy in endometrial hyperplasia: a randomized clinical trial.",
+        "pubdate": "2026 Aug 21",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42624928/"
+      },
       {
         "pmid": "42492078",
         "title": "Influence of Cardiometabolic Status on Cardiovascular Effects of Oral Menopausal Hormone Therapy.",
@@ -88,12 +94,6 @@
         "title": "Evaluation of pharmacokinetic interactions between long-acting cabotegravir or emtricitabine/tenofovir disoproxil fumarate and hormonal contraceptive agents: a tertiary analysis of South African participants in HPTN 084.",
         "pubdate": "2025 Nov",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41169120/"
-      },
-      {
-        "pmid": "41117635",
-        "title": "Baseline use of aspirin or statins with oral estrogen and progestogens to prevent incident arterial or venous thrombotic events: a secondary analysis of the Women's Health Initiative trial.",
-        "pubdate": "2026 Feb 1",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41117635/"
       }
     ]
   },

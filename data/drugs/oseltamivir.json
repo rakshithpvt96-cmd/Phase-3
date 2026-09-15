@@ -1,7 +1,7 @@
 {
   "drug_name": "Oseltamivir",
   "slug": "oseltamivir",
-  "enriched_at": "2026-08-16T07:55:40Z",
+  "enriched_at": "2026-09-15T12:41:25Z",
   "source_trial_ids": [
     "NCT07113392"
   ],
@@ -45,7 +45,7 @@
     "openfda_generic_names": [
       "OSELTAMIVIR PHOSPHATE"
     ],
-    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=817f74ca-2b6d-4d29-8dd5-b96921a23b91",
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f26154bd-374c-44a8-983a-b2724a591653",
     "note": null,
     "further_reading": null
   },
@@ -65,6 +65,12 @@
   "prior_results": {
     "ctgov_results_urls": [],
     "pubmed_articles": [
+      {
+        "pmid": "42648770",
+        "title": "Study protocol for a phase II clinical trial evaluating the safety and efficacy of favipiravir injection combined with oseltamivir in influenza treatment.",
+        "pubdate": "2026 Aug 26",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42648770/"
+      },
       {
         "pmid": "42602154",
         "title": "Diabetic immune dysfunction and severe influenza: A comprehensive narrative review with clinical implications.",
@@ -88,12 +94,6 @@
         "title": "Efficacy and safety of chaishituire granules in influenza treatment: a multi-center, randomized, double-blind, parallel-controlled clinical trial.",
         "pubdate": "2026",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42325775/"
-      },
-      {
-        "pmid": "42228931",
-        "title": "Efficacy and Safety of Kanggan Mixture for Influenza: Protocol for a Multicenter Open-Label Randomized Controlled Trial.",
-        "pubdate": "2026 Jun 2",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42228931/"
       }
     ]
   },

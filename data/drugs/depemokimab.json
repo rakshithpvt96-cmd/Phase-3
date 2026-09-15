@@ -1,0 +1,110 @@
+{
+  "drug_name": "Depemokimab",
+  "slug": "depemokimab",
+  "enriched_at": "2026-09-15T12:32:59Z",
+  "source_trial_ids": [
+    "NCT05263934"
+  ],
+  "sponsors": [
+    {
+      "name": "GlaxoSmithKline",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=GlaxoSmithKline&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2729265",
+      "generic_name": "depemokimab",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4650469",
+    "target_chembl_id": "CHEMBL1169600",
+    "target_name": "Interleukin-5",
+    "mechanism_of_action_chembl": "Interleukin-5 inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Depemokimab‑ulaa is an IL‑5 antagonist (humanized IgG1 kappa monoclonal antibody), which binds to IL‑5 with a dissociation constant of 10.5 pM, inhibiting the bioactivity of IL‑5 with in vitro IC50 value of 4 pM by blocking its binding to the alpha chain of the IL‑5 receptor complex expressed on the cell surface. Depemokimab‑ulaa contains a triple amino acid substitution (YTE) in the fragment crystallizable (Fc) region which increases binding to the neonatal Fc receptor and thereby extends the elimination half‑life. These properties support the dosing interval of every 6 months. IL‑5 is the major cytokine responsible for the growth and differentiation, recruitment, activation, and survival of eosinophils. Inflammation is an important component in the pathogenesis of asthma. Multiple cell types (e.g., mast cells, eosinophils, neutrophils, macrophages, lymphocytes) and mediators (e.g., histamine, eicosanoids, leukotrienes, cytokines) are involved in inflammation. Depemokimab‑ulaa, by inhibiting IL‑5 signaling, reduced the production and survival of eosinophils; however, the mechanism of depemokimab‑ulaa action in asthma has not been definitively established.",
+    "pharmacokinetics": "12.3 Pharmacokinetics The pharmacokinetics of depemokimab‑ulaa were approximately dose‑proportional in patients with asthma following subcutaneous administration over a dose range of 0.1‑times the recommended dose to 3‑times the recommended dose. After subcutaneous administration of 100 mg of EXDENSUR every 6 months in patients with severe asthma, the mean (standard deviation [SD]) model‑based estimated trough concentration of depemokimab‑ulaa at Week 26 was approximately 1.30 (0.44) mcg/mL. The mean (SD) model‑based estimated average steady‑state plasma concentration over a single dosing interval was 6.16 (1.62) mcg/mL. Absorption Depemokimab‑ulaa median T max was approximately 14 days. There was no accumulation following repeat subcutaneous administration once every 6 months. Distribution The estimated typical apparent volume of distribution is 6.3 L. Elimination The estimated mean (SD) elimination half‑life was 48 (4.7) days following subcutaneous administration of EXDENSUR. The estimated typical apparent clearance was 0.092 L/day. Metabolism: Depemokimab‑ulaa is a monoclonal antibody which is expected to be metabolized into small peptides and amino acids by catabolic pathways. Specific Populations No clinically significant differences in the pharmacokinetics of depemokimab‑ulaa were observed based on age (12 to 93 years), sex, race (73% White, 7% Black, 19% Asian), body weight (34.6 to 161 kg), renal impairment (eGFR ≥90 mL/min/1.73 m 2 [normal, N = 548]; eGFR 60 to <90 mL/min/1.73 m 2 [mild, N = 380]; eGFR 30 to <60 mL/min/1.73 m 2 [moderate, N = 31], and eGFR ≤30 mL/min/1.73 m 2 [severe, N = 2]), or baseline hepatic function biomarkers (alanine aminotransferase [ALT; 5 to 153 IU/L], aspartate aminotransferase [AST; 9 to 115 IU/L], and bilirubin [1.7 to 42 microM/L]). Pediatric Patients: There are limited pharmacokinetic data available in the pediatric population. The pharmacokinetics of depemokimab‑ulaa in pediatric patients aged 12 to 17 years were consistent with adults. The pharmacokinetics of depemokimab‑ulaa have not been studied in pediatric patients aged less than 12 years. Drug Interaction Studies No drug interaction studies have been conducted.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE EXDENSUR is indicated for the add‑on maintenance treatment of severe asthma characterized by an eosinophilic phenotype in adult and pediatric patients aged 12 years and older. Limitations of Use EXDENSUR is not indicated for the relief of acute bronchospasm or status asthmaticus [see Warnings and Precautions ( 5.2 )] . EXDENSUR is an interleukin‑5 (IL‑5) antagonist, a monoclonal antibody (humanized immunoglobulin G1 [IgG1] kappa) indicated for add‑on maintenance treatment of severe asthma characterized by an eosinophilic phenotype in adult and pediatric patients aged 12 years and older. ( 1 ) Limitations of Use : Not for relief of acute bronchospasm or status asthmaticus. ( 1 )",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "Exdensur"
+    ],
+    "openfda_generic_names": [
+      "DEPEMOKIMAB"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=30332b20-2ac0-42ad-a775-d3ca7f5fe29f",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Eosinophilic Granulomatosis With Polyangiitis",
+    "slug": "eosinophilic-granulomatosis-with-polyangiitis"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05263934",
+      "title": "Efficacy and Safety of Depemokimab Compared With Mepolizumab in Adults With Relapsing or Refractory Eosinophilic Granulomatosis With Polyangiitis (EGPA)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05263934",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42716513",
+        "title": "Efficacy and Predictors of Response to Biologic Therapy and Endoscopic Sinus Surgery in Patients With Nasal Polyps: A Systematic Review.",
+        "pubdate": "2026 Sep 9",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42716513/"
+      },
+      {
+        "pmid": "42557941",
+        "title": "Depemokimab-ulaa: A Long-Acting Interleukin-5 Inhibitor.",
+        "pubdate": "2026 Aug 6",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42557941/"
+      },
+      {
+        "pmid": "42367766",
+        "title": "Biological functions and clinical efficacy of IL-5/IL-5Rα-targeted therapies across eosinophilia-associated diseases.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42367766/"
+      },
+      {
+        "pmid": "42264210",
+        "title": "The preclinical discovery and development of depemokimab for severe eosinophilic asthma.",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42264210/"
+      },
+      {
+        "pmid": "42234701",
+        "title": "Depemokimab: A twice yearly anti-IL 5 biologic for chronic rhinosinusitis with nasal polyps (CRSwNP) - A narrative review.",
+        "pubdate": "2026 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42234701/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "MEPOLIZUMAB",
+        "chembl_id": "CHEMBL2108429",
+        "reason": "same target: Interleukin-5"
+      },
+      {
+        "name": "RESLIZUMAB",
+        "chembl_id": "CHEMBL2107884",
+        "reason": "same target: Interleukin-5"
+      }
+    ]
+  }
+}

@@ -1,16 +1,16 @@
 {
   "drug_name": "Tezepelumab",
   "slug": "tezepelumab",
-  "enriched_at": "2026-08-15T21:49:22Z",
+  "enriched_at": "2026-09-15T12:36:41Z",
   "source_trial_ids": [
     "NCT05583227"
   ],
   "sponsors": [
     {
       "name": "AstraZeneca",
-      "ticker": null,
+      "ticker": "AZN",
       "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=AstraZeneca&type=10-K&dateb=&owner=include&count=40"
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000901832&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
@@ -60,9 +60,27 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42716513",
+        "title": "Efficacy and Predictors of Response to Biologic Therapy and Endoscopic Sinus Surgery in Patients With Nasal Polyps: A Systematic Review.",
+        "pubdate": "2026 Sep 9",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42716513/"
+      },
+      {
+        "pmid": "42696663",
+        "title": "Thymic stromal lymphopoietin as a therapeutic target for the treatment of eosinophilic esophagitis.",
+        "pubdate": "2026 Sep 4",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42696663/"
+      },
+      {
+        "pmid": "42618555",
+        "title": "Efficacy of benralizumab, dupilumab, and tezepelumab in severe asthma: a meta-analysis with eosinophil-stratified subgroup analysis.",
+        "pubdate": "2026 Aug 20",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42618555/"
+      },
+      {
         "pmid": "42562237",
         "title": "Early and continued asthma control up to week 24 in patients with severe, uncontrolled asthma treated with tezepelumab: Initial results of the real-world ASCENT study.",
-        "pubdate": "2026 Aug 6",
+        "pubdate": "2026 Oct",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42562237/"
       },
       {
@@ -70,24 +88,6 @@
         "title": "Tezepelumab in Chinese Patients With Severe Chronic Rhinosinusitis With Nasal Polyps: A Prespecified Subgroup Analysis of the Phase 3 WAYPOINT Trial.",
         "pubdate": "2026 Jul 29",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42525496/"
-      },
-      {
-        "pmid": "42476302",
-        "title": "Use of tezepelumab for chronic rhinosinusitis with nasal polyps by eosinophilic endotype: WAYPOINT post-hoc analysis.",
-        "pubdate": "2026 Jul 20",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42476302/"
-      },
-      {
-        "pmid": "42438767",
-        "title": "Evidence Update for Tezepelumab to Treat Severe Uncontrolled Asthma, Corticosteroid-dependent Asthma, Chronic Rhinosinusitis With Nasal Polyposis, and Chronic Obstructive Pulmonary Disease. 2nd Barcelona Respiratory Network report.",
-        "pubdate": "2026 Jul-Sep",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42438767/"
-      },
-      {
-        "pmid": "42379714",
-        "title": "Characteristics and clinical outcomes of patients with severe asthma receiving tezepelumab after marketing approval in Spain (T-ROSS II study): an observational study protocol.",
-        "pubdate": "2026 Jun 30",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42379714/"
       }
     ]
   },

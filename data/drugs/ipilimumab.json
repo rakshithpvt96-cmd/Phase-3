@@ -1,16 +1,16 @@
 {
   "drug_name": "Ipilimumab",
   "slug": "ipilimumab",
-  "enriched_at": "2026-08-15T21:35:55Z",
+  "enriched_at": "2026-09-15T12:39:38Z",
   "source_trial_ids": [
     "NCT04039607"
   ],
   "sponsors": [
     {
       "name": "Bristol-Myers Squibb",
-      "ticker": null,
+      "ticker": "BMY",
       "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Bristol-Myers%20Squibb&type=10-K&dateb=&owner=include&count=40"
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000014272&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
@@ -51,7 +51,7 @@
     {
       "nct_id": "NCT04039607",
       "title": "A Study of Nivolumab in Combination With Ipilimumab in Participants With Advanced Hepatocellular Carcinoma",
-      "status": "ACTIVE_NOT_RECRUITING",
+      "status": "COMPLETED",
       "url": "https://clinicaltrials.gov/study/NCT04039607",
       "has_results": false
     }
@@ -60,34 +60,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42740907",
+        "title": "Avoidance of cardiac toxicity during the application of immune checkpoint inhibitors: a safety systematic review combining network meta-analysis and pharmacovigilance study.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42740907/"
+      },
+      {
+        "pmid": "42716079",
+        "title": "Development and external validation of a new prognostic model for metastatic clear cell renal cell carcinoma: a preregistered analysis using data from randomised clinical trials in the checkpoint inhibitor era.",
+        "pubdate": "2026 Sep 9",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42716079/"
+      },
+      {
+        "pmid": "42692071",
+        "title": "Comparative Cost-Effectiveness Analysis of First-Line Immunotherapy for Advanced Melanoma Based on 10-Year Clinical Outcomes.",
+        "pubdate": "2026 Sep 3",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42692071/"
+      },
+      {
+        "pmid": "42634746",
+        "title": "First-Line Nivolumab Plus Ipilimumab in Inoperable Epithelioid Malignant Pleural Mesothelioma: Real-World Experience From an Indian Tertiary Care Center.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42634746/"
+      },
+      {
         "pmid": "42579028",
         "title": "Nivolumab plus ipilimumab-based treatment in Japanese patients with metastatic non-small cell lung cancer and tumor PD-L1 < 1%: a pooled analysis.",
         "pubdate": "2026 Aug 11",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42579028/"
-      },
-      {
-        "pmid": "42578486",
-        "title": "First-line systemic treatment for people with extensive-stage small cell lung cancer: a network meta-analysis.",
-        "pubdate": "2026 Aug 11",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42578486/"
-      },
-      {
-        "pmid": "42574353",
-        "title": "Cost-effectiveness analysis of Nivolumab plus Ipilimumab versus Nivolumab monotherapy in previously treated metastatic colorectal cancer patients with DNA mismatch repair-deficient/microsatellite instability-high (dMMR/MSI-H) in China.",
-        "pubdate": "2026 Aug 10",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42574353/"
-      },
-      {
-        "pmid": "42512265",
-        "title": "Perioperative Nivolumab and Ipilimumab with Chemotherapy and Chemoradiation for Resectable Gastric and Gastroesophageal Junction Adenocarcinoma: A Phase 1/2 Non-Randomized Clinical Trial.",
-        "pubdate": "2026 Jul 8",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42512265/"
-      },
-      {
-        "pmid": "42499790",
-        "title": "A phase II basket trial of DART SWOG S1609: the salivary gland tumor cohort.",
-        "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42499790/"
       }
     ]
   },

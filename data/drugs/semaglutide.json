@@ -1,11 +1,9 @@
 {
   "drug_name": "Semaglutide",
   "slug": "semaglutide",
-  "enriched_at": "2026-08-16T07:36:11Z",
+  "enriched_at": "2026-09-15T12:36:21Z",
   "source_trial_ids": [
     "NCT06260722",
-    "NCT06534411",
-    "NCT06633783",
     "NCT07064486"
   ],
   "sponsors": [
@@ -20,18 +18,6 @@
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Eli%20Lilly%20and%20Company&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
-      "name": "Hangzhou Jiuyuan Gene Engineering Co. Ltd.,",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hangzhou%20Jiuyuan%20Gene%20Engineering%20Co.%20Ltd.%2C&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
-      "name": "Novo Nordisk A/S",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Novo%20Nordisk%20A/S&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
@@ -67,13 +53,13 @@
     "openfda_generic_names": [
       "ORAL SEMAGLUTIDE"
     ],
-    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=42bdd912-2393-44c4-b7e0-47672ca28991",
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=27f15fac-7d98-4114-a2ec-92494a91da98",
     "note": null,
     "further_reading": null
   },
   "condition": {
-    "raw": "Obesity",
-    "slug": "obesity"
+    "raw": "Type 2 Diabetes (T2DM)",
+    "slug": "type-2-diabetes-t2dm"
   },
   "source_trials": [
     {
@@ -81,20 +67,6 @@
       "title": "Effect of Retatrutide Compared With Semaglutide in Adult Participants With Type 2 Diabetes and Inadequate Glycemic Control With Metformin With or Without SGLT2 Inhibitor (TRANSCEND-T2D-2)",
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT06260722",
-      "has_results": false
-    },
-    {
-      "nct_id": "NCT06534411",
-      "title": "A Research Study to See How Much CagriSema Lowers Blood Sugar and Body Weight Compared to Tirzepatide in People With Type 2 Diabetes Treated With Metformin, SGLT2 Inhibitor or Both",
-      "status": "COMPLETED",
-      "url": "https://clinicaltrials.gov/study/NCT06534411",
-      "has_results": false
-    },
-    {
-      "nct_id": "NCT06633783",
-      "title": "A Phase III Study Comparing the Weight Loss Effects of Semaglutide Injection and Wegovy®",
-      "status": "NOT_YET_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06633783",
       "has_results": false
     },
     {
@@ -109,76 +81,40 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42598626",
-        "title": "Efficacy and safety of semaglutide injection in Indian patients with type 2 diabetes mellitus inadequately controlled on metformin: A phase 3, randomized, active-controlled, multicenter, non-inferiority trial (WIN-IND study).",
-        "pubdate": "2026 Sep",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42598626/"
-      },
-      {
-        "pmid": "42590128",
-        "title": "Anti-Obesity Medications in Longevity and Aesthetic Medicine.",
-        "pubdate": "2026 Aug 3",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42590128/"
-      },
-      {
-        "pmid": "42582425",
-        "title": "Potential nephroprotective mechanisms of orforglipron, an oral non-peptide GLP-1 receptor agonist.",
+        "pmid": "42729683",
+        "title": "Oral small-molecule GLP-1 receptor agonists: a new Frontier in cardiometabolic medicine.",
         "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42582425/"
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42729683/"
       },
       {
-        "pmid": "42580587",
-        "title": "EQ-5D Health Utility Gains with Once-Weekly Semaglutide 2.4 mg in People with MASH and F2/F3 Fibrosis: An Analysis of ESSENCE.",
-        "pubdate": "2026 Aug 11",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42580587/"
+        "pmid": "42720565",
+        "title": "GLP-1 receptor agonism in Alzheimer's disease after EVOKE: From single hypothesis to stratified program.",
+        "pubdate": "2026 Sep 10",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42720565/"
       },
       {
-        "pmid": "42573665",
-        "title": "Semaglutide as a potential neuroprotective agent for neurological and neurodegenerative disorders: Mechanisms, preclinical evidence, and translational challenges and opportunities.",
-        "pubdate": "2026 Aug 10",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42573665/"
+        "pmid": "42715139",
+        "title": "Semaglutide and Tirzepatide for the treatment of MASH: What Works, What's Coming, and What's Missing.",
+        "pubdate": "2026 Sep 9",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42715139/"
+      },
+      {
+        "pmid": "42697203",
+        "title": "Emerging role of GLP-1 mono, dual, and triple agonists in the management of MASH-related fibrosis.",
+        "pubdate": "2026 Sep 4",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42697203/"
+      },
+      {
+        "pmid": "42696191",
+        "title": "Oral Incretin-Based Therapies for Weight Management.",
+        "pubdate": "2026 Sep 4",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42696191/"
       }
     ]
   },
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": [
-      {
-        "name": "Tirzepatide",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Eli Lilly and Company"
-      },
-      {
-        "name": "Placebo",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Eli Lilly and Company"
-      },
-      {
-        "name": "RAY1225",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Guangdong Raynovent Biotech Co., Ltd"
-      },
-      {
-        "name": "Retatrutide",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Eli Lilly and Company"
-      },
-      {
-        "name": "TQF3510 (Semaglutide Injection)",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Chia Tai Tianqing Pharmaceutical Group Co., Ltd."
-      },
-      {
-        "name": "Wegovy®",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Chia Tai Tianqing Pharmaceutical Group Co., Ltd."
-      },
-      {
-        "name": "IBI362",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Innovent Biologics (Suzhou) Co. Ltd."
-      }
-    ]
+    "items": []
   }
 }

@@ -1,9 +1,8 @@
 {
   "drug_name": "Nivolumab",
   "slug": "nivolumab",
-  "enriched_at": "2026-08-15T22:20:39Z",
+  "enriched_at": "2026-09-15T12:40:50Z",
   "source_trial_ids": [
-    "NCT03383458",
     "NCT04039607",
     "NCT05568095"
   ],
@@ -16,9 +15,9 @@
     },
     {
       "name": "Bristol-Myers Squibb",
-      "ticker": null,
+      "ticker": "BMY",
       "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Bristol-Myers%20Squibb&type=10-K&dateb=&owner=include&count=40"
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000014272&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
@@ -47,7 +46,7 @@
     "openfda_generic_names": [
       "NIVOLUMAB AND HYALURONIDASE-NVHY"
     ],
-    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7f8c38fa-42f4-4387-9e8c-7a1c66855d8b",
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f570b9c4-6846-4de2-abfa-4d0a4ae4e394",
     "note": null,
     "further_reading": null
   },
@@ -57,23 +56,16 @@
   },
   "source_trials": [
     {
-      "nct_id": "NCT03383458",
-      "title": "A Study of Nivolumab in Participants With Hepatocellular Carcinoma Who Are at High Risk of Recurrence After Curative Hepatic Resection or Ablation",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT03383458",
-      "has_results": false
-    },
-    {
       "nct_id": "NCT04039607",
       "title": "A Study of Nivolumab in Combination With Ipilimumab in Participants With Advanced Hepatocellular Carcinoma",
-      "status": "ACTIVE_NOT_RECRUITING",
+      "status": "COMPLETED",
       "url": "https://clinicaltrials.gov/study/NCT04039607",
       "has_results": false
     },
     {
       "nct_id": "NCT05568095",
       "title": "A Clinical Trial of a New Combination Treatment, Domvanalimab and Zimberelimab, Plus Chemotherapy, for People With an Upper Gastrointestinal Tract Cancer That Cannot be Removed With Surgery That Has Spread to Other Parts of the Body",
-      "status": "ACTIVE_NOT_RECRUITING",
+      "status": "COMPLETED",
       "url": "https://clinicaltrials.gov/study/NCT05568095",
       "has_results": false
     }
@@ -82,34 +74,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42603198",
-        "title": "Liver Transplantation Following Hepatocellular Carcinoma Rupture and Long-Term Immunotherapy: A Case Report.",
-        "pubdate": "2026 Aug 15",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42603198/"
-      },
-      {
-        "pmid": "42582160",
-        "title": "Biodistribution, shedding, and transmissibility of vusolimogene oderparepvec (RP1).",
+        "pmid": "42740907",
+        "title": "Avoidance of cardiac toxicity during the application of immune checkpoint inhibitors: a safety systematic review combining network meta-analysis and pharmacovigilance study.",
         "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42582160/"
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42740907/"
       },
       {
-        "pmid": "42579028",
-        "title": "Nivolumab plus ipilimumab-based treatment in Japanese patients with metastatic non-small cell lung cancer and tumor PD-L1 < 1%: a pooled analysis.",
-        "pubdate": "2026 Aug 11",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42579028/"
+        "pmid": "42716079",
+        "title": "Development and external validation of a new prognostic model for metastatic clear cell renal cell carcinoma: a preregistered analysis using data from randomised clinical trials in the checkpoint inhibitor era.",
+        "pubdate": "2026 Sep 9",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42716079/"
       },
       {
-        "pmid": "42577949",
-        "title": "Nivolumab + Doxorubicin, Vinblastine, and Dacarbazine in HIV-Associated Advanced-Stage Classic Hodgkin Lymphoma.",
-        "pubdate": "2026 Jan",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42577949/"
+        "pmid": "42692071",
+        "title": "Comparative Cost-Effectiveness Analysis of First-Line Immunotherapy for Advanced Melanoma Based on 10-Year Clinical Outcomes.",
+        "pubdate": "2026 Sep 3",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42692071/"
       },
       {
-        "pmid": "42574460",
-        "title": "Co-Clinical Evaluation of Synthetic Vitamin D and Chemotherapy in Pancreatic Cancer by Integrated Imaging and Molecular Analyses.",
-        "pubdate": "2026 Aug 10",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42574460/"
+        "pmid": "42667569",
+        "title": "Summary of Research: Brentuximab Vedotin and Nivolumab in Combination with Chemotherapy for Nonbulky, Early-Stage Classical Hodgkin Lymphoma.",
+        "pubdate": "2026 Aug 29",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42667569/"
+      },
+      {
+        "pmid": "42667537",
+        "title": "Real-World Use of Adjuvant Nivolumab for Resected Stage III-IV Melanoma: 2-Year Analysis of AdjuMel.",
+        "pubdate": "2026 Aug 29",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42667537/"
       }
     ]
   },
