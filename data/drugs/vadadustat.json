@@ -1,7 +1,7 @@
 {
   "drug_name": "vadadustat",
   "slug": "vadadustat",
-  "enriched_at": "2026-08-16T07:37:54Z",
+  "enriched_at": "2026-09-15T12:47:26Z",
   "source_trial_ids": [
     "NCT05082571",
     "NCT05082584",
@@ -10,9 +10,9 @@
   "sponsors": [
     {
       "name": "Akebia Therapeutics",
-      "ticker": null,
+      "ticker": "AKBA",
       "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Akebia%20Therapeutics&type=10-K&dateb=&owner=include&count=40"
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001517022&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
@@ -73,7 +73,7 @@
     {
       "nct_id": "NCT06901505",
       "title": "To Evaluate the Efficacy of Three Times Weekly (TIW) Vadadustat Compared to Standard of Care ESA in Patients With Anemia of CKD Receiving In-Center Hemodialysis",
-      "status": "ACTIVE_NOT_RECRUITING",
+      "status": "COMPLETED",
       "url": "https://clinicaltrials.gov/study/NCT06901505",
       "has_results": false
     }
@@ -81,6 +81,12 @@
   "prior_results": {
     "ctgov_results_urls": [],
     "pubmed_articles": [
+      {
+        "pmid": "42610550",
+        "title": "Beyond erythropoiesis-stimulating agents: The evolving role of hypoxia-inducible factor stabilizers in anemia of chronic kidney disease.",
+        "pubdate": "2026 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42610550/"
+      },
       {
         "pmid": "41842948",
         "title": "Comparing Vadadustat and Darbepoetin in Maintenance Dialysis with CKD-Related Anemia: A Win Statistics Analysis.",
@@ -102,14 +108,8 @@
       {
         "pmid": "40698683",
         "title": "Unveiling Vadadustat: Comprehensive Review of its Chemistry, Pharmacology, Bioanalysis, and Patent Landscape as a Novel HIF-PH Inhibitor.",
-        "pubdate": "2025 Jul 22",
+        "pubdate": "2026",
         "url": "https://pubmed.ncbi.nlm.nih.gov/40698683/"
-      },
-      {
-        "pmid": "40359056",
-        "title": "Safety and Efficacy of Vadadustat for the Treatment of CKD-Related Anemia within and outside the United States.",
-        "pubdate": "2025 Oct 1",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/40359056/"
       }
     ]
   },

@@ -1,7 +1,7 @@
 {
   "drug_name": "PIOGLITAZONE",
   "slug": "pioglitazone",
-  "enriched_at": "2026-08-16T07:57:49Z",
+  "enriched_at": "2026-09-15T12:46:21Z",
   "source_trial_ids": [
     "NCT05028140"
   ],
@@ -45,7 +45,7 @@
     "openfda_generic_names": [
       "PIOGLITAZONE HYDROCHLORIDE"
     ],
-    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=31619517-a590-408a-ae9e-76c99f0a0a1d",
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1fa2703e-fb73-44d5-aaa2-b12b1090d42c",
     "note": null,
     "further_reading": null
   },
@@ -66,6 +66,18 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42667546",
+        "title": "The Role of SGLT2 Inhibitors in the Prevention of Type 2 Diabetes: A Narrative Review of Current Evidence.",
+        "pubdate": "2026 Aug 29",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42667546/"
+      },
+      {
+        "pmid": "42649514",
+        "title": "Disease-modifying anti-diabetic drugs (DMADDs): bridging the SIMPLE approach to disease interception.",
+        "pubdate": "2026 Aug 26",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42649514/"
+      },
+      {
         "pmid": "42564069",
         "title": "The new era of MASH pharmacotherapy: a comprehensive review of FDA-approved and emerging agents.",
         "pubdate": "2026",
@@ -82,18 +94,6 @@
         "title": "Pioglitazone for the treatment of alcohol use disorder: A randomized controlled trial.",
         "pubdate": "2026 Jun 10",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42271154/"
-      },
-      {
-        "pmid": "42019901",
-        "title": "The hidden link between diabetes and dementia: Findings from recent epidemiological studies.",
-        "pubdate": "2026 Aug",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42019901/"
-      },
-      {
-        "pmid": "41992726",
-        "title": "Insights from changes in NDEV biomarkers of metabolism: Effects of PPARγ and GLP1 receptor agonists on brain metabolism.",
-        "pubdate": "2026 Apr 17",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41992726/"
       }
     ]
   },

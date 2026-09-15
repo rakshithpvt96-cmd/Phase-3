@@ -1,7 +1,7 @@
 {
   "drug_name": "Sertraline",
   "slug": "sertraline",
-  "enriched_at": "2026-08-16T08:04:35Z",
+  "enriched_at": "2026-09-15T12:46:56Z",
   "source_trial_ids": [
     "NCT06827431"
   ],
@@ -45,7 +45,7 @@
     "openfda_generic_names": [
       "SERTRALINE HYDROCHLORIDE"
     ],
-    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=52c88667-c67e-4d42-b319-afb354713b1e",
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7efc1dd5-8671-4bed-9c16-ef6b9f36afc4",
     "note": null,
     "further_reading": null
   },
@@ -66,9 +66,15 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42656837",
+        "title": "Structured psychiatric care and psychosocial support during placebo participation: association with violent and domestic-violence offending in the ReINVEST trial.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42656837/"
+      },
+      {
         "pmid": "42550483",
         "title": "Effects of lavender oil preparation silexan on different symptoms of major depression - results from a randomized, controlled trial.",
-        "pubdate": "2026 Aug 4",
+        "pubdate": "2026 Sep 1",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42550483/"
       },
       {
@@ -88,12 +94,6 @@
         "title": "Clinical evaluation of adjunctive magnesium therapy in patients receiving antidepressants for depression-open label, nonrandomized clinical trial.",
         "pubdate": "2026 Jun 12",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42283837/"
-      },
-      {
-        "pmid": "42260157",
-        "title": "Clinical symptoms and cognitive functioning following adjunctive N-acetylcysteine in obsessive-compulsive disorder: a double-blind, placebo-controlled trial.",
-        "pubdate": "2026 Jun 8",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42260157/"
       }
     ]
   },

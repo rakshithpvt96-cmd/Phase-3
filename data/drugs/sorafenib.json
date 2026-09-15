@@ -1,23 +1,16 @@
 {
   "drug_name": "Sorafenib",
   "slug": "sorafenib",
-  "enriched_at": "2026-08-15T21:48:34Z",
+  "enriched_at": "2026-09-15T12:47:12Z",
   "source_trial_ids": [
-    "NCT04039607",
-    "NCT04770896"
+    "NCT04039607"
   ],
   "sponsors": [
     {
       "name": "Bristol-Myers Squibb",
-      "ticker": null,
+      "ticker": "BMY",
       "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Bristol-Myers%20Squibb&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
-      "name": "Hoffmann-La Roche",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hoffmann-La%20Roche&type=10-K&dateb=&owner=include&count=40"
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000014272&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
@@ -52,33 +45,44 @@
     "openfda_generic_names": [
       "SORAFENIB"
     ],
-    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=68aa4b7f-3f13-4e73-b572-aa6c11a8429c",
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=faa9d847-2cd5-6538-e053-6394a90aa92b",
     "note": null,
     "further_reading": null
   },
   "condition": {
-    "raw": "Unresectable Hepatocellular Carcinoma",
-    "slug": "unresectable-hepatocellular-carcinoma"
+    "raw": "Hepatocellular Carcinoma",
+    "slug": "hepatocellular-carcinoma"
   },
   "source_trials": [
     {
       "nct_id": "NCT04039607",
       "title": "A Study of Nivolumab in Combination With Ipilimumab in Participants With Advanced Hepatocellular Carcinoma",
-      "status": "ACTIVE_NOT_RECRUITING",
+      "status": "COMPLETED",
       "url": "https://clinicaltrials.gov/study/NCT04039607",
-      "has_results": false
-    },
-    {
-      "nct_id": "NCT04770896",
-      "title": "A Study of Atezolizumab With Lenvatinib or Sorafenib Versus Lenvatinib or Sorafenib Alone in Hepatocellular Carcinoma Previously Treated With Atezolizumab and Bevacizumab",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT04770896",
       "has_results": false
     }
   ],
   "prior_results": {
     "ctgov_results_urls": [],
     "pubmed_articles": [
+      {
+        "pmid": "42719379",
+        "title": "Thyroid Cancer in the Modern Era: From Molecular Landscape and Multimodal Diagnostics to Integrative Traditional Chinese Medicine-A Comprehensive Review.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42719379/"
+      },
+      {
+        "pmid": "42677015",
+        "title": "Lenvatinib versus Sorafenib in First-Line Treatment of Older Patients with Unresectable Hepatocellular Carcinoma: A Subgroup Analysis of the REFLECT Trial.",
+        "pubdate": "2026 Jul 4",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42677015/"
+      },
+      {
+        "pmid": "42606323",
+        "title": "Baseline circulating and tumor γδ T cells and early circulating CD8⁺PD1⁺ expansion predict response to Atezolizumab-bevacizumab in HCC.",
+        "pubdate": "2026 Aug 17",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42606323/"
+      },
       {
         "pmid": "42518569",
         "title": "Economic value of finotonlimab plus bevacizumab versus sorafenib for first-line treatment of unresectable hepatocellular carcinoma in China and the United States.",
@@ -90,24 +94,6 @@
         "title": "Real-world evidence for atezolizumab with bevacizumab for unresectable hepatocellular carcinoma: a multicentre UK Midlands cohort.",
         "pubdate": "2026 Jul 20",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42477572/"
-      },
-      {
-        "pmid": "42449661",
-        "title": "Comprehensive Safety and Efficacy Evaluation of Immunotherapy Combination Approaches Versus Tyrosine Kinase Inhibitor Monotherapy as First-Line Treatment of Hepatocellular Carcinoma: A Network and Individual Patient Data (IPD) Meta-Analysis.",
-        "pubdate": "2026 Jun 30",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42449661/"
-      },
-      {
-        "pmid": "42393642",
-        "title": "MCD biomarkers Egfr, Hmox1, Lgmn identified in NAFLD.",
-        "pubdate": "2026 Jul 3",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42393642/"
-      },
-      {
-        "pmid": "42338692",
-        "title": "Nivolumab plus Ipilimumab versus Lenvatinib or Sorafenib as First-Line Treatment for Unresectable Hepatocellular Carcinoma: CheckMate 9DW Japanese Subgroup Analysis.",
-        "pubdate": "2026 Jun",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42338692/"
       }
     ]
   },

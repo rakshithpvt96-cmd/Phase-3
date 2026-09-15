@@ -1,16 +1,16 @@
 {
   "drug_name": "Upadacitinib",
   "slug": "upadacitinib",
-  "enriched_at": "2026-08-16T08:29:21Z",
+  "enriched_at": "2026-09-15T12:47:18Z",
   "source_trial_ids": [
     "NCT05814627"
   ],
   "sponsors": [
     {
       "name": "AbbVie",
-      "ticker": null,
+      "ticker": "ABBV",
       "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=AbbVie&type=10-K&dateb=&owner=include&count=40"
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001551152&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
@@ -66,6 +66,24 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42669112",
+        "title": "Efficacy and safety of upadacitinib for Crohn's disease in patients in East Asia: a post hoc analysis of randomized phase 3 studies.",
+        "pubdate": "2026 Aug 30",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42669112/"
+      },
+      {
+        "pmid": "42662999",
+        "title": "Impact of Prior Biologic Exposure on Upadacitinib Efficacy in Inflammatory Bowel Disease: A Systematic Review of Randomized Controlled Trials.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42662999/"
+      },
+      {
+        "pmid": "42613995",
+        "title": "Efficacy, Safety, and Pharmacokinetics of Upadacitinib Among Patients in East Asia With Moderately to Severely Active Ulcerative Colitis: A Post Hoc Subanalysis of Randomized Phase 3 Studies.",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42613995/"
+      },
+      {
         "pmid": "42594914",
         "title": "Efficacy and safety of upadacitinib in adults and adolescents for treatment of non-segmental vitiligo (Viti-Up): results of two phase 3 randomised controlled studies.",
         "pubdate": "2026 Aug 15",
@@ -76,24 +94,6 @@
         "title": "Upadacitinib for Severe Alopecia Areata in Adults and Adolescents: Two Phase 3 UP-AA Randomized Clinical Trials.",
         "pubdate": "2026 Aug 12",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42584887/"
-      },
-      {
-        "pmid": "42546722",
-        "title": "Impact of BMI on response to Janus kinase inhibitors in rheumatoid arthritis: an individual patient data meta-analysis of randomised controlled trials.",
-        "pubdate": "2026 Aug 3",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42546722/"
-      },
-      {
-        "pmid": "42436570",
-        "title": "Janus kinase inhibitors are of limited use in refractory JIA-associated uveitis: retrospective data from a tertiary uveitis center.",
-        "pubdate": "2026 Jul 11",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42436570/"
-      },
-      {
-        "pmid": "42342652",
-        "title": "Emerging synthetic drugs for the management of hidradenitis suppurativa: a comprehensive update.",
-        "pubdate": "2026 Jul",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42342652/"
       }
     ]
   },

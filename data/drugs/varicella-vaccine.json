@@ -1,7 +1,7 @@
 {
   "drug_name": "Varicella Vaccine",
   "slug": "varicella-vaccine",
-  "enriched_at": "2026-08-16T08:30:34Z",
+  "enriched_at": "2026-09-15T12:47:33Z",
   "source_trial_ids": [
     "NCT07473427"
   ],
@@ -35,7 +35,7 @@
     "boxed_warning": null,
     "openfda_brand_names": [],
     "openfda_generic_names": [],
-    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=73eae9fc-507b-4c9c-883d-63eb2e3cc6f6",
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=524cf052-e90e-4595-af0a-608edbe9bd31",
     "note": "A label exists in DailyMed but structured sections could not be parsed automatically -- see dailymed_url for the full label.",
     "further_reading": {
       "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Varicella%20Vaccine+mechanism+of+action",
@@ -60,6 +60,12 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42733065",
+        "title": "The efficacy, immunogenicity and safety of the LZ901 vaccine for herpes zoster virus in adults 40 years of age or older: a multicentre, randomised, double-blind, placebo-controlled, phase 3 trial.",
+        "pubdate": "2026 Aug 7",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42733065/"
+      },
+      {
         "pmid": "42274423",
         "title": "Live attenuated varicella vaccines in patients treated with tumor necrosis factor-alpha inhibitors: A clinical trial.",
         "pubdate": "2026 Jun 5",
@@ -82,12 +88,6 @@
         "title": "Annual immunogenicity measurements in randomized clinical trials help reveal heterogeneity in long-term vaccine efficacy: a pooled logistic regression modeling study.",
         "pubdate": "2026 Apr 11",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41793964/"
-      },
-      {
-        "pmid": "41703694",
-        "title": "Immunogenicity and Safety of Two-dose Schedules With Different Intervals of an ORF7-deficient Live Vaccine Candidate for Varicella: A Randomized, Double-blind, Controlled, Phase 2b Trial.",
-        "pubdate": "2026 Aug 1",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41703694/"
       }
     ]
   },
