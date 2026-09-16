@@ -1,0 +1,87 @@
+{
+  "drug_name": "Pirfenidone Capsules",
+  "slug": "pirfenidone-capsules",
+  "enriched_at": "2026-09-16T12:33:44Z",
+  "source_trial_ids": [
+    "NCT05288179"
+  ],
+  "sponsors": [
+    {
+      "name": "Beijing Continent Pharmaceutical Co, Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Beijing%20Continent%20Pharmaceutical%20Co%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1592278",
+      "generic_name": "pirfenidone Oral Capsule",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1256391",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": "Unknown"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Pirfenidone%20Capsules+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Pirfenidone%20Capsules+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Pirfenidone%20Capsules+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Pneumoconiosis",
+    "slug": "pneumoconiosis"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05288179",
+      "title": "Efficacy and Safety of Pirfenidone Capsules in the Treatment of Pneumoconiosis",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05288179",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "41151646",
+        "title": "The effectiveness of deep lung support as an adjuvant therapy to pirfenidone on respiratory symptoms in patients with idiopathic pulmonary fibrosis: A randomized clinical trial from Iran.",
+        "pubdate": "2025 Nov-Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41151646/"
+      },
+      {
+        "pmid": "34757602",
+        "title": "Treatment of Idiopathic Pulmonary Fibrosis with Capsule or Tablet Formulations of Pirfenidone in the Real-Life French RaDiCo-ILD Cohort.",
+        "pubdate": "2022 Jan",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34757602/"
+      },
+      {
+        "pmid": "33285745",
+        "title": "Modified Maimendong decoction in the treatment of patients with idiopathic pulmonary fibrosis: Study protocol for a randomized controlled trial.",
+        "pubdate": "2020 Dec 4",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33285745/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

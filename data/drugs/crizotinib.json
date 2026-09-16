@@ -1,0 +1,156 @@
+{
+  "drug_name": "Crizotinib",
+  "slug": "crizotinib",
+  "enriched_at": "2026-09-16T12:29:33Z",
+  "source_trial_ids": [
+    "NCT04603807"
+  ],
+  "sponsors": [
+    {
+      "name": "Hoffmann-La Roche",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hoffmann-La%20Roche&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 11626560,
+    "iupac_name": "3-[(1R)-1-(2,6-dichloro-3-fluorophenyl)ethoxy]-5-(1-piperidin-4-ylpyrazol-4-yl)pyridin-2-amine",
+    "molecular_formula": "C21H22Cl2FN5O",
+    "molecular_weight": "450.3",
+    "canonical_smiles": null,
+    "inchikey": "KTEIFNKAUNYNJU-GFCCVEGCSA-N",
+    "rxnorm": {
+      "rxcui": "1148495",
+      "generic_name": "crizotinib",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL601719",
+    "target_chembl_id": "CHEMBL3717",
+    "target_name": "Hepatocyte growth factor receptor",
+    "mechanism_of_action_chembl": "Hepatocyte growth factor receptor inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Crizotinib is an inhibitor of receptor tyrosine kinases including ALK, Hepatocyte Growth Factor Receptor (HGFR, c-Met), ROS1 (c-ros), and Recepteur d'Origine Nantais (RON). Translocations can affect the ALK gene resulting in the expression of oncogenic fusion proteins. The formation of ALK fusion proteins results in activation and dysregulation of the gene's expression and signaling which can contribute to increased cell proliferation and survival in tumors expressing these proteins. Crizotinib demonstrated concentration-dependent inhibition of ALK, ROS1, and c-Met phosphorylation in cell-based assays using tumor cell lines and demonstrated antitumor activity in mice bearing tumor xenografts that expressed echinoderm microtubule-associated protein-like 4 (EML4)- or nucleophosmin (NPM)-ALK fusion proteins or c-Met. In vitro, crizotinib induced apoptosis and inhibited proliferation and ALK-mediated signaling in ALCL-derived cell lines (containing NPM-ALK) at clinically achievable exposures. In vivo data obtained in an ALCL-derived mouse model showed complete regression of the tumor at a dose of 100 mg/kg once daily.",
+    "pharmacokinetics": "12.3 Pharmacokinetics Following XALKORI 250 mg capsules twice daily, steady-state was reached within 15 days with a median accumulation ratio of 4.8. Steady-state minimum concentration (C min.ss ) and AUC increased in a greater than dose-proportional manner over the dose range of 200 mg to 300 mg twice daily (0.8 to 1.2 times the approved recommended dosage). Absorption A single crizotinib capsule dose was absorbed with median time to achieve peak concentration (T max ) of 4 to 6 hours, and the mean absolute bioavailability of 43% (range: 32% to 66%). The oral pellets had a comparable crizotinib bioavailability compared with the capsules. Effect of Food A high-fat meal, reduced AUC 0-INF and maximum plasma concentration (C max ) of crizotinib each by 14% for the capsule formulation; reduced AUC 0-INF and C max of crizotinib by 15% and 23%, respectively, for the pellet formulation as compared to those under fasted conditions. Distribution The geometric mean volume of distribution (V ss ) of crizotinib was 1772 L following a single intravenous dose. Protein binding of crizotinib is 91% and is independent of drug concentration in vitro. Crizotinib is a substrate for P-glycoprotein (P-gp) in vitro. The blood-to-plasma concentration ratio is approximately 1. Elimination The mean apparent plasma terminal half-life of crizotinib was 42 hours following single doses of crizotinib in patients. The mean apparent clearance (CL/F) of crizotinib was lower at steady-state (60 L/h) after 250 mg twice daily than after a single 250 mg oral dose (100 L/h). Metabolism Crizotinib is predominantly metabolized by CYP3A. Excretion Following administration of a single oral 250 mg dose of radiolabeled crizotinib dose to healthy subjects, 63% (53% as unchanged) of the administered dose was recovered in feces and 22% (2.3% as unchanged) in urine. Specific Populations No clinically significant difference in crizotinib pharmacokinetics were observed based on age, sex, or ethnicity (Asian, non-Asian). For patients <18 years of age, body weight has a significant effect on the pharmacokinetics of crizotinib, with lower crizotinib exposures observed in patients with higher body weight. Pediatric Patients In pediatric patients, crizotinib steady-state exposure increased proportionally with dose over the dose range of 165 mg/m 2 to 280 mg/m 2 orally twice daily. At a dosing regimen of 280 mg/m 2 (approximately 2 times the recommended adult dose), geometric mean (CV%) steady-state maximum plasma concentrations (C max ) of crizotinib was 621 (73%) ng/mL and AUC 0–tau was 6530 (34%) ng∙hr/mL. Patients with Hepatic Impairment Steady-state mean crizotinib AUC and C max decreased by 9% in patients with mild hepatic impairment (AST >ULN and total bilirubin ≤1 times ULN or any AST and total bilirubin >1 times ULN but ≤1.5 times ULN) compared to patients with normal hepatic function following XALKORI 250 mg orally twice daily. Steady-state mean crizotinib AUC increased by 14% and C max increased by 9% in patients with moderate hepatic impairment (any AST and total bilirubin >1.5 times ULN and ≤3 times ULN) following XALKORI 200 mg orally twice daily compared with patients with normal hepatic function following XALKORI 250 mg orally twice daily. Mean crizotinib AUC decreased by 35% and C max decreased by 27% in patients with severe hepatic impairment (any AST and total bilirubin >3 times ULN) following XALKORI 250 mg orally once daily compared with patients with normal hepatic function following XALKORI 250 mg orally twice daily [see Dosage and Administration (2.7) , Use in Specific Populations (8.6) ] . Patients with Renal Impairment Mild or moderate renal impairment (CL cr of 60–89 ml/min or 30–59 ml/min, respectively, calculated using the modified Cockcroft-Gault equation) has no clinically significant effect on the exposure of crizotinib. Following a single 250 mg dose, the mean AUC 0–INF of crizotinib increased by 79% and the mean C max increased by 34% in patients with severe renal impairment (CL cr <30 mL/min) who did not require dialysis compared to those with normal renal function (CL cr ≥90 mL/min). Similar changes in AUC 0–INF and C max were observed for the active metabolite of crizotinib [see Dosage and Administration (2.8) , Use in Specific Populations (8.7) ] . Drug Interaction Studies Clinical Studies Gastric Acid Reducing Agents: No clinically significant differences in crizotinib pharmacokinetics were observed when used concomitantly with esomeprazole, a proton pump inhibitor. Strong CYP3A Inhibitors: Coadministration of a single 150 mg oral dose of crizotinib with ketoconazole, a strong CYP3A inhibitor, increased crizotinib AUC 0–INF by 216% and C max by 44% compared to crizotinib alone. Coadministration of XALKORI 250 mg orally once daily with itraconazole, a strong CYP3A inhibitor, increased crizotinib steady-state AUC by 57% and C max by 33% compared to crizotinib alone [see Drug Interactions (7.1) ] . Strong CYP3A Inducers: Coadministration of XALKORI 250 mg orally twice daily with rifampin, a strong CYP3A inducer, decreased crizotinib steady-state AUC 0–Tau by 84% and C max by 79%, compared to crizotinib alone [see Drug Interactions (7.1) ] . CYP3A Substrates: Coadministration of XALKORI 250 mg orally twice daily for 28 days increased AUC 0–INF of oral midazolam (CYP3A substrate) 3.7-fold compared to midazolam alone [see Drug Interactions (7.2) ] . In Vitro Studies CYP Enzymes: Crizotinib inhibits CYP2B6 in vitro. Crizotinib does not inhibit CYP1A2, CYP2C8, CYP2C9, CYP2C19, or CYP2D6. Crizotinib does not induce CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, or CYP3A. UDP-glucuronosyltransferase (UGT): Crizotinib does not inhibit UGT1A1, UGT1A4, UGT1A6, UGT1A9 or UGT2B7. Transporters: Crizotinib inhibits P-gp, organic cation transporter (OCT) 1, and OCT2. Crizotinib does not inhibit organic anion transporting polypeptides (OATP) B1, OATP1B3, organic anion transporter (OAT) 1, OAT3, or bile salt export pump transporter (BSEP).",
+    "indications_and_usage": "1 INDICATIONS AND USAGE XALKORI is a kinase inhibitor indicated for the treatment of • adult patients with metastatic non-small cell lung cancer (NSCLC) whose tumors are anaplastic lymphoma kinase (ALK) or ROS1-positive as detected by an FDA-approved test. ( 1.1 , 2.1 ) • pediatric patients 1 year of age and older and young adults with relapsed or refractory, systemic anaplastic large cell lymphoma (ALCL) that is ALK-positive. ( 1.2 , 2.3 ) o Limitations of Use: The safety and efficacy of XALKORI have not been established in older adults with relapsed or refractory, systemic ALK-positive ALCL. • adult and pediatric patients 1 year of age and older with unresectable, recurrent, or refractory inflammatory myofibroblastic tumor (IMT) that is ALK-positive. ( 1.3 , 2.3 ) 1.1 ALK- or ROS1-Positive Metastatic Non-Small Cell Lung Cancer XALKORI is indicated for the treatment of adult patients with metastatic non-small cell lung cancer (NSCLC) whose tumors are anaplastic lymphoma kinase (ALK) or ROS1-positive as detected by an FDA-approved test [see Dosage and Administration (2.1) ] . 1.2 Relapsed or Refractory, Systemic ALK-Positive Anaplastic Large Cell Lymphoma XALKORI is indicated for the treatment of pediatric patients 1 year of age and older and young adults with relapsed or refractory, systemic anaplastic large cell lymphoma (ALCL) that is ALK-positive . Limitations of Use : The safety and efficacy of XALKORI have not been established in older adults with relapsed or refractory, systemic ALK-positive ALCL. 1.3 Unresectable, Recurrent, or Refractory ALK-Positive Inflammatory Myofibroblastic Tumor XALKORI is indicated for the treatment of adult and pediatric patients 1 year of age and older with unresectable, recurrent, or refractory inflammatory myofibroblastic tumor (IMT) that is ALK-positive.",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "Xalkori"
+    ],
+    "openfda_generic_names": [
+      "CRIZOTINIB"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2a51b0de-47d6-455e-a94c-d2c737b04ff7",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Carcinoma, Non-Small-Cell Lung",
+    "slug": "carcinoma-non-small-cell-lung"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04603807",
+      "title": "A Study to Compare the Efficacy and Safety of Entrectinib and Crizotinib in Participants With Advanced or Metastatic ROS1 Non-small Cell Lung Cancer (NSCLC) With and Without Central Nervous System (CNS) Metastases",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04603807",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42641639",
+        "title": "Crizotinib versus observation or placebo for surgically resected early-stage ALK-positive non-small-cell lung cancer (Eastern Cooperative Oncology Group-American College of Radiology Imaging Network E4512): a phase 3 trial.",
+        "pubdate": "2026 Aug 25",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42641639/"
+      },
+      {
+        "pmid": "42365776",
+        "title": "Real-world treatment sequencing and survival in ROS1-Rearranged NSCLC across evolving treatment eras: Findings from the AURORA multi-centre registry (AURORA-ROS1).",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42365776/"
+      },
+      {
+        "pmid": "41704605",
+        "title": "ROS1-positive non-small cell lung cancer: from genomics to treatment decisions.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41704605/"
+      },
+      {
+        "pmid": "41410381",
+        "title": "Real-world treatment patterns and subsequent treatment effectiveness following frontline brigatinib in the ALTA-1L trial.",
+        "pubdate": "2025 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41410381/"
+      },
+      {
+        "pmid": "41296331",
+        "title": "Lorlatinib in Tyrosine Kinase Inhibitor-Naive Advanced ROS1-Positive Non-Small Cell Lung Cancer: A Phase 2 Nonrandomized Clinical Trial.",
+        "pubdate": "2026 Jan 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41296331/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "CABOZANTINIB S-MALATE",
+        "chembl_id": "CHEMBL2103868",
+        "reason": "same target: Hepatocyte growth factor receptor"
+      },
+      {
+        "name": "BMS-794833",
+        "chembl_id": "CHEMBL2143592",
+        "reason": "same target: Hepatocyte growth factor receptor"
+      },
+      {
+        "name": "TELISOTUZUMAB",
+        "chembl_id": "CHEMBL3545419",
+        "reason": "same target: Hepatocyte growth factor receptor"
+      },
+      {
+        "name": "AMG-208",
+        "chembl_id": "CHEMBL496102",
+        "reason": "same target: Hepatocyte growth factor receptor"
+      },
+      {
+        "name": "ARRY-300",
+        "chembl_id": "CHEMBL3545359",
+        "reason": "same target: Hepatocyte growth factor receptor"
+      },
+      {
+        "name": "BMS-698769",
+        "chembl_id": "CHEMBL3545299",
+        "reason": "same target: Hepatocyte growth factor receptor"
+      },
+      {
+        "name": "BMS-817378",
+        "chembl_id": "CHEMBL3545050",
+        "reason": "same target: Hepatocyte growth factor receptor"
+      },
+      {
+        "name": "ALTIRATINIB",
+        "chembl_id": "CHEMBL3545365",
+        "reason": "same target: Hepatocyte growth factor receptor"
+      },
+      {
+        "name": "EMD-1204831",
+        "chembl_id": "CHEMBL3960488",
+        "reason": "same target: Hepatocyte growth factor receptor"
+      },
+      {
+        "name": "JNJ-38877605",
+        "chembl_id": "CHEMBL2133806",
+        "reason": "same target: Hepatocyte growth factor receptor"
+      }
+    ]
+  }
+}

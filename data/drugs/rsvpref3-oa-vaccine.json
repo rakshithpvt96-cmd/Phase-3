@@ -1,8 +1,9 @@
 {
   "drug_name": "RSVPreF3 OA vaccine",
   "slug": "rsvpref3-oa-vaccine",
-  "enriched_at": "2026-09-14T13:55:47Z",
+  "enriched_at": "2026-09-16T12:31:40Z",
   "source_trial_ids": [
+    "NCT06534892",
     "NCT07220109"
   ],
   "sponsors": [
@@ -48,6 +49,13 @@
     "slug": "respiratory-syncytial-virus-infections"
   },
   "source_trials": [
+    {
+      "nct_id": "NCT06534892",
+      "title": "An Extension and Crossover Vaccination Study on the Immune Response and Safety of a Vaccine Against Respiratory Syncytial Virus Given to Adults 60 Years of Age and Above Who Participated in RSV OA=ADJ-006 Study",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06534892",
+      "has_results": false
+    },
     {
       "nct_id": "NCT07220109",
       "title": "A Study on the Immune Response and Safety of Vaccine Against Respiratory Syncytial Virus Given to Chinese Adults 18 to 59 Years of Age at Increased Risk of Respiratory Syncytial Virus Disease",

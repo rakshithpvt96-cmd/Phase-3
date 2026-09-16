@@ -1,0 +1,68 @@
+{
+  "drug_name": "NaBen®",
+  "slug": "naben",
+  "enriched_at": "2026-09-16T12:33:38Z",
+  "source_trial_ids": [
+    "NCT03094429"
+  ],
+  "sponsors": [
+    {
+      "name": "SyneuRx International (Taiwan) Corp",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=SyneuRx%20International%20%28Taiwan%29%20Corp&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1547728",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": null,
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=NaBen%C2%AE+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=NaBen%C2%AE+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=NaBen%C2%AE+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Refractory Schizophrenia",
+    "slug": "refractory-schizophrenia"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT03094429",
+      "title": "An Adaptive Phase II/III, Two-Part, Double-Blind, Randomized, Placebo-controlled, Dose-Finding, Multi-center Study of the Safety and Efficacy of NaBen®, as an Add-on Therapy With Clozapine, for Residual Symptoms of Refractory Schizophrenia in Adults",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT03094429",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

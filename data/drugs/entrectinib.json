@@ -1,0 +1,146 @@
+{
+  "drug_name": "Entrectinib",
+  "slug": "entrectinib",
+  "enriched_at": "2026-09-16T12:29:47Z",
+  "source_trial_ids": [
+    "NCT04603807"
+  ],
+  "sponsors": [
+    {
+      "name": "Hoffmann-La Roche",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hoffmann-La%20Roche&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 25141092,
+    "iupac_name": "N-[5-[(3,5-difluorophenyl)methyl]-1H-indazol-3-yl]-4-(4-methylpiperazin-1-yl)-2-(oxan-4-ylamino)benzamide",
+    "molecular_formula": "C31H34F2N6O2",
+    "molecular_weight": "560.6",
+    "canonical_smiles": null,
+    "inchikey": "HAYYBYPASCDWEQ-UHFFFAOYSA-N",
+    "rxnorm": {
+      "rxcui": "2197862",
+      "generic_name": "entrectinib",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1983268",
+    "target_chembl_id": "CHEMBL3559684",
+    "target_name": "Neurotrophic tyrosine kinase receptor",
+    "mechanism_of_action_chembl": "Neurotrophic tyrosine kinase receptor inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Entrectinib is an inhibitor of the tropomyosin receptor tyrosine kinases (TRK) TRKA, TRKB, and TRKC (encoded by the neurotrophic tyrosine receptor kinase [ NTRK ] genes NTRK1, NTRK2, and NTRK3 , respectively), proto-oncogene tyrosine-protein kinase ROS1 (ROS1), and anaplastic lymphoma kinase (ALK) with IC 50 values of 0.1 to 2 nM. Entrectinib also inhibits JAK2 and TNK2 with IC 50 values > 5 nM. The major active metabolite of entrectinib, M5, showed similar in vitro activity against TRK, ROS1, and ALK. Fusion proteins that include TRK, ROS1, or ALK kinase domains can drive tumorigenic potential through hyperactivation of downstream signaling pathways leading to unconstrained cell proliferation. Entrectinib demonstrated in vitro and in vivo inhibition of cancer cell lines derived from multiple tumor types harboring NTRK , ROS1, and ALK fusion genes. Entrectinib demonstrated steady-state brain-to-plasma concentration ratios of 0.4 – 2.2 in multiple animal species (mice, rats, and dogs) and demonstrated in vivo anti-tumor activity in mice with intracranial implantation of TRKA- and ALK-driven tumor cell lines.",
+    "pharmacokinetics": "12.3 Pharmacokinetics The pharmacokinetics for entrectinib and its pharmacologically active major circulating metabolite M5 were characterized in adult patients with ROS1 -positive NSCLC, NTRK gene fusion-positive solid tumors, and healthy subjects. The pharmacokinetics of entrectinib and M5 are linear and are not dose-dependent or time-dependent. Steady state is achieved within one week for entrectinib and two weeks for M5 following daily administration of ROZLYTREK. The pharmacokinetic parameters for entrectinib and M5 are described in Table 11 . Table 11. Pharmacokinetic Parameters for Entrectinib and Metabolite M5 Parameter Entrectinib Mean Geometric mean (% CV) M5 Mean (% CV) AUC D1 (nM*h) 31800 (48%) 10200 (82%) AUC ss (nM*h) 48000 (77%) 24000 (97%) C maxD1 (nM) 2250 (58%) 622 (79%) C maxss (nM) 3130 (80%) 1250 (90%) R acc(AUC) 1.55 (49%) 2.84 (93%) Absorption The maximum entrectinib plasma concentration was reached 4 – 6 hours after oral administration of a 600 mg dose. Entrectinib exposure following a single oral dose (600 mg) of ROZLYTREK oral pellets was not clinically significant compared to ROZLYTREK capsule administered with a light meal (250 calories: 25% fat) in healthy subjects. In STARTRK-2, STARTRK-NG and TAPISTRY studies, ROZLYTREK was administered without regard to food in patients. Entrectinib exposure of a single dose (600 mg) of ROZLYTREK capsules as a suspension with water or milk, administered orally or through a nasogastric or gastric tube, was not clinically significant compared to administration of intact ROZLYTREK capsules in healthy subjects under fasted conditions. Effect of Food A high-fat (approximately 50% of total caloric content), high-calorie (approximately 800 to 1000 calories) meal did not have a significant effect on entrectinib exposure of ROZLYTREK capsules. Distribution Entrectinib and its active major metabolite M5 are both > 99% bound to human plasma proteins in vitro. The estimated apparent volume of distribution (V/F) was 551 L and 81.1 L for entrectinib and M5, respectively. Elimination The estimated apparent clearance (CL/F) was 19.6 L/h and 52.4 L/h for entrectinib and M5, respectively. The elimination half-lives of entrectinib and M5 were estimated to be 20 and 40 hours, respectively. Metabolism Entrectinib is metabolized primarily by CYP3A4 (~76%). The active metabolite M5 (formed by CYP3A4) is the only major active circulating metabolite identified. M5 has similar pharmacological potency to entrectinib in vitro and circulating M5 exposures at steady-state in patients were 40% of the corresponding entrectinib exposure. Excretion Following oral administration of a single oral dose of [ 14 C]-labeled entrectinib, 83% of radioactivity was excreted in feces (36% of the dose as unchanged entrectinib and 22% as M5) with minimal excretion in urine (3%). Specific Populations No clinically significant differences in the pharmacokinetics of entrectinib were observed based on sex, race (White, Asian and Black), mild to moderate renal impairment (CLcr 30 to < 90 mL/min) and mild hepatic impairment (total bilirubin ≤ ULN with aspartate aminotransferase > ULN or total bilirubin > 1.0 – 1.5 times ULN with any aspartate aminotransferase). The impact of severe renal impairment on the pharmacokinetics of entrectinib is unknown. Hepatic Impairment Following administration of a single oral dose of ROZLYTREK 100 mg (1/6 of the recommended dose), the entrectinib AUC INF was increased by 39% for the mild, 39% for the moderate, and 23% for the severe hepatic impairment groups compared to the normal hepatic function group. The combined AUC last of entrectinib and M5 was increased by 16% for the mild, 16% for the moderate, and 4% for the severe hepatic impairment groups compared to the normal hepatic function group. Large variability in systemic exposure of entrectinib was observed in the hepatic impairment groups. Pediatric Patients > 6 months In pediatric patients older than 6 months administered 300 mg/m 2 (based on BSA) of ROZLYTREK once daily, systemic exposure of the sum of entrectinib and M5 in pediatric patients receiving 300 mg/m 2 of ROZLYTREK once daily is within the range of the adults treated with 600 mg of ROZLYTREK once daily. The available efficacy and safety data also confirm the adequacy of the recommended doses [see Use in Specific Populations (8.4) ] . Pediatric Patients > 1 to ≤ 6 months In pediatric patients > 1 to ≤ 6 months administered 250 mg/m 2 (based on BSA) of ROZLYTREK once daily, systemic exposure of the sum of entrectinib and M5 in pediatric patients was at the lower range of the adults administered 600 mg of ROZLYTREK once daily. The available efficacy and safety data also confirm the adequacy of the recommended doses [see Use in Specific Populations (8.4) ] . Drug Interaction Studies Clinical Studies Effect of CYP3A Inhibitors on Entrectinib: Coadministration of itraconazole (a strong CYP3A inhibitor) with a single 100 mg dose of ROZLYTREK capsule increased entrectinib AUC 0-INF by 6-fold and C max by 1.7-fold [see Drug Interactions (7.1) ] . Coadministration of a moderate CYP3A inhibitor with ROZLYTREK capsule is predicted to increase entrectinib AUC 0-Tau by 3-fold and C max by 2.9-fold. Based on physiologically based pharmacokinetic (PBPK) modelling, a similar magnitude of the effect is expected in children as young as 2 years old. Effect of CYP3A Inducers on Entrectinib: Coadministration of rifampin (a strong CYP3A inducer) with a single 600 mg dose of ROZLYTREK capsule reduced entrectinib AUC 0-INF by 77% and C max by 56% [see Drug Interactions (7.1) ]. Coadministration of a moderate CYP3A inducer with ROZLYTREK capsule is predicted to reduce entrectinib AUC 0-Tau by 56% and C max by 43%. Effect of Gastric Acid Reducing Drugs on Entrectinib : Coadministration of a proton pump inhibitor (PPI), lansoprazole with a single 600 mg dose of ROZLYTREK capsule reduced entrectinib AUC by 25% and C max by 23%. Coadministration of lansoprazole, with a single 600 mg dose of ROZLYTREK capsule as oral suspension in water increased entrectinib AUC by 25% and C max by 17%. These changes are not likely to be clinically significant. Effect of Entrectinib on CYP Substrates : Coadministration of 600 mg dose of ROZLYTREK capsule once daily with oral midazolam (a sensitive CYP3A substrate) in patients increased the midazolam AUC by 50% but reduced midazolam C max by 21% [see Drug Interactions (7.1) ] . Effect of Entrectinib on Transporters: Coadministration of a single 600 mg dose of ROZLYTREK capsule with digoxin [a sensitive P-glycoprotein (P-gp) substrate] increased digoxin C max by 28% and AUC by 18%. In Vitro Studies Entrectinib is not a substrate of P-gp or BCRP, but M5 is a substrate of P-gp and BCRP. Entrectinib and M5 are not substrates of OATP1B1 or OATP1B3.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE ROZLYTREK is a kinase inhibitor indicated for the treatment of: Adult patients with ROS1- positive metastatic non-small cell lung cancer (NSCLC) as detected by an FDA-approved test. ( 1.1 ) Adult and pediatric patients older than 1 month of age with solid tumors that: have a neurotrophic tyrosine receptor kinase ( NTRK) gene fusion, as detected by an FDA-approved test without a known acquired resistance mutation, are metastatic or where surgical resection is likely to result in severe morbidity, and have progressed following treatment or have no satisfactory alternative therapy. This indication is approved under accelerated approval based on tumor response rate and durability of response. Continued approval for this indication may be contingent upon verification and description of clinical benefit in the confirmatory trials. ( 1.2 ) 1.1 ROS1 -Positive Non-Small Cell Lung Cancer ROZLYTREK is indicated for the treatment of adult patients with ROS1- positive metastatic non-small cell lung cancer (NSCLC), as detected by an FDA-approved test. 1.2 NTRK Gene Fusion-Positive Solid Tumors ROZLYTREK is indicated for the treatment of adult and pediatric patients older than 1 month of age with solid tumors that: have a neurotrophic tyrosine receptor kinase (NTRK) gene fusion, as detected by an FDA-approved test without a known acquired resistance mutation, are metastatic or where surgical resection is likely to result in severe morbidity, and have progressed following treatment or have no satisfactory alternative therapy. This indication is approved under accelerated approval based on tumor response rate and durability of response [see Clinical Studies (14.2) ] . Continued approval for this indication may be contingent upon verification and description of clinical benefit in the confirmatory trials.",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "Rozlytrek"
+    ],
+    "openfda_generic_names": [
+      "ENTRECTINIB"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=c7c71b0c-2549-4495-86b6-c2807fa54908",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Carcinoma, Non-Small-Cell Lung",
+    "slug": "carcinoma-non-small-cell-lung"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04603807",
+      "title": "A Study to Compare the Efficacy and Safety of Entrectinib and Crizotinib in Participants With Advanced or Metastatic ROS1 Non-small Cell Lung Cancer (NSCLC) With and Without Central Nervous System (CNS) Metastases",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04603807",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42365776",
+        "title": "Real-world treatment sequencing and survival in ROS1-Rearranged NSCLC across evolving treatment eras: Findings from the AURORA multi-centre registry (AURORA-ROS1).",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42365776/"
+      },
+      {
+        "pmid": "41704605",
+        "title": "ROS1-positive non-small cell lung cancer: from genomics to treatment decisions.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41704605/"
+      },
+      {
+        "pmid": "41296331",
+        "title": "Lorlatinib in Tyrosine Kinase Inhibitor-Naive Advanced ROS1-Positive Non-Small Cell Lung Cancer: A Phase 2 Nonrandomized Clinical Trial.",
+        "pubdate": "2026 Jan 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41296331/"
+      },
+      {
+        "pmid": "40105823",
+        "title": "Molecular Testing and Targeted Therapies in Hepatobiliary Cancers: A Review.",
+        "pubdate": "2025 May 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40105823/"
+      },
+      {
+        "pmid": "39796641",
+        "title": "Novel Therapeutics in Soft Tissue Sarcoma.",
+        "pubdate": "2024 Dec 24",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39796641/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "AZD-6918",
+        "chembl_id": "CHEMBL3545298",
+        "reason": "same target: Neurotrophic tyrosine kinase receptor"
+      },
+      {
+        "name": "ALTIRATINIB",
+        "chembl_id": "CHEMBL3545365",
+        "reason": "same target: Neurotrophic tyrosine kinase receptor"
+      },
+      {
+        "name": "LAROTRECTINIB",
+        "chembl_id": "CHEMBL3889654",
+        "reason": "same target: Neurotrophic tyrosine kinase receptor"
+      },
+      {
+        "name": "CEP-2563 DIHYDROCHLORIDE",
+        "chembl_id": "CHEMBL6067987",
+        "reason": "same target: Neurotrophic tyrosine kinase receptor"
+      },
+      {
+        "name": "CENEGERMIN",
+        "chembl_id": "CHEMBL4297852",
+        "reason": "same target: Neurotrophic tyrosine kinase receptor"
+      },
+      {
+        "name": "LAROTRECTINIB SULFATE",
+        "chembl_id": "CHEMBL3989939",
+        "reason": "same target: Neurotrophic tyrosine kinase receptor"
+      },
+      {
+        "name": "SELITRECTINIB",
+        "chembl_id": "CHEMBL4297627",
+        "reason": "same target: Neurotrophic tyrosine kinase receptor"
+      },
+      {
+        "name": "TALETRECTINIB",
+        "chembl_id": "CHEMBL4650989",
+        "reason": "same target: Neurotrophic tyrosine kinase receptor"
+      }
+    ]
+  }
+}

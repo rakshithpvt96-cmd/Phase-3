@@ -1,6 +1,978 @@
 {
-  "generated_at": "2026-09-15T14:13:29Z",
-  "new_trial_count": 0,
-  "new_trials": [],
-  "removed_trial_ids": []
+  "generated_at": "2026-09-16T12:29:03Z",
+  "new_trial_count": 21,
+  "new_trials": [
+    {
+      "nct_id": "NCT03094429",
+      "title": "An Adaptive Phase II/III, Two-Part, Double-Blind, Randomized, Placebo-controlled, Dose-Finding, Multi-center Study of the Safety and Efficacy of NaBen®, as an Add-on Therapy With Clozapine, for Residual Symptoms of Refractory Schizophrenia in Adults",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE2",
+        "PHASE3"
+      ],
+      "sponsor": "SyneuRx International (Taiwan) Corp",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-09-30",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Refractory Schizophrenia"
+      ],
+      "interventions": [
+        {
+          "name": "NaBen®",
+          "type": "DRUG"
+        },
+        {
+          "name": "Placebo",
+          "type": "OTHER"
+        }
+      ],
+      "drug_names": [
+        "NaBen®"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT03094429",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "SyneuRx International (Taiwan) Corp",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=SyneuRx%20International%20%28Taiwan%29%20Corp&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-09-16T12:29:03Z"
+      }
+    },
+    {
+      "nct_id": "NCT04167358",
+      "title": "Linerixibat Long-term Safety, and Tolerability Study",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-09-30",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Cholestasis"
+      ],
+      "interventions": [
+        {
+          "name": "Linerixibat",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "Linerixibat"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT04167358",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "GlaxoSmithKline",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=GlaxoSmithKline&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-09-13T12:47:32Z"
+      }
+    },
+    {
+      "nct_id": "NCT04603807",
+      "title": "A Study to Compare the Efficacy and Safety of Entrectinib and Crizotinib in Participants With Advanced or Metastatic ROS1 Non-small Cell Lung Cancer (NSCLC) With and Without Central Nervous System (CNS) Metastases",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Hoffmann-La Roche",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-09-30",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Carcinoma, Non-Small-Cell Lung"
+      ],
+      "interventions": [
+        {
+          "name": "Entrectinib",
+          "type": "DRUG"
+        },
+        {
+          "name": "Crizotinib",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "Entrectinib",
+        "Crizotinib"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT04603807",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Hoffmann-La Roche",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hoffmann-La%20Roche&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-09-13T12:47:33Z"
+      }
+    },
+    {
+      "nct_id": "NCT04895241",
+      "title": "A Study to Learn About the Safety of Litifilimab (BIIB059) Injections and Whether They Can Improve Symptoms of Adult Participants Who Have Systemic Lupus Erythematosus",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Biogen",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-09-30",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Lupus Erythematosus, Systemic"
+      ],
+      "interventions": [
+        {
+          "name": "Litifilimab",
+          "type": "DRUG"
+        },
+        {
+          "name": "Placebo",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "Litifilimab",
+        "Placebo"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT04895241",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Biogen",
+        "ticker": "BIIB",
+        "cik": "0000875045",
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000875045&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-09-13T12:47:23Z"
+      }
+    },
+    {
+      "nct_id": "NCT05077904",
+      "title": "A Study to Test the Efficacy and Safety of Staccato Alprazolam in Study Participants 12 Years of Age and Older With Stereotypical Prolonged Seizures",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "UCB Biopharma SRL",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-09-30",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Stereotypical Prolonged Seizures"
+      ],
+      "interventions": [
+        {
+          "name": "Staccato alprazolam",
+          "type": "DRUG"
+        },
+        {
+          "name": "Placebo",
+          "type": "OTHER"
+        }
+      ],
+      "drug_names": [
+        "Staccato alprazolam"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT05077904",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "UCB Biopharma SRL",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=UCB%20Biopharma%20SRL&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-09-13T12:47:46Z"
+      }
+    },
+    {
+      "nct_id": "NCT05116462",
+      "title": "Neoadjuvant and Adjuvant Therapy Studies of Sindilizumab in Resectable Lung Cancer",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Innovent Biologics (Suzhou) Co. Ltd.",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-09-30",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Non-Small Cell Lung Cancer"
+      ],
+      "interventions": [
+        {
+          "name": "Pemetrexed",
+          "type": "DRUG"
+        },
+        {
+          "name": "Carboplatin",
+          "type": "DRUG"
+        },
+        {
+          "name": "Paclitaxel",
+          "type": "DRUG"
+        },
+        {
+          "name": "Sintilimab",
+          "type": "DRUG"
+        },
+        {
+          "name": "Cisplatin",
+          "type": "DRUG"
+        },
+        {
+          "name": "Nab paclitaxel",
+          "type": "DRUG"
+        },
+        {
+          "name": "Placebo",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "Pemetrexed",
+        "Carboplatin",
+        "Paclitaxel",
+        "Sintilimab",
+        "Cisplatin",
+        "Nab paclitaxel",
+        "Placebo"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT05116462",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Innovent Biologics (Suzhou) Co. Ltd.",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Innovent%20Biologics%20%28Suzhou%29%20Co.%20Ltd.&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-09-13T12:47:34Z"
+      }
+    },
+    {
+      "nct_id": "NCT05152147",
+      "title": "A Study of Zanidatamab in Combination With Chemotherapy Plus or Minus Tislelizumab in Patients With HER2-positive Advanced or Metastatic Gastric and Esophageal Cancers",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Jazz Pharmaceuticals",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-09-30",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Gastric Neoplasms",
+        "Gastroesophageal Adenocarcinoma",
+        "Esophageal Adenocarcinoma"
+      ],
+      "interventions": [
+        {
+          "name": "Zanidatamab",
+          "type": "DRUG"
+        },
+        {
+          "name": "Tislelizumab",
+          "type": "DRUG"
+        },
+        {
+          "name": "Trastuzumab",
+          "type": "DRUG"
+        },
+        {
+          "name": "Capecitabine",
+          "type": "DRUG"
+        },
+        {
+          "name": "Oxaliplatin",
+          "type": "DRUG"
+        },
+        {
+          "name": "Cisplatin",
+          "type": "DRUG"
+        },
+        {
+          "name": "5-Fluorouracil",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "Zanidatamab",
+        "Tislelizumab",
+        "Trastuzumab",
+        "Capecitabine",
+        "Oxaliplatin",
+        "Cisplatin",
+        "5-Fluorouracil"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT05152147",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Jazz Pharmaceuticals",
+        "ticker": "JAZZ",
+        "cik": "0001232524",
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001232524&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-09-16T12:29:02Z"
+      }
+    },
+    {
+      "nct_id": "NCT05221840",
+      "title": "A Global Study to Assess the Effects of Durvalumab With Oleclumab or Durvalumab With Monalizumab Following Concurrent Chemoradiation in Patients With Stage III Unresectable Non-Small Cell Lung Cancer",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "AstraZeneca",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-09-30",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Non-Small Cell Lung Cancer"
+      ],
+      "interventions": [
+        {
+          "name": "Durvalumab",
+          "type": "DRUG"
+        },
+        {
+          "name": "Oleclumab",
+          "type": "DRUG"
+        },
+        {
+          "name": "Monalizumab",
+          "type": "DRUG"
+        },
+        {
+          "name": "Placebo",
+          "type": "OTHER"
+        }
+      ],
+      "drug_names": [
+        "Durvalumab",
+        "Oleclumab",
+        "Monalizumab"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT05221840",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "AstraZeneca",
+        "ticker": "AZN",
+        "cik": "0000901832",
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000901832&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-09-13T12:47:21Z"
+      }
+    },
+    {
+      "nct_id": "NCT05288179",
+      "title": "Efficacy and Safety of Pirfenidone Capsules in the Treatment of Pneumoconiosis",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Beijing Continent Pharmaceutical Co, Ltd.",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-09-30",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Pneumoconiosis"
+      ],
+      "interventions": [
+        {
+          "name": "Pirfenidone Capsules",
+          "type": "DRUG"
+        },
+        {
+          "name": "placebo capsules",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "Pirfenidone Capsules",
+        "placebo capsules"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT05288179",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Beijing Continent Pharmaceutical Co, Ltd.",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Beijing%20Continent%20Pharmaceutical%20Co%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-09-13T12:47:22Z"
+      }
+    },
+    {
+      "nct_id": "NCT05557838",
+      "title": "Durvalumab Plus Tremelimumab as First-line Treatment in Chinese Patients With uHCC",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "AstraZeneca",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-09-30",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Hepatocellular Carcinoma"
+      ],
+      "interventions": [
+        {
+          "name": "Durvalumab",
+          "type": "DRUG"
+        },
+        {
+          "name": "Tremelimumab",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "Durvalumab",
+        "Tremelimumab"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT05557838",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "AstraZeneca",
+        "ticker": "AZN",
+        "cik": "0000901832",
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000901832&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-09-13T12:47:21Z"
+      }
+    },
+    {
+      "nct_id": "NCT05989542",
+      "title": "A Confirmatory Clinical Study in NSCLC Patients With MET Exon 14 Mutation (KUNPENG-2)",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Beijing Pearl Biotechnology Limited Liability Company",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-09-30",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Non-small Cell Lung Cancer"
+      ],
+      "interventions": [
+        {
+          "name": "PLB1001",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "PLB1001"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT05989542",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Beijing Pearl Biotechnology Limited Liability Company",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Beijing%20Pearl%20Biotechnology%20Limited%20Liability%20Company&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-09-16T12:29:02Z"
+      }
+    },
+    {
+      "nct_id": "NCT06417814",
+      "title": "A Study to Investigate the Efficacy and Safety of Dato-DXd With or Without Osimertinib Compared With Platinum Based Doublet Chemotherapy in Participants With EGFR-Mutated Locally Advanced or Metastatic Non-Small Cell Lung Cancer",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "AstraZeneca",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-09-30",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Metastatic Non-small Cell Lung Cancer"
+      ],
+      "interventions": [
+        {
+          "name": "Dato-DXd",
+          "type": "DRUG"
+        },
+        {
+          "name": "Osimertinib",
+          "type": "DRUG"
+        },
+        {
+          "name": "Pemetrexed",
+          "type": "DRUG"
+        },
+        {
+          "name": "Carboplatin",
+          "type": "DRUG"
+        },
+        {
+          "name": "Cisplatin",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "Dato-DXd",
+        "Osimertinib",
+        "Pemetrexed",
+        "Carboplatin",
+        "Cisplatin"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06417814",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "AstraZeneca",
+        "ticker": "AZN",
+        "cik": "0000901832",
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000901832&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-09-13T12:47:21Z"
+      }
+    },
+    {
+      "nct_id": "NCT06498479",
+      "title": "ARTEMIS-008：HS-20093 Compared With Topotecan in Subjects With Relapsed Small Cell Lung Cancer",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Hansoh BioMedical R&D Company",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-09-30",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Small Cell Lung Cancer"
+      ],
+      "interventions": [
+        {
+          "name": "HS-20093",
+          "type": "DRUG"
+        },
+        {
+          "name": "Topotecan",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "HS-20093",
+        "Topotecan"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06498479",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Hansoh BioMedical R&D Company",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hansoh%20BioMedical%20R%26D%20Company&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-09-13T12:47:33Z"
+      }
+    },
+    {
+      "nct_id": "NCT06534892",
+      "title": "An Extension and Crossover Vaccination Study on the Immune Response and Safety of a Vaccine Against Respiratory Syncytial Virus Given to Adults 60 Years of Age and Above Who Participated in RSV OA=ADJ-006 Study",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-09-30",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Respiratory Syncytial Virus Infections"
+      ],
+      "interventions": [
+        {
+          "name": "RSVPreF3 OA vaccine",
+          "type": "BIOLOGICAL"
+        }
+      ],
+      "drug_names": [
+        "RSVPreF3 OA vaccine"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06534892",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "GlaxoSmithKline",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=GlaxoSmithKline&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-09-13T12:47:32Z"
+      }
+    },
+    {
+      "nct_id": "NCT06571045",
+      "title": "A Study to Evaluate the Efficacy and Safety of 2 Doses of EYE103 Compared With Ranibizumab (0.5 mg) in Participants With DME",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE2",
+        "PHASE3"
+      ],
+      "sponsor": "EyeBiotech Ltd.",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-09-30",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Diabetic Macular Edema (DME)"
+      ],
+      "interventions": [
+        {
+          "name": "Ranibizumab",
+          "type": "DRUG"
+        },
+        {
+          "name": "EYE103",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "Ranibizumab",
+        "EYE103"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06571045",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "EyeBiotech Ltd.",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=EyeBiotech%20Ltd.&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-09-16T12:29:02Z"
+      }
+    },
+    {
+      "nct_id": "NCT06735391",
+      "title": "A Clinical Study of JMT101 in Combination With Osimertinib Versus Osimertinib Alone as First-Line Treatment for Patients With Locally Advanced or Metastatic Non-Squamous Non-Small Cell Lung Cancer (NSCLC) Harboring Epidermal Growth Factor Receptor (EGFR) Sensitive Mutations",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Shanghai JMT-Bio Inc.",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-09-30",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Locally Advanced or Metastatic Non-squamous NSCLC",
+        "Harboring EGFR Sensitive Mutations NSCLC",
+        "Previously Untreated Systematically NSCLC"
+      ],
+      "interventions": [
+        {
+          "name": "JMT101",
+          "type": "DRUG"
+        },
+        {
+          "name": "Osimertinib",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "JMT101",
+        "Osimertinib"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06735391",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Shanghai JMT-Bio Inc.",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Shanghai%20JMT-Bio%20Inc.&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-09-13T12:47:45Z"
+      }
+    },
+    {
+      "nct_id": "NCT06783114",
+      "title": "A Clinical Study on Recombinant Botulinum Toxin Type A (YY001) for Injection in The Treatment of Upper Limb Spasticity in Adults",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE2",
+        "PHASE3"
+      ],
+      "sponsor": "Chongqing Claruvis Pharmaceutical Co., Ltd.",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-09-30",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Upper Limb Spasticity"
+      ],
+      "interventions": [
+        {
+          "name": "Recombinant Botulinum Toxin Type A for injection (YY001)",
+          "type": "BIOLOGICAL"
+        },
+        {
+          "name": "BOTOX®",
+          "type": "BIOLOGICAL"
+        },
+        {
+          "name": "Placebo",
+          "type": "BIOLOGICAL"
+        }
+      ],
+      "drug_names": [
+        "Recombinant Botulinum Toxin Type A for injection (YY001)",
+        "BOTOX®",
+        "Placebo"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06783114",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Chongqing Claruvis Pharmaceutical Co., Ltd.",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Chongqing%20Claruvis%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-09-16T12:29:02Z"
+      }
+    },
+    {
+      "nct_id": "NCT06958692",
+      "title": "A Trial of Dextromethorphan and Bupropion Sustained-Release Tablets in Patients With Major Depressive Disorder",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "CSPC Ouyi Pharmaceutical Co., Ltd.",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-09-30",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Major Depressive Disorder (MDD)"
+      ],
+      "interventions": [
+        {
+          "name": "Dextromethorphan and Bupropion Sustained-Release Tablets",
+          "type": "DRUG"
+        },
+        {
+          "name": "Placebo",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "Dextromethorphan and Bupropion Sustained-Release Tablets",
+        "Placebo"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06958692",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "CSPC Ouyi Pharmaceutical Co., Ltd.",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=CSPC%20Ouyi%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-09-16T12:29:02Z"
+      }
+    },
+    {
+      "nct_id": "NCT07265284",
+      "title": "A Study to Evaluate Efficacy and Safety of IBI112 in Adolescent Participants With Moderate to Severe Plaque Psoriasis",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Innovent Biopharmaceutical Technology (Hangzhou) Co., LTD.",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-09-30",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Psoriasis"
+      ],
+      "interventions": [
+        {
+          "name": "IBI112",
+          "type": "DRUG"
+        },
+        {
+          "name": "placebo",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "IBI112",
+        "placebo"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT07265284",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Innovent Biopharmaceutical Technology (Hangzhou) Co., LTD.",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Innovent%20Biopharmaceutical%20Technology%20%28Hangzhou%29%20Co.%2C%20LTD.&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-09-16T12:29:02Z"
+      }
+    },
+    {
+      "nct_id": "NCT07356349",
+      "title": "Study to Confirm the AuthenTicity of Point of Care Urine samplEs Using Oral fluoreScein Sodium in adulTs With substancE Use Disorder (ATTESTED)",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "UpTru Inc.",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-09-30",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Substance Use Disorder (SUD)"
+      ],
+      "interventions": [
+        {
+          "name": "Fluorescein",
+          "type": "DRUG"
+        },
+        {
+          "name": "placebo",
+          "type": "OTHER"
+        }
+      ],
+      "drug_names": [
+        "Fluorescein"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT07356349",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "UpTru Inc.",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=UpTru%20Inc.&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-09-16T12:29:03Z"
+      }
+    },
+    {
+      "nct_id": "NCT07416110",
+      "title": "Phase IIIb Clinical Trial to Evaluate Lot-to-lot Consistency of Sinovac Rabies Vaccine",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Sinovac Biotech Co., Ltd",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-09-30",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Rabies (Healthy Volunteers)"
+      ],
+      "interventions": [
+        {
+          "name": "Sinovac rabies vaccine",
+          "type": "BIOLOGICAL"
+        }
+      ],
+      "drug_names": [
+        "Sinovac rabies vaccine"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT07416110",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Sinovac Biotech Co., Ltd",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Sinovac%20Biotech%20Co.%2C%20Ltd&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-09-16T12:29:03Z"
+      }
+    }
+  ],
+  "removed_trial_ids": [
+    "NCT04768972",
+    "NCT06347016",
+    "NCT06904274",
+    "NCT07275814"
+  ]
 }

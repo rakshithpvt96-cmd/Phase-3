@@ -1,0 +1,75 @@
+{
+  "drug_name": "Sinovac rabies vaccine",
+  "slug": "sinovac-rabies-vaccine",
+  "enriched_at": "2026-09-16T12:34:12Z",
+  "source_trial_ids": [
+    "NCT07416110"
+  ],
+  "sponsors": [
+    {
+      "name": "Sinovac Biotech Co., Ltd",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Sinovac%20Biotech%20Co.%2C%20Ltd&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "9097",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2107909",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": "Biological vaccine - induces immune response"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Sinovac%20rabies%20vaccine+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Sinovac%20rabies%20vaccine+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Sinovac%20rabies%20vaccine+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Rabies (Healthy Volunteers)",
+    "slug": "rabies-healthy-volunteers"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07416110",
+      "title": "Phase IIIb Clinical Trial to Evaluate Lot-to-lot Consistency of Sinovac Rabies Vaccine",
+      "status": "NOT_YET_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07416110",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42456561",
+        "title": "Immunogenicity and safety of serum-free rabies vaccine for human use with simulated post-exposure schedules: A randomized, double-blind, active-controlled phase III clinical trial.",
+        "pubdate": "2026 Aug 13",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42456561/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

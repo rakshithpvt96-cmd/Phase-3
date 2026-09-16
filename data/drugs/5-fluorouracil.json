@@ -1,10 +1,9 @@
 {
-  "drug_name": "5-fluorouracil",
+  "drug_name": "5-Fluorouracil",
   "slug": "5-fluorouracil",
-  "enriched_at": "2026-08-30T12:41:15Z",
+  "enriched_at": "2026-09-16T12:29:14Z",
   "source_trial_ids": [
-    "NCT05152147",
-    "NCT06625320"
+    "NCT05152147"
   ],
   "sponsors": [
     {
@@ -12,12 +11,6 @@
       "ticker": "JAZZ",
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001232524&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
-      "name": "Revolution Medicines, Inc.",
-      "ticker": "RVMD",
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001628171&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
@@ -51,14 +44,14 @@
     "dailymed_url": null,
     "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
     "further_reading": {
-      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=5-fluorouracil+mechanism+of+action",
-      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=5-fluorouracil+pharmacokinetics",
-      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=5-fluorouracil+efficacy+phase+3"
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=5-Fluorouracil+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=5-Fluorouracil+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=5-Fluorouracil+efficacy+phase+3"
     }
   },
   "condition": {
-    "raw": "Pancreatic Cancer",
-    "slug": "pancreatic-cancer"
+    "raw": "Gastric Neoplasms",
+    "slug": "gastric-neoplasms"
   },
   "source_trials": [
     {
@@ -67,47 +60,40 @@
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT05152147",
       "has_results": false
-    },
-    {
-      "nct_id": "NCT06625320",
-      "title": "Phase 3 Study of Daraxonrasib (RMC-6236) in Patients With Previously Treated Metastatic Pancreatic Ductal Adenocarcinoma (PDAC)",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06625320",
-      "has_results": false
     }
   ],
   "prior_results": {
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42658449",
-        "title": "Phase II study of mFOLFOX6 in advanced gastric cancer patients with severe peritoneal metastases (WJOG10517G), including an individual patient data comparison with JCOG1108/WJOG7312G.",
-        "pubdate": "2026 Aug 27",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42658449/"
-      },
-      {
-        "pmid": "42633754",
-        "title": "Chemoradiotherapy versus short-course radiotherapy for response-adapted organ preservation in early-stage and intermediate-stage rectal cancer (STAR-TREC): 12-month results of an international, multicentre, open-label, parallel-group, randomised, phase 2/3 trial.",
+        "pmid": "42733563",
+        "title": "Short-term versus long-course neoadjuvant chemotherapy for resectable and borderline resectable pancreatic ductal adenocarcinoma (PACT-21 CASSANDRA): results from the second randomisation analysis of a randomised, open-label, 2 × 2 factorial phase 3 trial.",
         "pubdate": "2026 Sep",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42633754/"
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42733563/"
       },
       {
-        "pmid": "42584742",
-        "title": "Real-world clinical outcomes of patients with early-stage TNBC and BRCAm who were treated with adjuvant capecitabine in the United States.",
-        "pubdate": "2026 Aug 12",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42584742/"
+        "pmid": "42731846",
+        "title": "FOLFOX-based transarterial infusion chemotherapy for unresectable colorectal cancer: protocol of an open-label, multicentre, randomised, controlled, phase II trial.",
+        "pubdate": "2026 Sep 11",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42731846/"
       },
       {
-        "pmid": "42582989",
-        "title": "Reassessing the role of CEA in the treatment of rectal cancer in the era of TNT.",
-        "pubdate": "2026 Sep",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42582989/"
+        "pmid": "42716074",
+        "title": "Perioperative durvalumab plus fluorouracil, leucovorin, oxaliplatin, and docetaxel for resectable gastric and gastro-oesophageal junction adenocarcinoma (MATTERHORN): final results of overall survival and event-free survival by pathological response in a global, randomised, double-blind, placebo-controlled, multicentre, phase 3 trial.",
+        "pubdate": "2026 Sep 9",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42716074/"
       },
       {
-        "pmid": "42545685",
-        "title": "Addition of High-Dose Vitamin D3 to Standard Treatment in Patients With Metastatic Colorectal Cancer: The SOLARIS Randomized Clinical Trial (Alliance A021703).",
-        "pubdate": "2026 Aug 3",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42545685/"
+        "pmid": "42701122",
+        "title": "Neoadjuvant triplet chemotherapy enables radiotherapy avoidance in human papillomavirus-associated oropharyngeal cancer: a multicentre Phase II trial.",
+        "pubdate": "2026 Sep 5",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42701122/"
+      },
+      {
+        "pmid": "42687040",
+        "title": "Comparative efficacy and safety of pharmacokinetically guided and body surface area-based 5-fluorouracil dosing in colorectal cancer: a systematic review and meta-analysis.",
+        "pubdate": "2026 Sep 3",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42687040/"
       }
     ]
   },

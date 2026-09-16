@@ -1,11 +1,11 @@
 {
-  "drug_name": "paclitaxel",
+  "drug_name": "Paclitaxel",
   "slug": "paclitaxel",
-  "enriched_at": "2026-09-01T12:26:39Z",
+  "enriched_at": "2026-09-16T12:31:09Z",
   "source_trial_ids": [
     "NCT04634877",
     "NCT04704934",
-    "NCT05298423",
+    "NCT05116462",
     "NCT06279364"
   ],
   "sponsors": [
@@ -14,6 +14,12 @@
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Daiichi%20Sankyo&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Innovent Biologics (Suzhou) Co. Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Innovent%20Biologics%20%28Suzhou%29%20Co.%20Ltd.&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Merck Sharp & Dohme LLC",
@@ -60,13 +66,13 @@
     "openfda_generic_names": [
       "PACLITAXEL"
     ],
-    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=135502ff-002c-4a29-ba93-60855cf44f31",
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e4be6cbf-72b9-4f7f-9b1b-459b2d35961a",
     "note": null,
     "further_reading": null
   },
   "condition": {
-    "raw": "Carcinoma, Non-Small-Cell Lung",
-    "slug": "carcinoma-non-small-cell-lung"
+    "raw": "Triple Negative Breast Cancer",
+    "slug": "triple-negative-breast-cancer"
   },
   "source_trials": [
     {
@@ -84,10 +90,10 @@
       "has_results": false
     },
     {
-      "nct_id": "NCT05298423",
-      "title": "Study of Pembrolizumab/Vibostolimab (MK-7684A) in Combination With Concurrent Chemoradiotherapy Followed by Pembrolizumab/Vibostolimab Versus Concurrent Chemoradiotherapy Followed by Durvalumab in Participants With Stage III Non-small Cell Lung Cancer (MK-7684A-006)",
-      "status": "COMPLETED",
-      "url": "https://clinicaltrials.gov/study/NCT05298423",
+      "nct_id": "NCT05116462",
+      "title": "Neoadjuvant and Adjuvant Therapy Studies of Sindilizumab in Resectable Lung Cancer",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05116462",
       "has_results": false
     },
     {
@@ -102,34 +108,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42661432",
-        "title": "Relacorilant in Combination With Nab-Paclitaxel for the Treatment of Adults With Platinum-Resistant Epithelial Ovarian, Fallopian Tube, or Primary Peritoneal Cancer.",
-        "pubdate": "2026 Aug 27",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42661432/"
+        "pmid": "42743886",
+        "title": "Circulating free bacterial DNA as a novel biomarker for monitoring therapy response in patients with advanced pancreatic cancer.",
+        "pubdate": "2026 Sep 10",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42743886/"
       },
       {
-        "pmid": "42658449",
-        "title": "Phase II study of mFOLFOX6 in advanced gastric cancer patients with severe peritoneal metastases (WJOG10517G), including an individual patient data comparison with JCOG1108/WJOG7312G.",
-        "pubdate": "2026 Aug 27",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42658449/"
+        "pmid": "42742872",
+        "title": "Induction FLOT Chemotherapy Prior to Neoadjuvant Chemoradiotherapy in the Treatment of Lower Esophageal and Proximal Gastric Adenocarcinoma: A Phase II, Single-Arm Clinical Trial.",
+        "pubdate": "2026 Sep 15",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42742872/"
       },
       {
-        "pmid": "42639047",
-        "title": "Urinary protein semi-quantification in immunochemotherapy for bladder cancer: markers of clinical outcomes.",
+        "pmid": "42733563",
+        "title": "Short-term versus long-course neoadjuvant chemotherapy for resectable and borderline resectable pancreatic ductal adenocarcinoma (PACT-21 CASSANDRA): results from the second randomisation analysis of a randomised, open-label, 2 × 2 factorial phase 3 trial.",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42733563/"
+      },
+      {
+        "pmid": "42725320",
+        "title": "Systemic treatment of advanced pancreatic cancer: A Comprehensive Review.",
+        "pubdate": "2026 Mar",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42725320/"
+      },
+      {
+        "pmid": "42712492",
+        "title": "Multi-modal digital twin model outperforms conventional biomarker stratification in pancreatic cancer.",
         "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42639047/"
-      },
-      {
-        "pmid": "42636548",
-        "title": "Daily low-dose carboplatin or weekly carboplatin plus nab-paclitaxel for concurrent chemoradiotherapy in older patients with locally advanced non-small cell lung cancer (JCOG1914): A randomized phase 3 trial.",
-        "pubdate": "2026 Aug 14",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42636548/"
-      },
-      {
-        "pmid": "42608991",
-        "title": "Anthracycline-Free Neoadjuvant Therapy With Nab-Paclitaxel and Carboplatin in Non-Luminal Breast Cancer: A Single-Arm Clinical Trial.",
-        "pubdate": "2026 Aug 17",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42608991/"
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42712492/"
       }
     ]
   },

@@ -1,0 +1,104 @@
+{
+  "drug_name": "Recombinant Botulinum Toxin Type A for injection (YY001)",
+  "slug": "recombinant-botulinum-toxin-type-a-for-injection-yy001",
+  "enriched_at": "2026-09-16T12:34:06Z",
+  "source_trial_ids": [
+    "NCT06783114"
+  ],
+  "sponsors": [
+    {
+      "name": "Chongqing Claruvis Pharmaceutical Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Chongqing%20Claruvis%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1732153",
+      "generic_name": "botulinum toxin type A Injection",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4297862",
+    "target_chembl_id": "CHEMBL2364159",
+    "target_name": "Synaptosomal-associated protein 25",
+    "mechanism_of_action_chembl": "Synaptosomal nerve-associated protein 25 (SNAP-25) hydrolytic enzyme"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Recombinant%20Botulinum%20Toxin%20Type%20A%20for%20injection%20%28YY001%29+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Recombinant%20Botulinum%20Toxin%20Type%20A%20for%20injection%20%28YY001%29+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Recombinant%20Botulinum%20Toxin%20Type%20A%20for%20injection%20%28YY001%29+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Upper Limb Spasticity",
+    "slug": "upper-limb-spasticity"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06783114",
+      "title": "A Clinical Study on Recombinant Botulinum Toxin Type A (YY001) for Injection in The Treatment of Upper Limb Spasticity in Adults",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06783114",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "INCOBOTULINUMTOXINA",
+        "chembl_id": "CHEMBL2108035",
+        "reason": "same target: Synaptosomal-associated protein 25"
+      },
+      {
+        "name": "ABOBOTULINUMTOXINA",
+        "chembl_id": "CHEMBL2108570",
+        "reason": "same target: Synaptosomal-associated protein 25"
+      },
+      {
+        "name": "ONABOTULINUMTOXINA",
+        "chembl_id": "CHEMBL1201574",
+        "reason": "same target: Synaptosomal-associated protein 25"
+      },
+      {
+        "name": "PRABOTULINUMTOXIN A",
+        "chembl_id": "CHEMBL4297229",
+        "reason": "same target: Synaptosomal-associated protein 25"
+      },
+      {
+        "name": "DAXIBOTULINUMTOXINA",
+        "chembl_id": "CHEMBL3707359",
+        "reason": "same target: Synaptosomal-associated protein 25"
+      },
+      {
+        "name": "TRENIBOTULINUMTOXINE",
+        "chembl_id": "CHEMBL4594539",
+        "reason": "same target: Synaptosomal-associated protein 25"
+      },
+      {
+        "name": "LETIBOTULINUMTOXINA",
+        "chembl_id": "CHEMBL3707322",
+        "reason": "same target: Synaptosomal-associated protein 25"
+      }
+    ]
+  }
+}

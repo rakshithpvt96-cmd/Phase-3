@@ -1,16 +1,16 @@
 {
   "drug_name": "Tremelimumab",
   "slug": "tremelimumab",
-  "enriched_at": "2026-08-15T21:50:21Z",
+  "enriched_at": "2026-09-16T12:32:31Z",
   "source_trial_ids": [
-    "NCT03682068"
+    "NCT05557838"
   ],
   "sponsors": [
     {
       "name": "AstraZeneca",
-      "ticker": null,
+      "ticker": "AZN",
       "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=AstraZeneca&type=10-K&dateb=&owner=include&count=40"
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000901832&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
@@ -44,21 +44,27 @@
     "further_reading": null
   },
   "condition": {
-    "raw": "Unresectable Locally Advanced Urothelial Cancer",
-    "slug": "unresectable-locally-advanced-urothelial-cancer"
+    "raw": "Hepatocellular Carcinoma",
+    "slug": "hepatocellular-carcinoma"
   },
   "source_trials": [
     {
-      "nct_id": "NCT03682068",
-      "title": "Study of Durvalumab Given With Chemotherapy, Durvalumab in Combination With Tremelimumab Given With Chemotherapy, or Chemotherapy in Patients With Unresectable Urothelial Cancer",
+      "nct_id": "NCT05557838",
+      "title": "Durvalumab Plus Tremelimumab as First-line Treatment in Chinese Patients With uHCC",
       "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT03682068",
+      "url": "https://clinicaltrials.gov/study/NCT05557838",
       "has_results": false
     }
   ],
   "prior_results": {
     "ctgov_results_urls": [],
     "pubmed_articles": [
+      {
+        "pmid": "42636832",
+        "title": "Durvalumab and tremelimumab, with or without lenvatinib, combined with transarterial chemoembolisation in participants with embolisation-eligible hepatocellular carcinoma (EMERALD-3): a global, randomised, open-label, sponsor-blinded, phase 3 study.",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42636832/"
+      },
       {
         "pmid": "42578486",
         "title": "First-line systemic treatment for people with extensive-stage small cell lung cancer: a network meta-analysis.",
@@ -68,13 +74,13 @@
       {
         "pmid": "42563422",
         "title": "Response to the Letter Regarding \"Outcomes of Patients With Hepatocellular Carcinoma Treated With Durvalumab Plus Tremelimumab in Real-World Clinical Practice Who Met or Did Not Meet the Inclusion Criteria for the Phase 3 HIMALAYA Trial\".",
-        "pubdate": "2026 Aug 6",
+        "pubdate": "2026 Sep",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42563422/"
       },
       {
         "pmid": "42552515",
         "title": "Comment on Outcomes of Patients With Hepatocellular Carcinoma Treated With Durvalumab Plus Tremelimumab in Real-World Clinical Practice Who Met or Did Not Meet the Inclusion Criteria for the Phase 3 HIMALAYA Trial.",
-        "pubdate": "2026 Aug 4",
+        "pubdate": "2026 Sep",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42552515/"
       },
       {
@@ -82,12 +88,6 @@
         "title": "Durvalumab Consolidation Treatment Following Concurrent Chemoradiotherapy in Limited-Stage SCLC: ADRIATIC China Subgroup Analysis.",
         "pubdate": "2026 Aug",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42529258/"
-      },
-      {
-        "pmid": "42527085",
-        "title": "Efficacy of Lenvatinib as Subsequent Therapy After Combination Immune Checkpoint Inhibitors for Unresectable Hepatocellular Carcinoma.",
-        "pubdate": "2026 Aug",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42527085/"
       }
     ]
   },

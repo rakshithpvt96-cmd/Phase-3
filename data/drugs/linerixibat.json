@@ -1,0 +1,105 @@
+{
+  "drug_name": "Linerixibat",
+  "slug": "linerixibat",
+  "enriched_at": "2026-09-16T12:30:17Z",
+  "source_trial_ids": [
+    "NCT04167358"
+  ],
+  "sponsors": [
+    {
+      "name": "GlaxoSmithKline",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=GlaxoSmithKline&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 53492727,
+    "iupac_name": "3-[[(3R,5R)-3-butyl-3-ethyl-7-methoxy-1,1-dioxo-5-phenyl-4,5-dihydro-2H-1lambda6,4-benzothiazepin-8-yl]methylamino]pentanedioic acid",
+    "molecular_formula": "C28H38N2O7S",
+    "molecular_weight": "546.7",
+    "canonical_smiles": null,
+    "inchikey": "CZGVOBIGEBDYTP-VSGBNLITSA-N",
+    "rxnorm": {
+      "rxcui": "2665338",
+      "generic_name": "linerixibat",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL3981721",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Linerixibat is a reversible inhibitor of the ileal bile acid transporter (IBAT). It decreases the reabsorption of bile acids in the terminal ileum leading to their increased fecal elimination. Cholestatic pruritus is a common symptom in patients with PBC, and the pathophysiology of pruritus in patients with PBC is not completely understood. Although the complete mechanism by which linerixibat improves pruritus in PBC patients is unknown, it may involve inhibition of the IBAT as observed by a decrease in mediators of pruritus including serum bile acids [see Clinical Pharmacology (12.2) ] .",
+    "pharmacokinetics": "12.3 Pharmacokinetics Due to the low systemic absorption of linerixibat, pharmacokinetic parameters cannot be reliably calculated at the recommended doses. Following a single dose administration of 40 mg of linerixibat, concentrations of linerixibat in healthy volunteers were below the limit of quantification (10 pg/mL) in the majority of plasma samples. Following multiple doses of linerixibat ranging from 3 mg (0.08 times the approved recommended dose) twice daily to 90 mg (2.25 times the approved recommended dose) twice daily in healthy volunteers, the majority of plasma samples were below the limit of quantification (1,000 pg/mL). Absorption Linerixibat is minimally absorbed following oral administration and the absolute oral bioavailability of linerixibat is 0.05%. Following a single oral administration of linerixibat 40 mg in healthy adults under fasted conditions, median T max was 4.5 hours and mean linerixibat (%CV) C max and AUC 0-t were 31.1 pg/mL (173) and 105 h∙pg/mL (419), respectively. Following multiple doses of LYNAVOY 40 mg twice daily in PBC patients with cholestatic pruritus, the mean linerixibat C max (95% CI) was 922 pg/mL (347, 1,500). Effect of Food Concomitant administration of a high-fat meal with a single dose of linerixibat 40 mg oral tablets delayed median T max from 4.5 hours to 8.0 hours and resulted in decreases of 21.9% and 33.7% in AUC 0-t and C max , respectively, compared to administration under fasted conditions in healthy adults. Pharmacokinetic parameters in the food effect study were highly variable. The effect of food on the changes of systemic exposures to linerixibat is not clinically significant. Despite the lack of clinically important pharmacokinetic effects with food, LYNAVOY should be administered at least 30 minutes prior to food or beverage (other than water) to allow linerixibat to enter the gastrointestinal lumen prior to release of bile acids upon eating [see Dosage and Administration (2.1) ] . Distribution The in vitro plasma protein binding range of linerixibat was 71.0-76.4%. Elimination Following a single oral dose of linerixibat 90 mg (2.25 times the approved recommended dose) in healthy adults, the mean half-life (t 1/2 ) was 6.76 hours. Metabolism: Following administration of oral radiolabeled linerixibat, no linerixibat metabolites were detected in plasma. Three minor oxidative metabolites were detected in feces, and each accounted for negligible radioactivity (<1%), demonstrating that linerixibat is minimally metabolized in humans. Excretion: Following administration of oral radiolabeled linerixibat, approximately 97% of the dose was excreted in feces; approximately 0.04% of the dose was excreted in urine. More than 99% of fecal radioactivity was determined to be unchanged and unabsorbed linerixibat. Following intravenous administration of radiolabeled linerixibat, systemic linerixibat elimination was approximately 20% renal and 80% fecal. Specific Populations No clinically significant differences in changes of total serum bile acid concentrations were observed with linerixibat based on body weight, age, sex, or race (White, Black, or Asian). Patients with Hepatic Impairment: Of 238 patients enrolled in Study 1, 25 (11%) patients were diagnosed with cirrhosis (F4, Child-Pugh A), out of which 13 (5%) patients received linerixibat treatment. A general trend of higher exposure of linerixibat was observed in patients with cirrhosis compared to patients without cirrhosis, although the number of patients was very small. In a pharmacokinetic study in patients with moderate hepatic impairment (Child-Pugh B), the mean AUC (0-∞) and C max values were approximately 13-fold and 9.4-fold higher than matched healthy patients. The clinical significance of this increase is unknown. Pharmacokinetics of linerixibat have not been evaluated in patients with severe hepatic impairment (Child-Pugh C). Drug Interaction Studies Effect of Bile Acid Binding Resins on Linerixibat : Approximately 78% to 95% of linerixibat was bound to cholestyramine and colesevelam in in vitro studies. Cholestyramine and colesevelam can potentially inhibit the effects of linerixibat on IBAT [see Drug Interactions (7.1) ] . Effect of Linerixibat on Ursodeoxycholic Acid (UDCA): In a dose-ranging study, adult PBC patients received placebo or linerixibat dosages ranging from 20 mg once a day (0.25 times the recommended dosage) to 90 mg twice a day (2.25 times the recommended dosage) for 12 weeks. In this clinical trial, concomitant administration of UDCA and linerixibat had no effect on UDCA plasma concentrations but reduced concentrations of UDCA conjugates, glyco-UDCA and tauro-UDCA, at 12 weeks of therapy. The concentrations of UDCA conjugates, glyco-UDCA and tauro-UDCA, were reduced by 69% and 90%, respectively, in patients receiving concomitant administration of UDCA with linerixibat versus with placebo. However, concomitant administration of UDCA with linerixibat resulted in no clinically significant increases in ALP over 12 weeks of treatment. In in vitro studies, linerixibat did not inhibit cytochrome P450 (CYP)s 1A2, 2A6, 2B6, 2C8, 2C9, 2C19, 2D6, and 2E1, but was an inhibitor of CYP3A4. Due to the low fraction absorbed, an interaction is not likely. Linerixibat did not induce CYPs 1A2, 2B6, and 3A4. In in vitro studies, linerixibat did not inhibit the transporters, P-glycoprotein (P-gp), breast cancer resistance protein (BCRP), organic anion transporters (OAT) 1 and 3, organic cation transporter (OCT) 2, and multidrug and toxin extrusion protein (MATE) 1 and 2K. In vitro studies suggest that there is a potential for linerixibat to inhibit organic anion transporter polypeptide 1B1 and 1B3 (OATP1B1 and OATP1B3). However, due to the low fraction absorbed, an interaction is not likely.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE LYNAVOY is indicated for the treatment of cholestatic pruritus associated with primary biliary cholangitis (PBC) in adult patients. Limitations of Use Avoid use of LYNAVOY in patients with decompensated cirrhosis or those with prior or active hepatic decompensation events (e.g. variceal hemorrhage, ascites, hepatic encephalopathy) [see Use in Specific Populations (8.7) , Clinical Pharmacology (12.3) ] . LYNAVOY is an ileal bile acid transporter (IBAT) inhibitor indicated for the treatment of cholestatic pruritus associated with primary biliary cholangitis (PBC) in adult patients. ( 1 ) Limitations of Use Avoid use of LYNAVOY in patients with decompensated cirrhosis or those with prior or active hepatic decompensation events (e.g. variceal hemorrhage, ascites, hepatic encephalopathy). ( 1 )",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "Lynavoy"
+    ],
+    "openfda_generic_names": [
+      "LINERIXIBAT"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=c00317c8-709c-4707-a6d1-632bff123026",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Cholestasis",
+    "slug": "cholestasis"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04167358",
+      "title": "Linerixibat Long-term Safety, and Tolerability Study",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04167358",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42667573",
+        "title": "Meaningful Improvement Thresholds for Pruritus and Sleep Disturbance in PBC Using the Worst Itch and Sleep Interference Numerical Rating Scales.",
+        "pubdate": "2026 Aug 29",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42667573/"
+      },
+      {
+        "pmid": "41953994",
+        "title": "Review Article: Ileal Bile Acid Transport (IBAT) Inhibitors as an Emerging Treatment for Cholestatic Liver Disease.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41953994/"
+      },
+      {
+        "pmid": "41657886",
+        "title": "Impact of Linerixibat on Pharmacodynamic Biomarkers and Mediators of Cholestatic Pruritus in PBC in the Phase 3 GLISTEN Study.",
+        "pubdate": "2025 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41657886/"
+      },
+      {
+        "pmid": "41173016",
+        "title": "Linerixibat in patients with primary biliary cholangitis and cholestatic pruritus (GLISTEN): a randomised, multicentre, double-blind, placebo-controlled, phase 3 trial.",
+        "pubdate": "2026 Jan",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41173016/"
+      },
+      {
+        "pmid": "38780109",
+        "title": "Serum bile acid change correlates with improvement in pruritus in patients with primary biliary cholangitis receiving linerixibat.",
+        "pubdate": "2024 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38780109/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

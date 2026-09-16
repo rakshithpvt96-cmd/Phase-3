@@ -1,12 +1,19 @@
 {
   "drug_name": "Nab-paclitaxel",
   "slug": "nab-paclitaxel",
-  "enriched_at": "2026-09-14T14:28:20Z",
+  "enriched_at": "2026-09-16T12:30:36Z",
   "source_trial_ids": [
+    "NCT05116462",
     "NCT05254171",
     "NCT06279364"
   ],
   "sponsors": [
+    {
+      "name": "Innovent Biologics (Suzhou) Co. Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Innovent%20Biologics%20%28Suzhou%29%20Co.%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    },
     {
       "name": "Panbela Therapeutics, Inc.",
       "ticker": null,
@@ -62,6 +69,13 @@
   },
   "source_trials": [
     {
+      "nct_id": "NCT05116462",
+      "title": "Neoadjuvant and Adjuvant Therapy Studies of Sindilizumab in Resectable Lung Cancer",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05116462",
+      "has_results": false
+    },
+    {
       "nct_id": "NCT05254171",
       "title": "Study of Nab-Paclitaxel and Gemcitabine With or Without SBP-101 in Pancreatic Cancer",
       "status": "RECRUITING",
@@ -79,6 +93,12 @@
   "prior_results": {
     "ctgov_results_urls": [],
     "pubmed_articles": [
+      {
+        "pmid": "42743886",
+        "title": "Circulating free bacterial DNA as a novel biomarker for monitoring therapy response in patients with advanced pancreatic cancer.",
+        "pubdate": "2026 Sep 10",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42743886/"
+      },
       {
         "pmid": "42733563",
         "title": "Short-term versus long-course neoadjuvant chemotherapy for resectable and borderline resectable pancreatic ductal adenocarcinoma (PACT-21 CASSANDRA): results from the second randomisation analysis of a randomised, open-label, 2 × 2 factorial phase 3 trial.",
@@ -102,12 +122,6 @@
         "title": "Relacorilant in Combination With Nab-Paclitaxel for the Treatment of Adults With Platinum-Resistant Epithelial Ovarian, Fallopian Tube, or Primary Peritoneal Cancer.",
         "pubdate": "2026 Aug 27",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42661432/"
-      },
-      {
-        "pmid": "42639047",
-        "title": "Urinary protein semi-quantification in immunochemotherapy for bladder cancer: markers of clinical outcomes.",
-        "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42639047/"
       }
     ]
   },

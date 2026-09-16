@@ -1,16 +1,15 @@
 {
   "drug_name": "Carboplatin",
   "slug": "carboplatin",
-  "enriched_at": "2026-09-01T12:26:08Z",
+  "enriched_at": "2026-09-16T12:29:21Z",
   "source_trial_ids": [
     "NCT04634877",
-    "NCT05048797",
+    "NCT05116462",
     "NCT05261399",
-    "NCT05298423",
     "NCT06123884",
     "NCT06151574",
-    "NCT06211023",
     "NCT06279364",
+    "NCT06417814",
     "NCT06624059",
     "NCT06687369",
     "NCT06927986"
@@ -47,6 +46,12 @@
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hoffmann-La%20Roche&type=10-K&dateb=&owner=include&count=40"
     },
     {
+      "name": "Innovent Biologics (Suzhou) Co. Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Innovent%20Biologics%20%28Suzhou%29%20Co.%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
       "name": "Merck Sharp & Dohme LLC",
       "ticker": null,
       "market_cap_display": null,
@@ -57,12 +62,6 @@
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Sichuan%20Kelun-Biotech%20Biopharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
-      "name": "Suzhou Suncadia Biopharmaceuticals Co., Ltd.",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Suzhou%20Suncadia%20Biopharmaceuticals%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "mAbxience Research S.L.",
@@ -108,8 +107,8 @@
     "further_reading": null
   },
   "condition": {
-    "raw": "Locally Advanced or Metastatic Non-Small Cell Lung Cancer",
-    "slug": "locally-advanced-or-metastatic-non-small-cell-lung-cancer"
+    "raw": "Triple Negative Breast Cancer",
+    "slug": "triple-negative-breast-cancer"
   },
   "source_trials": [
     {
@@ -120,10 +119,10 @@
       "has_results": false
     },
     {
-      "nct_id": "NCT05048797",
-      "title": "A Study to Investigate the Efficacy and Safety of Trastuzumab Deruxtecan as the First Treatment Option for Unresectable, Locally Advanced/Metastatic Non-Small Cell Lung Cancer With HER2 Mutations",
+      "nct_id": "NCT05116462",
+      "title": "Neoadjuvant and Adjuvant Therapy Studies of Sindilizumab in Resectable Lung Cancer",
       "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT05048797",
+      "url": "https://clinicaltrials.gov/study/NCT05116462",
       "has_results": false
     },
     {
@@ -131,13 +130,6 @@
       "title": "Savolitinib Plus Osimertinib Versus Platinum-based Doublet Chemotherapy in Participants With Non-Small Cell Lung Cancer Who Have Progressed on Osimertinib Treatment",
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT05261399",
-      "has_results": false
-    },
-    {
-      "nct_id": "NCT05298423",
-      "title": "Study of Pembrolizumab/Vibostolimab (MK-7684A) in Combination With Concurrent Chemoradiotherapy Followed by Pembrolizumab/Vibostolimab Versus Concurrent Chemoradiotherapy Followed by Durvalumab in Participants With Stage III Non-small Cell Lung Cancer (MK-7684A-006)",
-      "status": "COMPLETED",
-      "url": "https://clinicaltrials.gov/study/NCT05298423",
       "has_results": false
     },
     {
@@ -155,17 +147,17 @@
       "has_results": false
     },
     {
-      "nct_id": "NCT06211023",
-      "title": "A Study of SHR-A1921 With or Without Carboplatin in Subjects With Ovarian Cancer",
-      "status": "UNKNOWN",
-      "url": "https://clinicaltrials.gov/study/NCT06211023",
-      "has_results": false
-    },
-    {
       "nct_id": "NCT06279364",
       "title": "A Study of SKB264 Versus Investigator's Choice Chemotherapy in Patients With Unresectable Recurrent or Metastatic Triple-Negative Breast Cancer",
       "status": "RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT06279364",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06417814",
+      "title": "A Study to Investigate the Efficacy and Safety of Dato-DXd With or Without Osimertinib Compared With Platinum Based Doublet Chemotherapy in Participants With EGFR-Mutated Locally Advanced or Metastatic Non-Small Cell Lung Cancer",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06417814",
       "has_results": false
     },
     {
@@ -178,7 +170,7 @@
     {
       "nct_id": "NCT06687369",
       "title": "A Study to Compare Pharmacokinetics, Efficacy, Safety, and Immunogenicity of MB12 (Proposed Pembrolizumab Biosimilar) to Keytruda® in Non-small Cell Lung Cancer (BENITO Study)",
-      "status": "RECRUITING",
+      "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT06687369",
       "has_results": false
     },
@@ -194,34 +186,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42643500",
-        "title": "Safety and efficacy of first-line iparomlimab and tuvonralimab (QL1706) plus carboplatin and etoposide in patients with extensive-stage small cell lung cancer: an open-label, single-arm, phase 2 trial (DUBHE-L-209).",
+        "pmid": "42742872",
+        "title": "Induction FLOT Chemotherapy Prior to Neoadjuvant Chemoradiotherapy in the Treatment of Lower Esophageal and Proximal Gastric Adenocarcinoma: A Phase II, Single-Arm Clinical Trial.",
+        "pubdate": "2026 Sep 15",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42742872/"
+      },
+      {
+        "pmid": "42705254",
+        "title": "Chemotherapy with or without pembrolizumab followed by maintenance pembrolizumab with or without olaparib as first-line treatment of patients with advanced BRCA non-mutated epithelial ovarian cancer (ENGOT-OV43/GOG-3036/KEYLYNK-001): a randomised, double-blind, placebo-controlled, phase 3 trial.",
+        "pubdate": "2026 Sep 7",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42705254/"
+      },
+      {
+        "pmid": "42697793",
+        "title": "Corrigendum to \"A phase II clinical trial of paclitaxel-carboplatin as neoadjuvant therapy followed by surgery in patients with locally advanced head and neck squamous cell carcinoma\" [Oral Oncol. 170 (2025) 107745].",
+        "pubdate": "2026 Sep 4",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42697793/"
+      },
+      {
+        "pmid": "42691047",
+        "title": "Nintedanib in the prevention of radiation-induced lung injury in patients with unresectable stage II-III NSCLC: A protocol for a randomized, multicenter, control group study.",
         "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42643500/"
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42691047/"
       },
       {
-        "pmid": "42636833",
-        "title": "Ivonescimab plus chemotherapy versus placebo plus chemotherapy in patients with advanced EGFR-mutated non-small-cell lung cancer after disease progression on EGFR tyrosine kinase inhibitor therapy (HARMONi): a multicentre, randomised, double-blind, phase 3 trial.",
-        "pubdate": "2026 Sep",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42636833/"
-      },
-      {
-        "pmid": "42636548",
-        "title": "Daily low-dose carboplatin or weekly carboplatin plus nab-paclitaxel for concurrent chemoradiotherapy in older patients with locally advanced non-small cell lung cancer (JCOG1914): A randomized phase 3 trial.",
-        "pubdate": "2026 Aug 14",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42636548/"
-      },
-      {
-        "pmid": "42608991",
-        "title": "Anthracycline-Free Neoadjuvant Therapy With Nab-Paclitaxel and Carboplatin in Non-Luminal Breast Cancer: A Single-Arm Clinical Trial.",
-        "pubdate": "2026 Aug 17",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42608991/"
-      },
-      {
-        "pmid": "42578486",
-        "title": "First-line systemic treatment for people with extensive-stage small cell lung cancer: a network meta-analysis.",
-        "pubdate": "2026 Aug 11",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42578486/"
+        "pmid": "42690668",
+        "title": "Neoadjuvant Anbenitamab and HB1801 in ERBB2-Positive Breast Cancer: A Phase 3 Randomized Clinical Trial.",
+        "pubdate": "2026 Sep 3",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42690668/"
       }
     ]
   },

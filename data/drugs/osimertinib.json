@@ -1,9 +1,11 @@
 {
   "drug_name": "Osimertinib",
   "slug": "osimertinib",
-  "enriched_at": "2026-09-15T12:34:51Z",
+  "enriched_at": "2026-09-16T12:30:55Z",
   "source_trial_ids": [
-    "NCT05261399"
+    "NCT05261399",
+    "NCT06417814",
+    "NCT06735391"
   ],
   "sponsors": [
     {
@@ -11,6 +13,12 @@
       "ticker": "AZN",
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000901832&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Shanghai JMT-Bio Inc.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Shanghai%20JMT-Bio%20Inc.&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
@@ -59,6 +67,20 @@
       "title": "Savolitinib Plus Osimertinib Versus Platinum-based Doublet Chemotherapy in Participants With Non-Small Cell Lung Cancer Who Have Progressed on Osimertinib Treatment",
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT05261399",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06417814",
+      "title": "A Study to Investigate the Efficacy and Safety of Dato-DXd With or Without Osimertinib Compared With Platinum Based Doublet Chemotherapy in Participants With EGFR-Mutated Locally Advanced or Metastatic Non-Small Cell Lung Cancer",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06417814",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06735391",
+      "title": "A Clinical Study of JMT101 in Combination With Osimertinib Versus Osimertinib Alone as First-Line Treatment for Patients With Locally Advanced or Metastatic Non-Squamous Non-Small Cell Lung Cancer (NSCLC) Harboring Epidermal Growth Factor Receptor (EGFR) Sensitive Mutations",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06735391",
       "has_results": false
     }
   ],

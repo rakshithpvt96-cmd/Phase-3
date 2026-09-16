@@ -1,0 +1,140 @@
+{
+  "drug_name": "Oleclumab",
+  "slug": "oleclumab",
+  "enriched_at": "2026-09-16T12:30:48Z",
+  "source_trial_ids": [
+    "NCT05221840"
+  ],
+  "sponsors": [
+    {
+      "name": "AstraZeneca",
+      "ticker": "AZN",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000901832&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2209393",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL3990016",
+    "target_chembl_id": "CHEMBL5957",
+    "target_name": "5'-nucleotidase",
+    "mechanism_of_action_chembl": "5'-nucleotidase inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Oleclumab+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Oleclumab+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Oleclumab+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Non-Small Cell Lung Cancer",
+    "slug": "non-small-cell-lung-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05221840",
+      "title": "A Global Study to Assess the Effects of Durvalumab With Oleclumab or Durvalumab With Monalizumab Following Concurrent Chemoradiation in Patients With Stage III Unresectable Non-Small Cell Lung Cancer",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05221840",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "40663352",
+        "title": "Durvalumab Alone or Combined With Novel Agents for Unresectable Stage III Non-Small Cell Lung Cancer: Update From the COAST Randomized Clinical Trial.",
+        "pubdate": "2025 Jul 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40663352/"
+      },
+      {
+        "pmid": "39983715",
+        "title": "Continuous replenishment of the dysfunctional CD8 T cell axis is associated with response to chemoimmunotherapy in advanced breast cancer.",
+        "pubdate": "2025 Mar 18",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39983715/"
+      },
+      {
+        "pmid": "39106081",
+        "title": "A Phase Ib/II Randomized Clinical Trial of Oleclumab with or without Durvalumab plus Chemotherapy in Patients with Metastatic Pancreatic Ductal Adenocarcinoma.",
+        "pubdate": "2024 Oct 15",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39106081/"
+      },
+      {
+        "pmid": "39023287",
+        "title": "PACIFIC-9: Phase III trial of durvalumab + oleclumab or monalizumab in unresectable stage III non-small-cell lung cancer.",
+        "pubdate": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39023287/"
+      },
+      {
+        "pmid": "38430405",
+        "title": "A phase 2 study of AZD4635 in combination with durvalumab or oleclumab in patients with metastatic castration-resistant prostate cancer.",
+        "pubdate": "2024 Mar 2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38430405/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "Alectinib",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Hoffmann-La Roche"
+      },
+      {
+        "name": "Cisplatin",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Hoffmann-La Roche"
+      },
+      {
+        "name": "Carboplatin",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Hoffmann-La Roche"
+      },
+      {
+        "name": "Pemetrexed",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Hoffmann-La Roche"
+      },
+      {
+        "name": "BL-B01D1",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Sichuan Baili Pharmaceutical Co., Ltd."
+      },
+      {
+        "name": "Pemetrexed+Cisplatin or Carboplatin",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Sichuan Baili Pharmaceutical Co., Ltd."
+      },
+      {
+        "name": "JDQ443",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Novartis Pharmaceuticals"
+      },
+      {
+        "name": "docetaxel",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Novartis Pharmaceuticals"
+      }
+    ]
+  }
+}

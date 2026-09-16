@@ -1,17 +1,18 @@
 {
   "drug_name": "Placebo",
   "slug": "placebo",
-  "enriched_at": "2026-09-14T13:54:04Z",
+  "enriched_at": "2026-09-16T12:31:22Z",
   "source_trial_ids": [
     "NCT02914535",
     "NCT04023552",
     "NCT04036435",
     "NCT04336722",
     "NCT04652882",
-    "NCT04768972",
+    "NCT04895241",
     "NCT04961567",
     "NCT04965675",
     "NCT05018585",
+    "NCT05116462",
     "NCT05164341",
     "NCT05316220",
     "NCT05330182",
@@ -21,12 +22,10 @@
     "NCT05636176",
     "NCT05643534",
     "NCT05797610",
-    "NCT05929079",
     "NCT05983250",
     "NCT06081894",
     "NCT06104124",
     "NCT06339008",
-    "NCT06347016",
     "NCT06411288",
     "NCT06440967",
     "NCT06455059",
@@ -44,12 +43,15 @@
     "NCT06775379",
     "NCT06777238",
     "NCT06779136",
+    "NCT06783114",
     "NCT06827431",
     "NCT06846515",
     "NCT06910358",
+    "NCT06958692",
     "NCT06994507",
     "NCT07146126",
     "NCT07220109",
+    "NCT07265284",
     "NCT07279194",
     "NCT07298434",
     "NCT07300839",
@@ -95,12 +97,6 @@
       "ticker": "ARDX",
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001437402&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
-      "name": "Arrowhead Pharmaceuticals",
-      "ticker": "ARWR",
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000879407&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Arthrosi Therapeutics",
@@ -151,6 +147,12 @@
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000014272&type=10-K&dateb=&owner=include&count=40"
     },
     {
+      "name": "CSPC Ouyi Pharmaceutical Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=CSPC%20Ouyi%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
       "name": "CSPC ZhongQi Pharmaceutical Technology Co., Ltd.",
       "ticker": null,
       "market_cap_display": null,
@@ -167,6 +169,12 @@
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Chiesi%20Farmaceutici%20S.p.A.&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Chongqing Claruvis Pharmaceutical Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Chongqing%20Claruvis%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Cybin IRL Limited",
@@ -247,16 +255,16 @@
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Innovent%20Biologics%20%28Suzhou%29%20Co.%20Ltd.&type=10-K&dateb=&owner=include&count=40"
     },
     {
+      "name": "Innovent Biopharmaceutical Technology (Hangzhou) Co., LTD.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Innovent%20Biopharmaceutical%20Technology%20%28Hangzhou%29%20Co.%2C%20LTD.&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
       "name": "Invivyd, Inc.",
       "ticker": "IVVD",
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001832038&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
-      "name": "Ionis Pharmaceuticals, Inc.",
-      "ticker": "IONS",
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000874015&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Kringle Pharma, Inc.",
@@ -389,7 +397,7 @@
     "boxed_warning": null,
     "openfda_brand_names": [],
     "openfda_generic_names": [],
-    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b2482d51-d606-4aaa-8af4-19e4fe2f8872",
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5b2e4bf2-73e5-15b0-e063-6394a90a42fc",
     "note": "A label exists in DailyMed but structured sections could not be parsed automatically -- see dailymed_url for the full label.",
     "further_reading": {
       "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Placebo+mechanism+of+action",
@@ -398,8 +406,8 @@
     }
   },
   "condition": {
-    "raw": "Type 2 Diabetes",
-    "slug": "type-2-diabetes"
+    "raw": "Biliary Atresia",
+    "slug": "biliary-atresia"
   },
   "source_trials": [
     {
@@ -438,10 +446,10 @@
       "has_results": false
     },
     {
-      "nct_id": "NCT04768972",
-      "title": "FUSION: A Study to Evaluate the Efficacy, Safety, Pharmacokinetics and Pharmacodynamics of ION363 in Amyotrophic Lateral Sclerosis Participants With Fused in Sarcoma Mutations (FUS-ALS)",
+      "nct_id": "NCT04895241",
+      "title": "A Study to Learn About the Safety of Litifilimab (BIIB059) Injections and Whether They Can Improve Symptoms of Adult Participants Who Have Systemic Lupus Erythematosus",
       "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT04768972",
+      "url": "https://clinicaltrials.gov/study/NCT04895241",
       "has_results": false
     },
     {
@@ -463,6 +471,13 @@
       "title": "A Phase III Study to Investigate if the Study Drug Diamyd Can Preserve Insulin Production and Improve Glycemic Control in Patients Newly Diagnosed With Type 1 Diabetes",
       "status": "TERMINATED",
       "url": "https://clinicaltrials.gov/study/NCT05018585",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT05116462",
+      "title": "Neoadjuvant and Adjuvant Therapy Studies of Sindilizumab in Resectable Lung Cancer",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05116462",
       "has_results": false
     },
     {
@@ -529,13 +544,6 @@
       "has_results": false
     },
     {
-      "nct_id": "NCT05929079",
-      "title": "A Study of Retatrutide (LY3437943) in Participants With Type 2 Diabetes Mellitus Who Have Obesity or Overweight",
-      "status": "COMPLETED",
-      "url": "https://clinicaltrials.gov/study/NCT05929079",
-      "has_results": false
-    },
-    {
       "nct_id": "NCT05983250",
       "title": "LEVosimendan to Improve Exercise Limitation in Patients With PH-HFpEF",
       "status": "ACTIVE_NOT_RECRUITING",
@@ -561,13 +569,6 @@
       "title": "A Study of Lebrikizumab in Adult Participants With Perennial Allergic Rhinitis (PREPARED-1)",
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT06339008",
-      "has_results": false
-    },
-    {
-      "nct_id": "NCT06347016",
-      "title": "Study of Plozasiran in Adults With Severe Hypertriglyceridemia",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06347016",
       "has_results": false
     },
     {
@@ -690,6 +691,13 @@
       "has_results": false
     },
     {
+      "nct_id": "NCT06783114",
+      "title": "A Clinical Study on Recombinant Botulinum Toxin Type A (YY001) for Injection in The Treatment of Upper Limb Spasticity in Adults",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06783114",
+      "has_results": false
+    },
+    {
       "nct_id": "NCT06827431",
       "title": "The Research of Ammoxetine Hydrochloride Enteric-coated Tablets in Subjects With Depression",
       "status": "NOT_YET_RECRUITING",
@@ -711,6 +719,13 @@
       "has_results": false
     },
     {
+      "nct_id": "NCT06958692",
+      "title": "A Trial of Dextromethorphan and Bupropion Sustained-Release Tablets in Patients With Major Depressive Disorder",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06958692",
+      "has_results": false
+    },
+    {
       "nct_id": "NCT06994507",
       "title": "GM1 Prophylaxis for Nab-paclitaxel-associated Chemotherapy-induced Peripheral Neuropathy (CIPN) in Patients With Breast Cancer",
       "status": "RECRUITING",
@@ -729,6 +744,13 @@
       "title": "A Study on the Immune Response and Safety of Vaccine Against Respiratory Syncytial Virus Given to Chinese Adults 18 to 59 Years of Age at Increased Risk of Respiratory Syncytial Virus Disease",
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT07220109",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT07265284",
+      "title": "A Study to Evaluate Efficacy and Safety of IBI112 in Adolescent Participants With Moderate to Severe Plaque Psoriasis",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07265284",
       "has_results": false
     },
     {
@@ -792,56 +814,40 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42733850",
-        "title": "A Phase 2a/b, Randomized, Double-Blind, Placebo-Controlled, Parallel Group, Study to Evaluate the Efficacy and Safety of Linustedastat (OG-6219) in Women with Moderate to Severe Endometriosis-Related Pain.",
-        "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42733850/"
+        "pmid": "42745554",
+        "title": "Letter to the Editor on: \"Effect of Topical Application of Antimicrobial Peptide PL-5 (Peceleganan) Spray on Mild to Moderate Infection of Diabetic Foot Ulcers: A Multicenter, Randomized, Double- Blinded, Placebo-Controlled Clinical Trial\".",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42745554/"
       },
       {
-        "pmid": "42733221",
-        "title": "Efficacy and Safety of Celecoxib Combined With Jintiange Capsules for the Treatment of Knee Osteoarthritis: A Randomized, Double-Blind, Placebo-Controlled Clinical Trial.",
-        "pubdate": "2026 Sep 14",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42733221/"
+        "pmid": "42744029",
+        "title": "Effect of mesenchymal stem cells on peripheral immune cells in multiple sclerosis: results from an international phase 2 clinical trial.",
+        "pubdate": "2026 Sep 15",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42744029/"
       },
       {
-        "pmid": "42733081",
-        "title": "Safety and immunogenicity of inactivated human Rotavirus vaccine in young children and infants: a randomized, placebo-controlled, double-blind, phase I clinical trial.",
-        "pubdate": "2026 Aug 14",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42733081/"
+        "pmid": "42743832",
+        "title": "Pembrolizumab plus chemotherapy followed by pembrolizumab in participants in Asia with early triple-negative breast cancer: An updated subgroup analysis of the KEYNOTE-522 randomized clinical trial.",
+        "pubdate": "2026 Aug 18",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42743832/"
       },
       {
-        "pmid": "42733065",
-        "title": "The efficacy, immunogenicity and safety of the LZ901 vaccine for herpes zoster virus in adults 40 years of age or older: a multicentre, randomised, double-blind, placebo-controlled, phase 3 trial.",
-        "pubdate": "2026 Aug 7",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42733065/"
+        "pmid": "42743768",
+        "title": "How to conduct an effective clinical trial of cell based injection therapy for articular cartilage lesions of the knee.",
+        "pubdate": "2026 Sep 15",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42743768/"
       },
       {
-        "pmid": "42732874",
-        "title": "Adjuvant Osimertinib in Resected EGFR-Mutated Stage IB-IIIA Non-Small Cell Lung Cancer: Exploratory 8-year Overall Survival Landmark Update from the ADAURA Trial [161/175].",
-        "pubdate": "2026 Sep 13",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42732874/"
+        "pmid": "42742182",
+        "title": "Eplontersen with and without background transthyretin stabilizers in transthyretin amyloid cardiomyopathy: secondary analysis of a phase 3, randomized controlled trial.",
+        "pubdate": "2026 Aug 30",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42742182/"
       }
     ]
   },
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": [
-      {
-        "name": "Oral semaglutide",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Novo Nordisk A/S"
-      },
-      {
-        "name": "HRS9531 Injection",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Fujian Shengdi Pharmaceutical Co., Ltd."
-      },
-      {
-        "name": "Semaglutide Injection",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Fujian Shengdi Pharmaceutical Co., Ltd."
-      }
-    ]
+    "items": []
   }
 }

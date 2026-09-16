@@ -1,8 +1,9 @@
 {
   "drug_name": "Oxaliplatin",
   "slug": "oxaliplatin",
-  "enriched_at": "2026-09-15T12:46:15Z",
+  "enriched_at": "2026-09-16T12:31:02Z",
   "source_trial_ids": [
+    "NCT05152147",
     "NCT05568095"
   ],
   "sponsors": [
@@ -11,6 +12,12 @@
       "ticker": "RCUS",
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001724521&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Jazz Pharmaceuticals",
+      "ticker": "JAZZ",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001232524&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
@@ -54,6 +61,13 @@
     "slug": "advanced-upper-gastrointestinal-tract-adenocarcinoma"
   },
   "source_trials": [
+    {
+      "nct_id": "NCT05152147",
+      "title": "A Study of Zanidatamab in Combination With Chemotherapy Plus or Minus Tislelizumab in Patients With HER2-positive Advanced or Metastatic Gastric and Esophageal Cancers",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05152147",
+      "has_results": false
+    },
     {
       "nct_id": "NCT05568095",
       "title": "A Clinical Trial of a New Combination Treatment, Domvanalimab and Zimberelimab, Plus Chemotherapy, for People With an Upper Gastrointestinal Tract Cancer That Cannot be Removed With Surgery That Has Spread to Other Parts of the Body",

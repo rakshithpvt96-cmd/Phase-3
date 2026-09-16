@@ -1,0 +1,105 @@
+{
+  "drug_name": "Dato-DXd",
+  "slug": "dato-dxd",
+  "enriched_at": "2026-09-16T12:32:52Z",
+  "source_trial_ids": [
+    "NCT06417814"
+  ],
+  "sponsors": [
+    {
+      "name": "AstraZeneca",
+      "ticker": "AZN",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000901832&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2666569",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4297939",
+    "target_chembl_id": "CHEMBL3856163",
+    "target_name": "Tumor-associated calcium signal transducer 2",
+    "mechanism_of_action_chembl": "Tumor-associated calcium signal transducer 2 binding agent"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Dato-DXd+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Dato-DXd+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Dato-DXd+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Metastatic Non-small Cell Lung Cancer",
+    "slug": "metastatic-non-small-cell-lung-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06417814",
+      "title": "A Study to Investigate the Efficacy and Safety of Dato-DXd With or Without Osimertinib Compared With Platinum Based Doublet Chemotherapy in Participants With EGFR-Mutated Locally Advanced or Metastatic Non-Small Cell Lung Cancer",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06417814",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42482759",
+        "title": "Datopotamab deruxtecan in solid tumors: Recent research progress and clinical applications.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42482759/"
+      },
+      {
+        "pmid": "42386645",
+        "title": "[Pharmacological properties and clinical trial results of datopotamab deruxtecan (Dato-DXd, Datroway(®))].",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42386645/"
+      },
+      {
+        "pmid": "42294323",
+        "title": "Management of toxicities from antibody - drug conjugates in breast cancer.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42294323/"
+      },
+      {
+        "pmid": "42226007",
+        "title": "Mapping the antibody-drug-conjugates landscape in non-small cell lung cancer: Where are we and where are we going?",
+        "pubdate": "2026 Jun 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42226007/"
+      },
+      {
+        "pmid": "42142358",
+        "title": "TROPION-Urothelial03: a phase II/III study of datopotamab deruxtecan (Dato-DXd) for locally advanced or metastatic urothelial carcinoma.",
+        "pubdate": "2026 May",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42142358/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "SACITUZUMAB GOVITECAN",
+        "chembl_id": "CHEMBL3545262",
+        "reason": "same target: Tumor-associated calcium signal transducer 2"
+      }
+    ]
+  }
+}

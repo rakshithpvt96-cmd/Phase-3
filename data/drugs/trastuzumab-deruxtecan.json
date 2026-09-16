@@ -1,18 +1,11 @@
 {
-  "drug_name": "Trastuzumab Deruxtecan",
+  "drug_name": "Trastuzumab deruxtecan",
   "slug": "trastuzumab-deruxtecan",
-  "enriched_at": "2026-08-17T07:57:44Z",
+  "enriched_at": "2026-09-16T12:32:18Z",
   "source_trial_ids": [
-    "NCT04704934",
-    "NCT05048797"
+    "NCT04704934"
   ],
   "sponsors": [
-    {
-      "name": "AstraZeneca",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=AstraZeneca&type=10-K&dateb=&owner=include&count=40"
-    },
     {
       "name": "Daiichi Sankyo",
       "ticker": null,
@@ -51,8 +44,8 @@
     "further_reading": null
   },
   "condition": {
-    "raw": "Locally Advanced or Metastatic Non-Small Cell Lung Cancer",
-    "slug": "locally-advanced-or-metastatic-non-small-cell-lung-cancer"
+    "raw": "Gastric Cancer, Adenocarcinoma",
+    "slug": "gastric-cancer-adenocarcinoma"
   },
   "source_trials": [
     {
@@ -61,18 +54,23 @@
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT04704934",
       "has_results": false
-    },
-    {
-      "nct_id": "NCT05048797",
-      "title": "A Study to Investigate the Efficacy and Safety of Trastuzumab Deruxtecan as the First Treatment Option for Unresectable, Locally Advanced/Metastatic Non-Small Cell Lung Cancer With HER2 Mutations",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT05048797",
-      "has_results": false
     }
   ],
   "prior_results": {
     "ctgov_results_urls": [],
     "pubmed_articles": [
+      {
+        "pmid": "42744133",
+        "title": "Biomarker-Guided Treatment Selection in Metastatic Colorectal Cancer: A Critical Review of Established and Emerging Therapies.",
+        "pubdate": "2026 Sep 15",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42744133/"
+      },
+      {
+        "pmid": "42682104",
+        "title": "DESTINY-Lung06: trastuzumab deruxtecan and pembrolizumab as first-line treatment for HER2-overexpressing, PD-L1 TPS <50% NSCLC.",
+        "pubdate": "2026 Sep 2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42682104/"
+      },
       {
         "pmid": "42575050",
         "title": "Trastuzumab deruxtecan rechallenge in HER2-positive metastatic breast cancer: EN-SEMBLE.",
@@ -81,8 +79,8 @@
       },
       {
         "pmid": "42550611",
-        "title": "Molecular evaluation of residual disease following neoadjuvant chemotherapy in triple negative breast cancer CALGB40603 (Alliance).",
-        "pubdate": "2026 Aug 4",
+        "title": "Molecular evaluation of residual disease following neoadjuvant chemotherapy in triple-negative breast cancer CALGB 40603 (Alliance).",
+        "pubdate": "2026 Sep 15",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42550611/"
       },
       {
@@ -90,18 +88,6 @@
         "title": "AKAP13 regulates GLI1/ULK1 axis and drive tumor resistance to next-generation HER2-targeted therapies.",
         "pubdate": "2026 Aug 6",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42562949/"
-      },
-      {
-        "pmid": "42484946",
-        "title": "Efficacy and safety of antibody-drug conjugates in HER2-positive and HER2-low advanced gastric cancer: a systematic review and update.",
-        "pubdate": "2026 Jul 22",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42484946/"
-      },
-      {
-        "pmid": "42431148",
-        "title": "Tucatinib in Combination With Trastuzumab Deruxtecan in Patients With Previously Treated HER2+ Unresectable Locally Advanced or Metastatic Breast Cancer: An Open-Label Phase 2 Study.",
-        "pubdate": "2026 Aug",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42431148/"
       }
     ]
   },

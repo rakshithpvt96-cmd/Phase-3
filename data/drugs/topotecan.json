@@ -1,16 +1,16 @@
 {
   "drug_name": "Topotecan",
   "slug": "topotecan",
-  "enriched_at": "2026-08-16T08:28:48Z",
+  "enriched_at": "2026-09-16T12:34:24Z",
   "source_trial_ids": [
-    "NCT06394492"
+    "NCT06498479"
   ],
   "sponsors": [
     {
-      "name": "Suzhou Suncadia Biopharmaceuticals Co., Ltd.",
+      "name": "Hansoh BioMedical R&D Company",
       "ticker": null,
       "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Suzhou%20Suncadia%20Biopharmaceuticals%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hansoh%20BioMedical%20R%26D%20Company&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
@@ -50,15 +50,15 @@
     "further_reading": null
   },
   "condition": {
-    "raw": "Ovarian Cancer",
-    "slug": "ovarian-cancer"
+    "raw": "Small Cell Lung Cancer",
+    "slug": "small-cell-lung-cancer"
   },
   "source_trials": [
     {
-      "nct_id": "NCT06394492",
-      "title": "SHR-A1921 for Injection in Patients With Platinum-Resistant Recurrent Epithelial Ovarian Cancer",
+      "nct_id": "NCT06498479",
+      "title": "ARTEMIS-008：HS-20093 Compared With Topotecan in Subjects With Relapsed Small Cell Lung Cancer",
       "status": "RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06394492",
+      "url": "https://clinicaltrials.gov/study/NCT06498479",
       "has_results": false
     }
   ],
@@ -66,9 +66,15 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42734213",
+        "title": "Tambotatug Pelitecan in Small-Cell Lung Cancer after Platinum-Based Therapy.",
+        "pubdate": "2026 Sep 12",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42734213/"
+      },
+      {
         "pmid": "42377743",
         "title": "Matching-Adjusted Indirect Comparison of Tarlatamab for Patients with Platinum-Refractory or Platinum-Resistant Extensive-Stage Small-Cell Lung Cancer.",
-        "pubdate": "2026 Jun 30",
+        "pubdate": "2026 Sep",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42377743/"
       },
       {
@@ -88,24 +94,12 @@
         "title": "Combination of metronomic oral pazopanib and topotecan for recurrent glioblastoma with and without previous bevacizumab: Results from a phase 2 clinical trial.",
         "pubdate": "2026 Jan-Dec",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42028236/"
-      },
-      {
-        "pmid": "41540835",
-        "title": "Mirvetuximab Soravtansine: Mechanism of Action, Clinical and Translational Science.",
-        "pubdate": "2026 Jan",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41540835/"
       }
     ]
   },
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": [
-      {
-        "name": "Olaparib",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: AstraZeneca"
-      }
-    ]
+    "items": []
   }
 }

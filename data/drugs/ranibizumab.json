@@ -1,16 +1,16 @@
 {
   "drug_name": "Ranibizumab",
   "slug": "ranibizumab",
-  "enriched_at": "2026-08-16T08:03:00Z",
+  "enriched_at": "2026-09-16T12:31:35Z",
   "source_trial_ids": [
-    "NCT06176352"
+    "NCT06571045"
   ],
   "sponsors": [
     {
-      "name": "Hoffmann-La Roche",
+      "name": "EyeBiotech Ltd.",
       "ticker": null,
       "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hoffmann-La%20Roche&type=10-K&dateb=&owner=include&count=40"
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=EyeBiotech%20Ltd.&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
@@ -44,15 +44,15 @@
     "further_reading": null
   },
   "condition": {
-    "raw": "Choroidal Neovascularization Secondary to Pathologic Myopia",
-    "slug": "choroidal-neovascularization-secondary-to-pathologic-myopia"
+    "raw": "Diabetic Macular Edema (DME)",
+    "slug": "diabetic-macular-edema-dme"
   },
   "source_trials": [
     {
-      "nct_id": "NCT06176352",
-      "title": "A Study to Evaluate the Efficacy and Safety of Faricimab in Patients With Choroidal Neovascularization Secondary to Pathologic Myopia",
-      "status": "COMPLETED",
-      "url": "https://clinicaltrials.gov/study/NCT06176352",
+      "nct_id": "NCT06571045",
+      "title": "A Study to Evaluate the Efficacy and Safety of 2 Doses of EYE103 Compared With Ranibizumab (0.5 mg) in Participants With DME",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06571045",
       "has_results": false
     }
   ],
@@ -60,34 +60,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42717542",
+        "title": "Renal Safety of Intravitreal Ranibizumab and the Effects of SGLT2 Inhibition in Diabetic Macular Oedema: A Post Hoc Analysis of the COMET Trial.",
+        "pubdate": "2026 Sep 9",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42717542/"
+      },
+      {
+        "pmid": "42674112",
+        "title": "SSGJ-601 versus Ranibizumab for Macular Edema Secondary to Branch Retinal Vein Occlusion: 52-Week Results from a Phase 3 Study.",
+        "pubdate": "2026 Aug 31",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42674112/"
+      },
+      {
+        "pmid": "42669344",
+        "title": "Biomaterials in Retinal Surgery: Engineering the Future.",
+        "pubdate": "2026 Aug 30",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42669344/"
+      },
+      {
+        "pmid": "42611864",
+        "title": "Association Between Anti-vascular Endothelial Growth Factor Therapy Exposure and Visual Outcomes in Diabetic Macular Edema and Retinal Vein Occlusion.",
+        "pubdate": "2026 Aug 7",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42611864/"
+      },
+      {
         "pmid": "42533334",
         "title": "Direct randomized evidence comparing ranibizumab and bevacizumab for macular edema secondary to retinal vein occlusion: a systematic review and meta-analysis.",
         "pubdate": "2026 Jul 30",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42533334/"
-      },
-      {
-        "pmid": "42366374",
-        "title": "Comparative efficacy and safety of Ranibizumab and Aflibercept for neovascular age-related macular degeneration: a systematic review and meta-analysis.",
-        "pubdate": "2026 Jun 29",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42366374/"
-      },
-      {
-        "pmid": "42317779",
-        "title": "Intraoperative Anti-VEGF vs. Photocoagulation during Vitrectomy for Branch Retinal Vein Occlusion with Vitreous Hemorrhage: A Randomized Clinical Trial.",
-        "pubdate": "2026 Jul",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42317779/"
-      },
-      {
-        "pmid": "42054089",
-        "title": "Biosimilar anti-vascular endothelial growth factor agents: Clinical outcomes, safety, and cost-effectiveness in India.",
-        "pubdate": "2026 May 1",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42054089/"
-      },
-      {
-        "pmid": "41927600",
-        "title": "Association between screening duration and treatment outcomes in the clinical trials of ranibizumab and aflibercept for neovascular age-related macular degeneration.",
-        "pubdate": "2026 Apr 2",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41927600/"
       }
     ]
   },

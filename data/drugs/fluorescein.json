@@ -1,0 +1,105 @@
+{
+  "drug_name": "Fluorescein",
+  "slug": "fluorescein",
+  "enriched_at": "2026-09-16T12:33:15Z",
+  "source_trial_ids": [
+    "NCT07356349"
+  ],
+  "sponsors": [
+    {
+      "name": "UpTru Inc.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=UpTru%20Inc.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 16850,
+    "iupac_name": "3',6'-dihydroxyspiro[2-benzofuran-3,9'-xanthene]-1-one",
+    "molecular_formula": "C20H12O5",
+    "molecular_weight": "332.3",
+    "canonical_smiles": null,
+    "inchikey": "GNBHRKFJIUUOQI-UHFFFAOYSA-N",
+    "rxnorm": {
+      "rxcui": "25138",
+      "generic_name": "fluorescein",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL177756",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": "INDICATIONS For testing tear film stability by determining the fluorescein break-up time (FBUT).",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "Dry Eye Test"
+    ],
+    "openfda_generic_names": [
+      "FLUORESCEIN SODIUM"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ebb3883c-71f6-4fd0-a7e6-0ba8e1136dd9",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Substance Use Disorder (SUD)",
+    "slug": "substance-use-disorder-sud"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07356349",
+      "title": "Study to Confirm the AuthenTicity of Point of Care Urine samplEs Using Oral fluoreScein Sodium in adulTs With substancE Use Disorder (ATTESTED)",
+      "status": "NOT_YET_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07356349",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42717326",
+        "title": "Retinal optical coherence tomography angiography findings in the new- onset migraine patients: a prospective case-control study.",
+        "pubdate": "2026 Sep 9",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42717326/"
+      },
+      {
+        "pmid": "42704385",
+        "title": "Efficacy of fluorescein angiography guided 532 nm continuous-wave green laser used as a non-damaging subthreshold laser in the treatment of central serous chorioretinopathy.",
+        "pubdate": "2026 Sep 7",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42704385/"
+      },
+      {
+        "pmid": "42665364",
+        "title": "Novel insights of minocycline as a neurovascular protective agent in retinitis pigmentosa.",
+        "pubdate": "2026 Aug 28",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42665364/"
+      },
+      {
+        "pmid": "42649357",
+        "title": "Contrast-enhancement-defined resection outcomes with sodium fluorescein and 5-aminolevulinic acid in glioblastoma surgery: a multicenter retrospective cohort of 1389 patients.",
+        "pubdate": "2026 Aug 26",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42649357/"
+      },
+      {
+        "pmid": "42629626",
+        "title": "Compounded 0.03% Tacrolimus in Cross-Linked Hyaluronate Improves Ocular Surface Health in Dogs With Evaporative Dry Eye Disease.",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42629626/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

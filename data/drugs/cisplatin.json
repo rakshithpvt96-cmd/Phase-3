@@ -1,14 +1,15 @@
 {
   "drug_name": "Cisplatin",
   "slug": "cisplatin",
-  "enriched_at": "2026-09-01T12:26:13Z",
+  "enriched_at": "2026-09-16T12:29:26Z",
   "source_trial_ids": [
     "NCT04634877",
-    "NCT05048797",
+    "NCT05116462",
+    "NCT05152147",
     "NCT05261399",
-    "NCT05298423",
     "NCT06123884",
     "NCT06151574",
+    "NCT06417814",
     "NCT06624059",
     "NCT06687369",
     "NCT06927986"
@@ -43,6 +44,18 @@
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hoffmann-La%20Roche&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Innovent Biologics (Suzhou) Co. Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Innovent%20Biologics%20%28Suzhou%29%20Co.%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Jazz Pharmaceuticals",
+      "ticker": "JAZZ",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001232524&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Merck Sharp & Dohme LLC",
@@ -94,8 +107,8 @@
     "further_reading": null
   },
   "condition": {
-    "raw": "Locally Advanced or Metastatic Non-Small Cell Lung Cancer",
-    "slug": "locally-advanced-or-metastatic-non-small-cell-lung-cancer"
+    "raw": "Carcinoma",
+    "slug": "carcinoma"
   },
   "source_trials": [
     {
@@ -106,10 +119,17 @@
       "has_results": false
     },
     {
-      "nct_id": "NCT05048797",
-      "title": "A Study to Investigate the Efficacy and Safety of Trastuzumab Deruxtecan as the First Treatment Option for Unresectable, Locally Advanced/Metastatic Non-Small Cell Lung Cancer With HER2 Mutations",
+      "nct_id": "NCT05116462",
+      "title": "Neoadjuvant and Adjuvant Therapy Studies of Sindilizumab in Resectable Lung Cancer",
       "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT05048797",
+      "url": "https://clinicaltrials.gov/study/NCT05116462",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT05152147",
+      "title": "A Study of Zanidatamab in Combination With Chemotherapy Plus or Minus Tislelizumab in Patients With HER2-positive Advanced or Metastatic Gastric and Esophageal Cancers",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05152147",
       "has_results": false
     },
     {
@@ -117,13 +137,6 @@
       "title": "Savolitinib Plus Osimertinib Versus Platinum-based Doublet Chemotherapy in Participants With Non-Small Cell Lung Cancer Who Have Progressed on Osimertinib Treatment",
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT05261399",
-      "has_results": false
-    },
-    {
-      "nct_id": "NCT05298423",
-      "title": "Study of Pembrolizumab/Vibostolimab (MK-7684A) in Combination With Concurrent Chemoradiotherapy Followed by Pembrolizumab/Vibostolimab Versus Concurrent Chemoradiotherapy Followed by Durvalumab in Participants With Stage III Non-small Cell Lung Cancer (MK-7684A-006)",
-      "status": "COMPLETED",
-      "url": "https://clinicaltrials.gov/study/NCT05298423",
       "has_results": false
     },
     {
@@ -141,6 +154,13 @@
       "has_results": false
     },
     {
+      "nct_id": "NCT06417814",
+      "title": "A Study to Investigate the Efficacy and Safety of Dato-DXd With or Without Osimertinib Compared With Platinum Based Doublet Chemotherapy in Participants With EGFR-Mutated Locally Advanced or Metastatic Non-Small Cell Lung Cancer",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06417814",
+      "has_results": false
+    },
+    {
       "nct_id": "NCT06624059",
       "title": "A Study to See How Well and How Safely Different Treatments Work in a Group of Participants With Non-Small Cell Lung Cancer (NSCLC)",
       "status": "COMPLETED",
@@ -150,7 +170,7 @@
     {
       "nct_id": "NCT06687369",
       "title": "A Study to Compare Pharmacokinetics, Efficacy, Safety, and Immunogenicity of MB12 (Proposed Pembrolizumab Biosimilar) to Keytruda® in Non-small Cell Lung Cancer (BENITO Study)",
-      "status": "RECRUITING",
+      "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT06687369",
       "has_results": false
     },
@@ -166,34 +186,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42665190",
-        "title": "Atezolizumab-Bevacizumab with or without Cisplatin-based HAIC for Unresectable HCC: A Randomized Phase 2 Trial.",
-        "pubdate": "2026 Aug 28",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42665190/"
+        "pmid": "42733563",
+        "title": "Short-term versus long-course neoadjuvant chemotherapy for resectable and borderline resectable pancreatic ductal adenocarcinoma (PACT-21 CASSANDRA): results from the second randomisation analysis of a randomised, open-label, 2 × 2 factorial phase 3 trial.",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42733563/"
       },
       {
-        "pmid": "42650033",
-        "title": "Tailoring HIPEC with Patient-Derived Organoids in Colorectal Peritoneal Metastases: Results from the First Stage of the Prospective Phase II OrganoHIPEC Clinical Trial (Clinicaltrials.gov NCT06057298).",
-        "pubdate": "2026 Aug 21",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42650033/"
+        "pmid": "42727307",
+        "title": "Real-World Treatment Duration With First-line Enfortumab Vedotin Plus Pembrolizumab for Advanced Urothelial Cancer: A National Electronic Health Record Study.",
+        "pubdate": "2026 Aug 17",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42727307/"
       },
       {
-        "pmid": "42636656",
-        "title": "B cells in nasopharyngeal carcinoma: From prognostic signal to therapeutic hypothesis-A critical appraisal of the RATIONALE-309 biomarker analysis.",
-        "pubdate": "2026 Aug 24",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42636656/"
+        "pmid": "42725507",
+        "title": "Exploring New Frontiers in Osteosarcoma Treatment: Clinical Trial Insights.",
+        "pubdate": "2026 Sep 3",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42725507/"
       },
       {
-        "pmid": "42636269",
-        "title": "Concurrent chemotherapy and external radiation therapy (ConCERT): phase 3 noninferiority randomized clinical trial of cisplatin weekly vs every 3 weeks in locally advanced squamous cell carcinoma of the head and neck.",
-        "pubdate": "2026 Aug 24",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42636269/"
+        "pmid": "42701199",
+        "title": "Cisplatin enhances radiation-induced apoptosis in peripheral lymphocytes of cancer patients: in vivo and in vitro findings.",
+        "pubdate": "2026 Sep 5",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42701199/"
       },
       {
-        "pmid": "42630020",
-        "title": "The Local Effects of Systemic Therapies in Urological Oncology: A Systematic Review.",
-        "pubdate": "2026 Aug",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42630020/"
+        "pmid": "42701122",
+        "title": "Neoadjuvant triplet chemotherapy enables radiotherapy avoidance in human papillomavirus-associated oropharyngeal cancer: a multicentre Phase II trial.",
+        "pubdate": "2026 Sep 5",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42701122/"
       }
     ]
   },

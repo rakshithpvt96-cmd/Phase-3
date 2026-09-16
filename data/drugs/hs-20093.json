@@ -1,8 +1,9 @@
 {
   "drug_name": "HS-20093",
   "slug": "hs-20093",
-  "enriched_at": "2026-09-15T12:34:09Z",
+  "enriched_at": "2026-09-16T12:29:59Z",
   "source_trial_ids": [
+    "NCT06498479",
     "NCT06935409"
   ],
   "sponsors": [
@@ -48,6 +49,13 @@
     "slug": "osteosarcoma"
   },
   "source_trials": [
+    {
+      "nct_id": "NCT06498479",
+      "title": "ARTEMIS-008：HS-20093 Compared With Topotecan in Subjects With Relapsed Small Cell Lung Cancer",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06498479",
+      "has_results": false
+    },
     {
       "nct_id": "NCT06935409",
       "title": "Study of HS-20093 Versus Gemcitabine in Combination With Docetaxel in Treatment of Osteosarcoma After Previous Second-line Treatment Failure",
