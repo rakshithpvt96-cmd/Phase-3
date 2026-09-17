@@ -1,0 +1,99 @@
+{
+  "drug_name": "Fulvestrant Injection",
+  "slug": "fulvestrant-injection",
+  "enriched_at": "2026-09-17T12:36:22Z",
+  "source_trial_ids": [
+    "NCT06929325"
+  ],
+  "sponsors": [
+    {
+      "name": "CSPC ZhongQi Pharmaceutical Technology Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=CSPC%20ZhongQi%20Pharmaceutical%20Technology%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1156671",
+      "generic_name": "fulvestrant Injectable Product",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2108760",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Fulvestrant%20Injection+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Fulvestrant%20Injection+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Fulvestrant%20Injection+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "HR+/HER2- Advanced/Metastatic Breast Cancer",
+    "slug": "hr-her2-advanced-metastatic-breast-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06929325",
+      "title": "Sirolimus for Injection (Albumin-bound) Combined With Fulvestrant for HR+/HER2- Advanced/Metastatic Breast Cancer Patients Previously Treated With CDK4/6 Inhibitors",
+      "status": "NOT_YET_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06929325",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "40700858",
+        "title": "The application of mechanistic absorption, distribution, metabolism and excretion studies and physiologically-based pharmacokinetic modeling in the discovery of the next-generation oral selective estrogen receptor degrader camizestrant to achieve an acceptable human pharmacokinetic profile.",
+        "pubdate": "2025 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40700858/"
+      },
+      {
+        "pmid": "40454645",
+        "title": "Vepdegestrant, a PROTAC Estrogen Receptor Degrader, in Advanced Breast Cancer.",
+        "pubdate": "2025 Aug 7",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40454645/"
+      },
+      {
+        "pmid": "39214106",
+        "title": "Capivasertib and fulvestrant for patients with hormone receptor-positive, HER2-negative advanced breast cancer (CAPItello-291): patient-reported outcomes from a phase 3, randomised, double-blind, placebo-controlled trial.",
+        "pubdate": "2024 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39214106/"
+      },
+      {
+        "pmid": "36229710",
+        "title": "The race to develop oral SERDs and other novel estrogen receptor inhibitors: recent clinical trial results and impact on treatment options.",
+        "pubdate": "2022 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36229710/"
+      },
+      {
+        "pmid": "34037282",
+        "title": "Prognostic Factors for Overall Survival in Patients with Hormone Receptor-Positive Advanced Breast Cancer: Analyses From PALOMA-3.",
+        "pubdate": "2021 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34037282/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

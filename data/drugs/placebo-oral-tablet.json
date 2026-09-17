@@ -1,0 +1,99 @@
+{
+  "drug_name": "Placebo oral tablet",
+  "slug": "placebo-oral-tablet",
+  "enriched_at": "2026-09-17T12:33:42Z",
+  "source_trial_ids": [
+    "NCT05888922"
+  ],
+  "sponsors": [
+    {
+      "name": "Industrial Farmacéutica Cantabria, S.A.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Industrial%20Farmac%C3%A9utica%20Cantabria%2C%20S.A.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "375221",
+      "generic_name": "placebo Oral Tablet",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2108778",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": "Biological vaccine - induces immune response"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Placebo%20oral%20tablet+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Placebo%20oral%20tablet+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Placebo%20oral%20tablet+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Androgenetic Alopecia",
+    "slug": "androgenetic-alopecia"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05888922",
+      "title": "Evaluation of Efficacy and Safety of Oral Minoxidil 1 mg in Female Androgenetic Alopecia",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05888922",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42733850",
+        "title": "A Phase 2a/b, Randomized, Double-Blind, Placebo-Controlled, Parallel Group, Study to Evaluate the Efficacy and Safety of Linustedastat (OG-6219) in Women with Moderate to Severe Endometriosis-Related Pain.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42733850/"
+      },
+      {
+        "pmid": "42684025",
+        "title": "Safety, tolerability and pharmacokinetics of an NMDA receptor subunit 2B-selective negative allosteric modulator, BI 1569912: Results of three partially randomised, placebo-controlled phase I trials.",
+        "pubdate": "2026 Sep 2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42684025/"
+      },
+      {
+        "pmid": "42636845",
+        "title": "Safety, tolerability, and efficacy of alixorexton, a selective orexin 2 receptor agonist for narcolepsy type 1 (Vibrance-1): a randomised, double-blind, placebo-controlled, phase 2 trial.",
+        "pubdate": "2026 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42636845/"
+      },
+      {
+        "pmid": "42630793",
+        "title": "Efficacy and safety of desogestrel/ethinylestradiol 150/20 flexible extended regimen (FREEDOM 150/20) in dysmenorrhea: phase 3 study in Japan.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42630793/"
+      },
+      {
+        "pmid": "42621146",
+        "title": "Efficacy and safety of sublingual cilostazol and dexborneol for the treatment of acute ischaemic stroke: a randomised phase 2 trial in China.",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42621146/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

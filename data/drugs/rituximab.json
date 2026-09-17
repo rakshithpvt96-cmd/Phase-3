@@ -1,23 +1,23 @@
 {
   "drug_name": "Rituximab",
   "slug": "rituximab",
-  "enriched_at": "2026-08-19T07:44:33Z",
+  "enriched_at": "2026-09-17T12:34:02Z",
   "source_trial_ids": [
-    "NCT04712097",
-    "NCT04824092"
+    "NCT04824092",
+    "NCT04965493"
   ],
   "sponsors": [
     {
-      "name": "Hoffmann-La Roche",
-      "ticker": null,
+      "name": "Incyte Corporation",
+      "ticker": "INCY",
       "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hoffmann-La%20Roche&type=10-K&dateb=&owner=include&count=40"
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000879169&type=10-K&dateb=&owner=include&count=40"
     },
     {
-      "name": "Incyte Corporation",
+      "name": "Loxo Oncology, Inc.",
       "ticker": null,
       "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Incyte%20Corporation&type=10-K&dateb=&owner=include&count=40"
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Loxo%20Oncology%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
@@ -46,27 +46,27 @@
     "openfda_generic_names": [
       "RITUXIMAB AND HYALURONIDASE"
     ],
-    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=da1c4de7-0e5b-4f72-97ec-7a8d368f085f",
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f941fc61-f7a3-4e4a-ab7c-87c1667fa05b",
     "note": null,
     "further_reading": null
   },
   "condition": {
-    "raw": "Relapsed or Refractory Follicular Lymphoma",
-    "slug": "relapsed-or-refractory-follicular-lymphoma"
+    "raw": "Diffuse Large B-cell Lymphoma",
+    "slug": "diffuse-large-b-cell-lymphoma"
   },
   "source_trials": [
-    {
-      "nct_id": "NCT04712097",
-      "title": "A Study Evaluating the Efficacy and Safety of Mosunetuzumab in Combination With Lenalidomide in Comparison to Rituximab in Combination With Lenalidomide With a US Extension of Mosunetuzumab in Combination With Lenalidomide in Participants With Follicular Lymphoma",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT04712097",
-      "has_results": false
-    },
     {
       "nct_id": "NCT04824092",
       "title": "Tafasitamab + Lenalidomide + R-CHOP Versus R-CHOP in Newly Diagnosed High-intermediate and High Risk DLBCL Patients",
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT04824092",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT04965493",
+      "title": "A Trial of Pirtobrutinib (LOXO-305) Plus Venetoclax and Rituximab (PVR) Versus Venetoclax and Rituximab (VR) in Previously Treated Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma (CLL/SLL)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04965493",
       "has_results": false
     }
   ],
@@ -74,34 +74,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42598252",
-        "title": "A Real-World Study Characterizing a US Population of Patients Receiving Rituximab With Gemcitabine and Oxaliplatin for Relapsed or Refractory Large B-Cell Lymphoma.",
-        "pubdate": "2026 Aug",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42598252/"
+        "pmid": "42731845",
+        "title": "Efficacy and safety of mycophenolate mofetil in preventing relapse of IgG4-related disease with re-elevation of serum IgG4 level during maintenance therapy: a protocol for a multicentre, randomised, double-blind, placebo-controlled study in China.",
+        "pubdate": "2026 Sep 11",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42731845/"
       },
       {
-        "pmid": "42581349",
-        "title": "Trials in progress: CARMAN - study protocol of a randomized controlled, international, multicenter, open-label phase II trial evaluating early treatment intensification in patients with high-risk mantle cell lymphoma using CAR-T-cell treatment after an abbreviated induction therapy with rituximab and ibrutinib and 6 months ibrutinib maintenance as compared to standard of care induction and maintenance.",
-        "pubdate": "2026 Aug 11",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42581349/"
+        "pmid": "42731397",
+        "title": "Shiheleucel, an allogeneic natural killer cell product expanded under chemically defined conditions, in combination with rituximab-based chemotherapy in relapsed/refractory diffuse large B-cell lymphoma: An exploratory clinical study.",
+        "pubdate": "2026 Aug 18",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42731397/"
       },
       {
-        "pmid": "42566728",
-        "title": "Contemporary Management of Relapsed or Refractory Chronic Lymphocytic Leukemia.",
-        "pubdate": "2026 Aug 7",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42566728/"
+        "pmid": "42722392",
+        "title": "Treatment of Mantle Cell Lymphoma in Asia: Updated Consensus from the Asian Lymphoma Study Group.",
+        "pubdate": "2026 Sep 9",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42722392/"
       },
       {
-        "pmid": "42543655",
-        "title": "[Future directions in clinical development of first-line therapy for diffuse large B-cell lymphoma].",
-        "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42543655/"
+        "pmid": "42712710",
+        "title": "Acalabrutinib Added To Rituximab, Bendamustine (ABR) in Newly Diagnosed High Risk Mantle Cell Lymphoma: an Early Indian Experience.",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42712710/"
       },
       {
-        "pmid": "42534709",
-        "title": "Resolution of Paraneoplastic Cutaneous Angioendotheliomatosis After CAR T-Cell Therapy in TP53-Deleted CLL: A Case Report.",
-        "pubdate": "2026 Aug",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42534709/"
+        "pmid": "42660129",
+        "title": "Epcoritamab with rituximab and lenalidomide as first-line treatment for follicular lymphoma (EPCORE NHL-2): an open-label, multicentre, phase 1/2 b trial.",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42660129/"
       }
     ]
   },

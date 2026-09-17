@@ -1,0 +1,81 @@
+{
+  "drug_name": "Minoxidil Tablets",
+  "slug": "minoxidil-tablets",
+  "enriched_at": "2026-09-17T12:31:30Z",
+  "source_trial_ids": [
+    "NCT05888922"
+  ],
+  "sponsors": [
+    {
+      "name": "Industrial Farmacéutica Cantabria, S.A.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Industrial%20Farmac%C3%A9utica%20Cantabria%2C%20S.A.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "372938",
+      "generic_name": "minoxidil Oral Tablet",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL802",
+    "target_chembl_id": "CHEMBL2095198",
+    "target_name": "Sulfonylurea receptor 2, Kir6.2",
+    "mechanism_of_action_chembl": "Sulfonylurea receptor 2, Kir6.2 opener"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Minoxidil%20Tablets+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Minoxidil%20Tablets+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Minoxidil%20Tablets+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Androgenetic Alopecia",
+    "slug": "androgenetic-alopecia"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05888922",
+      "title": "Evaluation of Efficacy and Safety of Oral Minoxidil 1 mg in Female Androgenetic Alopecia",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05888922",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "34529341",
+        "title": "A randomized clinical trial on therapeutic effects of 0.25 mg oral minoxidil tablets on treatment of female pattern hair loss.",
+        "pubdate": "2021 Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34529341/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "PINACIDIL",
+        "chembl_id": "CHEMBL1200338",
+        "reason": "same target: Sulfonylurea receptor 2, Kir6.2"
+      }
+    ]
+  }
+}

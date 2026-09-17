@@ -1,0 +1,64 @@
+{
+  "drug_name": "Debio 4326",
+  "slug": "debio-4326",
+  "enriched_at": "2026-09-17T12:29:56Z",
+  "source_trial_ids": [
+    "NCT06129539"
+  ],
+  "sponsors": [
+    {
+      "name": "Debiopharm International SA",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Debiopharm%20International%20SA&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": null
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL605333",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Debio%204326+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Debio%204326+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Debio%204326+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Central Precocious Puberty",
+    "slug": "central-precocious-puberty"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06129539",
+      "title": "A Study to Assess the Efficacy, Safety, and Pharmacokinetics of Debio 4326 in Pediatric Participants With Central Precocious Puberty (LIBELULA™ Clinical Trial)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06129539",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

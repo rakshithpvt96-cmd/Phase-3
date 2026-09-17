@@ -1,0 +1,105 @@
+{
+  "drug_name": "Pirtobrutinib",
+  "slug": "pirtobrutinib",
+  "enriched_at": "2026-09-17T12:33:15Z",
+  "source_trial_ids": [
+    "NCT04965493"
+  ],
+  "sponsors": [
+    {
+      "name": "Loxo Oncology, Inc.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Loxo%20Oncology%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 129269915,
+    "iupac_name": "5-amino-3-[4-[[(5-fluoro-2-methoxybenzoyl)amino]methyl]phenyl]-1-[(2S)-1,1,1-trifluoropropan-2-yl]pyrazole-4-carboxamide",
+    "molecular_formula": "C22H21F4N5O3",
+    "molecular_weight": "479.4",
+    "canonical_smiles": null,
+    "inchikey": "FWZAWAUZXYCBKZ-NSHDSACASA-N",
+    "rxnorm": {
+      "rxcui": "2629338",
+      "generic_name": "pirtobrutinib",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL6165320",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of action Pirtobrutinib is a small molecule, noncovalent inhibitor of BTK. BTK is a signaling protein of the B-cell antigen receptor (BCR) and cytokine receptor pathways. In B-cells, BTK signaling results in activation of pathways necessary for B-cell proliferation, trafficking, chemotaxis, and adhesion. Pirtobrutinib binds to wild type BTK and BTK harboring C481 mutations, leading to inhibition of BTK kinase activity. In nonclinical studies, pirtobrutinib inhibited BTK-mediated B-cell CD69 expression and inhibited malignant B-cell proliferation. Pirtobrutinib showed dose-dependent anti-tumor activities in BTK wild type and BTK C481S mutant mouse xenograft models.",
+    "pharmacokinetics": "12.3 Pharmacokinetics The pharmacokinetics of pirtobrutinib were characterized in healthy subjects and in patients with cancer. Pirtobrutinib exposure (AUC) and C max increases proportionally following single oral doses ranging from 300 mg to 800 mg (1.5 to 4 times the approved recommended dosage) and once daily doses ranging from 25 – 300 mg (0.125 to 1.5 times the recommended dosage). Steady state was achieved within 5 days of once daily dosing, and the mean (CV%) accumulation ratio was 1.63 (26.7%) based on AUC after administration of 200 mg dosages. Following administration of the recommended dosage, the geometric mean (CV%) steady-state AUC and C max of pirtobrutinib were 92705 h*ng/mL (39%) and 6503 ng/mL (25%), respectively. The geometric mean (CV%) AUC 0-24 and C max of pirtobrutinib on Cycle 1 Day 8 were 81800 h*ng/mL (66.6%) and 3670 ng/mL (89.5%), respectively. Absorption The absolute bioavailability of pirtobrutinib after a single oral 200 mg dose is 85.5% (range 75.9% to 90.9%). The median time (range) to reach peak plasma concentration (tmax) is approximately 2 hours (0.833 to 4.15 hours). Effect of Food No clinically significant differences in the pharmacokinetics of pirtobrutinib were observed following administration of a high-fat, high-calorie meal (approximately 800 to 1000 calories with 150 calories from protein, 250 calories from carbohydrate, and 500 to 600 calories from fat) to healthy subjects. A high-fat meal decreased the C max of pirtobrutinib by 23% and delayed t max by 1 hour. There was no effect on pirtobrutinib AUC. Distribution The mean apparent central volume of distribution of pirtobrutinib is 34.2 L. Human protein binding of pirtobrutinib is 96% and is independent of concentration in vitro. Mean blood-to-plasma ratio is 0.79. Elimination The effective half-life of pirtobrutinib is approximately 20 hours and the mean (CV%) apparent clearance is 2.05 L/h (35.7 %). Metabolism Pirtobrutinib is primarily metabolized by CYP3A4 and direct glucuronidation by UGT1A8 and UGT1A9, in vitro. Excretion Following a single radiolabeled dose of pirtobrutinib 200 mg to healthy subjects, 37% of the dose was recovered in feces (18% unchanged) and 57% in urine (10% unchanged). Specific Populations There were no clinically significant differences in the pharmacokinetics of pirtobrutinib based on age (range 22 – 95 years), sex, race/ethnicity (White 84%, Asian 8%), body weight (range 35.7 – 152 kg), mild (total bilirubin ≤ upper limit of normal (ULN) and aspartate aminotransferase (AST) > ULN or total bilirubin > 1 to 1.5 × ULN and any AST), moderate (total bilirubin > 1.5 to 3 × ULN and any AST), or severe (total bilirubin > 3 × ULN and any AST) hepatic impairment. The effect of other races/ethnicities on the pharmacokinetics of pirtobrutinib is unknown. Patients with Renal Impairment Following a single 200 mg oral dose, the AUC of pirtobrutinib in subjects with severe renal impairment (eGFR 15-29 mL/min) increased by 62% and mean unbound AUC increased by 68% compared to healthy subjects with normal renal function. There were no clinically significant differences in the pharmacokinetics of pirtobrutinib in subjects with mild (eGFR 60-89 mL/min) or moderate renal impairment (eGFR 30-59 mL/min). The effect of renal impairment requiring dialysis on the pharmacokinetics of pirtobrutinib is unknown. Drug Interaction Studies Clinical Studies and Model-Informed Approaches Strong CYP3A Inhibitors: Co-administration of a single 200 mg dose of pirtobrutinib with itraconazole (strong CYP3A inhibitor) increased AUC of pirtobrutinib by 49%. Moderate CYP3A Inhibitors: Verapamil and diltiazem (moderate CYP3A inhibitors) are predicted to increase the AUC of pirtobrutinib by 30% and 20%, respectively. Strong CYP3A inducers: Coadministration of a single 200 mg dose of pirtobrutinib with rifampin (strong CYP3A inducer) decreased the AUC of pirtobrutinib by 71%. Moderate CYP3A Inducers: Efavirenz and bosentan (moderate CYP3A inducers) are predicted to decrease the AUC of pirtobrutinib by 49% and 27%, respectively. Gastric Reducing Agents: No clinically significant differences in pirtobrutinib pharmacokinetics were observed when co-administered with omeprazole (a proton pump inhibitor). P-glycoprotein (P-gp) inhibitors: No clinically significant differences in pirtobrutinib pharmacokinetics were observed when co-administered with itraconazole (P-gp inhibitor). CYP3A Substrates: Pirtobrutinib increased the AUC and C max of orally administered midazolam (sensitive CYP3A substrate) by 70% and 58%, respectively. Pirtobrutinib did not have a clinically meaningful effect on the exposure of intravenously administered midazolam. CYP2C8 Substrates: Pirtobrutinib increased the AUC and C max of repaglinide (sensitive CYP2C8 substrate) by 130% and 98%, respectively. CYP2C19 Substrates: Pirtobrutinib increased the AUC and C max of omeprazole (sensitive CYP2C19 substrate) by 56% and 49%, respectively. P-gp Substrates: A single 200 mg dose of pirtobrutinib increased the AUC and C max of digoxin (sensitive P-gp substrate) by 17% and 51%, respectively. Multiple doses of pirtobrutinib (200 mg daily) further increased the AUC and C max of digoxin (sensitive P-gp substrate) up to 35% and 55%, respectively. BCRP Substrates: Multiple doses of pirtobrutinib (200 mg daily) increased the AUC and C max of rosuvastatin (sensitive BCRP substrate) by 140% and 146%, respectively. CYP1A2 and CYP2C9 Substrates: Pirtobrutinib did not have a clinically meaningful effect on the exposures of caffeine (sensitive CYP1A2 substrate) or S-warfarin (moderate sensitive CYP2C9 substrate). In Vitro Studies Cytochrome P450 (CYP) Enzymes: Pirtobrutinib inhibits CYP2C8, CYP2C9, CYP3A, CYP1A2, CYP2B6, CYP2C19, and CYP2D6. Pirtobrutinib induces CYP3A4, CYP3A5, CYP2B6, and CYP2C19. Transporter Systems: Pirtobrutinib inhibits P-gp and BCRP, but not OAT1, OAT3, OCT1, OCT2, OATP1B1, OATP1B3, MATE1, or MATE2-K. Pirtobrutinib is not a substrate of the hepatic transporters. Pirtobrutinib is a substrate of P-gp and BCRP, but not OCT1, OATP1B1, OATP1B3, or BSEP.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE JAYPIRCA ® is a kinase inhibitor indicated for the treatment of: Adult patients with relapsed or refractory mantle cell lymphoma (MCL) after at least two lines of systemic therapy, including a BTK inhibitor. ( 1.1 ). This indication is approved under accelerated approval based on response rate. Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial. Adult patients with relapsed or refractory chronic lymphocytic leukemia or small lymphocytic lymphoma (CLL/SLL) who have previously been treated with a covalent BTK inhibitor. ( 1.2 ). 1.1 Mantle Cell Lymphoma JAYPIRCA ® is indicated for the treatment of adult patients with relapsed or refractory mantle cell lymphoma (MCL) after at least two lines of systemic therapy, including a BTK inhibitor. This indication is approved under accelerated approval based on response rate [see Clinical Studies ( 14.1 )]. Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial. 1.2 Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma JAYPIRCA is indicated for the treatment of adult patients with relapsed or refractory chronic lymphocytic leukemia or small lymphocytic lymphoma (CLL/SLL) who have previously been treated with a covalent BTK inhibitor.",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "JAYPIRCA"
+    ],
+    "openfda_generic_names": [
+      "PIRTOBRUTINIB"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=bd551845-0878-49a4-860f-839b83f6b801",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Chronic Lymphocytic Leukemia",
+    "slug": "chronic-lymphocytic-leukemia"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04965493",
+      "title": "A Trial of Pirtobrutinib (LOXO-305) Plus Venetoclax and Rituximab (PVR) Versus Venetoclax and Rituximab (VR) in Previously Treated Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma (CLL/SLL)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04965493",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42566728",
+        "title": "Contemporary Management of Relapsed or Refractory Chronic Lymphocytic Leukemia.",
+        "pubdate": "2026 Aug 7",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42566728/"
+      },
+      {
+        "pmid": "42425121",
+        "title": "Fixed-duration pirtobrutinib plus venetoclax-rituximab versus venetoclax-rituximab for patients with previously treated chronic lymphocytic leukaemia or small lymphocytic lymphoma (BRUIN CLL-322): an open-label, multicentre, randomised, controlled, phase 3 trial.",
+        "pubdate": "2026 Aug 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42425121/"
+      },
+      {
+        "pmid": "42355593",
+        "title": "Precision Medicine in Non-Hodgkin Lymphoma: Advances in BTK Inhibition, CD30-Directed Antibody-Drug Conjugates, and HDAC-Mediated Epigenetic Therapy with Pirtobrutinib, Brentuximab Vedotin, and Belinostat.",
+        "pubdate": "2026 Jun 8",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42355593/"
+      },
+      {
+        "pmid": "42308688",
+        "title": "Patient-reported outcomes in BRUIN CLL-321: A randomized phase 3 trial comparing pirtobrutinib to investigators choice of idelalisib plus rituximab or bendamustine plus rituximab in patients with relapsed/refractory chronic lymphocytic leukemia/small lymphocytic lymphoma in the post-cBTKi setting.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42308688/"
+      },
+      {
+        "pmid": "41749915",
+        "title": "Efficacy of Pirtobrutinib Monotherapy in Treatment-Naïve Chronic Lymphocytic Leukemia: A Bayesian Network Meta-Analysis of Randomized Controlled Trials.",
+        "pubdate": "2026 Feb 18",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41749915/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

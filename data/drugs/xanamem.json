@@ -1,0 +1,70 @@
+{
+  "drug_name": "Xanamem",
+  "slug": "xanamem",
+  "enriched_at": "2026-09-17T12:34:57Z",
+  "source_trial_ids": [
+    "NCT06125951"
+  ],
+  "sponsors": [
+    {
+      "name": "Actinogen Medical",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Actinogen%20Medical&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 137530063,
+    "iupac_name": "[(1R,5S)-3-hydroxy-3-pyrimidin-2-yl-8-azabicyclo[3.2.1]octan-8-yl]-[5-(1H-pyrazol-4-yl)thiophen-3-yl]methanone",
+    "molecular_formula": "C19H19N5O2S",
+    "molecular_weight": "381.5",
+    "canonical_smiles": null,
+    "inchikey": "MMZFGTAMARVHAF-RTHVDDQRSA-N",
+    "rxnorm": null
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL6068050",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Xanamem+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Xanamem+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Xanamem+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Dementia Moderate",
+    "slug": "dementia-moderate"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06125951",
+      "title": "Effect of 10 mg Xanamem on Dementia Due to Alzheimer's Disease",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06125951",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

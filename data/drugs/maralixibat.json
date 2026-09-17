@@ -1,0 +1,136 @@
+{
+  "drug_name": "Maralixibat",
+  "slug": "maralixibat",
+  "enriched_at": "2026-09-17T12:31:06Z",
+  "source_trial_ids": [
+    "NCT06553768"
+  ],
+  "sponsors": [
+    {
+      "name": "Mirum Pharmaceuticals, Inc.",
+      "ticker": "MIRM",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001759425&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 9831643,
+    "iupac_name": "(4R,5R)-5-[4-[[4-(4-aza-1-azoniabicyclo[2.2.2]octan-1-ylmethyl)phenyl]methoxy]phenyl]-3,3-dibutyl-7-(dimethylamino)-1,1-dioxo-4,5-dihydro-2H-1lambda6-benzothiepin-4-ol",
+    "molecular_formula": "C40H56N3O4S+",
+    "molecular_weight": "675.0",
+    "canonical_smiles": null,
+    "inchikey": "STPKWKPURVSAJF-LJEWAXOPSA-N",
+    "rxnorm": {
+      "rxcui": "2571074",
+      "generic_name": "maralixibat",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL17879",
+    "target_chembl_id": "CHEMBL2778",
+    "target_name": "Ileal sodium/bile acid cotransporter",
+    "mechanism_of_action_chembl": "Ileal bile acid transporter inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Maralixibat is a reversible inhibitor of the ileal bile acid transporter (IBAT). It decreases the reabsorption of bile acids (primarily the salt forms) from the terminal ileum . Pruritus is a common symptom in patients with ALGS or PFIC and the pathophysiology of pruritus in patients with ALGS or PFIC is not completely understood. Although the complete mechanism by which maralixibat improves pruritus in ALGS or PFIC patients is unknown, it may involve inhibition of the IBAT, which results in decreased reuptake of bile salts, as observed by a decrease in serum bile acids [see Clinical Pharmacology (12.2) ] .",
+    "pharmacokinetics": "12.3 Pharmacokinetics Because of the low systemic absorption of maralixibat, pharmacokinetic parameters cannot be reliably calculated at the recommended doses. Concentrations of maralixibat in the pediatric ALGS and PFIC patients were below the limit of quantification (0.25 ng/mL) in the majority of plasma samples. Following single dose administration of maralixibat oral solution in healthy adults at doses ranging from 1 mg to 500 mg, plasma concentrations of maralixibat were below the limit of quantification (0.25 ng/mL) at doses less than 20 mg and PK parameters could not be reliably estimated. Following single dose administration of 30 mg maralixibat oral solution under fasted condition, median Tmax was 0.75 hour and mean (SD) Cmax and AUClast were 1.65 (1.10) ng/mL and 3.43 (2.13) ng·h/mL, respectively. Absorption Maralixibat is minimally absorbed and plasma concentrations are often below the limit of quantification (0.25 ng/mL) after single or multiple doses at recommended doses. Oral Solution : Following a single oral administration of maralixibat 30, 45, and 100 mg liquid formulation under fasted condition, AUClast and Cmax increased in a dose-dependent manner with increase of 4.6-and 2.4-fold, respectively, following a 3.3-fold dose increase from 30 to 100 mg. No accumulation of maralixibat was observed following repeated oral administration of maralixibat in healthy adults at doses up to 100 mg once-daily. Tablet: After a single 100 mg dose of maralixibat tablet under fasted condition, mean (SD) AUCinf and Cmax were 13.2 (8.2) ng·h/mL and 3.0 (2.2) ng/mL, respectively. Following a single dose of maralixibat oral solution (99.75 mg) under the same conditions, mean (SD) AUCinf and Cmax were 18.4 (13.2) ng·h/mL and 4.3 (2.7) ng/mL, respectively. Given the local site of action of maralixibat, the slightly lower exposure afforded by the tablet compared to the oral solution is not clinically meaningful. Effect of Food Concomitant administration of a high-fat meal with a single dose of maralixibat oral solution decreased both the rate and extent of absorption. AUC and Cmax of maralixibat values in the fed state were 64.8% to 85.8% lower relative to oral administration of 30 mg in fasted conditions. The effect of food on the changes of systemic exposures to maralixibat is not clinically significant [see Dosage and Administration (2.1 , 2.3 )] . Distribution Maralixibat shows high binding (91%) to human plasma proteins in vitro. Elimination Following a single dose of 30 mg maralixibat oral solution in healthy adults, the mean half-life (t 1/2 ) was 1.6 hours. Metabolism No maralixibat metabolites have been detected in plasma. Three minor metabolites, accounting for <3% of maralixibat-associated fecal radioactivity in total, were identified following administration of [ 14 C]maralixibat as an oral solution. Excretion Fecal excretion was found to be the major route of elimination. Following a single dose of 5 mg 14 C-maralixibat as an oral solution, 73% of the dose was excreted in the feces with 0.066% excreted in the urine. 94% of the fecal excretion was as unchanged maralixibat. Specific Populations Patients with Renal Impairment The pharmacokinetics of maralixibat were not studied in patients with impaired renal function, including those with end-stage renal disease (ESRD) or those on hemodialysis. Drug Interaction Studies Effect of Other Drugs on Maralixibat Maralixibat is not a substrate of the drug transporters MDR1 (P-gp), BCRP, OATP1B1, OATP1B3, or OATP2B2; therefore, concomitant drug products are not predicted to affect the disposition of maralixibat. Effect of Maralixibat on Other Drugs In vitro, maralixibat did not induce CYP isoforms 1A2, 2B6, or 3A4, nor inhibit CYP isoforms 1A2, 2B6, 2C8, 2C9, 2C19 or 2D6 at clinically relevant concentrations. Maralixibat inhibits CYP3A4 in vitro, however clinically relevant effects on the pharmacokinetics of CYP3A4 substrates are unlikely. In vitro, maralixibat did not inhibit the transporters MDR1 (P-gp), BCRP, OAT1, OAT3, OATP1B1, OATP1B3, PEPT1, OCT1, OCT2, OCT3, OCTN1, OCTN2, MRP2, MATE1, or MATE2-K at clinically relevant concentrations. Maralixibat inhibits the drug transporter OATP2B1 in vitro, which can potentially result in reduced absorption of drugs that rely on OATP2B1-mediated uptake in the GI tract. In clinical studies coadministration of 4.75 mg maralixibat (once daily in the morning) with daily doses of either simvastatin, or lovastatin in the evening, did not have a clinically relevant effect on the pharmacokinetics of these statins and their metabolites. Coadministration of 4.75 mg maralixibat did not affect pharmacokinetics of atorvastatin. However, the effect of maralixibat on the pharmacokinetics of OATP2B1 substrates at higher doses has not been evaluated in a clinical study.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE LIVMARLI is an ileal bile acid transporter (IBAT) inhibitor indicated for: • the treatment of cholestatic pruritus in patients 3 months of age and older with Alagille syndrome (ALGS). ( 1.1 ) • the treatment of cholestatic pruritus in patients 12 months of age and older with progressive familial intrahepatic cholestasis (PFIC). ( 1.2 ) o Limitations of Use: LIVMARLI is not recommended in a subgroup of PFIC type 2 patients with specific ABCB11 variants resulting in non-functional or complete absence of bile salt export pump (BSEP) protein. ( 14.2 ) 1.1 Treatment of Cholestatic Pruritus in Patients with Alagille Syndrome LIVMARLI ® is indicated for the treatment of cholestatic pruritus in patients 3 months of age and older with Alagille syndrome (ALGS). 1.2 Treatment of Cholestatic Pruritus in Patients with Progressive Familial Intrahepatic Cholestasis LIVMARLI is indicated for the treatment of cholestatic pruritus in patients 12 months of age and older with progressive familial intrahepatic cholestasis (PFIC). Limitations of Use: LIVMARLI is not recommended in a subgroup of PFIC type 2 patients with specific ABCB11 variants resulting in non-functional or complete absence of bile salt export pump (BSEP) protein [see Clinical Studies (14.2) ] .",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "Livmarli"
+    ],
+    "openfda_generic_names": [
+      "MARALIXIBAT CHLORIDE"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=64000394-1ef6-4e76-8ba8-11f25ba1b167",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Cholestatic Liver Disease (Except ALGS, PFIC, PBC and PSC)",
+    "slug": "cholestatic-liver-disease-except-algs-pfic-pbc-and-psc"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06553768",
+      "title": "Evaluation of Maralixibat in Pruritus Associated With General Cholestatic Liver Disease (EXPAND)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06553768",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42002216",
+        "title": "Maralixibat Improves Xanthomas and Hypercholesterolemia in Children with Alagille Syndrome: A Post Hoc Integrated Analysis From Two Clinical Trials.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42002216/"
+      },
+      {
+        "pmid": "41953994",
+        "title": "Review Article: Ileal Bile Acid Transport (IBAT) Inhibitors as an Emerging Treatment for Cholestatic Liver Disease.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41953994/"
+      },
+      {
+        "pmid": "41025998",
+        "title": "Ileal bile acid transporter inhibitors in Alagille syndrome and Progressive Familial Intrahepatic Cholestasis: A systematic review into dose-response.",
+        "pubdate": "2026 Jan",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41025998/"
+      },
+      {
+        "pmid": "41401273",
+        "title": "",
+        "pubdate": "2025 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41401273/"
+      },
+      {
+        "pmid": "40544071",
+        "title": "Indirect Comparison of Maralixibat and Odevixibat for the Treatment of Progressive Familial Intrahepatic Cholestasis.",
+        "pubdate": "2025 Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40544071/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "ELOBIXIBAT",
+        "chembl_id": "CHEMBL3039515",
+        "reason": "same target: Ileal sodium/bile acid cotransporter"
+      },
+      {
+        "name": "MARALIXIBAT",
+        "chembl_id": "CHEMBL363392",
+        "reason": "same target: Ileal sodium/bile acid cotransporter"
+      },
+      {
+        "name": "ODEVIXIBAT",
+        "chembl_id": "CHEMBL4297588",
+        "reason": "same target: Ileal sodium/bile acid cotransporter"
+      },
+      {
+        "name": "VOLIXIBAT",
+        "chembl_id": "CHEMBL3707222",
+        "reason": "same target: Ileal sodium/bile acid cotransporter"
+      },
+      {
+        "name": "LINERIXIBAT",
+        "chembl_id": "CHEMBL2387408",
+        "reason": "same target: Ileal sodium/bile acid cotransporter"
+      },
+      {
+        "name": "ODEVIXIBAT SESQUIHYDRATE",
+        "chembl_id": "CHEMBL5315120",
+        "reason": "same target: Ileal sodium/bile acid cotransporter"
+      }
+    ]
+  }
+}

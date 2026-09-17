@@ -1,0 +1,105 @@
+{
+  "drug_name": "Minoxidil Topical",
+  "slug": "minoxidil-topical",
+  "enriched_at": "2026-09-17T12:31:52Z",
+  "source_trial_ids": [
+    "NCT05888922"
+  ],
+  "sponsors": [
+    {
+      "name": "Industrial Farmacéutica Cantabria, S.A.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Industrial%20Farmac%C3%A9utica%20Cantabria%2C%20S.A.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1165359",
+      "generic_name": "minoxidil Topical Product",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL802",
+    "target_chembl_id": "CHEMBL2095198",
+    "target_name": "Sulfonylurea receptor 2, Kir6.2",
+    "mechanism_of_action_chembl": "Sulfonylurea receptor 2, Kir6.2 opener"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": "Use to regrow hair on the scalp",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "Minoxidil Topical Solution 2%"
+    ],
+    "openfda_generic_names": [
+      "MINOXIDIL TOPICAL SOLUTION 2%"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5a03675b-0bfd-7058-e063-6294a90acf4d",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Androgenetic Alopecia",
+    "slug": "androgenetic-alopecia"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05888922",
+      "title": "Evaluation of Efficacy and Safety of Oral Minoxidil 1 mg in Female Androgenetic Alopecia",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05888922",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42235052",
+        "title": "INDIVIDUAL ARTICLE: Efficacy of a Dual-Serum Cosmetic System in Women With Female Pattern Hair Loss.",
+        "pubdate": "2026 Jun 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42235052/"
+      },
+      {
+        "pmid": "41591820",
+        "title": "A Randomized Controlled Clinical Trial Protocol of Umbilical Cord Mesenchymal Stem Cell-Derived Small Extracellular Vesicles for the Treatment of Androgenetic Alopecia in Young Males.",
+        "pubdate": "2026 Jan 31",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41591820/"
+      },
+      {
+        "pmid": "41369788",
+        "title": "Photobiomodulation therapy and 5% minoxidil in female pattern hair loss: a case series focusing on hair growth phases over a shorter timeframe.",
+        "pubdate": "2025 Dec 10",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41369788/"
+      },
+      {
+        "pmid": "41331712",
+        "title": "Updates in Treatment for Androgenetic Alopecia.",
+        "pubdate": "2025 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41331712/"
+      },
+      {
+        "pmid": "40599040",
+        "title": "Use of 5% Topical Minoxidil Application for Telogen Effluvium: An Open-Label Single-Arm Clinical Trial.",
+        "pubdate": "2025 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40599040/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "PINACIDIL",
+        "chembl_id": "CHEMBL1200338",
+        "reason": "same target: Sulfonylurea receptor 2, Kir6.2"
+      }
+    ]
+  }
+}

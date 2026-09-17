@@ -1,9 +1,10 @@
 {
   "drug_name": "Ziltivekimab",
   "slug": "ziltivekimab",
-  "enriched_at": "2026-09-10T12:07:10Z",
+  "enriched_at": "2026-09-17T12:35:08Z",
   "source_trial_ids": [
-    "NCT05636176"
+    "NCT05636176",
+    "NCT06200207"
   ],
   "sponsors": [
     {
@@ -54,16 +55,35 @@
       "status": "TERMINATED",
       "url": "https://clinicaltrials.gov/study/NCT05636176",
       "has_results": false
+    },
+    {
+      "nct_id": "NCT06200207",
+      "title": "A Research Study Looking Into How Ziltivekimab Works Compared to Placebo in Participants With Heart Failure and Inflammation",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06200207",
+      "has_results": false
     }
   ],
   "prior_results": {
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42739556",
+        "title": "Targeting Inflammation in Chronic Kidney Disease: Pathophysiological Insights and Emerging Therapeutic Strategies.",
+        "pubdate": "2026 Aug 25",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42739556/"
+      },
+      {
         "pmid": "42297535",
         "title": "A quantitative method to estimate free interleukin-6 among patients treated with the interleukin-6 ligand inhibitor ziltivekimab: comparison to C-reactive protein with implications for the ZEUS, HERMES, and ARTEMIS cardiovascular outcomes trials.",
         "pubdate": "2026 Jun",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42297535/"
+      },
+      {
+        "pmid": "42106986",
+        "title": "Ziltivekimab in heart failure with preserved and mildly reduced ejection fraction: rationale and design of the ATHENA and HERMES trials.",
+        "pubdate": "2026 Sep 15",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42106986/"
       },
       {
         "pmid": "41369941",
@@ -76,18 +96,6 @@
         "title": "\"Anti-inflammatory Therapies in Atherosclerosis - Where are we going?\".",
         "pubdate": "2024 Dec 19",
         "url": "https://pubmed.ncbi.nlm.nih.gov/39699771/"
-      },
-      {
-        "pmid": "38088558",
-        "title": "Effect of Ziltivekimab on Determinants of Hemoglobin in Patients with CKD Stage 3-5: An Analysis of a Randomized Trial (RESCUE).",
-        "pubdate": "2024 Jan 1",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/38088558/"
-      },
-      {
-        "pmid": "36449307",
-        "title": "Association of Interleukin 6 Inhibition With Ziltivekimab and the Neutrophil-Lymphocyte Ratio: A Secondary Analysis of the RESCUE Clinical Trial.",
-        "pubdate": "2023 Feb 1",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/36449307/"
       }
     ]
   },

@@ -1,0 +1,89 @@
+{
+  "drug_name": "XEN1101",
+  "slug": "xen1101",
+  "enriched_at": "2026-09-17T12:38:08Z",
+  "source_trial_ids": [
+    "NCT05716100"
+  ],
+  "sponsors": [
+    {
+      "name": "Xenon Pharmaceuticals Inc.",
+      "ticker": "XENE",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001582313&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 24743936,
+    "iupac_name": "N-[4-(6-fluoro-3,4-dihydro-1H-isoquinolin-2-yl)-2,6-dimethylphenyl]-3,3-dimethylbutanamide",
+    "molecular_formula": "C23H29FN2O",
+    "molecular_weight": "368.5",
+    "canonical_smiles": null,
+    "inchikey": "FJNPZKZPWVVSON-UHFFFAOYSA-N",
+    "rxnorm": null
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL5095264",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=XEN1101+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=XEN1101+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=XEN1101+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Focal Onset Seizures",
+    "slug": "focal-onset-seizures"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05716100",
+      "title": "A Randomized Study of XEN1101 Versus Placebo in Focal-Onset Seizures (X-TOLE3)",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05716100",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "38571335",
+        "title": "A profile of azetukalner for the treatment of epilepsy: from pharmacology to potential for therapy.",
+        "pubdate": "2024 May-Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38571335/"
+      },
+      {
+        "pmid": "37812429",
+        "title": "Efficacy and Safety of XEN1101, a Novel Potassium Channel Opener, in Adults With Focal Epilepsy: A Phase 2b Randomized Clinical Trial.",
+        "pubdate": "2023 Nov 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37812429/"
+      },
+      {
+        "pmid": "31568714",
+        "title": "TMS as a pharmacodynamic indicator of cortical activity of a novel anti-epileptic drug, XEN1101.",
+        "pubdate": "2019 Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31568714/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

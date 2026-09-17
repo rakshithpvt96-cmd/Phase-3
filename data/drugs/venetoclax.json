@@ -1,9 +1,10 @@
 {
   "drug_name": "Venetoclax",
   "slug": "venetoclax",
-  "enriched_at": "2026-09-15T12:36:49Z",
+  "enriched_at": "2026-09-17T12:34:49Z",
   "source_trial_ids": [
-    "NCT03539744"
+    "NCT03539744",
+    "NCT04965493"
   ],
   "sponsors": [
     {
@@ -11,6 +12,12 @@
       "ticker": "ABBV",
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001551152&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Loxo Oncology, Inc.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Loxo%20Oncology%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
@@ -59,6 +66,13 @@
       "title": "A Study Designed to Evaluate the Safety and Efficacy of Venetoclax Plus Dexamethasone (VenDex) Compared With Pomalidomide Plus Dexamethasone (PomDex) in Participants With t(11;14)-Positive Relapsed or Refractory Multiple Myeloma.",
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT03539744",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT04965493",
+      "title": "A Trial of Pirtobrutinib (LOXO-305) Plus Venetoclax and Rituximab (PVR) Versus Venetoclax and Rituximab (VR) in Previously Treated Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma (CLL/SLL)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04965493",
       "has_results": false
     }
   ],

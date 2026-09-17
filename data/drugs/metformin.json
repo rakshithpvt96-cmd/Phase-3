@@ -1,11 +1,18 @@
 {
   "drug_name": "METFORMIN",
   "slug": "metformin",
-  "enriched_at": "2026-09-15T12:40:36Z",
+  "enriched_at": "2026-09-17T12:31:19Z",
   "source_trial_ids": [
-    "NCT04670666"
+    "NCT04670666",
+    "NCT06257966"
   ],
   "sponsors": [
+    {
+      "name": "Beijing Dongfang Biotech Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Beijing%20Dongfang%20Biotech%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    },
     {
       "name": "EMS",
       "ticker": null,
@@ -59,6 +66,13 @@
       "title": "Efficacy and Safety of Madalena Association in the Treatment of Type II Diabetes Mellitus",
       "status": "RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT04670666",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06257966",
+      "title": "A Phase 3 Study to Evaluate the Efficacy of JY09 Compared With Dulaglutide in Combination Therapy Diabetes Mellitus Type 2 Patients With Metformin",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06257966",
       "has_results": false
     }
   ],

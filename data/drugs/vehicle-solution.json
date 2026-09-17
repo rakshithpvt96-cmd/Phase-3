@@ -1,0 +1,99 @@
+{
+  "drug_name": "Vehicle solution",
+  "slug": "vehicle-solution",
+  "enriched_at": "2026-09-17T12:34:39Z",
+  "source_trial_ids": [
+    "NCT05888922"
+  ],
+  "sponsors": [
+    {
+      "name": "Industrial Farmacéutica Cantabria, S.A.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Industrial%20Farmac%C3%A9utica%20Cantabria%2C%20S.A.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "693233",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2108661",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "DailyMed",
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5072c742-25a3-4459-b0cb-51c331bede0e",
+    "note": "A label exists in DailyMed but structured sections could not be parsed automatically -- see dailymed_url for the full label.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Vehicle%20solution+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Vehicle%20solution+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Vehicle%20solution+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Androgenetic Alopecia",
+    "slug": "androgenetic-alopecia"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05888922",
+      "title": "Evaluation of Efficacy and Safety of Oral Minoxidil 1 mg in Female Androgenetic Alopecia",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05888922",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42614794",
+        "title": "Water-Free Cyclosporine 0.1% in Dry Eye Disease: Formulation Rationale, Clinical Evidence, and Unresolved Questions.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42614794/"
+      },
+      {
+        "pmid": "42470519",
+        "title": "Improvement in Visual-Tasking Daily Living Activities and Work Productivity in Patients with Dry Eye Disease: Integrated Analysis of COMET Studies.",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42470519/"
+      },
+      {
+        "pmid": "42273919",
+        "title": "Albumin Nanoparticles for Targeted Cancer Therapy: Mechanistic Insights Into Bio-Inspired Design and Clinical Translation.",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42273919/"
+      },
+      {
+        "pmid": "42069335",
+        "title": "Lifitegrast ophthalmic solution 5.0% (KH732) for dry eye disease: A randomized, multicenter, double-masked, vehicle-controlled phase 3 trial.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42069335/"
+      },
+      {
+        "pmid": "42036272",
+        "title": "Assessing the Efficacy, Safety Profile, and Tolerability of Anti-microRNA-328 Anti-sense (SHJ002) for Dry Eye Disease: A Randomized Phase 2 Trial.",
+        "pubdate": "2026 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42036272/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

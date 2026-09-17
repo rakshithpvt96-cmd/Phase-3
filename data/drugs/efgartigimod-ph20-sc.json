@@ -1,0 +1,120 @@
+{
+  "drug_name": "efgartigimod PH20 SC",
+  "slug": "efgartigimod-ph20-sc",
+  "enriched_at": "2026-09-17T12:30:34Z",
+  "source_trial_ids": [
+    "NCT04812925"
+  ],
+  "sponsors": [
+    {
+      "name": "argenx",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=argenx&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2587717",
+      "generic_name": "efgartigimod alfa",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4297551",
+    "target_chembl_id": "CHEMBL5966",
+    "target_name": "IgG receptor FcRn large subunit p51",
+    "mechanism_of_action_chembl": "IgG receptor FcRn large subunit p51 antagonist"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=efgartigimod%20PH20%20SC+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=efgartigimod%20PH20%20SC+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=efgartigimod%20PH20%20SC+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Primary Immune Thrombocytopenia",
+    "slug": "primary-immune-thrombocytopenia"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04812925",
+      "title": "A Phase 3 Study to Evaluate the Safety and Efficacy of Efgartigimod PH20 Subcutaneous in Adult Patients With Primary Immune Thrombocytopenia",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04812925",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42699831",
+        "title": "Long-term safety, tolerability, and efficacy of subcutaneous efgartigimod PH20 in generalized myasthenia gravis: final results from a phase 3 open-label extension study (ADAPT-SC+).",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42699831/"
+      },
+      {
+        "pmid": "41943179",
+        "title": "Efficacy and Safety of Subcutaneous Efgartigimod PH20 in Adults With Primary Immune Thrombocytopenia (ADVANCE SC): A Multicenter, Randomized, Double-Blinded, Placebo-Controlled, Phase 3 Trial.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41943179/"
+      },
+      {
+        "pmid": "41551508",
+        "title": "Efficacy and safety of efgartigimod PH20 SC for Sjögren's disease-associated dryness: study protocol for an investigator-initiated, multicenter, phase 2, randomized, double-blind, placebo-controlled trial (OASIS study).",
+        "pubdate": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41551508/"
+      },
+      {
+        "pmid": "40296516",
+        "title": "Safety profile of efgartigimod from global clinical trials across multiple immunoglobulin G-mediated autoimmune diseases.",
+        "pubdate": "2025 May",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40296516/"
+      },
+      {
+        "pmid": "39368043",
+        "title": "Pharmacokinetics, Pharmacodynamics, and Safety of Intravenous Efgartigimod and Subcutaneous Efgartigimod PH20 in Healthy Chinese Participants.",
+        "pubdate": "2024 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39368043/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "ROZANOLIXIZUMAB",
+        "chembl_id": "CHEMBL4297820",
+        "reason": "same target: IgG receptor FcRn large subunit p51"
+      },
+      {
+        "name": "NIPOCALIMAB",
+        "chembl_id": "CHEMBL4594310",
+        "reason": "same target: IgG receptor FcRn large subunit p51"
+      },
+      {
+        "name": "BATOCLIMAB",
+        "chembl_id": "CHEMBL4650514",
+        "reason": "same target: IgG receptor FcRn large subunit p51"
+      },
+      {
+        "name": "ORILANOLIMAB",
+        "chembl_id": "CHEMBL4298117",
+        "reason": "same target: IgG receptor FcRn large subunit p51"
+      }
+    ]
+  }
+}

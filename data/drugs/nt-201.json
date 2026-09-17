@@ -1,0 +1,99 @@
+{
+  "drug_name": "NT 201",
+  "slug": "nt-201",
+  "enriched_at": "2026-09-17T12:32:08Z",
+  "source_trial_ids": [
+    "NCT07210463"
+  ],
+  "sponsors": [
+    {
+      "name": "Merz Aesthetics GmbH",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Merz%20Aesthetics%20GmbH&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2629292",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL439494",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=NT%20201+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=NT%20201+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=NT%20201+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Neuromuscular Agents",
+    "slug": "neuromuscular-agents"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07210463",
+      "title": "A Study of NT 201 in Adults With Moderate to Severe Platysma Prominence in Europe (PLATINUM EU)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07210463",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "41745775",
+        "title": "Efficacy and Safety of IncobotulinumtoxinA for the Treatment of Blepharospasm: A Multicenter, Phase 3 Study in Japan.",
+        "pubdate": "2026 Feb 20",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41745775/"
+      },
+      {
+        "pmid": "40771035",
+        "title": "Efficacy and Safety of IncobotulinumtoxinA for Treatment of Sialorrhea: A Multicenter, Phase 3 Study in Japan.",
+        "pubdate": "2026 Jan",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40771035/"
+      },
+      {
+        "pmid": "40423299",
+        "title": "Single-Dose IncobotulinumtoxinA in the Treatment of Early-Stage Knee Osteoarthritis: Results from a Preliminary Single-Arm Clinical Trial.",
+        "pubdate": "2025 Apr 25",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40423299/"
+      },
+      {
+        "pmid": "39196823",
+        "title": "Comparing Stability and Efficacy of Incobotulinumtoxin A Refrigerated for Two Weeks as Compared With Its Fresh Version: A Nonrandomized Clinical Trial.",
+        "pubdate": "2024 Sep 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39196823/"
+      },
+      {
+        "pmid": "38954382",
+        "title": "Assessment of the Efficacy and Durability of IncobotulinumtoxinA in the Treatment of the Upper Face in Adult Women.",
+        "pubdate": "2024 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38954382/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

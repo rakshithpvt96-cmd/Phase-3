@@ -1,0 +1,99 @@
+{
+  "drug_name": "NT 201 Placebo",
+  "slug": "nt-201-placebo",
+  "enriched_at": "2026-09-17T12:32:23Z",
+  "source_trial_ids": [
+    "NCT07210463"
+  ],
+  "sponsors": [
+    {
+      "name": "Merz Aesthetics GmbH",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Merz%20Aesthetics%20GmbH&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "8375",
+      "generic_name": "placebo",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL439494",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=NT%20201%20Placebo+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=NT%20201%20Placebo+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=NT%20201%20Placebo+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Neuromuscular Agents",
+    "slug": "neuromuscular-agents"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07210463",
+      "title": "A Study of NT 201 in Adults With Moderate to Severe Platysma Prominence in Europe (PLATINUM EU)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07210463",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "38262642",
+        "title": "Perineural injections of incobotulinumtoxin-A for diabetic neuropathic pain of the lower extremities: protocol for a phase II, single-centre, double-blind, randomised, placebo-controlled trial (the PINBOT study).",
+        "pubdate": "2024 Jan 22",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38262642/"
+      },
+      {
+        "pmid": "37368677",
+        "title": "Outcomes of IncobotulinumtoxinA Injection on Myalgia and Arthralgia in Patients Undergoing Temporomandibular Joint Arthroscopy: A Randomized Controlled Trial.",
+        "pubdate": "2023 Jun 3",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37368677/"
+      },
+      {
+        "pmid": "34341153",
+        "title": "Placebo-Controlled Clinical Trial of IncobotulinumtoxinA for Sialorrhea in Children: SIPEXI.",
+        "pubdate": "2021 Oct 4",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34341153/"
+      },
+      {
+        "pmid": "33551974",
+        "title": "Duration of Treatment Effect Using IncobotulinumtoxinA for Upper-limb Spasticity: A Post-hoc Analysis.",
+        "pubdate": "2020",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33551974/"
+      },
+      {
+        "pmid": "33112408",
+        "title": "Sustained efficacy of incobotulinumtoxina repeated injections for upper-limb post-stroke spasticity: A post hoc analysis.",
+        "pubdate": "2021 Jan 5",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33112408/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

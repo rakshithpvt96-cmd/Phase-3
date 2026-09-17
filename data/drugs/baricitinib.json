@@ -1,0 +1,156 @@
+{
+  "drug_name": "Baricitinib",
+  "slug": "baricitinib",
+  "enriched_at": "2026-09-17T12:29:27Z",
+  "source_trial_ids": [
+    "NCT04088396"
+  ],
+  "sponsors": [
+    {
+      "name": "Eli Lilly and Company",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Eli%20Lilly%20and%20Company&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 44205240,
+    "iupac_name": "2-[1-ethylsulfonyl-3-[4-(7H-pyrrolo[2,3-d]pyrimidin-4-yl)pyrazol-1-yl]azetidin-3-yl]acetonitrile",
+    "molecular_formula": "C16H17N7O2S",
+    "molecular_weight": "371.4",
+    "canonical_smiles": null,
+    "inchikey": "XUZMWHLSFXCVMG-UHFFFAOYSA-N",
+    "rxnorm": {
+      "rxcui": "2047232",
+      "generic_name": "baricitinib",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2105759",
+    "target_chembl_id": "CHEMBL2835",
+    "target_name": "Tyrosine-protein kinase JAK1",
+    "mechanism_of_action_chembl": "Tyrosine-protein kinase JAK1 inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "Baricitinib"
+    ],
+    "openfda_generic_names": [
+      "BARICITINIB"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=866e9f35-9035-4581-a4b1-75a621ab55cf",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Systemic Juvenile Idiopathic Arthritis",
+    "slug": "systemic-juvenile-idiopathic-arthritis"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04088396",
+      "title": "A Study of Baricitinib (LY3009104) in Participants From 1 Year to Less Than 18 Years Old With Systemic Juvenile Idiopathic Arthritis (sJIA)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04088396",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42628384",
+        "title": "Alopecia areata: an autoimmune insult, molecular insights, and therapeutic horizons.",
+        "pubdate": "2026 Aug 21",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42628384/"
+      },
+      {
+        "pmid": "42616344",
+        "title": "Alopecia Areata: Current and Emerging Therapies.",
+        "pubdate": "2026 Aug 19",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42616344/"
+      },
+      {
+        "pmid": "42546722",
+        "title": "Impact of BMI on response to Janus kinase inhibitors in rheumatoid arthritis: an individual patient data meta-analysis of randomised controlled trials.",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42546722/"
+      },
+      {
+        "pmid": "42436570",
+        "title": "Janus kinase inhibitors are of limited use in refractory JIA-associated uveitis: retrospective data from a tertiary uveitis center.",
+        "pubdate": "2026 Jul 11",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42436570/"
+      },
+      {
+        "pmid": "42370484",
+        "title": "Expert Perspective: Treatment of Patients With Calcium Pyrophosphate Deposition Disease: Where Do We Begin and Where Are We Going?",
+        "pubdate": "2026 Jun 29",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42370484/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "RUXOLITINIB PHOSPHATE",
+        "chembl_id": "CHEMBL1795071",
+        "reason": "same target: Tyrosine-protein kinase JAK1"
+      },
+      {
+        "name": "CERDULATINIB",
+        "chembl_id": "CHEMBL4116008",
+        "reason": "same target: Tyrosine-protein kinase JAK1"
+      },
+      {
+        "name": "GLPG-0555",
+        "chembl_id": "CHEMBL3545249",
+        "reason": "same target: Tyrosine-protein kinase JAK1"
+      },
+      {
+        "name": "ABROCITINIB",
+        "chembl_id": "CHEMBL3655081",
+        "reason": "same target: Tyrosine-protein kinase JAK1"
+      },
+      {
+        "name": "TRICETAMIDE",
+        "chembl_id": "CHEMBL2106468",
+        "reason": "same target: Tyrosine-protein kinase JAK1"
+      },
+      {
+        "name": "FILGOTINIB",
+        "chembl_id": "CHEMBL3301607",
+        "reason": "same target: Tyrosine-protein kinase JAK1"
+      },
+      {
+        "name": "SOLCITINIB",
+        "chembl_id": "CHEMBL3301606",
+        "reason": "same target: Tyrosine-protein kinase JAK1"
+      },
+      {
+        "name": "ITACITINIB",
+        "chembl_id": "CHEMBL3622820",
+        "reason": "same target: Tyrosine-protein kinase JAK1"
+      },
+      {
+        "name": "INCB-047986",
+        "chembl_id": "CHEMBL3545225",
+        "reason": "same target: Tyrosine-protein kinase JAK1"
+      },
+      {
+        "name": "MOMELOTINIB",
+        "chembl_id": "CHEMBL1078178",
+        "reason": "same target: Tyrosine-protein kinase JAK1"
+      }
+    ]
+  }
+}

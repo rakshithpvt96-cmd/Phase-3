@@ -1,0 +1,68 @@
+{
+  "drug_name": "Exendin-4 Fc fusion protein injection（2.4mg）",
+  "slug": "exendin-4-fc-fusion-protein-injection-2-4mg",
+  "enriched_at": "2026-09-17T12:30:49Z",
+  "source_trial_ids": [
+    "NCT06257966"
+  ],
+  "sponsors": [
+    {
+      "name": "Beijing Dongfang Biotech Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Beijing%20Dongfang%20Biotech%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "60548",
+      "generic_name": "exenatide",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4303637",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Exendin-4%20Fc%20fusion%20protein%20injection%EF%BC%882.4mg%EF%BC%89+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Exendin-4%20Fc%20fusion%20protein%20injection%EF%BC%882.4mg%EF%BC%89+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Exendin-4%20Fc%20fusion%20protein%20injection%EF%BC%882.4mg%EF%BC%89+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Type2 Diabetes Mellitus",
+    "slug": "type2-diabetes-mellitus"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06257966",
+      "title": "A Phase 3 Study to Evaluate the Efficacy of JY09 Compared With Dulaglutide in Combination Therapy Diabetes Mellitus Type 2 Patients With Metformin",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06257966",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

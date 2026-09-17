@@ -1,0 +1,68 @@
+{
+  "drug_name": "[O-15]-Water PET Myocardial Perfusion Imaging (MPI)",
+  "slug": "o-15-water-pet-myocardial-perfusion-imaging-mpi",
+  "enriched_at": "2026-09-17T12:32:38Z",
+  "source_trial_ids": [
+    "NCT05134012"
+  ],
+  "sponsors": [
+    {
+      "name": "MedTrace Pharma A/S",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=MedTrace%20Pharma%20A/S&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1427071",
+      "generic_name": "water, O-15",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2106489",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=%5BO-15%5D-Water%20PET%20Myocardial%20Perfusion%20Imaging%20%28MPI%29+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=%5BO-15%5D-Water%20PET%20Myocardial%20Perfusion%20Imaging%20%28MPI%29+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=%5BO-15%5D-Water%20PET%20Myocardial%20Perfusion%20Imaging%20%28MPI%29+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Coronary Artery Disease",
+    "slug": "coronary-artery-disease"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05134012",
+      "title": "RAdiolabeled Perfusion to Identify Coronary Artery Disease Using WAter To Evaluate Responses of Myocardial FLOW (RAPID-WATER-FLOW)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05134012",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

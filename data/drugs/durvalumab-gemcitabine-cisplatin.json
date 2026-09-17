@@ -1,0 +1,150 @@
+{
+  "drug_name": "Durvalumab, Gemcitabine, Cisplatin",
+  "slug": "durvalumab-gemcitabine-cisplatin",
+  "enriched_at": "2026-09-17T12:30:21Z",
+  "source_trial_ids": [
+    "NCT06591520"
+  ],
+  "sponsors": [
+    {
+      "name": "Akeso",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Akeso&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1919503",
+      "generic_name": "durvalumab",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL3301587",
+    "target_chembl_id": "CHEMBL3580522",
+    "target_name": "Programmed cell death 1 ligand 1",
+    "mechanism_of_action_chembl": "Programmed cell death 1 ligand 1 inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Durvalumab%2C%20Gemcitabine%2C%20Cisplatin+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Durvalumab%2C%20Gemcitabine%2C%20Cisplatin+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Durvalumab%2C%20Gemcitabine%2C%20Cisplatin+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Biliary Tract Cancer",
+    "slug": "biliary-tract-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06591520",
+      "title": "AK112 Combined With Chemotherapy Versus Durvalumab Combined With Chemotherapy in Advanced Biliary Tract Cancer",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06591520",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42424063",
+        "title": "Durvalumab Plus Chemotherapy for Advanced Biliary Tract Cancer: A Post Hoc Analysis of the TOPAZ-1 Randomized Clinical Trial.",
+        "pubdate": "2026 Jul 9",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42424063/"
+      },
+      {
+        "pmid": "42402265",
+        "title": "Durvalumab with gemcitabine-based chemotherapy regimens in advanced biliary tract cancer: Primary results from the phase IIIb TOURMALINE study.",
+        "pubdate": "2026 Jul 6",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42402265/"
+      },
+      {
+        "pmid": "42372729",
+        "title": "Advanced cholangiocarcinoma in 2025: Therapeutic sequencing and global implementation.",
+        "pubdate": "2026 Jul 10",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42372729/"
+      },
+      {
+        "pmid": "42144106",
+        "title": "External validation of MAGIC-D model in Taiwanese patients with advanced biliary tract cancer receiving durvalumab and chemotherapy.",
+        "pubdate": "2026 May 16",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42144106/"
+      },
+      {
+        "pmid": "41514612",
+        "title": "Durvalumab-Based First-Line Chemoimmunotherapy in Advanced Biliary Tract Cancer: Real-World Outcomes and Prognostic Factors-A Turkish Oncology Group Study.",
+        "pubdate": "2025 Dec 29",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41514612/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "ATEZOLIZUMAB",
+        "chembl_id": "CHEMBL3707227",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      },
+      {
+        "name": "AVELUMAB",
+        "chembl_id": "CHEMBL3833373",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      },
+      {
+        "name": "SUGEMALIMAB",
+        "chembl_id": "CHEMBL4594535",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      },
+      {
+        "name": "BINTRAFUSP ALFA",
+        "chembl_id": "CHEMBL4298024",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      },
+      {
+        "name": "ENVAFOLIMAB",
+        "chembl_id": "CHEMBL4298006",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      },
+      {
+        "name": "PACMILIMAB",
+        "chembl_id": "CHEMBL4297563",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      },
+      {
+        "name": "ERFONRILIMAB",
+        "chembl_id": "CHEMBL4650483",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      },
+      {
+        "name": "SOCAZOLIMAB",
+        "chembl_id": "CHEMBL4802221",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      },
+      {
+        "name": "ADEBRELIMAB",
+        "chembl_id": "CHEMBL4297828",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      },
+      {
+        "name": "COSIBELIMAB",
+        "chembl_id": "CHEMBL4297729",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      }
+    ]
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "drug_name": "Oxycodone-Acetaminophen Matching Placebo",
+  "slug": "oxycodone-acetaminophen-matching-placebo",
+  "enriched_at": "2026-09-17T12:37:02Z",
+  "source_trial_ids": [
+    "NCT07699601",
+    "NCT07709598"
+  ],
+  "sponsors": [
+    {
+      "name": "Shanghai Huilun Pharmaceutical Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Shanghai%20Huilun%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "214183",
+      "generic_name": "acetaminophen / oxycodone",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL656",
+    "target_chembl_id": "CHEMBL233",
+    "target_name": "Mu-type opioid receptor",
+    "mechanism_of_action_chembl": "Mu opioid receptor agonist"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Oxycodone-Acetaminophen%20Matching%20Placebo+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Oxycodone-Acetaminophen%20Matching%20Placebo+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Oxycodone-Acetaminophen%20Matching%20Placebo+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Postoperative Pain",
+    "slug": "postoperative-pain"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07699601",
+      "title": "Evaluate the Safety and Efficacy of HL-1186 Tablet for Postoperative Analgesia in Orthopedic Surgery",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07699601",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT07709598",
+      "title": "Evaluate the Safety and Efficacy of HL-1186 Tablet for Postoperative Analgesia in Abdominal Surgery",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07709598",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "HYDROMORPHONE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1237055",
+        "reason": "same target: Mu-type opioid receptor"
+      },
+      {
+        "name": "OXYCODONE TEREPHTHALATE",
+        "chembl_id": "CHEMBL3989826",
+        "reason": "same target: Mu-type opioid receptor"
+      },
+      {
+        "name": "LOPERAMIDE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1707",
+        "reason": "same target: Mu-type opioid receptor"
+      },
+      {
+        "name": "TRAMADOL HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1237065",
+        "reason": "same target: Mu-type opioid receptor"
+      },
+      {
+        "name": "ALFENTANIL HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1200531",
+        "reason": "same target: Mu-type opioid receptor"
+      },
+      {
+        "name": "DIFENOXIN HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1200599",
+        "reason": "same target: Mu-type opioid receptor"
+      },
+      {
+        "name": "DIPHENOXYLATE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1200665",
+        "reason": "same target: Mu-type opioid receptor"
+      },
+      {
+        "name": "FENTANYL HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1201159",
+        "reason": "same target: Mu-type opioid receptor"
+      },
+      {
+        "name": "FENTANYL CITRATE",
+        "chembl_id": "CHEMBL688",
+        "reason": "same target: Mu-type opioid receptor"
+      },
+      {
+        "name": "OXYCODONE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1200890",
+        "reason": "same target: Mu-type opioid receptor"
+      }
+    ]
+  }
+}

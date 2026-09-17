@@ -1,0 +1,150 @@
+{
+  "drug_name": "Aflibercept (EYLEA®)",
+  "slug": "aflibercept-eylea",
+  "enriched_at": "2026-09-17T12:29:11Z",
+  "source_trial_ids": [
+    "NCT05407636"
+  ],
+  "sponsors": [
+    {
+      "name": "AbbVie",
+      "ticker": "ABBV",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001551152&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1723182",
+      "generic_name": "aflibercept Injection [Eylea]",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1742982",
+    "target_chembl_id": "CHEMBL1783",
+    "target_name": "Vascular endothelial growth factor A, long form",
+    "mechanism_of_action_chembl": "Vascular endothelial growth factor A inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Aflibercept%20%28EYLEA%C2%AE%29+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Aflibercept%20%28EYLEA%C2%AE%29+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Aflibercept%20%28EYLEA%C2%AE%29+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "AMD",
+    "slug": "amd"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05407636",
+      "title": "Pivotal 2 Study of RGX-314 Gene Therapy in Participants With nAMD",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05407636",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42739526",
+        "title": "Safety and Efficacy of Brolucizumab in the Treatment of Patients with Diabetic Macular Edema and Diabetic Retinopathy: A Systematic Review and Meta-Analysis.",
+        "pubdate": "2026 Aug 23",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42739526/"
+      },
+      {
+        "pmid": "42717802",
+        "title": "Real-World Dosing Intervals for Long-Acting Anti-VEGF Intravitreal Injection Therapies in nAMD and DME: Academy IRIS(®) Registry Analysis.",
+        "pubdate": "2026 Sep 10",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42717802/"
+      },
+      {
+        "pmid": "42622958",
+        "title": "Four-Year Outcomes of Faricimab in Diabetic Macular Edema in the RHONE-X Extension Trial: A Podcast.",
+        "pubdate": "2026 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42622958/"
+      },
+      {
+        "pmid": "42611864",
+        "title": "Association Between Anti-vascular Endothelial Growth Factor Therapy Exposure and Visual Outcomes in Diabetic Macular Edema and Retinal Vein Occlusion.",
+        "pubdate": "2026 Aug 7",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42611864/"
+      },
+      {
+        "pmid": "42567877",
+        "title": "Aflibercept 8 mg in neovascular age-related macular degeneration and diabetic macular oedema: Translating clinical trials into clinical practice.",
+        "pubdate": "2026 Aug 7",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42567877/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "PEGAPTANIB SODIUM",
+        "chembl_id": "CHEMBL1201421",
+        "reason": "same target: Vascular endothelial growth factor A, long form"
+      },
+      {
+        "name": "RANIBIZUMAB",
+        "chembl_id": "CHEMBL1201825",
+        "reason": "same target: Vascular endothelial growth factor A, long form"
+      },
+      {
+        "name": "BEVACIZUMAB",
+        "chembl_id": "CHEMBL1201583",
+        "reason": "same target: Vascular endothelial growth factor A, long form"
+      },
+      {
+        "name": "BEVACIZUMAB 111IN",
+        "chembl_id": "CHEMBL3707253",
+        "reason": "same target: Vascular endothelial growth factor A, long form"
+      },
+      {
+        "name": "MUPARFOSTAT",
+        "chembl_id": "CHEMBL4297163",
+        "reason": "same target: Vascular endothelial growth factor A, long form"
+      },
+      {
+        "name": "CONBERCEPT",
+        "chembl_id": "CHEMBL2108313",
+        "reason": "same target: Vascular endothelial growth factor A, long form"
+      },
+      {
+        "name": "BROLUCIZUMAB",
+        "chembl_id": "CHEMBL3707357",
+        "reason": "same target: Vascular endothelial growth factor A, long form"
+      },
+      {
+        "name": "VANUCIZUMAB",
+        "chembl_id": "CHEMBL3545259",
+        "reason": "same target: Vascular endothelial growth factor A, long form"
+      },
+      {
+        "name": "FARICIMAB",
+        "chembl_id": "CHEMBL4297750",
+        "reason": "same target: Vascular endothelial growth factor A, long form"
+      },
+      {
+        "name": "ABICIPAR PEGOL",
+        "chembl_id": "CHEMBL4297684",
+        "reason": "same target: Vascular endothelial growth factor A, long form"
+      }
+    ]
+  }
+}

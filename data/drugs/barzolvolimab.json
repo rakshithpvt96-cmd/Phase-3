@@ -1,0 +1,107 @@
+{
+  "drug_name": "barzolvolimab",
+  "slug": "barzolvolimab",
+  "enriched_at": "2026-09-17T12:29:34Z",
+  "source_trial_ids": [
+    "NCT06445023",
+    "NCT06455202"
+  ],
+  "sponsors": [
+    {
+      "name": "Celldex Therapeutics",
+      "ticker": "CLDX",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000744218&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2686261",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL5095266",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=barzolvolimab+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=barzolvolimab+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=barzolvolimab+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Chronic Spontaneous Urticaria",
+    "slug": "chronic-spontaneous-urticaria"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06445023",
+      "title": "A Phase 3 Study of Barzolvolimab in Participants With Chronic Spontaneous Urticaria",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06445023",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06455202",
+      "title": "A Phase 3 Study of Barzolvolimab in Participants With Chronic Spontaneous Urticaria (CSU)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06455202",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42645084",
+        "title": "Emerging and Newly Approved Therapies for Antihistamine-Refractory Chronic Spontaneous Urticaria: A Narrative Review.",
+        "pubdate": "2026 Jul 31",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42645084/"
+      },
+      {
+        "pmid": "41654334",
+        "title": "Systemic Treatments for Chronic Spontaneous Urticaria: Anti-IgE and Beyond.",
+        "pubdate": "2026 Feb",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41654334/"
+      },
+      {
+        "pmid": "41535531",
+        "title": "Improvement of Chronic Spontaneous Urticaria After Glucagon-Like Peptide 1 Receptor Agonist Therapy: Report of Two Cases.",
+        "pubdate": "2026 Feb",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41535531/"
+      },
+      {
+        "pmid": "41270830",
+        "title": "Emerging IgE and non-IgE targeted therapies for chronic urticaria.",
+        "pubdate": "2026 Mar",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41270830/"
+      },
+      {
+        "pmid": "41137821",
+        "title": "The Role of Mast Cells in the Pathophysiology of Chronic Prurigo.",
+        "pubdate": "2026 Apr",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41137821/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

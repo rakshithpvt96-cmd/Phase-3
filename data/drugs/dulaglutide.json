@@ -1,0 +1,150 @@
+{
+  "drug_name": "Dulaglutide",
+  "slug": "dulaglutide",
+  "enriched_at": "2026-09-17T12:30:12Z",
+  "source_trial_ids": [
+    "NCT06257966"
+  ],
+  "sponsors": [
+    {
+      "name": "Beijing Dongfang Biotech Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Beijing%20Dongfang%20Biotech%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1551291",
+      "generic_name": "dulaglutide",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2108027",
+    "target_chembl_id": "CHEMBL1784",
+    "target_name": "Glucagon-like peptide 1 receptor",
+    "mechanism_of_action_chembl": "Glucagon-like peptide 1 receptor agonist"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action TRULICITY contains dulaglutide, which is a human GLP-1 receptor agonist with 90% amino acid sequence homology to endogenous human GLP-1 (7-37). Dulaglutide activates the GLP-1 receptor, a membrane-bound cell-surface receptor coupled to adenylyl cyclase in pancreatic beta cells. Dulaglutide increases intracellular cyclic AMP (cAMP) in beta cells leading to glucose-dependent insulin release. Dulaglutide also decreases glucagon secretion and slows gastric emptying.",
+    "pharmacokinetics": "12.3 Pharmacokinetics The pharmacokinetics of dulaglutide is similar between healthy subjects and patients with type 2 diabetes mellitus. Following subcutaneous administration, the time to maximum plasma concentration of dulaglutide at steady state ranges from 24 to 72 hours, with a median of 48 hours. After reaching steady state, the accumulation ratio was approximately 1.56. Steady-state plasma dulaglutide concentrations were achieved between 2 and 4 weeks following once weekly administration. Site of subcutaneous administration (abdomen, upper arm, and thigh) had no statistically significant effect on the exposure to dulaglutide. Absorption – The mean absolute bioavailability of dulaglutide following subcutaneous administration of single 0.75 mg and 1.5 mg doses was 65% and 47%, respectively. Absolute subcutaneous bioavailability for 3 mg and 4.5 mg doses were estimated to be similar to 1.5 mg although this has not been specifically studied. Dulaglutide concentrations increased approximately proportional to dose from 0.75 mg to 4.5 mg. Distribution – Apparent population mean central volume of distribution was 3.09 L and the apparent population mean peripheral volume of distribution was 5.98 L. Elimination The apparent population mean clearance of dulaglutide was 0.142 L/h. The elimination half-life of dulaglutide was approximately 5 days. Metabolism – Dulaglutide is presumed to be degraded into its component amino acids by general protein catabolism pathways. Specific Populations The intrinsic factors of age (≥ 65 years), sex, race, ethnicity, body weight, or renal or hepatic impairment did not have a clinically relevant effect on the PK of dulaglutide as shown in Figure 1 . Abbreviations: AUC = area under the time-concentration curve; CI = confidence interval; C max = maximum concentration; ESRD = end-stage renal disease; PK = pharmacokinetics. Note: Reference values for weight, age, gender, and race comparisons are 93 kg, 56 years old, male, and white, respectively; reference groups for renal and hepatic impairment data are subjects with normal renal and hepatic function from the respective clinical pharmacology studies. The weight values shown in the plot (70 and 120 kg) are the 10 th and 90 th percentiles of weight in the PK population. Figure 1: Impact of intrinsic factors on dulaglutide pharmacokinetics. Figure 1 Pediatric Patients A population pharmacokinetic analysis was conducted for dulaglutide 0.75 mg and 1.5 mg using data from 128 pediatric patients 10 years of age and older with type 2 diabetes mellitus. The AUC in pediatric patients was approximately 37% lower than that in adult patients. However, this difference was not determined to be clinically meaningful. Patients with Renal Impairment Dulaglutide systemic exposure was increased by 20, 28, 14 and 12% for mild, moderate, severe, and ESRD renal impairment sub-groups, respectively, compared to subjects with normal renal function. The corresponding values for increase in C max were 13, 23, 20 and 11%, respectively ( Figure 1 ). Additionally, in a 52 week clinical trial in patients with type 2 diabetes mellitus and moderate to severe renal impairment, the PK behavior of TRULICITY 0.75 mg and 1.5 mg once weekly was similar to that demonstrated in previous clinical studies [see Warning and Precautions ( 5.5 ), Use in Specific Populations ( 8.6 )] . Patients with Hepatic Impairment Dulaglutide systemic exposure decreased by 23, 33 and 21% for mild, moderate and severe hepatic impairment groups, respectively, compared to subjects with normal hepatic function, and C max was decreased by a similar magnitude ( Figure 1 ) [see Use in Specific Populations ( 8.7 )] . Drug Interaction Studies The potential effect of co-administered medications on the PK of dulaglutide 1.5 mg and vice versa was studied in several single- and multiple-dose studies in healthy subjects, patients with type 2 diabetes mellitus, and patients with hypertension. Potential for Dulaglutide to Influence the Pharmacokinetics of Other Drugs Dulaglutide slows gastric emptying and, as a result, may reduce the extent and rate of absorption of orally co-administered medications. In clinical pharmacology studies, dulaglutide at a dose of 1.5 mg did not affect the absorption of the tested orally administered medications to any clinically relevant degree. The delay in gastric emptying is dose-dependent but is attenuated with the recommended dose escalation to higher doses of TRULICITY [see Dosage and Administration ( 2.1 ), Drug Interactions ( 7.1 )] . The delay is largest after the first dose and diminishes with subsequent doses. PK measures indicating the magnitude of these interactions are presented in Figure 2 . Abbreviations: AUC = area under the time-concentration curve; CI = confidence interval; C max = maximum concentration; PK = pharmacokinetics. Note: Reference group is co-administered medication given alone. Figure 2: Impact of dulaglutide 1.5 mg on the pharmacokinetics of co-administered medications. Figure 2 Potential for Co-administered Drugs to Influence the Pharmacokinetics of Dulaglutide In a clinical pharmacology study, the co-administration of a single dose of 1.5 mg dulaglutide with steady-state dose of 100 mg sitagliptin caused an increase in dulaglutide AUC and C max of approximately 38% and 27%, which is not considered clinically relevant.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE TRULICITY ® is indicated: As an adjunct to diet and exercise to improve glycemic control in adults and pediatric patients 10 years of age and older with type 2 diabetes mellitus. To reduce the risk of major adverse cardiovascular events (cardiovascular death, non-fatal myocardial infarction, or non-fatal stroke) in adults with type 2 diabetes mellitus who have established cardiovascular disease or multiple cardiovascular risk factors. TRULICITY ® is a glucagon-like peptide-1 (GLP-1) receptor agonist indicated ( 1 ): As an adjunct to diet and exercise to improve glycemic control in adults and pediatric patients 10 years of age and older with type 2 diabetes mellitus. To reduce the risk of major adverse cardiovascular events in adults with type 2 diabetes mellitus who have established cardiovascular disease or multiple cardiovascular risk factors. Limitations of Use: Has not been studied in patients with a history of pancreatitis. Consider other antidiabetic therapies in these patients ( 1 , 5.2 ). Not for treatment of type 1 diabetes mellitus ( 1 ). Not recommended in patients with severe gastrointestinal disease, including severe gastroparesis ( 1 , 5.6 ). Limitations of Use TRULICITY: Has not been studied in patients with a history of pancreatitis [see Warnings and Precautions ( 5.2 )] . Consider other antidiabetic therapies in patients with a history of pancreatitis. Should not be used in patients with type 1 diabetes mellitus. Has not been studied in patients with severe gastrointestinal disease, including severe gastroparesis and is therefore not recommended in these patients [see Warnings and Precautions ( 5.6 )] .",
+    "boxed_warning": "WARNING: RISK OF THYROID C-CELL TUMORS In male and female rats, dulaglutide causes a dose-related and treatment-duration-dependent increase in the incidence of thyroid C-cell tumors (adenomas and carcinomas) after lifetime exposure. It is unknown whether TRULICITY causes thyroid C-cell tumors, including medullary thyroid carcinoma (MTC), in humans as human relevance of dulaglutide-induced rodent thyroid C-cell tumors has not been determined [see Warnings and Precautions ( 5.1 ), and Nonclinical Toxicology ( 13.1 )] . TRULICITY is contraindicated in patients with a personal or family history of MTC and in patients with Multiple Endocrine Neoplasia syndrome type 2 (MEN 2). Counsel patients regarding the potential risk of MTC with use of TRULICITY and inform them of symptoms of thyroid tumors (e.g., mass in the neck, dysphagia, dyspnea, persistent hoarseness). Routine monitoring of serum calcitonin or using thyroid ultrasound is of uncertain value for early detection of MTC in patients treated with TRULICITY [see Contraindications ( 4 ) and Warnings and Precautions ( 5.1 )] . WARNING: RISK OF THYROID C-CELL TUMORS See full prescribing information for complete boxed warning. Dulaglutide causes thyroid C-cell tumors in rats. It is unknown whether TRULICITY causes thyroid C-cell tumors, including medullary thyroid carcinoma (MTC), in humans as the human relevance of dulaglutide-induced rodent thyroid C-cell tumors has not been determined ( 5.1 , 13.1 ). TRULICITY is contraindicated in patients with a personal or family history of MTC and in patients with Multiple Endocrine Neoplasia syndrome type 2 (MEN 2). Counsel patients regarding the potential risk of MTC and symptoms of thyroid tumors ( 4 , 5.1 ).",
+    "openfda_brand_names": [
+      "TRULICITY"
+    ],
+    "openfda_generic_names": [
+      "DULAGLUTIDE"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=463050bd-2b1c-40f5-b3c3-0a04bb433309",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Type2 Diabetes Mellitus",
+    "slug": "type2-diabetes-mellitus"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06257966",
+      "title": "A Phase 3 Study to Evaluate the Efficacy of JY09 Compared With Dulaglutide in Combination Therapy Diabetes Mellitus Type 2 Patients With Metformin",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06257966",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42608321",
+        "title": "Retatrutide-Associated Improvements in Cardiovascular Risk Biomarkers in Adults With Obesity With or Without Type 2 Diabetes.",
+        "pubdate": "2026 Aug 17",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42608321/"
+      },
+      {
+        "pmid": "42572119",
+        "title": "Predicted 10-Year Cardiovascular Disease Risk Reduction with Tirzepatide Use Over Three Years for Primary Prevention of Cardiovascular Disease in Obesity.",
+        "pubdate": "2026 Aug 10",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42572119/"
+      },
+      {
+        "pmid": "42518911",
+        "title": "Real-World Comparative Weight Loss of GLP-1 Receptor Agonists in the All of Us Research Program: A Retrospective Cohort Study.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42518911/"
+      },
+      {
+        "pmid": "42380920",
+        "title": "Assessing the risk of diabetic retinopathy progression with GLP-1 receptor agonists: a systematic review and meta-analysis.",
+        "pubdate": "2026 Jun 30",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42380920/"
+      },
+      {
+        "pmid": "42317925",
+        "title": "Potential of Glucagon-Like Peptide-1 (GLP-1) Receptor Agonists in Mitigating Metabolic Side Effects Associated With Clozapine or Olanzapine Therapy: A Literature Review.",
+        "pubdate": "2026 May",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42317925/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "LIRAGLUTIDE",
+        "chembl_id": "CHEMBL4084119",
+        "reason": "same target: Glucagon-like peptide 1 receptor"
+      },
+      {
+        "name": "EXENATIDE",
+        "chembl_id": "CHEMBL414357",
+        "reason": "same target: Glucagon-like peptide 1 receptor"
+      },
+      {
+        "name": "ALBIGLUTIDE",
+        "chembl_id": "CHEMBL2107841",
+        "reason": "same target: Glucagon-like peptide 1 receptor"
+      },
+      {
+        "name": "TASPOGLUTIDE",
+        "chembl_id": "CHEMBL2107860",
+        "reason": "same target: Glucagon-like peptide 1 receptor"
+      },
+      {
+        "name": "SEMAGLUTIDE",
+        "chembl_id": "CHEMBL2108724",
+        "reason": "same target: Glucagon-like peptide 1 receptor"
+      },
+      {
+        "name": "LIXISENATIDE",
+        "chembl_id": "CHEMBL2108336",
+        "reason": "same target: Glucagon-like peptide 1 receptor"
+      },
+      {
+        "name": "DANUGLIPRON",
+        "chembl_id": "CHEMBL4518483",
+        "reason": "same target: Glucagon-like peptide 1 receptor"
+      },
+      {
+        "name": "COTADUTIDE",
+        "chembl_id": "CHEMBL4297630",
+        "reason": "same target: Glucagon-like peptide 1 receptor"
+      },
+      {
+        "name": "EFINOPEGDUTIDE",
+        "chembl_id": "CHEMBL4297576",
+        "reason": "same target: Glucagon-like peptide 1 receptor"
+      },
+      {
+        "name": "AVEXITIDE",
+        "chembl_id": "CHEMBL4297949",
+        "reason": "same target: Glucagon-like peptide 1 receptor"
+      }
+    ]
+  }
+}

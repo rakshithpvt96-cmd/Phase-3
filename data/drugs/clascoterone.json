@@ -1,0 +1,156 @@
+{
+  "drug_name": "Clascoterone",
+  "slug": "clascoterone",
+  "enriched_at": "2026-09-17T12:35:37Z",
+  "source_trial_ids": [
+    "NCT06403501"
+  ],
+  "sponsors": [
+    {
+      "name": "Zhejiang Sunshine Mandi Pharmaceutical Co.,Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Zhejiang%20Sunshine%20Mandi%20Pharmaceutical%20Co.%2CLtd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 11750009,
+    "iupac_name": "[(8R,9S,10R,13S,14S,17R)-17-(2-hydroxyacetyl)-10,13-dimethyl-3-oxo-2,6,7,8,9,11,12,14,15,16-decahydro-1H-cyclopenta[a]phenanthren-17-yl] propanoate",
+    "molecular_formula": "C24H34O5",
+    "molecular_weight": "402.5",
+    "canonical_smiles": null,
+    "inchikey": "GPNHMOZDMYNCPO-PDUMRIMRSA-N",
+    "rxnorm": {
+      "rxcui": "2474340",
+      "generic_name": "clascoterone",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL3590187",
+    "target_chembl_id": "CHEMBL1871",
+    "target_name": "Androgen receptor",
+    "mechanism_of_action_chembl": "Androgen Receptor antagonist"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Clascoterone is an androgen receptor inhibitor. The mechanism of action of WINLEVI cream for the topical treatment of acne vulgaris is unknown.",
+    "pharmacokinetics": "12.3 Pharmacokinetics Absorption Following topical treatment of WINLEVI cream for 2 weeks with a mean dose of approximately 6 grams applied twice daily to adult subjects with moderate to severe acne vulgaris (n=20), systemic concentrations of clascoterone were at steady state by Day 5. On Day 14, the mean ± SD maximum plasma concentration (C max ) was 4.5 ± 2.9 ng/mL, the mean ± SD area under the plasma concentration-time over the dosing interval (AUC ꞇ ) was 37.1 ± 22.3 h*ng/mL and the mean ± SD average plasma concentration (C avg ) was 3.1 ± 1.9 ng/mL. Distribution Plasma protein binding of clascoterone is 84% to 89% and is independent of concentrations, in vitro. Elimination Metabolism Following topical treatment with WINLEVI cream, the plasma concentrations of cortexolone, a possible primary metabolite of clascoterone, were detectable and generally below or near the lower limit of quantitation (0.5 ng/mL) in subjects ≥12 years of age with acne vulgaris. The in vitro study indicated that incubation of 10 µmol/L clascoterone with human cryopreserved hepatocytes generated cortexolone as the possible primary metabolite and other unidentified metabolites, including conjugated metabolites. Excretion Excretion of clascoterone has not been fully characterized in humans. Specific Populations Pediatric Patients In adolescent subjects ≥ 12 to <18 years of age (n=22) after 2 weeks of twice daily treatment with mean dose of approximately 6 grams of WINLEVI cream (or mean dose of approximately 4 grams in younger, smaller subjects), steady-state concentrations of clascoterone were achieved by Day 5. Clascoterone systemic exposure in adolescents was similar to those observed in adults. Drug Interaction Studies Clinical Studies No clinical studies evaluating the drug interaction potential of WINLEVI cream have been conducted. In Vitro Studies CYP Enzymes: Clascoterone inhibited CYP 1A2, 2B6, 2C8, 2C9, 2C19, 2D6, 2E1, or 3A4 with an IC 50 value of >40 µM. Clascoterone up to 30 µM did not induce CYP 1A2, 2B6, or 3A4. These findings suggest that WINLEVI cream has no clinically meaningful effect on the PK of drugs metabolized by CYP 1A2, 2B6, 2C8, 2C9, 2C19, 2D6, 2E1, or 3A4.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE WINLEVI (clascoterone) cream is an androgen receptor inhibitor indicated for the topical treatment of acne vulgaris in patients 12 years of age and older. WINLEVI (clascoterone) cream is an androgen receptor inhibitor indicated for the topical treatment of acne vulgaris in patients 12 years of age and older. ( 1 )",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "Winlevi"
+    ],
+    "openfda_generic_names": [
+      "CLASCOTERONE"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1673a84b-7f5c-47ab-a99c-1e3db21a6a09",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Acne Vulgaris",
+    "slug": "acne-vulgaris"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06403501",
+      "title": "Efficacy and Safety of Clascoterone Cream 1% in Facial Acne Vulgaris",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06403501",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42653799",
+        "title": "Clascoterone in the Treatment of Acne Vulgaris: A Narrative Review.",
+        "pubdate": "2026 Aug 18",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42653799/"
+      },
+      {
+        "pmid": "42555080",
+        "title": "Clascoterone Cream 1% is Safe and Effective for Papulopustular Rosacea: A Phase 2 Clinical Trial.",
+        "pubdate": "2026 Aug 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42555080/"
+      },
+      {
+        "pmid": "41642149",
+        "title": "Efficacy and Safety of Clascoterone Cream 1% for Acne Are Independent of Age and Sex.",
+        "pubdate": "2026 Feb 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41642149/"
+      },
+      {
+        "pmid": "39751745",
+        "title": "Hormonal Therapies for Acne: A Comprehensive Update for Dermatologists.",
+        "pubdate": "2025 Jan",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39751745/"
+      },
+      {
+        "pmid": "38733511",
+        "title": "Comparison of the Efficacy of Clascoterone, Trifarotene, and Tazarotene for the Treatment of Acne: A Systematic Literature Review and Meta-Analysis.",
+        "pubdate": "2024 May",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38733511/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "OXYMETHOLONE",
+        "chembl_id": "CHEMBL1200585",
+        "reason": "same target: Androgen receptor"
+      },
+      {
+        "name": "FLUTAMIDE",
+        "chembl_id": "CHEMBL806",
+        "reason": "same target: Androgen receptor"
+      },
+      {
+        "name": "NILUTAMIDE",
+        "chembl_id": "CHEMBL1274",
+        "reason": "same target: Androgen receptor"
+      },
+      {
+        "name": "DROMOSTANOLONE PROPIONATE",
+        "chembl_id": "CHEMBL1201048",
+        "reason": "same target: Androgen receptor"
+      },
+      {
+        "name": "BICALUTAMIDE",
+        "chembl_id": "CHEMBL409",
+        "reason": "same target: Androgen receptor"
+      },
+      {
+        "name": "METHYLTESTOSTERONE",
+        "chembl_id": "CHEMBL1395",
+        "reason": "same target: Androgen receptor"
+      },
+      {
+        "name": "ETHYLESTRENOL",
+        "chembl_id": "CHEMBL1200623",
+        "reason": "same target: Androgen receptor"
+      },
+      {
+        "name": "STANOZOLOL",
+        "chembl_id": "CHEMBL2079587",
+        "reason": "same target: Androgen receptor"
+      },
+      {
+        "name": "TESTOSTERONE PROPIONATE",
+        "chembl_id": "CHEMBL1170",
+        "reason": "same target: Androgen receptor"
+      },
+      {
+        "name": "TESTOSTERONE ENANTHATE",
+        "chembl_id": "CHEMBL1200335",
+        "reason": "same target: Androgen receptor"
+      }
+    ]
+  }
+}

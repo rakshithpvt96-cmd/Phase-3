@@ -1,8 +1,9 @@
 {
   "drug_name": "Vehicle Cream",
   "slug": "vehicle-cream",
-  "enriched_at": "2026-09-14T14:17:46Z",
+  "enriched_at": "2026-09-17T12:34:32Z",
   "source_trial_ids": [
+    "NCT06403501",
     "NCT06832618"
   ],
   "sponsors": [
@@ -11,6 +12,12 @@
       "ticker": "INCY",
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000879169&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Zhejiang Sunshine Mandi Pharmaceutical Co.,Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Zhejiang%20Sunshine%20Mandi%20Pharmaceutical%20Co.%2CLtd.&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
@@ -48,6 +55,13 @@
     "slug": "atopic-dermatitis"
   },
   "source_trials": [
+    {
+      "nct_id": "NCT06403501",
+      "title": "Efficacy and Safety of Clascoterone Cream 1% in Facial Acne Vulgaris",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06403501",
+      "has_results": false
+    },
     {
       "nct_id": "NCT06832618",
       "title": "A Study to Assess the Efficacy and Safety of Ruxolitinib Cream in Children and Adolescents (6 to <18 Years Old) With Moderate Atopic Dermatitis",

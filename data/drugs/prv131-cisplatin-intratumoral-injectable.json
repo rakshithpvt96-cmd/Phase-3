@@ -1,0 +1,68 @@
+{
+  "drug_name": "PRV131 (Cisplatin Intratumoral Injectable)",
+  "slug": "prv131-cisplatin-intratumoral-injectable",
+  "enriched_at": "2026-09-17T12:37:26Z",
+  "source_trial_ids": [
+    "NCT05893888"
+  ],
+  "sponsors": [
+    {
+      "name": "Privo Technologies",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Privo%20Technologies&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1736853",
+      "generic_name": "cisplatin Injection",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL197201",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=PRV131%20%28Cisplatin%20Intratumoral%20Injectable%29+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=PRV131%20%28Cisplatin%20Intratumoral%20Injectable%29+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=PRV131%20%28Cisplatin%20Intratumoral%20Injectable%29+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Oral Squamous Cell Carcinoma",
+    "slug": "oral-squamous-cell-carcinoma"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05893888",
+      "title": "A Study Evaluating the Safety and Efficacy of PRV111, PRV211, and PRV131 in Subjects With Oral and Lung Cancers",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05893888",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

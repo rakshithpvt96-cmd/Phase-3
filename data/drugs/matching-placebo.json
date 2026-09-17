@@ -1,11 +1,19 @@
 {
   "drug_name": "Matching placebo",
   "slug": "matching-placebo",
-  "enriched_at": "2026-09-14T14:26:43Z",
+  "enriched_at": "2026-09-17T12:31:14Z",
   "source_trial_ids": [
+    "NCT06445023",
+    "NCT06455202",
     "NCT07042126"
   ],
   "sponsors": [
+    {
+      "name": "Celldex Therapeutics",
+      "ticker": "CLDX",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000744218&type=10-K&dateb=&owner=include&count=40"
+    },
     {
       "name": "Sunshine Guojian Pharmaceutical (Shanghai) Co., Ltd.",
       "ticker": null,
@@ -48,6 +56,20 @@
     "slug": "dermatitis-atopic"
   },
   "source_trials": [
+    {
+      "nct_id": "NCT06445023",
+      "title": "A Phase 3 Study of Barzolvolimab in Participants With Chronic Spontaneous Urticaria",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06445023",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06455202",
+      "title": "A Phase 3 Study of Barzolvolimab in Participants With Chronic Spontaneous Urticaria (CSU)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06455202",
+      "has_results": false
+    },
     {
       "nct_id": "NCT07042126",
       "title": "Evaluation of 611 in Chinese Adolescents With Moderate to Severe Atopic Dermatitis",

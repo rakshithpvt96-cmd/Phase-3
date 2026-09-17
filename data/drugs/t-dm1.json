@@ -1,0 +1,99 @@
+{
+  "drug_name": "T-DM1",
+  "slug": "t-dm1",
+  "enriched_at": "2026-09-17T12:34:08Z",
+  "source_trial_ids": [
+    "NCT06316531"
+  ],
+  "sponsors": [
+    {
+      "name": "Sichuan Baili Pharmaceutical Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Sichuan%20Baili%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1371041",
+      "generic_name": "ado-trastuzumab emtansine",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL228868",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=T-DM1+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=T-DM1+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=T-DM1+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "HER2-positive Breast Cancer",
+    "slug": "her2-positive-breast-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06316531",
+      "title": "A Study Comparing BL-M07D1 With T-DM1 in Patients With Unresectable Locally Advanced or Metastatic HER2-positive Breast Cancer",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06316531",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42658187",
+        "title": "A Phase 2 Basket Trial of Ado-Trastuzumab Emtansine for Patients with HER2 Amplified Cancers: A Non-Randomized Clinical Trial.",
+        "pubdate": "2026 Aug 27",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42658187/"
+      },
+      {
+        "pmid": "41903301",
+        "title": "Phase Ia/Ib trial of the safety and efficacy of mobocertinib in combination with T-DM1 for patients with HER2-mutant solid tumors (WJOG16022M).",
+        "pubdate": "2026 May 2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41903301/"
+      },
+      {
+        "pmid": "41463194",
+        "title": "Antibody-Drug Conjugates and Beyond: Next-Generation Targeted Therapies for Breast Cancer.",
+        "pubdate": "2025 Dec 10",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41463194/"
+      },
+      {
+        "pmid": "41370739",
+        "title": "Trastuzumab Deruxtecan in Residual HER2-Positive Early Breast Cancer.",
+        "pubdate": "2026 Feb 26",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41370739/"
+      },
+      {
+        "pmid": "41206886",
+        "title": "Cardiotoxic Effects of Antibody Drug Conjugates vs Standard Chemotherapy in ERBB2-Positive Advanced Breast Cancer: A Systematic Review and Meta-Analysis.",
+        "pubdate": "2025 Nov 3",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41206886/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "drug_name": "tapinarof cream, 1%",
+  "slug": "tapinarof-cream-1",
+  "enriched_at": "2026-09-17T12:34:17Z",
+  "source_trial_ids": [
+    "NCT05172726"
+  ],
+  "sponsors": [
+    {
+      "name": "Organon and Co",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Organon%20and%20Co&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2602301",
+      "generic_name": "tapinarof 10 MG/ML Topical Cream",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL259571",
+    "target_chembl_id": "CHEMBL3201",
+    "target_name": "Aryl hydrocarbon receptor",
+    "mechanism_of_action_chembl": "Aryl hydrocarbon receptor agonist"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=tapinarof%20cream%2C%201%25+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=tapinarof%20cream%2C%201%25+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=tapinarof%20cream%2C%201%25+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Plaque Psoriasis",
+    "slug": "plaque-psoriasis"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05172726",
+      "title": "Tapinarof for the Treatment of Plaque Psoriasis in Pediatric Subjects",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05172726",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "40960153",
+        "title": "Efficacy and safety of benvitimod 1% cream for atopic dermatitis in patients aged 2 years and older: A phase III randomized clinical trial.",
+        "pubdate": "2025 Sep 16",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40960153/"
+      },
+      {
+        "pmid": "40696240",
+        "title": "Tapinarof Cream for Adults and Children with Atopic Dermatitis-Efficacy by Race and Fitzpatrick Skin Type in Two Phase 3 Randomized Clinical Trials.",
+        "pubdate": "2025 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40696240/"
+      },
+      {
+        "pmid": "40600584",
+        "title": "Characteristics and management of follicular events and contact dermatitis in patients using tapinarof cream for the treatment of atopic dermatitis or plaque psoriasis.",
+        "pubdate": "2025 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40600584/"
+      },
+      {
+        "pmid": "40465504",
+        "title": "Rapid Onset of Itch Relief With Tapinarof in Two Phase 3 Trials in Atopic Dermatitis.",
+        "pubdate": "2025 Jun 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40465504/"
+      },
+      {
+        "pmid": "40383273",
+        "title": "Skin clearance, duration of treatment-free interval, and safety of tapinarof cream 1% once daily: Results from ADORING 3, a 48-week phase 3 open-label extension trial in adults and children down to 2 years of age with atopic dermatitis.",
+        "pubdate": "2025 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40383273/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "MC2-01 cream",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Hangzhou Zhongmei Huadong Pharmaceutical Co., Ltd."
+      },
+      {
+        "name": "MC2-01 vehicle",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Hangzhou Zhongmei Huadong Pharmaceutical Co., Ltd."
+      },
+      {
+        "name": "CAL/BDP Gel",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Hangzhou Zhongmei Huadong Pharmaceutical Co., Ltd."
+      },
+      {
+        "name": "Apremilast",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Amgen"
+      }
+    ]
+  }
+}
