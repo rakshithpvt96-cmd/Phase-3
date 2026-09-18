@@ -1,23 +1,16 @@
 {
   "drug_name": "Lenalidomide",
   "slug": "lenalidomide",
-  "enriched_at": "2026-08-19T07:43:25Z",
+  "enriched_at": "2026-09-18T12:08:49Z",
   "source_trial_ids": [
-    "NCT04712097",
     "NCT04824092"
   ],
   "sponsors": [
     {
-      "name": "Hoffmann-La Roche",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hoffmann-La%20Roche&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
       "name": "Incyte Corporation",
-      "ticker": null,
+      "ticker": "INCY",
       "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Incyte%20Corporation&type=10-K&dateb=&owner=include&count=40"
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000879169&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
@@ -52,22 +45,15 @@
     "openfda_generic_names": [
       "LENALIDOMIDE"
     ],
-    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5fa97bf5-28a2-48f1-8955-f56012d296be",
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9943e098-20b0-dbb3-af12-7816eedd3f70",
     "note": null,
     "further_reading": null
   },
   "condition": {
-    "raw": "Relapsed or Refractory Follicular Lymphoma",
-    "slug": "relapsed-or-refractory-follicular-lymphoma"
+    "raw": "Diffuse Large B-cell Lymphoma",
+    "slug": "diffuse-large-b-cell-lymphoma"
   },
   "source_trials": [
-    {
-      "nct_id": "NCT04712097",
-      "title": "A Study Evaluating the Efficacy and Safety of Mosunetuzumab in Combination With Lenalidomide in Comparison to Rituximab in Combination With Lenalidomide With a US Extension of Mosunetuzumab in Combination With Lenalidomide in Participants With Follicular Lymphoma",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT04712097",
-      "has_results": false
-    },
     {
       "nct_id": "NCT04824092",
       "title": "Tafasitamab + Lenalidomide + R-CHOP Versus R-CHOP in Newly Diagnosed High-intermediate and High Risk DLBCL Patients",
@@ -80,34 +66,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42746074",
+        "title": "Myeloma-Associated Sporadic Late-Onset Nemaline Myopathy, Successfully Treated with Daratumumab Based Induction and Autologous Stem Cell Transplantation: A Case Report.",
+        "pubdate": "2026 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42746074/"
+      },
+      {
+        "pmid": "42701201",
+        "title": "Inflammatory bone marrow microenvironment impairs the therapeutic effect of daratumumab-lenalidomide in multiple myeloma.",
+        "pubdate": "2026 Sep 5",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42701201/"
+      },
+      {
+        "pmid": "42660129",
+        "title": "Epcoritamab with rituximab and lenalidomide as first-line treatment for follicular lymphoma (EPCORE NHL-2): an open-label, multicentre, phase 1/2 b trial.",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42660129/"
+      },
+      {
+        "pmid": "42630703",
+        "title": "Persistence to Multiple Myeloma Treatments Given at First Relapse-Results From the Australian Real-World OPTIMISE Study.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42630703/"
+      },
+      {
         "pmid": "42544613",
         "title": "Selinexor combined bortezomib, lenalidomide, and dexamethasone for newly diagnosed multiple myeloma with high-risk factors: a single-arm, multi-center, prospective observational clinical study.",
         "pubdate": "2026 Dec",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42544613/"
-      },
-      {
-        "pmid": "42515832",
-        "title": "A Simulation-Based Assessment of Dosage Regimen Appropriateness for Multiple Myeloma Medicines Reflecting Demographic and Ethnic Differences.",
-        "pubdate": "2026 Aug",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42515832/"
-      },
-      {
-        "pmid": "42502280",
-        "title": "Real-World Treatment Patterns and Physician Perspectives in Relapsed/Refractory Multiple Myeloma: Results From a Nationwide Italian GIMEMA Survey.",
-        "pubdate": "2026 Aug",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42502280/"
-      },
-      {
-        "pmid": "42458868",
-        "title": "Cost-Effectiveness of Epcoritamab Plus Lenalidomide and Rituximab Versus Lenalidomide and Rituximab for Relapsed/Refractory Follicular Lymphoma: A US Payer Perspective.",
-        "pubdate": "2026 Jul",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42458868/"
-      },
-      {
-        "pmid": "42456135",
-        "title": "Continuous or Fixed-Duration Maintenance Therapy in Multiple Myeloma.",
-        "pubdate": "2026 Jul 16",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42456135/"
       }
     ]
   },

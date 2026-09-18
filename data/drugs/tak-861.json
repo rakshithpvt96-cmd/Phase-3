@@ -1,0 +1,99 @@
+{
+  "drug_name": "TAK-861",
+  "slug": "tak-861",
+  "enriched_at": "2026-09-18T12:09:59Z",
+  "source_trial_ids": [
+    "NCT07363720"
+  ],
+  "sponsors": [
+    {
+      "name": "Takeda",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Takeda&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 154617563,
+    "iupac_name": "N-[(2S,3R)-2-[[3-(3,5-difluorophenyl)-2-fluorophenyl]methyl]-4,4-difluoro-1-(2-hydroxy-2-methylpropanoyl)pyrrolidin-3-yl]ethanesulfonamide",
+    "molecular_formula": "C23H25F5N2O4S",
+    "molecular_weight": "520.5",
+    "canonical_smiles": null,
+    "inchikey": "KVMGAIOTUIGROS-AZUAARDMSA-N",
+    "rxnorm": {
+      "rxcui": "2211501",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL5840837",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=TAK-861+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=TAK-861+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=TAK-861+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Narcolepsy Type 1 (NT1)",
+    "slug": "narcolepsy-type-1-nt1"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07363720",
+      "title": "A Trial of TAK-861 for the Treatment of Narcolepsy With Cataplexy",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07363720",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42714024",
+        "title": "Oveporexton for Narcolepsy Type 1 - Results from Two Phase 3 Trials.",
+        "pubdate": "2026 Sep 9",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42714024/"
+      },
+      {
+        "pmid": "42618292",
+        "title": "Oveporexton: The first-in-class orexin receptor 2 (OX2R) agonist approved for treatment of narcolepsy type 1 (NT1).",
+        "pubdate": "2026 Aug 19",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42618292/"
+      },
+      {
+        "pmid": "42610966",
+        "title": "An actigraphy-based algorithm to assess daytime napping in people with narcolepsy type 1.",
+        "pubdate": "2026 Aug 18",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42610966/"
+      },
+      {
+        "pmid": "41497057",
+        "title": "Orexin receptor 2 agonists: a pathophysiologic approach to narcolepsy type 1.",
+        "pubdate": "2026 Jan",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41497057/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

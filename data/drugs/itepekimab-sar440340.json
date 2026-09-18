@@ -1,0 +1,110 @@
+{
+  "drug_name": "Itepekimab (SAR440340)",
+  "slug": "itepekimab-sar440340",
+  "enriched_at": "2026-09-18T12:11:08Z",
+  "source_trial_ids": [
+    "NCT06208306"
+  ],
+  "sponsors": [
+    {
+      "name": "Sanofi",
+      "ticker": "SNY",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001121404&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2471625",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4594594",
+    "target_chembl_id": "CHEMBL4630890",
+    "target_name": "Interleukin-33",
+    "mechanism_of_action_chembl": "Interleukin-33 inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Itepekimab%20%28SAR440340%29+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Itepekimab%20%28SAR440340%29+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Itepekimab%20%28SAR440340%29+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Chronic Obstructive Pulmonary Disease",
+    "slug": "chronic-obstructive-pulmonary-disease"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06208306",
+      "title": "A Study to Investigate Long-term Safety and Tolerability of Itepekimab in Participants With COPD",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT06208306",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "41765683",
+        "title": "Structures of clinical antibodies bound to IL-33 uncover two distinct epitopes underlying differential efficacy.",
+        "pubdate": "2026 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41765683/"
+      },
+      {
+        "pmid": "41655993",
+        "title": "Biologics in Chronic Obstructive Pulmonary Disease: Current Status and Future Prospects.",
+        "pubdate": "2026 Apr",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41655993/"
+      },
+      {
+        "pmid": "41269659",
+        "title": "Bronchiectasis Treatment Goals, Unmet Needs, and Emerging Therapies: A Podcast.",
+        "pubdate": "2026 Mar",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41269659/"
+      },
+      {
+        "pmid": "41190453",
+        "title": "Novel Maintenance Therapies for Chronic Obstructive Pulmonary Disorder.",
+        "pubdate": "2026 Apr",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41190453/"
+      },
+      {
+        "pmid": "40462371",
+        "title": "Mechanisms and Treatment of Type 2 High and Low Asthma Endotypes.",
+        "pubdate": "2025 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40462371/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "ETOKIMAB",
+        "chembl_id": "CHEMBL4297580",
+        "reason": "same target: Interleukin-33"
+      },
+      {
+        "name": "TORUDOKIMAB",
+        "chembl_id": "CHEMBL4650487",
+        "reason": "same target: Interleukin-33"
+      }
+    ]
+  }
+}

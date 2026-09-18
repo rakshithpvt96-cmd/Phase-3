@@ -1,24 +1,17 @@
 {
   "drug_name": "Adalimumab",
   "slug": "adalimumab",
-  "enriched_at": "2026-08-19T07:41:15Z",
+  "enriched_at": "2026-09-18T12:10:33Z",
   "source_trial_ids": [
     "NCT05814627",
-    "NCT06100744",
-    "NCT06640517"
+    "NCT06100744"
   ],
   "sponsors": [
     {
       "name": "AbbVie",
-      "ticker": null,
+      "ticker": "ABBV",
       "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=AbbVie&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
-      "name": "Biocad",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Biocad&type=10-K&dateb=&owner=include&count=40"
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001551152&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
@@ -47,13 +40,13 @@
     "openfda_generic_names": [
       "ADALIMUMAB-AACF"
     ],
-    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1602cfaf-9ddd-4eb6-b847-10a4eebcf5e5",
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4cab600d-6950-409f-a6d8-d447da22cd95",
     "note": null,
     "further_reading": null
   },
   "condition": {
-    "raw": "Plaque Psoriasis",
-    "slug": "plaque-psoriasis"
+    "raw": "Rheumatoid Arthritis",
+    "slug": "rheumatoid-arthritis"
   },
   "source_trials": [
     {
@@ -69,47 +62,40 @@
       "status": "RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT06100744",
       "has_results": false
-    },
-    {
-      "nct_id": "NCT06640517",
-      "title": "Study of the Efficacy, Safety, Pharmacokinetics, and Immunogenicity of Netakimab in Children With Moderate to Severe Plaque Psoriasis",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06640517",
-      "has_results": false
     }
   ],
   "prior_results": {
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42555037",
-        "title": "Approved Monoclonal Antibody Therapies for Hidradenitis Suppurativa.",
-        "pubdate": "2026 Aug 5",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42555037/"
+        "pmid": "42701929",
+        "title": "Efficacy and Safety of the First Adalimumab Biosimilar in Chinese Children with Severe Plaque Psoriasis: The PISCES Study, a Multicenter Prospective Study.",
+        "pubdate": "2026 Sep 6",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42701929/"
       },
       {
-        "pmid": "42549261",
-        "title": "Comparative effectiveness of adalimumab versus infliximab in children with Crohn's disease: real-world data from the prospective PIBD-SETQuality inception cohort study.",
-        "pubdate": "2026 Jul",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42549261/"
+        "pmid": "42694939",
+        "title": "Adalimumab Reduces Epicardial Adipose Tissue in Psoriasis: A Post Hoc Analysis of a Randomized Placebo-Controlled Clinical Trial.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42694939/"
       },
       {
-        "pmid": "42536885",
-        "title": "Ustekinumab for the treatment of psoriasis: a well-established therapy primed for resurgence.",
-        "pubdate": "2026 Aug 1",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42536885/"
+        "pmid": "42671722",
+        "title": "Neuropathic Pain Management Using Novel Biologics in Moderate-to-Severe Hidradenitis Suppurativa.",
+        "pubdate": "2026 Aug 31",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42671722/"
       },
       {
-        "pmid": "42536134",
-        "title": "Measuring success in HS treatment from the physician's and the patient's perspective.",
-        "pubdate": "2026 Jul 31",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42536134/"
+        "pmid": "42665722",
+        "title": "Comparison of the Risk of Acute Anterior Uveitis Flare Between Adalimumab and Subcutaneous Infliximab in Patients with Radiographic Axial Spondyloarthritis and Prior Acute Anterior Uveitis: A Randomized Controlled Trial.",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42665722/"
       },
       {
-        "pmid": "42452698",
-        "title": "Medical and Surgical Management of Hidradenitis Suppurativa.",
-        "pubdate": "2026 Jul 4",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42452698/"
+        "pmid": "42632595",
+        "title": "Disease-modifying antirheumatic drugs for hand osteoarthritis: A systematic review and network meta-analysis.",
+        "pubdate": "2026 Aug 22",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42632595/"
       }
     ]
   },

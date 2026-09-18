@@ -1,23 +1,16 @@
 {
   "drug_name": "Doxorubicin",
   "slug": "doxorubicin",
-  "enriched_at": "2026-08-19T07:42:40Z",
+  "enriched_at": "2026-09-18T12:08:12Z",
   "source_trial_ids": [
-    "NCT04824092",
-    "NCT06394492"
+    "NCT04824092"
   ],
   "sponsors": [
     {
       "name": "Incyte Corporation",
-      "ticker": null,
+      "ticker": "INCY",
       "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Incyte%20Corporation&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
-      "name": "Suzhou Suncadia Biopharmaceuticals Co., Ltd.",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Suzhou%20Suncadia%20Biopharmaceuticals%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000879169&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
@@ -57,8 +50,8 @@
     "further_reading": null
   },
   "condition": {
-    "raw": "Ovarian Cancer",
-    "slug": "ovarian-cancer"
+    "raw": "Diffuse Large B-cell Lymphoma",
+    "slug": "diffuse-large-b-cell-lymphoma"
   },
   "source_trials": [
     {
@@ -67,59 +60,46 @@
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT04824092",
       "has_results": false
-    },
-    {
-      "nct_id": "NCT06394492",
-      "title": "SHR-A1921 for Injection in Patients With Platinum-Resistant Recurrent Epithelial Ovarian Cancer",
-      "status": "RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06394492",
-      "has_results": false
     }
   ],
   "prior_results": {
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42581349",
-        "title": "Trials in progress: CARMAN - study protocol of a randomized controlled, international, multicenter, open-label phase II trial evaluating early treatment intensification in patients with high-risk mantle cell lymphoma using CAR-T-cell treatment after an abbreviated induction therapy with rituximab and ibrutinib and 6 months ibrutinib maintenance as compared to standard of care induction and maintenance.",
-        "pubdate": "2026 Aug 11",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42581349/"
-      },
-      {
-        "pmid": "42577949",
-        "title": "Nivolumab + Doxorubicin, Vinblastine, and Dacarbazine in HIV-Associated Advanced-Stage Classic Hodgkin Lymphoma.",
-        "pubdate": "2026 Jan",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42577949/"
-      },
-      {
-        "pmid": "42543655",
-        "title": "[Future directions in clinical development of first-line therapy for diffuse large B-cell lymphoma].",
+        "pmid": "42741060",
+        "title": "Feasibility and acceptability of ice plant intensive cream in preventing hand-foot syndrome in breast cancer patients undergoing Doxorubicin and/or Docetaxel therapy: a randomized controlled pilot study.",
         "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42543655/"
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42741060/"
       },
       {
-        "pmid": "42530945",
-        "title": "Cemiplimab and Fianlimab With Neoadjuvant Chemotherapy in Early-Stage High-Risk ERBB2-Negative Breast Cancer: The I-SPY2 Randomized Clinical Trial.",
-        "pubdate": "2026 Jul 30",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42530945/"
+        "pmid": "42727046",
+        "title": "Latin American Consensus for the Diagnosis, Staging, and Treatment of Peripheral T-Cell Lymphoma Not Otherwise Specified.",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42727046/"
       },
       {
-        "pmid": "42528231",
-        "title": "Real-world comparison of brentuximab vedotin plus cyclophosphamide, doxorubicin, and prednisone and anthracycline-based regimens in peripheral T-cell lymphoma: A multicenter retrospective study from the Gifu Hematology Study Group.",
-        "pubdate": "2026 Jul 30",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42528231/"
+        "pmid": "42725507",
+        "title": "Exploring New Frontiers in Osteosarcoma Treatment: Clinical Trial Insights.",
+        "pubdate": "2026 Sep 3",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42725507/"
+      },
+      {
+        "pmid": "42667569",
+        "title": "Summary of Research: Brentuximab Vedotin and Nivolumab in Combination with Chemotherapy for Nonbulky, Early-Stage Classical Hodgkin Lymphoma.",
+        "pubdate": "2026 Aug 29",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42667569/"
+      },
+      {
+        "pmid": "42650033",
+        "title": "Tailoring HIPEC with Patient-Derived Organoids in Colorectal Peritoneal Metastases: Results from the First Stage of the Prospective Phase II OrganoHIPEC Clinical Trial (Clinicaltrials.gov NCT06057298).",
+        "pubdate": "2026 Aug 21",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42650033/"
       }
     ]
   },
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": [
-      {
-        "name": "Olaparib",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: AstraZeneca"
-      }
-    ]
+    "items": []
   }
 }

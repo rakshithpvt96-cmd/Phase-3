@@ -1,16 +1,16 @@
 {
   "drug_name": "Prednisone",
   "slug": "prednisone",
-  "enriched_at": "2026-08-19T07:44:24Z",
+  "enriched_at": "2026-09-18T12:09:21Z",
   "source_trial_ids": [
     "NCT04824092"
   ],
   "sponsors": [
     {
       "name": "Incyte Corporation",
-      "ticker": null,
+      "ticker": "INCY",
       "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Incyte%20Corporation&type=10-K&dateb=&owner=include&count=40"
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000879169&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
@@ -45,7 +45,7 @@
     "openfda_generic_names": [
       "PREDNISONE"
     ],
-    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=474974ac-9811-c9f5-4050-58e535351d00",
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0b8ea104-c445-4a71-b032-cd7a42803a37",
     "note": null,
     "further_reading": null
   },
@@ -66,34 +66,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42583764",
-        "title": "Achievement of real-world adapted DORIS remission targets among patients with systemic lupus erythematosus initiating belimumab in the USA: A retrospective, observational, cohort study.",
-        "pubdate": "2026 Aug 12",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42583764/"
+        "pmid": "42734930",
+        "title": "Intravenous Immunoglobulin Add-On in Newly Diagnosed Idiopathic Inflammatory Myopathies: A Randomized Clinical Trial.",
+        "pubdate": "2026 Sep 14",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42734930/"
       },
       {
-        "pmid": "42581349",
-        "title": "Trials in progress: CARMAN - study protocol of a randomized controlled, international, multicenter, open-label phase II trial evaluating early treatment intensification in patients with high-risk mantle cell lymphoma using CAR-T-cell treatment after an abbreviated induction therapy with rituximab and ibrutinib and 6 months ibrutinib maintenance as compared to standard of care induction and maintenance.",
-        "pubdate": "2026 Aug 11",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42581349/"
+        "pmid": "42727046",
+        "title": "Latin American Consensus for the Diagnosis, Staging, and Treatment of Peripheral T-Cell Lymphoma Not Otherwise Specified.",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42727046/"
       },
       {
-        "pmid": "42554948",
-        "title": "Real-World Effect of Ruxolitinib Cream: Decreased Use of Additional Topical Therapies and Limited Escalation to Systemic Treatments.",
-        "pubdate": "2026 Aug 5",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42554948/"
+        "pmid": "42685768",
+        "title": "Comparing compressed 2-dose and 3-dose melarsomine protocols in the era of adjunctive therapy: a randomized clinical trial of 168 dogs with heartworm disease.",
+        "pubdate": "2026 Sep 2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42685768/"
       },
       {
-        "pmid": "42547787",
-        "title": "Prednisone, not vamorolone, suppresses novel serum bone and cartilage biomarkers associated with growth failure in children with Duchenne muscular dystrophy.",
-        "pubdate": "2026 Aug 3",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42547787/"
+        "pmid": "42639020",
+        "title": "Oral corticosteroid dosing strategies for post-COVID-19 organising pneumonia: NORCOVID clinical trial.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42639020/"
       },
       {
-        "pmid": "42543655",
-        "title": "[Future directions in clinical development of first-line therapy for diffuse large B-cell lymphoma].",
-        "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42543655/"
+        "pmid": "42637535",
+        "title": "Balancing Benefits and Risks: Long-term Use of Daily versus Intermittent Corticosteroids in Duchenne Muscular Dystrophy.",
+        "pubdate": "2026 Aug 24",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42637535/"
       }
     ]
   },

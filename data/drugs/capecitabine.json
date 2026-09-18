@@ -1,12 +1,11 @@
 {
   "drug_name": "Capecitabine",
   "slug": "capecitabine",
-  "enriched_at": "2026-08-19T07:41:55Z",
+  "enriched_at": "2026-09-18T12:07:49Z",
   "source_trial_ids": [
     "NCT05152147",
     "NCT05568095",
     "NCT05717764",
-    "NCT06018337",
     "NCT06279364",
     "NCT06343948",
     "NCT06519370"
@@ -23,12 +22,6 @@
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=CSPC%20Zhongnuo%20Pharmaceutical%20%28Shijiazhuang%29%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
-      "name": "DualityBio Inc.",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=DualityBio%20Inc.&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Jazz Pharmaceuticals",
@@ -92,8 +85,8 @@
     "further_reading": null
   },
   "condition": {
-    "raw": "Metastatic Breast Cancer",
-    "slug": "metastatic-breast-cancer"
+    "raw": "Triple Negative Breast Cancer",
+    "slug": "triple-negative-breast-cancer"
   },
   "source_trials": [
     {
@@ -106,7 +99,7 @@
     {
       "nct_id": "NCT05568095",
       "title": "A Clinical Trial of a New Combination Treatment, Domvanalimab and Zimberelimab, Plus Chemotherapy, for People With an Upper Gastrointestinal Tract Cancer That Cannot be Removed With Surgery That Has Spread to Other Parts of the Body",
-      "status": "ACTIVE_NOT_RECRUITING",
+      "status": "COMPLETED",
       "url": "https://clinicaltrials.gov/study/NCT05568095",
       "has_results": false
     },
@@ -115,13 +108,6 @@
       "title": "Clinical Study of Mitoxantrone Hydrochloride Liposome Injection Combined With Capecitabine Versus Capecitabine Monotherapy in Patients With Recurrent Metastatic Nasopharyngeal Carcinoma Who Failed Platinum-containing Treatment",
       "status": "NOT_YET_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT05717764",
-      "has_results": false
-    },
-    {
-      "nct_id": "NCT06018337",
-      "title": "A Study of DB-1303/BNT323 vs Investigator's Choice Chemotherapy in HER2-Low, Hormone Receptor Positive Metastatic Breast Cancer (DYNASTY-Breast02)",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06018337",
       "has_results": false
     },
     {
@@ -150,34 +136,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42592685",
-        "title": "Redefining the Role of Chemotherapy and Targeted Cytotoxic Delivery in Lung Neuroendocrine Tumors.",
-        "pubdate": "2026 Aug",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42592685/"
+        "pmid": "42733563",
+        "title": "Short-term versus long-course neoadjuvant chemotherapy for resectable and borderline resectable pancreatic ductal adenocarcinoma (PACT-21 CASSANDRA): results from the second randomisation analysis of a randomised, open-label, 2 × 2 factorial phase 3 trial.",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42733563/"
       },
       {
-        "pmid": "42584742",
-        "title": "Real-world clinical outcomes of patients with early-stage TNBC and BRCAm who were treated with adjuvant capecitabine in the United States.",
-        "pubdate": "2026 Aug 12",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42584742/"
+        "pmid": "42682310",
+        "title": "The safety of laparoscopic D2 distal gastrectomy following neoadjuvant chemotherapy for locally advanced gastric cancer patients: a prospective multicenter trial (CLASS-03a).",
+        "pubdate": "2026 Apr",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42682310/"
       },
       {
-        "pmid": "42525419",
-        "title": "Maximal Ablative Irradiation Because of Encasement for Patients With Locally Advanced Pancreatic Cancer: A Nonrandomized Clinical Trial.",
-        "pubdate": "2026 Jul 29",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42525419/"
+        "pmid": "42675036",
+        "title": "First-line anlotinib versus bevacizumab plus CapeOX in RAS/BRAF wild-type unresectable metastatic colorectal cancer (ANCHOR): a multicenter, prospective, randomized, phase 3 trial.",
+        "pubdate": "2026 Sep 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42675036/"
       },
       {
-        "pmid": "42520930",
-        "title": "Adjuvant capecitabine in resected biliary tract cancer: a real-world data from the BILCAP-Real study (ACABi multicentre cohort).",
-        "pubdate": "2026 Jul 28",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42520930/"
+        "pmid": "42658556",
+        "title": "Pharmaceutical care in patients with gastric cancer treated with capecitabine: A randomized clinical trial.",
+        "pubdate": "2026 Aug 27",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42658556/"
       },
       {
-        "pmid": "42509089",
-        "title": "Tumour cell density quantified by artificial intelligence is associated with differential benefit from irinotecan-based chemo-radiotherapy in locally advanced rectal cancer: a post-hoc study of the phase 3 ARISTOTLE trial.",
-        "pubdate": "2026 Aug",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42509089/"
+        "pmid": "42633754",
+        "title": "Chemoradiotherapy versus short-course radiotherapy for response-adapted organ preservation in early-stage and intermediate-stage rectal cancer (STAR-TREC): 12-month results of an international, multicentre, open-label, parallel-group, randomised, phase 2/3 trial.",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42633754/"
       }
     ]
   },

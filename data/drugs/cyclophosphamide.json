@@ -1,16 +1,16 @@
 {
   "drug_name": "Cyclophosphamide",
   "slug": "cyclophosphamide",
-  "enriched_at": "2026-08-19T07:42:26Z",
+  "enriched_at": "2026-09-18T12:08:01Z",
   "source_trial_ids": [
     "NCT04824092"
   ],
   "sponsors": [
     {
       "name": "Incyte Corporation",
-      "ticker": null,
+      "ticker": "INCY",
       "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Incyte%20Corporation&type=10-K&dateb=&owner=include&count=40"
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000879169&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
@@ -45,7 +45,7 @@
     "openfda_generic_names": [
       "CYCLOPHOSPHAMIDE"
     ],
-    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=571a5a63-fb66-0617-e063-6394a90a2d04",
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5ad8ea65-4c98-487a-9c8d-df778765ec5e",
     "note": null,
     "further_reading": null
   },
@@ -66,34 +66,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42581349",
-        "title": "Trials in progress: CARMAN - study protocol of a randomized controlled, international, multicenter, open-label phase II trial evaluating early treatment intensification in patients with high-risk mantle cell lymphoma using CAR-T-cell treatment after an abbreviated induction therapy with rituximab and ibrutinib and 6 months ibrutinib maintenance as compared to standard of care induction and maintenance.",
+        "pmid": "42727046",
+        "title": "Latin American Consensus for the Diagnosis, Staging, and Treatment of Peripheral T-Cell Lymphoma Not Otherwise Specified.",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42727046/"
+      },
+      {
+        "pmid": "42690647",
+        "title": "Bicistronic CD19/CD22 CAR T-Cell Therapy in Pediatric B-Cell Acute Lymphoblastic Leukemia: A Nonrandomized Clinical Trial.",
+        "pubdate": "2026 Sep 3",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42690647/"
+      },
+      {
+        "pmid": "42680144",
+        "title": "Haploidentical haematopoietic stem cell transplantation for thalassaemia major: A phase IV, open-label, single-centre trial.",
+        "pubdate": "2026 Sep 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42680144/"
+      },
+      {
+        "pmid": "42624288",
+        "title": "A Novel Conditioning Regimen Incorporating Low-Dose Cyclophosphamide and Thiotepa for Haploidentical Hematopoietic Stem Cell Transplantation in Pediatric Patients with Severe Aplastic Anemia at High Risk of Cardiotoxicity.",
+        "pubdate": "2026 Aug 20",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42624288/"
+      },
+      {
+        "pmid": "42622258",
+        "title": "Fixed-duration epcoritamab plus R-CHOP in newly diagnosed LBCL with IPI score 3-5: results from the EPCORE NHL-2 trial.",
         "pubdate": "2026 Aug 11",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42581349/"
-      },
-      {
-        "pmid": "42561548",
-        "title": "Vinorelbine and low-dose cyclophosphamide as maintenance therapy in the treatment of Ewing sarcoma rationale for the international INTER-EWING-1 trial for Ewing sarcoma patients.",
-        "pubdate": "2026 Jul 27",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42561548/"
-      },
-      {
-        "pmid": "42543655",
-        "title": "[Future directions in clinical development of first-line therapy for diffuse large B-cell lymphoma].",
-        "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42543655/"
-      },
-      {
-        "pmid": "42537452",
-        "title": "A novel neoadjuvant immunotherapy confers improved overall survival in oral cancer patients with low tumor PD-L1 expression The IT-MATTERS Clinical trial - Prognostic role of tumor PD-L1 expression.",
-        "pubdate": "2026 Jul 31",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42537452/"
-      },
-      {
-        "pmid": "42534709",
-        "title": "Resolution of Paraneoplastic Cutaneous Angioendotheliomatosis After CAR T-Cell Therapy in TP53-Deleted CLL: A Case Report.",
-        "pubdate": "2026 Aug",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42534709/"
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42622258/"
       }
     ]
   },

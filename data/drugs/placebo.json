@@ -1,7 +1,7 @@
 {
   "drug_name": "Placebo",
   "slug": "placebo",
-  "enriched_at": "2026-09-17T12:33:32Z",
+  "enriched_at": "2026-09-18T12:09:16Z",
   "source_trial_ids": [
     "NCT02914535",
     "NCT04023552",
@@ -28,6 +28,7 @@
     "NCT06104124",
     "NCT06125951",
     "NCT06200207",
+    "NCT06208306",
     "NCT06297603",
     "NCT06309966",
     "NCT06339008",
@@ -60,6 +61,7 @@
     "NCT07298434",
     "NCT07300839",
     "NCT07305987",
+    "NCT07363720",
     "NCT07469800",
     "NCT07473960",
     "NCT07555392",
@@ -337,6 +339,12 @@
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000872589&type=10-K&dateb=&owner=include&count=40"
     },
     {
+      "name": "Sanofi",
+      "ticker": "SNY",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001121404&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
       "name": "Shanghai Henlius Biotech",
       "ticker": null,
       "market_cap_display": null,
@@ -359,6 +367,12 @@
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Sichuan%20Jishengtang%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Takeda",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Takeda&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Tenax Therapeutics, Inc.",
@@ -596,6 +610,13 @@
       "has_results": false
     },
     {
+      "nct_id": "NCT06208306",
+      "title": "A Study to Investigate Long-term Safety and Tolerability of Itepekimab in Participants With COPD",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT06208306",
+      "has_results": false
+    },
+    {
       "nct_id": "NCT06297603",
       "title": "Effect of Retatrutide Compared With Placebo in Participants With Type 2 Diabetes and Moderate or Severe Renal Impairment, With Inadequate Glycemic Control on Basal Insulin, With or Without Metformin and/or SGLT2 Inhibitor (TRANSCEND-T2D-3)",
       "status": "ACTIVE_NOT_RECRUITING",
@@ -820,6 +841,13 @@
       "has_results": false
     },
     {
+      "nct_id": "NCT07363720",
+      "title": "A Trial of TAK-861 for the Treatment of Narcolepsy With Cataplexy",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07363720",
+      "has_results": false
+    },
+    {
       "nct_id": "NCT07469800",
       "title": "Efficacy and Safety of IBI362 in Hypertensive Patients With Overweight/Obesity",
       "status": "RECRUITING",
@@ -852,34 +880,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42750540",
-        "title": "Predicting the Long-Term Risk of Type 2 Diabetes and Cardiovascular Disease With Orforglipron in People With Overweight or Obesity: A Post Hoc Analysis of the ATTAIN-1 Trial.",
+        "pmid": "42755338",
+        "title": "Oral PCSK9 inhibitors: closing the gap between potency and practicality.",
+        "pubdate": "2026 Sep 18",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42755338/"
+      },
+      {
+        "pmid": "42754717",
+        "title": "Preparing and evaluating the effectiveness of topical cerosome of menthol on radial spasm and pain in patients with trans-radial angiography: a randomized, triple-blind, parallel placebo-controlled clinical trial.",
+        "pubdate": "2026 Sep 18",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42754717/"
+      },
+      {
+        "pmid": "42754303",
+        "title": "Efficacy and Field Safety of the Second-Generation, Highly Selective JAK1 Inhibitor Atinvicitinib for the Treatment of Canine Atopic Dermatitis: A Multicentre, Blinded, Randomised, Placebo-Controlled Clinical Trial in Client-Owned Dogs.",
         "pubdate": "2026 Sep 17",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42750540/"
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42754303/"
       },
       {
-        "pmid": "42750456",
-        "title": "Effects of Wilac D001 (Weissella confusa WIKIM51) Supplementation on Metabolic Parameters and Central Adiposity in Overweight Adults: A 12-Week Randomized, Double-Blind, Placebo-Controlled Trial.",
-        "pubdate": "2026 Sep 2",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42750456/"
+        "pmid": "42753870",
+        "title": "What a negative trial does not tell us: Bayesian reanalysis of the enteral citrulline supplementation versus placebo on SOFA score on day 7 in mechanically ventilated critically ill patients randomized clinical trial.",
+        "pubdate": "2026 Sep 17",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42753870/"
       },
       {
-        "pmid": "42749369",
-        "title": "Clinical safety and preliminary efficacy of allogeneic human induced pluripotent stem cell-derived exosomes in patients with acute ischaemic stroke: protocol of a phase I/II clinical trial in China.",
-        "pubdate": "2026 Sep 16",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42749369/"
-      },
-      {
-        "pmid": "42749167",
-        "title": "Connectivity- and frequency-individualized accelerated intermittent theta burst stimulation in treatment-resistant depression: A randomized controlled trial.",
-        "pubdate": "2026 Sep 16",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42749167/"
-      },
-      {
-        "pmid": "42748394",
-        "title": "Factor XIa Inhibitors for Secondary Prevention After Noncardioembolic Stroke: A Systematic Review and Meta-Analysis.",
-        "pubdate": "2026 Oct 13",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42748394/"
+        "pmid": "42753771",
+        "title": "Clinical activity and safety of rilzabrutinib in patients with previously treated immune thrombocytopenia (LUNA3): results from the open-label period of a phase 3 trial.",
+        "pubdate": "2026 Sep 17",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42753771/"
       }
     ]
   },

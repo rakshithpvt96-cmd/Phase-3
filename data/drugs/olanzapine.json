@@ -1,7 +1,7 @@
 {
   "drug_name": "Olanzapine",
   "slug": "olanzapine",
-  "enriched_at": "2026-08-19T07:50:05Z",
+  "enriched_at": "2026-09-18T12:11:17Z",
   "source_trial_ids": [
     "NCT05303064"
   ],
@@ -45,7 +45,7 @@
     "openfda_generic_names": [
       "OLANZAPINE"
     ],
-    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=709d79a1-2742-4629-af43-161be166833a",
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=10043041-a632-4e57-bc08-37216dea8546",
     "note": null,
     "further_reading": null
   },
@@ -66,9 +66,15 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42742891",
+        "title": "Patient and Healthcare Professional Attitudes and Trial Experiences with a Subcutaneous Long-Acting Injectable Olanzapine (TV-44749) for Schizophrenia Treatment.",
+        "pubdate": "2026 Sep 15",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42742891/"
+      },
+      {
         "pmid": "42498119",
         "title": "Effects of adjunctive memantine on executive function and global cognition in bipolar disorder (BD): A randomized, double-blind, placebo-controlled clinical trial.",
-        "pubdate": "2026 Jul 24",
+        "pubdate": "2026 Dec 1",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42498119/"
       },
       {
@@ -88,12 +94,6 @@
         "title": "Prophylactic Olanzapine Versus Placebo in Comatose Survivors of Out-of-Hospital Cardiac Arrest: Protocol for a Multicenter Randomized Comparison Within the Danish Out-of-Hospital Cardiac Arrest (DANOHCA) Trial.",
         "pubdate": "2026 Aug",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42338242/"
-      },
-      {
-        "pmid": "42317925",
-        "title": "Potential of Glucagon-Like Peptide-1 (GLP-1) Receptor Agonists in Mitigating Metabolic Side Effects Associated With Clozapine or Olanzapine Therapy: A Literature Review.",
-        "pubdate": "2026 May",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42317925/"
       }
     ]
   },

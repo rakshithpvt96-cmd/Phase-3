@@ -1,16 +1,16 @@
 {
   "drug_name": "Risankizumab",
   "slug": "risankizumab",
-  "enriched_at": "2026-08-19T07:50:57Z",
+  "enriched_at": "2026-09-18T12:11:23Z",
   "source_trial_ids": [
     "NCT06100744"
   ],
   "sponsors": [
     {
       "name": "AbbVie",
-      "ticker": null,
+      "ticker": "ABBV",
       "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=AbbVie&type=10-K&dateb=&owner=include&count=40"
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001551152&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
@@ -80,7 +80,7 @@
       {
         "pmid": "42393457",
         "title": "Matching-Adjusted Indirect Comparison of Risankizumab Versus Icotrokinra in Adult Patients with Moderate-to-Severe Plaque Psoriasis.",
-        "pubdate": "2026 Jul 2",
+        "pubdate": "2026 Aug",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42393457/"
       },
       {
