@@ -1,7 +1,7 @@
 {
   "drug_name": "MC2-01 cream",
   "slug": "mc2-01-cream",
-  "enriched_at": "2026-09-12T11:33:42Z",
+  "enriched_at": "2026-09-19T11:51:27Z",
   "source_trial_ids": [
     "NCT07357831"
   ],
@@ -56,6 +56,18 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42757815",
+        "title": "To Ask or Not to Ask: Does Inquiring About Participants' Expectations Influence the Placebo Effect? A Placebo Mechanism Study in Healthy Volunteers.",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42757815/"
+      },
+      {
+        "pmid": "42741060",
+        "title": "Feasibility and acceptability of ice plant intensive cream in preventing hand-foot syndrome in breast cancer patients undergoing Doxorubicin and/or Docetaxel therapy: a randomized controlled pilot study.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42741060/"
+      },
+      {
         "pmid": "42683746",
         "title": "52-week ivarmacitinib in moderate-to-severe atopic dermatitis: A phase 3 trial.",
         "pubdate": "2026 Sep 2",
@@ -72,18 +84,6 @@
         "title": "Clascoterone in the Treatment of Acne Vulgaris: A Narrative Review.",
         "pubdate": "2026 Aug 18",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42653799/"
-      },
-      {
-        "pmid": "42605165",
-        "title": "Real-world effectiveness of topical ruxolitinib in non-segmental vitiligo: repigmentation, mental health, and quality-of-life outcomes in an 860-patient multicentre study.",
-        "pubdate": "2026 Aug 17",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42605165/"
-      },
-      {
-        "pmid": "42555080",
-        "title": "Clascoterone Cream 1% is Safe and Effective for Papulopustular Rosacea: A Phase 2 Clinical Trial.",
-        "pubdate": "2026 Aug 1",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42555080/"
       }
     ]
   },
@@ -95,6 +95,11 @@
         "name": "Apremilast",
         "chembl_id": null,
         "reason": "same indication trial, sponsor: Amgen"
+      },
+      {
+        "name": "tapinarof cream, 1%",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Organon and Co"
       }
     ]
   }

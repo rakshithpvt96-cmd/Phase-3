@@ -1,7 +1,7 @@
 {
   "drug_name": "Alectinib",
   "slug": "alectinib",
-  "enriched_at": "2026-08-20T07:43:25Z",
+  "enriched_at": "2026-09-19T11:50:44Z",
   "source_trial_ids": [
     "NCT06624059"
   ],
@@ -66,6 +66,18 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42641639",
+        "title": "Crizotinib versus observation or placebo for surgically resected early-stage ALK-positive non-small-cell lung cancer (Eastern Cooperative Oncology Group-American College of Radiology Imaging Network E4512): a phase 3 trial.",
+        "pubdate": "2026 Aug 25",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42641639/"
+      },
+      {
+        "pmid": "42636834",
+        "title": "Adjuvant alectinib versus chemotherapy in resected ALK-positive non-small-cell lung cancer (ALINA): health-related quality-of-life and safety outcomes from a randomised, open-label, phase 3 trial.",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42636834/"
+      },
+      {
         "pmid": "42335416",
         "title": "Optimal Use of Targeted Therapy and Immunotherapy in Early-Stage, Resectable Non-Small Cell Lung Cancer.",
         "pubdate": "2026 Jun",
@@ -82,18 +94,6 @@
         "title": "Disease characteristics and treatment outcomes in patients with resected early-stage ALK-positive non-small cell lung cancer from the randomized ALINA trial.",
         "pubdate": "2026 Jun",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41996761/"
-      },
-      {
-        "pmid": "41949116",
-        "title": "Lorlatinib in patients with ALK-positive metastatic NSCLC previously treated with an ALK inhibitor: results from a phase IV study.",
-        "pubdate": "2026 Apr",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41949116/"
-      },
-      {
-        "pmid": "41726776",
-        "title": "The long-term avoided recurrences and recurrence-related cost of alectinib for postoperative adjuvant therapy in Chinese patients with early-stage ALK-positive non-small cell lung cancer.",
-        "pubdate": "2025",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41726776/"
       }
     ]
   },
@@ -112,6 +112,16 @@
         "reason": "same indication trial, sponsor: Sichuan Baili Pharmaceutical Co., Ltd."
       },
       {
+        "name": "Durvalumab",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: AstraZeneca"
+      },
+      {
+        "name": "Domvanalimab",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: AstraZeneca"
+      },
+      {
         "name": "JDQ443",
         "chembl_id": null,
         "reason": "same indication trial, sponsor: Novartis Pharmaceuticals"
@@ -120,6 +130,16 @@
         "name": "docetaxel",
         "chembl_id": null,
         "reason": "same indication trial, sponsor: Novartis Pharmaceuticals"
+      },
+      {
+        "name": "Pemetrexed",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Innovent Biologics (Suzhou) Co. Ltd."
+      },
+      {
+        "name": "Carboplatin",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Innovent Biologics (Suzhou) Co. Ltd."
       }
     ]
   }
