@@ -1,7 +1,7 @@
 {
   "drug_name": "Tabirafusp tedromer",
   "slug": "tabirafusp-tedromer",
-  "enriched_at": "2026-09-14T13:56:39Z",
+  "enriched_at": "2026-09-21T14:32:04Z",
   "source_trial_ids": [
     "NCT06556368"
   ],
@@ -70,6 +70,12 @@
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": []
+    "items": [
+      {
+        "name": "Aflibercept (EYLEA®)",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: AbbVie"
+      }
+    ]
   }
 }

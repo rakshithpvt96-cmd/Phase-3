@@ -1,7 +1,7 @@
 {
   "drug_name": "Pemetrexed+Cisplatin or Carboplatin",
   "slug": "pemetrexed-cisplatin-or-carboplatin",
-  "enriched_at": "2026-09-14T13:53:46Z",
+  "enriched_at": "2026-09-21T14:30:13Z",
   "source_trial_ids": [
     "NCT06382116"
   ],
@@ -60,6 +60,12 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42742872",
+        "title": "Induction FLOT Chemotherapy Prior to Neoadjuvant Chemoradiotherapy in the Treatment of Lower Esophageal and Proximal Gastric Adenocarcinoma: A Phase II, Single-Arm Clinical Trial.",
+        "pubdate": "2026 Sep 15",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42742872/"
+      },
+      {
         "pmid": "42705254",
         "title": "Chemotherapy with or without pembrolizumab followed by maintenance pembrolizumab with or without olaparib as first-line treatment of patients with advanced BRCA non-mutated epithelial ovarian cancer (ENGOT-OV43/GOG-3036/KEYLYNK-001): a randomised, double-blind, placebo-controlled, phase 3 trial.",
         "pubdate": "2026 Sep 7",
@@ -82,12 +88,6 @@
         "title": "Neoadjuvant Anbenitamab and HB1801 in ERBB2-Positive Breast Cancer: A Phase 3 Randomized Clinical Trial.",
         "pubdate": "2026 Sep 3",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42690668/"
-      },
-      {
-        "pmid": "42682104",
-        "title": "DESTINY-Lung06: trastuzumab deruxtecan and pembrolizumab as first-line treatment for HER2-overexpressing, PD-L1 TPS <50% NSCLC.",
-        "pubdate": "2026 Sep 2",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42682104/"
       }
     ]
   },
