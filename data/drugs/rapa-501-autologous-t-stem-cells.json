@@ -1,7 +1,7 @@
 {
   "drug_name": "RAPA-501 Autologous T stem cells",
   "slug": "rapa-501-autologous-t-stem-cells",
-  "enriched_at": "2026-09-14T14:45:12Z",
+  "enriched_at": "2026-09-21T15:02:05Z",
   "source_trial_ids": [
     "NCT04220190"
   ],
@@ -60,6 +60,24 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42758681",
+        "title": "A first-in-human, phase I/IIa trial of the T cell immunotherapy personalised tumour trained lymphocytes in patients with advanced colorectal cancer: Study protocol.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42758681/"
+      },
+      {
+        "pmid": "42753738",
+        "title": "Genomic and transcriptomic quality control for an autologous iPSC-derived cell therapy for Parkinson's disease.",
+        "pubdate": "2026 Sep 17",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42753738/"
+      },
+      {
+        "pmid": "42744029",
+        "title": "Effect of mesenchymal stem cells on peripheral immune cells in multiple sclerosis: results from an international phase 2 clinical trial.",
+        "pubdate": "2026 Sep 15",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42744029/"
+      },
+      {
         "pmid": "42560886",
         "title": "First evidence of the circulation of induced pluripotent stem cell-derived platelets in humans.",
         "pubdate": "2026 Jul 20",
@@ -70,41 +88,12 @@
         "title": "Development of an investigational medicinal stem cell gene therapy product to attempt curing human immunodeficiency virus infection.",
         "pubdate": "2026 Aug 4",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42552339/"
-      },
-      {
-        "pmid": "42527555",
-        "title": "De-escalation trials in multiple myeloma: past, present and future.",
-        "pubdate": "2026 Jul 29",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42527555/"
-      },
-      {
-        "pmid": "42522264",
-        "title": "Five-year follow-up of phase II trial of autologous cord blood mononuclear cells for bronchopulmonary dysplasia prevention in very preterm infants.",
-        "pubdate": "2026 Jul 20",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42522264/"
-      },
-      {
-        "pmid": "42498486",
-        "title": "Personalized tumor-loaded monocyte-derived dendritic cell vaccination in combination with atezolizumab as maintenance treatment in extensive-stage small cell lung cancer (ES-SCLC): phase Ib-II VENEZOLUNG trial.",
-        "pubdate": "2026 Jul 24",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42498486/"
       }
     ]
   },
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": [
-      {
-        "name": "ION363",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Ionis Pharmaceuticals, Inc."
-      },
-      {
-        "name": "Placebo",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Ionis Pharmaceuticals, Inc."
-      }
-    ]
+    "items": []
   }
 }

@@ -1,7 +1,7 @@
 {
   "drug_name": "BMS-986165",
   "slug": "bms-986165",
-  "enriched_at": "2026-09-14T14:21:07Z",
+  "enriched_at": "2026-09-21T14:52:09Z",
   "source_trial_ids": [
     "NCT04036435"
   ],
@@ -80,7 +80,7 @@
       {
         "pmid": "42563042",
         "title": "Deucravacitinib 5-Year Safety and Efficacy Results in Plaque Psoriasis: A Phase 3 Open-Label Extension of Randomized Clinical Trials.",
-        "pubdate": "2026 Aug 7",
+        "pubdate": "2026 Sep",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42563042/"
       },
       {
@@ -100,6 +100,17 @@
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": []
+    "items": [
+      {
+        "name": "IBI112",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Innovent Biopharmaceutical Technology (Hangzhou) Co., LTD."
+      },
+      {
+        "name": "placebo",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Innovent Biopharmaceutical Technology (Hangzhou) Co., LTD."
+      }
+    ]
   }
 }

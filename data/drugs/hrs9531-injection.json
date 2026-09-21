@@ -1,7 +1,7 @@
 {
   "drug_name": "HRS9531 Injection",
   "slug": "hrs9531-injection",
-  "enriched_at": "2026-09-14T14:24:33Z",
+  "enriched_at": "2026-09-21T14:55:26Z",
   "source_trial_ids": [
     "NCT06649344"
   ],
@@ -54,43 +54,17 @@
   ],
   "prior_results": {
     "ctgov_results_urls": [],
-    "pubmed_articles": [
-      {
-        "pmid": "42733973",
-        "title": "Clinical progress in gene therapy for RPGR-associated X-linked retinitis pigmentosa.",
-        "pubdate": "2026 Sep 14",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42733973/"
-      },
-      {
-        "pmid": "42733495",
-        "title": "Growth factor enriched collagen matrix versus de-epithelialized graft in root coverage procedures - A randomized parallel arm clinical trial.",
-        "pubdate": "2026 Sep-Oct",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42733495/"
-      },
-      {
-        "pmid": "42733065",
-        "title": "The efficacy, immunogenicity and safety of the LZ901 vaccine for herpes zoster virus in adults 40 years of age or older: a multicentre, randomised, double-blind, placebo-controlled, phase 3 trial.",
-        "pubdate": "2026 Aug 7",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42733065/"
-      },
-      {
-        "pmid": "42729683",
-        "title": "Oral small-molecule GLP-1 receptor agonists: a new Frontier in cardiometabolic medicine.",
-        "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42729683/"
-      },
-      {
-        "pmid": "42721997",
-        "title": "Immunogenicity and safety of an MF59-adjuvanted cell-derived higher-dose quadrivalent influenza vaccine (aQIVc) in adults aged 50 years or older: a phase 3 randomised controlled trial.",
-        "pubdate": "2026 Sep 10",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42721997/"
-      }
-    ]
+    "pubmed_articles": []
   },
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
     "items": [
+      {
+        "name": "Oral semaglutide",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Novo Nordisk A/S"
+      },
       {
         "name": "Retatrutide",
         "chembl_id": null,
@@ -100,11 +74,6 @@
         "name": "Placebo",
         "chembl_id": null,
         "reason": "same indication trial, sponsor: Eli Lilly and Company"
-      },
-      {
-        "name": "Oral semaglutide",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Novo Nordisk A/S"
       }
     ]
   }

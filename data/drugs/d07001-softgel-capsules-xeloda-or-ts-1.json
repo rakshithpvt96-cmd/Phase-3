@@ -1,7 +1,7 @@
 {
   "drug_name": "D07001-softgel capsules + Xeloda (or TS-1)",
   "slug": "d07001-softgel-capsules-xeloda-or-ts-1",
-  "enriched_at": "2026-09-14T14:22:56Z",
+  "enriched_at": "2026-09-21T14:54:07Z",
   "source_trial_ids": [
     "NCT05065957"
   ],
@@ -63,6 +63,17 @@
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": []
+    "items": [
+      {
+        "name": "AK112, Gemcitabine, Cisplatin",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Akeso"
+      },
+      {
+        "name": "Durvalumab, Gemcitabine, Cisplatin",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Akeso"
+      }
+    ]
   }
 }

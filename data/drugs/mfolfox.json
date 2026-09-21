@@ -1,7 +1,7 @@
 {
   "drug_name": "mFOLFOX",
   "slug": "mfolfox",
-  "enriched_at": "2026-09-14T14:26:59Z",
+  "enriched_at": "2026-09-21T14:57:35Z",
   "source_trial_ids": [
     "NCT05065957"
   ],
@@ -90,6 +90,17 @@
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": []
+    "items": [
+      {
+        "name": "AK112, Gemcitabine, Cisplatin",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Akeso"
+      },
+      {
+        "name": "Durvalumab, Gemcitabine, Cisplatin",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Akeso"
+      }
+    ]
   }
 }

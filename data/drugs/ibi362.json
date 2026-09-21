@@ -1,7 +1,7 @@
 {
   "drug_name": "IBI362",
   "slug": "ibi362",
-  "enriched_at": "2026-09-14T14:24:58Z",
+  "enriched_at": "2026-09-21T14:55:42Z",
   "source_trial_ids": [
     "NCT07469800"
   ],
@@ -96,17 +96,6 @@
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": [
-      {
-        "name": "Retatrutide",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Eli Lilly and Company"
-      },
-      {
-        "name": "Placebo",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Eli Lilly and Company"
-      }
-    ]
+    "items": []
   }
 }
