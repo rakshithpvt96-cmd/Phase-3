@@ -1,12 +1,11 @@
 {
   "drug_name": "Placebo",
   "slug": "placebo",
-  "enriched_at": "2026-09-18T12:09:16Z",
+  "enriched_at": "2026-09-21T13:46:24Z",
   "source_trial_ids": [
     "NCT02914535",
     "NCT04023552",
     "NCT04036435",
-    "NCT04336722",
     "NCT04652882",
     "NCT04895241",
     "NCT04961567",
@@ -17,6 +16,7 @@
     "NCT05316220",
     "NCT05330182",
     "NCT05353257",
+    "NCT05511363",
     "NCT05608291",
     "NCT05627648",
     "NCT05636176",
@@ -79,12 +79,6 @@
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Actinogen%20Medical&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
-      "name": "Albireo, an Ipsen Company",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Albireo%2C%20an%20Ipsen%20Company&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Alfasigma S.p.A.",
@@ -285,6 +279,12 @@
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001832038&type=10-K&dateb=&owner=include&count=40"
     },
     {
+      "name": "Karuna Therapeutics, Inc., a Bristol Myers Squibb company",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Karuna%20Therapeutics%2C%20Inc.%2C%20a%20Bristol%20Myers%20Squibb%20company&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
       "name": "Kringle Pharma, Inc.",
       "ticker": null,
       "market_cap_display": null,
@@ -430,8 +430,8 @@
     }
   },
   "condition": {
-    "raw": "Biliary Atresia",
-    "slug": "biliary-atresia"
+    "raw": "Type 1 Diabetes Mellitus",
+    "slug": "type-1-diabetes-mellitus"
   },
   "source_trials": [
     {
@@ -453,13 +453,6 @@
       "title": "Long-Term Study That Measures the Safety and Efficacy of Deucravacitinib (BMS-986165) in Participants With Psoriasis",
       "status": "COMPLETED",
       "url": "https://clinicaltrials.gov/study/NCT04036435",
-      "has_results": false
-    },
-    {
-      "nct_id": "NCT04336722",
-      "title": "Efficacy and Safety of Odevixibat in Children With Biliary Atresia Who Have Undergone a Kasai HPE (BOLD)",
-      "status": "COMPLETED",
-      "url": "https://clinicaltrials.gov/study/NCT04336722",
       "has_results": false
     },
     {
@@ -530,6 +523,13 @@
       "title": "A Study to Evaluate the Efficacy and Safety of Serplulimab in Combination With Chemotherapy and Concurrent Radiotherapy in Patients With Limited-Stage Small Cell Lung Cancer",
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT05353257",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT05511363",
+      "title": "A Study to Assess Efficacy and Safety of KarXT for the Treatment of Psychosis Associated With Alzheimer's Disease (ADEPT-1)",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05511363",
       "has_results": false
     },
     {
@@ -880,34 +880,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42755338",
-        "title": "Oral PCSK9 inhibitors: closing the gap between potency and practicality.",
-        "pubdate": "2026 Sep 18",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42755338/"
+        "pmid": "42764956",
+        "title": "Current Perspectives on the Use of Adjuvant Pembrolizumab for Hepatocellular Carcinoma.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42764956/"
       },
       {
-        "pmid": "42754717",
-        "title": "Preparing and evaluating the effectiveness of topical cerosome of menthol on radial spasm and pain in patients with trans-radial angiography: a randomized, triple-blind, parallel placebo-controlled clinical trial.",
-        "pubdate": "2026 Sep 18",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42754717/"
+        "pmid": "42764919",
+        "title": "Progesterone in feminizing gender affirming hormone therapy: study protocol for a randomized placebo-controlled trial.",
+        "pubdate": "2026 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42764919/"
       },
       {
-        "pmid": "42754303",
-        "title": "Efficacy and Field Safety of the Second-Generation, Highly Selective JAK1 Inhibitor Atinvicitinib for the Treatment of Canine Atopic Dermatitis: A Multicentre, Blinded, Randomised, Placebo-Controlled Clinical Trial in Client-Owned Dogs.",
-        "pubdate": "2026 Sep 17",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42754303/"
+        "pmid": "42764892",
+        "title": "Dupilumab Improves Lung Function and Reduces Severe Exacerbations in Patients from China with Type 2 Asthma: A Subgroup Analysis of a Phase 3 Randomized Trial.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42764892/"
       },
       {
-        "pmid": "42753870",
-        "title": "What a negative trial does not tell us: Bayesian reanalysis of the enteral citrulline supplementation versus placebo on SOFA score on day 7 in mechanically ventilated critically ill patients randomized clinical trial.",
-        "pubdate": "2026 Sep 17",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42753870/"
+        "pmid": "42764731",
+        "title": "Oral vitamin C supplementation in patients with clonal cytopenia of undetermined significance or lower-risk myeloid malignancies: Results from EVITA, a phase 2 randomized, placebo-controlled trial.",
+        "pubdate": "2026 Oct 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42764731/"
       },
       {
-        "pmid": "42753771",
-        "title": "Clinical activity and safety of rilzabrutinib in patients with previously treated immune thrombocytopenia (LUNA3): results from the open-label period of a phase 3 trial.",
-        "pubdate": "2026 Sep 17",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42753771/"
+        "pmid": "42764665",
+        "title": "Agreement of Over-the-Counter Continuous Glucose Monitors With Capillary-Meter Glucose in Young Adults Without Diabetes.",
+        "pubdate": "2026 Sep 20",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42764665/"
       }
     ]
   },

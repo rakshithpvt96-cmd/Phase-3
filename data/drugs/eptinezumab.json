@@ -1,7 +1,7 @@
 {
   "drug_name": "Eptinezumab",
   "slug": "eptinezumab",
-  "enriched_at": "2026-08-22T07:34:22Z",
+  "enriched_at": "2026-09-21T13:47:08Z",
   "source_trial_ids": [
     "NCT04965675"
   ],
@@ -22,26 +22,26 @@
   },
   "mechanism": {
     "chembl_id": "CHEMBL3833320",
-    "target_chembl_id": "CHEMBL3832947",
-    "target_name": "Calcitonin gene-related peptide",
-    "mechanism_of_action_chembl": "Calcitonin gene-related peptide inhibitor"
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
   },
   "fda_label": {
     "has_label": true,
-    "source": "DailyMed",
-    "mechanism_of_action": null,
-    "pharmacokinetics": null,
-    "indications_and_usage": null,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Eptinezumab-jjmr is a humanized monoclonal antibody that binds to calcitonin gene-related peptide (CGRP) ligand and blocks its binding to the receptor.",
+    "pharmacokinetics": "12.3 Pharmacokinetics Eptinezumab-jjmr exhibits linear pharmacokinetics and exposure increases proportionally with doses from 100 mg to 300 mg after intravenous administration. Steady-state plasma concentration is attained after the first dose with a once every 3-month dosing schedule. Distribution The central volume of distribution (Vc) for eptinezumab-jjmr is approximately 3.7 liters. Metabolism & Elimination Eptinezumab-jjmr is expected to be degraded by proteolytic enzymes into small peptides and amino acids. The apparent clearance of eptinezumab-jjmr was 0.006 L/h, and the terminal elimination half-life was approximately 27 days. Specific Populations A population pharmacokinetic analysis assessing the effects of age, race, sex, and body weight did not suggest any clinically significant impact of these covariates on eptinezumab exposures. Patients with Renal or Hepatic Impairment No dedicated studies were conducted to assess the effects of renal or hepatic impairment on the pharmacokinetics of eptinezumab-jjmr. However, hepatic or renal impairment is not expected to affect the pharmacokinetics of eptinezumab-jjmr. A population pharmacokinetic analysis of integrated data from eptinezumab-jjmr clinical studies did not reveal clinically significant impact on pharmacokinetics of patients with hepatic or renal impairment. Drug Interaction Studies P450 Enzymes Eptinezumab-jjmr is not metabolized by cytochrome P450 enzymes; therefore, interactions with concomitant medications that are substrates, inducers, or inhibitors of cytochrome P450 enzymes are unlikely. Sumatriptan The co-administration of a single dose of 300 mg eptinezumab-jjmr administered as an intravenous infusion (over a period of 1 hour ± 15 min) with a single dose of 6 mg sumatriptan administered subcutaneously did not significantly influence the pharmacokinetics of eptinezumab-jjmr or sumatriptan.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE VYEPTI is indicated for the preventive treatment of migraine in adults. VYEPTI is a calcitonin gene-related peptide antagonist indicated for the preventive treatment of migraine in adults ( 1 )",
     "boxed_warning": null,
-    "openfda_brand_names": [],
-    "openfda_generic_names": [],
+    "openfda_brand_names": [
+      "Vyepti"
+    ],
+    "openfda_generic_names": [
+      "EPTINEZUMAB-JJMR"
+    ],
     "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=79065861-6aa5-4d1f-829f-3a6471286b36",
-    "note": "A label exists in DailyMed but structured sections could not be parsed automatically -- see dailymed_url for the full label.",
-    "further_reading": {
-      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Eptinezumab+mechanism+of+action",
-      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Eptinezumab+pharmacokinetics",
-      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Eptinezumab+efficacy+phase+3"
-    }
+    "note": null,
+    "further_reading": null
   },
   "condition": {
     "raw": "Chronic Migraine in Children",
@@ -80,7 +80,7 @@
       {
         "pmid": "42265869",
         "title": "Online interest in calcitonin gene-related peptide-therapies: An infodemiology study using Google trends.",
-        "pubdate": "2026 Jun 9",
+        "pubdate": "2026 Sep",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42265869/"
       },
       {
@@ -92,19 +92,8 @@
     ]
   },
   "related_drugs": {
-    "method": "chembl_same_target",
+    "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": [
-      {
-        "name": "GALCANEZUMAB",
-        "chembl_id": "CHEMBL3707328",
-        "reason": "same target: Calcitonin gene-related peptide"
-      },
-      {
-        "name": "FREMANEZUMAB",
-        "chembl_id": "CHEMBL4297756",
-        "reason": "same target: Calcitonin gene-related peptide"
-      }
-    ]
+    "items": []
   }
 }

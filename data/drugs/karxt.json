@@ -1,0 +1,101 @@
+{
+  "drug_name": "KarXT",
+  "slug": "karxt",
+  "enriched_at": "2026-09-21T13:48:17Z",
+  "source_trial_ids": [
+    "NCT05511363"
+  ],
+  "sponsors": [
+    {
+      "name": "Karuna Therapeutics, Inc., a Bristol Myers Squibb company",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Karuna%20Therapeutics%2C%20Inc.%2C%20a%20Bristol%20Myers%20Squibb%20company&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 60809,
+    "iupac_name": "3-hexoxy-4-(1-methyl-3,6-dihydro-2H-pyridin-5-yl)-1,2,5-thiadiazole",
+    "molecular_formula": "C14H23N3OS",
+    "molecular_weight": "281.42",
+    "canonical_smiles": null,
+    "inchikey": "JOLJIIDDOBNFHW-UHFFFAOYSA-N",
+    "rxnorm": null
+  },
+  "mechanism": {
+    "chembl_id": null,
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=KarXT+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=KarXT+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=KarXT+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Psychosis Associated With Alzheimer's Disease",
+    "slug": "psychosis-associated-with-alzheimer-s-disease"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05511363",
+      "title": "A Study to Assess Efficacy and Safety of KarXT for the Treatment of Psychosis Associated With Alzheimer's Disease (ADEPT-1)",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05511363",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42500322",
+        "title": "Emerging non-D(2) receptor-based therapies for schizophrenia: a focus on muscarinic and glutamatergic pathways.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42500322/"
+      },
+      {
+        "pmid": "42450007",
+        "title": "Xanomeline-Trospium Validates Muscarinic Agonism as an Effective Non-Dopaminergic Treatment for Schizophrenia.",
+        "pubdate": "2026 Jun 25",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42450007/"
+      },
+      {
+        "pmid": "42069559",
+        "title": "Transitioning from clozapine to Cobenfy (xanomeline-trospium chloride) in treatment resistant schizophrenia and clozapine induced OCD.",
+        "pubdate": "2026 May 2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42069559/"
+      },
+      {
+        "pmid": "42019313",
+        "title": "Effects of Xanomeline and Trospium Chloride for Negative Symptoms Associated With Physical Activity in Younger and Older Adults with Schizophrenia: Results From a 52-Week, Open-label Clinical Trial.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42019313/"
+      },
+      {
+        "pmid": "41634905",
+        "title": "Long-Term Safety and Efficacy of Xanomeline and Trospium Chloride in Schizophrenia: A 52-Week Open-Label Extension Trial.",
+        "pubdate": "2026 Mar 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41634905/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

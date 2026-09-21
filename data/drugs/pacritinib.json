@@ -1,0 +1,105 @@
+{
+  "drug_name": "Pacritinib",
+  "slug": "pacritinib",
+  "enriched_at": "2026-09-21T13:44:51Z",
+  "source_trial_ids": [
+    "NCT03165734"
+  ],
+  "sponsors": [
+    {
+      "name": "Swedish Orphan Biovitrum",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Swedish%20Orphan%20Biovitrum&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 46216796,
+    "iupac_name": "(16E)-11-(2-pyrrolidin-1-ylethoxy)-14,19-dioxa-5,7,27-triazatetracyclo[19.3.1.12,6.18,12]heptacosa-1(24),2(27),3,5,8(26),9,11,16,21(25),22-decaene",
+    "molecular_formula": "C28H32N4O3",
+    "molecular_weight": "472.6",
+    "canonical_smiles": null,
+    "inchikey": "HWXVIOGONBBTBY-ONEGZZNKSA-N",
+    "rxnorm": {
+      "rxcui": "2595243",
+      "generic_name": "pacritinib",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": null,
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Pacritinib is an oral kinase inhibitor with activity against wild type Janus associated kinase 2 (JAK2), mutant JAK2V617F, FMS-like tyrosine kinase 3 (FLT3), and interleukin 1 receptor associated kinase-1 (IRAK1) which contribute to signaling of a number of cytokines and growth factors that are important for hematopoiesis and immune function. Pacritinib is also an inhibitor of activin A receptor, type 1/activin receptor like-kinase 2 (ACVR1/ALK2). MF is often associated with dysregulated JAK2 signaling. At clinically relevant concentrations, pacritinib does not inhibit JAK1. Pacritinib has higher inhibitory activity for JAK2 compared to JAK3 and tyrosine kinase 2 (TYK2). Pacritinib exhibits inhibitory activity against additional cellular kinases, such as colony stimulating factor 1 receptor (CSF1R), of which the clinical relevance in myelofibrosis is unknown.",
+    "pharmacokinetics": "12.3 Pharmacokinetics Pacritinib steady-state mean (CV%) C max is 8.4 mg/L (32.4%) and AUC 0-12 is 95.6 mg×h/L (33.1%) following administration of VONJO 200 mg twice daily in patients with MF. Pharmacokinetics of pacritinib increases in a less than dose-proportional manner. VONJO 200 mg twice daily accumulates 386% and reaches steady-state within a week. Absorption Pacritinib achieves C max within approximately 4 to 5 hours post-dose. Effect of Food There was no significant effect of food on the pharmacokinetics of pacritinib following oral administration of VONJO 200 mg with a high-fat meal. Distribution The median (range) apparent volume of distribution of pacritinib at steady state is 229 L (156 to 591 L) in patients with MF taking 200 mg twice daily. Plasma protein binding of pacritinib is approximately 98.8%. Metabolism Pacritinib is predominantly metabolized by the CYP3A4 isozyme. Pacritinib is the major circulating component and the pharmacologic activity is mainly attributed to the parent molecule. Two major metabolites, M1 and M2, in human whole plasma represent 9.6% and 10.5% of parent drug exposure, respectively. Elimination The mean apparent clearance at steady-state (CV%) of pacritinib is 2.09 L/h (33.1%), and mean effective half-life (CV%) is 27.7 hours (17.0%). Excretion Following a single oral administration of radiolabeled pacritinib 400 mg in healthy adult subjects, 87% of the radioactivity was recovered in feces, and 6% was recovered in urine. No unchanged drug was excreted in feces and 0.12% of unchanged drug was excreted in urine. Specific Populations No clinically significant differences in the pharmacokinetics of pacritinib were observed based on age, sex, body weight, or race. Patients With Renal Impairment Pacritinib C max and AUC were similar in subjects with eGFR 30 to 89 mL/min, as estimated by the MDRD study equation, compared to subjects with eGFR ≥90 mL/min. The C max and AUC increased approximately 30% in subjects with eGFR 15 to 29 mL/min and eGFR <15 mL/min on hemodialysis. Patients With Hepatic Impairment The effect of hepatic impairment on the pharmacokinetics of pacritinib was studied in subjects with normal or impaired hepatic function at 200 mg VONJO twice daily for 14 days. The geometric mean AUC of total pacritinib decreased in subjects with moderate [Child-Pugh B, n=8] or severe hepatic impairment [Child-Pugh C, n=6] compared to subjects with normal hepatic function (n=11) due to reduced plasma protein binding. The geometric mean AUC of unbound pacritinib, the pharmacologically relevant parameter, was similar in healthy subjects compared to subjects with moderate hepatic impairment and increased by 23% in subjects with severe hepatic impairment (see Table 6). Table 6 Steady-State Pharmacokinetic Changes in Pacritinib at 200 mg VONJO BID: Subjects with Moderate / Severe Hepatic Impairment vs. Normal Hepatic Function Hepatic impairment Ratio (90% CI) of pacritinib exposure 1 Unbound C max Unbound AUC 0-tau Moderate impairment (Child-Pugh B) 1.06 (0.72, 1.58) 1.05 (0.69, 1.60) Severe impairment (Child-Pugh C) 1.24 (0.93, 1.65) 1.23 (0.91, 1.66) Notes: AUC 0-tau = Area under the curve from zero to tau post-dose after 14 days twice daily dosing with VONJO 200 mg; CI = Confidence Interval; C max = Maximum plasma concentration. 1 Ratios for C max and AUC compare exposure of unbound pacritinib in subjects with hepatic impairment vs normal hepatic function following administration of VONJO 200 mg BID for 14 days. Drug Interactions Effects of Other Drugs on the Pharmacokinetics of VONJO The effect of co-administered drugs on the exposure of pacritinib is shown in Table 7 and Table 8. Table 7 Change in Pharmacokinetics of Pacritinib Following Administration of a Single 400 mg Dose VONJO in the Presence of Co-administered Drugs Co-administered Drug Regimen of Co-administered Drug Ratio (90% CI) of pacritinib exposure 1 C max AUC 0-t Clarithromycin (strong CYP3A4 inhibitor) 500 mg every 12 hours for 5 days 1.30 (1.22, 1.39) 1.80 (1.67, 1.94) Rifampin (strong CYP3A4 inducer) 600 mg once daily for 10 days 0.49 (0.43, 0.55) 0.13 (0.11, 0.15) Notes: AUC 0-t = Area under the curve from zero to the last quantifiable concentration; CI = Confidence interval; CYP = Cytochrome P450 1 Ratios for C max and AUC compare co-administration of the medication with VONJO vs. administration of single dose 400 mg VONJO alone Table 8 Change in Pharmacokinetics of 200 mg VONJO BID at Steady State in the Presence of Co-administered Drugs Co-administered Drug Regimen of Co-administered Drug Ratio (90% CI) of pacritinib exposure 1 C max AUC 0-tau Fluconazole (moderate CYP3A4 inhibitor) 200 mg once daily for 7 days 1.41 (1.35, 1.48) 1.45 (1.39, 1.52) Bosentan (moderate CYP3A4 inducer) 125 mg twice daily for 7 days 0.84 (0.76, 0.92) 0.79 (0.72, 0.87) Notes: AUC 0-tau = Area under the curve for a dosing interval; BID = Twice daily; CI = Confidence interval; C max = Maximum plasma concentration; CYP = Cytochrome P450. 1 Ratios for C max and AUC 0-tau compare co-administration of the medication with 200 mg VONJO BID vs. administration of 200 mg VONJO alone at steady state. Effects of VONJO on the Pharmacokinetics of Other Drugs The effect of pacritinib on the exposure of other co-administered drugs is shown in Table 9. Table 9 Change in Pharmacokinetics of Co-administered Drugs with 200 mg VONJO BID at Steady State Co-administered Drug Regimen of Co-administered Drug (single dose) Ratio (90% CI) of exposure of co-administered drug 1 C max AUC Caffeine (CYP1A2 substrate) 100 mg 0.99 (0.92, 1.07) 1.22 (1.12, 1.32) Midazolam (CYP3A4 substrate) 2 mg 0.40 (0.34, 0.46) 0.40 (0.35, 0.46) Omeprazole (CYP2C19 substrate) 20 mg 0.73 (0.46, 1.15) 0.49 (0.27, 0.89) Notes: AUC = Area under the curve from zero to the last quantifiable concentration displayed for caffeine and AUC from zero extrapolated to infinity displayed for midazolam and omeprazole; BID = Twice daily; CI = Confidence interval; C max = Maximum plasma concentration; CYP = Cytochrome P450. 1 Ratios for C max and AUC compare a single dose of co-administered drug with 200 mg VONJO BID at steady state vs. administration of a single dose of the co-administered drug alone. In Vitro Studies Cytochrome P450 (CYP) Enzymes: Pacritinib is a time-dependent inhibitor of CYP1A2 and CYP3A4, and a reversible inhibitor of CYP3A4 and CYP2C19 (Ki ≤10 µM). Pacritinib shows less direct inhibition towards CYP1A2, CYP2B6, CYP2C8, CYP2C9, and CYP2D6 (Ki >10 µM). Pacritinib is an inducer of CYP1A2 and CYP3A4. Transporter Systems Table 10 Change in Pharmacokinetics of Co-administered Drugs with 200 mg VONJO BID at Steady State Co-administered Drug Regimen of Co-administered Drug (single dose) Ratio (90% CI) of exposure of co-administered drug 1 C max AUC Metformin (OCT1 substrate) 500 mg 0.96 (0.87, 1.07) 1.05 (0.96, 1.15) Digoxin (P-gp substrate) 0.25 mg 1.29 (1.13, 1.47) 1.15 (1.05, 1.27) Rosuvastatin (BCRP substrate) 5 mg 2.04 (1.79, 2.31) 1.80 (1.63, 1.99) Notes: AUC = Area under the curve from zero to the last quantifiable concentration displayed for digoxin and rosuvastatin and AUC from zero extrapolated to infinity displayed for metformin; BID = Twice daily; CI = Confidence interval; C max = Maximum plasma concentration; CYP = Cytochrome P450 1 Ratios for C max and AUC compare a single dose of co-administered drug with 200 mg VONJO BID at steady state vs. administration of a single dose of the co-administered drug alone. In Vitro Studies Transporter Systems: Pacritinib is not a substrate of BCRP, MRP2, OAT1, OAT3, OATP1B1, OATP1B3, OCT1, OCT2, or P-gp. Pacritinib is an inhibitor of BCRP, OCT1, OCT2, and P-gp. Pacritinib is not an inhibitor of BSEP, MRP2, OAT1, or OAT3.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE VONJO is indicated for the treatment of adults with intermediate or high-risk primary or secondary (post-polycythemia vera or post-essential thrombocythemia) myelofibrosis (MF) with a platelet count below 50 × 10 9 /L. This indication is approved under accelerated approval based on spleen volume reduction [see Clinical Studies ( 14 )] . Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial(s). VONJO is a kinase inhibitor indicated for the treatment of adults with intermediate or high-risk primary or secondary (post-polycythemia vera or post-essential thrombocythemia) myelofibrosis with a platelet count below 50 × 10 9 /L ( 1 ). This indication is approved under accelerated approval based on spleen volume reduction. Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial(s).",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "Vonjo"
+    ],
+    "openfda_generic_names": [
+      "PACRITINIB"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4b5ab444-0e1a-4984-99db-76ad11a298ee",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Primary Myelofibrosis",
+    "slug": "primary-myelofibrosis"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT03165734",
+      "title": "A Phase 3 Study of Pacritinib in Patients With Primary Myelofibrosis, Post Polycythemia Vera Myelofibrosis, or Post-Essential Thrombocythemia Myelofibrosis",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT03165734",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42601824",
+        "title": "Janus kinase inhibitors after ruxolitinib failure in myelofibrosis: A systematic review and pooled analysis of phase 3 efficacy and integrated safety across clinical trials and real-world evidence.",
+        "pubdate": "2026 Aug 14",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42601824/"
+      },
+      {
+        "pmid": "42316774",
+        "title": "Efficacy of pacritinib versus momelotinib in patients with thrombocytopenic myelofibrosis: a matching-adjusted indirect treatment comparison.",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42316774/"
+      },
+      {
+        "pmid": "42213484",
+        "title": "Pacritinib Impact on QT Interval: Results of a Thorough QT Study and Post Hoc Analysis of Prospective Clinical Trial Data.",
+        "pubdate": "2026 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42213484/"
+      },
+      {
+        "pmid": "41793151",
+        "title": "POIESIS: a phase III study of add-on navtemadlin in JAK inhibitor-naïve myelofibrosis patients with a suboptimal response to ruxolitinib.",
+        "pubdate": "2026 Mar",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41793151/"
+      },
+      {
+        "pmid": "41753113",
+        "title": "PAXIS: A Randomized, Double-Blind, Placebo-Controlled, Dose-Finding Phase 2 Study (Part 1) Followed by an Open-Label Period (Part 2) to Assess the Efficacy and Safety of Pacritinib in Patients with VEXAS Syndrome.",
+        "pubdate": "2026 Feb 11",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41753113/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

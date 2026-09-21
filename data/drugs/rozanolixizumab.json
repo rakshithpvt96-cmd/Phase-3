@@ -1,7 +1,7 @@
 {
   "drug_name": "rozanolixizumab",
   "slug": "rozanolixizumab",
-  "enriched_at": "2026-08-16T07:35:31Z",
+  "enriched_at": "2026-09-21T13:46:46Z",
   "source_trial_ids": [
     "NCT06149559"
   ],
@@ -92,28 +92,13 @@
     ]
   },
   "related_drugs": {
-    "method": "chembl_same_target",
+    "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
     "items": [
       {
-        "name": "EFGARTIGIMOD ALFA",
-        "chembl_id": "CHEMBL4297551",
-        "reason": "same target: IgG receptor FcRn large subunit p51"
-      },
-      {
-        "name": "NIPOCALIMAB",
-        "chembl_id": "CHEMBL4594310",
-        "reason": "same target: IgG receptor FcRn large subunit p51"
-      },
-      {
-        "name": "BATOCLIMAB",
-        "chembl_id": "CHEMBL4650514",
-        "reason": "same target: IgG receptor FcRn large subunit p51"
-      },
-      {
-        "name": "ORILANOLIMAB",
-        "chembl_id": "CHEMBL4298117",
-        "reason": "same target: IgG receptor FcRn large subunit p51"
+        "name": "Ravulizumab",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Alexion Pharmaceuticals, Inc."
       }
     ]
   }

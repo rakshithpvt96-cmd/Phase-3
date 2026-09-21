@@ -1,0 +1,99 @@
+{
+  "drug_name": "Physician's Choice medications",
+  "slug": "physician-s-choice-medications",
+  "enriched_at": "2026-09-21T13:45:30Z",
+  "source_trial_ids": [
+    "NCT03165734"
+  ],
+  "sponsors": [
+    {
+      "name": "Swedish Orphan Biovitrum",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Swedish%20Orphan%20Biovitrum&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1037027",
+      "generic_name": "Doctor's Choice",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": null,
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Physician%27s%20Choice%20medications+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Physician%27s%20Choice%20medications+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Physician%27s%20Choice%20medications+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Primary Myelofibrosis",
+    "slug": "primary-myelofibrosis"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT03165734",
+      "title": "A Phase 3 Study of Pacritinib in Patients With Primary Myelofibrosis, Post Polycythemia Vera Myelofibrosis, or Post-Essential Thrombocythemia Myelofibrosis",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT03165734",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42535874",
+        "title": "TroFuse-011 study design: sacituzumab tirumotecan with or without pembrolizumab for advanced triple-negative breast cancer with PD-L1 CPS <10.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42535874/"
+      },
+      {
+        "pmid": "42463211",
+        "title": "Development of a predictive marker panel for the individualised bDMARD therapy of psoriatic arthritis: protocol for a prospective observational study (Integrate-PsA).",
+        "pubdate": "2026 Jul 15",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42463211/"
+      },
+      {
+        "pmid": "42361291",
+        "title": "API-CAT Investigators' Decisions on Anticoagulation following Extended Treatment for Cancer VTE.",
+        "pubdate": "2026 Jun 26",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42361291/"
+      },
+      {
+        "pmid": "42305454",
+        "title": "Efficacy and safety of antibody-drug conjugates for HR+/HER2-low advanced breast cancer: a systematic review with Bayesian network meta-analysis and real-world study.",
+        "pubdate": "2026 May 30",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42305454/"
+      },
+      {
+        "pmid": "42223796",
+        "title": "Real-World Treatment Patterns for Patients with High-Risk Biochemically Recurrent Nonmetastatic Castration‑Sensitive Prostate Cancer.",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42223796/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}
