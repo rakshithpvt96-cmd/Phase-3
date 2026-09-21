@@ -1,7 +1,7 @@
 {
   "drug_name": "Semaglutide Injection",
   "slug": "semaglutide-injection",
-  "enriched_at": "2026-09-14T14:45:52Z",
+  "enriched_at": "2026-09-21T15:15:00Z",
   "source_trial_ids": [
     "NCT06649344"
   ],
@@ -60,6 +60,12 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42760621",
+        "title": "Orforglipron: An Oral GLP-1 Receptor Agonist for Obesity Treatment.",
+        "pubdate": "2026 Sep 18",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42760621/"
+      },
+      {
         "pmid": "42729683",
         "title": "Oral small-molecule GLP-1 receptor agonists: a new Frontier in cardiometabolic medicine.",
         "pubdate": "2026",
@@ -82,12 +88,6 @@
         "title": "Efficacy and safety of semaglutide injection in Indian patients with type 2 diabetes mellitus inadequately controlled on metformin: A phase 3, randomized, active-controlled, multicenter, non-inferiority trial (WIN-IND study).",
         "pubdate": "2026 Sep",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42598626/"
-      },
-      {
-        "pmid": "42582425",
-        "title": "Potential nephroprotective mechanisms of orforglipron, an oral non-peptide GLP-1 receptor agonist.",
-        "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42582425/"
       }
     ]
   },
@@ -95,6 +95,11 @@
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
     "items": [
+      {
+        "name": "Oral semaglutide",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Novo Nordisk A/S"
+      },
       {
         "name": "Retatrutide",
         "chembl_id": null,
@@ -104,11 +109,6 @@
         "name": "Placebo",
         "chembl_id": null,
         "reason": "same indication trial, sponsor: Eli Lilly and Company"
-      },
-      {
-        "name": "Oral semaglutide",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Novo Nordisk A/S"
       }
     ]
   }
