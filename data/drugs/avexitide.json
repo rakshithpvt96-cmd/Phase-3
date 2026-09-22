@@ -1,7 +1,7 @@
 {
   "drug_name": "Avexitide",
   "slug": "avexitide",
-  "enriched_at": "2026-09-15T12:45:48Z",
+  "enriched_at": "2026-09-22T13:05:17Z",
   "source_trial_ids": [
     "NCT06747468"
   ],
@@ -29,7 +29,7 @@
   "mechanism": {
     "chembl_id": "CHEMBL4297949",
     "target_chembl_id": "CHEMBL1784",
-    "target_name": "Glucagon-like peptide 1 receptor",
+    "target_name": null,
     "mechanism_of_action_chembl": "Glucagon-like peptide 1 receptor antagonist"
   },
   "fda_label": {
@@ -66,6 +66,12 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42744082",
+        "title": "Efficacy and safety of avexitide for treatment of hypoglycemia following bariatric and other upper gastrointestinal surgeries: a phase 2b study.",
+        "pubdate": "2026 Sep 15",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42744082/"
+      },
+      {
         "pmid": "38151760",
         "title": "Elucidating the glucose-lowering effect of the bile acid sequestrant sevelamer.",
         "pubdate": "2024 Apr",
@@ -92,52 +98,52 @@
       {
         "name": "LIRAGLUTIDE",
         "chembl_id": "CHEMBL4084119",
-        "reason": "same target: Glucagon-like peptide 1 receptor"
+        "reason": "same target: CHEMBL1784"
       },
       {
         "name": "EXENATIDE",
         "chembl_id": "CHEMBL414357",
-        "reason": "same target: Glucagon-like peptide 1 receptor"
+        "reason": "same target: CHEMBL1784"
       },
       {
         "name": "ALBIGLUTIDE",
         "chembl_id": "CHEMBL2107841",
-        "reason": "same target: Glucagon-like peptide 1 receptor"
+        "reason": "same target: CHEMBL1784"
       },
       {
         "name": "DULAGLUTIDE",
         "chembl_id": "CHEMBL2108027",
-        "reason": "same target: Glucagon-like peptide 1 receptor"
+        "reason": "same target: CHEMBL1784"
       },
       {
         "name": "TASPOGLUTIDE",
         "chembl_id": "CHEMBL2107860",
-        "reason": "same target: Glucagon-like peptide 1 receptor"
+        "reason": "same target: CHEMBL1784"
       },
       {
         "name": "SEMAGLUTIDE",
         "chembl_id": "CHEMBL2108724",
-        "reason": "same target: Glucagon-like peptide 1 receptor"
+        "reason": "same target: CHEMBL1784"
       },
       {
         "name": "LIXISENATIDE",
         "chembl_id": "CHEMBL2108336",
-        "reason": "same target: Glucagon-like peptide 1 receptor"
+        "reason": "same target: CHEMBL1784"
       },
       {
         "name": "DANUGLIPRON",
         "chembl_id": "CHEMBL4518483",
-        "reason": "same target: Glucagon-like peptide 1 receptor"
+        "reason": "same target: CHEMBL1784"
       },
       {
         "name": "COTADUTIDE",
         "chembl_id": "CHEMBL4297630",
-        "reason": "same target: Glucagon-like peptide 1 receptor"
+        "reason": "same target: CHEMBL1784"
       },
       {
         "name": "EFINOPEGDUTIDE",
         "chembl_id": "CHEMBL4297576",
-        "reason": "same target: Glucagon-like peptide 1 receptor"
+        "reason": "same target: CHEMBL1784"
       }
     ]
   }
