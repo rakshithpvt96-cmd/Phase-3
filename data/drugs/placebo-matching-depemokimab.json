@@ -1,7 +1,7 @@
 {
   "drug_name": "Placebo matching depemokimab",
   "slug": "placebo-matching-depemokimab",
-  "enriched_at": "2026-09-15T12:35:05Z",
+  "enriched_at": "2026-09-22T12:44:46Z",
   "source_trial_ids": [
     "NCT05263934"
   ],
@@ -22,9 +22,9 @@
   },
   "mechanism": {
     "chembl_id": "CHEMBL4650469",
-    "target_chembl_id": "CHEMBL1169600",
-    "target_name": "Interleukin-5",
-    "mechanism_of_action_chembl": "Interleukin-5 inhibitor"
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
   },
   "fda_label": {
     "has_label": false,
@@ -68,19 +68,8 @@
     ]
   },
   "related_drugs": {
-    "method": "chembl_same_target",
+    "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": [
-      {
-        "name": "MEPOLIZUMAB",
-        "chembl_id": "CHEMBL2108429",
-        "reason": "same target: Interleukin-5"
-      },
-      {
-        "name": "RESLIZUMAB",
-        "chembl_id": "CHEMBL2107884",
-        "reason": "same target: Interleukin-5"
-      }
-    ]
+    "items": []
   }
 }
