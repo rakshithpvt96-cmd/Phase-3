@@ -1,9 +1,9 @@
 {
-  "drug_name": "Monalizumab",
-  "slug": "monalizumab",
-  "enriched_at": "2026-09-23T12:39:34Z",
+  "drug_name": "UFT",
+  "slug": "uft",
+  "enriched_at": "2026-09-23T12:41:10Z",
   "source_trial_ids": [
-    "NCT05221840"
+    "NCT06564844"
   ],
   "sponsors": [
     {
@@ -15,16 +15,16 @@
   ],
   "identity": {
     "rxnorm": {
-      "rxcui": "1941344",
-      "generic_name": null,
+      "rxcui": "466977",
+      "generic_name": "tegafur / uracil",
       "brand_names": []
     }
   },
   "mechanism": {
-    "chembl_id": "CHEMBL4297787",
-    "target_chembl_id": "CHEMBL4630892",
-    "target_name": "NKG2-A/NKG2-B type II integral membrane protein",
-    "mechanism_of_action_chembl": "NKG2-A/NKG2-B type II integral membrane protein inhibitor"
+    "chembl_id": null,
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
   },
   "fda_label": {
     "has_label": false,
@@ -38,21 +38,21 @@
     "dailymed_url": null,
     "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
     "further_reading": {
-      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Monalizumab+mechanism+of+action",
-      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Monalizumab+pharmacokinetics",
-      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Monalizumab+efficacy+phase+3"
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=UFT+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=UFT+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=UFT+efficacy+phase+3"
     }
   },
   "condition": {
-    "raw": "Non-Small Cell Lung Cancer",
+    "raw": "Non-small Cell Lung Cancer",
     "slug": "non-small-cell-lung-cancer"
   },
   "source_trials": [
     {
-      "nct_id": "NCT05221840",
-      "title": "A Global Study to Assess the Effects of Durvalumab With Oleclumab or Durvalumab With Monalizumab Following Concurrent Chemoradiation in Patients With Stage III Unresectable Non-Small Cell Lung Cancer",
+      "nct_id": "NCT06564844",
+      "title": "A Phase III, Randomised Study of Adjuvant Dato-DXd in Combination With Rilvegostomig or Rilvegostomig Monotherapy Versus Standard of Care, Following Complete Tumour Resection, in Participants With Stage I Adenocarcinoma NSCLC Who Are ctDNA-positive or Have High-risk Pathological Features",
       "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT05221840",
+      "url": "https://clinicaltrials.gov/study/NCT06564844",
       "has_results": false
     }
   ],
@@ -60,22 +60,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "40663352",
-        "title": "Durvalumab Alone or Combined With Novel Agents for Unresectable Stage III Non-Small Cell Lung Cancer: Update From the COAST Randomized Clinical Trial.",
-        "pubdate": "2025 Jul 1",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/40663352/"
+        "pmid": "42046539",
+        "title": "Evaluation of clinical impact of ultra fast-track versus conventional extubation in patients undergoing nonemergency cardiac surgery: 'CARDU-FAST': A randomised clinical trial.",
+        "pubdate": "2026 Apr 28",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42046539/"
       },
       {
-        "pmid": "39023287",
-        "title": "PACIFIC-9: Phase III trial of durvalumab + oleclumab or monalizumab in unresectable stage III non-small-cell lung cancer.",
-        "pubdate": "2024",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/39023287/"
+        "pmid": "41331821",
+        "title": "Effects of transcutaneous electrical nerve stimulation for the treatment of pain and respiratory function following mastopexy with augmentation: study protocol for a randomized controlled trial.",
+        "pubdate": "2025 Dec 2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41331821/"
       },
       {
-        "pmid": "31623687",
-        "title": "Monalizumab: inhibiting the novel immune checkpoint NKG2A.",
-        "pubdate": "2019 Oct 17",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/31623687/"
+        "pmid": "40010135",
+        "title": "Tegafur-uracil maintenance chemotherapy post-chemoradiotherapy for cervical cancer: Randomized trial.",
+        "pubdate": "2025 Mar 26",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40010135/"
+      },
+      {
+        "pmid": "37543930",
+        "title": "Potential of Autologous Adipose-Derived Mesenchymal Stem Cells in Peritoneal Fibrosis: A Pilot Study.",
+        "pubdate": "2023 Feb 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37543930/"
+      },
+      {
+        "pmid": "36752867",
+        "title": "Comparable efficacy and safety of COVID-19 vaccines for patients receiving tegafur-uracil as postoperative adjuvant chemotherapy.",
+        "pubdate": "2023 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36752867/"
       }
     ]
   },

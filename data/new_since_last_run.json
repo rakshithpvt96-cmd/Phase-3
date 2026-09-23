@@ -1,6 +1,121 @@
 {
-  "generated_at": "2026-09-22T13:56:47Z",
-  "new_trial_count": 0,
-  "new_trials": [],
-  "removed_trial_ids": []
+  "generated_at": "2026-09-23T12:37:46Z",
+  "new_trial_count": 2,
+  "new_trials": [
+    {
+      "nct_id": "NCT06564844",
+      "title": "A Phase III, Randomised Study of Adjuvant Dato-DXd in Combination With Rilvegostomig or Rilvegostomig Monotherapy Versus Standard of Care, Following Complete Tumour Resection, in Participants With Stage I Adenocarcinoma NSCLC Who Are ctDNA-positive or Have High-risk Pathological Features",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "AstraZeneca",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-07-10",
+      "primary_completion_date_type": "ACTUAL",
+      "window": "lookback",
+      "conditions": [
+        "Non-small Cell Lung Cancer"
+      ],
+      "interventions": [
+        {
+          "name": "Datopotamab Deruxtecan",
+          "type": "DRUG"
+        },
+        {
+          "name": "Rilvegostomig",
+          "type": "DRUG"
+        },
+        {
+          "name": "Carboplatin",
+          "type": "DRUG"
+        },
+        {
+          "name": "Cisplatin",
+          "type": "DRUG"
+        },
+        {
+          "name": "Etoposide",
+          "type": "DRUG"
+        },
+        {
+          "name": "Pemetrexed",
+          "type": "DRUG"
+        },
+        {
+          "name": "Vinorelbine",
+          "type": "DRUG"
+        },
+        {
+          "name": "UFT",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "Datopotamab Deruxtecan",
+        "Rilvegostomig",
+        "Carboplatin",
+        "Cisplatin",
+        "Etoposide",
+        "Pemetrexed",
+        "Vinorelbine",
+        "UFT"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06564844",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "AstraZeneca",
+        "ticker": "AZN",
+        "cik": "0000901832",
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000901832&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-09-20T12:51:09Z"
+      }
+    },
+    {
+      "nct_id": "NCT02612454",
+      "title": "Study to Assess the Long-term Safety of Dupilumab Administered in Participants ≥6 Months to <18 Years of Age With Atopic Dermatitis (AD)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Regeneron Pharmaceuticals",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-10-07",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Atopic Dermatitis"
+      ],
+      "interventions": [
+        {
+          "name": "Dupilumab",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "Dupilumab"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT02612454",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Regeneron Pharmaceuticals",
+        "ticker": "REGN",
+        "cik": "0000872589",
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000872589&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-09-20T12:51:36Z"
+      }
+    }
+  ],
+  "removed_trial_ids": [
+    "NCT05018585",
+    "NCT06596135"
+  ]
 }

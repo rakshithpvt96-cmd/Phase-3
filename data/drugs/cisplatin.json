@@ -1,15 +1,14 @@
 {
   "drug_name": "Cisplatin",
   "slug": "cisplatin",
-  "enriched_at": "2026-09-16T12:29:26Z",
+  "enriched_at": "2026-09-23T12:38:22Z",
   "source_trial_ids": [
-    "NCT04634877",
     "NCT05116462",
     "NCT05152147",
     "NCT05261399",
     "NCT06123884",
-    "NCT06151574",
     "NCT06417814",
+    "NCT06564844",
     "NCT06624059",
     "NCT06687369",
     "NCT06927986"
@@ -26,12 +25,6 @@
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Bio-Thera%20Solutions&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
-      "name": "Boehringer Ingelheim",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Boehringer%20Ingelheim&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "CSPC Megalith Biopharmaceutical Co.,Ltd.",
@@ -56,12 +49,6 @@
       "ticker": "JAZZ",
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001232524&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
-      "name": "Merck Sharp & Dohme LLC",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Merck%20Sharp%20%26%20Dohme%20LLC&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "mAbxience Research S.L.",
@@ -112,13 +99,6 @@
   },
   "source_trials": [
     {
-      "nct_id": "NCT04634877",
-      "title": "Study of Pembrolizumab (MK-3475) in Combination With Adjuvant Chemotherapy With or Without Radiotherapy in Participants With Newly Diagnosed Endometrial Cancer After Surgery With Curative Intent (MK-3475-B21 / KEYNOTE-B21 / ENGOT-en11 / GOG-3053)",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT04634877",
-      "has_results": false
-    },
-    {
       "nct_id": "NCT05116462",
       "title": "Neoadjuvant and Adjuvant Therapy Studies of Sindilizumab in Resectable Lung Cancer",
       "status": "ACTIVE_NOT_RECRUITING",
@@ -147,17 +127,17 @@
       "has_results": false
     },
     {
-      "nct_id": "NCT06151574",
-      "title": "Beamion LUNG-2: A Study to Test Whether Zongertinib (BI 1810631) Helps People With Advanced Non-small Cell Lung Cancer With HER2 Mutations Compared With Standard Treatment",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06151574",
-      "has_results": false
-    },
-    {
       "nct_id": "NCT06417814",
       "title": "A Study to Investigate the Efficacy and Safety of Dato-DXd With or Without Osimertinib Compared With Platinum Based Doublet Chemotherapy in Participants With EGFR-Mutated Locally Advanced or Metastatic Non-Small Cell Lung Cancer",
       "status": "RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT06417814",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06564844",
+      "title": "A Phase III, Randomised Study of Adjuvant Dato-DXd in Combination With Rilvegostomig or Rilvegostomig Monotherapy Versus Standard of Care, Following Complete Tumour Resection, in Participants With Stage I Adenocarcinoma NSCLC Who Are ctDNA-positive or Have High-risk Pathological Features",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06564844",
       "has_results": false
     },
     {
@@ -186,6 +166,18 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42773210",
+        "title": "Trastuzumab plus nivolumab with gemcitabine and cisplatin as first-line therapy for HER2-positive unresectable biliary tract cancer: a phase 1b/2 trial.",
+        "pubdate": "2026 Sep 22",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42773210/"
+      },
+      {
+        "pmid": "42755553",
+        "title": "Bibliometric and clinical trial landscape of hepatoblastoma (2000-2024): a multi-database analysis of global research.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42755553/"
+      },
+      {
         "pmid": "42733563",
         "title": "Short-term versus long-course neoadjuvant chemotherapy for resectable and borderline resectable pancreatic ductal adenocarcinoma (PACT-21 CASSANDRA): results from the second randomisation analysis of a randomised, open-label, 2 × 2 factorial phase 3 trial.",
         "pubdate": "2026 Sep",
@@ -202,18 +194,6 @@
         "title": "Exploring New Frontiers in Osteosarcoma Treatment: Clinical Trial Insights.",
         "pubdate": "2026 Sep 3",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42725507/"
-      },
-      {
-        "pmid": "42701199",
-        "title": "Cisplatin enhances radiation-induced apoptosis in peripheral lymphocytes of cancer patients: in vivo and in vitro findings.",
-        "pubdate": "2026 Sep 5",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42701199/"
-      },
-      {
-        "pmid": "42701122",
-        "title": "Neoadjuvant triplet chemotherapy enables radiotherapy avoidance in human papillomavirus-associated oropharyngeal cancer: a multicentre Phase II trial.",
-        "pubdate": "2026 Sep 5",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42701122/"
       }
     ]
   },

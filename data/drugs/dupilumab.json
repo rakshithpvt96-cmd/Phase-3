@@ -1,13 +1,17 @@
 {
   "drug_name": "Dupilumab",
   "slug": "dupilumab",
-  "enriched_at": "2026-08-15T21:12:40Z",
+  "enriched_at": "2026-09-23T12:38:41Z",
   "source_trial_ids": [
-    "NCT06687967",
-    "NCT06687980"
+    "NCT02612454"
   ],
   "sponsors": [
-    "Sanofi"
+    {
+      "name": "Regeneron Pharmaceuticals",
+      "ticker": "REGN",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000872589&type=10-K&dateb=&owner=include&count=40"
+    }
   ],
   "identity": {
     "rxnorm": {
@@ -40,22 +44,15 @@
     "further_reading": null
   },
   "condition": {
-    "raw": "Lichen Simplex Chronicus",
-    "slug": "lichen-simplex-chronicus"
+    "raw": "Atopic Dermatitis",
+    "slug": "atopic-dermatitis"
   },
   "source_trials": [
     {
-      "nct_id": "NCT06687967",
-      "title": "A Study to Investigate Improvement in Pruritus of Lichen Simplex Chronicus With Dupilumab Injections Compared With Placebo in Male and Female Participants Aged at Least 18 Years (STYLE 1)",
+      "nct_id": "NCT02612454",
+      "title": "Study to Assess the Long-term Safety of Dupilumab Administered in Participants ≥6 Months to <18 Years of Age With Atopic Dermatitis (AD)",
       "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06687967",
-      "has_results": false
-    },
-    {
-      "nct_id": "NCT06687980",
-      "title": "A Study to Investigate Improvement in Pruritus of Lichen Simplex Chronicus With Dupilumab Injections Compared With Placebo in Male and Female Participants Aged at Least 18 Years (STYLE 2)",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06687980",
+      "url": "https://clinicaltrials.gov/study/NCT02612454",
       "has_results": false
     }
   ],
@@ -63,40 +60,76 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42589941",
-        "title": "The Use of Biological Therapies in the Treatment of Chronic Rhinosinusitis with Nasal Polyps: Current State of Knowledge.",
-        "pubdate": "2026 Jul 26",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42589941/"
+        "pmid": "42770623",
+        "title": "Beyond Omalizumab: Emerging Biologic and Small Molecule Therapies in Chronic Spontaneous Urticaria.",
+        "pubdate": "2026 Sep 22",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42770623/"
       },
       {
-        "pmid": "42508565",
-        "title": "Dupilumab effectiveness and safety in patients with CRSwNP: two year results from AROMA registry.",
-        "pubdate": "2026 Jul 27",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42508565/"
+        "pmid": "42764892",
+        "title": "Dupilumab Improves Lung Function and Reduces Severe Exacerbations in Patients from China with Type 2 Asthma: A Subgroup Analysis of a Phase 3 Randomized Trial.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42764892/"
       },
       {
-        "pmid": "42498125",
-        "title": "Dupilumab for patients with allergic fungal rhinosinusitis.",
-        "pubdate": "2026 Jul 24",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42498125/"
+        "pmid": "42716513",
+        "title": "Efficacy and Predictors of Response to Biologic Therapy and Endoscopic Sinus Surgery in Patients With Nasal Polyps: A Systematic Review.",
+        "pubdate": "2026 Sep 9",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42716513/"
       },
       {
-        "pmid": "42496183",
-        "title": "Dual REmission in moderate-to-severe AsthMa and Nasal Polyps: a multicentric observational Phase IV real-life study (DREAM-NP).",
-        "pubdate": "2026 Jul 26",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42496183/"
+        "pmid": "42685907",
+        "title": "Efficacy of abrocitinib and dupilumab on chronic hand eczema in patients with moderate-to-severe atopic dermatitis: a prespecified exploratory analysis of the phase 3 JADE DARE study.",
+        "pubdate": "2026 Sep 2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42685907/"
       },
       {
-        "pmid": "42430733",
-        "title": "Dupilumab Improves Endoscopic Features in Children Aged 1-11 Years With Eosinophilic Esophagitis: EoE KIDS Study Results.",
-        "pubdate": "2026 Jul 9",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42430733/"
+        "pmid": "42658181",
+        "title": "Dupilumab Improves Endoscopic Features in Adult and Adolescent Patients With Eosinophilic Esophagitis: Post Hoc Analysis of LIBERTY EoE TREET Study.",
+        "pubdate": "2026 Aug 27",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42658181/"
       }
     ]
   },
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": []
+    "items": [
+      {
+        "name": "Rocatinlimab",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Amgen"
+      },
+      {
+        "name": "Upadacitinib 15mg Dose",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: AbbVie"
+      },
+      {
+        "name": "Dupilumab 300mg Dose",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: AbbVie"
+      },
+      {
+        "name": "Upadacitinib 30mg Dose",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: AbbVie"
+      },
+      {
+        "name": "Ruxolitinib",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Incyte Corporation"
+      },
+      {
+        "name": "Vehicle Cream",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Incyte Corporation"
+      },
+      {
+        "name": "CM310",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Keymed Biosciences Co.Ltd"
+      }
+    ]
   }
 }

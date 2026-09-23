@@ -1,12 +1,19 @@
 {
   "drug_name": "Vinorelbine",
   "slug": "vinorelbine",
-  "enriched_at": "2026-09-15T12:36:55Z",
+  "enriched_at": "2026-09-23T12:41:16Z",
   "source_trial_ids": [
     "NCT06343948",
-    "NCT06519370"
+    "NCT06519370",
+    "NCT06564844"
   ],
   "sponsors": [
+    {
+      "name": "AstraZeneca",
+      "ticker": "AZN",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000901832&type=10-K&dateb=&owner=include&count=40"
+    },
     {
       "name": "Shanghai Fudan-Zhangjiang Bio-Pharmaceutical Co., Ltd.",
       "ticker": null,
@@ -57,8 +64,8 @@
     "further_reading": null
   },
   "condition": {
-    "raw": "HR+HER2- Breast Cancer",
-    "slug": "hr-her2-breast-cancer"
+    "raw": "Non-small Cell Lung Cancer",
+    "slug": "non-small-cell-lung-cancer"
   },
   "source_trials": [
     {
@@ -73,6 +80,13 @@
       "title": "FDA018-ADC vs Investigator's Choice Chemotherapy to Treat Locally Advanced, Recurrent or Metastatic Triple-negative Breast Cancer",
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT06519370",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06564844",
+      "title": "A Phase III, Randomised Study of Adjuvant Dato-DXd in Combination With Rilvegostomig or Rilvegostomig Monotherapy Versus Standard of Care, Following Complete Tumour Resection, in Participants With Stage I Adenocarcinoma NSCLC Who Are ctDNA-positive or Have High-risk Pathological Features",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06564844",
       "has_results": false
     }
   ],
@@ -114,6 +128,47 @@
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": []
+    "items": [
+      {
+        "name": "Alectinib",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Hoffmann-La Roche"
+      },
+      {
+        "name": "Cisplatin",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Hoffmann-La Roche"
+      },
+      {
+        "name": "Carboplatin",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Hoffmann-La Roche"
+      },
+      {
+        "name": "Pemetrexed",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Hoffmann-La Roche"
+      },
+      {
+        "name": "BL-B01D1",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Sichuan Baili Pharmaceutical Co., Ltd."
+      },
+      {
+        "name": "Pemetrexed+Cisplatin or Carboplatin",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Sichuan Baili Pharmaceutical Co., Ltd."
+      },
+      {
+        "name": "JDQ443",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Novartis Pharmaceuticals"
+      },
+      {
+        "name": "docetaxel",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Novartis Pharmaceuticals"
+      }
+    ]
   }
 }

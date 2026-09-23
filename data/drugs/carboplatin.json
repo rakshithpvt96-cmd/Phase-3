@@ -1,15 +1,14 @@
 {
   "drug_name": "Carboplatin",
   "slug": "carboplatin",
-  "enriched_at": "2026-09-16T12:29:21Z",
+  "enriched_at": "2026-09-23T12:38:10Z",
   "source_trial_ids": [
-    "NCT04634877",
     "NCT05116462",
     "NCT05261399",
     "NCT06123884",
-    "NCT06151574",
     "NCT06279364",
     "NCT06417814",
+    "NCT06564844",
     "NCT06624059",
     "NCT06687369",
     "NCT06927986"
@@ -28,12 +27,6 @@
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Bio-Thera%20Solutions&type=10-K&dateb=&owner=include&count=40"
     },
     {
-      "name": "Boehringer Ingelheim",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Boehringer%20Ingelheim&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
       "name": "CSPC Megalith Biopharmaceutical Co.,Ltd.",
       "ticker": null,
       "market_cap_display": null,
@@ -50,12 +43,6 @@
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Innovent%20Biologics%20%28Suzhou%29%20Co.%20Ltd.&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
-      "name": "Merck Sharp & Dohme LLC",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Merck%20Sharp%20%26%20Dohme%20LLC&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Sichuan Kelun-Biotech Biopharmaceutical Co., Ltd.",
@@ -112,13 +99,6 @@
   },
   "source_trials": [
     {
-      "nct_id": "NCT04634877",
-      "title": "Study of Pembrolizumab (MK-3475) in Combination With Adjuvant Chemotherapy With or Without Radiotherapy in Participants With Newly Diagnosed Endometrial Cancer After Surgery With Curative Intent (MK-3475-B21 / KEYNOTE-B21 / ENGOT-en11 / GOG-3053)",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT04634877",
-      "has_results": false
-    },
-    {
       "nct_id": "NCT05116462",
       "title": "Neoadjuvant and Adjuvant Therapy Studies of Sindilizumab in Resectable Lung Cancer",
       "status": "ACTIVE_NOT_RECRUITING",
@@ -140,13 +120,6 @@
       "has_results": false
     },
     {
-      "nct_id": "NCT06151574",
-      "title": "Beamion LUNG-2: A Study to Test Whether Zongertinib (BI 1810631) Helps People With Advanced Non-small Cell Lung Cancer With HER2 Mutations Compared With Standard Treatment",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06151574",
-      "has_results": false
-    },
-    {
       "nct_id": "NCT06279364",
       "title": "A Study of SKB264 Versus Investigator's Choice Chemotherapy in Patients With Unresectable Recurrent or Metastatic Triple-Negative Breast Cancer",
       "status": "RECRUITING",
@@ -158,6 +131,13 @@
       "title": "A Study to Investigate the Efficacy and Safety of Dato-DXd With or Without Osimertinib Compared With Platinum Based Doublet Chemotherapy in Participants With EGFR-Mutated Locally Advanced or Metastatic Non-Small Cell Lung Cancer",
       "status": "RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT06417814",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06564844",
+      "title": "A Phase III, Randomised Study of Adjuvant Dato-DXd in Combination With Rilvegostomig or Rilvegostomig Monotherapy Versus Standard of Care, Following Complete Tumour Resection, in Participants With Stage I Adenocarcinoma NSCLC Who Are ctDNA-positive or Have High-risk Pathological Features",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06564844",
       "has_results": false
     },
     {

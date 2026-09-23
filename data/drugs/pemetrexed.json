@@ -1,12 +1,12 @@
 {
   "drug_name": "Pemetrexed",
   "slug": "pemetrexed",
-  "enriched_at": "2026-09-16T12:31:16Z",
+  "enriched_at": "2026-09-23T12:40:12Z",
   "source_trial_ids": [
     "NCT05116462",
     "NCT05261399",
-    "NCT06151574",
     "NCT06417814",
+    "NCT06564844",
     "NCT06624059",
     "NCT06687369",
     "NCT06927986"
@@ -17,12 +17,6 @@
       "ticker": "AZN",
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000901832&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
-      "name": "Boehringer Ingelheim",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Boehringer%20Ingelheim&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "CSPC Megalith Biopharmaceutical Co.,Ltd.",
@@ -105,17 +99,17 @@
       "has_results": false
     },
     {
-      "nct_id": "NCT06151574",
-      "title": "Beamion LUNG-2: A Study to Test Whether Zongertinib (BI 1810631) Helps People With Advanced Non-small Cell Lung Cancer With HER2 Mutations Compared With Standard Treatment",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06151574",
-      "has_results": false
-    },
-    {
       "nct_id": "NCT06417814",
       "title": "A Study to Investigate the Efficacy and Safety of Dato-DXd With or Without Osimertinib Compared With Platinum Based Doublet Chemotherapy in Participants With EGFR-Mutated Locally Advanced or Metastatic Non-Small Cell Lung Cancer",
       "status": "RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT06417814",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06564844",
+      "title": "A Phase III, Randomised Study of Adjuvant Dato-DXd in Combination With Rilvegostomig or Rilvegostomig Monotherapy Versus Standard of Care, Following Complete Tumour Resection, in Participants With Stage I Adenocarcinoma NSCLC Who Are ctDNA-positive or Have High-risk Pathological Features",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06564844",
       "has_results": false
     },
     {

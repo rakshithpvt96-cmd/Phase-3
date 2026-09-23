@@ -1,0 +1,105 @@
+{
+  "drug_name": "Datopotamab Deruxtecan",
+  "slug": "datopotamab-deruxtecan",
+  "enriched_at": "2026-09-23T12:38:30Z",
+  "source_trial_ids": [
+    "NCT06564844"
+  ],
+  "sponsors": [
+    {
+      "name": "AstraZeneca",
+      "ticker": "AZN",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000901832&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2703033",
+      "generic_name": "datopotamab deruxtecan",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4297939",
+    "target_chembl_id": "CHEMBL3856163",
+    "target_name": "Tumor-associated calcium signal transducer 2",
+    "mechanism_of_action_chembl": "Tumor-associated calcium signal transducer 2 binding agent"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Datopotamab deruxtecan-dlnk, is a Trop-2-directed antibody-drug conjugate. The antibody is a humanized anti-Trop2 IgG1. The small molecule, DXd, is a topoisomerase I inhibitor attached to the antibody by a cleavable linker. Following binding to Trop-2 on cells, including tumor cells, datopotamab deruxtecan-dlnk undergoes internalization and intracellular linker cleavage by lysosomal enzymes. Upon release, the membrane-permeable DXd causes DNA damage and apoptotic cell death. Datopotamab deruxtecan-dlnk had anti-tumor activity in mouse models of lung cancer including EGFR-mutated and breast cancer.",
+    "pharmacokinetics": "12.3 Pharmacokinetics Datopotamab deruxtecan-dlnk and DXd exposure after the first dose of the approved recommended dosage of cycle 1 are provided in Table 10. Datopotamab deruxtecan-dlnk and released DXd maximum concentration (C max ) and area under the time-concentration curve (AUC) increases proportionally over a dose range of 4 mg/kg to 10 mg/kg (approximately 0.7 to 1.7 times the approved recommended dosage). No clinically significant datopotamab deruxtecan-dlnk accumulation occurs between cycles 1 and 3. Table 10: Datopotamab Deruxtecan-dlnk and DXd Mean (CV%) Exposure After the First Dose PK Parameter Datopotamab deruxtecan-dlnk DXd Abbreviations: C max =maximum concentration; AUC =area under the time-concentration curve C max 154 µg/mL (20%) 2.8 ng/mL (58%) AUC 671 µg*day/mL (31%) 18 ng*day/mL (43%) Distribution Datopotamab deruxtecan-dlnk mean steady state volume of distribution is 3.5 (23%) L. DXd plasma protein binding is approximately 98% and the blood-to-plasma concentration ratio is 0.6 in vitro. Elimination The datopotamab deruxtecan-dlnk median elimination half-life (t 1/2 ) is 4.8 days (1.0, 8.2) and the released DXd median apparent t 1/2 is approximately 5.5 days (3.2, 8.8). The estimated datopotamab deruxtecan-dlnk clearance is 0.6 (31.5%) L/day. Metabolism Datopotamab deruxtecan-dlnk undergoes intracellular cleavage by lysosomal enzymes to release DXd . The humanized Trop-2 IgG1 monoclonal antibody is expected to be degraded into small peptides and amino acids via catabolic pathways in the same manner as endogenous IgG. In vitro, DXd is primarily metabolized by CYP3A4. Specific Populations The mean volume of distribution and clearance of datopotamab deruxtecan-dlnk and DXd increase with increasing body weight (36 kg to 156 kg). No clinically significant differences in the pharmacokinetics of datopotamab deruxtecan-dlnk or DXd were observed based on age (26 to 86 years), race (Asian, White, or Black), sex, mild hepatic impairment (total bilirubin ≤ULN and any AST >ULN or total bilirubin >1 to 1.5 times ULN and any AST), or CLcr 30 to <90 mL/min. The pharmacokinetics of datopotamab deruxtecan-dlnk in patients with moderate hepatic impairment (total bilirubin >1.5 to 3 times ULN and any AST) was comparable to patients with normal hepatic function (total bilirubin and AST ≤ULN). The steady state average DXd AUC was 2.5-fold higher in patients with moderate hepatic impairment compared to patients with normal hepatic function. The effect of severe hepatic impairment (total bilirubin >3 times ULN and any AST) or CLcr <30 mL/min on datopotamab deruxtecan-dlnk or DXd pharmacokinetics is unknown. Drug Interaction Studies Clinical Studies and Model-Informed Approaches No clinically significant differences in DXd pharmacokinetics were predicted when used concomitantly with itraconazole (strong CYP3A inhibitor) or ritonavir (dual OATP1B and CYP3A inhibitor). In Vitro Studies CYP450 Enzymes : DXd does not inhibit CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, or CYP3A and does not induce CYP1A2, CYP2B6, or CYP3A. UDP-Glucuronosyltransferase (UGT): DXd does not undergo significant metabolism by UGT enzymes. Transporters Systems : DXd is a substrate of OATP1B1, OATP1B3, MATE2-K, P-gp, MRP1, and BCRP. DXd does not inhibit OAT1, OAT3, OCT1, OCT2, OATP1B1, OATP1B3, MATE1, MATE2-K, P-gp, BCRP, or BSEP transporters.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE DATROWAY is a Trop-2-directed antibody and topoisomerase inhibitor conjugate indicated for the treatment of: adult patients with locally advanced or metastatic epidermal growth factor receptor (EGFR)-mutated non-small cell lung cancer (NSCLC) who have received prior EGFR-directed therapy and platinum-based chemotherapy. ( 1.1 ) This indication is approved under accelerated approval based on objective response rate and duration of response [see Clinical Studies (14.1) ] . Continued approval for this indication may be contingent upon verification and description of clinical benefit in the confirmatory trial. adult patients with unresectable or metastatic triple-negative breast cancer (TNBC) who are not candidates for PD-1/PD-L1 inhibitor therapy [see Clinical Studies (14.2) ] . ( 1.2 ) adult patients with unresectable or metastatic, hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative (IHC 0, IHC 1+ or IHC 2+/ISH-) breast cancer who have received prior endocrine-based therapy and chemotherapy for unresectable or metastatic disease. ( 1.3 ) 1.1 Locally Advanced or Metastatic EGFR-Mutated Non-Small Cell Lung Cancer (NSCLC) DATROWAY is indicated for the treatment of adult patients with locally advanced or metastatic epidermal growth factor receptor (EGFR)-mutated non-small cell lung cancer (NSCLC) who have received prior EGFR-directed therapy and platinum-based chemotherapy. This indication is approved under accelerated approval based on objective response rate and duration of response [see Clinical Studies (14.1) ] . Continued approval for this indication may be contingent upon verification and description of clinical benefit in the confirmatory trial. 1.2 Unresectable or Metastatic Triple-Negative Breast Cancer (TNBC) DATROWAY is indicated for the treatment of adult patients with unresectable or metastatic triple-negative breast cancer (TNBC) who are not candidates for PD-1/PD-L1 inhibitor therapy [see Clinical Studies (14.2) ]. 1.3 Unresectable or Metastatic, HR-Positive, HER2-Negative Breast Cancer DATROWAY is indicated for the treatment of adult patients with unresectable or metastatic, hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative (IHC 0, IHC 1+ or IHC 2+/ISH-) breast cancer who have received prior endocrine-based therapy and chemotherapy for unresectable or metastatic disease.",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "DATROWAY"
+    ],
+    "openfda_generic_names": [
+      "DATOPOTAMAB DERUXTECAN"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2950227c-6230-4ca4-a135-46e44d9424a0",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Non-small Cell Lung Cancer",
+    "slug": "non-small-cell-lung-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06564844",
+      "title": "A Phase III, Randomised Study of Adjuvant Dato-DXd in Combination With Rilvegostomig or Rilvegostomig Monotherapy Versus Standard of Care, Following Complete Tumour Resection, in Participants With Stage I Adenocarcinoma NSCLC Who Are ctDNA-positive or Have High-risk Pathological Features",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06564844",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42482759",
+        "title": "Datopotamab deruxtecan in solid tumors: Recent research progress and clinical applications.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42482759/"
+      },
+      {
+        "pmid": "42386645",
+        "title": "[Pharmacological properties and clinical trial results of datopotamab deruxtecan (Dato-DXd, Datroway(®))].",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42386645/"
+      },
+      {
+        "pmid": "42294323",
+        "title": "Management of toxicities from antibody - drug conjugates in breast cancer.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42294323/"
+      },
+      {
+        "pmid": "42226007",
+        "title": "Mapping the antibody-drug-conjugates landscape in non-small cell lung cancer: Where are we and where are we going?",
+        "pubdate": "2026 Jun 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42226007/"
+      },
+      {
+        "pmid": "42142358",
+        "title": "TROPION-Urothelial03: a phase II/III study of datopotamab deruxtecan (Dato-DXd) for locally advanced or metastatic urothelial carcinoma.",
+        "pubdate": "2026 May",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42142358/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "SACITUZUMAB GOVITECAN",
+        "chembl_id": "CHEMBL3545262",
+        "reason": "same target: Tumor-associated calcium signal transducer 2"
+      }
+    ]
+  }
+}
