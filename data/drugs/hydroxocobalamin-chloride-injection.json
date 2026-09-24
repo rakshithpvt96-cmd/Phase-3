@@ -1,0 +1,74 @@
+{
+  "drug_name": "Hydroxocobalamin Chloride Injection",
+  "slug": "hydroxocobalamin-chloride-injection",
+  "enriched_at": "2026-09-24T12:46:53Z",
+  "source_trial_ids": [
+    "NCT07163364"
+  ],
+  "sponsors": [
+    {
+      "name": "CSPC ZhongQi Pharmaceutical Technology Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=CSPC%20ZhongQi%20Pharmaceutical%20Technology%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1868508",
+      "generic_name": "hydroxocobalamin Injection",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2103737",
+    "target_chembl_id": "CHEMBL4632347",
+    "target_name": "Cyanide",
+    "mechanism_of_action_chembl": "Cyanide sequestering agent"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Hydroxocobalamin%20Chloride%20Injection+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Hydroxocobalamin%20Chloride%20Injection+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Hydroxocobalamin%20Chloride%20Injection+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Methylmalonic Acidemia (MMA)",
+    "slug": "methylmalonic-acidemia-mma"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07163364",
+      "title": "A Study to Evaluate the Effects and Safety of Hydroxocobalamin in Participants With Combined Methylmalonic Academia (cblC Type)",
+      "status": "NOT_YET_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07163364",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "DICOBALT EDETATE",
+        "chembl_id": "CHEMBL3833337",
+        "reason": "same target: Cyanide"
+      }
+    ]
+  }
+}

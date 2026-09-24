@@ -1,7 +1,7 @@
 {
   "drug_name": "Durvalumab, Gemcitabine, Cisplatin",
   "slug": "durvalumab-gemcitabine-cisplatin",
-  "enriched_at": "2026-09-17T12:30:21Z",
+  "enriched_at": "2026-09-24T12:39:08Z",
   "source_trial_ids": [
     "NCT06591520"
   ],
@@ -60,9 +60,15 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42777170",
+        "title": "Personalized Therapy in Advanced Cholangiocarcinoma: Contemporary Treatment Approaches and Future Directions.",
+        "pubdate": "2026 Sep 23",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42777170/"
+      },
+      {
         "pmid": "42424063",
         "title": "Durvalumab Plus Chemotherapy for Advanced Biliary Tract Cancer: A Post Hoc Analysis of the TOPAZ-1 Randomized Clinical Trial.",
-        "pubdate": "2026 Jul 9",
+        "pubdate": "2026 Sep 1",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42424063/"
       },
       {
@@ -82,12 +88,6 @@
         "title": "External validation of MAGIC-D model in Taiwanese patients with advanced biliary tract cancer receiving durvalumab and chemotherapy.",
         "pubdate": "2026 May 16",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42144106/"
-      },
-      {
-        "pmid": "41514612",
-        "title": "Durvalumab-Based First-Line Chemoimmunotherapy in Advanced Biliary Tract Cancer: Real-World Outcomes and Prognostic Factors-A Turkish Oncology Group Study.",
-        "pubdate": "2025 Dec 29",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41514612/"
       }
     ]
   },

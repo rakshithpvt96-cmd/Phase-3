@@ -1,0 +1,105 @@
+{
+  "drug_name": "Maribavir",
+  "slug": "maribavir",
+  "enriched_at": "2026-09-24T12:47:17Z",
+  "source_trial_ids": [
+    "NCT06439342"
+  ],
+  "sponsors": [
+    {
+      "name": "Takeda",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Takeda&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 471161,
+    "iupac_name": "(2S,3S,4R,5S)-2-[5,6-dichloro-2-(propan-2-ylamino)benzimidazol-1-yl]-5-(hydroxymethyl)oxolane-3,4-diol",
+    "molecular_formula": "C15H19Cl2N3O4",
+    "molecular_weight": "376.2",
+    "canonical_smiles": null,
+    "inchikey": "KJFBVJALEQWJBS-XUXIUFHCSA-N",
+    "rxnorm": {
+      "rxcui": "2586068",
+      "generic_name": "maribavir",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL515408",
+    "target_chembl_id": "CHEMBL3833483",
+    "target_name": "Serine/threonine-protein kinase BGLF4",
+    "mechanism_of_action_chembl": "Serine/threonine-protein kinase BGLF4 inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action LIVTENCITY is an antiviral drug against human CMV [see Microbiology (12.4) ] .",
+    "pharmacokinetics": "12.3 Pharmacokinetics LIVTENCITY pharmacological activity is due to the parent drug. Following oral administration, plasma maribavir exposure (C max and AUC) increased approximately dose-proportionally following a single dose of 50 to 1600 mg (0.125 to four times the recommended dose) and multiple doses up to 2400 mg per day (three times the recommended daily dose). Maribavir PK is time-independent. With twice-daily dosing, steady state is reached within 2 days, with mean accumulation ratios of C max and AUC ranging from 1.37 to 1.47. The pharmacokinetic properties of maribavir following administration of LIVTENCITY are displayed in Table 5. The multiple-dose pharmacokinetic parameters are provided in Table 6. Table 5: Pharmacokinetic Properties of Maribavir Absorption When taken orally with a high fat, high caloric meal vs fasted, the AUC 0‑∞ and C max (geometric mean ratio [90% CI] of maribavir are 0.878 [0.843, 0.915] and 0.716 [0.671, 0.764], respectively. T max (h), median 1.0 to 3.0 Distribution Mean apparent steady-state volume of distribution (V ss , L) 24.9 % bound to human plasma proteins 98.0 across the concentration range of 0.05-200 µg/mL Blood-to plasma ratio 1.37 Elimination Major route of elimination Hepatic metabolism Half-life (t 1/2 ) in transplant patients (h), mean 4.32 Oral clearance (CL/F) in transplant patients (L/h), mean 2.67 Metabolism Metabolic pathways In vitro studies have shown that maribavir is biotransformed into a major circulating inactive metabolite: VP 44469 (N-dealkylated metabolite), with a metabolic ratio of 0.15 - 0.20. Multiple UGT enzymes, namely UGT1A1, UGT1A3, UGT2B7, and possibly UGT1A9, are involved in the glucuronidation of maribavir in humans, however, the contribution of glucuronidation to the overall clearance of maribavir is low based on In vitro data. CYP3A4 (major) and CYP1A2 (minor) Excretion % of dose excreted as total 14 C (unchanged drug) in urine Dosing in mass balance study: single-dose administration of [ 14 C] maribavir oral solution 400 mg containing 200 nCi of total radioactivity. 61 (<2) % of dose excreted as total 14 C (unchanged drug) in feces 14 (5.7) Table 6: Multiple-Dose Pharmacokinetic Parameters of Maribavir Geometric Mean (% CV) Pharmacokinetic parameter values based on post-hoc estimates from maribavir population pharmacokinetic model in transplant patients with CMV receiving 400 mg of LIVTENCITY twice daily with or without food. AUC 0-tau tau is maribavir dosing interval: 12 hours. (µg∙h/mL) C max (µg/mL) C tau (µg/mL) CV=Coefficient of Variation; C max =Maximum concentration; AUC 0-tau =Area under the time concentration curve over a dosing interval; C tau =Concentration at the end of a dosing interval. 142 (48.5%) 20.1 (35.5%) 5.43 (85.9%) Specific Populations There were no clinically significant differences in the pharmacokinetics of maribavir based on age (18-79 years), gender, race (Caucasian, Black, Asian, or others), ethnicity (Hispanic/Latino or non-Hispanic/Latino), body weight (36 to 141 kg), transplant type, mild to severe renal impairment (measured creatinine clearance ranging from 12 to 70 mL/min), or mild to moderate hepatic impairment (Child-Pugh Class A or B). Pediatric Patients The pharmacokinetics of maribavir in patients less than 18 years of age have not been evaluated. Using modeling and simulation, the recommended dosing regimen is expected to result in comparable steady-state plasma exposures of maribavir in patients 12 years of age and older and weighing at least 35 kg as observed in adults [see Use in Specific Populations (8.4) ] . Drug Interactions Based on in vitro studies, the metabolism of maribavir is not mediated by CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP3A5, UGT1A4, UGT1A6, UGT1A10, or UGT2B15. The transport of maribavir is not mediated by organic anion transporting polypeptide (OATP)1B1, OATP1B3, or bile salt export pump (BSEP). At clinically relevant concentrations, clinically significant interactions are not expected when LIVTENCITY is coadministered with substrates of CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2E1, CYP2D6, CYP3A4; uridine diphosphate-glucuronosyltransferase (UGT)1A1, UGT1A4, UGT1A6, UGT1A9, UGT2B7; P-gp; BSEP; multidrug and toxin extrusion protein (MATE)1/2K; organic anion transporters (OAT)1 and OAT3; organic cation transporters (OCT)1 and OCT2; OATP1B1 and OATP1B3. In a clinical drug-drug interaction cocktail study, coadministration with maribavir had no effect on substrates of CYP1A2, CYP2C9, CYP2C19, CYP2D6, and CYP3A4. Drug interaction studies were performed with LIVTENCITY and other drugs likely to be coadministered for pharmacokinetic interactions. The effects of coadministration of other drugs on the pharmacokinetics of maribavir are summarized in Table 7, and the effects of maribavir on the pharmacokinetics of coadministered drugs are summarized in Table 8. Dosing recommendations as a result of established and other potentially significant drug-drug interactions with LIVTENCITY are provided in Table 4 [see Drug Interactions (7.3) ] . Table 7: Changes in Pharmacokinetics of LIVTENCITY in the Presence of Coadministered Drugs Coadministered Drug and Regimen LIVTENCITY Regimen N Geometric Mean Ratio (90% CI) of LIVTENCITY PK with/without Coadministered Drug [No Effect=1.00] AUC C max C tau tau is maribavir dosing interval: 12 hours. Anticonvulsants Carbamazepine Based on physiologically based pharmacokinetic modeling results from 10 trials of 20 subjects each. The maribavir dosing regimen and geometric mean ratios (5 th percentile, 95 th percentile) correspond to dose-adjusted maribavir with inducer vs 400 mg twice daily without inducer. 400 mg once daily 800 mg twice daily / 400 mg twice daily 200 1.40 (1.09, 1.67) 1.53 (1.22, 1.79) 1.05 (0.71, 1.40) Phenobarbital 100 mg once daily 1,200 mg twice daily / 400 mg twice daily 200 1.80 (1.18, 2.35) 2.17 (1.69, 2.57) 0.94 (0.22, 1.97) Phenytoin 300 mg once daily 1,200 mg twice daily / 400 mg twice daily 200 1.70 (1.06, 2.46) 2.05 (1.49, 2.63) 0.89 (0.26, 2.04) Antimycobacterials Rifabutin 300 mg once daily 800 mg twice daily / 400 mg twice daily 200 1.38 (1.00, 1.74) 1.52 (1.17, 1.83) 1.06 (0.64, 1.49) Rifampin 600 mg once daily 400 mg twice daily 14 0.40 (0.36, 0.44) 0.61 (0.52, 0.72) 0.18 (0.14, 0.25) Antifungals Ketoconazole 400 mg single dose 400 mg single dose 19 1.53 (1.44, 1.63) 1.10 (1.01, 1.19) - Antacids Aluminum hydroxide and magnesium hydroxide antacid 20 mL Containing 800 mg aluminum hydroxide and 800 mg magnesium hydroxide. single dose 100 mg single dose 15 0.89 (0.83, 0.96) 0.84 (0.75, 0.94) - Table 8: Drug Interactions: Changes in Pharmacokinetics for Coadministered Drug in the Presence of 400 mg Twice Daily LIVTENCITY Coadministered Drug and Regimen N Geometric Mean Ratio (90% CI) of Coadministered Drug PK with/without LIVTENCITY [No Effect=1.00] AUC C max C tau Immunosuppressants Tacrolimus stable dose, twice daily (total daily dose: 0.5-16 mg) 20 1.51 (1.39, 1.65) 1.38 (1.20, 1.57) 1.57 (1.41, 1.74) P-gp substrate Digoxin 0.5 mg single dose 18 1.21 (1.10, 1.32) 1.25 (1.13, 1.38) -",
+    "indications_and_usage": "1 INDICATIONS AND USAGE LIVTENCITY ® is indicated for the treatment of adults and pediatric patients (12 years of age and older and weighing at least 35 kg) with post-transplant cytomegalovirus (CMV) infection/disease that is refractory to treatment (with or without genotypic resistance) with ganciclovir, valganciclovir, cidofovir or foscarnet [see Use in Specific Populations (8.4) and Clinical Studies (14) ] . LIVTENCITY is a cytomegalovirus (CMV) pUL97 kinase inhibitor indicated for the treatment of adults and pediatric patients (12 years of age and older and weighing at least 35 kg) with post-transplant CMV infection/disease that is refractory to treatment (with or without genotypic resistance) with ganciclovir, valganciclovir, cidofovir or foscarnet. ( 1 , 8.4 )",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "Livtencity"
+    ],
+    "openfda_generic_names": [
+      "MARIBAVIR"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=c94fc2c5-e840-4f18-b7d8-d5eacb26d3a0",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Cytomegalovirus (CMV)",
+    "slug": "cytomegalovirus-cmv"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06439342",
+      "title": "A Study of Maribavir in Chinese Adults With Cytomegalovirus (CMV) Infections",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT06439342",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42749064",
+        "title": "Low level drug resistance linked to cytomegalovirus UL97 and UL27 mutations detected in maribavir clinical trials.",
+        "pubdate": "2026 Sep 16",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42749064/"
+      },
+      {
+        "pmid": "42108003",
+        "title": "Real-life experience with maribavir for the treatment of cytomegalovirus infection in solid organ transplant recipients.",
+        "pubdate": "2026 May",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42108003/"
+      },
+      {
+        "pmid": "41486656",
+        "title": "[Phase Ⅲ, multicenter, randomized, double-blinded, positive-controlled trial on the efficacy and safety of maribavir compared with valganciclovir in the treatment of post-transplant cytomegalovirus infection: Subgroup analysis of AURORA Trial in the Chinese population].",
+        "pubdate": "2025 Dec 14",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41486656/"
+      },
+      {
+        "pmid": "41482062",
+        "title": "A new locus of foscarnet resistance in the cytomegalovirus UL54 DNA polymerase gene among uncharacterized mutations in recent clinical trials.",
+        "pubdate": "2026 Feb",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41482062/"
+      },
+      {
+        "pmid": "41384277",
+        "title": "Association Between Cytomegalovirus Viremia Clearance and Post-Solid Organ Transplant Mortality in Patients With Refractory Cytomegalovirus Infection: SOLSTICE Post Hoc Analysis.",
+        "pubdate": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41384277/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

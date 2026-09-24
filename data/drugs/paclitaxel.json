@@ -1,11 +1,11 @@
 {
   "drug_name": "Paclitaxel",
   "slug": "paclitaxel",
-  "enriched_at": "2026-09-16T12:31:09Z",
+  "enriched_at": "2026-09-24T12:42:42Z",
   "source_trial_ids": [
-    "NCT04634877",
     "NCT04704934",
     "NCT05116462",
+    "NCT06018337",
     "NCT06279364"
   ],
   "sponsors": [
@@ -16,16 +16,16 @@
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Daiichi%20Sankyo&type=10-K&dateb=&owner=include&count=40"
     },
     {
+      "name": "DualityBio Inc.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=DualityBio%20Inc.&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
       "name": "Innovent Biologics (Suzhou) Co. Ltd.",
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Innovent%20Biologics%20%28Suzhou%29%20Co.%20Ltd.&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
-      "name": "Merck Sharp & Dohme LLC",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Merck%20Sharp%20%26%20Dohme%20LLC&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Sichuan Kelun-Biotech Biopharmaceutical Co., Ltd.",
@@ -76,13 +76,6 @@
   },
   "source_trials": [
     {
-      "nct_id": "NCT04634877",
-      "title": "Study of Pembrolizumab (MK-3475) in Combination With Adjuvant Chemotherapy With or Without Radiotherapy in Participants With Newly Diagnosed Endometrial Cancer After Surgery With Curative Intent (MK-3475-B21 / KEYNOTE-B21 / ENGOT-en11 / GOG-3053)",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT04634877",
-      "has_results": false
-    },
-    {
       "nct_id": "NCT04704934",
       "title": "Trastuzumab Deruxtecan for Subjects With HER2-Positive Gastric Cancer or Gastro-Esophageal Junction Adenocarcinoma After Progression on or After a Trastuzumab-Containing Regimen (DESTINY-Gastric04)",
       "status": "ACTIVE_NOT_RECRUITING",
@@ -97,6 +90,13 @@
       "has_results": false
     },
     {
+      "nct_id": "NCT06018337",
+      "title": "A Study of DB-1303/BNT323 vs Investigator's Choice Chemotherapy in HER2-Low, Hormone Receptor Positive Metastatic Breast Cancer (DYNASTY-Breast02)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06018337",
+      "has_results": false
+    },
+    {
       "nct_id": "NCT06279364",
       "title": "A Study of SKB264 Versus Investigator's Choice Chemotherapy in Patients With Unresectable Recurrent or Metastatic Triple-Negative Breast Cancer",
       "status": "RECRUITING",
@@ -107,6 +107,12 @@
   "prior_results": {
     "ctgov_results_urls": [],
     "pubmed_articles": [
+      {
+        "pmid": "42763280",
+        "title": "A Phase I Study of Nab-Paclitaxel, Gemcitabine and AZD1775 for Treatment of Metastatic Adenocarcinoma of the Pancreas: ECOG-ACRIN EA2131.",
+        "pubdate": "2026 Sep 2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42763280/"
+      },
       {
         "pmid": "42743886",
         "title": "Circulating free bacterial DNA as a novel biomarker for monitoring therapy response in patients with advanced pancreatic cancer.",
@@ -130,12 +136,6 @@
         "title": "Systemic treatment of advanced pancreatic cancer: A Comprehensive Review.",
         "pubdate": "2026 Mar",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42725320/"
-      },
-      {
-        "pmid": "42712492",
-        "title": "Multi-modal digital twin model outperforms conventional biomarker stratification in pancreatic cancer.",
-        "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42712492/"
       }
     ]
   },

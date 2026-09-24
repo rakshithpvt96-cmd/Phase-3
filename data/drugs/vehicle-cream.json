@@ -1,7 +1,7 @@
 {
   "drug_name": "Vehicle Cream",
   "slug": "vehicle-cream",
-  "enriched_at": "2026-09-17T12:34:32Z",
+  "enriched_at": "2026-09-24T12:44:12Z",
   "source_trial_ids": [
     "NCT06403501",
     "NCT06832618"
@@ -74,6 +74,12 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42776548",
+        "title": "Efficacy and Safety of Ruxolitinib Cream in Patients With Cutaneous Lichen Planus: A Randomized Clinical Trial.",
+        "pubdate": "2026 Sep 23",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42776548/"
+      },
+      {
         "pmid": "42653799",
         "title": "Clascoterone in the Treatment of Acne Vulgaris: A Narrative Review.",
         "pubdate": "2026 Aug 18",
@@ -96,12 +102,6 @@
         "title": "Minimal Systemic Exposure with Maximal Delgocitinib Cream Use in Patients with Severe Chronic Hand Eczema in the DELTA 2 Randomized, Vehicle-Controlled, Double-Blind, Phase 3 Trial.",
         "pubdate": "2026 Jul",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42143645/"
-      },
-      {
-        "pmid": "41775339",
-        "title": "Effect of Delgocitinib Cream on Health-Related Quality of Life in Patients With Moderate to Severe Chronic Hand Eczema.",
-        "pubdate": "2026 Jul",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41775339/"
       }
     ]
   },
@@ -133,6 +133,11 @@
         "name": "CM310",
         "chembl_id": null,
         "reason": "same indication trial, sponsor: Keymed Biosciences Co.Ltd"
+      },
+      {
+        "name": "Dupilumab",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Regeneron Pharmaceuticals"
       }
     ]
   }
