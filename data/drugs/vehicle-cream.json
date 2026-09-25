@@ -1,10 +1,12 @@
 {
   "drug_name": "Vehicle Cream",
   "slug": "vehicle-cream",
-  "enriched_at": "2026-09-24T12:44:12Z",
+  "enriched_at": "2026-09-25T12:40:57Z",
   "source_trial_ids": [
     "NCT06403501",
-    "NCT06832618"
+    "NCT06832618",
+    "NCT06958211",
+    "NCT06959225"
   ],
   "sponsors": [
     {
@@ -67,6 +69,20 @@
       "title": "A Study to Assess the Efficacy and Safety of Ruxolitinib Cream in Children and Adolescents (6 to <18 Years Old) With Moderate Atopic Dermatitis",
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT06832618",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06958211",
+      "title": "Study to Evaluate the Efficacy and Safety of Ruxolitinib Cream in Participants With Hidradenitis Suppurativa (TRuE-HS2)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06958211",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06959225",
+      "title": "Study to Evaluate the Efficacy and Safety of Ruxolitinib Cream in Participants With Hidradenitis Suppurativa (TRuE-HS1)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06959225",
       "has_results": false
     }
   ],

@@ -1,9 +1,10 @@
 {
   "drug_name": "Ruxolitinib Cream",
   "slug": "ruxolitinib-cream",
-  "enriched_at": "2026-09-07T14:04:51Z",
+  "enriched_at": "2026-09-25T12:39:41Z",
   "source_trial_ids": [
-    "NCT06548360"
+    "NCT06958211",
+    "NCT06959225"
   ],
   "sponsors": [
     {
@@ -44,21 +45,34 @@
     }
   },
   "condition": {
-    "raw": "NonSegmental Vitiligo",
-    "slug": "nonsegmental-vitiligo"
+    "raw": "Hidradenitis Suppurativa",
+    "slug": "hidradenitis-suppurativa"
   },
   "source_trials": [
     {
-      "nct_id": "NCT06548360",
-      "title": "A Study to Evaluate the Safety and Efficacy of Ruxolitinib Cream in Pediatric Participants With Nonsegmental Vitiligo",
-      "status": "RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06548360",
+      "nct_id": "NCT06958211",
+      "title": "Study to Evaluate the Efficacy and Safety of Ruxolitinib Cream in Participants With Hidradenitis Suppurativa (TRuE-HS2)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06958211",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06959225",
+      "title": "Study to Evaluate the Efficacy and Safety of Ruxolitinib Cream in Participants With Hidradenitis Suppurativa (TRuE-HS1)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06959225",
       "has_results": false
     }
   ],
   "prior_results": {
     "ctgov_results_urls": [],
     "pubmed_articles": [
+      {
+        "pmid": "42776548",
+        "title": "Efficacy and Safety of Ruxolitinib Cream in Patients With Cutaneous Lichen Planus: A Randomized Clinical Trial.",
+        "pubdate": "2026 Sep 23",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42776548/"
+      },
       {
         "pmid": "42605165",
         "title": "Real-world effectiveness of topical ruxolitinib in non-segmental vitiligo: repigmentation, mental health, and quality-of-life outcomes in an 860-patient multicentre study.",
@@ -82,18 +96,23 @@
         "title": "Emerging synthetic drugs for the management of hidradenitis suppurativa: a comprehensive update.",
         "pubdate": "2026 Jul",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42342652/"
-      },
-      {
-        "pmid": "42201487",
-        "title": "Safety and Tolerability of Ruxolitinib Cream in Adolescents with Mild-to-Moderate Atopic Dermatitis: Results From a 1-Year, Phase III, Open-Label Study.",
-        "pubdate": "2026 Jul",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42201487/"
       }
     ]
   },
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": []
+    "items": [
+      {
+        "name": "Bimekizumab",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: UCB Biopharma SRL"
+      },
+      {
+        "name": "Sonelokimab",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: MoonLake Immunotherapeutics AG"
+      }
+    ]
   }
 }
