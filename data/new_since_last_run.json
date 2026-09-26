@@ -1,6 +1,55 @@
 {
-  "generated_at": "2026-09-25T14:28:46Z",
-  "new_trial_count": 0,
-  "new_trials": [],
+  "generated_at": "2026-09-26T12:06:38Z",
+  "new_trial_count": 1,
+  "new_trials": [
+    {
+      "nct_id": "NCT07193459",
+      "title": "Study to Evaluate HDM1002 Tablets in Adults With Type 2 Diabetes Mellitus",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Hangzhou Zhongmei Huadong Pharmaceutical Co., Ltd.",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-10-10",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Type 2 Diabetes"
+      ],
+      "interventions": [
+        {
+          "name": "HDM1002 200 mg",
+          "type": "DRUG"
+        },
+        {
+          "name": "HDM1002 400 mg",
+          "type": "DRUG"
+        },
+        {
+          "name": "Placebo",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "HDM1002 200 mg",
+        "HDM1002 400 mg",
+        "Placebo"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT07193459",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Hangzhou Zhongmei Huadong Pharmaceutical Co., Ltd.",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hangzhou%20Zhongmei%20Huadong%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-09-20T12:51:27Z"
+      }
+    }
+  ],
   "removed_trial_ids": []
 }

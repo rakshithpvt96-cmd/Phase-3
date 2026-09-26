@@ -1,7 +1,7 @@
 {
   "drug_name": "Placebo",
   "slug": "placebo",
-  "enriched_at": "2026-09-21T13:46:24Z",
+  "enriched_at": "2026-09-26T12:07:14Z",
   "source_trial_ids": [
     "NCT02914535",
     "NCT04023552",
@@ -10,7 +10,6 @@
     "NCT04895241",
     "NCT04961567",
     "NCT04965675",
-    "NCT05018585",
     "NCT05116462",
     "NCT05164341",
     "NCT05316220",
@@ -33,7 +32,6 @@
     "NCT06309966",
     "NCT06339008",
     "NCT06411288",
-    "NCT06440967",
     "NCT06455059",
     "NCT06468956",
     "NCT06472076",
@@ -55,6 +53,7 @@
     "NCT06958692",
     "NCT06994507",
     "NCT07146126",
+    "NCT07193459",
     "NCT07220109",
     "NCT07265284",
     "NCT07279194",
@@ -109,12 +108,6 @@
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Arthrosi%20Therapeutics&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
-      "name": "Astellas Pharma Global Development, Inc.",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Astellas%20Pharma%20Global%20Development%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Avidity Biosciences, Inc.",
@@ -199,12 +192,6 @@
       "ticker": "CYTK",
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001061983&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
-      "name": "Diamyd Medical AB",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Diamyd%20Medical%20AB&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Disc Medicine, Inc",
@@ -430,8 +417,8 @@
     }
   },
   "condition": {
-    "raw": "Type 1 Diabetes Mellitus",
-    "slug": "type-1-diabetes-mellitus"
+    "raw": "Limited-Stage Small Cell Lung Cancer",
+    "slug": "limited-stage-small-cell-lung-cancer"
   },
   "source_trials": [
     {
@@ -481,13 +468,6 @@
       "title": "A Study With Eptinezumab in Adolescents (12-17 Years) With Chronic Migraine",
       "status": "RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT04965675",
-      "has_results": false
-    },
-    {
-      "nct_id": "NCT05018585",
-      "title": "A Phase III Study to Investigate if the Study Drug Diamyd Can Preserve Insulin Production and Improve Glycemic Control in Patients Newly Diagnosed With Type 1 Diabetes",
-      "status": "TERMINATED",
-      "url": "https://clinicaltrials.gov/study/NCT05018585",
       "has_results": false
     },
     {
@@ -556,7 +536,7 @@
     {
       "nct_id": "NCT05643534",
       "title": "Study to Assess Safety and Efficacy of Tenapanor for Treatment of IBS-C in Pediatric Patients 12 to Less Than 18 Years",
-      "status": "ACTIVE_NOT_RECRUITING",
+      "status": "COMPLETED",
       "url": "https://clinicaltrials.gov/study/NCT05643534",
       "has_results": false
     },
@@ -642,13 +622,6 @@
       "title": "Global Study of Del-desiran for the Treatment of DM1",
       "status": "COMPLETED",
       "url": "https://clinicaltrials.gov/study/NCT06411288",
-      "has_results": false
-    },
-    {
-      "nct_id": "NCT06440967",
-      "title": "A Study to Confirm if Fezolinetant Helps Reduce Hot Flashes in Women With Breast Cancer Who Are Having Hormone Therapy",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06440967",
       "has_results": false
     },
     {
@@ -799,6 +772,13 @@
       "has_results": false
     },
     {
+      "nct_id": "NCT07193459",
+      "title": "Study to Evaluate HDM1002 Tablets in Adults With Type 2 Diabetes Mellitus",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07193459",
+      "has_results": false
+    },
+    {
       "nct_id": "NCT07220109",
       "title": "A Study on the Immune Response and Safety of Vaccine Against Respiratory Syncytial Virus Given to Chinese Adults 18 to 59 Years of Age at Increased Risk of Respiratory Syncytial Virus Disease",
       "status": "ACTIVE_NOT_RECRUITING",
@@ -880,34 +860,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42764956",
-        "title": "Current Perspectives on the Use of Adjuvant Pembrolizumab for Hepatocellular Carcinoma.",
-        "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42764956/"
+        "pmid": "42797593",
+        "title": "A Randomized Phase 3 Study to Evaluate the Safety, Tolerability, and Immunogenicity of the Bivalent RSVpreF Vaccine in Older Adults in Korea.",
+        "pubdate": "2026 Sep 3",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42797593/"
       },
       {
-        "pmid": "42764919",
-        "title": "Progesterone in feminizing gender affirming hormone therapy: study protocol for a randomized placebo-controlled trial.",
-        "pubdate": "2026 Dec",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42764919/"
+        "pmid": "42797557",
+        "title": "Estimating and Projecting Efficacy of Monoclonal Antibodies Against Respiratory Syncytial Virus Beyond Clinical Trial Periods.",
+        "pubdate": "2026 Aug 26",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42797557/"
       },
       {
-        "pmid": "42764892",
-        "title": "Dupilumab Improves Lung Function and Reduces Severe Exacerbations in Patients from China with Type 2 Asthma: A Subgroup Analysis of a Phase 3 Randomized Trial.",
-        "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42764892/"
+        "pmid": "42797407",
+        "title": "Precision Pharmacotherapy for Obstructive Sleep Apnea: Matching Targeted Drugs to Patient Endophenotypes.",
+        "pubdate": "2026 Aug 28",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42797407/"
       },
       {
-        "pmid": "42764731",
-        "title": "Oral vitamin C supplementation in patients with clonal cytopenia of undetermined significance or lower-risk myeloid malignancies: Results from EVITA, a phase 2 randomized, placebo-controlled trial.",
-        "pubdate": "2026 Oct 1",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42764731/"
+        "pmid": "42796966",
+        "title": "Omega-3 Supplementation Modulates Whole-Blood EPA and DHA Without Improving Patient-Reported Outcomes in Youth with Migraine: A Quasi-Randomized Pilot Trial.",
+        "pubdate": "2026 Sep 11",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42796966/"
       },
       {
-        "pmid": "42764665",
-        "title": "Agreement of Over-the-Counter Continuous Glucose Monitors With Capillary-Meter Glucose in Young Adults Without Diabetes.",
-        "pubdate": "2026 Sep 20",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42764665/"
+        "pmid": "42796927",
+        "title": "Dietary Fiber Supplementation Reduces Systolic Blood Pressure in High-Risk Patients with Type 2 Diabetes and Hypertension: A Secondary Analysis of a Randomized Trial.",
+        "pubdate": "2026 Sep 8",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42796927/"
       }
     ]
   },

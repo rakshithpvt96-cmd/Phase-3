@@ -1,0 +1,90 @@
+{
+  "drug_name": "HDM1002 200 mg",
+  "slug": "hdm1002-200-mg",
+  "enriched_at": "2026-09-26T12:08:10Z",
+  "source_trial_ids": [
+    "NCT07193459"
+  ],
+  "sponsors": [
+    {
+      "name": "Hangzhou Zhongmei Huadong Pharmaceutical Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hangzhou%20Zhongmei%20Huadong%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": null
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL5314922",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=HDM1002%20200%20mg+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=HDM1002%20200%20mg+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=HDM1002%20200%20mg+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Type 2 Diabetes",
+    "slug": "type-2-diabetes"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07193459",
+      "title": "Study to Evaluate HDM1002 Tablets in Adults With Type 2 Diabetes Mellitus",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07193459",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "Oral semaglutide",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Novo Nordisk A/S"
+      },
+      {
+        "name": "HRS9531 Injection",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Fujian Shengdi Pharmaceutical Co., Ltd."
+      },
+      {
+        "name": "Semaglutide Injection",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Fujian Shengdi Pharmaceutical Co., Ltd."
+      },
+      {
+        "name": "Retatrutide",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Eli Lilly and Company"
+      },
+      {
+        "name": "Placebo",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Eli Lilly and Company"
+      }
+    ]
+  }
+}
