@@ -1,0 +1,99 @@
+{
+  "drug_name": "Placebo 250 mg",
+  "slug": "placebo-250-mg",
+  "enriched_at": "2026-09-27T12:52:49Z",
+  "source_trial_ids": [
+    "NCT07168434"
+  ],
+  "sponsors": [
+    {
+      "name": "Biocodex",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Biocodex&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "8375",
+      "generic_name": "placebo",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL5314922",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Placebo%20250%20mg+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Placebo%20250%20mg+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Placebo%20250%20mg+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "IBS (Irritable Bowel Syndrome)",
+    "slug": "ibs-irritable-bowel-syndrome"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07168434",
+      "title": "Saccharomyces Boulardii CNCM I-745 in Irritable Bowel Syndrome",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07168434",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42769795",
+        "title": "Evaluation of the effects of Asparagus racemosus extract (ARova5X) supplementation on postmenopausal discomfort.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42769795/"
+      },
+      {
+        "pmid": "42751563",
+        "title": "Polyphenol-rich sugarcane extract reduces circulating trans fatty acids, VLDL cholesterol, and triglycerides in healthy adults.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42751563/"
+      },
+      {
+        "pmid": "42641639",
+        "title": "Crizotinib versus observation or placebo for surgically resected early-stage ALK-positive non-small-cell lung cancer (Eastern Cooperative Oncology Group-American College of Radiology Imaging Network E4512): a phase 3 trial.",
+        "pubdate": "2026 Aug 25",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42641639/"
+      },
+      {
+        "pmid": "42640641",
+        "title": "Safety and Preliminary Efficacy of Dengue Monoclonal Antibody in Adult Patients: A Randomized Clinical Trial.",
+        "pubdate": "2026 Aug 3",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42640641/"
+      },
+      {
+        "pmid": "42628839",
+        "title": "Atezolizumab with or without tiragolumab in unresectable esophageal squamous cell carcinoma following definitive concurrent chemoradiotherapy (SKYSCRAPER-07): a randomised, phase III study.",
+        "pubdate": "2026 Aug 21",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42628839/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}
