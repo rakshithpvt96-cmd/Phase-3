@@ -1,7 +1,7 @@
 {
   "drug_name": "CM310",
   "slug": "cm310",
-  "enriched_at": "2026-09-21T14:25:00Z",
+  "enriched_at": "2026-09-28T15:07:06Z",
   "source_trial_ids": [
     "NCT06495229"
   ],
@@ -124,6 +124,11 @@
         "name": "Vehicle Cream",
         "chembl_id": null,
         "reason": "same indication trial, sponsor: Incyte Corporation"
+      },
+      {
+        "name": "Dupilumab",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Regeneron Pharmaceuticals"
       }
     ]
   }

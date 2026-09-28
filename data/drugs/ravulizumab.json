@@ -1,9 +1,9 @@
 {
   "drug_name": "Ravulizumab",
   "slug": "ravulizumab",
-  "enriched_at": "2026-09-15T12:35:30Z",
+  "enriched_at": "2026-09-28T15:15:53Z",
   "source_trial_ids": [
-    "NCT05346354",
+    "NCT05133531",
     "NCT05644561"
   ],
   "sponsors": [
@@ -12,6 +12,12 @@
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Alexion%20Pharmaceuticals%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Regeneron Pharmaceuticals",
+      "ticker": "REGN",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000872589&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
@@ -45,15 +51,15 @@
     "further_reading": null
   },
   "condition": {
-    "raw": "Neuromyelitis Optica Spectrum Disorder",
-    "slug": "neuromyelitis-optica-spectrum-disorder"
+    "raw": "Generalized Myasthenia Gravis",
+    "slug": "generalized-myasthenia-gravis"
   },
   "source_trials": [
     {
-      "nct_id": "NCT05346354",
-      "title": "Efficacy and Safety Study of Ravulizumab IV in Pediatric Participants With NMOSD",
+      "nct_id": "NCT05133531",
+      "title": "A Study to Evaluate How Safe Pozelimab + Cemdisiran Combination Therapy is and How Well it Works in Adult Patients With Paroxysmal Nocturnal Hemoglobinuria (PNH) Who Have Not Recently Received or Have Not Received Complement Inhibitor Treatment",
       "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT05346354",
+      "url": "https://clinicaltrials.gov/study/NCT05133531",
       "has_results": false
     },
     {
@@ -68,9 +74,15 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42786374",
+        "title": "Comparative Efficacy of Zilucoplan Versus Intravenous Immunoglobulin, Eculizumab, and Ravulizumab Using Matching-Adjusted Indirect Comparisons.",
+        "pubdate": "2026 Sep 24",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42786374/"
+      },
+      {
         "pmid": "42492371",
         "title": "Site-targeted proximal complement C3 inhibition, but not C5 blockade, attenuates neurodegeneration in a mouse model of amyotrophic lateral sclerosis: Implications for failed clinical trials.",
-        "pubdate": "2026 Jul 23",
+        "pubdate": "2026 Sep",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42492371/"
       },
       {
@@ -90,12 +102,6 @@
         "title": "FcRn antagonist and C5 complement inhibitor as early rescue strategies in severe Myasthenia Gravis: a two-case report.",
         "pubdate": "2026",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42404894/"
-      },
-      {
-        "pmid": "42371577",
-        "title": "Complement-targeted therapies for transplant-associated thrombotic microangiopathy: recent advances.",
-        "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42371577/"
       }
     ]
   },

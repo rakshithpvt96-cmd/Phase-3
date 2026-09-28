@@ -1,12 +1,13 @@
 {
   "drug_name": "Gemcitabine",
   "slug": "gemcitabine",
-  "enriched_at": "2026-09-15T12:33:54Z",
+  "enriched_at": "2026-09-28T15:08:50Z",
   "source_trial_ids": [
     "NCT05254171",
     "NCT06343948",
     "NCT06370871",
-    "NCT06519370"
+    "NCT06519370",
+    "NCT06619236"
   ],
   "sponsors": [
     {
@@ -14,6 +15,12 @@
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Boehringer%20Ingelheim&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Genmab",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Genmab&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Panbela Therapeutics, Inc.",
@@ -66,7 +73,7 @@
     "openfda_generic_names": [
       "GEMCITABINE HYDROCHLORIDE"
     ],
-    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e11eeff7-bcaf-4bf1-8da8-88138e01af84",
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=44bcc16c-341d-49e8-a1c6-95d084667aca",
     "note": null,
     "further_reading": null
   },
@@ -102,40 +109,47 @@
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT06519370",
       "has_results": false
+    },
+    {
+      "nct_id": "NCT06619236",
+      "title": "Study to Assess the Efficacy of Rina-S Compared to Treatment of Investigator's Choice in Participants With Platinum Resistant Ovarian Cancer",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06619236",
+      "has_results": false
     }
   ],
   "prior_results": {
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42733563",
-        "title": "Short-term versus long-course neoadjuvant chemotherapy for resectable and borderline resectable pancreatic ductal adenocarcinoma (PACT-21 CASSANDRA): results from the second randomisation analysis of a randomised, open-label, 2 × 2 factorial phase 3 trial.",
-        "pubdate": "2026 Sep",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42733563/"
+        "pmid": "42777170",
+        "title": "Personalized Therapy in Advanced Cholangiocarcinoma: Contemporary Treatment Approaches and Future Directions.",
+        "pubdate": "2026 Sep 23",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42777170/"
       },
       {
-        "pmid": "42727307",
-        "title": "Real-World Treatment Duration With First-line Enfortumab Vedotin Plus Pembrolizumab for Advanced Urothelial Cancer: A National Electronic Health Record Study.",
-        "pubdate": "2026 Aug 17",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42727307/"
+        "pmid": "42773210",
+        "title": "Trastuzumab plus nivolumab with gemcitabine and cisplatin as first-line therapy for HER2-positive unresectable biliary tract cancer: a phase 1b/2 trial.",
+        "pubdate": "2026 Sep 22",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42773210/"
       },
       {
-        "pmid": "42725320",
-        "title": "Systemic treatment of advanced pancreatic cancer: A Comprehensive Review.",
-        "pubdate": "2026 Mar",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42725320/"
-      },
-      {
-        "pmid": "42712492",
-        "title": "Multi-modal digital twin model outperforms conventional biomarker stratification in pancreatic cancer.",
+        "pmid": "42769448",
+        "title": "Immunotherapy in advanced biliary tract cancer: current status and future directions.",
         "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42712492/"
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42769448/"
       },
       {
-        "pmid": "42691249",
-        "title": "Enhancing Gemcitabine Uptake by Promoting Dimerization of the ENT1 Transporter Improves Sarcoma Patient Response Rate.",
-        "pubdate": "2026 Sep 3",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42691249/"
+        "pmid": "42763280",
+        "title": "A Phase I Study of Nab-Paclitaxel, Gemcitabine and AZD1775 for Treatment of Metastatic Adenocarcinoma of the Pancreas: ECOG-ACRIN EA2131.",
+        "pubdate": "2026 Sep 2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42763280/"
+      },
+      {
+        "pmid": "42743886",
+        "title": "Circulating free bacterial DNA as a novel biomarker for monitoring therapy response in patients with advanced pancreatic cancer.",
+        "pubdate": "2026 Sep 10",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42743886/"
       }
     ]
   },

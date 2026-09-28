@@ -1,6 +1,167 @@
 {
-  "generated_at": "2026-09-27T14:36:17Z",
-  "new_trial_count": 0,
-  "new_trials": [],
-  "removed_trial_ids": []
+  "generated_at": "2026-09-28T15:05:03Z",
+  "new_trial_count": 3,
+  "new_trials": [
+    {
+      "nct_id": "NCT06619236",
+      "title": "Study to Assess the Efficacy of Rina-S Compared to Treatment of Investigator's Choice in Participants With Platinum Resistant Ovarian Cancer",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Genmab",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-08-18",
+      "primary_completion_date_type": "ACTUAL",
+      "window": "lookback",
+      "conditions": [
+        "Platinum-resistant Ovarian Cancer"
+      ],
+      "interventions": [
+        {
+          "name": "Rina-S",
+          "type": "DRUG"
+        },
+        {
+          "name": "Paclitaxel",
+          "type": "DRUG"
+        },
+        {
+          "name": "Topotecan",
+          "type": "DRUG"
+        },
+        {
+          "name": "Pegylated liposomal doxorubicin (PLD)",
+          "type": "DRUG"
+        },
+        {
+          "name": "Gemcitabine",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "Rina-S",
+        "Paclitaxel",
+        "Topotecan",
+        "Pegylated liposomal doxorubicin (PLD)",
+        "Gemcitabine"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06619236",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Genmab",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Genmab&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-09-28T15:05:00Z"
+      }
+    },
+    {
+      "nct_id": "NCT05133531",
+      "title": "A Study to Evaluate How Safe Pozelimab + Cemdisiran Combination Therapy is and How Well it Works in Adult Patients With Paroxysmal Nocturnal Hemoglobinuria (PNH) Who Have Not Recently Received or Have Not Received Complement Inhibitor Treatment",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Regeneron Pharmaceuticals",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-10-12",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Paroxysmal Nocturnal Hemoglobinuria"
+      ],
+      "interventions": [
+        {
+          "name": "Ravulizumab",
+          "type": "DRUG"
+        },
+        {
+          "name": "Pozelimab",
+          "type": "DRUG"
+        },
+        {
+          "name": "Cemdisiran",
+          "type": "DRUG"
+        },
+        {
+          "name": "Eculizumab",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "Ravulizumab",
+        "Pozelimab",
+        "Cemdisiran",
+        "Eculizumab"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT05133531",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Regeneron Pharmaceuticals",
+        "ticker": "REGN",
+        "cik": "0000872589",
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000872589&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-09-27T12:51:55Z"
+      }
+    },
+    {
+      "nct_id": "NCT05884398",
+      "title": "A Study of an Intermittent ADT Approach With Apalutamide Monotherapy in Participants With mCSPC",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Janssen Research & Development, LLC",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-10-12",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Metastatic Castrate-sensitive Prostate Cancer"
+      ],
+      "interventions": [
+        {
+          "name": "Apalutamide",
+          "type": "DRUG"
+        },
+        {
+          "name": "Androgen-deprivation Therapy (ADT)",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "Apalutamide",
+        "Androgen-deprivation Therapy (ADT)"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT05884398",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Janssen Research & Development, LLC",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Janssen%20Research%20%26%20Development%2C%20LLC&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-09-28T15:05:00Z"
+      }
+    }
+  ],
+  "removed_trial_ids": [
+    "NCT04415853",
+    "NCT04711252",
+    "NCT06806293",
+    "NCT07047521",
+    "NCT07271251"
+  ]
 }

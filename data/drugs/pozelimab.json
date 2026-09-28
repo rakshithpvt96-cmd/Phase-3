@@ -1,0 +1,138 @@
+{
+  "drug_name": "Pozelimab",
+  "slug": "pozelimab",
+  "enriched_at": "2026-09-28T15:15:36Z",
+  "source_trial_ids": [
+    "NCT05133531"
+  ],
+  "sponsors": [
+    {
+      "name": "Regeneron Pharmaceuticals",
+      "ticker": "REGN",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000872589&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2663938",
+      "generic_name": "pozelimab",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4298086",
+    "target_chembl_id": "CHEMBL2364163",
+    "target_name": "Complement C5",
+    "mechanism_of_action_chembl": "Complement C5 inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Pozelimab-bbfg is a human, monoclonal immunoglobulin G4 P (IgG4 P ) antibody directed against the terminal complement protein C5 that inhibits terminal complement activation by blocking cleavage of C5 into C5a (anaphylatoxin) and C5b, thereby blocking the formation of the membrane-attack complex (C5b-C9, a structure mediating cell lysis).",
+    "pharmacokinetics": "12.3 Pharmacokinetics In healthy subjects, single intravenous infusions of VEOPOZ over approximately one hour resulted in dose proportional increases in mean C max , but greater than proportional increases in mean AUC inf (>16-fold) for total pozelimab concentrations in serum between 3 mg/kg and 30 mg/kg. The mean AUC inf increased by 3.5-fold between 10 mg/kg and 30 mg/kg. In healthy subjects, single subcutaneous injections of VEOPOZ resulted in approximately 1.5-fold increase in mean C max and 2.2-fold increase in mean AUC inf between 300 mg and 600 mg. In patients with CD55-deficient PLE, a single dose of VEOPOZ 30 mg/kg administered as an intravenous infusion over approximately one hour resulted in median (range) total pozelimab trough concentration of 180 (52.8, 268) mg/L at Week 1. The predicted mean (SD) trough concentrations of total pozelimab at steady state are 330 (94.2) mg/L and 385 (112) mg/L for VEOPOZ 10 mg/kg or 12 mg/kg (up to a maximum 800 mg) once weekly via subcutaneous injection(s), respectively, following the intravenous loading dose. Absorption In healthy subjects, following subcutaneous injection of 600 mg, the bioavailability of pozelimab-bbfg is estimated as 51%. The median (range) time to reach peak concentration was 7 (3 to 7) days following a single subcutaneous injection of 300 mg or 600 mg in healthy subjects. Distribution In healthy adult subjects with a mean body weight of 70 kg, the mean (SD) volume of distribution following a single intravenous dose of 30 mg/kg was 3.3 (0.4) L. The mean (SD) apparent volume of distribution following a single subcutaneous injection of 300 mg and 600 mg was 6.0 (0.9) L and 8.6 (2.7) L, respectively. Elimination Pozelimab-bbfg is expected to be degraded into small peptides and amino acids via catabolic pathways in the same manner as endogenous IgG. Pozelimab-bbfg elimination is mediated via linear and non-linear pathways. At higher concentrations, pozelimab-bbfg elimination is primarily through the linear non-saturable proteolytic pathway, whereas at lower concentrations, the non-linear, saturable C5 target-mediated elimination predominates. In healthy adult subjects, the median (range) terminal half-life of total pozelimab in serum was 13.5 (10.0, 17.2) days following a single 30 mg/kg dose administered as an intravenous infusion. The median (range) terminal half-life was 14.1 (8.6, 17.3) days following a single 600 mg subcutaneous injection. In patients with CD55-deficient PLE, steady-state total pozelimab concentrations were reached at approximately 20 weeks following subcutaneous injection once weekly. Specific Populations Body Weight Body weight was a significant covariate on the pharmacokinetics of pozelimab-bbfg. Renal and Hepatic Impairment Pozelimab-bbfg, a monoclonal antibody, is not likely to undergo renal or hepatic excretion. Drug Interaction Studies Drug interaction studies have not been conducted. Intravenous Immunoglobulin (IVIg) may interfere with the endosomal neonatal Fc receptor (FcRn) recycling mechanism of monoclonal antibodies such as pozelimab-bbfg, which may decrease serum pozelimab concentrations [see Drug Interactions (7.1) ] .",
+    "indications_and_usage": "1 INDICATIONS AND USAGE VEOPOZ is indicated for the treatment of adult and pediatric patients 1 year of age and older with CD55-deficient protein-losing enteropathy (PLE), also known as CHAPLE disease. VEOPOZ is a complement inhibitor indicated for the treatment of adult and pediatric patients 1 year of age and older with CD55-deficient protein-losing enteropathy (PLE), also known as CHAPLE disease. ( 1 )",
+    "boxed_warning": "WARNING: SERIOUS MENINGOCOCCAL INFECTIONS Life-threatening and fatal meningococcal infections have occurred in patients treated with complement inhibitors. Meningococcal infection may become rapidly life-threatening or fatal if not recognized and treated early. Complete or update meningococcal vaccination (for serogroups A, C, W and Y, and serogroup B) at least 2 weeks prior to administering the first dose of VEOPOZ, unless the risks of delaying therapy outweigh the risk of developing a meningococcal infection. Follow the most current Advisory Committee on Immunization Practices (ACIP) recommendations for meningococcal vaccination in patients receiving a complement inhibitor. Patients receiving VEOPOZ are at increased risk for invasive disease caused by N. meningitidis , even if they develop antibodies following vaccination. Monitor patients for early signs of meningococcal infections and evaluate immediately if infection is suspected [see Warnings and Precautions (5.1) ] . WARNING: SERIOUS MENINGOCOCCAL INFECTIONS See full prescribing information for complete boxed warning Life-threatening and fatal meningococcal infections have occurred in patients treated with complement inhibitors. Meningococcal infection may become rapidly life-threatening or fatal if not recognized and treated early. ( 5.1 ) Complete or update meningococcal vaccination at least 2 weeks prior to administering the first dose of VEOPOZ, unless the risks of delaying therapy outweigh the risks of developing meningococcal infection. Follow the most current Advisory Committee on Immunization Practices (ACIP) recommendations for meningococcal vaccination in patients receiving a complement inhibitor. ( 5.1 ) Patients receiving VEOPOZ are at increased risk for invasive disease caused by N. meningitidis , even if they develop antibodies following vaccination. Monitor patients for early signs of meningococcal infections and evaluate immediately if infection is suspected. ( 5.1 )",
+    "openfda_brand_names": [
+      "VEOPOZ"
+    ],
+    "openfda_generic_names": [
+      "POZELIMAB"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a8d6f10e-9430-450a-a3dd-b538f9b2a308",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Paroxysmal Nocturnal Hemoglobinuria",
+    "slug": "paroxysmal-nocturnal-hemoglobinuria"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05133531",
+      "title": "A Study to Evaluate How Safe Pozelimab + Cemdisiran Combination Therapy is and How Well it Works in Adult Patients With Paroxysmal Nocturnal Hemoglobinuria (PNH) Who Have Not Recently Received or Have Not Received Complement Inhibitor Treatment",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05133531",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42030965",
+        "title": "Efficacy and safety of cemdisiran siRNA in myasthenia gravis (NIMBLE): a double-blind, randomised, placebo-controlled, phase 3 trial.",
+        "pubdate": "2026 May 2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42030965/"
+      },
+      {
+        "pmid": "39934837",
+        "title": "The patient experience of CHAPLE disease: results from interviews conducted as part of a clinical trial for an ultra-rare condition.",
+        "pubdate": "2025 Feb 11",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39934837/"
+      },
+      {
+        "pmid": "39657032",
+        "title": "An evaluation of pozelimab for the treatment of CHAPLE disease.",
+        "pubdate": "2025 Jan",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39657032/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "ECULIZUMAB",
+        "chembl_id": "CHEMBL1201828",
+        "reason": "same target: Complement C5"
+      },
+      {
+        "name": "PEXELIZUMAB",
+        "chembl_id": "CHEMBL2107979",
+        "reason": "same target: Complement C5"
+      },
+      {
+        "name": "VILOBELIMAB",
+        "chembl_id": "CHEMBL2109636",
+        "reason": "same target: Complement C5"
+      },
+      {
+        "name": "RAVULIZUMAB",
+        "chembl_id": "CHEMBL3989986",
+        "reason": "same target: Complement C5"
+      },
+      {
+        "name": "TESIDOLUMAB",
+        "chembl_id": "CHEMBL4298012",
+        "reason": "same target: Complement C5"
+      },
+      {
+        "name": "NOMACOPAN",
+        "chembl_id": "CHEMBL4297928",
+        "reason": "same target: Complement C5"
+      },
+      {
+        "name": "OLENDALIZUMAB",
+        "chembl_id": "CHEMBL3990025",
+        "reason": "same target: Complement C5"
+      },
+      {
+        "name": "ZILUCOPLAN",
+        "chembl_id": "CHEMBL4298207",
+        "reason": "same target: Complement C5"
+      },
+      {
+        "name": "CROVALIMAB",
+        "chembl_id": "CHEMBL4594316",
+        "reason": "same target: Complement C5"
+      },
+      {
+        "name": "ZILUCOPLAN SODIUM",
+        "chembl_id": "CHEMBL5315048",
+        "reason": "same target: Complement C5"
+      }
+    ]
+  }
+}

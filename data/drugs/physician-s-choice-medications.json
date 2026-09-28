@@ -1,7 +1,7 @@
 {
   "drug_name": "Physician's Choice medications",
   "slug": "physician-s-choice-medications",
-  "enriched_at": "2026-09-21T13:45:30Z",
+  "enriched_at": "2026-09-28T15:14:33Z",
   "source_trial_ids": [
     "NCT03165734"
   ],
@@ -21,7 +21,7 @@
     }
   },
   "mechanism": {
-    "chembl_id": null,
+    "chembl_id": "CHEMBL2108889",
     "target_chembl_id": null,
     "target_name": null,
     "mechanism_of_action_chembl": null
@@ -73,8 +73,8 @@
       },
       {
         "pmid": "42361291",
-        "title": "API-CAT Investigators' Decisions on Anticoagulation following Extended Treatment for Cancer VTE.",
-        "pubdate": "2026 Jun 26",
+        "title": "API-CAT investigators' decisions on anticoagulation following extended treatment for cancer-associated thrombosis.",
+        "pubdate": "2026 Sep 22",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42361291/"
       },
       {

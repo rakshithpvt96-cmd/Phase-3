@@ -1,23 +1,27 @@
 {
-  "drug_name": "CVN424 75 mg",
-  "slug": "cvn424-75-mg",
-  "enriched_at": "2026-09-28T15:07:32Z",
+  "drug_name": "Rina-S",
+  "slug": "rina-s",
+  "enriched_at": "2026-09-28T15:16:14Z",
   "source_trial_ids": [
-    "NCT06553027"
+    "NCT06619236"
   ],
   "sponsors": [
     {
-      "name": "Cerevance",
+      "name": "Genmab",
       "ticker": null,
       "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Cerevance&type=10-K&dateb=&owner=include&count=40"
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Genmab&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
-    "rxnorm": null
+    "rxnorm": {
+      "rxcui": "1404178",
+      "generic_name": null,
+      "brand_names": []
+    }
   },
   "mechanism": {
-    "chembl_id": "CHEMBL5314922",
+    "chembl_id": "CHEMBL297792",
     "target_chembl_id": null,
     "target_name": null,
     "mechanism_of_action_chembl": null
@@ -34,21 +38,21 @@
     "dailymed_url": null,
     "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
     "further_reading": {
-      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=CVN424%2075%20mg+mechanism+of+action",
-      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=CVN424%2075%20mg+pharmacokinetics",
-      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=CVN424%2075%20mg+efficacy+phase+3"
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Rina-S+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Rina-S+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Rina-S+efficacy+phase+3"
     }
   },
   "condition": {
-    "raw": "Parkinson Disease",
-    "slug": "parkinson-disease"
+    "raw": "Platinum-resistant Ovarian Cancer",
+    "slug": "platinum-resistant-ovarian-cancer"
   },
   "source_trials": [
     {
-      "nct_id": "NCT06553027",
-      "title": "To Evaluate the Efficacy of CVN424 in Parkinson's Disease Participants With Motor Complications",
+      "nct_id": "NCT06619236",
+      "title": "Study to Assess the Efficacy of Rina-S Compared to Treatment of Investigator's Choice in Participants With Platinum Resistant Ovarian Cancer",
       "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06553027",
+      "url": "https://clinicaltrials.gov/study/NCT06619236",
       "has_results": false
     }
   ],

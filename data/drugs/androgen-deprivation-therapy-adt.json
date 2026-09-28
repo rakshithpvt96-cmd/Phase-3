@@ -1,0 +1,99 @@
+{
+  "drug_name": "Androgen-deprivation Therapy (ADT)",
+  "slug": "androgen-deprivation-therapy-adt",
+  "enriched_at": "2026-09-28T15:05:18Z",
+  "source_trial_ids": [
+    "NCT05884398"
+  ],
+  "sponsors": [
+    {
+      "name": "Janssen Research & Development, LLC",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Janssen%20Research%20%26%20Development%2C%20LLC&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "691719",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL255609",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Androgen-deprivation%20Therapy%20%28ADT%29+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Androgen-deprivation%20Therapy%20%28ADT%29+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Androgen-deprivation%20Therapy%20%28ADT%29+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Metastatic Castrate-sensitive Prostate Cancer",
+    "slug": "metastatic-castrate-sensitive-prostate-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05884398",
+      "title": "A Study of an Intermittent ADT Approach With Apalutamide Monotherapy in Participants With mCSPC",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05884398",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42801727",
+        "title": "Insulin-Like Growth Factor Axis and Survival in Metastatic Hormone-Sensitive Prostate Cancer: Post-Hoc Analysis From the ENZAMET Phase 3 Trial.",
+        "pubdate": "2026 Sep 27",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42801727/"
+      },
+      {
+        "pmid": "42801665",
+        "title": "A Phase II Trial Using Grape Seed Extract for Prostate Cancer Patients With Nonmetastatic Prostate-Specific Antigen Progression After Local Therapy.",
+        "pubdate": "2026 Sep 27",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42801665/"
+      },
+      {
+        "pmid": "42711192",
+        "title": "Impact of Treatment Intensification with Abiraterone on Fracture-related Hospitalisation in Newly Diagnosed Prostate Cancer: A Secondary Analysis of Two Randomised Phase 3 Trials Within the STAMPEDE Trial Platform.",
+        "pubdate": "2026 Sep 8",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42711192/"
+      },
+      {
+        "pmid": "42669035",
+        "title": "Specialist Referral for Cardiovascular Risk in Patients With Prostate Cancer: A Randomized Clinical Trial.",
+        "pubdate": "2026 Aug 30",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42669035/"
+      },
+      {
+        "pmid": "42662786",
+        "title": "Artificial Intelligence impact on decision-making regarding short-term ADT with prostate radiotherapy: ASTuTE clinical trial interim results.",
+        "pubdate": "2026 Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42662786/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

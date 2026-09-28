@@ -1,0 +1,150 @@
+{
+  "drug_name": "Eculizumab",
+  "slug": "eculizumab",
+  "enriched_at": "2026-09-28T15:08:11Z",
+  "source_trial_ids": [
+    "NCT05133531"
+  ],
+  "sponsors": [
+    {
+      "name": "Regeneron Pharmaceuticals",
+      "ticker": "REGN",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000872589&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "591781",
+      "generic_name": "eculizumab",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1201828",
+    "target_chembl_id": "CHEMBL2364163",
+    "target_name": "Complement C5",
+    "mechanism_of_action_chembl": "Complement C5 inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Eculizumab-aeeb, the active ingredient in BKEMV, is a monoclonal antibody that specifically binds to the complement protein C5 with high affinity, thereby inhibiting its cleavage to C5a and C5b and preventing the generation of the terminal complement complex C5b-9. Eculizumab products inhibit terminal complement-mediated intravascular hemolysis in PNH patients and complement-mediated thrombotic microangiopathy (TMA) in patients with aHUS. The precise mechanism by which eculizumab products exert their therapeutic effect in gMG patients is unknown, but is presumed to involve reduction of terminal complement complex C5b-9 deposition at the neuromuscular junction. The precise mechanism by which eculizumab products exert their therapeutic effect in NMOSD is unknown, but is presumed to involve inhibition of aquaporin-4-antibody induced terminal complement C5b-9 deposition.",
+    "pharmacokinetics": "12.3 Pharmacokinetics Following intravenous maintenance doses of 900 mg once every 2 weeks in patients with PNH, the week 26 observed mean ± SD serum eculizumab maximum concentration (C max ) was 194 ± 76 mcg/mL and the trough concentration (C trough ) was 97 ± 60 mcg/mL. Following intravenous maintenance doses of 1200 mg once every 2 weeks in patients with aHUS, the week 26 observed mean ± SD C trough was 242 ± 101 mcg/mL. Following intravenous maintenance doses of 1200 mg once every 2 weeks in adult patients with gMG, the week 26 observed mean ± SD C max was 783 ± 288 mcg/mL and the C trough was 341 ± 172 mcg/mL. Following intravenous maintenance doses of 1200 mg once every 2 weeks in patients with NMOSD, at week 24, the observed mean ± SD C max was 877 ± 331 and the C trough was 429 ± 188 mcg/mL. Steady state was achieved 4 weeks after starting eculizumab treatment, with accumulation ratio of approximately 2-fold in all studied indications. Population pharmacokinetic analyses showed that eculizumab pharmacokinetics were dose-linear and time-independent over the 600 mg to 1200 mg dose range, with inter-individual variability of 21% to 38%. Distribution The eculizumab volume of distribution for a typical 70 kg patient was 5 L to 8 L. Elimination The half-life of eculizumab ranged between 141 hours and 882 hours. Plasma exchange or infusion increased the clearance of eculizumab by approximately 6.01-fold and reduced the half-life to 90.2 hours. Supplemental dosing is recommended when BKEMV is administered to patients receiving plasma exchange or infusion [see Dosage and Administration (2.5) ] . Specific Populations Age, Sex, and Race: The pharmacokinetics of eculizumab were not affected by age (2 months to 85 years), sex, or race. Renal Impairment: Renal function did not affect the pharmacokinetics of eculizumab in PNH (creatinine clearance of 8 mL/min to 396 mL/min calculated using Cockcroft-Gault formula), aHUS (estimated glomerular filtration rate [eGFR] of 5 mL/min/1.73 m 2 to 105 mL/min/1.73 m 2 using the Modification of Diet in Renal Disease [MDRD] formula), or gMG patients (eGFR of 44 mL/min/1.73 m 2 to 168 mL/min/1.73 m 2 using MDRD formula).",
+    "indications_and_usage": "1 INDICATIONS AND USAGE BKEMV is a complement inhibitor indicated for: The treatment of patients with paroxysmal nocturnal hemoglobinuria (PNH) to reduce hemolysis. ( 1.1 ) The treatment of patients with atypical hemolytic uremic syndrome (aHUS) to inhibit complement-mediated thrombotic microangiopathy. ( 1.2 ) Limitation of Use BKEMV is not indicated for the treatment of patients with Shiga toxin E. coli related hemolytic uremic syndrome (STEC-HUS). The treatment of generalized myasthenia gravis (gMG) in adult patients who are anti-acetylcholine receptor (AChR) antibody positive. ( 1.3 ) The treatment of neuromyelitis optica spectrum disorder (NMOSD) in adult patients who are anti-aquaporin-4 (AQP4) antibody positive. ( 1.4 ) 1.1 Paroxysmal Nocturnal Hemoglobinuria (PNH) BKEMV is indicated for the treatment of patients with paroxysmal nocturnal hemoglobinuria (PNH) to reduce hemolysis. 1.2 Atypical Hemolytic Uremic Syndrome (aHUS) BKEMV is indicated for the treatment of patients with atypical hemolytic uremic syndrome (aHUS) to inhibit complement-mediated thrombotic microangiopathy. Limitation of Use BKEMV is not indicated for the treatment of patients with Shiga toxin E. coli related hemolytic uremic syndrome (STEC-HUS). 1.3 Generalized Myasthenia Gravis (gMG) BKEMV is indicated for the treatment of generalized myasthenia gravis (gMG) in adult patients who are anti-acetylcholine receptor (AChR) antibody positive. 1.4 Neuromyelitis Optica Spectrum Disorder (NMOSD) BKEMV is indicated for the treatment of neuromyelitis optica spectrum disorder (NMOSD) in adult patients who are anti-aquaporin-4 (AQP4) antibody positive.",
+    "boxed_warning": "WARNING: SERIOUS MENINGOCOCCAL INFECTIONS Eculizumab products, complement inhibitors, increase the risk of serious infections caused by Neisseria meningitidis [see Warnings and Precautions (5.1) ] . Life-threatening and fatal meningococcal infections have occurred in patients treated with complement inhibitors. These infections may become rapidly life-threatening or fatal if not recognized and treated early. Complete or update vaccination for meningococcal bacteria (for serogroups A, C, W, Y, and B) at least 2 weeks prior to the first dose of BKEMV, unless the risks of delaying therapy with BKEMV outweigh the risk of developing a serious infection. Comply with the most current Advisory Committee on Immunization Practices (ACIP) recommendations for vaccinations against meningococcal bacteria in patients receiving a complement inhibitor. See Warnings and Precautions (5.1) for additional guidance on the management of the risk of serious infections caused by meningococcal bacteria. Patients receiving eculizumab products are at increased risk for invasive disease caused by Neisseria meningitidis , even if they develop antibodies following vaccination. Monitor patients for early signs and symptoms of serious meningococcal infections and evaluate immediately if infection is suspected. Because of the risk of serious meningococcal infections, BKEMV is available only through a restricted program under a Risk Evaluation and Mitigation Strategy (REMS) called BKEMV REMS [see Warnings and Precautions (5.2) ] . WARNING: SERIOUS MENINGOCOCCAL INFECTIONS See full prescribing information for complete boxed warning Eculizumab products increase the risk of serious and life-threatening infections caused by Neisseria meningitidis . Complete or update meningococcal vaccination at least 2 weeks prior to the first dose of BKEMV, unless the risks of delaying BKEMV outweigh the risk of developing a serious infection. Comply with the most current Advisory Committee on Immunization Practices (ACIP) recommendations for meningococcal vaccination in patients receiving a complement inhibitor. ( 5.1 ) Patients receiving eculizumab products are at increased risk for invasive disease caused by N. meningitidis , even if they develop antibodies following vaccination. Monitor patients for early signs and symptoms of meningococcal infections and evaluate immediately if infection is suspected. ( 5.1 ) BKEMV is available only through a restricted program called BKEMV REMS. ( 5.2 )",
+    "openfda_brand_names": [
+      "BKEMV"
+    ],
+    "openfda_generic_names": [
+      "ECULIZUMAB-AEEB"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1fa1aa80-1c59-44d4-9841-b6c52882651b",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Paroxysmal Nocturnal Hemoglobinuria",
+    "slug": "paroxysmal-nocturnal-hemoglobinuria"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05133531",
+      "title": "A Study to Evaluate How Safe Pozelimab + Cemdisiran Combination Therapy is and How Well it Works in Adult Patients With Paroxysmal Nocturnal Hemoglobinuria (PNH) Who Have Not Recently Received or Have Not Received Complement Inhibitor Treatment",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05133531",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42788065",
+        "title": "Acute Management of Guillain-Barré Syndrome: A Narrative Review.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42788065/"
+      },
+      {
+        "pmid": "42786374",
+        "title": "Comparative Efficacy of Zilucoplan Versus Intravenous Immunoglobulin, Eculizumab, and Ravulizumab Using Matching-Adjusted Indirect Comparisons.",
+        "pubdate": "2026 Sep 24",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42786374/"
+      },
+      {
+        "pmid": "42763038",
+        "title": "Evaluation of eculizumab for the prevention of delayed graft function after kidney transplantation in adults: A randomized, double-blind, placebo-controlled trial.",
+        "pubdate": "2026 Sep 19",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42763038/"
+      },
+      {
+        "pmid": "42441931",
+        "title": "Long-Term Ravulizumab Efficacy and Safety in AQP4 Antibody-Positive Neuromyelitis Optica Spectrum Disorder: Final CHAMPION-NMOSD Results.",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42441931/"
+      },
+      {
+        "pmid": "42423060",
+        "title": "Complement System Inhibitors in Nephrology: A Comprehensive Review.",
+        "pubdate": "2026 Jun 30",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42423060/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "PEXELIZUMAB",
+        "chembl_id": "CHEMBL2107979",
+        "reason": "same target: Complement C5"
+      },
+      {
+        "name": "VILOBELIMAB",
+        "chembl_id": "CHEMBL2109636",
+        "reason": "same target: Complement C5"
+      },
+      {
+        "name": "RAVULIZUMAB",
+        "chembl_id": "CHEMBL3989986",
+        "reason": "same target: Complement C5"
+      },
+      {
+        "name": "TESIDOLUMAB",
+        "chembl_id": "CHEMBL4298012",
+        "reason": "same target: Complement C5"
+      },
+      {
+        "name": "NOMACOPAN",
+        "chembl_id": "CHEMBL4297928",
+        "reason": "same target: Complement C5"
+      },
+      {
+        "name": "OLENDALIZUMAB",
+        "chembl_id": "CHEMBL3990025",
+        "reason": "same target: Complement C5"
+      },
+      {
+        "name": "POZELIMAB",
+        "chembl_id": "CHEMBL4298086",
+        "reason": "same target: Complement C5"
+      },
+      {
+        "name": "ZILUCOPLAN",
+        "chembl_id": "CHEMBL4298207",
+        "reason": "same target: Complement C5"
+      },
+      {
+        "name": "CROVALIMAB",
+        "chembl_id": "CHEMBL4594316",
+        "reason": "same target: Complement C5"
+      },
+      {
+        "name": "ZILUCOPLAN SODIUM",
+        "chembl_id": "CHEMBL5315048",
+        "reason": "same target: Complement C5"
+      }
+    ]
+  }
+}

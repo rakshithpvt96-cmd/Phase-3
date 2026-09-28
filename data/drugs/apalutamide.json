@@ -1,12 +1,17 @@
 {
   "drug_name": "Apalutamide",
   "slug": "apalutamide",
-  "enriched_at": "2026-08-15T20:51:59Z",
+  "enriched_at": "2026-09-28T15:05:31Z",
   "source_trial_ids": [
-    "NCT02531516"
+    "NCT05884398"
   ],
   "sponsors": [
-    "Aragon Pharmaceuticals, Inc."
+    {
+      "name": "Janssen Research & Development, LLC",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Janssen%20Research%20%26%20Development%2C%20LLC&type=10-K&dateb=&owner=include&count=40"
+    }
   ],
   "identity": {
     "pubchem_cid": 24872560,
@@ -45,15 +50,15 @@
     "further_reading": null
   },
   "condition": {
-    "raw": "Prostatic Neoplasms",
-    "slug": "prostatic-neoplasms"
+    "raw": "Metastatic Castrate-sensitive Prostate Cancer",
+    "slug": "metastatic-castrate-sensitive-prostate-cancer"
   },
   "source_trials": [
     {
-      "nct_id": "NCT02531516",
-      "title": "An Efficacy and Safety Study of JNJ-56021927 (Apalutamide) in High-risk Prostate Cancer Subjects Receiving Primary Radiation Therapy: ATLAS",
+      "nct_id": "NCT05884398",
+      "title": "A Study of an Intermittent ADT Approach With Apalutamide Monotherapy in Participants With mCSPC",
       "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT02531516",
+      "url": "https://clinicaltrials.gov/study/NCT05884398",
       "has_results": false
     }
   ],
@@ -61,9 +66,15 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42616151",
+        "title": "Integrating NCCN and LATITUDE in metastatic castration-sensitive prostate cancer: a TITAN analysis.",
+        "pubdate": "2026 Aug 19",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42616151/"
+      },
+      {
         "pmid": "42522424",
         "title": "Matching-adjusted indirect comparison of enzalutamide versus apalutamide with androgen-deprivation therapy in patients with metastatic hormone-sensitive prostate cancer.",
-        "pubdate": "2026 Jul 29",
+        "pubdate": "2026 Aug",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42522424/"
       },
       {
@@ -83,12 +94,6 @@
         "title": "Clinical Trial Protocol for the Apa/Enza-short Study: A Randomized Nationwide Study of Shortened 12-Month Duration of Androgen Receptor Signaling Agent in Combination With Androgen Deprivation Therapy in Patients With Metastatic Low-volume Castration-sensitive Prostate Cancer.",
         "pubdate": "2026 Jun",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41826123/"
-      },
-      {
-        "pmid": "41772487",
-        "title": "Cancer-control outcomes of patients with metastatic hormone-sensitive prostate cancer and ≥ 10 bone metastases receiving apalutamide: a real-world cohort.",
-        "pubdate": "2026 Mar 2",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41772487/"
       }
     ]
   },
