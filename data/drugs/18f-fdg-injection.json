@@ -1,7 +1,7 @@
 {
   "drug_name": "18F-FDG Injection",
   "slug": "18f-fdg-injection",
-  "enriched_at": "2026-09-21T14:50:15Z",
+  "enriched_at": "2026-09-28T15:42:04Z",
   "source_trial_ids": [
     "NCT06416852"
   ],
@@ -60,6 +60,12 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42785952",
+        "title": "Serial Multitracer PET/CT for Characterization of the Inflammation-Fibrosis Axis in Liver Injury.",
+        "pubdate": "2026 Sep 24",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42785952/"
+      },
+      {
         "pmid": "42307959",
         "title": "Specimen PET-CT Imaging for Intraoperative Margin Assessment in Early-Stage Breast Cancer: The BrIMA Nonrandomized Clinical Trial.",
         "pubdate": "2026 Aug 1",
@@ -82,12 +88,6 @@
         "title": "The spleen assumes a major role in blood glucose regulation in type 1 diabetes patients treated with BCG.",
         "pubdate": "2024 Jul 30",
         "url": "https://pubmed.ncbi.nlm.nih.gov/39080423/"
-      },
-      {
-        "pmid": "38528239",
-        "title": "Increased lesion detectability in patients with locally advanced breast cancer-A pilot study using dynamic whole-body [(18)F]FDG PET/CT.",
-        "pubdate": "2024 Mar 25",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/38528239/"
       }
     ]
   },

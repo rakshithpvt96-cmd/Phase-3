@@ -1,7 +1,7 @@
 {
   "drug_name": "HRS9531 Injection",
   "slug": "hrs9531-injection",
-  "enriched_at": "2026-09-21T14:55:26Z",
+  "enriched_at": "2026-09-28T15:47:07Z",
   "source_trial_ids": [
     "NCT06649344"
   ],
@@ -61,11 +61,6 @@
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
     "items": [
       {
-        "name": "Oral semaglutide",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Novo Nordisk A/S"
-      },
-      {
         "name": "Retatrutide",
         "chembl_id": null,
         "reason": "same indication trial, sponsor: Eli Lilly and Company"
@@ -74,6 +69,16 @@
         "name": "Placebo",
         "chembl_id": null,
         "reason": "same indication trial, sponsor: Eli Lilly and Company"
+      },
+      {
+        "name": "HDM1002 200 mg",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Hangzhou Zhongmei Huadong Pharmaceutical Co., Ltd."
+      },
+      {
+        "name": "HDM1002 400 mg",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Hangzhou Zhongmei Huadong Pharmaceutical Co., Ltd."
       }
     ]
   }

@@ -1,7 +1,7 @@
 {
   "drug_name": "Dupilumab 300mg Dose",
   "slug": "dupilumab-300mg-dose",
-  "enriched_at": "2026-09-21T14:54:38Z",
+  "enriched_at": "2026-09-28T15:46:22Z",
   "source_trial_ids": [
     "NCT06389136"
   ],
@@ -90,6 +90,11 @@
         "name": "CM310",
         "chembl_id": null,
         "reason": "same indication trial, sponsor: Keymed Biosciences Co.Ltd"
+      },
+      {
+        "name": "Dupilumab",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Regeneron Pharmaceuticals"
       }
     ]
   }

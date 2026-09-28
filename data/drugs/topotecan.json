@@ -1,11 +1,18 @@
 {
   "drug_name": "Topotecan",
   "slug": "topotecan",
-  "enriched_at": "2026-09-16T12:34:24Z",
+  "enriched_at": "2026-09-28T15:40:53Z",
   "source_trial_ids": [
-    "NCT06498479"
+    "NCT06498479",
+    "NCT06619236"
   ],
   "sponsors": [
+    {
+      "name": "Genmab",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Genmab&type=10-K&dateb=&owner=include&count=40"
+    },
     {
       "name": "Hansoh BioMedical R&D Company",
       "ticker": null,
@@ -50,8 +57,8 @@
     "further_reading": null
   },
   "condition": {
-    "raw": "Small Cell Lung Cancer",
-    "slug": "small-cell-lung-cancer"
+    "raw": "Platinum-resistant Ovarian Cancer",
+    "slug": "platinum-resistant-ovarian-cancer"
   },
   "source_trials": [
     {
@@ -59,6 +66,13 @@
       "title": "ARTEMIS-008：HS-20093 Compared With Topotecan in Subjects With Relapsed Small Cell Lung Cancer",
       "status": "RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT06498479",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06619236",
+      "title": "Study to Assess the Efficacy of Rina-S Compared to Treatment of Investigator's Choice in Participants With Platinum Resistant Ovarian Cancer",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06619236",
       "has_results": false
     }
   ],
