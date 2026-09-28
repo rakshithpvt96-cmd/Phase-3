@@ -1,7 +1,7 @@
 {
   "drug_name": "Upadacitinib 30mg Dose",
   "slug": "upadacitinib-30mg-dose",
-  "enriched_at": "2026-09-21T15:21:02Z",
+  "enriched_at": "2026-09-28T16:30:19Z",
   "source_trial_ids": [
     "NCT06389136"
   ],
@@ -114,6 +114,11 @@
         "name": "CM310",
         "chembl_id": null,
         "reason": "same indication trial, sponsor: Keymed Biosciences Co.Ltd"
+      },
+      {
+        "name": "Dupilumab",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Regeneron Pharmaceuticals"
       }
     ]
   }
