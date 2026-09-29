@@ -1,6 +1,77 @@
 {
-  "generated_at": "2026-09-28T17:27:41Z",
-  "new_trial_count": 0,
-  "new_trials": [],
-  "removed_trial_ids": []
+  "generated_at": "2026-09-29T13:51:12Z",
+  "new_trial_count": 1,
+  "new_trials": [
+    {
+      "nct_id": "NCT06846437",
+      "title": "JSKN003 Versus Trastuzumab Emtansine (T-DM1) for HER2-Positive, Advanced Breast Cancer",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Shanghai JMT-Bio Inc.",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-10-13",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Unrespectable Locally Advanced and or Metastatic HER2 Positive Breast Cancer Participants"
+      ],
+      "interventions": [
+        {
+          "name": "JSKN003",
+          "type": "DRUG"
+        },
+        {
+          "name": "Trastuzumab emtansine (T-DM1)",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "JSKN003",
+        "Trastuzumab emtansine (T-DM1)"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06846437",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Shanghai JMT-Bio Inc.",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Shanghai%20JMT-Bio%20Inc.&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-09-27T12:51:57Z"
+      }
+    }
+  ],
+  "removed_trial_ids": [
+    "NCT03802799",
+    "NCT03922542",
+    "NCT04220190",
+    "NCT04406727",
+    "NCT04655092",
+    "NCT04850118",
+    "NCT05077904",
+    "NCT05353257",
+    "NCT05369052",
+    "NCT05501886",
+    "NCT05652894",
+    "NCT05686759",
+    "NCT05786573",
+    "NCT05983250",
+    "NCT06243614",
+    "NCT06243640",
+    "NCT06414005",
+    "NCT06472076",
+    "NCT06566820",
+    "NCT06711523",
+    "NCT06750419",
+    "NCT06827431",
+    "NCT07042126",
+    "NCT07146126",
+    "NCT07160790",
+    "NCT07305987"
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "drug_name": "RSVpreF",
   "slug": "rsvpref",
-  "enriched_at": "2026-09-22T13:05:57Z",
+  "enriched_at": "2026-09-29T13:56:18Z",
   "source_trial_ids": [
     "NCT07543380"
   ],
@@ -51,7 +51,7 @@
     {
       "nct_id": "NCT07543380",
       "title": "A Study to Learn Safety and Immune Response to Study Vaccine -RSVpreF in Adults at High Risk of Severe RSV Disease.",
-      "status": "RECRUITING",
+      "status": "COMPLETED",
       "url": "https://clinicaltrials.gov/study/NCT07543380",
       "has_results": false
     }
@@ -59,6 +59,12 @@
   "prior_results": {
     "ctgov_results_urls": [],
     "pubmed_articles": [
+      {
+        "pmid": "42797593",
+        "title": "A Randomized Phase 3 Study to Evaluate the Safety, Tolerability, and Immunogenicity of the Bivalent RSVpreF Vaccine in Older Adults in Korea.",
+        "pubdate": "2026 Sep 3",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42797593/"
+      },
       {
         "pmid": "42761810",
         "title": "Maternal RSV vaccination: clinical efficacy, safety, and global policy considerations: a systematic review.",
@@ -82,12 +88,6 @@
         "title": "Summary of the National Advisory Committee on Immunization (NACI) Statement: Updated guidance to protect infants and children from respiratory syncytial virus disease.",
         "pubdate": "2026 Jun",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42592141/"
-      },
-      {
-        "pmid": "42506661",
-        "title": "Maternal Immunization Against Respiratory Syncytial Virus: An Integrative Review of Efficacy, Safety, and Implementation.",
-        "pubdate": "2026 Jul 16",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42506661/"
       }
     ]
   },

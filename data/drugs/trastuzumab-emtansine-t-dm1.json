@@ -1,0 +1,150 @@
+{
+  "drug_name": "Trastuzumab emtansine (T-DM1)",
+  "slug": "trastuzumab-emtansine-t-dm1",
+  "enriched_at": "2026-09-29T13:56:30Z",
+  "source_trial_ids": [
+    "NCT06846437"
+  ],
+  "sponsors": [
+    {
+      "name": "Shanghai JMT-Bio Inc.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Shanghai%20JMT-Bio%20Inc.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1371041",
+      "generic_name": "ado-trastuzumab emtansine",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1743082",
+    "target_chembl_id": "CHEMBL1824",
+    "target_name": "Receptor tyrosine-protein kinase erbB-2",
+    "mechanism_of_action_chembl": "Receptor protein-tyrosine kinase erbB-2 binding agent"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Trastuzumab%20emtansine%20%28T-DM1%29+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Trastuzumab%20emtansine%20%28T-DM1%29+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Trastuzumab%20emtansine%20%28T-DM1%29+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Unrespectable Locally Advanced and or Metastatic HER2 Positive Breast Cancer Participants",
+    "slug": "unrespectable-locally-advanced-and-or-metastatic-her2-positive-breast-cancer-participants"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06846437",
+      "title": "JSKN003 Versus Trastuzumab Emtansine (T-DM1) for HER2-Positive, Advanced Breast Cancer",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06846437",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42785912",
+        "title": "Efficacy and safety of trastuzumab emtansine in patients with advanced human epidermal growth factor receptor 2-positive extramammary Paget's disease: an investigator-initiated, open-label, single-arm, multicentre, prospective, phase II clinical trial (TEMENOS-2).",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42785912/"
+      },
+      {
+        "pmid": "42658187",
+        "title": "A Phase 2 Basket Trial of Ado-Trastuzumab Emtansine for Patients with HER2 Amplified Cancers: A Non-Randomized Clinical Trial.",
+        "pubdate": "2026 Aug 27",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42658187/"
+      },
+      {
+        "pmid": "41903301",
+        "title": "Phase Ia/Ib trial of the safety and efficacy of mobocertinib in combination with T-DM1 for patients with HER2-mutant solid tumors (WJOG16022M).",
+        "pubdate": "2026 May 2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41903301/"
+      },
+      {
+        "pmid": "41463194",
+        "title": "Antibody-Drug Conjugates and Beyond: Next-Generation Targeted Therapies for Breast Cancer.",
+        "pubdate": "2025 Dec 10",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41463194/"
+      },
+      {
+        "pmid": "41370739",
+        "title": "Trastuzumab Deruxtecan in Residual HER2-Positive Early Breast Cancer.",
+        "pubdate": "2026 Feb 26",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41370739/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "TRASTUZUMAB",
+        "chembl_id": "CHEMBL1201585",
+        "reason": "same target: Receptor tyrosine-protein kinase erbB-2"
+      },
+      {
+        "name": "PERTUZUMAB",
+        "chembl_id": "CHEMBL2007641",
+        "reason": "same target: Receptor tyrosine-protein kinase erbB-2"
+      },
+      {
+        "name": "LAPATINIB DITOSYLATE",
+        "chembl_id": "CHEMBL1201179",
+        "reason": "same target: Receptor tyrosine-protein kinase erbB-2"
+      },
+      {
+        "name": "AFATINIB DIMALEATE",
+        "chembl_id": "CHEMBL2105712",
+        "reason": "same target: Receptor tyrosine-protein kinase erbB-2"
+      },
+      {
+        "name": "AC-480",
+        "chembl_id": "CHEMBL1645462",
+        "reason": "same target: Receptor tyrosine-protein kinase erbB-2"
+      },
+      {
+        "name": "ALLITINIB",
+        "chembl_id": "CHEMBL1947204",
+        "reason": "same target: Receptor tyrosine-protein kinase erbB-2"
+      },
+      {
+        "name": "CP-724714",
+        "chembl_id": "CHEMBL483321",
+        "reason": "same target: Receptor tyrosine-protein kinase erbB-2"
+      },
+      {
+        "name": "CUDC-101",
+        "chembl_id": "CHEMBL598797",
+        "reason": "same target: Receptor tyrosine-protein kinase erbB-2"
+      },
+      {
+        "name": "JNJ-26483327",
+        "chembl_id": "CHEMBL3109738",
+        "reason": "same target: Receptor tyrosine-protein kinase erbB-2"
+      },
+      {
+        "name": "AV-412",
+        "chembl_id": "CHEMBL6067986",
+        "reason": "same target: Receptor tyrosine-protein kinase erbB-2"
+      }
+    ]
+  }
+}
