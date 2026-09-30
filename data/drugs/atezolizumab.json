@@ -1,18 +1,12 @@
 {
   "drug_name": "Atezolizumab",
   "slug": "atezolizumab",
-  "enriched_at": "2026-09-14T13:44:51Z",
+  "enriched_at": "2026-09-30T13:25:27Z",
   "source_trial_ids": [
     "NCT04543617",
-    "NCT05425940"
+    "NCT04770896"
   ],
   "sponsors": [
-    {
-      "name": "Exelixis",
-      "ticker": "EXEL",
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000939767&type=10-K&dateb=&owner=include&count=40"
-    },
     {
       "name": "Hoffmann-La Roche",
       "ticker": null,
@@ -46,13 +40,13 @@
     "openfda_generic_names": [
       "ATEZOLIZUMAB"
     ],
-    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6fa682c9-a312-4932-9831-f286908660ee",
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a617b089-ce66-464b-987b-b45d029b4d6f",
     "note": null,
     "further_reading": null
   },
   "condition": {
-    "raw": "Colorectal Cancer",
-    "slug": "colorectal-cancer"
+    "raw": "Esophageal Squamous Cell Carcinoma",
+    "slug": "esophageal-squamous-cell-carcinoma"
   },
   "source_trials": [
     {
@@ -63,10 +57,10 @@
       "has_results": false
     },
     {
-      "nct_id": "NCT05425940",
-      "title": "Study of XL092 + Atezolizumab vs Regorafenib in Participants With Metastatic Colorectal Cancer",
+      "nct_id": "NCT04770896",
+      "title": "A Study of Atezolizumab With Lenvatinib or Sorafenib Versus Lenvatinib or Sorafenib Alone in Hepatocellular Carcinoma Previously Treated With Atezolizumab and Bevacizumab",
       "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT05425940",
+      "url": "https://clinicaltrials.gov/study/NCT04770896",
       "has_results": false
     }
   ],
@@ -74,34 +68,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42723827",
-        "title": "Neo-DIANA: descriptive results of a prematurely terminated phase II trial of neoadjuvant atezolizumab, chemotherapy and bevacizumab in resectable EGFR-mutated NSCLC.",
-        "pubdate": "2026 Aug 31",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42723827/"
+        "pmid": "42806861",
+        "title": "Harnessing Quantitative Medicine to Advance Oncology Drug Development.",
+        "pubdate": "2026 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42806861/"
       },
       {
-        "pmid": "42702214",
-        "title": "Induction and consolidation atezolizumab with stereotactic body radiation therapy versus radiation alone in high-risk, early-stage non-small-cell lung cancer (SWOG/NRG S1914): a multicentre, open-label, superiority, phase 3, randomised controlled trial.",
-        "pubdate": "2026 Sep 6",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42702214/"
+        "pmid": "42800536",
+        "title": "Pooled Individual Patient-Data Analysis of Clinical Trials on Second-line Multikinase Inhibitors Following Immunotherapy in Hepatocellular Carcinoma.",
+        "pubdate": "2026 Sep 26",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42800536/"
       },
       {
-        "pmid": "42680950",
-        "title": "Atezolizumab in early triple-negative breast cancer: the randomized phase 3 NSABP B-59/GeparDouze trial.",
-        "pubdate": "2026 Sep 1",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42680950/"
+        "pmid": "42795014",
+        "title": "Systemic Therapy for Advanced Hepatocellular Carcinoma with Impaired Liver Function: Navigating the Evidence Gap.",
+        "pubdate": "2026 Sep 20",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42795014/"
       },
       {
-        "pmid": "42665190",
-        "title": "Atezolizumab-Bevacizumab with or without Cisplatin-based HAIC for Unresectable HCC: A Randomized Phase 2 Trial.",
-        "pubdate": "2026 Aug 28",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42665190/"
+        "pmid": "42744133",
+        "title": "Biomarker-guided treatment selection in metastatic colorectal cancer: A critical review of established and emerging therapies.",
+        "pubdate": "2026 Sep 15",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42744133/"
       },
       {
-        "pmid": "42661024",
-        "title": "ctDNA-guided or ctDNA-stratified adjuvant immunotherapy compared with observation or placebo after radical surgery for muscle-invasive urothelial carcinoma: a GRADE-assessed systematic review and meta-analysis.",
-        "pubdate": "2026 Aug 27",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42661024/"
+        "pmid": "42740907",
+        "title": "Avoidance of cardiac toxicity during the application of immune checkpoint inhibitors: a safety systematic review combining network meta-analysis and pharmacovigilance study.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42740907/"
       }
     ]
   },

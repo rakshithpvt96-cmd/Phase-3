@@ -1,7 +1,7 @@
 {
   "drug_name": "Pembrolizumab Monotherapy",
   "slug": "pembrolizumab-monotherapy",
-  "enriched_at": "2026-09-23T13:20:57Z",
+  "enriched_at": "2026-09-30T13:29:17Z",
   "source_trial_ids": [
     "NCT06790966"
   ],
@@ -60,6 +60,12 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42805115",
+        "title": "Adjuvant anti-TIGIT plus anti-PD-1 in melanoma: A necessary failure that clarifies the path forward.",
+        "pubdate": "2026 Sep 28",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42805115/"
+      },
+      {
         "pmid": "42740907",
         "title": "Avoidance of cardiac toxicity during the application of immune checkpoint inhibitors: a safety systematic review combining network meta-analysis and pharmacovigilance study.",
         "pubdate": "2026",
@@ -82,12 +88,6 @@
         "title": "The efficacy and safety of pembrolizumab in the treatment of HER2-negative advanced gastric or gastroesophageal junction cancer: a systematic review and meta-analysis of emerging clinical data.",
         "pubdate": "2026",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42688407/"
-      },
-      {
-        "pmid": "42535750",
-        "title": "Pharmacological modulation of the PD-1/PD-L1 axis: from immune tolerance in colitis to immune escape in colorectal cancer.",
-        "pubdate": "2026 Jul",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42535750/"
       }
     ]
   },

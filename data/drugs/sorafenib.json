@@ -1,9 +1,10 @@
 {
   "drug_name": "Sorafenib",
   "slug": "sorafenib",
-  "enriched_at": "2026-09-15T12:47:12Z",
+  "enriched_at": "2026-09-30T13:27:27Z",
   "source_trial_ids": [
-    "NCT04039607"
+    "NCT04039607",
+    "NCT04770896"
   ],
   "sponsors": [
     {
@@ -11,6 +12,12 @@
       "ticker": "BMY",
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000014272&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Hoffmann-La Roche",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hoffmann-La%20Roche&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
@@ -60,11 +67,30 @@
       "status": "COMPLETED",
       "url": "https://clinicaltrials.gov/study/NCT04039607",
       "has_results": false
+    },
+    {
+      "nct_id": "NCT04770896",
+      "title": "A Study of Atezolizumab With Lenvatinib or Sorafenib Versus Lenvatinib or Sorafenib Alone in Hepatocellular Carcinoma Previously Treated With Atezolizumab and Bevacizumab",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04770896",
+      "has_results": false
     }
   ],
   "prior_results": {
     "ctgov_results_urls": [],
     "pubmed_articles": [
+      {
+        "pmid": "42795014",
+        "title": "Systemic Therapy for Advanced Hepatocellular Carcinoma with Impaired Liver Function: Navigating the Evidence Gap.",
+        "pubdate": "2026 Sep 20",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42795014/"
+      },
+      {
+        "pmid": "42762856",
+        "title": "Biomarkers associated with efficacy of first-line nivolumab vs. sorafenib in advanced hepatocellular carcinoma: results from the CheckMate 459 phase III trial.",
+        "pubdate": "2026 Sep 19",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42762856/"
+      },
       {
         "pmid": "42719379",
         "title": "Thyroid Cancer in the Modern Era: From Molecular Landscape and Multimodal Diagnostics to Integrative Traditional Chinese Medicine-A Comprehensive Review.",
@@ -82,18 +108,6 @@
         "title": "Baseline circulating and tumor γδ T cells and early circulating CD8⁺PD1⁺ expansion predict response to Atezolizumab-bevacizumab in HCC.",
         "pubdate": "2026 Aug 17",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42606323/"
-      },
-      {
-        "pmid": "42518569",
-        "title": "Economic value of finotonlimab plus bevacizumab versus sorafenib for first-line treatment of unresectable hepatocellular carcinoma in China and the United States.",
-        "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42518569/"
-      },
-      {
-        "pmid": "42477572",
-        "title": "Real-world evidence for atezolizumab with bevacizumab for unresectable hepatocellular carcinoma: a multicentre UK Midlands cohort.",
-        "pubdate": "2026 Jul 20",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42477572/"
       }
     ]
   },

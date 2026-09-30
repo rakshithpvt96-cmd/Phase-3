@@ -1,9 +1,8 @@
 {
   "drug_name": "JMT101",
   "slug": "jmt101",
-  "enriched_at": "2026-09-23T12:41:57Z",
+  "enriched_at": "2026-09-30T13:29:00Z",
   "source_trial_ids": [
-    "NCT06319313",
     "NCT06735391"
   ],
   "sponsors": [
@@ -45,17 +44,10 @@
     }
   },
   "condition": {
-    "raw": "Squamous Cell Non-small Cell Lung Cancer",
-    "slug": "squamous-cell-non-small-cell-lung-cancer"
+    "raw": "Locally Advanced or Metastatic Non-squamous NSCLC",
+    "slug": "locally-advanced-or-metastatic-non-squamous-nsclc"
   },
   "source_trials": [
-    {
-      "nct_id": "NCT06319313",
-      "title": "Efficacy and Safety of JMT101 Combined Wth Docetaxel / HB1801 in Patients With Squamous Cell Non-Small Cell Lung Cancer",
-      "status": "NOT_YET_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06319313",
-      "has_results": false
-    },
     {
       "nct_id": "NCT06735391",
       "title": "A Clinical Study of JMT101 in Combination With Osimertinib Versus Osimertinib Alone as First-Line Treatment for Patients With Locally Advanced or Metastatic Non-Squamous Non-Small Cell Lung Cancer (NSCLC) Harboring Epidermal Growth Factor Receptor (EGFR) Sensitive Mutations",

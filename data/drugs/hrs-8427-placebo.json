@@ -1,9 +1,9 @@
 {
-  "drug_name": "SHR-A1811 Injection",
-  "slug": "shr-a1811-injection",
-  "enriched_at": "2026-09-30T13:27:00Z",
+  "drug_name": "HRS-8427 placebo",
+  "slug": "hrs-8427-placebo",
+  "enriched_at": "2026-09-30T13:28:28Z",
   "source_trial_ids": [
-    "NCT06057610"
+    "NCT06569056"
   ],
   "sponsors": [
     {
@@ -15,13 +15,13 @@
   ],
   "identity": {
     "rxnorm": {
-      "rxcui": "2670812",
-      "generic_name": null,
+      "rxcui": "8375",
+      "generic_name": "placebo",
       "brand_names": []
     }
   },
   "mechanism": {
-    "chembl_id": "CHEMBL2108760",
+    "chembl_id": "CHEMBL5432020",
     "target_chembl_id": null,
     "target_name": null,
     "mechanism_of_action_chembl": null
@@ -38,21 +38,21 @@
     "dailymed_url": null,
     "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
     "further_reading": {
-      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=SHR-A1811%20Injection+mechanism+of+action",
-      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=SHR-A1811%20Injection+pharmacokinetics",
-      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=SHR-A1811%20Injection+efficacy+phase+3"
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=HRS-8427%20placebo+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=HRS-8427%20placebo+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=HRS-8427%20placebo+efficacy+phase+3"
     }
   },
   "condition": {
-    "raw": "HER2-PositiveRecurrent or Metastatic Breast Cancer",
-    "slug": "her2-positiverecurrent-or-metastatic-breast-cancer"
+    "raw": "Complicated Urinary Tract Infection(cUTI), Including Acute Pyelonephritis(AP)",
+    "slug": "complicated-urinary-tract-infection-cuti-including-acute-pyelonephritis-ap"
   },
   "source_trials": [
     {
-      "nct_id": "NCT06057610",
-      "title": "A Phase III Study of SHR-A1811 Injection With or Without Pertuzumab in HER2-Positive Recurrent or Metastatic Breast Cancer",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06057610",
+      "nct_id": "NCT06569056",
+      "title": "A Trial of HRS-8427 in the Treatment of Adults With Complicated Urinary Tract Infection, Including Acute Pyelonephritis",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT06569056",
       "has_results": false
     }
   ],

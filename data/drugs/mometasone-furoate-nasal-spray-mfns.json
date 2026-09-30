@@ -1,0 +1,150 @@
+{
+  "drug_name": "Mometasone furoate nasal spray (MFNS)",
+  "slug": "mometasone-furoate-nasal-spray-mfns",
+  "enriched_at": "2026-09-30T13:26:14Z",
+  "source_trial_ids": [
+    "NCT06834347"
+  ],
+  "sponsors": [
+    {
+      "name": "Sanofi",
+      "ticker": "SNY",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001121404&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2648470",
+      "generic_name": "mometasone furoate Nasal Spray",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1161",
+    "target_chembl_id": "CHEMBL2034",
+    "target_name": "Glucocorticoid receptor",
+    "mechanism_of_action_chembl": "Glucocorticoid receptor agonist"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Mometasone%20furoate%20nasal%20spray%20%28MFNS%29+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Mometasone%20furoate%20nasal%20spray%20%28MFNS%29+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Mometasone%20furoate%20nasal%20spray%20%28MFNS%29+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Chronic Rhinosinusitis With Nasal Polyps",
+    "slug": "chronic-rhinosinusitis-with-nasal-polyps"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06834347",
+      "title": "A Phase 3 Study to Assess the Efficacy, Safety, and Tolerability of Itepekimab (Anti-IL-33 mAb) in Participants With Inadequately-controlled Chronic Rhinosinusitis With Nasal Polyps",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06834347",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "39746515",
+        "title": "A Randomized Comparison of Bencycloquidium Bromide, Mometasone Furoate, and a Combination for Persistent Allergic Rhinitis.",
+        "pubdate": "2025 Mar",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39746515/"
+      },
+      {
+        "pmid": "37483544",
+        "title": "Efficacy and safety of CM310 in severe eosinophilic chronic rhinosinusitis with nasal polyps (CROWNS-1): a multicentre, randomised, double-blind, placebo-controlled phase 2 clinical trial.",
+        "pubdate": "2023 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37483544/"
+      },
+      {
+        "pmid": "32470217",
+        "title": "Randomized clinical trial to evaluate mometasone lavage vs spray for patients with chronic rhinosinusitis without nasal polyps who have not undergone sinus surgery.",
+        "pubdate": "2020 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32470217/"
+      },
+      {
+        "pmid": "24169063",
+        "title": "A patient preference and satisfaction study of ciclesonide nasal aerosol and mometasone furoate aqueous nasal spray in patients with perennial allergic rhinitis.",
+        "pubdate": "2013 Nov-Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24169063/"
+      },
+      {
+        "pmid": "23562197",
+        "title": "Mometasone furoate nasal spray plus oxymetazoline nasal spray: short-term efficacy and safety in seasonal allergic rhinitis.",
+        "pubdate": "2013 Mar-Apr",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23562197/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "PREDNISONE",
+        "chembl_id": "CHEMBL635",
+        "reason": "same target: Glucocorticoid receptor"
+      },
+      {
+        "name": "HALCINONIDE",
+        "chembl_id": "CHEMBL1200845",
+        "reason": "same target: Glucocorticoid receptor"
+      },
+      {
+        "name": "MEDRYSONE",
+        "chembl_id": "CHEMBL1201173",
+        "reason": "same target: Glucocorticoid receptor"
+      },
+      {
+        "name": "DIFLUPREDNATE",
+        "chembl_id": "CHEMBL1201749",
+        "reason": "same target: Glucocorticoid receptor"
+      },
+      {
+        "name": "BETAMETHASONE",
+        "chembl_id": "CHEMBL632",
+        "reason": "same target: Glucocorticoid receptor"
+      },
+      {
+        "name": "HYDROCORTISONE",
+        "chembl_id": "CHEMBL389621",
+        "reason": "same target: Glucocorticoid receptor"
+      },
+      {
+        "name": "TRIAMCINOLONE ACETONIDE",
+        "chembl_id": "CHEMBL1504",
+        "reason": "same target: Glucocorticoid receptor"
+      },
+      {
+        "name": "HYDROCORTISONE CYPIONATE",
+        "chembl_id": "CHEMBL1549",
+        "reason": "same target: Glucocorticoid receptor"
+      },
+      {
+        "name": "CLOBETASOL PROPIONATE",
+        "chembl_id": "CHEMBL1159650",
+        "reason": "same target: Glucocorticoid receptor"
+      },
+      {
+        "name": "HYDROCORTISONE SODIUM SUCCINATE",
+        "chembl_id": "CHEMBL1200495",
+        "reason": "same target: Glucocorticoid receptor"
+      }
+    ]
+  }
+}

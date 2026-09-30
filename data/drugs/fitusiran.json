@@ -1,8 +1,9 @@
 {
   "drug_name": "Fitusiran",
   "slug": "fitusiran",
-  "enriched_at": "2026-09-15T12:39:06Z",
+  "enriched_at": "2026-09-30T13:28:13Z",
   "source_trial_ids": [
+    "NCT03754790",
     "NCT03974113"
   ],
   "sponsors": [
@@ -48,6 +49,13 @@
     "slug": "hemophilia"
   },
   "source_trials": [
+    {
+      "nct_id": "NCT03754790",
+      "title": "Long-term Safety and Efficacy Study of Fitusiran in Patients With Hemophilia A or B, With or Without Inhibitory Antibodies to Factor VIII or IX",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT03754790",
+      "has_results": false
+    },
     {
       "nct_id": "NCT03974113",
       "title": "Fitusiran Prophylaxis in Male Pediatric Subjects Aged 1 to Less Than 12 Years With Hemophilia A or B",

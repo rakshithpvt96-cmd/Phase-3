@@ -1,7 +1,7 @@
 {
   "drug_name": "Placebo",
   "slug": "placebo",
-  "enriched_at": "2026-09-26T12:07:14Z",
+  "enriched_at": "2026-09-30T13:26:39Z",
   "source_trial_ids": [
     "NCT02914535",
     "NCT04023552",
@@ -14,7 +14,6 @@
     "NCT05164341",
     "NCT05316220",
     "NCT05330182",
-    "NCT05353257",
     "NCT05511363",
     "NCT05608291",
     "NCT05627648",
@@ -22,7 +21,6 @@
     "NCT05643534",
     "NCT05716100",
     "NCT05797610",
-    "NCT05983250",
     "NCT06081894",
     "NCT06104124",
     "NCT06125951",
@@ -34,7 +32,6 @@
     "NCT06411288",
     "NCT06455059",
     "NCT06468956",
-    "NCT06472076",
     "NCT06534723",
     "NCT06553027",
     "NCT06564818",
@@ -47,19 +44,17 @@
     "NCT06777238",
     "NCT06779136",
     "NCT06783114",
-    "NCT06827431",
+    "NCT06834347",
     "NCT06846515",
     "NCT06910358",
     "NCT06958692",
     "NCT06994507",
-    "NCT07146126",
     "NCT07193459",
     "NCT07220109",
     "NCT07265284",
     "NCT07279194",
     "NCT07298434",
     "NCT07300839",
-    "NCT07305987",
     "NCT07363720",
     "NCT07469800",
     "NCT07473960",
@@ -156,12 +151,6 @@
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=CSPC%20Ouyi%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
-      "name": "CSPC ZhongQi Pharmaceutical Technology Co., Ltd.",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=CSPC%20ZhongQi%20Pharmaceutical%20Technology%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Cerevance",
@@ -278,12 +267,6 @@
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Kringle%20Pharma%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
     },
     {
-      "name": "Laboratorios Sophia S.A de C.V.",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Laboratorios%20Sophia%20S.A%20de%20C.V.&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
       "name": "Lumen Bioscience, Inc.",
       "ticker": null,
       "market_cap_display": null,
@@ -308,12 +291,6 @@
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Pharvaris%20Netherlands%20B.V.&type=10-K&dateb=&owner=include&count=40"
     },
     {
-      "name": "Prime Gene Therapeutics Co., Ltd.",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Prime%20Gene%20Therapeutics%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
       "name": "Qilu Pharmaceutical Co., Ltd.",
       "ticker": null,
       "market_cap_display": null,
@@ -330,12 +307,6 @@
       "ticker": "SNY",
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001121404&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
-      "name": "Shanghai Henlius Biotech",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Shanghai%20Henlius%20Biotech&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Shanghai Mabgeek Biotech.Co.Ltd",
@@ -360,12 +331,6 @@
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Takeda&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
-      "name": "Tenax Therapeutics, Inc.",
-      "ticker": "TENX",
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000034956&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Teva Branded Pharmaceutical Products R&D LLC",
@@ -417,8 +382,8 @@
     }
   },
   "condition": {
-    "raw": "Limited-Stage Small Cell Lung Cancer",
-    "slug": "limited-stage-small-cell-lung-cancer"
+    "raw": "Uncontrolled Hypertension",
+    "slug": "uncontrolled-hypertension"
   },
   "source_trials": [
     {
@@ -499,13 +464,6 @@
       "has_results": false
     },
     {
-      "nct_id": "NCT05353257",
-      "title": "A Study to Evaluate the Efficacy and Safety of Serplulimab in Combination With Chemotherapy and Concurrent Radiotherapy in Patients With Limited-Stage Small Cell Lung Cancer",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT05353257",
-      "has_results": false
-    },
-    {
       "nct_id": "NCT05511363",
       "title": "A Study to Assess Efficacy and Safety of KarXT for the Treatment of Psychosis Associated With Alzheimer's Disease (ADEPT-1)",
       "status": "RECRUITING",
@@ -552,13 +510,6 @@
       "title": "A Study to Evaluate the Efficacy and Safety of Sefaxersen (RO7434656) in Participants With Primary Immunoglobulin A (IgA) Nephropathy at High Risk of Progression",
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT05797610",
-      "has_results": false
-    },
-    {
-      "nct_id": "NCT05983250",
-      "title": "LEVosimendan to Improve Exercise Limitation in Patients With PH-HFpEF",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT05983250",
       "has_results": false
     },
     {
@@ -636,13 +587,6 @@
       "title": "Efficacy and Safety Study of SHR-1819 Injection in Adult Patients With Severe Atopic Dermatitis",
       "status": "COMPLETED",
       "url": "https://clinicaltrials.gov/study/NCT06468956",
-      "has_results": false
-    },
-    {
-      "nct_id": "NCT06472076",
-      "title": "A Study of Belrestotug Plus Dostarlimab Compared With Placebo Plus Pembrolizumab in Previously Untreated Participants With Programmed Death Ligand 1 (PD-L1) High Non-small-cell Lung Cancer (NSCLC)",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06472076",
       "has_results": false
     },
     {
@@ -730,16 +674,16 @@
       "has_results": false
     },
     {
-      "nct_id": "NCT06827431",
-      "title": "The Research of Ammoxetine Hydrochloride Enteric-coated Tablets in Subjects With Depression",
-      "status": "NOT_YET_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06827431",
+      "nct_id": "NCT06834347",
+      "title": "A Phase 3 Study to Assess the Efficacy, Safety, and Tolerability of Itepekimab (Anti-IL-33 mAb) in Participants With Inadequately-controlled Chronic Rhinosinusitis With Nasal Polyps",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06834347",
       "has_results": false
     },
     {
       "nct_id": "NCT06846515",
       "title": "Phase 3 Evaluation of Efficacy and Safety of AR882 in Gout Patients (AR882-301)",
-      "status": "ACTIVE_NOT_RECRUITING",
+      "status": "COMPLETED",
       "url": "https://clinicaltrials.gov/study/NCT06846515",
       "has_results": false
     },
@@ -762,13 +706,6 @@
       "title": "GM1 Prophylaxis for Nab-paclitaxel-associated Chemotherapy-induced Peripheral Neuropathy (CIPN) in Patients With Breast Cancer",
       "status": "RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT06994507",
-      "has_results": false
-    },
-    {
-      "nct_id": "NCT07146126",
-      "title": "A Phase III Study to Assess the Efficacy and Safety of PG-011 Nasal Spray in Adults With Moderate to Severe Seasonal Allergic Rhinitis",
-      "status": "NOT_YET_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT07146126",
       "has_results": false
     },
     {
@@ -814,13 +751,6 @@
       "has_results": false
     },
     {
-      "nct_id": "NCT07305987",
-      "title": "PRO-232 in Patients Subjected to Cataract Surgery",
-      "status": "RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT07305987",
-      "has_results": false
-    },
-    {
       "nct_id": "NCT07363720",
       "title": "A Trial of TAK-861 for the Treatment of Narcolepsy With Cataplexy",
       "status": "ACTIVE_NOT_RECRUITING",
@@ -860,34 +790,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42797593",
-        "title": "A Randomized Phase 3 Study to Evaluate the Safety, Tolerability, and Immunogenicity of the Bivalent RSVpreF Vaccine in Older Adults in Korea.",
-        "pubdate": "2026 Sep 3",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42797593/"
+        "pmid": "42811187",
+        "title": "Oral small-molecule GLP-1 receptor agonist safiglipron in early type 2 diabetes: a randomized, double-blind, placebo-controlled trial.",
+        "pubdate": "2026 Sep 29",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42811187/"
       },
       {
-        "pmid": "42797557",
-        "title": "Estimating and Projecting Efficacy of Monoclonal Antibodies Against Respiratory Syncytial Virus Beyond Clinical Trial Periods.",
-        "pubdate": "2026 Aug 26",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42797557/"
+        "pmid": "42810842",
+        "title": "A single-center open-label, randomized, parallel-group controlled clinical trial on the long-term effect of the treatment with EGb 761 in blood markers of inflammation and neurodegeneration in patients with mild cognitive impairment: ACE-2020-EGb 761.",
+        "pubdate": "2026 Sep 29",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42810842/"
       },
       {
-        "pmid": "42797407",
-        "title": "Precision Pharmacotherapy for Obstructive Sleep Apnea: Matching Targeted Drugs to Patient Endophenotypes.",
-        "pubdate": "2026 Aug 28",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42797407/"
+        "pmid": "42810372",
+        "title": "Retatrutide in adults with obesity and type 2 diabetes (TRIUMPH-2): a double-blind, parallel-group, randomised, placebo-controlled, phase 3 trial.",
+        "pubdate": "2026 Sep 29",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42810372/"
       },
       {
-        "pmid": "42796966",
-        "title": "Omega-3 Supplementation Modulates Whole-Blood EPA and DHA Without Improving Patient-Reported Outcomes in Youth with Migraine: A Quasi-Randomized Pilot Trial.",
-        "pubdate": "2026 Sep 11",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42796966/"
+        "pmid": "42809094",
+        "title": "Baxdrostat (Baxfendy(®)), a first-in-class aldosterone synthase inhibitor approved for adults with uncontrolled hypertension.",
+        "pubdate": "2026 Sep 29",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42809094/"
       },
       {
-        "pmid": "42796927",
-        "title": "Dietary Fiber Supplementation Reduces Systolic Blood Pressure in High-Risk Patients with Type 2 Diabetes and Hypertension: A Secondary Analysis of a Randomized Trial.",
-        "pubdate": "2026 Sep 8",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42796927/"
+        "pmid": "42806629",
+        "title": "Investigation of the Efficacy and Safety of TO-208 in Patients 2 Years of Age or Older With Molluscum Contagiosum in Japan: A Randomized, Double-Blind, Placebo-Controlled, Phase 3 Study (208-3-1) and Its Open-Label Extension.",
+        "pubdate": "2026 Sep 28",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42806629/"
       }
     ]
   },

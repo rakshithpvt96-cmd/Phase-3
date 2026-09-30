@@ -1,7 +1,7 @@
 {
   "drug_name": "Sintilimab",
   "slug": "sintilimab",
-  "enriched_at": "2026-09-23T12:40:51Z",
+  "enriched_at": "2026-09-30T13:27:18Z",
   "source_trial_ids": [
     "NCT05116462",
     "NCT06618664"
@@ -51,8 +51,8 @@
     }
   },
   "condition": {
-    "raw": "Advanced Hepatocellular Carcinoma",
-    "slug": "advanced-hepatocellular-carcinoma"
+    "raw": "Non-Small Cell Lung Cancer",
+    "slug": "non-small-cell-lung-cancer"
   },
   "source_trials": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "nct_id": "NCT06618664",
-      "title": "A Clinical Study of SHR-8068 Combined With Adebrelimab and Bevacizumab Versus Sintilimab or Atezolizumab Combined With Bevacizumab for the Treatment of Advanced Hepatocellular Carcinoma",
+      "title": "A Clinical Study of SHR-8068 Combined With Adebrelimab and Bevacizumab Versus Sintilimab Combined With Bevacizumab for the Treatment of Advanced Hepatocellular Carcinoma (KYLIN-02)",
       "status": "RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT06618664",
       "has_results": false
@@ -73,6 +73,12 @@
   "prior_results": {
     "ctgov_results_urls": [],
     "pubmed_articles": [
+      {
+        "pmid": "42810785",
+        "title": "Single-arm, multicentre phase II trial of sintilimab plus platinum-based doublet chemotherapy followed by adaptive radiotherapy strategy for patients with unresectable stage III non-small-cell lung cancer in China: the ART-LUNG 01 study protocol.",
+        "pubdate": "2026 Sep 29",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42810785/"
+      },
       {
         "pmid": "42225651",
         "title": "Sintilimab plus concurrent chemoradiotherapy for treatment of locally advanced small cell lung cancer (SINCE-01): a phase II clinical trial.",
@@ -96,12 +102,6 @@
         "title": "The efficacy and safety of four different PD-1 checkpoint inhibitors in advanced non-small cell lung cancer: a real-world retrospective study.",
         "pubdate": "2026",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42130626/"
-      },
-      {
-        "pmid": "42129445",
-        "title": "Efficacy and safety of surufatinib and sintilimab with or without chemotherapy for advanced high-grade neuroendocrine neoplasms and pancreatic cancer.",
-        "pubdate": "2026 May 13",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42129445/"
       }
     ]
   },

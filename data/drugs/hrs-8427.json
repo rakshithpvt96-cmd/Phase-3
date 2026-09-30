@@ -1,0 +1,81 @@
+{
+  "drug_name": "HRS-8427",
+  "slug": "hrs-8427",
+  "enriched_at": "2026-09-30T13:28:20Z",
+  "source_trial_ids": [
+    "NCT06569056"
+  ],
+  "sponsors": [
+    {
+      "name": "Jiangsu HengRui Medicine Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Jiangsu%20HengRui%20Medicine%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2670813",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL5432020",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=HRS-8427+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=HRS-8427+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=HRS-8427+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Complicated Urinary Tract Infection(cUTI), Including Acute Pyelonephritis(AP)",
+    "slug": "complicated-urinary-tract-infection-cuti-including-acute-pyelonephritis-ap"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06569056",
+      "title": "A Trial of HRS-8427 in the Treatment of Adults With Complicated Urinary Tract Infection, Including Acute Pyelonephritis",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT06569056",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "41773934",
+        "title": "Pharmacokinetics, safety, and tolerability of HRS-8427, a novel anti-carbapenem-resistant cephalosporin, in healthy subjects.",
+        "pubdate": "2026 Apr",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41773934/"
+      },
+      {
+        "pmid": "41196282",
+        "title": "Intrapulmonary penetration and pharmacokinetics of siderophore cephalosporin HRS-8427 injection in Chinese healthy subjects.",
+        "pubdate": "2025 Dec 10",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41196282/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}
