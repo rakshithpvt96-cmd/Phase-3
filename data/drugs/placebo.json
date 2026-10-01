@@ -1,7 +1,7 @@
 {
   "drug_name": "Placebo",
   "slug": "placebo",
-  "enriched_at": "2026-09-30T13:26:39Z",
+  "enriched_at": "2026-10-01T14:21:52Z",
   "source_trial_ids": [
     "NCT02914535",
     "NCT04023552",
@@ -19,6 +19,7 @@
     "NCT05627648",
     "NCT05636176",
     "NCT05643534",
+    "NCT05702034",
     "NCT05716100",
     "NCT05797610",
     "NCT06081894",
@@ -58,8 +59,7 @@
     "NCT07363720",
     "NCT07469800",
     "NCT07473960",
-    "NCT07555392",
-    "NCT07790120"
+    "NCT07555392"
   ],
   "sponsors": [
     {
@@ -255,6 +255,12 @@
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001832038&type=10-K&dateb=&owner=include&count=40"
     },
     {
+      "name": "Janssen Research & Development, LLC",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Janssen%20Research%20%26%20Development%2C%20LLC&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
       "name": "Karuna Therapeutics, Inc., a Bristol Myers Squibb company",
       "ticker": null,
       "market_cap_display": null,
@@ -313,12 +319,6 @@
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Shanghai%20Mabgeek%20Biotech.Co.Ltd&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
-      "name": "Shenzhen Salubris Pharmaceuticals Co., Ltd.",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Shenzhen%20Salubris%20Pharmaceuticals%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Sichuan Jishengtang Pharmaceutical Co., Ltd.",
@@ -382,8 +382,8 @@
     }
   },
   "condition": {
-    "raw": "Uncontrolled Hypertension",
-    "slug": "uncontrolled-hypertension"
+    "raw": "Cardiovascular Disease and Lipoprotein(a)",
+    "slug": "cardiovascular-disease-and-lipoprotein-a"
   },
   "source_trials": [
     {
@@ -496,6 +496,13 @@
       "title": "Study to Assess Safety and Efficacy of Tenapanor for Treatment of IBS-C in Pediatric Patients 12 to Less Than 18 Years",
       "status": "COMPLETED",
       "url": "https://clinicaltrials.gov/study/NCT05643534",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT05702034",
+      "title": "A Study of Milvexian in Participants After an Acute Ischemic Stroke or High-Risk Transient Ischemic Attack- LIBREXIA-STROKE",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05702034",
       "has_results": false
     },
     {
@@ -777,47 +784,40 @@
       "status": "RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT07555392",
       "has_results": false
-    },
-    {
-      "nct_id": "NCT07790120",
-      "title": "A Study to Evaluate the Efficacy and Safety in Participants With Uncontrolled Hypertension on Two or More Medications Including Participants With Resistant Hypertension",
-      "status": "COMPLETED",
-      "url": "https://clinicaltrials.gov/study/NCT07790120",
-      "has_results": false
     }
   ],
   "prior_results": {
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42811187",
-        "title": "Oral small-molecule GLP-1 receptor agonist safiglipron in early type 2 diabetes: a randomized, double-blind, placebo-controlled trial.",
-        "pubdate": "2026 Sep 29",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42811187/"
+        "pmid": "42817839",
+        "title": "Multi-center, randomized controlled efficacy and comparative-effectiveness study evaluating ketamine, stellate ganglion blocks, combination treatment, and sham treatments for posttraumatic stress disorder and traumatic brain injury-associated headache: a study protocol.",
+        "pubdate": "2026 Oct 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42817839/"
       },
       {
-        "pmid": "42810842",
-        "title": "A single-center open-label, randomized, parallel-group controlled clinical trial on the long-term effect of the treatment with EGb 761 in blood markers of inflammation and neurodegeneration in patients with mild cognitive impairment: ACE-2020-EGb 761.",
-        "pubdate": "2026 Sep 29",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42810842/"
+        "pmid": "42817826",
+        "title": "A UV-Free Strategy for Vitamin D Synthesis in Skin: Concept Verification and a Randomised Double-Blind Placebo-Controlled Clinical Trial of a Cholecalciferol Phosphate Patch (TransVitD).",
+        "pubdate": "2026 Oct 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42817826/"
       },
       {
-        "pmid": "42810372",
-        "title": "Retatrutide in adults with obesity and type 2 diabetes (TRIUMPH-2): a double-blind, parallel-group, randomised, placebo-controlled, phase 3 trial.",
+        "pmid": "42817137",
+        "title": "Efficacy and Safety of Pioglitazone in Improving Cognitive Function Among Stroke Patients: A Prospective, Double-Blind, Randomized Controlled Trial.",
         "pubdate": "2026 Sep 29",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42810372/"
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42817137/"
       },
       {
-        "pmid": "42809094",
-        "title": "Baxdrostat (Baxfendy(®)), a first-in-class aldosterone synthase inhibitor approved for adults with uncontrolled hypertension.",
-        "pubdate": "2026 Sep 29",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42809094/"
+        "pmid": "42816839",
+        "title": "Effects of calcium-containing solutions on fluorescence-detectable plaque area and enamel mineral volume: an in vitro and exploratory clinical study.",
+        "pubdate": "2026 Sep 15",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42816839/"
       },
       {
-        "pmid": "42806629",
-        "title": "Investigation of the Efficacy and Safety of TO-208 in Patients 2 Years of Age or Older With Molluscum Contagiosum in Japan: A Randomized, Double-Blind, Placebo-Controlled, Phase 3 Study (208-3-1) and Its Open-Label Extension.",
-        "pubdate": "2026 Sep 28",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42806629/"
+        "pmid": "42816838",
+        "title": "Efficacy and safety of anrikefon in the treatment of diabetic hemodialysis patients with pruritus: a post hoc analysis.",
+        "pubdate": "2026 Jul 29",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42816838/"
       }
     ]
   },

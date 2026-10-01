@@ -1,12 +1,9 @@
 {
   "drug_name": "Docetaxel",
   "slug": "docetaxel",
-  "enriched_at": "2026-09-01T12:26:30Z",
+  "enriched_at": "2026-10-01T14:19:32Z",
   "source_trial_ids": [
-    "NCT04634877",
     "NCT05132075",
-    "NCT05943795",
-    "NCT06319313",
     "NCT06370871"
   ],
   "sponsors": [
@@ -17,28 +14,10 @@
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Boehringer%20Ingelheim&type=10-K&dateb=&owner=include&count=40"
     },
     {
-      "name": "Merck Sharp & Dohme LLC",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Merck%20Sharp%20%26%20Dohme%20LLC&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
       "name": "Novartis Pharmaceuticals",
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Novartis%20Pharmaceuticals&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
-      "name": "Shanghai JMT-Bio Inc.",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Shanghai%20JMT-Bio%20Inc.&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
-      "name": "Sichuan Baili Pharmaceutical Co., Ltd.",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Sichuan%20Baili%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
@@ -73,41 +52,20 @@
     "openfda_generic_names": [
       "DOCETAXEL ANHYDROUS"
     ],
-    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2992d633-08fa-44f3-b14d-41700f24686b",
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a6417655-9448-4886-ba03-f57f36bcbd14",
     "note": null,
     "further_reading": null
   },
   "condition": {
-    "raw": "Non-small Cell Lung Adenocarcinoma",
-    "slug": "non-small-cell-lung-adenocarcinoma"
+    "raw": "Advanced Soft Tissue Sarcoma",
+    "slug": "advanced-soft-tissue-sarcoma"
   },
   "source_trials": [
-    {
-      "nct_id": "NCT04634877",
-      "title": "Study of Pembrolizumab (MK-3475) in Combination With Adjuvant Chemotherapy With or Without Radiotherapy in Participants With Newly Diagnosed Endometrial Cancer After Surgery With Curative Intent (MK-3475-B21 / KEYNOTE-B21 / ENGOT-en11 / GOG-3053)",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT04634877",
-      "has_results": false
-    },
     {
       "nct_id": "NCT05132075",
       "title": "Study of JDQ443 in Comparison With Docetaxel in Participants With Locally Advanced or Metastatic KRAS G12C Mutant Non-small Cell Lung Cancer",
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT05132075",
-      "has_results": false
-    },
-    {
-      "nct_id": "NCT05943795",
-      "title": "A Clinical Study of SI-B001 Combined With Docetaxel in the Treatment of Non-small Cell Lung Adenocarcinoma and Lung Squamous Cell Carcinoma",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT05943795",
-      "has_results": false
-    },
-    {
-      "nct_id": "NCT06319313",
-      "title": "Efficacy and Safety of JMT101 Combined Wth Docetaxel / HB1801 in Patients With Squamous Cell Non-Small Cell Lung Cancer",
-      "status": "NOT_YET_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06319313",
       "has_results": false
     },
     {
@@ -122,34 +80,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42598911",
-        "title": "Evaluation of triplet therapy combined with robot-assisted cytoreductive prostatectomy for high-volume metastatic prostate cancer: a multicentre randomised controlled trial protocol.",
-        "pubdate": "2026 Aug 14",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42598911/"
+        "pmid": "42815410",
+        "title": "Full enrollment results from cohort 1 of the phase III randomized THOR trial of erdafitinib versus chemotherapy in FGFR-altered advanced urothelial carcinoma.",
+        "pubdate": "2026 Sep 30",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42815410/"
       },
       {
-        "pmid": "42577021",
-        "title": "Triplet Therapy (Androgen Deprivation Therapy + Darolutamide + Biweekly Docetaxel) for High-risk Metastatic Castration-sensitive Prostate Cancer (TRIC Study): A Study Protocol for Open-labelled Single-Arm Phase II Clinical Trial.",
-        "pubdate": "2026 Jul 15",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42577021/"
+        "pmid": "42807855",
+        "title": "Anlotinib enhances the sensitivity to docetaxel in lung cancer through inhibiting DDR1-mediated glycolytic pathway.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42807855/"
       },
       {
-        "pmid": "42529140",
-        "title": "RATIONALE-303: Long-Term Outcomes of Tislelizumab in Previously Treated Advanced/Metastatic NSCLC.",
-        "pubdate": "2026 Aug",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42529140/"
+        "pmid": "42801727",
+        "title": "Insulin-Like Growth Factor Axis and Survival in Metastatic Hormone-Sensitive Prostate Cancer: Post-Hoc Analysis From the ENZAMET Phase 3 Trial.",
+        "pubdate": "2026 Sep 27",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42801727/"
       },
       {
-        "pmid": "42518513",
-        "title": "Automated measurement of CD8+ T-cell distribution at the tumor epithelial-stromal interface is associated with NSCLC immunotherapy benefit and transcriptomic pathways.",
-        "pubdate": "2026 Aug",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42518513/"
+        "pmid": "42745627",
+        "title": "Plain language summary of the KRYSTAL-12 study results: adagrasib for non-small cell lung cancer with KRAS(G12C) mutations.",
+        "pubdate": "2026 Sep 16",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42745627/"
       },
       {
-        "pmid": "42516476",
-        "title": "Upper Gastrointestinal Cancer Audit: A Retrospective Analysis of Patient Outcomes in North Wales.",
-        "pubdate": "2026 Jun",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42516476/"
+        "pmid": "42741060",
+        "title": "Feasibility and acceptability of ice plant intensive cream in preventing hand-foot syndrome in breast cancer patients undergoing Doxorubicin and/or Docetaxel therapy: a randomized controlled pilot study.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42741060/"
       }
     ]
   },

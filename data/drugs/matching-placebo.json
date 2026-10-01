@@ -1,11 +1,10 @@
 {
   "drug_name": "Matching placebo",
   "slug": "matching-placebo",
-  "enriched_at": "2026-09-24T12:40:21Z",
+  "enriched_at": "2026-10-01T14:20:40Z",
   "source_trial_ids": [
     "NCT06445023",
-    "NCT06455202",
-    "NCT07042126"
+    "NCT06455202"
   ],
   "sponsors": [
     {
@@ -13,12 +12,6 @@
       "ticker": "CLDX",
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000744218&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
-      "name": "Sunshine Guojian Pharmaceutical (Shanghai) Co., Ltd.",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Sunshine%20Guojian%20Pharmaceutical%20%28Shanghai%29%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
@@ -52,8 +45,8 @@
     }
   },
   "condition": {
-    "raw": "Dermatitis, Atopic",
-    "slug": "dermatitis-atopic"
+    "raw": "Chronic Spontaneous Urticaria",
+    "slug": "chronic-spontaneous-urticaria"
   },
   "source_trials": [
     {
@@ -69,47 +62,40 @@
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT06455202",
       "has_results": false
-    },
-    {
-      "nct_id": "NCT07042126",
-      "title": "Evaluation of 611 in Chinese Adolescents With Moderate to Severe Atopic Dermatitis",
-      "status": "RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT07042126",
-      "has_results": false
     }
   ],
   "prior_results": {
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42777749",
-        "title": "Aspirin after curative-intent treatment of colorectal cancer liver metastases (ASAC): a multicentre, phase 3, randomised, double-blind, placebo-controlled trial.",
-        "pubdate": "2026 Sep 23",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42777749/"
+        "pmid": "42817137",
+        "title": "Efficacy and Safety of Pioglitazone in Improving Cognitive Function Among Stroke Patients: A Prospective, Double-Blind, Randomized Controlled Trial.",
+        "pubdate": "2026 Sep 29",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42817137/"
       },
       {
-        "pmid": "42771346",
-        "title": "DNL343 and Disease Progression in Amyotrophic Lateral Sclerosis: A Randomized Clinical Trial.",
-        "pubdate": "2026 Sep 1",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42771346/"
+        "pmid": "42814788",
+        "title": "Methotrexate and Prednisolone compared to placebo and prednisolone in the treatment of severe Erythema Nodosum Leprosum: An international multicentre, double-blind randomised controlled clinical trial-MaPs in ENL.",
+        "pubdate": "2026 Sep 30",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42814788/"
       },
       {
-        "pmid": "42765734",
-        "title": "Fruquintinib: Mechanism of Action, Clinical, and Translational Science.",
-        "pubdate": "2026 Oct",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42765734/"
+        "pmid": "42799782",
+        "title": "Photobiomodulation versus ischemic preconditioning for protection against exercise-induced muscle damage: protocol for a randomized controlled trial.",
+        "pubdate": "2026 Sep 26",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42799782/"
       },
       {
-        "pmid": "42764919",
-        "title": "Progesterone in feminizing gender affirming hormone therapy: study protocol for a randomized placebo-controlled trial.",
-        "pubdate": "2026 Dec",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42764919/"
+        "pmid": "42797593",
+        "title": "A Randomized Phase 3 Study to Evaluate the Safety, Tolerability, and Immunogenicity of the Bivalent RSVpreF Vaccine in Older Adults in Korea.",
+        "pubdate": "2026 Sep 3",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42797593/"
       },
       {
-        "pmid": "42761731",
-        "title": "Lessons Learned from Drug Development Programs in Autism: Implications for Future Programs.",
-        "pubdate": "2026 Apr-Jun",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42761731/"
+        "pmid": "42797557",
+        "title": "Estimating and Projecting Efficacy of Monoclonal Antibodies Against Respiratory Syncytial Virus Beyond Clinical Trial Periods.",
+        "pubdate": "2026 Aug 26",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42797557/"
       }
     ]
   },

@@ -1,35 +1,13 @@
 {
   "drug_name": "Pembrolizumab",
   "slug": "pembrolizumab",
-  "enriched_at": "2026-09-01T12:26:47Z",
+  "enriched_at": "2026-10-01T14:21:44Z",
   "source_trial_ids": [
     "NCT03711032",
-    "NCT04634877",
-    "NCT05048797",
     "NCT05608291",
-    "NCT06151574",
-    "NCT06472076",
     "NCT06980272"
   ],
   "sponsors": [
-    {
-      "name": "AstraZeneca",
-      "ticker": "AZN",
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000901832&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
-      "name": "Boehringer Ingelheim",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Boehringer%20Ingelheim&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
-      "name": "GlaxoSmithKline",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=GlaxoSmithKline&type=10-K&dateb=&owner=include&count=40"
-    },
     {
       "name": "Merck Sharp & Dohme LLC",
       "ticker": null,
@@ -80,8 +58,8 @@
     "further_reading": null
   },
   "condition": {
-    "raw": "Locally Advanced or Metastatic Non-Small Cell Lung Cancer",
-    "slug": "locally-advanced-or-metastatic-non-small-cell-lung-cancer"
+    "raw": "Melanoma",
+    "slug": "melanoma"
   },
   "source_trials": [
     {
@@ -92,38 +70,10 @@
       "has_results": false
     },
     {
-      "nct_id": "NCT04634877",
-      "title": "Study of Pembrolizumab (MK-3475) in Combination With Adjuvant Chemotherapy With or Without Radiotherapy in Participants With Newly Diagnosed Endometrial Cancer After Surgery With Curative Intent (MK-3475-B21 / KEYNOTE-B21 / ENGOT-en11 / GOG-3053)",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT04634877",
-      "has_results": false
-    },
-    {
-      "nct_id": "NCT05048797",
-      "title": "A Study to Investigate the Efficacy and Safety of Trastuzumab Deruxtecan as the First Treatment Option for Unresectable, Locally Advanced/Metastatic Non-Small Cell Lung Cancer With HER2 Mutations",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT05048797",
-      "has_results": false
-    },
-    {
       "nct_id": "NCT05608291",
       "title": "A Trial to See if the Combination of Fianlimab With Cemiplimab Works Better Than Pembrolizumab for Preventing or Delaying Melanoma From Coming Back After it Has Been Removed With Surgery",
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT05608291",
-      "has_results": false
-    },
-    {
-      "nct_id": "NCT06151574",
-      "title": "Beamion LUNG-2: A Study to Test Whether Zongertinib (BI 1810631) Helps People With Advanced Non-small Cell Lung Cancer With HER2 Mutations Compared With Standard Treatment",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06151574",
-      "has_results": false
-    },
-    {
-      "nct_id": "NCT06472076",
-      "title": "A Study of Belrestotug Plus Dostarlimab Compared With Placebo Plus Pembrolizumab in Previously Untreated Participants With Programmed Death Ligand 1 (PD-L1) High Non-small-cell Lung Cancer (NSCLC)",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06472076",
       "has_results": false
     },
     {
@@ -138,34 +88,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42673705",
-        "title": "Lenvatinib plus pembrolizumab for the treatment of patients with non-BRAF mutated anaplastic thyroid cancer: A single center, phase 2 clinical trial.",
-        "pubdate": "2026 Aug 26",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42673705/"
+        "pmid": "42810020",
+        "title": "Efficacy and safety of pembrolizumab-lenvatinib in metastatic endometrial cancer: results from the French multicenter early access program.",
+        "pubdate": "2026 Sep 29",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42810020/"
       },
       {
-        "pmid": "42662364",
-        "title": "Colonic Polyp Regression After Nous-209 Cancer Immunotherapy: A Clinical Trial Case Report.",
-        "pubdate": "2026 Nov",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42662364/"
+        "pmid": "42805115",
+        "title": "Adjuvant anti-TIGIT plus anti-PD-1 in melanoma: A necessary failure that clarifies the path forward.",
+        "pubdate": "2026 Sep 28",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42805115/"
       },
       {
-        "pmid": "42657864",
-        "title": "Efficacy and Safety of Viscum album L. in Patients With Triple-Negative Breast Cancer Receiving Immune Checkpoint Inhibitors: A Protocol for an Open-Label Randomized Clinical Trial.",
-        "pubdate": "2026 Jan-Dec",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42657864/"
+        "pmid": "42797353",
+        "title": "Long-Term Survival Heterogeneity Across PD-L1-Defined Subgroups in Pembrolizumab-Treated Non-Small-Cell Lung Cancer: A Model-Based Analysis.",
+        "pubdate": "2026 Sep 17",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42797353/"
       },
       {
-        "pmid": "42628840",
-        "title": "Five-Year Outcomes of Perioperative Pembrolizumab for Early-Stage Non-Small-Cell Lung Cancer From the Randomized KEYNOTE-671 Study.",
-        "pubdate": "2026 Aug 21",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42628840/"
+        "pmid": "42777170",
+        "title": "Personalized Therapy in Advanced Cholangiocarcinoma: Contemporary Treatment Approaches and Future Directions.",
+        "pubdate": "2026 Sep 23",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42777170/"
       },
       {
-        "pmid": "42627465",
-        "title": "The application of excess hazard models for plausible long-term extrapolation in cost-effectiveness: a re-evaluation of immunotherapy in advanced non-small cell lung cancer using the KEYNOTE-024 trial.",
-        "pubdate": "2026 Aug 21",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42627465/"
+        "pmid": "42764956",
+        "title": "Current Perspectives on the Use of Adjuvant Pembrolizumab for Hepatocellular Carcinoma.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42764956/"
       }
     ]
   },

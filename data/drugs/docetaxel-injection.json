@@ -1,10 +1,9 @@
 {
-  "drug_name": "Docetaxel Injection",
+  "drug_name": "Docetaxel injection",
   "slug": "docetaxel-injection",
-  "enriched_at": "2026-09-24T12:46:08Z",
+  "enriched_at": "2026-10-01T14:23:07Z",
   "source_trial_ids": [
-    "NCT06300177",
-    "NCT06738251"
+    "NCT06300177"
   ],
   "sponsors": [
     {
@@ -12,12 +11,6 @@
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Chia%20Tai%20Tianqing%20Pharmaceutical%20Group%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
-      "name": "Shanghai Hengrui Pharmaceutical Co., Ltd.",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Shanghai%20Hengrui%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
@@ -45,14 +38,14 @@
     "dailymed_url": null,
     "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
     "further_reading": {
-      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Docetaxel%20Injection+mechanism+of+action",
-      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Docetaxel%20Injection+pharmacokinetics",
-      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Docetaxel%20Injection+efficacy+phase+3"
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Docetaxel%20injection+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Docetaxel%20injection+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Docetaxel%20injection+efficacy+phase+3"
     }
   },
   "condition": {
-    "raw": "Advanced Urothelial Carcinoma",
-    "slug": "advanced-urothelial-carcinoma"
+    "raw": "Non Small Cell Lung Cancer",
+    "slug": "non-small-cell-lung-cancer"
   },
   "source_trials": [
     {
@@ -60,13 +53,6 @@
       "title": "D-1553 Tablet Versus Docetaxel Injection for KRAS G12C Mutation-positive Locally Advanced or Metastatic Non-small Cell Lung Cancer After Prior Standard Therapy Failure",
       "status": "RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT06300177",
-      "has_results": false
-    },
-    {
-      "nct_id": "NCT06738251",
-      "title": "A Phase III Study of SHR-A2102 Versus Investigator-selected Therapy in Advanced Urothelial Carcinoma",
-      "status": "RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06738251",
       "has_results": false
     }
   ],
@@ -108,17 +94,6 @@
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": [
-      {
-        "name": "9MW2821",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Mabwell (Shanghai) Bioscience Co., Ltd."
-      },
-      {
-        "name": "Chemotherapy",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Mabwell (Shanghai) Bioscience Co., Ltd."
-      }
-    ]
+    "items": []
   }
 }

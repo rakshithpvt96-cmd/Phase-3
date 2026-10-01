@@ -1,12 +1,11 @@
 {
   "drug_name": "Nab-paclitaxel",
   "slug": "nab-paclitaxel",
-  "enriched_at": "2026-09-24T12:41:32Z",
+  "enriched_at": "2026-10-01T14:21:07Z",
   "source_trial_ids": [
     "NCT05116462",
     "NCT05254171",
-    "NCT06018337",
-    "NCT06279364"
+    "NCT06018337"
   ],
   "sponsors": [
     {
@@ -26,12 +25,6 @@
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Panbela%20Therapeutics%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
-      "name": "Sichuan Kelun-Biotech Biopharmaceutical Co., Ltd.",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Sichuan%20Kelun-Biotech%20Biopharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
@@ -71,8 +64,8 @@
     }
   },
   "condition": {
-    "raw": "Triple Negative Breast Cancer",
-    "slug": "triple-negative-breast-cancer"
+    "raw": "Metastatic Breast Cancer",
+    "slug": "metastatic-breast-cancer"
   },
   "source_trials": [
     {
@@ -95,18 +88,23 @@
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT06018337",
       "has_results": false
-    },
-    {
-      "nct_id": "NCT06279364",
-      "title": "A Study of SKB264 Versus Investigator's Choice Chemotherapy in Patients With Unresectable Recurrent or Metastatic Triple-Negative Breast Cancer",
-      "status": "RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06279364",
-      "has_results": false
     }
   ],
   "prior_results": {
     "ctgov_results_urls": [],
     "pubmed_articles": [
+      {
+        "pmid": "42816596",
+        "title": "Intravenous hyaluronidase-expressing oncolytic adenovirus with chemotherapy in metastatic pancreatic cancer: a randomized phase 2b trial.",
+        "pubdate": "2026 Sep 30",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42816596/"
+      },
+      {
+        "pmid": "42811017",
+        "title": "Motixafortide, cemiplimab, gemcitabine and nab-paclitaxel in metastatic pancreatic cancer: a single-arm phase 2 study with single-cell correlatives.",
+        "pubdate": "2026 Aug 21",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42811017/"
+      },
       {
         "pmid": "42763280",
         "title": "A Phase I Study of Nab-Paclitaxel, Gemcitabine and AZD1775 for Treatment of Metastatic Adenocarcinoma of the Pancreas: ECOG-ACRIN EA2131.",
@@ -116,7 +114,7 @@
       {
         "pmid": "42743886",
         "title": "Circulating free bacterial DNA as a novel biomarker for monitoring therapy response in patients with advanced pancreatic cancer.",
-        "pubdate": "2026 Sep 10",
+        "pubdate": "2026 Oct 16",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42743886/"
       },
       {
@@ -124,50 +122,12 @@
         "title": "Short-term versus long-course neoadjuvant chemotherapy for resectable and borderline resectable pancreatic ductal adenocarcinoma (PACT-21 CASSANDRA): results from the second randomisation analysis of a randomised, open-label, 2 × 2 factorial phase 3 trial.",
         "pubdate": "2026 Sep",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42733563/"
-      },
-      {
-        "pmid": "42725320",
-        "title": "Systemic treatment of advanced pancreatic cancer: A Comprehensive Review.",
-        "pubdate": "2026 Mar",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42725320/"
-      },
-      {
-        "pmid": "42712492",
-        "title": "Multi-modal digital twin model outperforms conventional biomarker stratification in pancreatic cancer.",
-        "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42712492/"
       }
     ]
   },
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": [
-      {
-        "name": "FDA018-ADC",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Shanghai Fudan-Zhangjiang Bio-Pharmaceutical Co., Ltd."
-      },
-      {
-        "name": "Eribulin",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Shanghai Fudan-Zhangjiang Bio-Pharmaceutical Co., Ltd."
-      },
-      {
-        "name": "Capecitabine",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Shanghai Fudan-Zhangjiang Bio-Pharmaceutical Co., Ltd."
-      },
-      {
-        "name": "Gemcitabine",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Shanghai Fudan-Zhangjiang Bio-Pharmaceutical Co., Ltd."
-      },
-      {
-        "name": "Vinorelbine",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Shanghai Fudan-Zhangjiang Bio-Pharmaceutical Co., Ltd."
-      }
-    ]
+    "items": []
   }
 }

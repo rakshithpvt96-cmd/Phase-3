@@ -1,7 +1,7 @@
 {
   "drug_name": "AK112, Gemcitabine, Cisplatin",
   "slug": "ak112-gemcitabine-cisplatin",
-  "enriched_at": "2026-09-24T12:37:30Z",
+  "enriched_at": "2026-10-01T14:18:42Z",
   "source_trial_ids": [
     "NCT06591520"
   ],
@@ -63,17 +63,6 @@
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": [
-      {
-        "name": "D07001-softgel capsules + Xeloda (or TS-1)",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: InnoPharmax Inc."
-      },
-      {
-        "name": "mFOLFOX",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: InnoPharmax Inc."
-      }
-    ]
+    "items": []
   }
 }

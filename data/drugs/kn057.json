@@ -1,27 +1,23 @@
 {
-  "drug_name": "DB-1303/BNT323",
-  "slug": "db-1303-bnt323",
-  "enriched_at": "2026-10-01T14:19:10Z",
+  "drug_name": "KN057",
+  "slug": "kn057",
+  "enriched_at": "2026-10-01T14:20:32Z",
   "source_trial_ids": [
-    "NCT06018337"
+    "NCT06569108"
   ],
   "sponsors": [
     {
-      "name": "DualityBio Inc.",
+      "name": "Suzhou Alphamab Co., Ltd.",
       "ticker": null,
       "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=DualityBio%20Inc.&type=10-K&dateb=&owner=include&count=40"
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Suzhou%20Alphamab%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
-    "rxnorm": {
-      "rxcui": "2727972",
-      "generic_name": null,
-      "brand_names": []
-    }
+    "rxnorm": null
   },
   "mechanism": {
-    "chembl_id": "CHEMBL5756759",
+    "chembl_id": null,
     "target_chembl_id": null,
     "target_name": null,
     "mechanism_of_action_chembl": null
@@ -38,21 +34,21 @@
     "dailymed_url": null,
     "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
     "further_reading": {
-      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=DB-1303/BNT323+mechanism+of+action",
-      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=DB-1303/BNT323+pharmacokinetics",
-      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=DB-1303/BNT323+efficacy+phase+3"
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=KN057+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=KN057+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=KN057+efficacy+phase+3"
     }
   },
   "condition": {
-    "raw": "Metastatic Breast Cancer",
-    "slug": "metastatic-breast-cancer"
+    "raw": "Hemophilia A Without Inhibitor",
+    "slug": "hemophilia-a-without-inhibitor"
   },
   "source_trials": [
     {
-      "nct_id": "NCT06018337",
-      "title": "A Study of DB-1303/BNT323 vs Investigator's Choice Chemotherapy in HER2-Low, Hormone Receptor Positive Metastatic Breast Cancer (DYNASTY-Breast02)",
+      "nct_id": "NCT06569108",
+      "title": "Efficacy and Safety of KN057 Prophylaxis in Patients With Haemophilia A or B Without Inhibitors",
       "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06018337",
+      "url": "https://clinicaltrials.gov/study/NCT06569108",
       "has_results": false
     }
   ],

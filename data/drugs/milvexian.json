@@ -1,0 +1,121 @@
+{
+  "drug_name": "Milvexian",
+  "slug": "milvexian",
+  "enriched_at": "2026-10-01T14:20:51Z",
+  "source_trial_ids": [
+    "NCT05702034"
+  ],
+  "sponsors": [
+    {
+      "name": "Janssen Research & Development, LLC",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Janssen%20Research%20%26%20Development%2C%20LLC&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 118277544,
+    "iupac_name": "(9R,13S)-13-[4-[5-chloro-2-(4-chlorotriazol-1-yl)phenyl]-6-oxopyrimidin-1-yl]-3-(difluoromethyl)-9-methyl-3,4,7,15-tetrazatricyclo[12.3.1.02,6]octadeca-1(18),2(6),4,14,16-pentaen-8-one",
+    "molecular_formula": "C28H23Cl2F2N9O2",
+    "molecular_weight": "626.4",
+    "canonical_smiles": null,
+    "inchikey": "FSWFYCYPTDLKON-CMJOXMDJSA-N",
+    "rxnorm": {
+      "rxcui": "2471638",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4112929",
+    "target_chembl_id": "CHEMBL2820",
+    "target_name": "Coagulation factor XI",
+    "mechanism_of_action_chembl": "Coagulation factor XI inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Milvexian+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Milvexian+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Milvexian+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Ischemic Stroke; Ischemic Attack, Transient",
+    "slug": "ischemic-stroke-ischemic-attack-transient"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05702034",
+      "title": "A Study of Milvexian in Participants After an Acute Ischemic Stroke or High-Risk Transient Ischemic Attack- LIBREXIA-STROKE",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05702034",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42670965",
+        "title": "Milvexian with Antiplatelet Therapy after Acute Coronary Syndrome Event.",
+        "pubdate": "2026 Aug 29",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42670965/"
+      },
+      {
+        "pmid": "42580413",
+        "title": "Comparison of the effects of abelacimab, asundexian, and milvexian on medical device-induced clotting and thrombin generation in vitro.",
+        "pubdate": "2026 Aug 11",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42580413/"
+      },
+      {
+        "pmid": "42348666",
+        "title": "Factor XIa inhibition for the prevention of thrombosis: mechanism, clinical trial signals, and indication-specific positioning.",
+        "pubdate": "2026 Jun 26",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42348666/"
+      },
+      {
+        "pmid": "42260521",
+        "title": "Emerging strategies in venous thromboembolism: a narrative review of pharmacological innovations.",
+        "pubdate": "2026 Jun 9",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42260521/"
+      },
+      {
+        "pmid": "42200460",
+        "title": "A comprehensive multicenter study assessing the impact of abelacimab, asundexian, and milvexian on coagulation assays.",
+        "pubdate": "2026 Sep 8",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42200460/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "HUMAN C1-ESTERASE INHIBITOR",
+        "chembl_id": "CHEMBL4297549",
+        "reason": "same target: Coagulation factor XI"
+      },
+      {
+        "name": "OSOCIMAB",
+        "chembl_id": "CHEMBL4297905",
+        "reason": "same target: Coagulation factor XI"
+      },
+      {
+        "name": "ABELACIMAB",
+        "chembl_id": "CHEMBL4650369",
+        "reason": "same target: Coagulation factor XI"
+      }
+    ]
+  }
+}
