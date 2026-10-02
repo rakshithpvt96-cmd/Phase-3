@@ -1,7 +1,7 @@
 {
   "drug_name": "9MW2821",
   "slug": "9mw2821",
-  "enriched_at": "2026-09-25T12:50:53Z",
+  "enriched_at": "2026-10-02T13:43:08Z",
   "source_trial_ids": [
     "NCT06196736"
   ],
@@ -66,32 +66,6 @@
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": [
-      {
-        "name": "SHR-A2102 for Injection",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Shanghai Hengrui Pharmaceutical Co., Ltd."
-      },
-      {
-        "name": "Docetaxel Injection",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Shanghai Hengrui Pharmaceutical Co., Ltd."
-      },
-      {
-        "name": "Paclitaxel Injection",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Shanghai Hengrui Pharmaceutical Co., Ltd."
-      },
-      {
-        "name": "Gemcitabine Hydrochloride for Injection",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Shanghai Hengrui Pharmaceutical Co., Ltd."
-      },
-      {
-        "name": "Pemetrexed Disodium for Injection",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Shanghai Hengrui Pharmaceutical Co., Ltd."
-      }
-    ]
+    "items": []
   }
 }

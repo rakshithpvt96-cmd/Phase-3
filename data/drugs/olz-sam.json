@@ -1,7 +1,7 @@
 {
   "drug_name": "OLZ/SAM",
   "slug": "olz-sam",
-  "enriched_at": "2026-09-25T12:53:47Z",
+  "enriched_at": "2026-10-02T13:45:29Z",
   "source_trial_ids": [
     "NCT05303064"
   ],
@@ -94,17 +94,6 @@
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": [
-      {
-        "name": "3-6mg QLM1016",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Qilu Pharmaceutical Co., Ltd."
-      },
-      {
-        "name": "10-20 mg Aripiprazole oral solution film",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Qilu Pharmaceutical Co., Ltd."
-      }
-    ]
+    "items": []
   }
 }
