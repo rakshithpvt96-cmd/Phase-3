@@ -1,0 +1,119 @@
+{
+  "drug_name": "Povorcitinib",
+  "slug": "povorcitinib",
+  "enriched_at": "2026-10-05T18:19:06Z",
+  "source_trial_ids": [
+    "NCT06516952",
+    "NCT06516965"
+  ],
+  "sponsors": [
+    {
+      "name": "Incyte Corporation",
+      "ticker": "INCY",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000879169&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 86280672,
+    "iupac_name": "4-[3-(cyanomethyl)-3-[4-(3,5-dimethyl-1H-pyrazol-4-yl)pyrazol-1-yl]azetidin-1-yl]-2,5-difluoro-N-[(2S)-1,1,1-trifluoropropan-2-yl]benzamide",
+    "molecular_formula": "C23H22F5N7O",
+    "molecular_weight": "507.5",
+    "canonical_smiles": null,
+    "inchikey": "MSGYSFWCPOBHEV-AWEZNQCLSA-N",
+    "rxnorm": {
+      "rxcui": "2686493",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL5314592",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Povorcitinib+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Povorcitinib+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Povorcitinib+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Prurigo Nodularis",
+    "slug": "prurigo-nodularis"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06516952",
+      "title": "A Study to Evaluate the Efficacy and Safety Study of Povorcitinib in Participants With Prurigo Nodularis (STOP-PN1)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06516952",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06516965",
+      "title": "A Study to Evaluate the Efficacy and Safety Study of Povorcitinib in Participants With Prurigo Nodularis (STOP-PN2)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06516965",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42570211",
+        "title": "Prevalence and Clinical Characteristics of Vitiligo-Associated Hearing Loss Among Patients in a Phase 2 Clinical Trial of Povorcitinib.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42570211/"
+      },
+      {
+        "pmid": "42493571",
+        "title": "Povorcitinib for hidradenitis suppurativa: the randomized, double-blind, placebo-controlled STOP-HS1 and STOP-HS2 phase 3 trials.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42493571/"
+      },
+      {
+        "pmid": "42342652",
+        "title": "Emerging synthetic drugs for the management of hidradenitis suppurativa: a comprehensive update.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42342652/"
+      },
+      {
+        "pmid": "42105313",
+        "title": "Povorcitinib for Hidradenitis suppurativa: a narrative review on clinical trial data with expert commentary.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42105313/"
+      },
+      {
+        "pmid": "41504465",
+        "title": "Development and validation of a bioanalytical method to quantify povorcitinib in human skin with clinical application.",
+        "pubdate": "2025 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41504465/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "Placebo",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Shanghai Mabgeek Biotech.Co.Ltd"
+      }
+    ]
+  }
+}

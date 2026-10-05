@@ -1,7 +1,7 @@
 {
   "drug_name": "FDA018-ADC",
   "slug": "fda018-adc",
-  "enriched_at": "2026-09-28T15:08:34Z",
+  "enriched_at": "2026-10-05T18:10:47Z",
   "source_trial_ids": [
     "NCT06519370"
   ],
@@ -63,37 +63,6 @@
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": [
-      {
-        "name": "SKB264",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Sichuan Kelun-Biotech Biopharmaceutical Co., Ltd."
-      },
-      {
-        "name": "Paclitaxel",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Sichuan Kelun-Biotech Biopharmaceutical Co., Ltd."
-      },
-      {
-        "name": "Nab-paclitaxel",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Sichuan Kelun-Biotech Biopharmaceutical Co., Ltd."
-      },
-      {
-        "name": "Capecitabine",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Sichuan Kelun-Biotech Biopharmaceutical Co., Ltd."
-      },
-      {
-        "name": "Eribulin",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Sichuan Kelun-Biotech Biopharmaceutical Co., Ltd."
-      },
-      {
-        "name": "Carboplatin",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Sichuan Kelun-Biotech Biopharmaceutical Co., Ltd."
-      }
-    ]
+    "items": []
   }
 }

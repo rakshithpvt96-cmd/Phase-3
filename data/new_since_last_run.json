@@ -1,6 +1,222 @@
 {
-  "generated_at": "2026-10-04T14:42:47Z",
-  "new_trial_count": 0,
-  "new_trials": [],
-  "removed_trial_ids": []
+  "generated_at": "2026-10-05T18:06:25Z",
+  "new_trial_count": 5,
+  "new_trials": [
+    {
+      "nct_id": "NCT05372718",
+      "title": "Thrombolysis With Recombinant Non-immunogenic Staphylokinase vs Surgery in Patients With Acute Limb Ischemia FORAT Trial",
+      "status": "COMPLETED",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Supergene, LLC",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-09-30",
+      "primary_completion_date_type": "ACTUAL",
+      "window": "lookback",
+      "conditions": [
+        "Acute Limb Ischemia"
+      ],
+      "interventions": [
+        {
+          "name": "Recombinant non-immunogenic staphylokinase (Fortelyzin®)",
+          "type": "DRUG"
+        },
+        {
+          "name": "surgical methods of treatment",
+          "type": "PROCEDURE"
+        }
+      ],
+      "drug_names": [
+        "Recombinant non-immunogenic staphylokinase (Fortelyzin®)"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT05372718",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Supergene, LLC",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Supergene%2C%20LLC&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-10-05T18:06:25Z"
+      }
+    },
+    {
+      "nct_id": "NCT05617677",
+      "title": "A Study to Assess Effectiveness and Safety of Deucravacitinib Compared With Placebo in Participants With Active Systemic Lupus Erythematosus (SLE)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Bristol-Myers Squibb",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-10-19",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Systemic Lupus Erythematosus"
+      ],
+      "interventions": [
+        {
+          "name": "Deucravacitinib",
+          "type": "DRUG"
+        },
+        {
+          "name": "Placebo",
+          "type": "OTHER"
+        }
+      ],
+      "drug_names": [
+        "Deucravacitinib"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT05617677",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Bristol-Myers Squibb",
+        "ticker": "BMY",
+        "cik": "0000014272",
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000014272&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-10-04T13:35:26Z"
+      }
+    },
+    {
+      "nct_id": "NCT05620407",
+      "title": "A Study to Evaluate Effectiveness and Safety of Deucravacitinib (BMS-986165) Compared With Placebo in Participants With Active Systemic Lupus Erythematosus",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Bristol-Myers Squibb",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-10-19",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Systemic Lupus Erythematosus"
+      ],
+      "interventions": [
+        {
+          "name": "Deucravacitinib",
+          "type": "DRUG"
+        },
+        {
+          "name": "Placebo",
+          "type": "OTHER"
+        }
+      ],
+      "drug_names": [
+        "Deucravacitinib"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT05620407",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Bristol-Myers Squibb",
+        "ticker": "BMY",
+        "cik": "0000014272",
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000014272&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-10-04T13:35:26Z"
+      }
+    },
+    {
+      "nct_id": "NCT06516952",
+      "title": "A Study to Evaluate the Efficacy and Safety Study of Povorcitinib in Participants With Prurigo Nodularis (STOP-PN1)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Incyte Corporation",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-10-19",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Prurigo Nodularis"
+      ],
+      "interventions": [
+        {
+          "name": "Povorcitinib",
+          "type": "DRUG"
+        },
+        {
+          "name": "Placebo",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "Povorcitinib",
+        "Placebo"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06516952",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Incyte Corporation",
+        "ticker": "INCY",
+        "cik": "0000879169",
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000879169&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-10-04T13:35:35Z"
+      }
+    },
+    {
+      "nct_id": "NCT06516965",
+      "title": "A Study to Evaluate the Efficacy and Safety Study of Povorcitinib in Participants With Prurigo Nodularis (STOP-PN2)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Incyte Corporation",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-10-19",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Prurigo Nodularis"
+      ],
+      "interventions": [
+        {
+          "name": "Povorcitinib",
+          "type": "DRUG"
+        },
+        {
+          "name": "Placebo",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "Povorcitinib",
+        "Placebo"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06516965",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Incyte Corporation",
+        "ticker": "INCY",
+        "cik": "0000879169",
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000879169&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-10-04T13:35:35Z"
+      }
+    }
+  ],
+  "removed_trial_ids": [
+    "NCT05261399",
+    "NCT05797610"
+  ]
 }

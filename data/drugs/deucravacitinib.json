@@ -1,0 +1,149 @@
+{
+  "drug_name": "Deucravacitinib",
+  "slug": "deucravacitinib",
+  "enriched_at": "2026-10-05T18:09:57Z",
+  "source_trial_ids": [
+    "NCT05617677",
+    "NCT05620407"
+  ],
+  "sponsors": [
+    {
+      "name": "Bristol-Myers Squibb",
+      "ticker": "BMY",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000014272&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 134821691,
+    "iupac_name": "6-(cyclopropanecarbonylamino)-4-[2-methoxy-3-(1-methyl-1,2,4-triazol-3-yl)anilino]-N-(trideuteriomethyl)pyridazine-3-carboxamide",
+    "molecular_formula": "C20H22N8O3",
+    "molecular_weight": "425.5",
+    "canonical_smiles": null,
+    "inchikey": "BZZKEPGENYLQSC-FIBGUPNXSA-N",
+    "rxnorm": {
+      "rxcui": "2612087",
+      "generic_name": "deucravacitinib",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4435170",
+    "target_chembl_id": "CHEMBL3553",
+    "target_name": "Non-receptor tyrosine-protein kinase TYK2",
+    "mechanism_of_action_chembl": "Tyrosine-protein kinase TYK2 negative allosteric modulator"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Deucravacitinib is an inhibitor of tyrosine kinase 2 (TYK2). TYK2 is a member of the Janus kinase (JAK) family. Deucravacitinib binds to the regulatory domain of TYK2, stabilizing an inhibitory interaction between the regulatory and the catalytic domains of the enzyme. This results in allosteric inhibition of receptor-mediated activation of TYK2 and its downstream activation of Signal Transducers and Activators of Transcription (STATs) as shown in cell-based assays. JAK kinases, including TYK2, function as pairs of homo- or heterodimers in the JAK-STAT pathways. TYK2 pairs with JAK1 to mediate multiple cytokine pathways and also pairs with JAK2 to transmit signals as shown in cell-based assays. The precise mechanism linking inhibition of TYK2 enzyme to treatment of moderate-to-severe plaque psoriasis or active psoriatric arthritis is not currently known.",
+    "pharmacokinetics": "12.3 Pharmacokinetics Following oral administration, deucravacitinib plasma C max and AUC increased proportionally over a dose range from 3 mg to 36 mg (0.5 to 6 times the approved recommended dosage) in healthy subjects. The accumulation of deucravacitinib was <1.4-fold following once daily dosing in healthy subjects. The pharmacokinetics of deucravacitinib and its active metabolite, BMT‑153261, were comparable between healthy subjects and subjects with plaque psoriasis. The steady state C max and AUC 24 of deucravacitinib following administration of 6 mg once daily were 45 ng/mL and 473 ng·hr/mL respectively, in subjects with plaque psoriasis, and 53 ng/mL and 598 ng·hr/mL respectively, in subjects with psoriasis arthritis. The steady state C max and AUC 24 of the active deucravacitinib metabolite, BMT-153261, following administration of 6 mg once daily were 5 ng/mL and 95 ng·hr/mL respectively, in subjects with plaque psoriasis subjects and 19 ng/mL and 209 ng·hr/mL respectively, in subjects with psoriasis arthritis subjects. Absorption The absolute oral bioavailability of deucravacitinib was 99% and the median T max ranged from 2 to 3 hours in healthy subjects. Food Effect No clinically significant differences in the pharmacokinetics of deucravacitinib were observed following administration of a high-fat, high-calorie meal (951 kcal in total, with approximate distribution of 52% fat, 33% carbohydrate and 15% protein). C max and AUC of deucravacitinib when administered with food were decreased by approximately 24% and 11%, respectively, and T max was prolonged by 1 hour. C max and AUC of BMT-153261 when administered with food were decreased by approximately 23% and 10%, respectively, and T max was prolonged by 2 hours. Distribution The volume of distribution of deucravacitinib at steady state is 140 L. Protein binding of deucravacitinib was 82 to 90% and the blood-to-plasma concentration ratio was 1.26. Elimination The terminal half-life of deucravacitinib was 10 hours. The renal clearance of deucravacitinib ranged from 27 to 54 mL/minute. Metabolism Deucravacitinib is metabolized by cytochrome P-450 (CYP) 1A2 to form major metabolite BMT-153261. Deucravacitinib is also metabolized by CYP2B6, CYP2D6, carboxylesterase (CES) 2, and uridine glucuronyl transferase (UGT) 1A9. The active deucravacitinib metabolite, BMT-153261, has comparable potency to the parent drug, but the circulating exposure of BMT-153261 accounts for approximately 20% of the systemic exposure of the total drug-related components. Excretion After a single dose of radiolabeled deucravacitinib, approximately 13% and 26% of the dose was recovered as unchanged in urine and feces, respectively. Approximately 6% and 12% of the dose was detected as BMT-153261 in urine and feces, respectively. Specific Populations Patients with Renal Impairment Deucravacitinib C max was 14% lower and 6% higher in patients with mild (eGFR ≥60 to <90 mL/min/1.73m 2 ) and moderate (eGFR ≥30 to <60 mL/min/1.73m 2 ) renal impairment, compared to subjects with normal renal function (eGFR ≥ 90 mL/min/1.73m 2 ); no change in C max was observed in patients with severe (eGFR <30 mL/min/1.73m 2 ) renal impairment, and end-stage renal disease (ESRD) (eGFR <15 mL/min/1.73m 2 ) on dialysis. Deucravacitinib AUC inf was unchanged in patients with mild renal impairment but higher by 39%, 28% and 34% in patients with moderate, severe and ESRD on dialysis, respectively, compared to subjects with normal renal function. BMT-153261 C max was 11% lower, 8% lower, 28% higher and 9% higher in patients with mild, moderate, severe renal impairment and ESRD on dialysis, respectively, compared to subjects with normal renal function. BMT-153261 AUC inf was 2% lower, 24% higher, 81% higher and 27% higher in patients with mild, moderate, severe renal impairment and ESRD on dialysis, respectively, compared to subjects with normal renal function. Dialysis did not substantially clear deucravacitinib from systemic circulation (5.4% of dose cleared per dialysis). Patients with Hepatic Impairment Deucravacitinib C max was higher by 4%, 10% and 1% in patients with mild (Child-Pugh Class A), moderate (Child-Pugh Class B), and severe (Child-Pugh Class C) hepatic impairment, respectively, compared to subjects with normal hepatic function. Deucravacitinib AUC inf was higher by 10%, 40% and 43% in patients with mild, moderate, and severe hepatic impairment, respectively, compared to subjects with normal hepatic function. BMT-153261 C max was lower by 25%, 59% and 79% in patients with mild, moderate, and severe hepatic impairment, respectively, compared to subjects with normal hepatic function. BMT-153261 AUC inf was lower by 3%, 20% and 50% in patients with mild, moderate, and severe hepatic impairment, respectively, compared to subjects with normal hepatic function [see Use in Specific Populations (8.7) ] . Body Weight, Gender, Race, and Age Body weight, gender, race, and age did not have a clinically significant effect on deucravacitinib exposure. Drug Interaction Studies Clinical Trials No clinically significant differences in the pharmacokinetics of deucravacitinib were observed when concomitantly administered with the following drugs: Cyclosporine (dual Pgp/BCRP inhibitor), fluvoxamine (CYP1A2 inhibitor), ritonavir (CYP1A2 inducer), diflunisal (UGT 1A9 inhibitor), pyrimethamine (OCT1 inhibitor), famotidine (H2 receptor antagonist), or rabeprazole (proton pump inhibitor). No clinically significant differences in the pharmacokinetics of the following drugs were observed when concomitantly administered with deucravacitinib: Rosuvastatin, methotrexate, mycophenolate mofetil (MMF), metformin and oral contraceptives (norethindrone acetate and ethinyl estradiol). In Vitro Studies Cytochrome P450 (CYP) Enzymes: Deucravacitinib is not an inhibitor of CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, or CYP3A4. Deucravacitinib is not an inducer of CYP1A2, CYP2B6, or CYP3A4. Carboxylesterase (CES) Enzymes: Deucravacitinib is not an inhibitor of CES2. Uridine diphosphate (UDP)-glucuronosyl transferase (UGT) Enzymes: Deucravacitinib is not an inhibitor of UGT1A1, UGT1A4, UGT1A6, UGT1A9, or UGT2B7. Transporter Systems: Deucravacitinib is a substrate of Pgp, BCRP, and OCT1, but not OATP, NTCP, OAT1, OAT3, OCT2, MATE1, or MATE2K. Deucravacitinib is an inhibitor of BCRP and OATP1B3, but not an inhibitor of Pgp, OATP1B1, NTCP, BSEP, MRP2, OAT1, OAT3, OCT1, OCT2, MATE1, or MATE2-K.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE SOTYKTU is a tyrosine kinase 2 (TYK2) inhibitor indicated for: • the treatment of moderate-to-severe plaque psoriasis in adults who are candidates for systemic therapy or phototherapy. ( 1.1 ) Limitations of Use : Not recommended for use in combination with other potent immunosuppressants. • the treatment of active psoriatic arthritis in adults. ( 1.2 ) 1.1 Plaque Psoriasis SOTYKTU is indicated for the treatment of moderate-to-severe plaque psoriasis in adults who are candidates for systemic therapy or phototherapy. Limitations of Use : SOTYKTU is not recommended for use in combination with other potent immunosuppressants. 1.2 Psoriatic Arthritis SOTYKTU is indicated for the treatment of active psoriatic arthritis in adults.",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "SOTYKTU"
+    ],
+    "openfda_generic_names": [
+      "DEUCRAVACITINIB"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ff4d7258-5068-4cdf-9692-8cae04c3198e",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Systemic Lupus Erythematosus",
+    "slug": "systemic-lupus-erythematosus"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05617677",
+      "title": "A Study to Assess Effectiveness and Safety of Deucravacitinib Compared With Placebo in Participants With Active Systemic Lupus Erythematosus (SLE)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05617677",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT05620407",
+      "title": "A Study to Evaluate Effectiveness and Safety of Deucravacitinib (BMS-986165) Compared With Placebo in Participants With Active Systemic Lupus Erythematosus",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05620407",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42785684",
+        "title": "Janus Kinase Inhibitor Use in Adults Aged 65 Years and Older: A Clinical Review Across Atopic Dermatitis, Alopecia Areata, and Psoriasis.",
+        "pubdate": "2026 Sep 24",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42785684/"
+      },
+      {
+        "pmid": "42663861",
+        "title": "Safety of Icotrokinra Through 1 Year for the Treatment of Moderate-to-Severe Plaque Psoriasis and Psoriasis Affecting High-Impact Sites: Pooled Results Across the ICONIC-LEAD, ICONIC-TOTAL, and ICONIC-ADVANCE 1 and 2 Phase 3 Trials.",
+        "pubdate": "2026 Aug 28",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42663861/"
+      },
+      {
+        "pmid": "42660739",
+        "title": "Pharmacodynamic analysis of TYK2 inhibition by deucravacitinib: results from the phase 2 PAISLEY SLE trial in patients with active systemic lupus erythematosus.",
+        "pubdate": "2026 Aug 27",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42660739/"
+      },
+      {
+        "pmid": "42563042",
+        "title": "Deucravacitinib 5-Year Safety and Efficacy Results in Plaque Psoriasis: A Phase 3 Open-Label Extension of Randomized Clinical Trials.",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42563042/"
+      },
+      {
+        "pmid": "42562758",
+        "title": "Efficacy and safety of deucravacitinib, an oral, selective tyrosine kinase 2 inhibitor, in patients with active psoriatic arthritis: 52-week results from the randomised, double-blind, placebo-controlled phase 3 POETYK PsA-1 trial.",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42562758/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "CERDULATINIB",
+        "chembl_id": "CHEMBL4116008",
+        "reason": "same target: Non-receptor tyrosine-protein kinase TYK2"
+      },
+      {
+        "name": "BREPOCITINIB",
+        "chembl_id": "CHEMBL4297477",
+        "reason": "same target: Non-receptor tyrosine-protein kinase TYK2"
+      },
+      {
+        "name": "ROPSACITINIB",
+        "chembl_id": "CHEMBL4459585",
+        "reason": "same target: Non-receptor tyrosine-protein kinase TYK2"
+      },
+      {
+        "name": "FILGOTINIB",
+        "chembl_id": "CHEMBL3301607",
+        "reason": "same target: Non-receptor tyrosine-protein kinase TYK2"
+      },
+      {
+        "name": "FILGOTINIB MALEATE",
+        "chembl_id": "CHEMBL4298167",
+        "reason": "same target: Non-receptor tyrosine-protein kinase TYK2"
+      },
+      {
+        "name": "UPADACITINIB HEMIHYDRATE",
+        "chembl_id": "CHEMBL5315119",
+        "reason": "same target: Non-receptor tyrosine-protein kinase TYK2"
+      },
+      {
+        "name": "DEURUXOLITINIB PHOSPHATE",
+        "chembl_id": "CHEMBL4594382",
+        "reason": "same target: Non-receptor tyrosine-protein kinase TYK2"
+      }
+    ]
+  }
+}

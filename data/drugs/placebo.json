@@ -1,7 +1,7 @@
 {
   "drug_name": "Placebo",
   "slug": "placebo",
-  "enriched_at": "2026-10-01T14:21:52Z",
+  "enriched_at": "2026-10-05T18:18:23Z",
   "source_trial_ids": [
     "NCT02914535",
     "NCT04023552",
@@ -21,7 +21,6 @@
     "NCT05643534",
     "NCT05702034",
     "NCT05716100",
-    "NCT05797610",
     "NCT06081894",
     "NCT06104124",
     "NCT06125951",
@@ -33,6 +32,8 @@
     "NCT06411288",
     "NCT06455059",
     "NCT06468956",
+    "NCT06516952",
+    "NCT06516965",
     "NCT06534723",
     "NCT06553027",
     "NCT06564818",
@@ -231,10 +232,10 @@
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hangzhou%20Zhongmei%20Huadong%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
     },
     {
-      "name": "Hoffmann-La Roche",
-      "ticker": null,
+      "name": "Incyte Corporation",
+      "ticker": "INCY",
       "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hoffmann-La%20Roche&type=10-K&dateb=&owner=include&count=40"
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000879169&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Innovent Biologics (Suzhou) Co. Ltd.",
@@ -513,13 +514,6 @@
       "has_results": false
     },
     {
-      "nct_id": "NCT05797610",
-      "title": "A Study to Evaluate the Efficacy and Safety of Sefaxersen (RO7434656) in Participants With Primary Immunoglobulin A (IgA) Nephropathy at High Risk of Progression",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT05797610",
-      "has_results": false
-    },
-    {
       "nct_id": "NCT06081894",
       "title": "A Trial to Evaluate the Efficacy and Safety of Aficamten Compared to Placebo in Adults With Symptomatic Non-Obstructive Hypertrophic Cardiomyopathy (nHCM)",
       "status": "ACTIVE_NOT_RECRUITING",
@@ -594,6 +588,20 @@
       "title": "Efficacy and Safety Study of SHR-1819 Injection in Adult Patients With Severe Atopic Dermatitis",
       "status": "COMPLETED",
       "url": "https://clinicaltrials.gov/study/NCT06468956",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06516952",
+      "title": "A Study to Evaluate the Efficacy and Safety Study of Povorcitinib in Participants With Prurigo Nodularis (STOP-PN1)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06516952",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06516965",
+      "title": "A Study to Evaluate the Efficacy and Safety Study of Povorcitinib in Participants With Prurigo Nodularis (STOP-PN2)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06516965",
       "has_results": false
     },
     {
@@ -790,34 +798,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42817839",
-        "title": "Multi-center, randomized controlled efficacy and comparative-effectiveness study evaluating ketamine, stellate ganglion blocks, combination treatment, and sham treatments for posttraumatic stress disorder and traumatic brain injury-associated headache: a study protocol.",
-        "pubdate": "2026 Oct 1",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42817839/"
+        "pmid": "42831158",
+        "title": "Effects of Lanthanum Carbonate on Whole-Body Phosphorus and Calcium Balance in Adults With Chronic Kidney Disease and Normophosphatemia.",
+        "pubdate": "2026 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42831158/"
       },
       {
-        "pmid": "42817826",
-        "title": "A UV-Free Strategy for Vitamin D Synthesis in Skin: Concept Verification and a Randomised Double-Blind Placebo-Controlled Clinical Trial of a Cholecalciferol Phosphate Patch (TransVitD).",
-        "pubdate": "2026 Oct 1",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42817826/"
+        "pmid": "42831144",
+        "title": "Impact of Vedolizumab on Bowel Urgency in Ulcerative Colitis: Post Hoc Analysis of the GEMINI 1, VISIBLE 1, and VARSITY Trials.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42831144/"
       },
       {
-        "pmid": "42817137",
-        "title": "Efficacy and Safety of Pioglitazone in Improving Cognitive Function Among Stroke Patients: A Prospective, Double-Blind, Randomized Controlled Trial.",
-        "pubdate": "2026 Sep 29",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42817137/"
+        "pmid": "42831032",
+        "title": "Evaluation of clinical relevance of weight nadirs and weight regain during 3 years of treatment with tirzepatide in participants with obesity or overweight and prediabetes.",
+        "pubdate": "2026 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42831032/"
       },
       {
-        "pmid": "42816839",
-        "title": "Effects of calcium-containing solutions on fluorescence-detectable plaque area and enamel mineral volume: an in vitro and exploratory clinical study.",
-        "pubdate": "2026 Sep 15",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42816839/"
+        "pmid": "42830762",
+        "title": "Study design, rationale, and baseline characteristics of ATTAIN-HYPERTENSION, a phase 3 trial of the oral GLP-1 receptor agonist orforglipron for hypertension.",
+        "pubdate": "2026 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42830762/"
       },
       {
-        "pmid": "42816838",
-        "title": "Efficacy and safety of anrikefon in the treatment of diabetic hemodialysis patients with pruritus: a post hoc analysis.",
-        "pubdate": "2026 Jul 29",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42816838/"
+        "pmid": "42830387",
+        "title": "A Phase 3, Multicenter, Randomized, Placebo-Controlled Trial Evaluating the Efficacy, Safety, and Tolerability of Serdexmethylphenidate/d-Methylphenidate Capsules in Chinese Children with Attention-Deficit/Hyperactivity Disorder.",
+        "pubdate": "2026 Oct 4",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42830387/"
       }
     ]
   },

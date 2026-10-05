@@ -1,7 +1,7 @@
 {
   "drug_name": "DT120",
   "slug": "dt120",
-  "enriched_at": "2026-09-28T15:08:02Z",
+  "enriched_at": "2026-10-05T18:10:26Z",
   "source_trial_ids": [
     "NCT06741228",
     "NCT06809595"
@@ -73,27 +73,6 @@
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": [
-      {
-        "name": "Buagafuran capsules, 15mg/ capsule",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Beijing Union Pharmaceutical Factory Ltd"
-      },
-      {
-        "name": "Buspirone tablets, 5mg/ tablet",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Beijing Union Pharmaceutical Factory Ltd"
-      },
-      {
-        "name": "Buagafuran capsules mimic, 0mg/ capsule",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Beijing Union Pharmaceutical Factory Ltd"
-      },
-      {
-        "name": "Buspirone tablets mimic, 0mg/ tablet",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Beijing Union Pharmaceutical Factory Ltd"
-      }
-    ]
+    "items": []
   }
 }

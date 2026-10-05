@@ -1,7 +1,7 @@
 {
   "drug_name": "FP",
   "slug": "fp",
-  "enriched_at": "2026-09-05T11:11:39Z",
+  "enriched_at": "2026-10-05T18:24:55Z",
   "source_trial_ids": [
     "NCT06664619"
   ],
@@ -41,7 +41,7 @@
     "boxed_warning": null,
     "openfda_brand_names": [],
     "openfda_generic_names": [],
-    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=574c96e9-77a2-778f-e063-6394a90a0aae",
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5bb3c152-8766-7360-e063-6294a90a160a",
     "note": "A label exists in DailyMed but structured sections could not be parsed automatically -- see dailymed_url for the full label.",
     "further_reading": {
       "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=FP+mechanism+of+action",
@@ -66,6 +66,24 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42813236",
+        "title": "Essential Oral Single Nutritional Therapy Products for Inherited Metabolic Diseases: Evidence and Consensus Assessment Using a Modified Delphi Method.",
+        "pubdate": "2026 Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42813236/"
+      },
+      {
+        "pmid": "42750660",
+        "title": "Measuring motor intent for BCI control-A comparative analysis of signal quality of simultaneously recorded vECoG and scalp EEG.",
+        "pubdate": "2026 Sep 17",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42750660/"
+      },
+      {
+        "pmid": "42727564",
+        "title": "The fear in the waiting room.",
+        "pubdate": "2026 Sep 11",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42727564/"
+      },
+      {
         "pmid": "42677015",
         "title": "Lenvatinib versus Sorafenib in First-Line Treatment of Older Patients with Unresectable Hepatocellular Carcinoma: A Subgroup Analysis of the REFLECT Trial.",
         "pubdate": "2026 Jul 4",
@@ -76,24 +94,6 @@
         "title": "Targeting the hepcidin-ferroportin axis in polycythemia vera: a complementary approach to clone-directed therapies.",
         "pubdate": "2026 Aug 26",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42660705/"
-      },
-      {
-        "pmid": "42621648",
-        "title": "Evaluation of copper feeding strategies and sources on nursery and finishing pig performance.",
-        "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42621648/"
-      },
-      {
-        "pmid": "42597905",
-        "title": "VOGUE: Noninferior Efficacy of Dolutegravir/Lamivudine Versus Bictegravir/Emtricitabine/Tenofovir Alafenamide in Adults With HIV-1 Naive to Treatment.",
-        "pubdate": "2026 Aug",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42597905/"
-      },
-      {
-        "pmid": "42552516",
-        "title": "Etiological characterization of acute respiratory tract infections and associated co-infections using Biofire respiratory 2.1 Plus panel.",
-        "pubdate": "2026 Aug 3",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42552516/"
       }
     ]
   },

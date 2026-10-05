@@ -1,7 +1,7 @@
 {
   "drug_name": "Dupilumab 300mg Dose",
   "slug": "dupilumab-300mg-dose",
-  "enriched_at": "2026-09-28T15:46:22Z",
+  "enriched_at": "2026-10-05T18:24:40Z",
   "source_trial_ids": [
     "NCT06389136"
   ],
@@ -71,11 +71,6 @@
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
     "items": [
-      {
-        "name": "Rocatinlimab",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Amgen"
-      },
       {
         "name": "Ruxolitinib",
         "chembl_id": null,
