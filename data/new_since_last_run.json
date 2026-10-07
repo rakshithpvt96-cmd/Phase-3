@@ -1,67 +1,113 @@
 {
-  "generated_at": "2026-10-05T18:06:25Z",
-  "new_trial_count": 5,
+  "generated_at": "2026-10-07T14:18:10Z",
+  "new_trial_count": 3,
   "new_trials": [
     {
-      "nct_id": "NCT05372718",
-      "title": "Thrombolysis With Recombinant Non-immunogenic Staphylokinase vs Surgery in Patients With Acute Limb Ischemia FORAT Trial",
-      "status": "COMPLETED",
+      "nct_id": "NCT05531565",
+      "title": "A 2-Part Study to Learn Whether Litifilimab (BIIB059) Injections Can Improve Symptoms of Adult Participants Who Have Active Cutaneous Lupus Erythematosus",
+      "status": "ACTIVE_NOT_RECRUITING",
       "phases": [
+        "PHASE2",
         "PHASE3"
       ],
-      "sponsor": "Supergene, LLC",
+      "sponsor": "Biogen",
       "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-09-30",
-      "primary_completion_date_type": "ACTUAL",
-      "window": "lookback",
+      "primary_completion_date": "2026-10-20",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
       "conditions": [
-        "Acute Limb Ischemia"
+        "Subacute Cutaneous Lupus Erythematosus",
+        "Chronic Cutaneous Lupus Erythematosus"
       ],
       "interventions": [
         {
-          "name": "Recombinant non-immunogenic staphylokinase (Fortelyzin®)",
+          "name": "Litifilimab",
           "type": "DRUG"
         },
         {
-          "name": "surgical methods of treatment",
-          "type": "PROCEDURE"
+          "name": "Placebo",
+          "type": "DRUG"
         }
       ],
       "drug_names": [
-        "Recombinant non-immunogenic staphylokinase (Fortelyzin®)"
+        "Litifilimab",
+        "Placebo"
       ],
-      "url": "https://clinicaltrials.gov/study/NCT05372718",
+      "url": "https://clinicaltrials.gov/study/NCT05531565",
       "has_results": false,
       "results_first_post_date": null,
       "company_info": {
-        "sponsor": "Supergene, LLC",
+        "sponsor": "Biogen",
+        "ticker": "BIIB",
+        "cik": "0000875045",
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000875045&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-10-04T13:35:24Z"
+      }
+    },
+    {
+      "nct_id": "NCT06311682",
+      "title": "A Trial to Evaluate the Efficacy and Safety of Tralokinumab in Combination With Topical Corticosteroids in Children and Infants With Moderate-to-severe Atopic Dermatitis",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "LEO Pharma",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-10-20",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Atopic Dermatitis"
+      ],
+      "interventions": [
+        {
+          "name": "Tralokinumab + TCS",
+          "type": "DRUG"
+        },
+        {
+          "name": "Placebo + TCS",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "Tralokinumab + TCS",
+        "Placebo + TCS"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06311682",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "LEO Pharma",
         "ticker": null,
         "cik": null,
         "market_cap": null,
         "market_cap_display": null,
         "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Supergene%2C%20LLC&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-05T18:06:25Z"
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=LEO%20Pharma&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-10-07T14:18:09Z"
       }
     },
     {
-      "nct_id": "NCT05617677",
-      "title": "A Study to Assess Effectiveness and Safety of Deucravacitinib Compared With Placebo in Participants With Active Systemic Lupus Erythematosus (SLE)",
+      "nct_id": "NCT06894212",
+      "title": "A Trial of the Efficacy and Safety of SEP-363856 in Acutely Psychotic Participants With Schizophrenia",
       "status": "ACTIVE_NOT_RECRUITING",
       "phases": [
         "PHASE3"
       ],
-      "sponsor": "Bristol-Myers Squibb",
+      "sponsor": "Otsuka Pharmaceutical Development & Commercialization, Inc.",
       "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-10-19",
+      "primary_completion_date": "2026-10-20",
       "primary_completion_date_type": "ESTIMATED",
       "window": "upcoming",
       "conditions": [
-        "Systemic Lupus Erythematosus"
+        "Schizophrenia"
       ],
       "interventions": [
         {
-          "name": "Deucravacitinib",
+          "name": "SEP-363856",
           "type": "DRUG"
         },
         {
@@ -70,153 +116,30 @@
         }
       ],
       "drug_names": [
-        "Deucravacitinib"
+        "SEP-363856"
       ],
-      "url": "https://clinicaltrials.gov/study/NCT05617677",
+      "url": "https://clinicaltrials.gov/study/NCT06894212",
       "has_results": false,
       "results_first_post_date": null,
       "company_info": {
-        "sponsor": "Bristol-Myers Squibb",
-        "ticker": "BMY",
-        "cik": "0000014272",
+        "sponsor": "Otsuka Pharmaceutical Development & Commercialization, Inc.",
+        "ticker": null,
+        "cik": null,
         "market_cap": null,
         "market_cap_display": null,
         "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000014272&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-04T13:35:26Z"
-      }
-    },
-    {
-      "nct_id": "NCT05620407",
-      "title": "A Study to Evaluate Effectiveness and Safety of Deucravacitinib (BMS-986165) Compared With Placebo in Participants With Active Systemic Lupus Erythematosus",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "Bristol-Myers Squibb",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-10-19",
-      "primary_completion_date_type": "ESTIMATED",
-      "window": "upcoming",
-      "conditions": [
-        "Systemic Lupus Erythematosus"
-      ],
-      "interventions": [
-        {
-          "name": "Deucravacitinib",
-          "type": "DRUG"
-        },
-        {
-          "name": "Placebo",
-          "type": "OTHER"
-        }
-      ],
-      "drug_names": [
-        "Deucravacitinib"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT05620407",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "Bristol-Myers Squibb",
-        "ticker": "BMY",
-        "cik": "0000014272",
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000014272&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-04T13:35:26Z"
-      }
-    },
-    {
-      "nct_id": "NCT06516952",
-      "title": "A Study to Evaluate the Efficacy and Safety Study of Povorcitinib in Participants With Prurigo Nodularis (STOP-PN1)",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "Incyte Corporation",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-10-19",
-      "primary_completion_date_type": "ESTIMATED",
-      "window": "upcoming",
-      "conditions": [
-        "Prurigo Nodularis"
-      ],
-      "interventions": [
-        {
-          "name": "Povorcitinib",
-          "type": "DRUG"
-        },
-        {
-          "name": "Placebo",
-          "type": "DRUG"
-        }
-      ],
-      "drug_names": [
-        "Povorcitinib",
-        "Placebo"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT06516952",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "Incyte Corporation",
-        "ticker": "INCY",
-        "cik": "0000879169",
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000879169&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-04T13:35:35Z"
-      }
-    },
-    {
-      "nct_id": "NCT06516965",
-      "title": "A Study to Evaluate the Efficacy and Safety Study of Povorcitinib in Participants With Prurigo Nodularis (STOP-PN2)",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "Incyte Corporation",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-10-19",
-      "primary_completion_date_type": "ESTIMATED",
-      "window": "upcoming",
-      "conditions": [
-        "Prurigo Nodularis"
-      ],
-      "interventions": [
-        {
-          "name": "Povorcitinib",
-          "type": "DRUG"
-        },
-        {
-          "name": "Placebo",
-          "type": "DRUG"
-        }
-      ],
-      "drug_names": [
-        "Povorcitinib",
-        "Placebo"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT06516965",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "Incyte Corporation",
-        "ticker": "INCY",
-        "cik": "0000879169",
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000879169&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-04T13:35:35Z"
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Otsuka%20Pharmaceutical%20Development%20%26%20Commercialization%2C%20Inc.&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-10-07T14:18:09Z"
       }
     }
   ],
   "removed_trial_ids": [
-    "NCT05261399",
-    "NCT05797610"
+    "NCT01983241",
+    "NCT03037164",
+    "NCT04666610",
+    "NCT06399289",
+    "NCT06664619",
+    "NCT06747468",
+    "NCT07178522"
   ]
 }

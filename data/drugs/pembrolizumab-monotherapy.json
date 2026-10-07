@@ -1,7 +1,7 @@
 {
   "drug_name": "Pembrolizumab Monotherapy",
   "slug": "pembrolizumab-monotherapy",
-  "enriched_at": "2026-09-30T13:29:17Z",
+  "enriched_at": "2026-10-07T14:24:09Z",
   "source_trial_ids": [
     "NCT06790966"
   ],
@@ -60,6 +60,12 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42823821",
+        "title": "SUNRAY-02: a study of olomorasib combined with immunotherapy in stage II-III KRAS G12C-mutant non-small cell lung cancer after definitive therapy.",
+        "pubdate": "2026 Oct 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42823821/"
+      },
+      {
         "pmid": "42805115",
         "title": "Adjuvant anti-TIGIT plus anti-PD-1 in melanoma: A necessary failure that clarifies the path forward.",
         "pubdate": "2026 Sep 28",
@@ -82,12 +88,6 @@
         "title": "Comparative Cost-Effectiveness Analysis of First-Line Immunotherapy for Advanced Melanoma Based on 10-Year Clinical Outcomes.",
         "pubdate": "2026 Sep 3",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42692071/"
-      },
-      {
-        "pmid": "42688407",
-        "title": "The efficacy and safety of pembrolizumab in the treatment of HER2-negative advanced gastric or gastroesophageal junction cancer: a systematic review and meta-analysis of emerging clinical data.",
-        "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42688407/"
       }
     ]
   },

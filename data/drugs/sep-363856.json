@@ -1,0 +1,156 @@
+{
+  "drug_name": "SEP-363856",
+  "slug": "sep-363856",
+  "enriched_at": "2026-10-07T14:20:27Z",
+  "source_trial_ids": [
+    "NCT06894212"
+  ],
+  "sponsors": [
+    {
+      "name": "Otsuka Pharmaceutical Development & Commercialization, Inc.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Otsuka%20Pharmaceutical%20Development%20%26%20Commercialization%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 89532783,
+    "iupac_name": "1-[(7S)-5,7-dihydro-4H-thieno[2,3-c]pyran-7-yl]-N-methylmethanamine",
+    "molecular_formula": "C9H13NOS",
+    "molecular_weight": "183.27",
+    "canonical_smiles": null,
+    "inchikey": "ABDDQTDRAHXHOC-QMMMGPOBSA-N",
+    "rxnorm": {
+      "rxcui": "1372722",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4650337",
+    "target_chembl_id": "CHEMBL214",
+    "target_name": "5-hydroxytryptamine receptor 1A",
+    "mechanism_of_action_chembl": "Serotonin 1a (5-HT1a) receptor agonist"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=SEP-363856+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=SEP-363856+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=SEP-363856+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Schizophrenia",
+    "slug": "schizophrenia"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06894212",
+      "title": "A Trial of the Efficacy and Safety of SEP-363856 in Acutely Psychotic Participants With Schizophrenia",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06894212",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "37509616",
+        "title": "Unlocking the Therapeutic Potential of Ulotaront as a Trace Amine-Associated Receptor 1 Agonist for Neuropsychiatric Disorders.",
+        "pubdate": "2023 Jul 13",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37509616/"
+      },
+      {
+        "pmid": "37273942",
+        "title": "Ulotaront, a Trace Amine-Associated Receptor 1/Serotonin 5-HT(1A) Agonist, in Patients With Parkinson Disease Psychosis: A Pilot Study.",
+        "pubdate": "2023 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37273942/"
+      },
+      {
+        "pmid": "37165101",
+        "title": "Ulotaront: review of preliminary evidence for the efficacy and safety of a TAAR1 agonist in schizophrenia.",
+        "pubdate": "2023 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37165101/"
+      },
+      {
+        "pmid": "36932300",
+        "title": "Comparative Bioequivalence of Tablet and Capsule Formulations of Ulotaront and the Effect of Food on the Pharmacokinetics of the Tablet Form in Humans.",
+        "pubdate": "2023 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36932300/"
+      },
+      {
+        "pmid": "36533396",
+        "title": "Ulotaront: a TAAR1/5-HT1A agonist in clinical development for the treatment of schizophrenia.",
+        "pubdate": "2022 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36533396/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "BUSPIRONE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1200399",
+        "reason": "same target: 5-hydroxytryptamine receptor 1A"
+      },
+      {
+        "name": "ERGOLOID MESYLATES",
+        "chembl_id": "CHEMBL2311030",
+        "reason": "same target: 5-hydroxytryptamine receptor 1A"
+      },
+      {
+        "name": "METHYSERGIDE MALEATE",
+        "chembl_id": "CHEMBL1200938",
+        "reason": "same target: 5-hydroxytryptamine receptor 1A"
+      },
+      {
+        "name": "ARIPIPRAZOLE",
+        "chembl_id": "CHEMBL1112",
+        "reason": "same target: 5-hydroxytryptamine receptor 1A"
+      },
+      {
+        "name": "VILAZODONE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1615374",
+        "reason": "same target: 5-hydroxytryptamine receptor 1A"
+      },
+      {
+        "name": "VORTIOXETINE HYDROBROMIDE",
+        "chembl_id": "CHEMBL2107387",
+        "reason": "same target: 5-hydroxytryptamine receptor 1A"
+      },
+      {
+        "name": "BREXPIPRAZOLE",
+        "chembl_id": "CHEMBL2105760",
+        "reason": "same target: 5-hydroxytryptamine receptor 1A"
+      },
+      {
+        "name": "ARIPIPRAZOLE LAUROXIL",
+        "chembl_id": "CHEMBL2219425",
+        "reason": "same target: 5-hydroxytryptamine receptor 1A"
+      },
+      {
+        "name": "GSK163090",
+        "chembl_id": "CHEMBL1631540",
+        "reason": "same target: 5-hydroxytryptamine receptor 1A"
+      },
+      {
+        "name": "BEFIRADOL",
+        "chembl_id": "CHEMBL45305",
+        "reason": "same target: 5-hydroxytryptamine receptor 1A"
+      }
+    ]
+  }
+}

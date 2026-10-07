@@ -1,0 +1,135 @@
+{
+  "drug_name": "Placebo + TCS",
+  "slug": "placebo-tcs",
+  "enriched_at": "2026-10-07T14:24:50Z",
+  "source_trial_ids": [
+    "NCT06311682"
+  ],
+  "sponsors": [
+    {
+      "name": "LEO Pharma",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=LEO%20Pharma&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "8375",
+      "generic_name": "placebo",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2425825",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Placebo%20%2B%20TCS+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Placebo%20%2B%20TCS+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Placebo%20%2B%20TCS+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Atopic Dermatitis",
+    "slug": "atopic-dermatitis"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06311682",
+      "title": "A Trial to Evaluate the Efficacy and Safety of Tralokinumab in Combination With Topical Corticosteroids in Children and Infants With Moderate-to-severe Atopic Dermatitis",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06311682",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42432760",
+        "title": "Efficacy and safety of the tree sublingual immunotherapy tablet in the subpopulation of Canadian children with allergic rhinitis and/or conjunctivitis: phase III trial results.",
+        "pubdate": "2026 Jul 11",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42432760/"
+      },
+      {
+        "pmid": "41444697",
+        "title": "Five-Grass-Pollen Sublingual Immunotherapy Drops Are Efficacious and Well Tolerated in Adults: The RHAPSODY Phase III Trial.",
+        "pubdate": "2026 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41444697/"
+      },
+      {
+        "pmid": "41247234",
+        "title": "A Model-Based Meta-Analysis Framework Quantifying Drivers of Placebo Response in Atopic Dermatitis Trials.",
+        "pubdate": "2026 Feb",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41247234/"
+      },
+      {
+        "pmid": "40993471",
+        "title": "The Safety Data of Dupilumab for the Treatment of Moderate‑to‑Severe Atopic Dermatitis in Infants, Children, Adolescents, and Adults.",
+        "pubdate": "2025 Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40993471/"
+      },
+      {
+        "pmid": "39969783",
+        "title": "Onset and Long-Term Maintenance of Optimal Itch Response in Adult Patients with Moderate-to-Severe Atopic Dermatitis Treated with Dupilumab: Post Hoc Analysis from Two Phase 3 Trials.",
+        "pubdate": "2025 Apr",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39969783/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "Upadacitinib 15mg Dose",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: AbbVie"
+      },
+      {
+        "name": "Dupilumab 300mg Dose",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: AbbVie"
+      },
+      {
+        "name": "Upadacitinib 30mg Dose",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: AbbVie"
+      },
+      {
+        "name": "Ruxolitinib",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Incyte Corporation"
+      },
+      {
+        "name": "Vehicle Cream",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Incyte Corporation"
+      },
+      {
+        "name": "CM310",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Keymed Biosciences Co.Ltd"
+      },
+      {
+        "name": "Dupilumab",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Regeneron Pharmaceuticals"
+      }
+    ]
+  }
+}
