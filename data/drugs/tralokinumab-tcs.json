@@ -1,0 +1,130 @@
+{
+  "drug_name": "Tralokinumab + TCS",
+  "slug": "tralokinumab-tcs",
+  "enriched_at": "2026-10-07T14:37:50Z",
+  "source_trial_ids": [
+    "NCT06311682"
+  ],
+  "sponsors": [
+    {
+      "name": "LEO Pharma",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=LEO%20Pharma&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2589225",
+      "generic_name": "tralokinumab",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1743081",
+    "target_chembl_id": "CHEMBL3580486",
+    "target_name": "Interleukin-13",
+    "mechanism_of_action_chembl": "Interleukin-13 inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Tralokinumab%20%2B%20TCS+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Tralokinumab%20%2B%20TCS+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Tralokinumab%20%2B%20TCS+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Atopic Dermatitis",
+    "slug": "atopic-dermatitis"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06311682",
+      "title": "A Trial to Evaluate the Efficacy and Safety of Tralokinumab in Combination With Topical Corticosteroids in Children and Infants With Moderate-to-severe Atopic Dermatitis",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06311682",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "41217071",
+        "title": "Efficacy of up to 4 years of tralokinumab in adults with moderate-to-severe atopic dermatitis.",
+        "pubdate": "2026 May",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41217071/"
+      },
+      {
+        "pmid": "41102518",
+        "title": "Cost-Per-Responder Analysis for Tralokinumab and Dupilumab in Combination with Topical Corticosteroids in Patients with Moderate-To-Severe Atopic Dermatitis.",
+        "pubdate": "2026 Jan",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41102518/"
+      },
+      {
+        "pmid": "37682422",
+        "title": "Tralokinumab Efficacy Over 1 Year in Adults with Moderate-to-Severe Atopic Dermatitis: Pooled Data from Two Phase III Trials.",
+        "pubdate": "2023 Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37682422/"
+      },
+      {
+        "pmid": "37658223",
+        "title": "Comparative Efficacy of Targeted Systemic Therapies for Moderate-to-Severe Atopic Dermatitis without Topical Corticosteroids: An Updated Network Meta-analysis.",
+        "pubdate": "2023 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37658223/"
+      },
+      {
+        "pmid": "36152216",
+        "title": "Tralokinumab Efficacy and Safety, with or without Topical Corticosteroids, in North American Adults with Moderate-to-Severe Atopic Dermatitis: A Subanalysis of Phase 3 Trials ECZTRA 1, 2, and 3.",
+        "pubdate": "2022 Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36152216/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "LEBRIKIZUMAB",
+        "chembl_id": "CHEMBL1743035",
+        "reason": "same target: Interleukin-13"
+      },
+      {
+        "name": "ANRUKINZUMAB",
+        "chembl_id": "CHEMBL1742985",
+        "reason": "same target: Interleukin-13"
+      },
+      {
+        "name": "QAX-576",
+        "chembl_id": "CHEMBL2109465",
+        "reason": "same target: Interleukin-13"
+      },
+      {
+        "name": "CNTO-5825",
+        "chembl_id": "CHEMBL2109464",
+        "reason": "same target: Interleukin-13"
+      },
+      {
+        "name": "ROMILKIMAB",
+        "chembl_id": "CHEMBL4298097",
+        "reason": "same target: Interleukin-13"
+      },
+      {
+        "name": "CENDAKIMAB",
+        "chembl_id": "CHEMBL4297864",
+        "reason": "same target: Interleukin-13"
+      }
+    ]
+  }
+}
