@@ -1,0 +1,150 @@
+{
+  "drug_name": "Ocrelizumab",
+  "slug": "ocrelizumab",
+  "enriched_at": "2026-10-08T14:30:37Z",
+  "source_trial_ids": [
+    "NCT03523858"
+  ],
+  "sponsors": [
+    {
+      "name": "Hoffmann-La Roche",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hoffmann-La%20Roche&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1876366",
+      "generic_name": "ocrelizumab",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2108041",
+    "target_chembl_id": "CHEMBL2058",
+    "target_name": "B-lymphocyte antigen CD20",
+    "mechanism_of_action_chembl": "B-lymphocyte antigen CD20 binding agent"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action The precise mechanism by which ocrelizumab exerts its therapeutic effects in multiple sclerosis is unknown, but is presumed to involve binding to CD20, a cell surface antigen present on pre-B and mature B lymphocytes. Following cell surface binding to B lymphocytes, ocrelizumab results in antibody-dependent cellular cytolysis and complement-mediated lysis.",
+    "pharmacokinetics": "12.3 Pharmacokinetics Pharmacokinetics (PK) of OCREVUS in MS clinical studies fit a two compartment model with time-dependent clearance. The overall exposure at the steady-state (AUC over the 24 week dosing intervals) of OCREVUS was 3,510 mcg/mL per day. In clinical studies in adult MS patients, maintenance doses of ocrelizumab were either 600 mg every 6 months (RMS patients) or two 300 mg infusions separated by 14 days every 6 months (PPMS patients). The mean maximum concentration was 212 mcg/mL in patients with RMS (600 mg infusion over 3.5 hours) and 141 mcg/mL in patients with PPMS (two 300 mg infusions over 2.5 hours administered within two weeks). The mean maximum peak concentrations (C max ) of ocrelizumab in patients with relapsing-remitting multiple sclerosis (RRMS) observed after the 3.5-hour infusion and 2-hour infusion were 202 ± 42 (mean ± SD) and 200 ± 46 mcg/mL, respectively, compared to the previously reported C max of 212 mcg/mL. The pharmacokinetics of ocrelizumab was essentially linear and dose proportional between 400 mg and 2000 mg. Distribution The population PK estimate of the central volume of distribution was 2.78 L. Peripheral volume and inter-compartment clearance were estimated at 2.68 L and 0.29 L/day, respectively. Elimination Constant clearance was estimated at 0.17 L/day, and initial time-dependent clearance at 0.05 L/day, which declined with a half-life of 33 weeks. The terminal elimination half-life was 26 days. Metabolism The metabolism of OCREVUS has not been directly studied because antibodies are cleared principally by catabolism. Specific Populations Pediatric Patients The median AUC over the first 24-week dosing interval was 3130 mcg/mL per day, and C max was 147 mcg/mL, in patients 10 years to less than 18 years of age receiving OCREVUS 600 mg (body weight ≥ 35 kg) or 300 mg (body weight < 35 kg). Renal Impairment Patients with mild renal impairment were included in clinical trials. No significant change in the pharmacokinetics of OCREVUS was observed in those patients. Hepatic Impairment Patients with mild hepatic impairment were included in clinical trials. No significant change in the pharmacokinetics of OCREVUS was observed in those patients.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE OCREVUS is indicated for the treatment of: Relapsing forms of multiple sclerosis (MS), to include clinically isolated syndrome, relapsing-remitting disease, and active secondary progressive disease, in adults Primary progressive MS, in adults Relapsing-remitting MS, in pediatric patients 10 years of age and older who weigh 25 kg or more. OCREVUS is a CD20-directed cytolytic antibody indicated for the treatment of: Relapsing forms of multiple sclerosis (MS), to include clinically isolated syndrome, relapsing-remitting disease, and active secondary progressive disease, in adults ( 1 ) Primary progressive MS, in adults ( 1 ) Relapsing-remitting MS, in pediatric patients 10 years of age and older who weigh 25 kg or more ( 1 )",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "OCREVUS"
+    ],
+    "openfda_generic_names": [
+      "OCRELIZUMAB"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b216af61-99d0-42a3-afc2-b5bf86df1ec0",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Progressive Multiple Sclerosis (PMS)",
+    "slug": "progressive-multiple-sclerosis-pms"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT03523858",
+      "title": "A Study to Evaluate Ocrelizumab Treatment in Participants With Progressive Multiple Sclerosis",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT03523858",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42836361",
+        "title": "Targeted therapies in pemphigus vulgaris: Emerging horizons beyond rituximab.",
+        "pubdate": "2026 Oct 6",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42836361/"
+      },
+      {
+        "pmid": "42832215",
+        "title": "Ten Years of Ocrelizumab in Relapsing Multiple Sclerosis: The OPERA I and II Randomized Clinical Trials.",
+        "pubdate": "2026 Oct 5",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42832215/"
+      },
+      {
+        "pmid": "42530333",
+        "title": "Two Years of Ocrelizumab Treatment in Black and Hispanic People with Multiple Sclerosis in CHIMES: A Single-Arm Clinical Trial.",
+        "pubdate": "2026 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42530333/"
+      },
+      {
+        "pmid": "42384870",
+        "title": "Rituximab versus Ocrelizumab in Newly Diagnosed Relapsing Multiple Sclerosis.",
+        "pubdate": "2026 Jul 2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42384870/"
+      },
+      {
+        "pmid": "42376811",
+        "title": "Longitudinal magnetic resonance spectroscopy study of metabolite changes over 2 years in relapsing and primary progressive multiple sclerosis treated with ocrelizumab.",
+        "pubdate": "2026 Jun 30",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42376811/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "YTTRIUM Y 90 IBRITUMOMAB TIUXETAN",
+        "chembl_id": "CHEMBL2108667",
+        "reason": "same target: B-lymphocyte antigen CD20"
+      },
+      {
+        "name": "RITUXIMAB",
+        "chembl_id": "CHEMBL1201576",
+        "reason": "same target: B-lymphocyte antigen CD20"
+      },
+      {
+        "name": "OFATUMUMAB",
+        "chembl_id": "CHEMBL1201836",
+        "reason": "same target: B-lymphocyte antigen CD20"
+      },
+      {
+        "name": "TOSITUMOMAB",
+        "chembl_id": "CHEMBL1201604",
+        "reason": "same target: B-lymphocyte antigen CD20"
+      },
+      {
+        "name": "OBINUTUZUMAB",
+        "chembl_id": "CHEMBL1743048",
+        "reason": "same target: B-lymphocyte antigen CD20"
+      },
+      {
+        "name": "UBLITUXIMAB",
+        "chembl_id": "CHEMBL2108354",
+        "reason": "same target: B-lymphocyte antigen CD20"
+      },
+      {
+        "name": "VELTUZUMAB",
+        "chembl_id": "CHEMBL1743088",
+        "reason": "same target: B-lymphocyte antigen CD20"
+      },
+      {
+        "name": "TOSITUMOMAB 131I",
+        "chembl_id": "CHEMBL3833304",
+        "reason": "same target: B-lymphocyte antigen CD20"
+      },
+      {
+        "name": "OCARATUZUMAB",
+        "chembl_id": "CHEMBL2109665",
+        "reason": "same target: B-lymphocyte antigen CD20"
+      },
+      {
+        "name": "LFB-R603",
+        "chembl_id": "CHEMBL2109348",
+        "reason": "same target: B-lymphocyte antigen CD20"
+      }
+    ]
+  }
+}
