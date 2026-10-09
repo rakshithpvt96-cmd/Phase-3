@@ -1,15 +1,21 @@
 {
   "drug_name": "Paclitaxel",
   "slug": "paclitaxel",
-  "enriched_at": "2026-09-28T15:13:48Z",
+  "enriched_at": "2026-10-09T14:14:26Z",
   "source_trial_ids": [
     "NCT04704934",
     "NCT05116462",
+    "NCT05984277",
     "NCT06018337",
-    "NCT06279364",
     "NCT06619236"
   ],
   "sponsors": [
+    {
+      "name": "AstraZeneca",
+      "ticker": "AZN",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000901832&type=10-K&dateb=&owner=include&count=40"
+    },
     {
       "name": "Daiichi Sankyo",
       "ticker": null,
@@ -33,12 +39,6 @@
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Innovent%20Biologics%20%28Suzhou%29%20Co.%20Ltd.&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
-      "name": "Sichuan Kelun-Biotech Biopharmaceutical Co., Ltd.",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Sichuan%20Kelun-Biotech%20Biopharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
@@ -78,8 +78,8 @@
     "further_reading": null
   },
   "condition": {
-    "raw": "Triple Negative Breast Cancer",
-    "slug": "triple-negative-breast-cancer"
+    "raw": "Metastatic Breast Cancer",
+    "slug": "metastatic-breast-cancer"
   },
   "source_trials": [
     {
@@ -97,17 +97,17 @@
       "has_results": false
     },
     {
+      "nct_id": "NCT05984277",
+      "title": "A Global Study of Volrustomig (MEDI5752) Plus Chemotherapy Versus Pembrolizumab Plus Chemotherapy for Participants With Metastatic Non-small Cell Lung Cancer.",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05984277",
+      "has_results": false
+    },
+    {
       "nct_id": "NCT06018337",
       "title": "A Study of DB-1303/BNT323 vs Investigator's Choice Chemotherapy in HER2-Low, Hormone Receptor Positive Metastatic Breast Cancer (DYNASTY-Breast02)",
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT06018337",
-      "has_results": false
-    },
-    {
-      "nct_id": "NCT06279364",
-      "title": "A Study of SKB264 Versus Investigator's Choice Chemotherapy in Patients With Unresectable Recurrent or Metastatic Triple-Negative Breast Cancer",
-      "status": "RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06279364",
       "has_results": false
     },
     {
@@ -122,34 +122,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42821287",
+        "title": "Rethinking Treatment Intensification in Poorly Chemosensitive Ovarian Cancer: A Review.",
+        "pubdate": "2026 Oct 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42821287/"
+      },
+      {
+        "pmid": "42816596",
+        "title": "Intravenous hyaluronidase-expressing oncolytic adenovirus with chemotherapy in metastatic pancreatic cancer: a randomized phase 2b trial.",
+        "pubdate": "2026 Sep 30",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42816596/"
+      },
+      {
+        "pmid": "42816421",
+        "title": "Neoadjuvant Anlotinib Plus Paclitaxel-Cisplatin for Technically Resectable Locally Advanced Head and Neck Squamous Cell Carcinoma: A Prospective Single-Arm Phase II Study.",
+        "pubdate": "2026 Sep 30",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42816421/"
+      },
+      {
+        "pmid": "42811017",
+        "title": "Motixafortide, cemiplimab, gemcitabine and nab-paclitaxel in metastatic pancreatic cancer: a single-arm phase 2 study with single-cell correlatives.",
+        "pubdate": "2026 Aug 21",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42811017/"
+      },
+      {
         "pmid": "42782448",
         "title": "Efficacy and Safety of EG12014 (Biosimilar Trastuzumab) Compared to Reference Trastuzumab in HER2-Positive Early Breast Cancer: A Phase III Randomized Study.",
         "pubdate": "2026 Sep 24",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42782448/"
-      },
-      {
-        "pmid": "42763280",
-        "title": "A Phase I Study of Nab-Paclitaxel, Gemcitabine and AZD1775 for Treatment of Metastatic Adenocarcinoma of the Pancreas: ECOG-ACRIN EA2131.",
-        "pubdate": "2026 Sep 2",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42763280/"
-      },
-      {
-        "pmid": "42750137",
-        "title": "Preventive effect of goshajinkigan on paclitaxel-induced peripheral neuropathy: an open-label, randomized phase II study (OLCSG2101).",
-        "pubdate": "2026 Sep 9",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42750137/"
-      },
-      {
-        "pmid": "42743886",
-        "title": "Circulating free bacterial DNA as a novel biomarker for monitoring therapy response in patients with advanced pancreatic cancer.",
-        "pubdate": "2026 Sep 10",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42743886/"
-      },
-      {
-        "pmid": "42742872",
-        "title": "Induction FLOT Chemotherapy Prior to Neoadjuvant Chemoradiotherapy in the Treatment of Lower Esophageal and Proximal Gastric Adenocarcinoma: A Phase II, Single-Arm Clinical Trial.",
-        "pubdate": "2026 Sep 15",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42742872/"
       }
     ]
   },

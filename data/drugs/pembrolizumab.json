@@ -1,13 +1,20 @@
 {
   "drug_name": "Pembrolizumab",
   "slug": "pembrolizumab",
-  "enriched_at": "2026-10-01T14:21:44Z",
+  "enriched_at": "2026-10-09T14:14:33Z",
   "source_trial_ids": [
     "NCT03711032",
     "NCT05608291",
+    "NCT05984277",
     "NCT06980272"
   ],
   "sponsors": [
+    {
+      "name": "AstraZeneca",
+      "ticker": "AZN",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000901832&type=10-K&dateb=&owner=include&count=40"
+    },
     {
       "name": "Merck Sharp & Dohme LLC",
       "ticker": null,
@@ -77,6 +84,13 @@
       "has_results": false
     },
     {
+      "nct_id": "NCT05984277",
+      "title": "A Global Study of Volrustomig (MEDI5752) Plus Chemotherapy Versus Pembrolizumab Plus Chemotherapy for Participants With Metastatic Non-small Cell Lung Cancer.",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05984277",
+      "has_results": false
+    },
+    {
       "nct_id": "NCT06980272",
       "title": "SSGJ-707 in Advanced Non-Small Cell Lung Cancer",
       "status": "RECRUITING",
@@ -88,6 +102,24 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42836832",
+        "title": "Impact of PD-1 and PD-L1 inhibitors on patient-reported outcomes in esophageal squamous cell carcinoma: a systematic review of clinical trials.",
+        "pubdate": "2026 Oct 6",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42836832/"
+      },
+      {
+        "pmid": "42827783",
+        "title": "The clinical landscape of bladder cancer treatment: a brief report on new developments and future perspectives in pharmaceutical interventions.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42827783/"
+      },
+      {
+        "pmid": "42823821",
+        "title": "SUNRAY-02: a study of olomorasib combined with immunotherapy in stage II-III KRAS G12C-mutant non-small cell lung cancer after definitive therapy.",
+        "pubdate": "2026 Oct 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42823821/"
+      },
+      {
         "pmid": "42810020",
         "title": "Efficacy and safety of pembrolizumab-lenvatinib in metastatic endometrial cancer: results from the French multicenter early access program.",
         "pubdate": "2026 Sep 29",
@@ -98,24 +130,6 @@
         "title": "Adjuvant anti-TIGIT plus anti-PD-1 in melanoma: A necessary failure that clarifies the path forward.",
         "pubdate": "2026 Sep 28",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42805115/"
-      },
-      {
-        "pmid": "42797353",
-        "title": "Long-Term Survival Heterogeneity Across PD-L1-Defined Subgroups in Pembrolizumab-Treated Non-Small-Cell Lung Cancer: A Model-Based Analysis.",
-        "pubdate": "2026 Sep 17",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42797353/"
-      },
-      {
-        "pmid": "42777170",
-        "title": "Personalized Therapy in Advanced Cholangiocarcinoma: Contemporary Treatment Approaches and Future Directions.",
-        "pubdate": "2026 Sep 23",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42777170/"
-      },
-      {
-        "pmid": "42764956",
-        "title": "Current Perspectives on the Use of Adjuvant Pembrolizumab for Hepatocellular Carcinoma.",
-        "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42764956/"
       }
     ]
   },

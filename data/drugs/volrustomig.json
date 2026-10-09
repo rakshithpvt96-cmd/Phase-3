@@ -1,27 +1,27 @@
 {
-  "drug_name": "Empasiprubart",
-  "slug": "empasiprubart",
-  "enriched_at": "2026-10-09T14:13:41Z",
+  "drug_name": "Volrustomig",
+  "slug": "volrustomig",
+  "enriched_at": "2026-10-09T14:15:46Z",
   "source_trial_ids": [
-    "NCT06742190"
+    "NCT05984277"
   ],
   "sponsors": [
     {
-      "name": "argenx",
-      "ticker": null,
+      "name": "AstraZeneca",
+      "ticker": "AZN",
       "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=argenx&type=10-K&dateb=&owner=include&count=40"
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000901832&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
     "rxnorm": {
-      "rxcui": "2686298",
+      "rxcui": "2686222",
       "generic_name": null,
       "brand_names": []
     }
   },
   "mechanism": {
-    "chembl_id": "CHEMBL5314673",
+    "chembl_id": "CHEMBL5095362",
     "target_chembl_id": null,
     "target_name": null,
     "mechanism_of_action_chembl": null
@@ -38,21 +38,21 @@
     "dailymed_url": null,
     "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
     "further_reading": {
-      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Empasiprubart+mechanism+of+action",
-      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Empasiprubart+pharmacokinetics",
-      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Empasiprubart+efficacy+phase+3"
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Volrustomig+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Volrustomig+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Volrustomig+efficacy+phase+3"
     }
   },
   "condition": {
-    "raw": "Multifocal Motor Neuropathy (MMN)",
-    "slug": "multifocal-motor-neuropathy-mmn"
+    "raw": "Metastatic Non-small Cell Lung Cancer",
+    "slug": "metastatic-non-small-cell-lung-cancer"
   },
   "source_trials": [
     {
-      "nct_id": "NCT06742190",
-      "title": "A Study to Assess the Efficacy and Safety of Empasiprubart Versus IVIg in Adults With Multifocal Motor Neuropathy",
+      "nct_id": "NCT05984277",
+      "title": "A Global Study of Volrustomig (MEDI5752) Plus Chemotherapy Versus Pembrolizumab Plus Chemotherapy for Participants With Metastatic Non-small Cell Lung Cancer.",
       "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06742190",
+      "url": "https://clinicaltrials.gov/study/NCT05984277",
       "has_results": false
     }
   ],

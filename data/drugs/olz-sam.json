@@ -1,7 +1,7 @@
 {
   "drug_name": "OLZ/SAM",
   "slug": "olz-sam",
-  "enriched_at": "2026-10-02T13:45:29Z",
+  "enriched_at": "2026-10-09T14:18:55Z",
   "source_trial_ids": [
     "NCT05303064"
   ],
@@ -94,6 +94,12 @@
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": []
+    "items": [
+      {
+        "name": "SEP-363856",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Otsuka Pharmaceutical Development & Commercialization, Inc."
+      }
+    ]
   }
 }

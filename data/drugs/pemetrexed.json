@@ -1,12 +1,11 @@
 {
   "drug_name": "Pemetrexed",
   "slug": "pemetrexed",
-  "enriched_at": "2026-09-23T12:40:12Z",
+  "enriched_at": "2026-10-09T14:14:46Z",
   "source_trial_ids": [
     "NCT05116462",
-    "NCT05261399",
+    "NCT05984277",
     "NCT06417814",
-    "NCT06564844",
     "NCT06624059",
     "NCT06687369",
     "NCT06927986"
@@ -75,13 +74,13 @@
     "openfda_generic_names": [
       "PEMETREXED DISODIUM"
     ],
-    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=caef07ce-066b-4c48-98dc-974b05ebbbe0",
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fa8f1f52-3f05-4ae8-bfec-7f0a029e6825",
     "note": null,
     "further_reading": null
   },
   "condition": {
-    "raw": "Carcinoma",
-    "slug": "carcinoma"
+    "raw": "EGFR-mutated Locally Advanced or Metastatic NSCLC",
+    "slug": "egfr-mutated-locally-advanced-or-metastatic-nsclc"
   },
   "source_trials": [
     {
@@ -92,10 +91,10 @@
       "has_results": false
     },
     {
-      "nct_id": "NCT05261399",
-      "title": "Savolitinib Plus Osimertinib Versus Platinum-based Doublet Chemotherapy in Participants With Non-Small Cell Lung Cancer Who Have Progressed on Osimertinib Treatment",
+      "nct_id": "NCT05984277",
+      "title": "A Global Study of Volrustomig (MEDI5752) Plus Chemotherapy Versus Pembrolizumab Plus Chemotherapy for Participants With Metastatic Non-small Cell Lung Cancer.",
       "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT05261399",
+      "url": "https://clinicaltrials.gov/study/NCT05984277",
       "has_results": false
     },
     {
@@ -103,13 +102,6 @@
       "title": "A Study to Investigate the Efficacy and Safety of Dato-DXd With or Without Osimertinib Compared With Platinum Based Doublet Chemotherapy in Participants With EGFR-Mutated Locally Advanced or Metastatic Non-Small Cell Lung Cancer",
       "status": "RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT06417814",
-      "has_results": false
-    },
-    {
-      "nct_id": "NCT06564844",
-      "title": "A Phase III, Randomised Study of Adjuvant Dato-DXd in Combination With Rilvegostomig or Rilvegostomig Monotherapy Versus Standard of Care, Following Complete Tumour Resection, in Participants With Stage I Adenocarcinoma NSCLC Who Are ctDNA-positive or Have High-risk Pathological Features",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06564844",
       "has_results": false
     },
     {
@@ -146,7 +138,7 @@
       {
         "pmid": "42728535",
         "title": "Osimertinib Plus Platinum-Pemetrexed: A Review in Previously Untreated, EGFR-Mutated, Locally Advanced or Metastatic NSCLC.",
-        "pubdate": "2026 Sep 11",
+        "pubdate": "2026 Sep",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42728535/"
       },
       {
