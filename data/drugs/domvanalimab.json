@@ -1,7 +1,7 @@
 {
   "drug_name": "Domvanalimab",
   "slug": "domvanalimab",
-  "enriched_at": "2026-10-03T12:20:26Z",
+  "enriched_at": "2026-10-10T13:25:22Z",
   "source_trial_ids": [
     "NCT05211895",
     "NCT05568095"
@@ -28,10 +28,10 @@
     }
   },
   "mechanism": {
-    "chembl_id": "CHEMBL4650392",
-    "target_chembl_id": "CHEMBL4630878",
-    "target_name": "T-cell immunoreceptor with Ig and ITIM domains",
-    "mechanism_of_action_chembl": "T-cell immunoreceptor with Ig and ITIM domains inhibitor"
+    "chembl_id": null,
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
   },
   "fda_label": {
     "has_label": false,
@@ -88,38 +88,48 @@
     ]
   },
   "related_drugs": {
-    "method": "chembl_same_target",
+    "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
     "items": [
       {
-        "name": "TIRAGOLUMAB",
-        "chembl_id": "CHEMBL4298050",
-        "reason": "same target: T-cell immunoreceptor with Ig and ITIM domains"
+        "name": "Alectinib",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Hoffmann-La Roche"
       },
       {
-        "name": "VIBOSTOLIMAB",
-        "chembl_id": "CHEMBL4297785",
-        "reason": "same target: T-cell immunoreceptor with Ig and ITIM domains"
+        "name": "Cisplatin",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Hoffmann-La Roche"
       },
       {
-        "name": "IBI-939",
-        "chembl_id": "CHEMBL4650473",
-        "reason": "same target: T-cell immunoreceptor with Ig and ITIM domains"
+        "name": "Carboplatin",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Hoffmann-La Roche"
       },
       {
-        "name": "OCIPERLIMAB",
-        "chembl_id": "CHEMBL4650411",
-        "reason": "same target: T-cell immunoreceptor with Ig and ITIM domains"
+        "name": "Pemetrexed",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Hoffmann-La Roche"
       },
       {
-        "name": "ASP-8374",
-        "chembl_id": "CHEMBL4297894",
-        "reason": "same target: T-cell immunoreceptor with Ig and ITIM domains"
+        "name": "BL-B01D1",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Sichuan Baili Pharmaceutical Co., Ltd."
       },
       {
-        "name": "ETIGILIMAB",
-        "chembl_id": "CHEMBL4298205",
-        "reason": "same target: T-cell immunoreceptor with Ig and ITIM domains"
+        "name": "Pemetrexed+Cisplatin or Carboplatin",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Sichuan Baili Pharmaceutical Co., Ltd."
+      },
+      {
+        "name": "JDQ443",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Novartis Pharmaceuticals"
+      },
+      {
+        "name": "docetaxel",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Novartis Pharmaceuticals"
       }
     ]
   }

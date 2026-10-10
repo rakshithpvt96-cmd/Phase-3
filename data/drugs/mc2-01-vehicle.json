@@ -1,7 +1,7 @@
 {
   "drug_name": "MC2-01 vehicle",
   "slug": "mc2-01-vehicle",
-  "enriched_at": "2026-10-03T12:21:53Z",
+  "enriched_at": "2026-10-10T13:34:23Z",
   "source_trial_ids": [
     "NCT07357831"
   ],
@@ -21,7 +21,7 @@
     }
   },
   "mechanism": {
-    "chembl_id": "CHEMBL2108661",
+    "chembl_id": null,
     "target_chembl_id": null,
     "target_name": null,
     "mechanism_of_action_chembl": null
@@ -60,6 +60,12 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42853353",
+        "title": "Infraorbital Skin Application of Menthol Emulsion for Dry Eye Disease: A Randomized Clinical Trial.",
+        "pubdate": "2026 Oct 9",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42853353/"
+      },
+      {
         "pmid": "42823075",
         "title": "Nephroprotective Effects of the Dual GCGR/GLP-1R Agonist Survodutide in Hypertension-Accelerated Diabetic Kidney Disease.",
         "pubdate": "2026 Oct 1",
@@ -82,12 +88,6 @@
         "title": "Advancements in CRISPR-based in vivo gene therapy for hemophilia.",
         "pubdate": "2026",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42787633/"
-      },
-      {
-        "pmid": "42776548",
-        "title": "Efficacy and Safety of Ruxolitinib Cream in Patients With Cutaneous Lichen Planus: A Randomized Clinical Trial.",
-        "pubdate": "2026 Sep 23",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42776548/"
       }
     ]
   },

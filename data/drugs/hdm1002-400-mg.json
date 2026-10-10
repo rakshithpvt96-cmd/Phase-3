@@ -1,7 +1,7 @@
 {
   "drug_name": "HDM1002 400 mg",
   "slug": "hdm1002-400-mg",
-  "enriched_at": "2026-10-03T12:21:26Z",
+  "enriched_at": "2026-10-10T13:29:29Z",
   "source_trial_ids": [
     "NCT07193459"
   ],
@@ -79,6 +79,16 @@
         "name": "Placebo",
         "chembl_id": null,
         "reason": "same indication trial, sponsor: Eli Lilly and Company"
+      },
+      {
+        "name": "Farxiga® (dapagliflozin) + Onglyza® (saxagliptin) + Metformin Oral Mix Treat type 2 diabetes",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Han Xu, M.D., Ph.D., FAPCR, Medical Director,, IRB Chair"
+      },
+      {
+        "name": "China Import (dapagliflozin) + China Import (saxagliptin) + Metformin Oral Mix Treat type 2 diabetes",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Han Xu, M.D., Ph.D., FAPCR, Medical Director,, IRB Chair"
       }
     ]
   }

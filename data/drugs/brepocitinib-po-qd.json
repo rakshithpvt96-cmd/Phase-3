@@ -1,7 +1,7 @@
 {
   "drug_name": "Brepocitinib PO QD",
   "slug": "brepocitinib-po-qd",
-  "enriched_at": "2026-10-03T12:20:13Z",
+  "enriched_at": "2026-10-10T13:24:24Z",
   "source_trial_ids": [
     "NCT06431373"
   ],
@@ -15,13 +15,13 @@
   ],
   "identity": {
     "rxnorm": {
-      "rxcui": "2717689",
-      "generic_name": null,
+      "rxcui": "2751486",
+      "generic_name": "brepocitinib",
       "brand_names": []
     }
   },
   "mechanism": {
-    "chembl_id": "CHEMBL4747591",
+    "chembl_id": null,
     "target_chembl_id": null,
     "target_name": null,
     "mechanism_of_action_chembl": null

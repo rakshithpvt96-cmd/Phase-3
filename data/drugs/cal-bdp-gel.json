@@ -1,7 +1,7 @@
 {
   "drug_name": "CAL/BDP Gel",
   "slug": "cal-bdp-gel",
-  "enriched_at": "2026-10-03T12:20:44Z",
+  "enriched_at": "2026-10-10T13:27:01Z",
   "source_trial_ids": [
     "NCT07357831"
   ],
@@ -21,10 +21,10 @@
     }
   },
   "mechanism": {
-    "chembl_id": "CHEMBL2109562",
-    "target_chembl_id": "CHEMBL3712869",
-    "target_name": "Parathyroid hormone-related protein",
-    "mechanism_of_action_chembl": "Parathyroid hormone-related protein inhibitor"
+    "chembl_id": null,
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
   },
   "fda_label": {
     "has_label": false,
