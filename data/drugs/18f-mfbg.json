@@ -1,7 +1,7 @@
 {
   "drug_name": "18F-MFBG",
   "slug": "18f-mfbg",
-  "enriched_at": "2026-10-04T13:36:13Z",
+  "enriched_at": "2026-10-11T13:51:48Z",
   "source_trial_ids": [
     "NCT04724369"
   ],
@@ -66,6 +66,12 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42853990",
+        "title": "68Ga-DOTATATE PET/CT Detection of Hypertrophic Osteoarthropathy in a Pediatric Patient With Neuroblastoma Following Anti-GD2 Immunotherapy.",
+        "pubdate": "2026 Nov 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42853990/"
+      },
+      {
         "pmid": "42335300",
         "title": "Prominent 18F-MFBG Uptake in Brown Adipose Tissue in a Pediatric Patient With Pheochromocytoma.",
         "pubdate": "2026 Oct 1",
@@ -88,12 +94,6 @@
         "title": "False Uptake of 18F-MFBG and 68Ga-DOTATATE in the Stellate Ganglion in a Pediatric Patient With Neuroblastoma.",
         "pubdate": "2026 Aug 1",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41894584/"
-      },
-      {
-        "pmid": "40924149",
-        "title": "[(18)F]MFBG PET/CT imaging of myocardial sympathetic innervation in healthy controls and patients with parkinson's disease: dosimetry and pharmacokinetics.",
-        "pubdate": "2026 Jan",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/40924149/"
       }
     ]
   },
