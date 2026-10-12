@@ -1,7 +1,7 @@
 {
   "drug_name": "CM310",
   "slug": "cm310",
-  "enriched_at": "2026-10-05T18:08:44Z",
+  "enriched_at": "2026-10-12T18:46:38Z",
   "source_trial_ids": [
     "NCT06495229"
   ],
@@ -60,6 +60,12 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42858405",
+        "title": "Stapokibart (CM310) in Atopic Dermatitis: A Narrative Review of a Next-Generation IL-4Rα Antagonist.",
+        "pubdate": "2026 Jul 31",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42858405/"
+      },
+      {
         "pmid": "40051426",
         "title": "Stapokibart (CM310) in patients with uncontrolled seasonal allergic rhinitis (PHECDA): Rationale and design of a multicentre, randomized, double-blind, placebo-controlled study.",
         "pubdate": "2025 Mar",
@@ -82,12 +88,6 @@
         "title": "Long-Term Efficacy and Safety of Stapokibart in Adults with Moderate-to-Severe Atopic Dermatitis: An Open-Label Extension, Nonrandomized Clinical Trial.",
         "pubdate": "2024 Sep",
         "url": "https://pubmed.ncbi.nlm.nih.gov/39080181/"
-      },
-      {
-        "pmid": "39064040",
-        "title": "A Comprehensive Review of Biologics in Phase III and IV Clinical Trials for Atopic Dermatitis.",
-        "pubdate": "2024 Jul 9",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/39064040/"
       }
     ]
   },
@@ -124,6 +124,16 @@
         "name": "Dupilumab",
         "chembl_id": null,
         "reason": "same indication trial, sponsor: Regeneron Pharmaceuticals"
+      },
+      {
+        "name": "Tralokinumab + TCS",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: LEO Pharma"
+      },
+      {
+        "name": "Placebo + TCS",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: LEO Pharma"
       }
     ]
   }

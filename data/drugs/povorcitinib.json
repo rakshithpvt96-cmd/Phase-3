@@ -1,7 +1,7 @@
 {
   "drug_name": "Povorcitinib",
   "slug": "povorcitinib",
-  "enriched_at": "2026-10-05T18:19:06Z",
+  "enriched_at": "2026-10-12T18:54:12Z",
   "source_trial_ids": [
     "NCT06516952",
     "NCT06516965"
@@ -113,6 +113,11 @@
         "name": "Placebo",
         "chembl_id": null,
         "reason": "same indication trial, sponsor: Shanghai Mabgeek Biotech.Co.Ltd"
+      },
+      {
+        "name": "Nemolizumab",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Galderma R&D"
       }
     ]
   }

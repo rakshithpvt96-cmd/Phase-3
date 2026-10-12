@@ -1,7 +1,7 @@
 {
   "drug_name": "DT120",
   "slug": "dt120",
-  "enriched_at": "2026-10-05T18:10:26Z",
+  "enriched_at": "2026-10-12T18:48:02Z",
   "source_trial_ids": [
     "NCT06741228",
     "NCT06809595"
@@ -68,7 +68,14 @@
   ],
   "prior_results": {
     "ctgov_results_urls": [],
-    "pubmed_articles": []
+    "pubmed_articles": [
+      {
+        "pmid": "42848417",
+        "title": "DT120 (MM120): a single-dose orally disintegrating formulation of lysergide tartrate for generalized anxiety disorder.",
+        "pubdate": "2026 Oct 8",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42848417/"
+      }
+    ]
   },
   "related_drugs": {
     "method": "ctgov_same_condition",
