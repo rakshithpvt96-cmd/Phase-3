@@ -1,0 +1,105 @@
+{
+  "drug_name": "Inclisiran sodium 300 mg",
+  "slug": "inclisiran-sodium-300-mg",
+  "enriched_at": "2026-10-12T16:34:46Z",
+  "source_trial_ids": [
+    "NCT05360446"
+  ],
+  "sponsors": [
+    {
+      "name": "Novartis Pharmaceuticals",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Novartis%20Pharmaceuticals&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2588259",
+      "generic_name": "inclisiran sodium",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL5095052",
+    "target_chembl_id": "CHEMBL4630662",
+    "target_name": "PCSK9 mRNA",
+    "mechanism_of_action_chembl": "PCSK9 mRNA rnai inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Inclisiran%20sodium%20300%20mg+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Inclisiran%20sodium%20300%20mg+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Inclisiran%20sodium%20300%20mg+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Coronary Artery Disease",
+    "slug": "coronary-artery-disease"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05360446",
+      "title": "Coronary Computed Tomography Study to Assess the Effect of Inclisiran in Addition to Maximally Tolerated Statin Therapy on Atherosclerotic Plaque Progression in Participants With a Diagnosis of Non-obstructive Coronary Artery Disease Without Previous Cardiovascular Events",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05360446",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42203164",
+        "title": "Design of VICTORION-2 Prevent: A randomized double-blind, placebo-controlled trial, assessing the impact of inclisiran on major adverse cardiovascular events in patients with established cardiovascular disease.",
+        "pubdate": "2026 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42203164/"
+      },
+      {
+        "pmid": "41616799",
+        "title": "Efficacy and safety of inclisiran in adolescents with heterozygous familial hypercholesterolaemia (ORION-16): a two-part, randomised, multicentre clinical trial.",
+        "pubdate": "2026 Mar",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41616799/"
+      },
+      {
+        "pmid": "40884558",
+        "title": "Inclisiran-based treatment strategy in hypercholesterolaemia: the VICTORION-difference trial.",
+        "pubdate": "2026 Jul 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40884558/"
+      },
+      {
+        "pmid": "40436308",
+        "title": "Design and rationale of the VICTORION-Difference study: A phase 4 randomized, double-blind, placebo-controlled clinical trial to assess inclisiran's early efficacy, safety, tolerability, as well as its impact on quality of life in individuals with hypercholesterolemia.",
+        "pubdate": "2025 Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40436308/"
+      },
+      {
+        "pmid": "40391436",
+        "title": "Efficacy and Safety of Inclisiran in Adolescents With Genetically Confirmed Homozygous Familial Hypercholesterolemia: Results From the Double-Blind, Placebo-Controlled Part of the ORION-13 Randomized Trial.",
+        "pubdate": "2025 Jun 24",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40391436/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "INCLISIRAN",
+        "chembl_id": "CHEMBL3990033",
+        "reason": "same target: PCSK9 mRNA"
+      }
+    ]
+  }
+}

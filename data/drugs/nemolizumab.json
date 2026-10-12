@@ -1,9 +1,10 @@
 {
   "drug_name": "Nemolizumab",
   "slug": "nemolizumab",
-  "enriched_at": "2026-09-16T12:30:41Z",
+  "enriched_at": "2026-10-12T16:34:52Z",
   "source_trial_ids": [
-    "NCT03989206"
+    "NCT03989206",
+    "NCT04204616"
   ],
   "sponsors": [
     {
@@ -54,11 +55,30 @@
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT03989206",
       "has_results": false
+    },
+    {
+      "nct_id": "NCT04204616",
+      "title": "A Long-term Study of Nemolizumab (CD14152) in Participants With Prurigo Nodularis (PN)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04204616",
+      "has_results": false
     }
   ],
   "prior_results": {
     "ctgov_results_urls": [],
     "pubmed_articles": [
+      {
+        "pmid": "42826149",
+        "title": "Off-Label Uses of Nemolizumab: A Narrative Review.",
+        "pubdate": "2026 Oct 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42826149/"
+      },
+      {
+        "pmid": "42771135",
+        "title": "Development of a Conceptual Disease Model of Atopic Dermatitis Using Data from the Phase 3 ARCADIA 1 Trial.",
+        "pubdate": "2026 Sep 22",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42771135/"
+      },
       {
         "pmid": "42696343",
         "title": ": Interleukin-31 in Atopic Dermatitis and Prurigo Nodularis: Pathophysiology, Neuroimmune Mechanisms, and Clinical Efficacy of Nemolizumab.",
@@ -76,18 +96,6 @@
         "title": "[Chronic prurigo: overview of pathophysiology, diagnosis, and treatment].",
         "pubdate": "2026 Jul",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42228089/"
-      },
-      {
-        "pmid": "41903084",
-        "title": "Clinical Trial Comparison of Dupilumab and Nemolizumab for Prurigo Nodularis FDA-Approved Biologic Therapy Selection in Prurigo Nodularis.",
-        "pubdate": "2026 May",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41903084/"
-      },
-      {
-        "pmid": "41712432",
-        "title": "Targeting the neuroimmune axis in prurigo nodularis: a critical appraisal of the nemolizumab trials.",
-        "pubdate": "2026 Jan-Feb",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41712432/"
       }
     ]
   },
