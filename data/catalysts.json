@@ -1,142 +1,12 @@
 {
-  "generated_at": "2026-10-12T18:44:38Z",
+  "generated_at": "2026-10-13T14:52:13Z",
   "window_upcoming_days": 14,
   "window_lookback_days": [
     1,
     90
   ],
-  "trial_count": 262,
+  "trial_count": 258,
   "trials": [
-    {
-      "nct_id": "NCT05583227",
-      "title": "Efficacy and Safety of Tezepelumab in Patients With Eosinophilic Esophagitis",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "AstraZeneca",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-07-14",
-      "primary_completion_date_type": "ACTUAL",
-      "window": "lookback",
-      "conditions": [
-        "Eosinophilic Esophagitis"
-      ],
-      "interventions": [
-        {
-          "name": "Tezepelumab",
-          "type": "BIOLOGICAL"
-        },
-        {
-          "name": "Tezepelumab",
-          "type": "BIOLOGICAL"
-        },
-        {
-          "name": "Placebo",
-          "type": "OTHER"
-        }
-      ],
-      "drug_names": [
-        "Tezepelumab"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT05583227",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "AstraZeneca",
-        "ticker": "AZN",
-        "cik": "0000901832",
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000901832&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-11T13:51:01Z"
-      }
-    },
-    {
-      "nct_id": "NCT05995340",
-      "title": "ELAPR002f Injectable Gel in the Treatment of Atrophic Acne Scars",
-      "status": "COMPLETED",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "AbbVie",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-07-14",
-      "primary_completion_date_type": "ACTUAL",
-      "window": "lookback",
-      "conditions": [
-        "Atrophic Acne Scars"
-      ],
-      "interventions": [
-        {
-          "name": "ELAPR002f Injectable Gel",
-          "type": "DEVICE"
-        },
-        {
-          "name": "Saline Active Control",
-          "type": "OTHER"
-        }
-      ],
-      "drug_names": [],
-      "url": "https://clinicaltrials.gov/study/NCT05995340",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "AbbVie",
-        "ticker": "ABBV",
-        "cik": "0001551152",
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001551152&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-11T13:50:56Z"
-      }
-    },
-    {
-      "nct_id": "NCT06571045",
-      "title": "A Study to Evaluate the Efficacy and Safety of 2 Doses of EYE103 Compared With Ranibizumab (0.5 mg) in Participants With DME",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "phases": [
-        "PHASE2",
-        "PHASE3"
-      ],
-      "sponsor": "EyeBiotech Ltd.",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-07-14",
-      "primary_completion_date_type": "ACTUAL",
-      "window": "lookback",
-      "conditions": [
-        "Diabetic Macular Edema (DME)"
-      ],
-      "interventions": [
-        {
-          "name": "Ranibizumab",
-          "type": "DRUG"
-        },
-        {
-          "name": "EYE103",
-          "type": "DRUG"
-        }
-      ],
-      "drug_names": [
-        "Ranibizumab",
-        "EYE103"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT06571045",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "EyeBiotech Ltd.",
-        "ticker": null,
-        "cik": null,
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=EyeBiotech%20Ltd.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-07T14:18:07Z"
-      }
-    },
     {
       "nct_id": "NCT05152147",
       "title": "A Study of Zanidatamab in Combination With Chemotherapy Plus or Minus Tislelizumab in Patients With HER2-positive Advanced or Metastatic Gastric and Esophageal Cancers",
@@ -1885,53 +1755,6 @@
       }
     },
     {
-      "nct_id": "NCT07064486",
-      "title": "A Study of BGM0504 in Participants With Type 2 Diabetes in Indonesia",
-      "status": "RECRUITING",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "BrightGene Bio-Medical Technology Co., Ltd.",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-07-31",
-      "primary_completion_date_type": "ESTIMATED",
-      "window": "lookback",
-      "conditions": [
-        "Type 2 Diabetes (T2DM)"
-      ],
-      "interventions": [
-        {
-          "name": "BGM0504",
-          "type": "DRUG"
-        },
-        {
-          "name": "BGM0504",
-          "type": "DRUG"
-        },
-        {
-          "name": "Semaglutide",
-          "type": "DRUG"
-        }
-      ],
-      "drug_names": [
-        "BGM0504",
-        "Semaglutide"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT07064486",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "BrightGene Bio-Medical Technology Co., Ltd.",
-        "ticker": null,
-        "cik": null,
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=BrightGene%20Bio-Medical%20Technology%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-11T13:51:06Z"
-      }
-    },
-    {
       "nct_id": "NCT07272434",
       "title": "Phase III Clinical Trial of the Recombinant Respiratory Syncytial Virus Vaccine ( CHO Cell)",
       "status": "RECRUITING",
@@ -2477,49 +2300,6 @@
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Pharvaris%20Netherlands%20B.V.&type=10-K&dateb=&owner=include&count=40",
         "cached_at": "2026-10-11T13:51:21Z"
-      }
-    },
-    {
-      "nct_id": "NCT06775379",
-      "title": "A Randomized Study of Azetukalner Versus Placebo in Major Depressive Disorder",
-      "status": "RECRUITING",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "Xenon Pharmaceuticals Inc.",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-08",
-      "primary_completion_date_type": "ESTIMATED",
-      "window": "lookback",
-      "conditions": [
-        "Major Depressive Disorder"
-      ],
-      "interventions": [
-        {
-          "name": "Azetukalner",
-          "type": "DRUG"
-        },
-        {
-          "name": "Placebo",
-          "type": "DRUG"
-        }
-      ],
-      "drug_names": [
-        "Azetukalner",
-        "Placebo"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT06775379",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "Xenon Pharmaceuticals Inc.",
-        "ticker": "XENE",
-        "cik": "0001582313",
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001582313&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-11T13:51:22Z"
       }
     },
     {
@@ -3558,6 +3338,49 @@
       }
     },
     {
+      "nct_id": "NCT05267613",
+      "title": "Endoscopic Evidence of Maintenance of Healing With Oral NEXIUM in Patients 1 to 11 Years Old With Erosive Esophagitis.",
+      "status": "COMPLETED",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "AstraZeneca",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-08-10",
+      "primary_completion_date_type": "ACTUAL",
+      "window": "lookback",
+      "conditions": [
+        "Erosive Esophagitis"
+      ],
+      "interventions": [
+        {
+          "name": "Nexium 20mg",
+          "type": "DRUG"
+        },
+        {
+          "name": "Nexium 10mg",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "Nexium 20mg",
+        "Nexium 10mg"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT05267613",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "AstraZeneca",
+        "ticker": "AZN",
+        "cik": "0000901832",
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000901832&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-10-11T13:51:01Z"
+      }
+    },
+    {
       "nct_id": "NCT07215767",
       "title": "Clinical Study to Investigate the Antihypersensitivity Efficacy of a Novel Dentifrice",
       "status": "COMPLETED",
@@ -3881,49 +3704,6 @@
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Definium%20Therapeutics%20US%2C%20Inc.&type=10-K&dateb=&owner=include&count=40",
         "cached_at": "2026-10-11T13:51:12Z"
-      }
-    },
-    {
-      "nct_id": "NCT05267613",
-      "title": "Endoscopic Evidence of Maintenance of Healing With Oral NEXIUM in Patients 1 to 11 Years Old With Erosive Esophagitis.",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "AstraZeneca",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-08-14",
-      "primary_completion_date_type": "ESTIMATED",
-      "window": "lookback",
-      "conditions": [
-        "Erosive Esophagitis"
-      ],
-      "interventions": [
-        {
-          "name": "Nexium 20mg",
-          "type": "DRUG"
-        },
-        {
-          "name": "Nexium 10mg",
-          "type": "DRUG"
-        }
-      ],
-      "drug_names": [
-        "Nexium 20mg",
-        "Nexium 10mg"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT05267613",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "AstraZeneca",
-        "ticker": "AZN",
-        "cik": "0000901832",
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000901832&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-11T13:51:01Z"
       }
     },
     {
@@ -9863,6 +9643,49 @@
       }
     },
     {
+      "nct_id": "NCT06775379",
+      "title": "A Randomized Study of Azetukalner Versus Placebo in Major Depressive Disorder",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Xenon Pharmaceuticals Inc.",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-10",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "lookback",
+      "conditions": [
+        "Major Depressive Disorder"
+      ],
+      "interventions": [
+        {
+          "name": "Azetukalner",
+          "type": "DRUG"
+        },
+        {
+          "name": "Placebo",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "Azetukalner",
+        "Placebo"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06775379",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Xenon Pharmaceuticals Inc.",
+        "ticker": "XENE",
+        "cik": "0001582313",
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001582313&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-10-11T13:51:22Z"
+      }
+    },
+    {
       "nct_id": "NCT06866236",
       "title": "Use of New Drug QRX-3 for Prevention and Treatment of Chronic Kidney Disease Progression",
       "status": "NOT_YET_RECRUITING",
@@ -10862,7 +10685,7 @@
       "sponsor_class": "INDUSTRY",
       "primary_completion_date": "2026-10-12",
       "primary_completion_date_type": "ESTIMATED",
-      "window": "upcoming",
+      "window": "lookback",
       "conditions": [
         "Paroxysmal Nocturnal Hemoglobinuria"
       ],
@@ -10915,7 +10738,7 @@
       "sponsor_class": "INDUSTRY",
       "primary_completion_date": "2026-10-12",
       "primary_completion_date_type": "ESTIMATED",
-      "window": "upcoming",
+      "window": "lookback",
       "conditions": [
         "Metastatic Castrate-sensitive Prostate Cancer"
       ],
