@@ -1,9 +1,10 @@
 {
   "drug_name": "Pembrolizumab",
   "slug": "pembrolizumab",
-  "enriched_at": "2026-10-09T14:14:33Z",
+  "enriched_at": "2026-10-14T12:43:55Z",
   "source_trial_ids": [
     "NCT03711032",
+    "NCT05239728",
     "NCT05608291",
     "NCT05984277",
     "NCT06980272"
@@ -77,6 +78,13 @@
       "has_results": false
     },
     {
+      "nct_id": "NCT05239728",
+      "title": "A Study of Belzutifan (MK-6482) Plus Pembrolizumab (MK-3475) Versus Placebo Plus Pembrolizumab in Participants With Clear Cell Renal Cell Carcinoma Post Nephrectomy (MK-6482-022)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05239728",
+      "has_results": false
+    },
+    {
       "nct_id": "NCT05608291",
       "title": "A Trial to See if the Combination of Fianlimab With Cemiplimab Works Better Than Pembrolizumab for Preventing or Delaying Melanoma From Coming Back After it Has Been Removed With Surgery",
       "status": "ACTIVE_NOT_RECRUITING",
@@ -102,6 +110,18 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42867445",
+        "title": "Combination therapies for the treatment of locally advanced and advanced cervical cancer.",
+        "pubdate": "2026 Oct 13",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42867445/"
+      },
+      {
+        "pmid": "42855246",
+        "title": "Pembrolizumab plus lenvatinib in the treatment of unresectable cutaneous angiosarcoma: a study protocol of multicentre, open-label phase II study (NCCH2213, PLAS).",
+        "pubdate": "2026 Oct 9",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42855246/"
+      },
+      {
         "pmid": "42836832",
         "title": "Impact of PD-1 and PD-L1 inhibitors on patient-reported outcomes in esophageal squamous cell carcinoma: a systematic review of clinical trials.",
         "pubdate": "2026 Oct 6",
@@ -118,18 +138,6 @@
         "title": "SUNRAY-02: a study of olomorasib combined with immunotherapy in stage II-III KRAS G12C-mutant non-small cell lung cancer after definitive therapy.",
         "pubdate": "2026 Oct 1",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42823821/"
-      },
-      {
-        "pmid": "42810020",
-        "title": "Efficacy and safety of pembrolizumab-lenvatinib in metastatic endometrial cancer: results from the French multicenter early access program.",
-        "pubdate": "2026 Sep 29",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42810020/"
-      },
-      {
-        "pmid": "42805115",
-        "title": "Adjuvant anti-TIGIT plus anti-PD-1 in melanoma: A necessary failure that clarifies the path forward.",
-        "pubdate": "2026 Sep 28",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42805115/"
       }
     ]
   },

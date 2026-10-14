@@ -1,7 +1,7 @@
 {
   "drug_name": "3-6mg QLM1016",
   "slug": "3-6mg-qlm1016",
-  "enriched_at": "2026-09-28T15:42:12Z",
+  "enriched_at": "2026-10-14T12:43:00Z",
   "source_trial_ids": [
     "NCT06799559"
   ],
@@ -51,7 +51,7 @@
     {
       "nct_id": "NCT06799559",
       "title": "Study on the Efficacy and Safety of QLM1016 in Schizophrenia",
-      "status": "NOT_YET_RECRUITING",
+      "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT06799559",
       "has_results": false
     }
@@ -92,6 +92,11 @@
         "name": "Olanzapine",
         "chembl_id": null,
         "reason": "same indication trial, sponsor: Alkermes, Inc."
+      },
+      {
+        "name": "SEP-363856",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Otsuka Pharmaceutical Development & Commercialization, Inc."
       }
     ]
   }

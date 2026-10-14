@@ -1,7 +1,7 @@
 {
   "drug_name": "Placebo",
   "slug": "placebo",
-  "enriched_at": "2026-10-12T16:34:58Z",
+  "enriched_at": "2026-10-14T12:44:05Z",
   "source_trial_ids": [
     "NCT02914535",
     "NCT04023552",
@@ -10,8 +10,10 @@
     "NCT04895241",
     "NCT04961567",
     "NCT04965675",
+    "NCT05115110",
     "NCT05116462",
     "NCT05164341",
+    "NCT05239728",
     "NCT05316220",
     "NCT05330182",
     "NCT05360446",
@@ -233,6 +235,12 @@
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hangzhou%20Zhongmei%20Huadong%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
     },
     {
+      "name": "Hoffmann-La Roche",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hoffmann-La%20Roche&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
       "name": "Incyte Corporation",
       "ticker": "INCY",
       "market_cap_display": null,
@@ -279,6 +287,12 @@
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Lumen%20Bioscience%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Merck Sharp & Dohme LLC",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Merck%20Sharp%20%26%20Dohme%20LLC&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Novartis Pharmaceuticals",
@@ -432,6 +446,13 @@
       "has_results": false
     },
     {
+      "nct_id": "NCT05115110",
+      "title": "A Study to Investigate the Safety and Efficacy of RO7204239 in Combination With Risdiplam (RO7034067) in Participants With Spinal Muscular Atrophy",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05115110",
+      "has_results": false
+    },
+    {
       "nct_id": "NCT05116462",
       "title": "Neoadjuvant and Adjuvant Therapy Studies of Sindilizumab in Resectable Lung Cancer",
       "status": "ACTIVE_NOT_RECRUITING",
@@ -443,6 +464,13 @@
       "title": "Study to Evaluate the Safety and Efficacy of Daily Subcutaneous Metreleptin Treatment in Subjects With PL",
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT05164341",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT05239728",
+      "title": "A Study of Belzutifan (MK-6482) Plus Pembrolizumab (MK-3475) Versus Placebo Plus Pembrolizumab in Participants With Clear Cell Renal Cell Carcinoma Post Nephrectomy (MK-6482-022)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05239728",
       "has_results": false
     },
     {
@@ -665,7 +693,7 @@
     {
       "nct_id": "NCT06775379",
       "title": "A Randomized Study of Azetukalner Versus Placebo in Major Depressive Disorder",
-      "status": "RECRUITING",
+      "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT06775379",
       "has_results": false
     },
@@ -800,34 +828,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42861670",
-        "title": "Effects of adenosine on oxidative stress and inflammation in patients with coronary heart disease underlying percutaneous coronary intervention.",
-        "pubdate": "2026 Oct",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42861670/"
+        "pmid": "42869508",
+        "title": "Protocol and rationale for a randomised, double-blind, placebo-controlled phase 3 trial of admilparant (BMS-986278), an oral lysophosphatidic acid receptor 1 antagonist, in patients with idiopathic pulmonary fibrosis: ALOFT-IPF.",
+        "pubdate": "2026 Oct 9",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42869508/"
       },
       {
-        "pmid": "42860832",
-        "title": "Heterogeneous Response Patterns to Multispecies Probiotics in Patients With Constipation During Pregnancy: An Exploratory Analysis of a Phase 2 Clinical Trial.",
-        "pubdate": "2026 Oct 11",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42860832/"
+        "pmid": "42868896",
+        "title": "Efficacy and safety of tezepelumab in Japanese patients with chronic rhinosinusitis with nasal polyps: A subpopulation analysis of the randomized WAYPOINT study.",
+        "pubdate": "2026 Oct 13",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42868896/"
       },
       {
-        "pmid": "42860179",
-        "title": "Continuous Vutrisiran Reduces Cardiovascular Events and Hospitalizations in Patients With Transthyretin Amyloidosis With Cardiomyopathy in the HELIOS-B One-Year Open Label Extension.",
-        "pubdate": "2026 Oct 11",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42860179/"
-      },
-      {
-        "pmid": "42859569",
-        "title": "Effect of Perioperative Intravenous Lidocaine on Rebound Pain After Interscalene Brachial Plexus Block for Arthroscopic Rotator Cuff Repair: A Randomized Placebo-Controlled Trial.",
+        "pmid": "42868544",
+        "title": "Assessment of a Tiger Milk Medicinal Mushroom (Lignosus rhinocerus TM02Â®)-Based Oral Gel for Pain Reduction and Healing in Minor Aphthous Stomatitis.",
         "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42859569/"
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42868544/"
       },
       {
-        "pmid": "42859374",
-        "title": "Efficacy of Tenapanor in Patients With or Without Prior Use of IBS-C Prescription Medications: A Post-hoc Analysis of Phase 3 Clinical Trials.",
-        "pubdate": "2026 Oct 11",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42859374/"
+        "pmid": "42868053",
+        "title": "Validation of the Klinrisk CKD Progression Model in the Dapagliflozin and Prevention of Adverse Outcomes in CKD (DAPA-CKD) Population.",
+        "pubdate": "2026 Oct 13",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42868053/"
+      },
+      {
+        "pmid": "42866928",
+        "title": "Efficacy of Standard Triple Therapy With or Without Statin in Helicobacter pylori Eradication: A Randomized Double-Blind Placebo-Controlled Trial.",
+        "pubdate": "2026 Sep-Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42866928/"
       }
     ]
   },

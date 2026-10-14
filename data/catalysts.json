@@ -1,303 +1,12 @@
 {
-  "generated_at": "2026-10-13T16:47:05Z",
+  "generated_at": "2026-10-14T12:42:29Z",
   "window_upcoming_days": 14,
   "window_lookback_days": [
     1,
     90
   ],
-  "trial_count": 258,
+  "trial_count": 256,
   "trials": [
-    {
-      "nct_id": "NCT05152147",
-      "title": "A Study of Zanidatamab in Combination With Chemotherapy Plus or Minus Tislelizumab in Patients With HER2-positive Advanced or Metastatic Gastric and Esophageal Cancers",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "Jazz Pharmaceuticals",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-07-15",
-      "primary_completion_date_type": "ACTUAL",
-      "window": "lookback",
-      "conditions": [
-        "Gastric Neoplasms",
-        "Gastroesophageal Adenocarcinoma",
-        "Esophageal Adenocarcinoma"
-      ],
-      "interventions": [
-        {
-          "name": "Zanidatamab",
-          "type": "DRUG"
-        },
-        {
-          "name": "Tislelizumab",
-          "type": "DRUG"
-        },
-        {
-          "name": "Trastuzumab",
-          "type": "DRUG"
-        },
-        {
-          "name": "Capecitabine",
-          "type": "DRUG"
-        },
-        {
-          "name": "Oxaliplatin",
-          "type": "DRUG"
-        },
-        {
-          "name": "Cisplatin",
-          "type": "DRUG"
-        },
-        {
-          "name": "5-Fluorouracil",
-          "type": "DRUG"
-        }
-      ],
-      "drug_names": [
-        "Zanidatamab",
-        "Tislelizumab",
-        "Trastuzumab",
-        "Capecitabine",
-        "Oxaliplatin",
-        "Cisplatin",
-        "5-Fluorouracil"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT05152147",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "Jazz Pharmaceuticals",
-        "ticker": "JAZZ",
-        "cik": "0001232524",
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001232524&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-07T14:18:07Z"
-      }
-    },
-    {
-      "nct_id": "NCT05644561",
-      "title": "Evaluation of PK, PD, Efficacy, Safety, and Immunogenicity of IV Ravulizumab in Pediatric Participants With Generalized Myasthenia Gravis",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "Alexion Pharmaceuticals, Inc.",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-07-15",
-      "primary_completion_date_type": "ESTIMATED",
-      "window": "lookback",
-      "conditions": [
-        "Generalized Myasthenia Gravis",
-        "gMG"
-      ],
-      "interventions": [
-        {
-          "name": "Ravulizumab",
-          "type": "DRUG"
-        }
-      ],
-      "drug_names": [
-        "Ravulizumab"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT05644561",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "Alexion Pharmaceuticals, Inc.",
-        "ticker": null,
-        "cik": null,
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Alexion%20Pharmaceuticals%2C%20Inc.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-11T13:50:59Z"
-      }
-    },
-    {
-      "nct_id": "NCT05814627",
-      "title": "Study to Assess Change in Disease Activity and Adverse Events of Oral Upadacitinib Compared to Subcutaneous Adalimumab in Adult Participants With Moderate to Severe Rheumatoid Arthritis",
-      "status": "COMPLETED",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "AbbVie",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-07-15",
-      "primary_completion_date_type": "ACTUAL",
-      "window": "lookback",
-      "conditions": [
-        "Rheumatoid Arthritis"
-      ],
-      "interventions": [
-        {
-          "name": "Upadacitinib",
-          "type": "DRUG"
-        },
-        {
-          "name": "Adalimumab",
-          "type": "DRUG"
-        },
-        {
-          "name": "Upadacitinib Matching Placebo",
-          "type": "DRUG"
-        },
-        {
-          "name": "Adalimumab Matching Placebo",
-          "type": "DRUG"
-        }
-      ],
-      "drug_names": [
-        "Upadacitinib",
-        "Adalimumab",
-        "Upadacitinib Matching Placebo",
-        "Adalimumab Matching Placebo"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT05814627",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "AbbVie",
-        "ticker": "ABBV",
-        "cik": "0001551152",
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001551152&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-11T13:50:56Z"
-      }
-    },
-    {
-      "nct_id": "NCT06057610",
-      "title": "A Phase III Study of SHR-A1811 Injection With or Without Pertuzumab in HER2-Positive Recurrent or Metastatic Breast Cancer",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "Jiangsu HengRui Medicine Co., Ltd.",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-07-15",
-      "primary_completion_date_type": "ACTUAL",
-      "window": "lookback",
-      "conditions": [
-        "HER2-PositiveRecurrent or Metastatic Breast Cancer"
-      ],
-      "interventions": [
-        {
-          "name": "SHR-A1811 Injection",
-          "type": "DRUG"
-        },
-        {
-          "name": "SHR-A1811 Injection ； Pertuzumab Injection",
-          "type": "DRUG"
-        },
-        {
-          "name": "Trastuzumab Injection；Pertuzumab Injection ； Docetaxel Injection",
-          "type": "DRUG"
-        }
-      ],
-      "drug_names": [
-        "SHR-A1811 Injection",
-        "SHR-A1811 Injection ； Pertuzumab Injection",
-        "Trastuzumab Injection；Pertuzumab Injection ； Docetaxel Injection"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT06057610",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "Jiangsu HengRui Medicine Co., Ltd.",
-        "ticker": null,
-        "cik": null,
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Jiangsu%20HengRui%20Medicine%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-11T13:51:16Z"
-      }
-    },
-    {
-      "nct_id": "NCT06741228",
-      "title": "A Phase 3 Trial of DT120 for Generalized Anxiety Disorder (Voyage)",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "Definium Therapeutics US, Inc.",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-07-15",
-      "primary_completion_date_type": "ACTUAL",
-      "window": "lookback",
-      "conditions": [
-        "Generalized Anxiety Disorder"
-      ],
-      "interventions": [
-        {
-          "name": "Placebo",
-          "type": "OTHER"
-        },
-        {
-          "name": "DT120",
-          "type": "DRUG"
-        }
-      ],
-      "drug_names": [
-        "DT120"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT06741228",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "Definium Therapeutics US, Inc.",
-        "ticker": null,
-        "cik": null,
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Definium%20Therapeutics%20US%2C%20Inc.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-11T13:51:12Z"
-      }
-    },
-    {
-      "nct_id": "NCT07475000",
-      "title": "Second Dose of Varicella Vaccine in Healthy Children",
-      "status": "RECRUITING",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "Sinovac (Dalian) Vaccine Technology Co., Ltd.",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-07-15",
-      "primary_completion_date_type": "ESTIMATED",
-      "window": "lookback",
-      "conditions": [
-        "Varicella (Chickenpox)",
-        "Varicella Immunisation"
-      ],
-      "interventions": [
-        {
-          "name": "PROVARIX",
-          "type": "BIOLOGICAL"
-        }
-      ],
-      "drug_names": [
-        "PROVARIX"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT07475000",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "Sinovac (Dalian) Vaccine Technology Co., Ltd.",
-        "ticker": null,
-        "cik": null,
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Sinovac%20%28Dalian%29%20Vaccine%20Technology%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-11T13:51:22Z"
-      }
-    },
     {
       "nct_id": "NCT04023552",
       "title": "Assessing the Impact of Lipoprotein (a) Lowering With Pelacarsen (TQJ230) on Major Cardiovascular Events in Patients With CVD",
@@ -2531,54 +2240,6 @@
       }
     },
     {
-      "nct_id": "NCT07655180",
-      "title": "Safety and Serum Virus Neutralizing Antibody Responses of VYD2311, a COVID-19 Vaccine, and Coadministered VYD2311 With a COVID-19 Vaccine",
-      "status": "RECRUITING",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "Invivyd, Inc.",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-08",
-      "primary_completion_date_type": "ESTIMATED",
-      "window": "lookback",
-      "conditions": [
-        "COVID-19"
-      ],
-      "interventions": [
-        {
-          "name": "COVID-19 mRNA vaccine",
-          "type": "DRUG"
-        },
-        {
-          "name": "VYD2311",
-          "type": "DRUG"
-        },
-        {
-          "name": "Placebo (Normal Saline)",
-          "type": "DRUG"
-        }
-      ],
-      "drug_names": [
-        "COVID-19 mRNA vaccine",
-        "VYD2311",
-        "Placebo (Normal Saline)"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT07655180",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "Invivyd, Inc.",
-        "ticker": "IVVD",
-        "cik": "0001832038",
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001832038&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-11T13:51:15Z"
-      }
-    },
-    {
       "nct_id": "NCT06455059",
       "title": "Interventional Study of Vosoritide for the Treatment of Children With Hypochondroplasia",
       "status": "ACTIVE_NOT_RECRUITING",
@@ -3199,57 +2860,6 @@
       }
     },
     {
-      "nct_id": "NCT07103148",
-      "title": "A Phase III Control Study of the Safety and Immunogenicity of vYF in Pediatric Population",
-      "status": "RECRUITING",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "Sanofi",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-08-08",
-      "primary_completion_date_type": "ESTIMATED",
-      "window": "lookback",
-      "conditions": [
-        "Yellow Fever Immunization"
-      ],
-      "interventions": [
-        {
-          "name": "Yellow fever vaccine (live)",
-          "type": "BIOLOGICAL"
-        },
-        {
-          "name": "Yellow fever vaccine (live)",
-          "type": "BIOLOGICAL"
-        },
-        {
-          "name": "Yellow fever vaccine (live)",
-          "type": "BIOLOGICAL"
-        },
-        {
-          "name": "Measles, combinations with mumps and rubella, live attenuated",
-          "type": "BIOLOGICAL"
-        }
-      ],
-      "drug_names": [
-        "Yellow fever vaccine (live)",
-        "Measles, combinations with mumps and rubella, live attenuated"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT07103148",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "Sanofi",
-        "ticker": "SNY",
-        "cik": "0001121404",
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001121404&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-11T13:51:21Z"
-      }
-    },
-    {
       "nct_id": "NCT04436640",
       "title": "A Study to Evaluate the Long-term Safety, Tolerability and Efficacy of Bimekizumab in Subjects With Active Axial Spondyloarthritis Including Ankylosing Spondylitis and Nonradiographic Axial Spondyloarthritis",
       "status": "COMPLETED",
@@ -3747,6 +3357,54 @@
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Jiangsu%20HengRui%20Medicine%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
         "cached_at": "2026-10-11T13:51:16Z"
+      }
+    },
+    {
+      "nct_id": "NCT07655180",
+      "title": "Safety and Serum Virus Neutralizing Antibody Responses of VYD2311, a COVID-19 Vaccine, and Coadministered VYD2311 With a COVID-19 Vaccine",
+      "status": "COMPLETED",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Invivyd, Inc.",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-08-15",
+      "primary_completion_date_type": "ACTUAL",
+      "window": "lookback",
+      "conditions": [
+        "COVID-19"
+      ],
+      "interventions": [
+        {
+          "name": "COVID-19 mRNA vaccine",
+          "type": "DRUG"
+        },
+        {
+          "name": "VYD2311",
+          "type": "DRUG"
+        },
+        {
+          "name": "Placebo (Normal Saline)",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "COVID-19 mRNA vaccine",
+        "VYD2311",
+        "Placebo (Normal Saline)"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT07655180",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Invivyd, Inc.",
+        "ticker": "IVVD",
+        "cik": "0001832038",
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001832038&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-10-11T13:51:15Z"
       }
     },
     {
@@ -10781,7 +10439,7 @@
       "sponsor_class": "INDUSTRY",
       "primary_completion_date": "2026-10-13",
       "primary_completion_date_type": "ESTIMATED",
-      "window": "upcoming",
+      "window": "lookback",
       "conditions": [
         "Unrespectable Locally Advanced and or Metastatic HER2 Positive Breast Cancer Participants"
       ],
@@ -11417,6 +11075,49 @@
       }
     },
     {
+      "nct_id": "NCT06799559",
+      "title": "Study on the Efficacy and Safety of QLM1016 in Schizophrenia",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Qilu Pharmaceutical Co., Ltd.",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-10-23",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Schizophrenia"
+      ],
+      "interventions": [
+        {
+          "name": "3-6mg QLM1016",
+          "type": "DRUG"
+        },
+        {
+          "name": "10-20 mg Aripiprazole oral solution film",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "3-6mg QLM1016",
+        "10-20 mg Aripiprazole oral solution film"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06799559",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Qilu Pharmaceutical Co., Ltd.",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Qilu%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-10-11T13:51:21Z"
+      }
+    },
+    {
       "nct_id": "NCT04204616",
       "title": "A Long-term Study of Nemolizumab (CD14152) in Participants With Prurigo Nodularis (PN)",
       "status": "ACTIVE_NOT_RECRUITING",
@@ -11533,6 +11234,184 @@
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=CSL%20Behring&type=10-K&dateb=&owner=include&count=40",
         "cached_at": "2026-10-12T16:34:36Z"
+      }
+    },
+    {
+      "nct_id": "NCT05115110",
+      "title": "A Study to Investigate the Safety and Efficacy of RO7204239 in Combination With Risdiplam (RO7034067) in Participants With Spinal Muscular Atrophy",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE2",
+        "PHASE3"
+      ],
+      "sponsor": "Hoffmann-La Roche",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-10-28",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Spinal Muscular Atrophy (SMA)"
+      ],
+      "interventions": [
+        {
+          "name": "RO7204239",
+          "type": "DRUG"
+        },
+        {
+          "name": "Placebo",
+          "type": "DRUG"
+        },
+        {
+          "name": "Risdiplam",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "RO7204239",
+        "Placebo",
+        "Risdiplam"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT05115110",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Hoffmann-La Roche",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hoffmann-La%20Roche&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-10-11T13:51:14Z"
+      }
+    },
+    {
+      "nct_id": "NCT05239728",
+      "title": "A Study of Belzutifan (MK-6482) Plus Pembrolizumab (MK-3475) Versus Placebo Plus Pembrolizumab in Participants With Clear Cell Renal Cell Carcinoma Post Nephrectomy (MK-6482-022)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Merck Sharp & Dohme LLC",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-10-28",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Carcinoma, Renal Cell"
+      ],
+      "interventions": [
+        {
+          "name": "Belzutifan",
+          "type": "DRUG"
+        },
+        {
+          "name": "Pembrolizumab",
+          "type": "BIOLOGICAL"
+        },
+        {
+          "name": "Placebo",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "Belzutifan",
+        "Pembrolizumab",
+        "Placebo"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT05239728",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Merck Sharp & Dohme LLC",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Merck%20Sharp%20%26%20Dohme%20LLC&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-10-11T13:51:17Z"
+      }
+    },
+    {
+      "nct_id": "NCT05426733",
+      "title": "An Open-label Extension Study to Evaluate Long-term Efficacy and Safety of Odevixibat in Children With Biliary Atresia",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Albireo, an Ipsen Company",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-10-28",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Biliary Atresia"
+      ],
+      "interventions": [
+        {
+          "name": "Odevixibat",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "Odevixibat"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT05426733",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Albireo, an Ipsen Company",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Albireo%2C%20an%20Ipsen%20Company&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-10-14T12:42:29Z"
+      }
+    },
+    {
+      "nct_id": "NCT06617416",
+      "title": "A Study of AK104 in Subjects With Unresectable Locally Advanced NSCLC",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Akeso",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-10-28",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "NSCLC (Non-small Cell Lung Cancer)"
+      ],
+      "interventions": [
+        {
+          "name": "Cadonilimab (AK104)",
+          "type": "DRUG"
+        },
+        {
+          "name": "Sugemalimab",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "Cadonilimab (AK104)",
+        "Sugemalimab"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06617416",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Akeso",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Akeso&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-10-08T14:26:26Z"
       }
     }
   ]

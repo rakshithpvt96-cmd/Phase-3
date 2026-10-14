@@ -1,0 +1,111 @@
+{
+  "drug_name": "Risdiplam",
+  "slug": "risdiplam",
+  "enriched_at": "2026-10-14T12:44:22Z",
+  "source_trial_ids": [
+    "NCT05115110"
+  ],
+  "sponsors": [
+    {
+      "name": "Hoffmann-La Roche",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hoffmann-La%20Roche&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 118513932,
+    "iupac_name": "7-(4,7-diazaspiro[2.5]octan-7-yl)-2-(2,8-dimethylimidazo[1,2-b]pyridazin-6-yl)pyrido[1,2-a]pyrimidin-4-one",
+    "molecular_formula": "C22H23N7O",
+    "molecular_weight": "401.5",
+    "canonical_smiles": null,
+    "inchikey": "ASKZRYGFUPSJPN-UHFFFAOYSA-N",
+    "rxnorm": {
+      "rxcui": "2390935",
+      "generic_name": "risdiplam",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4297528",
+    "target_chembl_id": "CHEMBL3826841",
+    "target_name": "SMN2 pre-mRNA",
+    "mechanism_of_action_chembl": "SMN2 pre-mRNA positive modulator"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "DailyMed",
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=eceb9a99-7191-4be5-87c3-0102707cf98e",
+    "note": "A label exists in DailyMed but structured sections could not be parsed automatically -- see dailymed_url for the full label.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Risdiplam+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Risdiplam+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Risdiplam+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Spinal Muscular Atrophy (SMA)",
+    "slug": "spinal-muscular-atrophy-sma"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05115110",
+      "title": "A Study to Investigate the Safety and Efficacy of RO7204239 in Combination With Risdiplam (RO7034067) in Participants With Spinal Muscular Atrophy",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05115110",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42807701",
+        "title": "Therapeutic advances in spinal muscular atrophy: a review of clinical, safety, and economic considerations.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42807701/"
+      },
+      {
+        "pmid": "42016922",
+        "title": "Safety and efficacy of intravenous onasemnogene abeparvovec gene therapy in patients with spinal muscular atrophy type 1: interim analysis from LT-001, a long-term follow-up study of patients from the START study.",
+        "pubdate": "2026 Apr",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42016922/"
+      },
+      {
+        "pmid": "41680498",
+        "title": "Patient reported outcome measures in spinal muscular atrophy and duchenne muscular dystrophy: review of instruments and their inclusion in clinical and regulatory processes.",
+        "pubdate": "2026 Feb 13",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41680498/"
+      },
+      {
+        "pmid": "41181835",
+        "title": "Efficacy and safety of risdiplam in adults with 5q-associated spinal muscular atrophy: a nationwide observational cohort study in Austria.",
+        "pubdate": "2025 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41181835/"
+      },
+      {
+        "pmid": "40818473",
+        "title": "Safety and efficacy of apitegromab in nonambulatory type 2 or type 3 spinal muscular atrophy (SAPPHIRE): a phase 3, double-blind, randomised, placebo-controlled trial.",
+        "pubdate": "2025 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40818473/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "NUSINERSEN SODIUM",
+        "chembl_id": "CHEMBL3833342",
+        "reason": "same target: SMN2 pre-mRNA"
+      }
+    ]
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "drug_name": "Sugemalimab",
+  "slug": "sugemalimab",
+  "enriched_at": "2026-10-14T12:45:16Z",
+  "source_trial_ids": [
+    "NCT06617416"
+  ],
+  "sponsors": [
+    {
+      "name": "Akeso",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Akeso&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2533872",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4594535",
+    "target_chembl_id": "CHEMBL3580522",
+    "target_name": "Programmed cell death 1 ligand 1",
+    "mechanism_of_action_chembl": "Programmed cell death 1 ligand 1 binding agent"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Sugemalimab+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Sugemalimab+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Sugemalimab+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "NSCLC (Non-small Cell Lung Cancer)",
+    "slug": "nsclc-non-small-cell-lung-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06617416",
+      "title": "A Study of AK104 in Subjects With Unresectable Locally Advanced NSCLC",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06617416",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "41788456",
+        "title": "First-Line Serplulimab versus Other Anti-PD-1/PD-L1 Antibodies Plus Chemotherapy for Esophageal Squamous Cell Carcinoma: A Systematic Review with Benefit-Risk Assessment via Matching-Adjusted Indirect Comparison.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41788456/"
+      },
+      {
+        "pmid": "41035637",
+        "title": "Efficacy and safety of immune checkpoint inhibitors for advanced squamous non-small cell lung cancer: a systematic review and network meta-analysis.",
+        "pubdate": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41035637/"
+      },
+      {
+        "pmid": "41022979",
+        "title": "Sugemalimab plus chemotherapy versus chemotherapy for advanced gastric cancer in China: a cost-effectiveness analysis.",
+        "pubdate": "2025 Sep 29",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41022979/"
+      },
+      {
+        "pmid": "40523368",
+        "title": "Sugemalimab versus placebo, in combination with platinum-based chemotherapy, as first-line treatment of metastatic non-small-cell lung cancer (GEMSTONE-302): 4-year outcomes from a double-blind, randomised, phase 3 trial.",
+        "pubdate": "2025 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40523368/"
+      },
+      {
+        "pmid": "39992668",
+        "title": "First-Line Sugemalimab Plus Chemotherapy for Advanced Gastric Cancer: The GEMSTONE-303 Randomized Clinical Trial.",
+        "pubdate": "2025 Apr 15",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39992668/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "ATEZOLIZUMAB",
+        "chembl_id": "CHEMBL3707227",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      },
+      {
+        "name": "DURVALUMAB",
+        "chembl_id": "CHEMBL3301587",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      },
+      {
+        "name": "AVELUMAB",
+        "chembl_id": "CHEMBL3833373",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      },
+      {
+        "name": "BINTRAFUSP ALFA",
+        "chembl_id": "CHEMBL4298024",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      },
+      {
+        "name": "ENVAFOLIMAB",
+        "chembl_id": "CHEMBL4298006",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      },
+      {
+        "name": "PACMILIMAB",
+        "chembl_id": "CHEMBL4297563",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      },
+      {
+        "name": "ERFONRILIMAB",
+        "chembl_id": "CHEMBL4650483",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      },
+      {
+        "name": "SOCAZOLIMAB",
+        "chembl_id": "CHEMBL4802221",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      },
+      {
+        "name": "ADEBRELIMAB",
+        "chembl_id": "CHEMBL4297828",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      },
+      {
+        "name": "COSIBELIMAB",
+        "chembl_id": "CHEMBL4297729",
+        "reason": "same target: Programmed cell death 1 ligand 1"
+      }
+    ]
+  }
+}

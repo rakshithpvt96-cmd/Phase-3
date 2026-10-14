@@ -1,0 +1,105 @@
+{
+  "drug_name": "Belzutifan",
+  "slug": "belzutifan",
+  "enriched_at": "2026-10-14T12:43:24Z",
+  "source_trial_ids": [
+    "NCT05239728"
+  ],
+  "sponsors": [
+    {
+      "name": "Merck Sharp & Dohme LLC",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Merck%20Sharp%20%26%20Dohme%20LLC&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 117947097,
+    "iupac_name": "3-[[(1S,2S,3R)-2,3-difluoro-1-hydroxy-7-methylsulfonyl-2,3-dihydro-1H-inden-4-yl]oxy]-5-fluorobenzonitrile",
+    "molecular_formula": "C17H12F3NO4S",
+    "molecular_weight": "383.3",
+    "canonical_smiles": null,
+    "inchikey": "LOMMPXLFBTZENJ-ZACQAIPSSA-N",
+    "rxnorm": {
+      "rxcui": "2567226",
+      "generic_name": "belzutifan",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4585668",
+    "target_chembl_id": "CHEMBL1744522",
+    "target_name": "Endothelial PAS domain-containing protein 1",
+    "mechanism_of_action_chembl": "Endothelial PAS domain-containing protein 1 inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "DailyMed",
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=13e15ee0-d679-4fa9-9430-e2e2170474da",
+    "note": "A label exists in DailyMed but structured sections could not be parsed automatically -- see dailymed_url for the full label.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Belzutifan+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Belzutifan+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Belzutifan+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Carcinoma, Renal Cell",
+    "slug": "carcinoma-renal-cell"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05239728",
+      "title": "A Study of Belzutifan (MK-6482) Plus Pembrolizumab (MK-3475) Versus Placebo Plus Pembrolizumab in Participants With Clear Cell Renal Cell Carcinoma Post Nephrectomy (MK-6482-022)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05239728",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42745329",
+        "title": "Oral belzutifan treatment in von hippel-lindau-associated retinal hemangioblastoma: a promising approach.",
+        "pubdate": "2026 Sep 14",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42745329/"
+      },
+      {
+        "pmid": "42692967",
+        "title": "Real-World Efficacy and Safety of Belzutifan in Sporadic Metastatic Renal Cell Carcinoma.",
+        "pubdate": "2026 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42692967/"
+      },
+      {
+        "pmid": "42626756",
+        "title": "Belzutifan in Von Hippel-Lindau-associated Hemangioblastomas: A Systematic Review and Meta-analysis.",
+        "pubdate": "2026 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42626756/"
+      },
+      {
+        "pmid": "42593521",
+        "title": "Recent advances in etiology and treatment of von Hippel-Lindau Disease (VHLD).",
+        "pubdate": "2026 Aug 13",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42593521/"
+      },
+      {
+        "pmid": "42586114",
+        "title": "Belzutifan plus lenvatinib versus cabozantinib in patients with previously treated advanced renal cell carcinoma (LITESPARK-011): an open-label, randomised, controlled, phase 3 trial.",
+        "pubdate": "2026 Aug 29",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42586114/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}
