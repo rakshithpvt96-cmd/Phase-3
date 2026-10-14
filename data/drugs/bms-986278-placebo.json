@@ -1,7 +1,7 @@
 {
   "drug_name": "BMS-986278 Placebo",
   "slug": "bms-986278-placebo",
-  "enriched_at": "2026-10-07T14:18:36Z",
+  "enriched_at": "2026-10-14T14:24:54Z",
   "source_trial_ids": [
     "NCT06003426"
   ],
@@ -59,6 +59,12 @@
   "prior_results": {
     "ctgov_results_urls": [],
     "pubmed_articles": [
+      {
+        "pmid": "42869508",
+        "title": "Protocol and rationale for a randomised, double-blind, placebo-controlled phase 3 trial of admilparant (BMS-986278), an oral lysophosphatidic acid receptor 1 antagonist, in patients with idiopathic pulmonary fibrosis: ALOFT-IPF.",
+        "pubdate": "2026 Oct 9",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42869508/"
+      },
       {
         "pmid": "42458495",
         "title": "Biomarker profiles in idiopathic and progressive pulmonary fibrosis after LPA(1) antagonism: exploratory analysis from a phase 2 trial of admilparant.",
