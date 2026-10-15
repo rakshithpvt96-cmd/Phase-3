@@ -1,0 +1,99 @@
+{
+  "drug_name": "Corticosteroids",
+  "slug": "corticosteroids",
+  "enriched_at": "2026-10-15T12:30:55Z",
+  "source_trial_ids": [
+    "NCT05653349"
+  ],
+  "sponsors": [
+    {
+      "name": "Novartis Pharmaceuticals",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Novartis%20Pharmaceuticals&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1453443",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL509924",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": "Unknown"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Corticosteroids+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Corticosteroids+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Corticosteroids+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Primary Immune Thrombocytopenia (ITP)",
+    "slug": "primary-immune-thrombocytopenia-itp"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05653349",
+      "title": "Study of Ianalumab Versus Placebo in Addition to First-line Corticosteroids in Primary Immune Thrombocytopenia (ITP)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05653349",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42870746",
+        "title": "Effects of Mindfulness Therapy on Stress Biomarkers and Psychological Symptoms in Women With Recurrent Pregnancy Loss: A Randomized Clinical Trial.",
+        "pubdate": "2026 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42870746/"
+      },
+      {
+        "pmid": "42868896",
+        "title": "Efficacy and safety of tezepelumab in Japanese patients with chronic rhinosinusitis with nasal polyps: A subpopulation analysis of the randomized WAYPOINT study.",
+        "pubdate": "2026 Oct 13",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42868896/"
+      },
+      {
+        "pmid": "42864532",
+        "title": "Ritlecitinib: A Review in Severe Alopecia Areata.",
+        "pubdate": "2026 Oct 13",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42864532/"
+      },
+      {
+        "pmid": "42855698",
+        "title": "Effects of dexmedetomidine versus remimazolam protocolized sedation during lower limb nerve block on early stress response and quality of recovery in patients undergoing diabetic foot ulcer repair: a randomized controlled trial protocol.",
+        "pubdate": "2026 Aug 7",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42855698/"
+      },
+      {
+        "pmid": "42854102",
+        "title": "Menin inhibitors in acute leukemia: Advances and future directions.",
+        "pubdate": "2026 Apr 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42854102/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

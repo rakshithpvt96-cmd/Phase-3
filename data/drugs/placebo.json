@@ -1,10 +1,9 @@
 {
   "drug_name": "Placebo",
   "slug": "placebo",
-  "enriched_at": "2026-10-14T12:44:05Z",
+  "enriched_at": "2026-10-15T12:31:15Z",
   "source_trial_ids": [
     "NCT02914535",
-    "NCT04023552",
     "NCT04036435",
     "NCT04652882",
     "NCT04895241",
@@ -23,6 +22,7 @@
     "NCT05627648",
     "NCT05636176",
     "NCT05643534",
+    "NCT05653349",
     "NCT05702034",
     "NCT06081894",
     "NCT06104124",
@@ -41,6 +41,7 @@
     "NCT06534723",
     "NCT06553027",
     "NCT06564818",
+    "NCT06588855",
     "NCT06602271",
     "NCT06649045",
     "NCT06669754",
@@ -392,8 +393,8 @@
     }
   },
   "condition": {
-    "raw": "Cardiovascular Disease and Lipoprotein(a)",
-    "slug": "cardiovascular-disease-and-lipoprotein-a"
+    "raw": "Ulcerative Colitis (UC)",
+    "slug": "ulcerative-colitis-uc"
   },
   "source_trials": [
     {
@@ -401,13 +402,6 @@
       "title": "Filgotinib in Long-Term Extension Study of Adults With Ulcerative Colitis",
       "status": "COMPLETED",
       "url": "https://clinicaltrials.gov/study/NCT02914535",
-      "has_results": false
-    },
-    {
-      "nct_id": "NCT04023552",
-      "title": "Assessing the Impact of Lipoprotein (a) Lowering With Pelacarsen (TQJ230) on Major Cardiovascular Events in Patients With CVD",
-      "status": "COMPLETED",
-      "url": "https://clinicaltrials.gov/study/NCT04023552",
       "has_results": false
     },
     {
@@ -537,6 +531,13 @@
       "has_results": false
     },
     {
+      "nct_id": "NCT05653349",
+      "title": "Study of Ianalumab Versus Placebo in Addition to First-line Corticosteroids in Primary Immune Thrombocytopenia (ITP)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05653349",
+      "has_results": false
+    },
+    {
       "nct_id": "NCT05702034",
       "title": "A Study of Milvexian in Participants After an Acute Ischemic Stroke or High-Risk Transient Ischemic Attack- LIBREXIA-STROKE",
       "status": "ACTIVE_NOT_RECRUITING",
@@ -660,6 +661,13 @@
       "title": "\"A Study of a Deuterated Psilocin Analog (CYB003) in Humans With Major Depressive Disorder\"",
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT06564818",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06588855",
+      "title": "A Study to Assess the Efficacy and Safety of Induction Therapy With Afimkibart (Also Known as RO7790121) in Participants With Moderately to Severely Active Ulcerative Colitis",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06588855",
       "has_results": false
     },
     {
@@ -828,34 +836,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42869508",
-        "title": "Protocol and rationale for a randomised, double-blind, placebo-controlled phase 3 trial of admilparant (BMS-986278), an oral lysophosphatidic acid receptor 1 antagonist, in patients with idiopathic pulmonary fibrosis: ALOFT-IPF.",
-        "pubdate": "2026 Oct 9",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42869508/"
+        "pmid": "42875830",
+        "title": "Safety, Tolerability, Pharmacokinetics and Exploratory Pharmacodynamics of Melanin-Concentrating Hormone Receptor-1 Antagonist RGH-706 in Healthy and Overweight or Obese Men.",
+        "pubdate": "2026 Oct 14",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42875830/"
       },
       {
-        "pmid": "42868896",
-        "title": "Efficacy and safety of tezepelumab in Japanese patients with chronic rhinosinusitis with nasal polyps: A subpopulation analysis of the randomized WAYPOINT study.",
-        "pubdate": "2026 Oct 13",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42868896/"
+        "pmid": "42875381",
+        "title": "Fecal microbiota transplantation for the treatment of neurogenic rosacea: protocol of a randomized, blinded, placebo-controlled explorer study.",
+        "pubdate": "2026 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42875381/"
       },
       {
-        "pmid": "42868544",
-        "title": "Assessment of a Tiger Milk Medicinal Mushroom (Lignosus rhinocerus TM02Â®)-Based Oral Gel for Pain Reduction and Healing in Minor Aphthous Stomatitis.",
-        "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42868544/"
+        "pmid": "42875365",
+        "title": "Dosing, Safety, and Pharmacokinetics of Combination Therapy With Darolutamide, Androgen Deprivation Therapy, and Docetaxel for Metastatic Hormone-Sensitive Prostate Cancer in the ARASENS Study.",
+        "pubdate": "2026 Sep 6",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42875365/"
       },
       {
-        "pmid": "42868053",
-        "title": "Validation of the Klinrisk CKD Progression Model in the Dapagliflozin and Prevention of Adverse Outcomes in CKD (DAPA-CKD) Population.",
-        "pubdate": "2026 Oct 13",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42868053/"
+        "pmid": "42874619",
+        "title": "Safety and efficacy of delpacibart zotadirsen in Duchenne muscular dystrophy mutations amenable to exon 44 skipping in the USA (EXPLORE44): a randomised, placebo-controlled, double-blind, phase 1/2 trial.",
+        "pubdate": "2026 Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42874619/"
       },
       {
-        "pmid": "42866928",
-        "title": "Efficacy of Standard Triple Therapy With or Without Statin in Helicobacter pylori Eradication: A Randomized Double-Blind Placebo-Controlled Trial.",
-        "pubdate": "2026 Sep-Oct",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42866928/"
+        "pmid": "42874165",
+        "title": "Analysis of Virologic and Clinical Predictors for Hospitalization, Supported by Machine Learning, in a Phase 3 Molnupiravir COVID-19 Treatment Trial.",
+        "pubdate": "2026 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42874165/"
       }
     ]
   },

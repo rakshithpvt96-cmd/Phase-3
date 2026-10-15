@@ -1,0 +1,99 @@
+{
+  "drug_name": "Ianalumab",
+  "slug": "ianalumab",
+  "enriched_at": "2026-10-15T12:31:06Z",
+  "source_trial_ids": [
+    "NCT05653349"
+  ],
+  "sponsors": [
+    {
+      "name": "Novartis Pharmaceuticals",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Novartis%20Pharmaceuticals&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2348145",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4594357",
+    "target_chembl_id": "CHEMBL4630882",
+    "target_name": "Tumor necrosis factor receptor superfamily member 13C",
+    "mechanism_of_action_chembl": "Tumor necrosis factor receptor superfamily member 13C binding agent"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Ianalumab+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Ianalumab+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Ianalumab+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Primary Immune Thrombocytopenia (ITP)",
+    "slug": "primary-immune-thrombocytopenia-itp"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05653349",
+      "title": "Study of Ianalumab Versus Placebo in Addition to First-line Corticosteroids in Primary Immune Thrombocytopenia (ITP)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05653349",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42836361",
+        "title": "Targeted therapies in pemphigus vulgaris: Emerging horizons beyond rituximab.",
+        "pubdate": "2026 Oct 6",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42836361/"
+      },
+      {
+        "pmid": "42449965",
+        "title": "From Molecular Pathophysiology to Clinical Trial Design in Sjögren's Disease: A Three-Axis Framework.",
+        "pubdate": "2026 Jun 24",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42449965/"
+      },
+      {
+        "pmid": "42043506",
+        "title": "[Current treatment, foreseeable newcomer and new treatment approaches for Sjögren's disease].",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42043506/"
+      },
+      {
+        "pmid": "42033155",
+        "title": "Evolving treatments for Sjögren disease: current approaches and emerging targets.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42033155/"
+      },
+      {
+        "pmid": "41780098",
+        "title": "Clinical trials and new therapies in Sjögren's disease.",
+        "pubdate": "2026 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41780098/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

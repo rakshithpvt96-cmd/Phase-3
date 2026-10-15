@@ -1,7 +1,7 @@
 {
   "drug_name": "Orforglipron",
   "slug": "orforglipron",
-  "enriched_at": "2026-09-14T14:43:19Z",
+  "enriched_at": "2026-10-15T12:31:20Z",
   "source_trial_ids": [
     "NCT06649045"
   ],
@@ -66,46 +66,40 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42729683",
-        "title": "Oral small-molecule GLP-1 receptor agonists: a new Frontier in cardiometabolic medicine.",
-        "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42729683/"
+        "pmid": "42830762",
+        "title": "Study design, rationale, and baseline characteristics of ATTAIN-HYPERTENSION, a phase 3 trial of the oral GLP-1 receptor agonist orforglipron for hypertension.",
+        "pubdate": "2026 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42830762/"
       },
       {
-        "pmid": "42715144",
-        "title": "Orforglipron and the Kidney: A Promise or Disappointment? The Need for Trials Examining Renal Outcomes.",
-        "pubdate": "2026 Sep 9",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42715144/"
+        "pmid": "42815506",
+        "title": "Cardiovascular safety of orforglipron versus insulin glargine in adults with type 2 diabetes at increased cardiovascular risk (ACHIEVE-4): a phase 3, event-driven, randomised, open-label, non-inferiority, active comparator trial.",
+        "pubdate": "2026 Sep 30",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42815506/"
       },
       {
-        "pmid": "42696191",
-        "title": "Oral Incretin-Based Therapies for Weight Management.",
-        "pubdate": "2026 Sep 4",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42696191/"
+        "pmid": "42760621",
+        "title": "Orforglipron: An Oral GLP-1 Receptor Agonist for Obesity Treatment.",
+        "pubdate": "2026 Sep 18",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42760621/"
       },
       {
-        "pmid": "42607698",
-        "title": "Long-term safety of oral orforglipron in Japanese participants with type 2 diabetes (ACHIEVE-J): a multicentre, randomised, open-label, parallel-group phase 3 trial.",
-        "pubdate": "2026 Oct",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42607698/"
+        "pmid": "42750540",
+        "title": "Predicting the Long-Term Risk of Type 2 Diabetes and Cardiovascular Disease With Orforglipron in People With Overweight or Obesity: A Post Hoc Analysis of the ATTAIN-1 Trial.",
+        "pubdate": "2026 Sep 17",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42750540/"
       },
       {
-        "pmid": "42582425",
-        "title": "Potential nephroprotective mechanisms of orforglipron, an oral non-peptide GLP-1 receptor agonist.",
-        "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42582425/"
+        "pmid": "42750018",
+        "title": "Efficacy and safety of orforglipron 12 mg versus orforglipron 36 mg maintenance dose among patients with obesity with or without diabetes: a systematic review and comprehensive meta-analysis.",
+        "pubdate": "2026 Sep 15",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42750018/"
       }
     ]
   },
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": [
-      {
-        "name": "Aroxybutynin and Atomoxetine",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Apnimed"
-      }
-    ]
+    "items": []
   }
 }

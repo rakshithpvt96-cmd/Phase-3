@@ -1,7 +1,7 @@
 {
   "drug_name": "VYD2311",
   "slug": "vyd2311",
-  "enriched_at": "2026-10-07T14:39:03Z",
+  "enriched_at": "2026-10-15T12:37:59Z",
   "source_trial_ids": [
     "NCT07655180"
   ],
@@ -47,7 +47,7 @@
     {
       "nct_id": "NCT07655180",
       "title": "Safety and Serum Virus Neutralizing Antibody Responses of VYD2311, a COVID-19 Vaccine, and Coadministered VYD2311 With a COVID-19 Vaccine",
-      "status": "RECRUITING",
+      "status": "COMPLETED",
       "url": "https://clinicaltrials.gov/study/NCT07655180",
       "has_results": false
     }
@@ -61,42 +61,27 @@
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
     "items": [
       {
-        "name": "Bivalent BNT162b2 (original/Omicron BA.4/BA.5) 3 microgram dose",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: BioNTech SE"
-      },
-      {
-        "name": "Bivalent BNT162b2 (original/Omicron BA.4/BA.5) 6 microgram dose",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: BioNTech SE"
-      },
-      {
-        "name": "Bivalent BNT162b2 (original/Omicron BA.4/BA.5) 10 microgram dose",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: BioNTech SE"
-      },
-      {
-        "name": "Variant-adapted BNT162b2 (Omicron XBB.1.5) 3 microgram dose",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: BioNTech SE"
-      },
-      {
-        "name": "Variant-adapted BNT162b2 (Omicron XBB.1.5) 6 microgram dose",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: BioNTech SE"
-      },
-      {
-        "name": "Variant-adapted BNT162b2 (Omicron XBB.1.5) 10 microgram dose",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: BioNTech SE"
-      },
-      {
-        "name": "Variant-adapted BNT162b2 (Omicron KP.2) 10 microgram dose",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: BioNTech SE"
-      },
-      {
         "name": "BNT162b2 (2025/2026 formulation)",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: BioNTech SE"
+      },
+      {
+        "name": "nirmatrelvir",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Pfizer"
+      },
+      {
+        "name": "ritonavir",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Pfizer"
+      },
+      {
+        "name": "BNT162b2 Vaccine",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: BioNTech SE"
+      },
+      {
+        "name": "Placebo",
         "chembl_id": null,
         "reason": "same indication trial, sponsor: BioNTech SE"
       }

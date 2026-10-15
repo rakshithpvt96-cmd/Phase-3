@@ -1,55 +1,12 @@
 {
-  "generated_at": "2026-10-14T14:24:07Z",
+  "generated_at": "2026-10-15T12:30:38Z",
   "window_upcoming_days": 14,
   "window_lookback_days": [
     1,
     90
   ],
-  "trial_count": 256,
+  "trial_count": 255,
   "trials": [
-    {
-      "nct_id": "NCT04023552",
-      "title": "Assessing the Impact of Lipoprotein (a) Lowering With Pelacarsen (TQJ230) on Major Cardiovascular Events in Patients With CVD",
-      "status": "COMPLETED",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "Novartis Pharmaceuticals",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-07-16",
-      "primary_completion_date_type": "ACTUAL",
-      "window": "lookback",
-      "conditions": [
-        "Cardiovascular Disease and Lipoprotein(a)"
-      ],
-      "interventions": [
-        {
-          "name": "TQJ230",
-          "type": "DRUG"
-        },
-        {
-          "name": "Placebo",
-          "type": "DRUG"
-        }
-      ],
-      "drug_names": [
-        "TQJ230",
-        "Placebo"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT04023552",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "Novartis Pharmaceuticals",
-        "ticker": null,
-        "cik": null,
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Novartis%20Pharmaceuticals&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-11T13:51:18Z"
-      }
-    },
     {
       "nct_id": "NCT06649344",
       "title": "A Study of HRS9531 Versus Semaglutide Once Weekly as Add-on Therapy to Metformin Monotherapy or in Combination With SGLT2 Inhibitors in Participants With Type 2 Diabetes",
@@ -4743,49 +4700,6 @@
       }
     },
     {
-      "nct_id": "NCT06935409",
-      "title": "Study of HS-20093 Versus Gemcitabine in Combination With Docetaxel in Treatment of Osteosarcoma After Previous Second-line Treatment Failure",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "Hansoh BioMedical R&D Company",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-08-31",
-      "primary_completion_date_type": "ESTIMATED",
-      "window": "lookback",
-      "conditions": [
-        "Osteosarcoma"
-      ],
-      "interventions": [
-        {
-          "name": "HS-20093",
-          "type": "DRUG"
-        },
-        {
-          "name": "Gemcitabine combined with docetaxel",
-          "type": "DRUG"
-        }
-      ],
-      "drug_names": [
-        "HS-20093",
-        "Gemcitabine combined with docetaxel"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT06935409",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "Hansoh BioMedical R&D Company",
-        "ticker": null,
-        "cik": null,
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hansoh%20BioMedical%20R%26D%20Company&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-11T13:51:14Z"
-      }
-    },
-    {
       "nct_id": "NCT07023341",
       "title": "A Study to Learn More About How Well Aficamten Works in Japanese Participants With Symptomatic Obstructive Hypertrophic Cardiomyopathy",
       "status": "ACTIVE_NOT_RECRUITING",
@@ -7965,64 +7879,6 @@
       }
     },
     {
-      "nct_id": "NCT06417814",
-      "title": "A Study to Investigate the Efficacy and Safety of Dato-DXd With or Without Osimertinib Compared With Platinum Based Doublet Chemotherapy in Participants With EGFR-Mutated Locally Advanced or Metastatic Non-Small Cell Lung Cancer",
-      "status": "RECRUITING",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "AstraZeneca",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-09-30",
-      "primary_completion_date_type": "ESTIMATED",
-      "window": "lookback",
-      "conditions": [
-        "Metastatic Non-small Cell Lung Cancer"
-      ],
-      "interventions": [
-        {
-          "name": "Dato-DXd",
-          "type": "DRUG"
-        },
-        {
-          "name": "Osimertinib",
-          "type": "DRUG"
-        },
-        {
-          "name": "Pemetrexed",
-          "type": "DRUG"
-        },
-        {
-          "name": "Carboplatin",
-          "type": "DRUG"
-        },
-        {
-          "name": "Cisplatin",
-          "type": "DRUG"
-        }
-      ],
-      "drug_names": [
-        "Dato-DXd",
-        "Osimertinib",
-        "Pemetrexed",
-        "Carboplatin",
-        "Cisplatin"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT06417814",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "AstraZeneca",
-        "ticker": "AZN",
-        "cik": "0000901832",
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000901832&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-11T13:51:01Z"
-      }
-    },
-    {
       "nct_id": "NCT06498479",
       "title": "ARTEMIS-008：HS-20093 Compared With Topotecan in Subjects With Relapsed Small Cell Lung Cancer",
       "status": "RECRUITING",
@@ -10482,7 +10338,7 @@
       "sponsor_class": "INDUSTRY",
       "primary_completion_date": "2026-10-14",
       "primary_completion_date_type": "ESTIMATED",
-      "window": "upcoming",
+      "window": "lookback",
       "conditions": [
         "Unresectable Hepatocellular Carcinoma"
       ],
@@ -10530,7 +10386,7 @@
       "sponsor_class": "INDUSTRY",
       "primary_completion_date": "2026-10-14",
       "primary_completion_date_type": "ESTIMATED",
-      "window": "upcoming",
+      "window": "lookback",
       "conditions": [
         "Chronic Rhinosinusitis With Nasal Polyps"
       ],
@@ -11412,6 +11268,97 @@
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Akeso&type=10-K&dateb=&owner=include&count=40",
         "cached_at": "2026-10-08T14:26:26Z"
+      }
+    },
+    {
+      "nct_id": "NCT05653349",
+      "title": "Study of Ianalumab Versus Placebo in Addition to First-line Corticosteroids in Primary Immune Thrombocytopenia (ITP)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Novartis Pharmaceuticals",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-10-29",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Primary Immune Thrombocytopenia (ITP)"
+      ],
+      "interventions": [
+        {
+          "name": "Ianalumab",
+          "type": "BIOLOGICAL"
+        },
+        {
+          "name": "Placebo",
+          "type": "DRUG"
+        },
+        {
+          "name": "Corticosteroids",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "Ianalumab",
+        "Placebo",
+        "Corticosteroids"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT05653349",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Novartis Pharmaceuticals",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Novartis%20Pharmaceuticals&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-10-11T13:51:18Z"
+      }
+    },
+    {
+      "nct_id": "NCT06588855",
+      "title": "A Study to Assess the Efficacy and Safety of Induction Therapy With Afimkibart (Also Known as RO7790121) in Participants With Moderately to Severely Active Ulcerative Colitis",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Hoffmann-La Roche",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-10-29",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Moderately to Severely Active Ulcerative Colitis"
+      ],
+      "interventions": [
+        {
+          "name": "Afimkibart",
+          "type": "DRUG"
+        },
+        {
+          "name": "Placebo",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "Afimkibart",
+        "Placebo"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06588855",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Hoffmann-La Roche",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hoffmann-La%20Roche&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-10-11T13:51:14Z"
       }
     }
   ]
