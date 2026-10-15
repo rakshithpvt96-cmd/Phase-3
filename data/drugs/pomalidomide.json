@@ -1,7 +1,7 @@
 {
   "drug_name": "Pomalidomide",
   "slug": "pomalidomide",
-  "enriched_at": "2026-09-15T12:35:22Z",
+  "enriched_at": "2026-10-15T12:46:29Z",
   "source_trial_ids": [
     "NCT03539744",
     "NCT06152575"
@@ -52,7 +52,7 @@
     "openfda_generic_names": [
       "POMALIDOMIDE"
     ],
-    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3c222961-5398-4185-b2d0-defe90230094",
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b8c3b7f3-7e72-47af-be23-133e7bb3db59",
     "note": null,
     "further_reading": null
   },
@@ -80,6 +80,18 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42844619",
+        "title": "T-cell-redirecting therapies in early relapsed multiple myeloma: a systematic review and network meta-analysis.",
+        "pubdate": "2026 Oct 7",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42844619/"
+      },
+      {
+        "pmid": "42764159",
+        "title": "Physician Understanding and Perceptions of Risk Communication Related to Drugs Covered by Risk Evaluation and Mitigation Strategy Programs.",
+        "pubdate": "2026 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42764159/"
+      },
+      {
         "pmid": "42687822",
         "title": "Exposure-response and dose simulation of belantamab mafodotin in combination with standards of care in patients with relapsed/refractory multiple myeloma.",
         "pubdate": "2026 Sep 3",
@@ -96,18 +108,6 @@
         "title": "Revolutionizing 2L+ Myeloma: A Podcast on the New Era of BCMA-Targeted Bispecific Antibody Therapies.",
         "pubdate": "2026 Jul 30",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42530826/"
-      },
-      {
-        "pmid": "42418224",
-        "title": "Belantamab mafodotin, a BCMA-directed antibody-drug conjugate for multiple myeloma.",
-        "pubdate": "2026 Aug",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42418224/"
-      },
-      {
-        "pmid": "42294841",
-        "title": "Talquetamab-Daratumumab in Relapsed or Refractory Myeloma.",
-        "pubdate": "2026 Aug 13",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42294841/"
       }
     ]
   },

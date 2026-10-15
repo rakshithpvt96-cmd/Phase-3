@@ -1,7 +1,7 @@
 {
   "drug_name": "Fluorouracil",
   "slug": "fluorouracil",
-  "enriched_at": "2026-09-15T12:39:14Z",
+  "enriched_at": "2026-10-15T12:48:26Z",
   "source_trial_ids": [
     "NCT05568095"
   ],
@@ -45,7 +45,7 @@
     "openfda_generic_names": [
       "FLUOROURACIL"
     ],
-    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b268684b-487f-4716-a2e8-6e6d3e117b14",
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1daf714b-704c-4bcc-b6e0-6f0eb2bfe66b",
     "note": null,
     "further_reading": null
   },
@@ -66,34 +66,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42861545",
+        "title": "Chemotherapy After Resection of Pancreatic Ductal Adenocarcinoma: Impact of Different Regimens in a Real-World Population.",
+        "pubdate": "2026 Oct 12",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42861545/"
+      },
+      {
+        "pmid": "42845031",
+        "title": "Phase IIa Trial of Locoregional High-Dose Autologous Natural Killer Cell Therapy Combined with Hepatic Arterial Infusion Chemotherapy for Locally Advanced Hepatocellular Carcinoma.",
+        "pubdate": "2026 Oct 7",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42845031/"
+      },
+      {
+        "pmid": "42802176",
+        "title": "Disitamab vedotin for HER2-positive breast cancer with liver metastases: phase 3 results from the RC48-C006 phase 2/3 trial.",
+        "pubdate": "2026 Aug 27",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42802176/"
+      },
+      {
+        "pmid": "42743886",
+        "title": "Circulating free bacterial DNA as a novel biomarker for monitoring therapy response in patients with advanced pancreatic cancer.",
+        "pubdate": "2026 Oct 16",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42743886/"
+      },
+      {
         "pmid": "42733563",
         "title": "Short-term versus long-course neoadjuvant chemotherapy for resectable and borderline resectable pancreatic ductal adenocarcinoma (PACT-21 CASSANDRA): results from the second randomisation analysis of a randomised, open-label, 2 × 2 factorial phase 3 trial.",
         "pubdate": "2026 Sep",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42733563/"
-      },
-      {
-        "pmid": "42731846",
-        "title": "FOLFOX-based transarterial infusion chemotherapy for unresectable colorectal cancer: protocol of an open-label, multicentre, randomised, controlled, phase II trial.",
-        "pubdate": "2026 Sep 11",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42731846/"
-      },
-      {
-        "pmid": "42716074",
-        "title": "Perioperative durvalumab plus fluorouracil, leucovorin, oxaliplatin, and docetaxel for resectable gastric and gastro-oesophageal junction adenocarcinoma (MATTERHORN): final results of overall survival and event-free survival by pathological response in a global, randomised, double-blind, placebo-controlled, multicentre, phase 3 trial.",
-        "pubdate": "2026 Sep 9",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42716074/"
-      },
-      {
-        "pmid": "42701122",
-        "title": "Neoadjuvant triplet chemotherapy enables radiotherapy avoidance in human papillomavirus-associated oropharyngeal cancer: a multicentre Phase II trial.",
-        "pubdate": "2026 Sep 5",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42701122/"
-      },
-      {
-        "pmid": "42687040",
-        "title": "Comparative efficacy and safety of pharmacokinetically guided and body surface area-based 5-fluorouracil dosing in colorectal cancer: a systematic review and meta-analysis.",
-        "pubdate": "2026 Sep 3",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42687040/"
       }
     ]
   },

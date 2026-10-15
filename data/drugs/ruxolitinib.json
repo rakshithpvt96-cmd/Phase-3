@@ -1,7 +1,7 @@
 {
   "drug_name": "Ruxolitinib",
   "slug": "ruxolitinib",
-  "enriched_at": "2026-09-15T12:36:00Z",
+  "enriched_at": "2026-10-15T12:46:51Z",
   "source_trial_ids": [
     "NCT06832618"
   ],
@@ -66,34 +66,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42842696",
+        "title": "Navitoclax monotherapy or in combination with ruxolitinib in patients with JAK2 inhibitor-treated myelofibrosis: results from the phase 2 REFINE and phase 3 TRANSFORM-2 studies.",
+        "pubdate": "2026 Oct 7",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42842696/"
+      },
+      {
+        "pmid": "42808080",
+        "title": "Graft-Versus-Tumour Effect Following Allogeneic Haematopoietic Stem Cell Transplantation in a Paediatric Patient With Mogamulizumab-Treated Primary Cutaneous Peripheral T-Cell Lymphoma.",
+        "pubdate": "2026 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42808080/"
+      },
+      {
+        "pmid": "42800596",
+        "title": "Reassessing the clinical value of momelotinib in myelofibrosis: An ESMO-MCBS:H-based appraisal of SIMPLIFY-1 and MOMENTUM.",
+        "pubdate": "2026 Sep 26",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42800596/"
+      },
+      {
+        "pmid": "42776548",
+        "title": "Efficacy and Safety of Ruxolitinib Cream in Patients With Cutaneous Lichen Planus: A Randomized Clinical Trial.",
+        "pubdate": "2026 Sep 23",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42776548/"
+      },
+      {
         "pmid": "42673530",
         "title": "Second-line and salvage therapies for steroid-refractory acute graft-versus-host disease: an integrated synthesis of current evidence and clinical sequencing.",
-        "pubdate": "2026 Aug 31",
+        "pubdate": "2026 Nov 1",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42673530/"
-      },
-      {
-        "pmid": "42657929",
-        "title": "Final results of a phase II study of the combination of azacitidine and ruxolitinib in patients with myelofibrosis.",
-        "pubdate": "2026 Aug 27",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42657929/"
-      },
-      {
-        "pmid": "42652943",
-        "title": "Cutaneous Graft-Versus-Host Disease After Allogeneic Hematopoietic Stem Cell Transplantation: A Single-Center Retrospective Cohort Study of Clinical Spectrum and Treatment Patterns.",
-        "pubdate": "2026 Jul 29",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42652943/"
-      },
-      {
-        "pmid": "42634700",
-        "title": "Sequential High-Dose Ruxolitinib and Low-Dose Splenic Irradiation for Pretransplant Management of Splenomegaly Before Allogeneic Hematopoietic Cell Transplantation With Fludarabine/Busulfan-Based Conditioning in Myelofibrosis.",
-        "pubdate": "2026 Aug",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42634700/"
-      },
-      {
-        "pmid": "42624289",
-        "title": "Acalabrutinib for Treatment of Steroid-Refractory Chronic Graft Versus Host Disease.",
-        "pubdate": "2026 Aug 20",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42624289/"
       }
     ]
   },
@@ -101,11 +101,6 @@
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
     "items": [
-      {
-        "name": "Rocatinlimab",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Amgen"
-      },
       {
         "name": "Upadacitinib 15mg Dose",
         "chembl_id": null,
@@ -125,6 +120,21 @@
         "name": "CM310",
         "chembl_id": null,
         "reason": "same indication trial, sponsor: Keymed Biosciences Co.Ltd"
+      },
+      {
+        "name": "Dupilumab",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Regeneron Pharmaceuticals"
+      },
+      {
+        "name": "Tralokinumab + TCS",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: LEO Pharma"
+      },
+      {
+        "name": "Placebo + TCS",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: LEO Pharma"
       }
     ]
   }

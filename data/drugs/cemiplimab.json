@@ -1,7 +1,7 @@
 {
   "drug_name": "Cemiplimab",
   "slug": "cemiplimab",
-  "enriched_at": "2026-09-15T12:32:28Z",
+  "enriched_at": "2026-10-15T12:45:13Z",
   "source_trial_ids": [
     "NCT05608291"
   ],
@@ -60,9 +60,15 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42811017",
+        "title": "Motixafortide, cemiplimab, gemcitabine and nab-paclitaxel in metastatic pancreatic cancer: a single-arm phase 2 study with single-cell correlatives.",
+        "pubdate": "2026 Aug 21",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42811017/"
+      },
+      {
         "pmid": "42530945",
         "title": "Cemiplimab and Fianlimab With Neoadjuvant Chemotherapy in Early-Stage High-Risk ERBB2-Negative Breast Cancer: The I-SPY2 Randomized Clinical Trial.",
-        "pubdate": "2026 Jul 30",
+        "pubdate": "2026 Sep 1",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42530945/"
       },
       {
@@ -82,12 +88,6 @@
         "title": "Phase I Study of Oncolytic Virus VV1 as Monotherapy or in Combination with Avelumab in Patients with Relapsed Refractory Solid Tumors.",
         "pubdate": "2026 Aug 1",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42330318/"
-      },
-      {
-        "pmid": "42317330",
-        "title": "Effect of histology on the efficacy of first-line immune checkpoint inhibitors in advanced non-small cell lung cancer: a systematic review and network meta-analysis.",
-        "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42317330/"
       }
     ]
   },

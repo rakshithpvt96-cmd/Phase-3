@@ -1,9 +1,8 @@
 {
   "drug_name": "Nivolumab",
   "slug": "nivolumab",
-  "enriched_at": "2026-09-15T12:40:50Z",
+  "enriched_at": "2026-10-15T12:49:12Z",
   "source_trial_ids": [
-    "NCT04039607",
     "NCT05568095"
   ],
   "sponsors": [
@@ -12,12 +11,6 @@
       "ticker": "RCUS",
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001724521&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
-      "name": "Bristol-Myers Squibb",
-      "ticker": "BMY",
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000014272&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
@@ -51,17 +44,10 @@
     "further_reading": null
   },
   "condition": {
-    "raw": "Hepatocellular Carcinoma",
-    "slug": "hepatocellular-carcinoma"
+    "raw": "Advanced Upper Gastrointestinal Tract Adenocarcinoma",
+    "slug": "advanced-upper-gastrointestinal-tract-adenocarcinoma"
   },
   "source_trials": [
-    {
-      "nct_id": "NCT04039607",
-      "title": "A Study of Nivolumab in Combination With Ipilimumab in Participants With Advanced Hepatocellular Carcinoma",
-      "status": "COMPLETED",
-      "url": "https://clinicaltrials.gov/study/NCT04039607",
-      "has_results": false
-    },
     {
       "nct_id": "NCT05568095",
       "title": "A Clinical Trial of a New Combination Treatment, Domvanalimab and Zimberelimab, Plus Chemotherapy, for People With an Upper Gastrointestinal Tract Cancer That Cannot be Removed With Surgery That Has Spread to Other Parts of the Body",
@@ -74,34 +60,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42740907",
-        "title": "Avoidance of cardiac toxicity during the application of immune checkpoint inhibitors: a safety systematic review combining network meta-analysis and pharmacovigilance study.",
-        "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42740907/"
+        "pmid": "42874444",
+        "title": "Emerging immunotherapies in melanoma beyond immune checkpoint inhibitors: Vaccines, intralesional therapies, adoptive cell therapies, and T-cell engagers.",
+        "pubdate": "2026 Oct 14",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42874444/"
       },
       {
-        "pmid": "42716079",
-        "title": "Development and external validation of a new prognostic model for metastatic clear cell renal cell carcinoma: a preregistered analysis using data from randomised clinical trials in the checkpoint inhibitor era.",
-        "pubdate": "2026 Sep 9",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42716079/"
+        "pmid": "42848188",
+        "title": "Summary of Research: Health-Related Quality-of-Life Profile and Clinical Outcomes in First-Line Advanced Renal Cell Carcinoma: A Modeling Analysis Based on the CheckMate 9ER Study.",
+        "pubdate": "2026 Oct 8",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42848188/"
       },
       {
-        "pmid": "42692071",
-        "title": "Comparative Cost-Effectiveness Analysis of First-Line Immunotherapy for Advanced Melanoma Based on 10-Year Clinical Outcomes.",
-        "pubdate": "2026 Sep 3",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42692071/"
+        "pmid": "42848187",
+        "title": "Summary of Research: Two-Stage Estimation of Overall Survival in the Phase 3 CheckMate 9ER Trial, Adjusting for the Impact of Subsequent Therapy.",
+        "pubdate": "2026 Oct 8",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42848187/"
       },
       {
-        "pmid": "42667569",
-        "title": "Summary of Research: Brentuximab Vedotin and Nivolumab in Combination with Chemotherapy for Nonbulky, Early-Stage Classical Hodgkin Lymphoma.",
-        "pubdate": "2026 Aug 29",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42667569/"
+        "pmid": "42847673",
+        "title": "Nivolumab and Cabozantinib in People with HIV and Advanced Solid Tumors: A Pilot Trial and Systematic Review.",
+        "pubdate": "2026 Oct 8",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42847673/"
       },
       {
-        "pmid": "42667537",
-        "title": "Real-World Use of Adjuvant Nivolumab for Resected Stage III-IV Melanoma: 2-Year Analysis of AdjuMel.",
-        "pubdate": "2026 Aug 29",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42667537/"
+        "pmid": "42836832",
+        "title": "Impact of PD-1 and PD-L1 inhibitors on patient-reported outcomes in esophageal squamous cell carcinoma: a systematic review of clinical trials.",
+        "pubdate": "2026 Oct 6",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42836832/"
       }
     ]
   },

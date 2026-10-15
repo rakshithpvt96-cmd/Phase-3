@@ -1,7 +1,7 @@
 {
   "drug_name": "Leucovorin",
   "slug": "leucovorin",
-  "enriched_at": "2026-09-15T12:40:15Z",
+  "enriched_at": "2026-10-15T12:48:47Z",
   "source_trial_ids": [
     "NCT05568095"
   ],
@@ -45,7 +45,7 @@
     "openfda_generic_names": [
       "LEUCOVORIN CALCIUM"
     ],
-    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=c8102043-79f2-421a-b849-94bac19007a6",
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6f14fa40-97ab-4ec5-b66b-793d6d1abac9",
     "note": null,
     "further_reading": null
   },
@@ -66,6 +66,18 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42861545",
+        "title": "Chemotherapy After Resection of Pancreatic Ductal Adenocarcinoma: Impact of Different Regimens in a Real-World Population.",
+        "pubdate": "2026 Oct 12",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42861545/"
+      },
+      {
+        "pmid": "42743886",
+        "title": "Circulating free bacterial DNA as a novel biomarker for monitoring therapy response in patients with advanced pancreatic cancer.",
+        "pubdate": "2026 Oct 16",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42743886/"
+      },
+      {
         "pmid": "42733563",
         "title": "Short-term versus long-course neoadjuvant chemotherapy for resectable and borderline resectable pancreatic ductal adenocarcinoma (PACT-21 CASSANDRA): results from the second randomisation analysis of a randomised, open-label, 2 × 2 factorial phase 3 trial.",
         "pubdate": "2026 Sep",
@@ -80,20 +92,8 @@
       {
         "pmid": "42716074",
         "title": "Perioperative durvalumab plus fluorouracil, leucovorin, oxaliplatin, and docetaxel for resectable gastric and gastro-oesophageal junction adenocarcinoma (MATTERHORN): final results of overall survival and event-free survival by pathological response in a global, randomised, double-blind, placebo-controlled, multicentre, phase 3 trial.",
-        "pubdate": "2026 Sep 9",
+        "pubdate": "2026 Sep 19",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42716074/"
-      },
-      {
-        "pmid": "42689097",
-        "title": "Folate in autism neurodevelopment.",
-        "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42689097/"
-      },
-      {
-        "pmid": "42658449",
-        "title": "Phase II study of mFOLFOX6 in advanced gastric cancer patients with severe peritoneal metastases (WJOG10517G), including an individual patient data comparison with JCOG1108/WJOG7312G.",
-        "pubdate": "2026 Aug 27",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42658449/"
       }
     ]
   },

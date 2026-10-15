@@ -1,7 +1,7 @@
 {
   "drug_name": "Rosuvastatin",
   "slug": "rosuvastatin",
-  "enriched_at": "2026-09-15T12:35:54Z",
+  "enriched_at": "2026-10-15T12:46:45Z",
   "source_trial_ids": [
     "NCT07216482"
   ],
@@ -45,7 +45,7 @@
     "openfda_generic_names": [
       "ROSUVASTATIN CALCIUM"
     ],
-    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cb942007-6ef1-4445-8dbd-6f4972148bf1",
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5d59114d-d0eb-bdf4-e063-6294a90af8b3",
     "note": null,
     "further_reading": null
   },
@@ -66,6 +66,18 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42833165",
+        "title": "Effects of statins on bone remodeling and their potential applications in post-orthodontic relapse prevention: A review.",
+        "pubdate": "2026 Sep 22",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42833165/"
+      },
+      {
+        "pmid": "42743594",
+        "title": "Changes in LDL-C levels among primary health care patients with hypertension, coronary artery disease, and diabetes during a 36-month follow-up.",
+        "pubdate": "2026 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42743594/"
+      },
+      {
         "pmid": "42547721",
         "title": "Assessment of periodontal regeneration with blood derivatives: a systematic review and network meta-analysis.",
         "pubdate": "2026 Aug 3",
@@ -82,18 +94,6 @@
         "title": "Rosuvastatin mitigates ovarian ischemia-reperfusion injury in rats by modulating oxidative stress, inflammation, and angiogenesis.",
         "pubdate": "2026 Jul 23",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42492670/"
-      },
-      {
-        "pmid": "42203295",
-        "title": "Pragmatic trial assessing polygenic risk driven statin therapy for cardiovascular disease prevention: study protocol for the EE-PRS trial.",
-        "pubdate": "2026 May 27",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42203295/"
-      },
-      {
-        "pmid": "42203164",
-        "title": "Design of VICTORION-2 Prevent: A randomized double-blind, placebo-controlled trial, assessing the impact of inclisiran on major adverse cardiovascular events in patients with established cardiovascular disease.",
-        "pubdate": "2026 Oct",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42203164/"
       }
     ]
   },

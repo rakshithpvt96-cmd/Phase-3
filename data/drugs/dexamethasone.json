@@ -1,7 +1,7 @@
 {
   "drug_name": "Dexamethasone",
   "slug": "dexamethasone",
-  "enriched_at": "2026-09-15T12:33:04Z",
+  "enriched_at": "2026-10-15T12:45:34Z",
   "source_trial_ids": [
     "NCT03539744",
     "NCT05552976",
@@ -59,13 +59,13 @@
     "openfda_generic_names": [
       "DEXAMETHASONE"
     ],
-    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=11f10a47-1c42-40e4-89d8-bb000fef497c",
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=191c1a56-194f-4876-b501-2f8aee447d83",
     "note": null,
     "further_reading": null
   },
   "condition": {
-    "raw": "Relapsed or Refractory Multiple Myeloma",
-    "slug": "relapsed-or-refractory-multiple-myeloma"
+    "raw": "Multiple Myeloma",
+    "slug": "multiple-myeloma"
   },
   "source_trials": [
     {
@@ -94,40 +94,76 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42723960",
-        "title": "Single-dose dexamethasone increases perioperative glycemic variability in older patients with diabetes undergoing lung surgery: a continuous glucose monitoring-based randomized controlled trial.",
+        "pmid": "42844619",
+        "title": "T-cell-redirecting therapies in early relapsed multiple myeloma: a systematic review and network meta-analysis.",
+        "pubdate": "2026 Oct 7",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42844619/"
+      },
+      {
+        "pmid": "42820104",
+        "title": "Liposomal Bupivacaine versus Bupivacaine Hydrochloride Plus Dexamethasone for Combined Adductor Canal and iPACK Blocks in Total Knee Arthroplasty: A Randomized Controlled Trial.",
         "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42723960/"
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42820104/"
       },
       {
-        "pmid": "42691058",
-        "title": "The effect of intravenous dexamethasone in supraclavicular brachial plexus block at Halibet National Referral Hospital, Eritrea 2024-2025: A randomized clinical trial.",
-        "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42691058/"
+        "pmid": "42822478",
+        "title": "Felzartamab plus lenalidomide-dexamethasone versus lenalidomide-dexamethasone for relapsed or refractory multiple myeloma: an open-label, parallel-controlled, randomised, phase 3 trial.",
+        "pubdate": "2026 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42822478/"
       },
       {
-        "pmid": "42687822",
-        "title": "Exposure-response and dose simulation of belantamab mafodotin in combination with standards of care in patients with relapsed/refractory multiple myeloma.",
-        "pubdate": "2026 Sep 3",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42687822/"
+        "pmid": "42822221",
+        "title": "Efficacy and safety of intracochlear corticosteroid delivery as salvage therapy for complete sudden sensorineural hearing loss.",
+        "pubdate": "2026 Sep 19",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42822221/"
       },
       {
-        "pmid": "42674157",
-        "title": "Interpreting the totality of clinical study data: is there a better way? Statistical methodology for quantitatively interpreting clinical study data across efficacy endpoints.",
-        "pubdate": "2026 Aug 31",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42674157/"
-      },
-      {
-        "pmid": "42669938",
-        "title": "A prospective, phase IV study of ixazomib, pomalidomide and dexamethasone in patients with relapsed or refractory multiple myeloma.",
-        "pubdate": "2026 Aug 30",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42669938/"
+        "pmid": "42816859",
+        "title": "Intramasseteric versus pterygomandibular space dexamethasone injection for oedema and trismus after mandibular third molar surgery: a randomised split-mouth clinical trial.",
+        "pubdate": "2026 Sep 26",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42816859/"
       }
     ]
   },
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": []
+    "items": [
+      {
+        "name": "Elranatamab",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Pfizer"
+      },
+      {
+        "name": "Elotuzumab",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Pfizer"
+      },
+      {
+        "name": "Pomalidomide",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Pfizer"
+      },
+      {
+        "name": "Bortezomib",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Pfizer"
+      },
+      {
+        "name": "Carfilzomib",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Pfizer"
+      },
+      {
+        "name": "Motixafortide+G-CSF",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Guangzhou Gloria Biosciences Co., Ltd."
+      },
+      {
+        "name": "Placebo+G-CSF",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Guangzhou Gloria Biosciences Co., Ltd."
+      }
+    ]
   }
 }

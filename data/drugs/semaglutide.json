@@ -1,18 +1,11 @@
 {
   "drug_name": "Semaglutide",
   "slug": "semaglutide",
-  "enriched_at": "2026-09-15T12:36:21Z",
+  "enriched_at": "2026-10-15T12:46:56Z",
   "source_trial_ids": [
-    "NCT06260722",
-    "NCT07064486"
+    "NCT06260722"
   ],
   "sponsors": [
-    {
-      "name": "BrightGene Bio-Medical Technology Co., Ltd.",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=BrightGene%20Bio-Medical%20Technology%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
-    },
     {
       "name": "Eli Lilly and Company",
       "ticker": null,
@@ -58,8 +51,8 @@
     "further_reading": null
   },
   "condition": {
-    "raw": "Type 2 Diabetes (T2DM)",
-    "slug": "type-2-diabetes-t2dm"
+    "raw": "Diabetes Mellitus, Type 2",
+    "slug": "diabetes-mellitus-type-2"
   },
   "source_trials": [
     {
@@ -68,47 +61,40 @@
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT06260722",
       "has_results": false
-    },
-    {
-      "nct_id": "NCT07064486",
-      "title": "A Study of BGM0504 in Participants With Type 2 Diabetes in Indonesia",
-      "status": "RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT07064486",
-      "has_results": false
     }
   ],
   "prior_results": {
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42729683",
-        "title": "Oral small-molecule GLP-1 receptor agonists: a new Frontier in cardiometabolic medicine.",
+        "pmid": "42860310",
+        "title": "The Power of Two: Harnessing Dual Glucagon and Incretin Signaling for Treatment of Obesity and Metabolic Dysfunction-Associated Steatohepatitis-A Narrative Review with a Translational Focus.",
+        "pubdate": "2026 Oct 11",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42860310/"
+      },
+      {
+        "pmid": "42851802",
+        "title": "SGLT2 inhibitors, semaglutide, and finerenone in diabetic kidney disease: a Bayesian network meta-analysis.",
         "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42729683/"
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42851802/"
       },
       {
-        "pmid": "42720565",
-        "title": "GLP-1 receptor agonism in Alzheimer's disease after EVOKE: From single hypothesis to stratified program.",
-        "pubdate": "2026 Sep 10",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42720565/"
+        "pmid": "42847129",
+        "title": "Effects of a GLP-1 agonist and anti-diabetic therapies on pheochromocytoma/paraganglioma growth.",
+        "pubdate": "2026 Oct 7",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42847129/"
       },
       {
-        "pmid": "42715139",
-        "title": "Semaglutide and Tirzepatide for the treatment of MASH: What Works, What's Coming, and What's Missing.",
-        "pubdate": "2026 Sep 9",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42715139/"
+        "pmid": "42840232",
+        "title": "Cardiovascular outcomes with tirzepatide versus semaglutide in type 2 diabetes.",
+        "pubdate": "2026 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42840232/"
       },
       {
-        "pmid": "42697203",
-        "title": "Emerging role of GLP-1 mono, dual, and triple agonists in the management of MASH-related fibrosis.",
-        "pubdate": "2026 Sep 4",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42697203/"
-      },
-      {
-        "pmid": "42696191",
-        "title": "Oral Incretin-Based Therapies for Weight Management.",
-        "pubdate": "2026 Sep 4",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42696191/"
+        "pmid": "42810438",
+        "title": "Estimating the Wider Societal Impact of Semaglutide Across Multiple Indications in Canada: an Economic Evaluation.",
+        "pubdate": "2026 Sep 29",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42810438/"
       }
     ]
   },
