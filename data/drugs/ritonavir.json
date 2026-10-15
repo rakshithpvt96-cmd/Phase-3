@@ -1,7 +1,7 @@
 {
   "drug_name": "ritonavir",
   "slug": "ritonavir",
-  "enriched_at": "2026-09-15T12:46:42Z",
+  "enriched_at": "2026-10-15T13:03:39Z",
   "source_trial_ids": [
     "NCT05261139"
   ],
@@ -45,7 +45,7 @@
     "openfda_generic_names": [
       "LOPINAVIR AND RITONAVIR"
     ],
-    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=115178c8-5ee2-4d96-820e-ea8264c1ac10",
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=11f757f1-cf48-47a8-925e-918359cbd2d4",
     "note": null,
     "further_reading": null
   },
@@ -102,44 +102,44 @@
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
     "items": [
       {
-        "name": "Bivalent BNT162b2 (original/Omicron BA.4/BA.5) 3 microgram dose",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: BioNTech SE"
-      },
-      {
-        "name": "Bivalent BNT162b2 (original/Omicron BA.4/BA.5) 6 microgram dose",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: BioNTech SE"
-      },
-      {
-        "name": "Bivalent BNT162b2 (original/Omicron BA.4/BA.5) 10 microgram dose",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: BioNTech SE"
-      },
-      {
-        "name": "Variant-adapted BNT162b2 (Omicron XBB.1.5) 3 microgram dose",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: BioNTech SE"
-      },
-      {
-        "name": "Variant-adapted BNT162b2 (Omicron XBB.1.5) 6 microgram dose",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: BioNTech SE"
-      },
-      {
-        "name": "Variant-adapted BNT162b2 (Omicron XBB.1.5) 10 microgram dose",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: BioNTech SE"
-      },
-      {
-        "name": "Variant-adapted BNT162b2 (Omicron KP.2) 10 microgram dose",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: BioNTech SE"
-      },
-      {
         "name": "BNT162b2 (2025/2026 formulation)",
         "chembl_id": null,
         "reason": "same indication trial, sponsor: BioNTech SE"
+      },
+      {
+        "name": "BNT162b2 Vaccine",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: BioNTech SE"
+      },
+      {
+        "name": "Placebo",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: BioNTech SE"
+      },
+      {
+        "name": "VYD2311-SD",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Invivyd, Inc."
+      },
+      {
+        "name": "VYD2311-MD",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Invivyd, Inc."
+      },
+      {
+        "name": "COVID-19 mRNA vaccine",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Invivyd, Inc."
+      },
+      {
+        "name": "VYD2311",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Invivyd, Inc."
+      },
+      {
+        "name": "Placebo (Normal Saline)",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Invivyd, Inc."
       }
     ]
   }
