@@ -1,0 +1,125 @@
+{
+  "drug_name": "Afuresertib",
+  "slug": "afuresertib",
+  "enriched_at": "2026-10-16T13:10:55Z",
+  "source_trial_ids": [
+    "NCT04851613"
+  ],
+  "sponsors": [
+    {
+      "name": "Laekna Limited",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Laekna%20Limited&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 46843057,
+    "iupac_name": "N-[(2S)-1-amino-3-(3-fluorophenyl)propan-2-yl]-5-chloro-4-(4-chloro-1-methylpyrazol-5-yl)thiophene-2-carboxamide",
+    "molecular_formula": "C18H17Cl2FN4OS",
+    "molecular_weight": "427.3",
+    "canonical_smiles": null,
+    "inchikey": "AFJRDFWMXUECEW-LBPRGKRZSA-N",
+    "rxnorm": {
+      "rxcui": "1637872",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2219422",
+    "target_chembl_id": "CHEMBL2111353",
+    "target_name": "Serine/threonine-protein kinase AKT",
+    "mechanism_of_action_chembl": "Serine/threonine-protein kinase AKT inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Afuresertib+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Afuresertib+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Afuresertib+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Breast Cancer",
+    "slug": "breast-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04851613",
+      "title": "Study to Evaluate Efficacy & Safety of Afuresertib Plus Fulvestrant in Patients With Locally Advanced or Metastatic HR+/HER2- Breast Cancer",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04851613",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "MIRANSERTIB",
+        "chembl_id": "CHEMBL4297188",
+        "reason": "same target: Serine/threonine-protein kinase AKT"
+      },
+      {
+        "name": "GSK-690693",
+        "chembl_id": "CHEMBL494089",
+        "reason": "same target: Serine/threonine-protein kinase AKT"
+      },
+      {
+        "name": "LY-2780301",
+        "chembl_id": "CHEMBL3545134",
+        "reason": "same target: Serine/threonine-protein kinase AKT"
+      },
+      {
+        "name": "MK-2201",
+        "chembl_id": "CHEMBL3545000",
+        "reason": "same target: Serine/threonine-protein kinase AKT"
+      },
+      {
+        "name": "XL-418",
+        "chembl_id": "CHEMBL2016893",
+        "reason": "same target: Serine/threonine-protein kinase AKT"
+      },
+      {
+        "name": "UPROSERTIB",
+        "chembl_id": "CHEMBL3137336",
+        "reason": "same target: Serine/threonine-protein kinase AKT"
+      },
+      {
+        "name": "MK-2206",
+        "chembl_id": "CHEMBL1079175",
+        "reason": "same target: Serine/threonine-protein kinase AKT"
+      },
+      {
+        "name": "IPATASERTIB",
+        "chembl_id": "CHEMBL2177390",
+        "reason": "same target: Serine/threonine-protein kinase AKT"
+      },
+      {
+        "name": "TRICIRIBINE PHOSPHATE",
+        "chembl_id": "CHEMBL462018",
+        "reason": "same target: Serine/threonine-protein kinase AKT"
+      },
+      {
+        "name": "CAPIVASERTIB",
+        "chembl_id": "CHEMBL2325741",
+        "reason": "same target: Serine/threonine-protein kinase AKT"
+      }
+    ]
+  }
+}

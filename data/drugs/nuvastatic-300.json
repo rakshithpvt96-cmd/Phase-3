@@ -1,0 +1,64 @@
+{
+  "drug_name": "Nuvastatic 300",
+  "slug": "nuvastatic-300",
+  "enriched_at": "2026-10-16T13:25:39Z",
+  "source_trial_ids": [
+    "NCT07669467"
+  ],
+  "sponsors": [
+    {
+      "name": "Natureceuticals Sdn Bhd",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Natureceuticals%20Sdn%20Bhd&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": null
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL3654060",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Nuvastatic%20300+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Nuvastatic%20300+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Nuvastatic%20300+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Fatigue Related to Cancer Treatment",
+    "slug": "fatigue-related-to-cancer-treatment"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07669467",
+      "title": "Nuvastatic® Phase III Trial for Fatigue in Triple-Negative Breast Cancer",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07669467",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

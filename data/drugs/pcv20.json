@@ -1,0 +1,99 @@
+{
+  "drug_name": "PCV20",
+  "slug": "pcv20",
+  "enriched_at": "2026-10-16T13:27:36Z",
+  "source_trial_ids": [
+    "NCT07284654"
+  ],
+  "sponsors": [
+    {
+      "name": "Vaxcyte, Inc.",
+      "ticker": "PCVX",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001649094&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2566308",
+      "generic_name": "0.5 ML Streptococcus pneumoniae serotype 1 capsular antigen diphtheria CRM197 protein conjugate vaccine 0.0044 MG/ML / Streptococcus pneumoniae serotype 10A capsular antigen diphtheria CRM197 protein conjugate vaccine 0.0044 MG/ML / Streptococcus pneumoniae serotype 11A capsular antigen diphtheria CRM197 protein conjugate vaccine 0.0044 MG/ML / Streptococcus pneumoniae serotype 12F capsular antigen diphtheria CRM197 protein conjugate vaccine 0.0044 MG/ML / Streptococcus pneumoniae serotype 14 capsular antigen diphtheria CRM197 protein conjugate vaccine 0.0044 MG/ML / Streptococcus pneumoniae serotype 15B capsular antigen diphtheria CRM197 protein conjugate vaccine 0.0044 MG/ML / Streptococcus pneumoniae serotype 18C capsular antigen diphtheria CRM197 protein conjugate vaccine 0.0044 MG/ML / Streptococcus pneumoniae serotype 19A capsular antigen diphtheria CRM197 protein conjugate vaccine 0.0044 MG/ML / Streptococcus pneumoniae serotype 19F capsular antigen diphtheria CRM197 protein conjugate vaccine 0.0044 MG/ML / Streptococcus pneumoniae serotype 22F capsular antigen diphtheria CRM197 protein conjugate vaccine 0.0044 MG/ML / Streptococcus pneumoniae serotype 23F capsular antigen diphtheria CRM197 protein conjugate vaccine 0.0044 MG/ML / Streptococcus pneumoniae serotype 3 capsular antigen diphtheria CRM197 protein conjugate vaccine 0.0044 MG/ML / Streptococcus pneumoniae serotype 33F capsular antigen diphtheria CRM197 protein conjugate vaccine 0.0044 MG/ML / Streptococcus pneumoniae serotype 4 capsular antigen diphtheria CRM197 protein conjugate vaccine 0.0044 MG/ML / Streptococcus pneumoniae serotype 5 capsular antigen diphtheria CRM197 protein conjugate vaccine 0.0044 MG/ML / Streptococcus pneumoniae serotype 6A capsular antigen diphtheria CRM197 protein conjugate vaccine 0.0044 MG/ML / Streptococcus pneumoniae serotype 6B capsular antigen diphtheria CRM197 protein conjugate vaccine 0.0088 MG/ML / Streptococcus pneumoniae serotype 7F capsular antigen diphtheria CRM197 protein conjugate vaccine 0.0044 MG/ML / Streptococcus pneumoniae serotype 8 capsular antigen diphtheria CRM197 protein conjugate vaccine 0.0044 MG/ML / Streptococcus pneumoniae serotype 9V capsular antigen diphtheria CRM197 protein conjugate vaccine 0.0044 MG/ML Prefilled Syringe",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": null,
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=PCV20+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=PCV20+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=PCV20+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Pneumococcal Disease",
+    "slug": "pneumococcal-disease"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07284654",
+      "title": "Safety, Tolerability, and Immunogenicity of VAX-31 in Adults ≥50 Years With Immunobridging to Adults 18-49",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT07284654",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42265800",
+        "title": "Safety and Immunogenicity of 20-valent Pneumococcal Conjugate Vaccine According to Number and Timing of Primary Series Doses.",
+        "pubdate": "2026 Jun 10",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42265800/"
+      },
+      {
+        "pmid": "41904562",
+        "title": "Cost-utility of pneumococcal strategies for adults aged 50 and older in Colombia: a model-based economic evaluation.",
+        "pubdate": "2026 Mar 28",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41904562/"
+      },
+      {
+        "pmid": "41864214",
+        "title": "Safety, tolerability, and immunogenicity of a 31-valent pneumococcal conjugate vaccine (VAX-31) in healthy adults aged 50 years and older from the USA: a phase 1/2, double-blinded, active-controlled, parallel-group, dose-finding randomised clinical trial.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41864214/"
+      },
+      {
+        "pmid": "41816940",
+        "title": "Interrupted time-series analysis of nationwide surveillance in Thai adult pneumococcal diseases over 14 years: evidence to inform policy in resource-limited countries.",
+        "pubdate": "2026 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41816940/"
+      },
+      {
+        "pmid": "41576705",
+        "title": "Safety and immunogenicity of a 25-valent pneumococcal conjugate vaccine in pneumococcal vaccine-naive healthy adults: Results from 2 randomised, controlled clinical trials.",
+        "pubdate": "2026 Mar 7",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41576705/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

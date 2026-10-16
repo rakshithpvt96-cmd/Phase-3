@@ -1,7 +1,7 @@
 {
   "drug_name": "HL-1186 placebo",
   "slug": "hl-1186-placebo",
-  "enriched_at": "2026-10-08T14:34:05Z",
+  "enriched_at": "2026-10-16T13:25:01Z",
   "source_trial_ids": [
     "NCT07699601",
     "NCT07709598"
@@ -68,40 +68,51 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42845166",
-        "title": "Efficacy and Safety of On-Demand Therapy with Clomipramine/Sildenafil Combination Compared to Clomipramine or Sildenafil Alone in Patients with Premature Ejaculation: A Multicenter Phase 3 Randomized Controlled Trial.",
-        "pubdate": "2026 Aug 31",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42845166/"
+        "pmid": "42885348",
+        "title": "Effect of Colchicine on Arterial Stiffness in Patients With Hypertension: The COlchicine HypERtENsion Trial (COHERENT).",
+        "pubdate": "2026 Oct 16",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42885348/"
       },
       {
-        "pmid": "42844827",
-        "title": "Olanzapine for the Prevention and Treatment of ICU Delirium: Protocol for a Systematic Review With Meta-Analysis.",
-        "pubdate": "2026 Nov",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42844827/"
-      },
-      {
-        "pmid": "42844558",
-        "title": "Does Baseline Severity of Atopic Dermatitis Impact the Long-Term Efficacy of Abrocitinib? Post-hoc Analysis of Two Randomized Trials.",
+        "pmid": "42884177",
+        "title": "Beyond Taxonomy: Fungal Nutraceutical Supplementation Modifies the Functional Potential of the Gut Microbiome in Colorectal Cancer.",
         "pubdate": "2026 Oct 8",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42844558/"
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42884177/"
       },
       {
-        "pmid": "42844553",
-        "title": "Long-Term Safety and Efficacy of Upadacitinib in Patients with Psoriatic Arthritis: 5-Year Results from the Phase 3 SELECT-PsA 1 Study.",
-        "pubdate": "2026 Oct 7",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42844553/"
+        "pmid": "42884056",
+        "title": "A Randomized Clinical Trial of a Standardized Pumpkin-Seed-Derived Peptide Extract: Body Composition Outcomes and Exploratory Analysis by Baseline Adiposity in Overweight Adults.",
+        "pubdate": "2026 Oct 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42884056/"
       },
       {
-        "pmid": "42844407",
-        "title": "Effects of lemborexant vs placebo on total daytime sleep in shift workers: a randomized controlled trial.",
-        "pubdate": "2026 Oct 7",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42844407/"
+        "pmid": "42882121",
+        "title": "Population PK/PD Modeling and Simulation to Predict the Comparative Long-Term Efficacy of Olokizumab in Rheumatoid Arthritis Patients.",
+        "pubdate": "2026 Oct 2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42882121/"
+      },
+      {
+        "pmid": "42880978",
+        "title": "Phase 3, randomised, placebo-controlled trial of voxelotor for the resolution of leg ulcers in sickle cell disease: RESOLVE.",
+        "pubdate": "2026 Oct 15",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42880978/"
       }
     ]
   },
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": []
+    "items": [
+      {
+        "name": "CPL-01",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Cali Pharmaceuticals LLC"
+      },
+      {
+        "name": "saline placebo",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Cali Pharmaceuticals LLC"
+      }
+    ]
   }
 }

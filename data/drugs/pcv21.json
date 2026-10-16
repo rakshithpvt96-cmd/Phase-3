@@ -1,0 +1,87 @@
+{
+  "drug_name": "PCV21",
+  "slug": "pcv21",
+  "enriched_at": "2026-10-16T13:27:44Z",
+  "source_trial_ids": [
+    "NCT07284654"
+  ],
+  "sponsors": [
+    {
+      "name": "Vaxcyte, Inc.",
+      "ticker": "PCVX",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001649094&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2690685",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": null,
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=PCV21+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=PCV21+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=PCV21+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Pneumococcal Disease",
+    "slug": "pneumococcal-disease"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07284654",
+      "title": "Safety, Tolerability, and Immunogenicity of VAX-31 in Adults ≥50 Years With Immunobridging to Adults 18-49",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT07284654",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42160795",
+        "title": "Streptococcus pneumoniae: Pathogenesis, virulence factors, antimicrobial resistance mechanisms, and therapeutic strategies.",
+        "pubdate": "2026 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42160795/"
+      },
+      {
+        "pmid": "40833801",
+        "title": "Safety and Immunogenicity of a Pneumococcal Conjugate Vaccine When Administered Concomitantly With Routine Pediatric Vaccines in Healthy Toddlers and Infants.",
+        "pubdate": "2025 Oct 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40833801/"
+      },
+      {
+        "pmid": "37316409",
+        "title": "Cost-effectiveness of an in-development adult-formulated pneumococcal vaccine in older US adults.",
+        "pubdate": "2023 Jul 5",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37316409/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

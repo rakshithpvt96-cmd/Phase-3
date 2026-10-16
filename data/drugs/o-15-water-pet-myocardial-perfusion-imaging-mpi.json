@@ -1,7 +1,7 @@
 {
   "drug_name": "[O-15]-Water PET Myocardial Perfusion Imaging (MPI)",
   "slug": "o-15-water-pet-myocardial-perfusion-imaging-mpi",
-  "enriched_at": "2026-10-08T14:30:21Z",
+  "enriched_at": "2026-10-16T13:17:35Z",
   "source_trial_ids": [
     "NCT05134012"
   ],
@@ -63,6 +63,17 @@
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": []
+    "items": [
+      {
+        "name": "Inclisiran sodium 300 mg",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Novartis Pharmaceuticals"
+      },
+      {
+        "name": "Placebo",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Novartis Pharmaceuticals"
+      }
+    ]
   }
 }

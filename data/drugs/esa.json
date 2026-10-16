@@ -1,0 +1,99 @@
+{
+  "drug_name": "ESA",
+  "slug": "esa",
+  "enriched_at": "2026-10-16T13:23:53Z",
+  "source_trial_ids": [
+    "NCT07494409"
+  ],
+  "sponsors": [
+    {
+      "name": "Kind Pharmaceuticals LLC",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Kind%20Pharmaceuticals%20LLC&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2636785",
+      "generic_name": "esafoxolaner",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL237885",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "DailyMed",
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=48dd3eaa-18e3-430d-ad40-a964b591fb16",
+    "note": "A label exists in DailyMed but structured sections could not be parsed automatically -- see dailymed_url for the full label.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=ESA+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=ESA+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=ESA+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Anemia Due to Chronic Kidney Disease",
+    "slug": "anemia-due-to-chronic-kidney-disease"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07494409",
+      "title": "A Study of AND017 to Evaluate Efficacy and Safety in Dialysis-Dependent Chronic Kidney Disease (DD-CKD) Patients With Anemia",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07494409",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42751311",
+        "title": "Efficacy and Safety of Pritelivir vs Foscarnet for the Treatment of Acyclovir-Refractory Herpes Simplex Virus Infection in Immunocompromised Adults: A Randomized, Open-Label Phase 2 Trial.",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42751311/"
+      },
+      {
+        "pmid": "42676001",
+        "title": "Bridging the Gap: A Systematic Review of Modern Hemophilia Therapies and Global Inequities in Clinical Trial Participation.",
+        "pubdate": "2026 Aug 31",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42676001/"
+      },
+      {
+        "pmid": "42469679",
+        "title": "Preanesthetic withdrawal improves the conversion efficacy of prolonged epidural labor analgesia to epidural surgical anesthesia: a prospective cohort study combined with MRI mechanistic exploration.",
+        "pubdate": "2026 Jul 17",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42469679/"
+      },
+      {
+        "pmid": "41781902",
+        "title": "Roxadustat induced fetal hemoglobin in anemic CKD patients: a dual-center real-world observational cohort study.",
+        "pubdate": "2026 Mar 4",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41781902/"
+      },
+      {
+        "pmid": "41654788",
+        "title": "Efficacy and safety analysis of different treatment schemes of erythropoiesis-stimulating agents for chronic kidney disease with anemia: a meta analysis between 2000-2024.",
+        "pubdate": "2026 Feb 7",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41654788/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

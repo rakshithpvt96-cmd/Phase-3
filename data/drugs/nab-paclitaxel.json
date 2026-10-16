@@ -1,7 +1,7 @@
 {
   "drug_name": "Nab-paclitaxel",
   "slug": "nab-paclitaxel",
-  "enriched_at": "2026-10-08T14:29:44Z",
+  "enriched_at": "2026-10-16T13:16:51Z",
   "source_trial_ids": [
     "NCT05116462",
     "NCT05254171",
@@ -94,6 +94,12 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42862523",
+        "title": "Clinical Efficacy of Tislelizumab Plus Gemcitabine-Nab-Paclitaxel for Borderline Resectable Pancreatic Cancer and Chemoresistance Analysis: A Prospective Pilot Study.",
+        "pubdate": "2026 Oct 12",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42862523/"
+      },
+      {
         "pmid": "42816596",
         "title": "Intravenous hyaluronidase-expressing oncolytic adenovirus with chemotherapy in metastatic pancreatic cancer: a randomized phase 2b trial.",
         "pubdate": "2026 Sep 30",
@@ -116,12 +122,6 @@
         "title": "Circulating free bacterial DNA as a novel biomarker for monitoring therapy response in patients with advanced pancreatic cancer.",
         "pubdate": "2026 Oct 16",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42743886/"
-      },
-      {
-        "pmid": "42733563",
-        "title": "Short-term versus long-course neoadjuvant chemotherapy for resectable and borderline resectable pancreatic ductal adenocarcinoma (PACT-21 CASSANDRA): results from the second randomisation analysis of a randomised, open-label, 2 × 2 factorial phase 3 trial.",
-        "pubdate": "2026 Sep",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42733563/"
       }
     ]
   },

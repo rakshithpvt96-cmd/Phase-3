@@ -1,0 +1,96 @@
+{
+  "drug_name": "CPL-01",
+  "slug": "cpl-01",
+  "enriched_at": "2026-10-16T13:23:28Z",
+  "source_trial_ids": [
+    "NCT07490496"
+  ],
+  "sponsors": [
+    {
+      "name": "Cali Pharmaceuticals LLC",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Cali%20Pharmaceuticals%20LLC&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "283795",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4303658",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=CPL-01+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=CPL-01+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=CPL-01+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Postoperative Pain",
+    "slug": "postoperative-pain"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07490496",
+      "title": "Phase 3 Bunionectomy Study",
+      "status": "NOT_YET_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07490496",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "39303759",
+        "title": "Efficacy, safety, and pharmacokinetics of CPL-01, an investigational long-acting ropivacaine, in bunionectomy: Results of a phase 2b study.",
+        "pubdate": "2025 Mar-Apr",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39303759/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "HL-1186",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Shanghai Huilun Pharmaceutical Co., Ltd."
+      },
+      {
+        "name": "HL-1186 placebo",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Shanghai Huilun Pharmaceutical Co., Ltd."
+      },
+      {
+        "name": "Oxycodone-Acetaminophen",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Shanghai Huilun Pharmaceutical Co., Ltd."
+      },
+      {
+        "name": "Oxycodone-Acetaminophen Matching Placebo",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Shanghai Huilun Pharmaceutical Co., Ltd."
+      }
+    ]
+  }
+}

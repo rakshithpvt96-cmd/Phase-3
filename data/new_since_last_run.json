@@ -1,6 +1,458 @@
 {
-  "generated_at": "2026-10-15T14:01:31Z",
-  "new_trial_count": 0,
-  "new_trials": [],
-  "removed_trial_ids": []
+  "generated_at": "2026-10-16T13:09:55Z",
+  "new_trial_count": 10,
+  "new_trials": [
+    {
+      "nct_id": "NCT07284654",
+      "title": "Safety, Tolerability, and Immunogenicity of VAX-31 in Adults ≥50 Years With Immunobridging to Adults 18-49",
+      "status": "COMPLETED",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Vaxcyte, Inc.",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-09-17",
+      "primary_completion_date_type": "ACTUAL",
+      "window": "lookback",
+      "conditions": [
+        "Pneumococcal Disease"
+      ],
+      "interventions": [
+        {
+          "name": "31 valent pneumococcal conjugate vaccine",
+          "type": "BIOLOGICAL"
+        },
+        {
+          "name": "PCV20",
+          "type": "BIOLOGICAL"
+        },
+        {
+          "name": "PCV21",
+          "type": "BIOLOGICAL"
+        }
+      ],
+      "drug_names": [
+        "31 valent pneumococcal conjugate vaccine",
+        "PCV20",
+        "PCV21"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT07284654",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Vaxcyte, Inc.",
+        "ticker": "PCVX",
+        "cik": "0001649094",
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001649094&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-10-16T13:09:54Z"
+      }
+    },
+    {
+      "nct_id": "NCT06750289",
+      "title": "Randomised Clinical Trial to Investigate Efficacy and Safety of Benralizumab 30 mg SC as an add-on Therapy in Uncontrolled Eosinophilic Asthma Patients Treated With Medium-dose ICS-LABA Compared to Conventional Escalation to High-dose ICS-LABA Treatment",
+      "status": "COMPLETED",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "AstraZeneca",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-09-21",
+      "primary_completion_date_type": "ACTUAL",
+      "window": "lookback",
+      "conditions": [
+        "Eosinophilic Asthma"
+      ],
+      "interventions": [
+        {
+          "name": "ICS-LABA",
+          "type": "COMBINATION_PRODUCT"
+        },
+        {
+          "name": "benralizumab",
+          "type": "COMBINATION_PRODUCT"
+        },
+        {
+          "name": "Placebo for Benralizumab",
+          "type": "COMBINATION_PRODUCT"
+        }
+      ],
+      "drug_names": [],
+      "url": "https://clinicaltrials.gov/study/NCT06750289",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "AstraZeneca",
+        "ticker": "AZN",
+        "cik": "0000901832",
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000901832&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-10-11T13:51:01Z"
+      }
+    },
+    {
+      "nct_id": "NCT05067634",
+      "title": "Safety and Efficacy Study of Cenobamate in Pediatric Subjects 2-17 Years of Age With Partial-onset (Focal) Seizures",
+      "status": "COMPLETED",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "SK Life Science, Inc.",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-10-02",
+      "primary_completion_date_type": "ACTUAL",
+      "window": "lookback",
+      "conditions": [
+        "Partial Epilepsy"
+      ],
+      "interventions": [
+        {
+          "name": "Xcopri",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "Xcopri"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT05067634",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "SK Life Science, Inc.",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=SK%20Life%20Science%2C%20Inc.&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-10-16T13:09:53Z"
+      }
+    },
+    {
+      "nct_id": "NCT04657991",
+      "title": "A Clinical Trial of Three Study Medicines (Encorafenib, Binimetinib, and Pembrolizumab) in Patients With Advanced or Metastatic Melanoma",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Pfizer",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-10-30",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Melanoma"
+      ],
+      "interventions": [
+        {
+          "name": "Encorafenib",
+          "type": "DRUG"
+        },
+        {
+          "name": "Binimetinib",
+          "type": "DRUG"
+        },
+        {
+          "name": "Pembrolizumab",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "Encorafenib",
+        "Binimetinib",
+        "Pembrolizumab"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT04657991",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Pfizer",
+        "ticker": "PFE",
+        "cik": "0000078003",
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000078003&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-10-11T13:51:20Z"
+      }
+    },
+    {
+      "nct_id": "NCT04851613",
+      "title": "Study to Evaluate Efficacy & Safety of Afuresertib Plus Fulvestrant in Patients With Locally Advanced or Metastatic HR+/HER2- Breast Cancer",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Laekna Limited",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-10-30",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Breast Cancer"
+      ],
+      "interventions": [
+        {
+          "name": "Afuresertib",
+          "type": "DRUG"
+        },
+        {
+          "name": "Afuresertib/placebo",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "Afuresertib",
+        "Afuresertib/placebo"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT04851613",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Laekna Limited",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Laekna%20Limited&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-10-16T13:09:53Z"
+      }
+    },
+    {
+      "nct_id": "NCT05444257",
+      "title": "A Study Evaluating the Long-term Safety and Efficacy of VX-121 Combination Therapy",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Vertex Pharmaceuticals Incorporated",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-10-30",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Cystic Fibrosis"
+      ],
+      "interventions": [
+        {
+          "name": "VX-121/TEZ/D-IVA",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "VX-121/TEZ/D-IVA"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT05444257",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Vertex Pharmaceuticals Incorporated",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Vertex%20Pharmaceuticals%20Incorporated&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-10-16T13:09:55Z"
+      }
+    },
+    {
+      "nct_id": "NCT07026968",
+      "title": "A Study of Prusogliptin Tablets Combined With Dapagliflozin Tablets and Metformin Hydrochloride Extended Release Tablets in Type 2 Diabetes",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "CSPC Ouyi Pharmaceutical Co., Ltd.",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-10-30",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Type 2 Diabetes"
+      ],
+      "interventions": [
+        {
+          "name": "Prusogliptin, Dapagliflozin(high dose), Dapagliflozin (low dose) placebo, plus metformin XR",
+          "type": "DRUG"
+        },
+        {
+          "name": "Prusogliptin placebo, Dapagliflozin(high dose), Dapagliflozin (low dose) placebo, plus metformin XR",
+          "type": "DRUG"
+        },
+        {
+          "name": "Prusogliptin, Dapagliflozin(high dose) placebo, Dapagliflozin (low dose), plus metformin XR",
+          "type": "DRUG"
+        },
+        {
+          "name": "Prusogliptin placebo, Dapagliflozin (high dose) placebo, Dapagliflozin (low dose), plus metformin XR",
+          "type": "DRUG"
+        },
+        {
+          "name": "Prusogliptin, Dapagliflozin (high dose) placebo, Dapagliflozin(low dose) placebo, plus metformin XR",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "Prusogliptin, Dapagliflozin(high dose), Dapagliflozin (low dose) placebo, plus metformin XR",
+        "Prusogliptin placebo, Dapagliflozin(high dose), Dapagliflozin (low dose) placebo, plus metformin XR",
+        "Prusogliptin, Dapagliflozin(high dose) placebo, Dapagliflozin (low dose), plus metformin XR",
+        "Prusogliptin placebo, Dapagliflozin (high dose) placebo, Dapagliflozin (low dose), plus metformin XR",
+        "Prusogliptin, Dapagliflozin (high dose) placebo, Dapagliflozin(low dose) placebo, plus metformin XR"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT07026968",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "CSPC Ouyi Pharmaceutical Co., Ltd.",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=CSPC%20Ouyi%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-10-14T14:24:06Z"
+      }
+    },
+    {
+      "nct_id": "NCT07490496",
+      "title": "Phase 3 Bunionectomy Study",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Cali Pharmaceuticals LLC",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-10-30",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Postoperative Pain",
+        "Bunion"
+      ],
+      "interventions": [
+        {
+          "name": "CPL-01",
+          "type": "DRUG"
+        },
+        {
+          "name": "saline placebo",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "CPL-01",
+        "saline placebo"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT07490496",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Cali Pharmaceuticals LLC",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Cali%20Pharmaceuticals%20LLC&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-10-16T13:09:52Z"
+      }
+    },
+    {
+      "nct_id": "NCT07494409",
+      "title": "A Study of AND017 to Evaluate Efficacy and Safety in Dialysis-Dependent Chronic Kidney Disease (DD-CKD) Patients With Anemia",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Kind Pharmaceuticals LLC",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-10-30",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Anemia Due to Chronic Kidney Disease"
+      ],
+      "interventions": [
+        {
+          "name": "AND017 capsules",
+          "type": "DRUG"
+        },
+        {
+          "name": "ESA",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "AND017 capsules",
+        "ESA"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT07494409",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Kind Pharmaceuticals LLC",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Kind%20Pharmaceuticals%20LLC&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-10-16T13:09:53Z"
+      }
+    },
+    {
+      "nct_id": "NCT07669467",
+      "title": "Nuvastatic® Phase III Trial for Fatigue in Triple-Negative Breast Cancer",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Natureceuticals Sdn Bhd",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-10-30",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Fatigue Related to Cancer Treatment",
+        "Breast Cancer"
+      ],
+      "interventions": [
+        {
+          "name": "Nuvastatic 300",
+          "type": "DRUG"
+        },
+        {
+          "name": "Placebo",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "Nuvastatic 300",
+        "Placebo"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT07669467",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Natureceuticals Sdn Bhd",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Natureceuticals%20Sdn%20Bhd&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-10-16T13:09:53Z"
+      }
+    }
+  ],
+  "removed_trial_ids": [
+    "NCT04965675",
+    "NCT06389136"
+  ]
 }

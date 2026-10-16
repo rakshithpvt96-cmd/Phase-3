@@ -1,14 +1,13 @@
 {
   "drug_name": "Placebo",
   "slug": "placebo",
-  "enriched_at": "2026-10-15T12:31:15Z",
+  "enriched_at": "2026-10-16T13:18:03Z",
   "source_trial_ids": [
     "NCT02914535",
     "NCT04036435",
     "NCT04652882",
     "NCT04895241",
     "NCT04961567",
-    "NCT04965675",
     "NCT05115110",
     "NCT05116462",
     "NCT05164341",
@@ -64,7 +63,8 @@
     "NCT07363720",
     "NCT07469800",
     "NCT07473960",
-    "NCT07555392"
+    "NCT07555392",
+    "NCT07669467"
   ],
   "sponsors": [
     {
@@ -224,12 +224,6 @@
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Guangdong%20Hengrui%20Pharmaceutical%20Co.%2C%20Ltd&type=10-K&dateb=&owner=include&count=40"
     },
     {
-      "name": "H. Lundbeck A/S",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=H.%20Lundbeck%20A/S&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
       "name": "Hangzhou Zhongmei Huadong Pharmaceutical Co., Ltd.",
       "ticker": null,
       "market_cap_display": null,
@@ -294,6 +288,12 @@
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Merck%20Sharp%20%26%20Dohme%20LLC&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Natureceuticals Sdn Bhd",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Natureceuticals%20Sdn%20Bhd&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Novartis Pharmaceuticals",
@@ -430,13 +430,6 @@
       "title": "A Study to Learn About the Safety of Litifilimab (BIIB059) Injections and Whether They Can Improve Symptoms of Adult Participants Who Have Systemic Lupus Erythematosus",
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT04961567",
-      "has_results": false
-    },
-    {
-      "nct_id": "NCT04965675",
-      "title": "A Study With Eptinezumab in Adolescents (12-17 Years) With Chronic Migraine",
-      "status": "RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT04965675",
       "has_results": false
     },
     {
@@ -799,7 +792,7 @@
     {
       "nct_id": "NCT07300839",
       "title": "A Study to Learn About a COVID-19 Vaccine in Healthy Adults 50 Through 64 Years of Age",
-      "status": "ACTIVE_NOT_RECRUITING",
+      "status": "COMPLETED",
       "url": "https://clinicaltrials.gov/study/NCT07300839",
       "has_results": false
     },
@@ -830,40 +823,47 @@
       "status": "RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT07555392",
       "has_results": false
+    },
+    {
+      "nct_id": "NCT07669467",
+      "title": "Nuvastatic® Phase III Trial for Fatigue in Triple-Negative Breast Cancer",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07669467",
+      "has_results": false
     }
   ],
   "prior_results": {
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42875830",
-        "title": "Safety, Tolerability, Pharmacokinetics and Exploratory Pharmacodynamics of Melanin-Concentrating Hormone Receptor-1 Antagonist RGH-706 in Healthy and Overweight or Obese Men.",
-        "pubdate": "2026 Oct 14",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42875830/"
+        "pmid": "42885348",
+        "title": "Effect of Colchicine on Arterial Stiffness in Patients With Hypertension: The COlchicine HypERtENsion Trial (COHERENT).",
+        "pubdate": "2026 Oct 16",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42885348/"
       },
       {
-        "pmid": "42875381",
-        "title": "Fecal microbiota transplantation for the treatment of neurogenic rosacea: protocol of a randomized, blinded, placebo-controlled explorer study.",
-        "pubdate": "2026 Dec",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42875381/"
+        "pmid": "42884177",
+        "title": "Beyond Taxonomy: Fungal Nutraceutical Supplementation Modifies the Functional Potential of the Gut Microbiome in Colorectal Cancer.",
+        "pubdate": "2026 Oct 8",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42884177/"
       },
       {
-        "pmid": "42875365",
-        "title": "Dosing, Safety, and Pharmacokinetics of Combination Therapy With Darolutamide, Androgen Deprivation Therapy, and Docetaxel for Metastatic Hormone-Sensitive Prostate Cancer in the ARASENS Study.",
-        "pubdate": "2026 Sep 6",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42875365/"
+        "pmid": "42884056",
+        "title": "A Randomized Clinical Trial of a Standardized Pumpkin-Seed-Derived Peptide Extract: Body Composition Outcomes and Exploratory Analysis by Baseline Adiposity in Overweight Adults.",
+        "pubdate": "2026 Oct 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42884056/"
       },
       {
-        "pmid": "42874619",
-        "title": "Safety and efficacy of delpacibart zotadirsen in Duchenne muscular dystrophy mutations amenable to exon 44 skipping in the USA (EXPLORE44): a randomised, placebo-controlled, double-blind, phase 1/2 trial.",
-        "pubdate": "2026 Nov",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42874619/"
+        "pmid": "42882121",
+        "title": "Population PK/PD Modeling and Simulation to Predict the Comparative Long-Term Efficacy of Olokizumab in Rheumatoid Arthritis Patients.",
+        "pubdate": "2026 Oct 2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42882121/"
       },
       {
-        "pmid": "42874165",
-        "title": "Analysis of Virologic and Clinical Predictors for Hospitalization, Supported by Machine Learning, in a Phase 3 Molnupiravir COVID-19 Treatment Trial.",
-        "pubdate": "2026 Oct",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42874165/"
+        "pmid": "42880978",
+        "title": "Phase 3, randomised, placebo-controlled trial of voxelotor for the resolution of leg ulcers in sickle cell disease: RESOLVE.",
+        "pubdate": "2026 Oct 15",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42880978/"
       }
     ]
   },

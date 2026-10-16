@@ -1,10 +1,9 @@
 {
   "drug_name": "Iron sucrose",
   "slug": "iron-sucrose",
-  "enriched_at": "2026-09-16T12:33:26Z",
+  "enriched_at": "2026-10-16T13:25:31Z",
   "source_trial_ids": [
-    "NCT03619850",
-    "NCT03893045"
+    "NCT03619850"
   ],
   "sponsors": [
     {
@@ -45,8 +44,8 @@
     "further_reading": null
   },
   "condition": {
-    "raw": "Iron Deficiency Anemia",
-    "slug": "iron-deficiency-anemia"
+    "raw": "Chronic Kidney Disease; Iron Deficiency Anemia",
+    "slug": "chronic-kidney-disease-iron-deficiency-anemia"
   },
   "source_trials": [
     {
@@ -54,13 +53,6 @@
       "title": "A Study to Evaluate the Safety (Compared to Iron Sucrose), Efficacy and Pharmacokinetics of Ferumoxytol for the Treatment of Iron Deficiency Anemia (IDA) in Pediatric Subjects With Chronic Kidney Disease (CKD)",
       "status": "RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT03619850",
-      "has_results": false
-    },
-    {
-      "nct_id": "NCT03893045",
-      "title": "A Study to Evaluate Ferumoxytol for the Treatment of Iron Deficiency Anemia (IDA) in Pediatric Subjects",
-      "status": "RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT03893045",
       "has_results": false
     }
   ],

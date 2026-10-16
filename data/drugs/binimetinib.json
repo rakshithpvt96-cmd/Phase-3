@@ -1,0 +1,156 @@
+{
+  "drug_name": "Binimetinib",
+  "slug": "binimetinib",
+  "enriched_at": "2026-10-16T13:12:09Z",
+  "source_trial_ids": [
+    "NCT04657991"
+  ],
+  "sponsors": [
+    {
+      "name": "Pfizer",
+      "ticker": "PFE",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000078003&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 10288191,
+    "iupac_name": "6-(4-bromo-2-fluoroanilino)-7-fluoro-N-(2-hydroxyethoxy)-3-methylbenzimidazole-5-carboxamide",
+    "molecular_formula": "C17H15BrF2N4O3",
+    "molecular_weight": "441.2",
+    "canonical_smiles": null,
+    "inchikey": "ACWZRVQXLIRSDF-UHFFFAOYSA-N",
+    "rxnorm": {
+      "rxcui": "2049122",
+      "generic_name": "binimetinib",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL3187723",
+    "target_chembl_id": "CHEMBL3587",
+    "target_name": "Dual specificity mitogen-activated protein kinase kinase 1",
+    "mechanism_of_action_chembl": "Dual specificity mitogen-activated protein kinase kinase 1 inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Binimetinib is a reversible inhibitor of mitogen-activated extracellular signal regulated kinase 1 (MEK1) and MEK2 activity. MEK proteins are upstream regulators of the extracellular signal-related kinase (ERK) pathway. In vitro, binimetinib inhibited extracellular signal-related kinase (ERK) phosphorylation in cell-free assays as well as viability and MEK-dependent phosphorylation of BRAF-mutant human melanoma cell lines. Binimetinib also inhibited in vivo ERK phosphorylation and tumor growth in BRAF-mutant murine xenograft models. Binimetinib and encorafenib target two different kinases in the RAS/RAF/MEK/ERK pathway. Compared to either drug alone, coadministration of encorafenib and binimetinib resulted in greater anti-proliferative activity in vitro in BRAF mutation-positive cell lines and greater anti-tumor activity with respect to tumor growth inhibition in BRAF V600E mutant human melanoma xenograft studies in mice. Additionally, the combination of binimetinib and encorafenib delayed the emergence of resistance in BRAF V600E mutant human melanoma xenografts in mice compared to either drug alone. In a BRAF V600E mutant NSCLC patient-derived xenograft model in mice, coadministration of encorafenib and binimetinib resulted in greater anti-tumor activity compared to binimetinib alone, with respect to tumor growth inhibition. Increased tumor growth delay after dosing cessation was also observed with the coadministration compared to either drug alone.",
+    "pharmacokinetics": "12.3 Pharmacokinetics The pharmacokinetics of binimetinib was studied in healthy subjects and patients with solid tumors. After twice-daily dosing, the accumulation is 1.5-fold and the coefficient of variation (CV%) of the area under the concentration-time curve (AUC) is <40% at steady state. The systemic exposure of binimetinib is approximately dose proportional. Absorption After oral administration, at least 50% of the binimetinib dose was absorbed with a median time to maximum concentration (T max ) of 1.6 hours. Effect of Food The administration of a single dose of MEKTOVI 45 mg with a high-fat, high-calorie meal (consisting of approximately 150 calories from protein, 350 calories from carbohydrate, and 500 calories from fat) in healthy subjects had no effect on binimetinib exposure. Distribution Binimetinib is 97% bound to human plasma proteins and the blood-to-plasma ratio is 0.72. The geometric mean (CV%) of apparent volume of distribution of binimetinib is 92 L (45%). Elimination The mean (CV%) terminal half-life (t 1/2 ) of binimetinib is 3.5 hours (28.5%) and apparent clearance (CL/F) is 20.2 L/h (24%). Metabolism The primary metabolic pathway is glucuronidation with UGT1A1 contributing up to 61% of the binimetinib metabolism. Other pathways of binimetinib metabolism include N-dealkylation, amide hydrolysis, and loss of ethane-diol from the side chain. The active metabolite M3 produced by CYP1A2 and CYP2C19 represents 8.6% of the binimetinib exposure. Following a single oral dose of 45 mg radiolabeled binimetinib, approximately 60% of the circulating radioactivity AUC in plasma was attributable to binimetinib. Excretion Following a single oral dose of 45 mg radiolabeled binimetinib in healthy subjects, 62% (32% unchanged) of the administered dose was recovered in the feces while 31% (6.5% unchanged) was recovered in the urine. Specific Populations Age (20 to 94 years), sex, or body weight do not have a clinically important effect on the systemic exposure of binimetinib. The effect of race or ethnicity on the pharmacokinetics of binimetinib is unknown. Hepatic Impairment: No clinically meaningful changes in binimetinib exposure (AUC and C max ) were observed in subjects with mild hepatic impairment (total bilirubin >1 and ≤1.5 × ULN and any AST or total bilirubin ≤ ULN and AST > ULN) as compared to subjects with normal liver function (total bilirubin ≤ ULN and AST ≤ ULN). A 2-fold increase in AUC was observed in subjects with moderate (total bilirubin >1.5 and ≤3 × ULN and any AST) or severe (total bilirubin levels >3 × ULN and any AST) hepatic impairment [see Dosage and Administration (2.4) ] . Renal Impairment: In subjects with severe renal impairment (eGFR ≤29 mL/min/1.73 m 2 ), no clinically important changes in binimetinib exposure were observed as compared to subjects with normal renal function. Drug Interaction Studies Clinical Studies Effect of UGT1A1 Inducers or Inhibitors on Binimetinib : UGT1A1 genotype and smoking (UGT1A1 inducer) do not have a clinically important effect on binimetinib exposure. Simulations predict similar C max of binimetinib 45 mg in the presence or absence of atazanavir 400 mg (UGT1A1 inhibitor). No differences in binimetinib exposure have been observed when MEKTOVI is coadministered with encorafenib. Effect of Binimetinib on CYP Substrates : Binimetinib did not alter the exposure of a sensitive CYP3A4 substrate (midazolam). Effect of Acid Reducing Agents on Binimetinib : The extent of binimetinib exposure (AUC) was not altered in the presence of a gastric acid reducing agent (rabeprazole). In Vitro Studies Effect of Binimetinib on CYP Substrates: Binimetinib is not a time-dependent inhibitor of CYP1A2, CYP2C9, CYP2D6 or CYP3A. Effect of Transporters on Binimetinib: Binimetinib is a substrate of P-glycoprotein (P-gp) and breast cancer resistance protein (BCRP). Binimetinib is not a substrate of organic anion transporting polypeptide (OATP1B1, OATP1B3, OATP2B1) or organic cation transporter 1 (OCT1).",
+    "indications_and_usage": "1 INDICATIONS AND USAGE MEKTOVI is a kinase inhibitor indicated: • in combination with encorafenib, for the treatment of patients with unresectable or metastatic melanoma with a BRAF V600E or V600K mutation, as detected by an FDA-approved test. ( 1.1 , 2.1 ) • in combination with encorafenib, for the treatment of adult patients with metastatic non-small cell lung cancer (NSCLC) with a BRAF V600E mutation, as detected by an FDA-approved test. ( 1.2 , 2.1 ) 1.1 BRAF V600E or V600K Mutation-Positive Unresectable or Metastatic Melanoma MEKTOVI is indicated, in combination with encorafenib, for the treatment of patients with unresectable or metastatic melanoma with a BRAF V600E or V600K mutation, as detected by an FDA-approved test [see Dosage and Administration (2.1) ] . 1.2 BRAF V600E Mutation-Positive Metastatic Non-Small Cell Lung Cancer (NSCLC) MEKTOVI is indicated, in combination with encorafenib, for the treatment of adult patients with metastatic non-small cell lung cancer (NSCLC) with a BRAF V600E mutation, as detected by an FDA-approved test. [see Dosage and Administration (2.1) ] .",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "MEKTOVI"
+    ],
+    "openfda_generic_names": [
+      "BINIMETINIB"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6c3408ac-d401-4925-8a03-26591afbc240",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Melanoma",
+    "slug": "melanoma"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04657991",
+      "title": "A Clinical Trial of Three Study Medicines (Encorafenib, Binimetinib, and Pembrolizumab) in Patients With Advanced or Metastatic Melanoma",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04657991",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42391424",
+        "title": "Clinical Validation of Tissue and Liquid Companion Diagnostics for BRAF V600E Detection in Non-Small Cell Lung Cancers from the PHAROS Study.",
+        "pubdate": "2026 Jul 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42391424/"
+      },
+      {
+        "pmid": "42059002",
+        "title": "MEK inhibitors for neurofibromatosis type 1-associated central and peripheral nervous system tumors.",
+        "pubdate": "2026 May",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42059002/"
+      },
+      {
+        "pmid": "41946829",
+        "title": "Safety and efficacy of lapatinib, binimetinib, and vinorelbine for RAS mutant metastatic colorectal cancer: results of the RASTRIC Phase I/II trial.",
+        "pubdate": "2026 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41946829/"
+      },
+      {
+        "pmid": "41914670",
+        "title": "Plain language summary of the LOGIC 2 study: Encorafenib, binimetinib, plus a third drug for people with BRAF V600-mutant melanoma.",
+        "pubdate": "2026 Apr",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41914670/"
+      },
+      {
+        "pmid": "41910021",
+        "title": "A plain language summary of the updated results from the PHAROS study: the combination of encorafenib plus binimetinib for people with BRAF V600E-mutant metastatic non-small cell lung cancer.",
+        "pubdate": "2026 Apr",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41910021/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "TRAMETINIB DIMETHYL SULFOXIDE",
+        "chembl_id": "CHEMBL2105741",
+        "reason": "same target: Dual specificity mitogen-activated protein kinase kinase 1"
+      },
+      {
+        "name": "COBIMETINIB FUMARATE",
+        "chembl_id": "CHEMBL2364607",
+        "reason": "same target: Dual specificity mitogen-activated protein kinase kinase 1"
+      },
+      {
+        "name": "AS-703988",
+        "chembl_id": "CHEMBL3545243",
+        "reason": "same target: Dual specificity mitogen-activated protein kinase kinase 1"
+      },
+      {
+        "name": "AZD-8330",
+        "chembl_id": "CHEMBL3182621",
+        "reason": "same target: Dual specificity mitogen-activated protein kinase kinase 1"
+      },
+      {
+        "name": "BALAMAPIMOD",
+        "chembl_id": "CHEMBL2104954",
+        "reason": "same target: Dual specificity mitogen-activated protein kinase kinase 1"
+      },
+      {
+        "name": "AVUTOMETINIB",
+        "chembl_id": "CHEMBL3264002",
+        "reason": "same target: Dual specificity mitogen-activated protein kinase kinase 1"
+      },
+      {
+        "name": "RO-4987655",
+        "chembl_id": "CHEMBL1614766",
+        "reason": "same target: Dual specificity mitogen-activated protein kinase kinase 1"
+      },
+      {
+        "name": "TAK-733",
+        "chembl_id": "CHEMBL1615025",
+        "reason": "same target: Dual specificity mitogen-activated protein kinase kinase 1"
+      },
+      {
+        "name": "WX-554",
+        "chembl_id": "CHEMBL3545145",
+        "reason": "same target: Dual specificity mitogen-activated protein kinase kinase 1"
+      },
+      {
+        "name": "PIMASERTIB",
+        "chembl_id": "CHEMBL2107832",
+        "reason": "same target: Dual specificity mitogen-activated protein kinase kinase 1"
+      }
+    ]
+  }
+}

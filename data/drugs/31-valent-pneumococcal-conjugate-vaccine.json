@@ -1,0 +1,99 @@
+{
+  "drug_name": "31 valent pneumococcal conjugate vaccine",
+  "slug": "31-valent-pneumococcal-conjugate-vaccine",
+  "enriched_at": "2026-10-16T13:22:30Z",
+  "source_trial_ids": [
+    "NCT07284654"
+  ],
+  "sponsors": [
+    {
+      "name": "Vaxcyte, Inc.",
+      "ticker": "PCVX",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001649094&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "873582",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2108573",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": "Biological vaccine - induces immune response"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=31%20valent%20pneumococcal%20conjugate%20vaccine+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=31%20valent%20pneumococcal%20conjugate%20vaccine+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=31%20valent%20pneumococcal%20conjugate%20vaccine+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Pneumococcal Disease",
+    "slug": "pneumococcal-disease"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07284654",
+      "title": "Safety, Tolerability, and Immunogenicity of VAX-31 in Adults ≥50 Years With Immunobridging to Adults 18-49",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT07284654",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42114524",
+        "title": "Effect of 13-valent pneumococcal conjugate vaccine on experimental carriage at 1-year post-vaccination on rechallenge with Streptococcus pneumoniae serotype 6B in Blantyre, Malawi: a controlled human infection study and longitudinal follow-up of a randomised controlled trial.",
+        "pubdate": "2026 May",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42114524/"
+      },
+      {
+        "pmid": "41864214",
+        "title": "Safety, tolerability, and immunogenicity of a 31-valent pneumococcal conjugate vaccine (VAX-31) in healthy adults aged 50 years and older from the USA: a phase 1/2, double-blinded, active-controlled, parallel-group, dose-finding randomised clinical trial.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41864214/"
+      },
+      {
+        "pmid": "39956719",
+        "title": "Antibody persistence in Chinese toddlers at 1 year and 2 years after two different 4-dose schedules of a novel 13-valent pneumococcal conjugate vaccine (PCV13-TT).",
+        "pubdate": "2025 Mar 7",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39956719/"
+      },
+      {
+        "pmid": "39279631",
+        "title": "Adult indication 13-valent pneumococcal conjugate vaccine clinical development overview: formulation, safety, immunogenicity (dosing and sequence), coadministration, and efficacy.",
+        "pubdate": "2024 Jan-Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39279631/"
+      },
+      {
+        "pmid": "37061372",
+        "title": "Improved plasmablast response after repeated pneumococcal revaccinations following primary immunization with 13-valent pneumococcal conjugate vaccine or 23-valent pneumococcal polysaccharide vaccine in patients with chronic lymphocytic leukemia.",
+        "pubdate": "2023 May 5",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37061372/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}
