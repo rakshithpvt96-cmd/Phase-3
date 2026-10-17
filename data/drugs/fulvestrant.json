@@ -1,16 +1,23 @@
 {
   "drug_name": "Fulvestrant",
   "slug": "fulvestrant",
-  "enriched_at": "2026-09-15T12:33:40Z",
+  "enriched_at": "2026-10-17T11:31:09Z",
   "source_trial_ids": [
-    "NCT05501886"
+    "NCT06016738",
+    "NCT06635447"
   ],
   "sponsors": [
     {
-      "name": "Celcuity Inc",
-      "ticker": "CELC",
+      "name": "AstraZeneca",
+      "ticker": "AZN",
       "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001603454&type=10-K&dateb=&owner=include&count=40"
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000901832&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Olema Pharmaceuticals, Inc.",
+      "ticker": "OLMA",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001750284&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
@@ -45,7 +52,7 @@
     "openfda_generic_names": [
       "FULVESTRANT"
     ],
-    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e20d8ca3-8837-4003-8b01-1ebec342062a",
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=840cd7c0-9f33-f74e-f136-de7fe899bfb4",
     "note": null,
     "further_reading": null
   },
@@ -55,10 +62,17 @@
   },
   "source_trials": [
     {
-      "nct_id": "NCT05501886",
-      "title": "Gedatolisib Plus Fulvestrant With or Without Palbociclib vs Standard-of-Care for the Treatment of Patients With Advanced or Metastatic HR+/HER2- Breast Cancer (VIKTORIA-1)",
+      "nct_id": "NCT06016738",
+      "title": "OP-1250 (Palazestrant) vs. Standard of Care for the Treatment of ER+/HER2- Advanced Breast Cancer",
       "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT05501886",
+      "url": "https://clinicaltrials.gov/study/NCT06016738",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06635447",
+      "title": "Capivasertib+Fulvestrant asTreatment for Locally Advanced(Inoperable) or Metastatic HR+/HER2- Breast Cancer in Chinese Patients",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06635447",
       "has_results": false
     }
   ],
@@ -66,9 +80,15 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42814929",
+        "title": "Giredestrant plus Everolimus in Advanced Breast Cancer.",
+        "pubdate": "2026 Oct 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42814929/"
+      },
+      {
         "pmid": "42543051",
         "title": "Cost-effectiveness of inavolisib-based therapy in PIK3CA-mutated advanced breast cancer in the USA.",
-        "pubdate": "2026 Jul 27",
+        "pubdate": "2026 Oct",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42543051/"
       },
       {
@@ -88,18 +108,38 @@
         "title": "Fulvestrant versus capecitabine as maintenance therapy in hormone receptor-positive, HER2-negative metastatic breast cancer after first-line chemotherapy (FAMILY): a multicenter, open-label, randomized, phase 3 trial.",
         "pubdate": "2026 May 22",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42168151/"
-      },
-      {
-        "pmid": "41902997",
-        "title": "The logarithmic phase as a therapeutic direction: evaluating pharmacological strategies against cancer progression.",
-        "pubdate": "2026 Sep",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41902997/"
       }
     ]
   },
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": []
+    "items": [
+      {
+        "name": "Afuresertib",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Laekna Limited"
+      },
+      {
+        "name": "Afuresertib/placebo",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Laekna Limited"
+      },
+      {
+        "name": "Nuvastatic 300",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Natureceuticals Sdn Bhd"
+      },
+      {
+        "name": "Placebo",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Natureceuticals Sdn Bhd"
+      },
+      {
+        "name": "Capivasertib",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: AstraZeneca"
+      }
+    ]
   }
 }

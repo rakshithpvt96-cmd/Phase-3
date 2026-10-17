@@ -1,0 +1,131 @@
+{
+  "drug_name": "Exemestane",
+  "slug": "exemestane",
+  "enriched_at": "2026-10-17T11:31:00Z",
+  "source_trial_ids": [
+    "NCT06016738"
+  ],
+  "sponsors": [
+    {
+      "name": "Olema Pharmaceuticals, Inc.",
+      "ticker": "OLMA",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001750284&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 60198,
+    "iupac_name": "(8R,9S,10R,13S,14S)-10,13-dimethyl-6-methylidene-7,8,9,11,12,14,15,16-octahydrocyclopenta[a]phenanthrene-3,17-dione",
+    "molecular_formula": "C20H24O2",
+    "molecular_weight": "296.4",
+    "canonical_smiles": null,
+    "inchikey": "BFYIZQONLCFLEV-DAELLWKTSA-N",
+    "rxnorm": {
+      "rxcui": "258494",
+      "generic_name": "exemestane",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1200374",
+    "target_chembl_id": "CHEMBL1978",
+    "target_name": "Aromatase",
+    "mechanism_of_action_chembl": "Cytochrome P450 19A1 inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Breast cancer cell growth may be estrogen-dependent. Aromatase is the principal enzyme that converts androgens to estrogens both in pre- and postmenopausal women. While the main source of estrogen (primarily estradiol) is the ovary in premenopausal women, the principal source of circulating estrogens in postmenopausal women is from conversion of adrenal and ovarian androgens (androstenedione and testosterone) to estrogens (estrone and estradiol) by the aromatase enzyme in peripheral tissues. Exemestane is an irreversible, steroidal aromatase inactivator, structurally related to the natural substrate androstenedione. It acts as a false substrate for the aromatase enzyme, and is processed to an intermediate that binds irreversibly to the active site of the enzyme, causing its inactivation, an effect also known as \"suicide inhibition.\" Exemestane significantly lowers circulating estrogen concentrations in postmenopausal women, but has no detectable effect on adrenal biosynthesis of corticosteroids or aldosterone. Exemestane has no effect on other enzymes involved in the steroidogenic pathway up to a concentration at least 600 times higher than that inhibiting the aromatase enzyme.",
+    "pharmacokinetics": "12.3 Pharmacokinetics Following oral administration to healthy postmenopausal women, plasma concentrations of exemestane decline polyexponentially with a mean terminal half-life of about 24 hours. The pharmacokinetics of exemestane are dose proportional after single (10 to 200 mg) or repeated oral doses (0.5 to 50 mg). Following repeated daily doses of exemestane 25 mg, plasma concentrations of unchanged drug are similar to levels measured after a single dose. Pharmacokinetic parameters in postmenopausal women with advanced breast cancer following single or repeated doses have been compared with those in healthy, postmenopausal women. After repeated dosing, the average oral clearance in women with advanced breast cancer was 45% lower than the oral clearance in healthy postmenopausal women, with corresponding higher systemic exposure. Mean AUC values following repeated doses in women with breast cancer (75.4 ng•h/mL) were about twice those in healthy women (41.4 ng•h/mL). Absorption Following oral administration, exemestane appeared to be absorbed more rapidly in women with breast cancer than in the healthy women, with a mean t max of 1.2 hours in the women with breast cancer and 2.9 hours in healthy women. Approximately 42% of radiolabeled exemestane was absorbed from the gastrointestinal tract. A high-fat breakfast increased AUC and C max of exemestane by 59% and 39%, respectively, compared to fasted state. Distribution Exemestane is distributed extensively into tissues. Exemestane is 90% bound to plasma proteins and the fraction bound is independent of the total concentration. Albumin and α 1 1-acid glycoprotein both contribute to the binding. The distribution of exemestane and its metabolites into blood cells is negligible. Metabolism Exemestane is extensively metabolized, with levels of the unchanged drug in plasma accounting for less than 10% of the total radioactivity. The initial steps in the metabolism of exemestane are oxidation of the methylene group in position 6 and reduction of the 17-keto group with subsequent formation of many secondary metabolites. Each metabolite accounts only for a limited amount of drug-related material. The metabolites are inactive or inhibit aromatase with decreased potency compared with the parent drug. One metabolite may have androgenic activity [see Clinical Pharmacology (12.2) ] . Studies using human liver preparations indicate that cytochrome P 450 3A4 (CYP 3A4) is the principal isoenzyme involved in the oxidation of exemestane. Exemestane is metabolized also by aldoketoreductases. Elimination Following administration of radiolabeled exemestane to healthy postmenopausal women, the cumulative amounts of radioactivity excreted in urine and feces were similar (42 ± 3% in urine and 42 ± 6% in feces over a 1-week collection period). The amount of drug excreted unchanged in urine was less than 1% of the dose. Specific Populations Geriatric: Healthy postmenopausal women aged 43 to 68 years were studied in the pharmacokinetic trials. Age- related alterations in exemestane pharmacokinetics were not seen over this age range. Gender: The pharmacokinetics of exemestane following administration of a single, 25-mg tablet to fasted healthy males (mean age 32 years) were similar to the pharmacokinetics of exemestane in fasted healthy postmenopausal women (mean age 55 years). Race: The influence of race on exemestane pharmacokinetics has not been evaluated. Hepatic Impairment : The pharmacokinetics of exemestane have been investigated in subjects with moderate or severe hepatic impairment (Childs-Pugh B or C). Following a single 25-mg oral dose, the AUC of exemestane was approximately 3 times higher than that observed in healthy volunteers. Renal Impairment: The AUC of exemestane after a single 25-mg dose was approximately 3 times higher in subjects with moderate or severe renal insufficiency (creatinine clearance <35 mL/min/1.73 m 2 ) compared with the AUC in healthy volunteers. Pediatric : The pharmacokinetics of exemestane have not been studied in pediatric patients. Drug Interaction Studies Exemestane does not inhibit any of the major CYP isoenzymes, including CYP 1A2, 2C9, 2D6, 2E1, and 3A4. In a pharmacokinetic interaction study of 10 healthy postmenopausal volunteers pretreated with potent CYP 3A4 inducer rifampicin 600 mg daily for 14 days followed by a single dose of exemestane 25 mg, the mean plasma C max and AUC 0-∞ of exemestane were decreased by 41% and 54%, respectively [see Dosage and Administration (2.2) and Drug Interactions (7) ] . In a clinical pharmacokinetic study, coadministration of ketoconazole, a potent inhibitor of CYP 3A4, has no significant effect on exemestane pharmacokinetics. Although no other formal drug-drug interaction studies with inhibitors have been conducted, significant effects on exemestane clearance by CYP isoenzyme inhibitors appear unlikely.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE Exemestane tablets are an aromatase inhibitor indicated for: adjuvant treatment of postmenopausal women with estrogen-receptor positive early breast cancer who have received two to three years of tamoxifen and are switched to exemestane tablets for completion of a total of five consecutive years of adjuvant hormonal therapy ( 14.1 ). treatment of advanced breast cancer in postmenopausal women whose disease has progressed following tamoxifen therapy ( 14.2 ). 1.1 Adjuvant Treatment of Postmenopausal Women Exemestane tablets are indicated for adjuvant treatment of postmenopausal women with estrogen-receptor positive early breast cancer who have received two to three years of tamoxifen and are switched to exemestane tablets for completion of a total of five consecutive years of adjuvant hormonal therapy [see Clinical Studies (14.1) ]. 1.2 Advanced Breast Cancer in Postmenopausal Women Exemestane tablets are indicated for the treatment of advanced breast cancer in postmenopausal women whose disease has progressed following tamoxifen therapy [see Clinical Studies (14.2) ].",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "Exemestane"
+    ],
+    "openfda_generic_names": [
+      "EXEMESTANE"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fab5468a-d5b7-45e3-b8b2-ed902fddd3a6",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Breast Cancer",
+    "slug": "breast-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06016738",
+      "title": "OP-1250 (Palazestrant) vs. Standard of Care for the Treatment of ER+/HER2- Advanced Breast Cancer",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06016738",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42814929",
+        "title": "Giredestrant plus Everolimus in Advanced Breast Cancer.",
+        "pubdate": "2026 Oct 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42814929/"
+      },
+      {
+        "pmid": "42574969",
+        "title": "A phase II study of androgen receptor inhibition by darolutamide in combination with leuprolide acetate and exemestane in recurrent adult-type ovarian granulosa cell tumor.",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42574969/"
+      },
+      {
+        "pmid": "42405609",
+        "title": "Ovarian Function Suppression in Premenopausal Hormone Receptor-Positive Early Breast Cancer: A Comprehensive Review.",
+        "pubdate": "2026 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42405609/"
+      },
+      {
+        "pmid": "41913218",
+        "title": "A biology-based quality-diversity algorithm for drug repurposing in Alzheimer's disease using automated machine learning.",
+        "pubdate": "2026 Mar 30",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41913218/"
+      },
+      {
+        "pmid": "40974664",
+        "title": "Artificial intelligence and radiomics biomarkers for treatment response prediction in advanced HER2-negative breast cancer.",
+        "pubdate": "2025 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40974664/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "TESTOLACTONE",
+        "chembl_id": "CHEMBL1571",
+        "reason": "same target: Aromatase"
+      },
+      {
+        "name": "ANASTROZOLE",
+        "chembl_id": "CHEMBL1399",
+        "reason": "same target: Aromatase"
+      },
+      {
+        "name": "LETROZOLE",
+        "chembl_id": "CHEMBL1444",
+        "reason": "same target: Aromatase"
+      },
+      {
+        "name": "AMINOGLUTETHIMIDE",
+        "chembl_id": "CHEMBL488",
+        "reason": "same target: Aromatase"
+      },
+      {
+        "name": "FADROZOLE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL468419",
+        "reason": "same target: Aromatase"
+      }
+    ]
+  }
+}

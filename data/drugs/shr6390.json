@@ -1,0 +1,87 @@
+{
+  "drug_name": "SHR6390",
+  "slug": "shr6390",
+  "enriched_at": "2026-10-17T11:33:37Z",
+  "source_trial_ids": [
+    "NCT04842617"
+  ],
+  "sponsors": [
+    {
+      "name": "Jiangsu HengRui Medicine Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Jiangsu%20HengRui%20Medicine%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 86279927,
+    "iupac_name": "6-acetyl-8-cyclopentyl-5-methyl-2-[(5-piperidin-4-yl-2-pyridinyl)amino]pyrido[2,3-d]pyrimidin-7-one",
+    "molecular_formula": "C25H30N6O2",
+    "molecular_weight": "446.5",
+    "canonical_smiles": null,
+    "inchikey": "SGJLSPUSUBJWHO-UHFFFAOYSA-N",
+    "rxnorm": {
+      "rxcui": "2615285",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4802161",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=SHR6390+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=SHR6390+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=SHR6390+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Hormone Receptor Positive,Human Epidermal Receptor 2 Negative, Node-positive, High Risk, Early Stage，Female Breast Cancer",
+    "slug": "hormone-receptor-positive-human-epidermal-receptor-2-negative-node-positive-high-risk-early-stage-female-breast-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04842617",
+      "title": "Phase III Study ：SHR6390/Placebo Combined With Endocrine Therapy for the Adjuvant Treatment of Hormone Receptor Positive,Human Epidermal Receptor 2 Negative",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04842617",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "38807144",
+        "title": "The efficacy and safety of dalpiciclib, a cyclin-dependent kinase 4/6 inhibitor, in patients with advanced head and neck mucosal melanoma harboring CDK4 amplification.",
+        "pubdate": "2024 May 29",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38807144/"
+      },
+      {
+        "pmid": "32898333",
+        "title": "Pyrotinib combined with CDK4/6 inhibitor in HER2-positive metastatic gastric cancer: A promising strategy from AVATAR mouse to patients.",
+        "pubdate": "2020 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32898333/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

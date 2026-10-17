@@ -1,8 +1,9 @@
 {
   "drug_name": "Nuvastatic 300",
   "slug": "nuvastatic-300",
-  "enriched_at": "2026-10-16T13:25:39Z",
+  "enriched_at": "2026-10-17T11:41:47Z",
   "source_trial_ids": [
+    "NCT07669454",
     "NCT07669467"
   ],
   "sponsors": [
@@ -44,6 +45,13 @@
     "slug": "fatigue-related-to-cancer-treatment"
   },
   "source_trials": [
+    {
+      "nct_id": "NCT07669454",
+      "title": "A Randomized, Double-blind, Placebo-controlled, Parallel-group, Comparative, Phase III Study to Evaluate the Efficacy and Safety of Nuvastatic® 300mg Capsule in Reducing Cancer-Tumor in Patients With Metastatic Colorectal Cancer Receiving Standard Chemotherapy.",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07669454",
+      "has_results": false
+    },
     {
       "nct_id": "NCT07669467",
       "title": "Nuvastatic® Phase III Trial for Fatigue in Triple-Negative Breast Cancer",

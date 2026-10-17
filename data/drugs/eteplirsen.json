@@ -1,0 +1,130 @@
+{
+  "drug_name": "Eteplirsen",
+  "slug": "eteplirsen",
+  "enriched_at": "2026-10-17T11:30:47Z",
+  "source_trial_ids": [
+    "NCT03992430"
+  ],
+  "sponsors": [
+    {
+      "name": "Sarepta Therapeutics, Inc.",
+      "ticker": "SRPT",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000873303&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1810569",
+      "generic_name": "eteplirsen",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2108278",
+    "target_chembl_id": "CHEMBL3826826",
+    "target_name": "Dystrophin pre-mRNA",
+    "mechanism_of_action_chembl": "Dystrophin pre-mRNA positive modulator"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Eteplirsen is designed to bind to exon 51 of dystrophin pre-mRNA, resulting in exclusion of this exon during mRNA processing in patients with genetic mutations that are amenable to exon 51 skipping. Exon skipping is intended to allow for production of an internally truncated dystrophin protein, which was evaluated in Study 2 and Study 3 [ see Clinical Studies ( 14 ) ].",
+    "pharmacokinetics": "12.3 Pharmacokinetics Following single or multiple intravenous infusions of EXONDYS 51 in male pediatric DMD patients, plasma concentration-time profiles of eteplirsen were generally similar and showed multi-phasic decline. The majority of drug elimination occurred within 24 hours. Approximate dose-proportionality and linearity in PK properties were observed following multiple-dose studies (0.5 mg/kg/week [0.017 times the recommended dosage] to 50 mg/kg/week [1.7 times the recommended dosage]). There was no significant drug accumulation following weekly dosing across this dose range. The inter-subject variability for eteplirsen C max and AUC range from 20 to 55%. Following single or multiple intravenous infusions of EXONDYS 51, the peak plasma concentrations (C max ) of eteplirsen occurred near the end of infusion (i.e., 1.1 to 1.2 hours across a dose range of 0.5 mg/kg/week to 50 mg/kg/week). Distribution In vitro investigation suggested that plasma protein binding of eteplirsen in human ranges between 6 to 17%. The mean apparent volume of distribution (Vss) of eteplirsen was 600 mL/kg following weekly intravenous infusion of EXONDYS 51 at 30 mg/kg. Twenty-four hours after the end of the infusion, mean concentrations of eteplirsen were 0.07% of C max . Accumulation of eteplirsen during once weekly dosing has not been observed. Elimination The total clearance of eteplirsen was 339 mL/hr/kg following 12 weeks of therapy with 30 mg/kg/week. Metabolism Eteplirsen did not appear to be metabolized by hepatic microsomes of any species tested, including humans. Excretion Renal clearance of eteplirsen accounts for approximately two-thirds of the administered dose within 24 hours of intravenous administration. Elimination half-life (t 1/2 ) of eteplirsen was 3 to 4 hours. Specific Populations Age: The pharmacokinetics of eteplirsen have been evaluated in male pediatric DMD patients. There is no experience with the use of EXONDYS 51 in patients 65 years of age or older. Sex: Sex effects have not been evaluated; EXONDYS 51 has not been studied in female patients. Race: Potential impact of race is not known because 89% of the patients in studies were Caucasians. Patients with Renal Impairment: The effect of renal impairment on the pharmacokinetics of eteplirsen was evaluated in non-DMD subjects aged 51 to 75 years with mild (n=8, creatinine clearance ≥60 mL/min and <90 mL/min) or moderate (n=8, creatinine clearance ≥30 mL/min and <60 mL/min) renal impairment and matched healthy subjects (n=9, creatinine clearance >90 mL/min). Subjects received a single 30 mg/kg intravenous dose of eteplirsen. Subjects with mild and moderate renal impairment showed higher eteplirsen exposure compared to subjects with normal renal function. In subjects with mild and moderate renal impairment, exposure (AUC) increased approximately 1.4-fold and 2.4-fold, respectively. The effect of severe renal impairment or end-stage renal disease on eteplirsen pharmacokinetics and safety has not been studied. Estimated creatinine clearance values derived from the Cockcroft-Gault equation and the threshold definitions for mild, moderate, and severe renal impairment in otherwise healthy adults would not be generalizable to patients with DMD. Therefore, no specific dosage adjustment can be recommended for patients with renal impairment. Patients with Hepatic Impairment: EXONDYS 51 has not been studied in patients with hepatic impairment. Drug Interaction Studies In vitro data showed that eteplirsen did not significantly inhibit CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, or CYP3A4/5. Eteplirsen did not induce CYP2B6 or CYP3A4, and induction of CYP1A2 was substantially less than the prototypical inducer, omeprazole. Eteplirsen was not a substrate nor did it have any major inhibitory potential for any of the key human transporters tested (OAT1, OAT3, OCT1, OCT2, OATP1B1, OATP1B3, P-gp, BCRP, MRP2 and BSEP). Based on in vitro data on plasma protein binding, CYP or drug transporter interactions, and microsomal metabolism, eteplirsen is expected to have a low potential for drug-drug interactions in humans.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE EXONDYS 51 is indicated for the treatment of Duchenne muscular dystrophy (DMD) in patients who have a confirmed mutation of the DMD gene that is amenable to exon 51 skipping. This indication is approved under accelerated approval based on an increase in dystrophin in skeletal muscle observed in some patients treated with EXONDYS 51 [see Clinical Studies ( 14 )] . Continued approval for this indication may be contingent upon verification of a clinical benefit in confirmatory trials. EXONDYS 51 is an antisense oligonucleotide indicated for the treatment of Duchenne muscular dystrophy (DMD) in patients who have a confirmed mutation of the DMD gene that is amenable to exon 51 skipping. This indication is approved under accelerated approval based on an increase in dystrophin in skeletal muscle observed in some patients treated with EXONDYS 51 [see Clinical Studies ( 14 )]. Continued approval for this indication may be contingent upon verification of a clinical benefit in confirmatory trials. ( 1 )",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "Exondys 51"
+    ],
+    "openfda_generic_names": [
+      "ETEPLIRSEN"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=33bff678-7829-479e-9110-b8e33a0bc0aa",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Muscular Dystrophy, Duchenne",
+    "slug": "muscular-dystrophy-duchenne"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT03992430",
+      "title": "A Study to Compare Safety and Efficacy of High Doses of Eteplirsen in Participants With Duchenne Muscular Dystrophy (DMD) (MIS51ON)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT03992430",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42324661",
+        "title": "FDA-approved antisense oligonucleotide therapies for duchenne muscular dystrophy: current status and future outlook.",
+        "pubdate": "2026 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42324661/"
+      },
+      {
+        "pmid": "41961051",
+        "title": "Advancements from the EVOLVE study for assessing real-world experience with eteplirsen, golodirsen and casimersen for the treatment of DMD.",
+        "pubdate": "2026 May",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41961051/"
+      },
+      {
+        "pmid": "40720014",
+        "title": "Quantitative Evaluation of Exon Skipping in Immortalized Muscle Cells in Vitro.",
+        "pubdate": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40720014/"
+      },
+      {
+        "pmid": "37603868",
+        "title": "The Regulatory Repercussions of Approving Muscular Dystrophy Medications on the Basis of Limited Evidence.",
+        "pubdate": "2023 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37603868/"
+      },
+      {
+        "pmid": "37207382",
+        "title": "Safety, tolerability and pharmacokinetics of eteplirsen in young boys aged 6-48 months with Duchenne muscular dystrophy amenable to exon 51 skipping.",
+        "pubdate": "2023 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37207382/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "DRISAPERSEN",
+        "chembl_id": "CHEMBL2108735",
+        "reason": "same target: Dystrophin pre-mRNA"
+      },
+      {
+        "name": "GOLODIRSEN",
+        "chembl_id": "CHEMBL4297762",
+        "reason": "same target: Dystrophin pre-mRNA"
+      },
+      {
+        "name": "VILTOLARSEN",
+        "chembl_id": "CHEMBL4298062",
+        "reason": "same target: Dystrophin pre-mRNA"
+      },
+      {
+        "name": "SUVODIRSEN",
+        "chembl_id": "CHEMBL4298192",
+        "reason": "same target: Dystrophin pre-mRNA"
+      },
+      {
+        "name": "CASIMERSEN",
+        "chembl_id": "CHEMBL4297566",
+        "reason": "same target: Dystrophin pre-mRNA"
+      },
+      {
+        "name": "SUVODIRSEN SODIUM",
+        "chembl_id": "CHEMBL4298193",
+        "reason": "same target: Dystrophin pre-mRNA"
+      }
+    ]
+  }
+}

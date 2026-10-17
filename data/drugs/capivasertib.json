@@ -1,0 +1,156 @@
+{
+  "drug_name": "Capivasertib",
+  "slug": "capivasertib",
+  "enriched_at": "2026-10-17T11:29:47Z",
+  "source_trial_ids": [
+    "NCT06635447"
+  ],
+  "sponsors": [
+    {
+      "name": "AstraZeneca",
+      "ticker": "AZN",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000901832&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 25227436,
+    "iupac_name": "4-amino-N-[(1S)-1-(4-chlorophenyl)-3-hydroxypropyl]-1-(7H-pyrrolo[2,3-d]pyrimidin-4-yl)piperidine-4-carboxamide",
+    "molecular_formula": "C21H25ClN6O2",
+    "molecular_weight": "428.9",
+    "canonical_smiles": null,
+    "inchikey": "JDUBGYFRJFOXQC-KRWDZBQOSA-N",
+    "rxnorm": {
+      "rxcui": "2669967",
+      "generic_name": "capivasertib",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2325741",
+    "target_chembl_id": "CHEMBL2111353",
+    "target_name": "Serine/threonine-protein kinase AKT",
+    "mechanism_of_action_chembl": "Serine/threonine-protein kinase AKT inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "DailyMed",
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d698c106-2322-401e-b738-cbd83c843ecf",
+    "note": "A label exists in DailyMed but structured sections could not be parsed automatically -- see dailymed_url for the full label.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Capivasertib+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Capivasertib+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Capivasertib+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Breast Cancer",
+    "slug": "breast-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06635447",
+      "title": "Capivasertib+Fulvestrant asTreatment for Locally Advanced(Inoperable) or Metastatic HR+/HER2- Breast Cancer in Chinese Patients",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06635447",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "41993992",
+        "title": "Redefining standards: a comprehensive systematic review of practice changing advances in GU oncology from ASCO and ESMO 2025.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41993992/"
+      },
+      {
+        "pmid": "41570399",
+        "title": "Camizestrant in combination with capivasertib for women with ER-positive, HER2-negative advanced breast cancer: results from SERENA-1.",
+        "pubdate": "2026 Feb",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41570399/"
+      },
+      {
+        "pmid": "41345397",
+        "title": "Optimizing clinical monitoring and management guidelines for capivasertib in HR-positive/HER2-negative advanced breast cancer: expert opinion.",
+        "pubdate": "2025 Dec 4",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41345397/"
+      },
+      {
+        "pmid": "41076600",
+        "title": "Clinical significance on switching CDK4/6 inhibitors among 13,284 patients with metastatic breast cancer.",
+        "pubdate": "2025 Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41076600/"
+      },
+      {
+        "pmid": "40615716",
+        "title": "AKT/mTOR as a targetable hub to overcome multimodal resistance to EGFR inhibitors in oesophageal squamous cell carcinoma.",
+        "pubdate": "2025 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40615716/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "MIRANSERTIB",
+        "chembl_id": "CHEMBL4297188",
+        "reason": "same target: Serine/threonine-protein kinase AKT"
+      },
+      {
+        "name": "GSK-690693",
+        "chembl_id": "CHEMBL494089",
+        "reason": "same target: Serine/threonine-protein kinase AKT"
+      },
+      {
+        "name": "LY-2780301",
+        "chembl_id": "CHEMBL3545134",
+        "reason": "same target: Serine/threonine-protein kinase AKT"
+      },
+      {
+        "name": "MK-2201",
+        "chembl_id": "CHEMBL3545000",
+        "reason": "same target: Serine/threonine-protein kinase AKT"
+      },
+      {
+        "name": "XL-418",
+        "chembl_id": "CHEMBL2016893",
+        "reason": "same target: Serine/threonine-protein kinase AKT"
+      },
+      {
+        "name": "AFURESERTIB",
+        "chembl_id": "CHEMBL2219422",
+        "reason": "same target: Serine/threonine-protein kinase AKT"
+      },
+      {
+        "name": "UPROSERTIB",
+        "chembl_id": "CHEMBL3137336",
+        "reason": "same target: Serine/threonine-protein kinase AKT"
+      },
+      {
+        "name": "MK-2206",
+        "chembl_id": "CHEMBL1079175",
+        "reason": "same target: Serine/threonine-protein kinase AKT"
+      },
+      {
+        "name": "IPATASERTIB",
+        "chembl_id": "CHEMBL2177390",
+        "reason": "same target: Serine/threonine-protein kinase AKT"
+      },
+      {
+        "name": "TRICIRIBINE PHOSPHATE",
+        "chembl_id": "CHEMBL462018",
+        "reason": "same target: Serine/threonine-protein kinase AKT"
+      }
+    ]
+  }
+}

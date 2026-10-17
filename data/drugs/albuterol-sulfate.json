@@ -1,0 +1,156 @@
+{
+  "drug_name": "Albuterol sulfate",
+  "slug": "albuterol-sulfate",
+  "enriched_at": "2026-10-17T11:29:00Z",
+  "source_trial_ids": [
+    "NCT06052267"
+  ],
+  "sponsors": [
+    {
+      "name": "Teva Branded Pharmaceutical Products R&D LLC",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Teva%20Branded%20Pharmaceutical%20Products%20R%26D%20LLC&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 39859,
+    "iupac_name": "bis(4-[2-(tert-butylamino)-1-hydroxyethyl]-2-(hydroxymethyl)phenol);sulfuric acid",
+    "molecular_formula": "C26H44N2O10S",
+    "molecular_weight": "576.7",
+    "canonical_smiles": null,
+    "inchikey": "BNPSSFBOAGDEEL-UHFFFAOYSA-N",
+    "rxnorm": {
+      "rxcui": "142153",
+      "generic_name": "albuterol sulfate",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1441059",
+    "target_chembl_id": "CHEMBL210",
+    "target_name": "Beta-2 adrenergic receptor",
+    "mechanism_of_action_chembl": "Beta-2 adrenergic receptor agonist"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action In vitro studies and in vivo pharmacologic studies have demonstrated that albuterol has a preferential effect on beta 2 -adrenergic receptors compared with isoproterenol. Although beta 2 -adrenoceptors are the predominant adrenergic receptors in bronchial smooth muscle and beta 1 -adrenoceptors are the predominant receptors in the heart, there are also beta 2 -adrenoceptors in the human heart comprising 10% to 50% of the total beta-adrenoceptors. The precise function of these receptors has not been established, but their presence raises the possibility that even selective beta 2 -agonists may have cardiac effects. Activation of beta 2 -adrenergic receptors on airway smooth muscle leads to the activation of adenyl cyclase and to an increase in the intracellular concentration of cyclic-3′,5′-adenosine monophosphate (cyclic AMP). This increase of cyclic AMP leads to the activation of protein kinase A, which inhibits the phosphorylation of myosin and lowers intracellular ionic calcium concentrations, resulting in relaxation. Albuterol relaxes the smooth muscles of all airways, from the trachea to the terminal bronchioles. Albuterol acts as a functional antagonist to relax the airway irrespective of the spasmogen involved, thus protecting against all bronchoconstrictor challenges. Increased cyclic AMP concentrations are also associated with the inhibition of release of mediators from mast cells in the airway. Albuterol has been shown in most controlled clinical trials to have more effect on the respiratory tract, in the form of bronchial smooth muscle relaxation, than isoproterenol at comparable doses while producing fewer cardiovascular effects. Controlled clinical studies and other clinical experience have shown that inhaled albuterol, like other beta-adrenergic agonist drugs, can produce a significant cardiovascular effect in some patients, as measured by pulse rate, blood pressure, symptoms, and/or electrocardiographic changes [see Warnings and Precautions ( 5.4 )] .",
+    "pharmacokinetics": null,
+    "indications_and_usage": "1 INDICATIONS AND USAGE Albuterol Sulfate HFA is a beta 2 -adrenergic agonist indicated for: Treatment or prevention of bronchospasm in adult and pediatric patients aged 4 years and older with reversible obstructive airway disease. ( 1.1 ) Prevention of exercise-induced bronchospasm in adult and pediatric patients aged 4 years and older. ( 1.2 ) 1.1 Bronchospasm Albuterol Sulfate HFA Inhalation Aerosol is indicated for the treatment or prevention of bronchospasm in adult and pediatric patients aged 4 years and older with reversible obstructive airway disease. 1.2 Exercise-Induced Bronchospasm Albuterol Sulfate HFA is indicated for the prevention of exercise-induced bronchospasm in adult and pediatric patients aged 4 years and older.",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "Albuterol Sulfate HFA"
+    ],
+    "openfda_generic_names": [
+      "ALBUTEROL SULFATE"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5d62969b-2ad9-6cf0-e063-6394a90ac2f0",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Asthma",
+    "slug": "asthma"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06052267",
+      "title": "A Study to Test if a Fixed-Dose Combination of Fluticasone Propionate/Albuterol Sulfate is Effective in Preventing Asthma Exacerbations",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06052267",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42646841",
+        "title": "Bilevel Positive Airway Pressure and Continuous Albuterol for Pediatric Asthma Exacerbations: A Randomized Clinical Trial.",
+        "pubdate": "2026 Aug 3",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42646841/"
+      },
+      {
+        "pmid": "41860428",
+        "title": "Consistency Between Oscillometry and Spirometry in Patients with Suspected or Confirmed COPD or Asthma: Results from a Multi-Center Study in China.",
+        "pubdate": "2026 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41860428/"
+      },
+      {
+        "pmid": "41789550",
+        "title": "A randomized, masked, crossover, clinical trial of the efficacy and safety of nebulized albuterol sulfate and dexamethasone sodium phosphate in asthmatic horses.",
+        "pubdate": "2026 Mar 2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41789550/"
+      },
+      {
+        "pmid": "41729513",
+        "title": "Valved Holding Chambers in Young Children With Acute Wheezing: A Randomized Clinical Trial.",
+        "pubdate": "2026 May 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41729513/"
+      },
+      {
+        "pmid": "41565838",
+        "title": "Comparison of nebulized salbutamol and glucose-insulin for preventing acute hyperkalemia in liver transplantation: a randomized, double-blind trial.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41565838/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "VILANTEROL TRIFENATATE",
+        "chembl_id": "CHEMBL1084172",
+        "reason": "same target: Beta-2 adrenergic receptor"
+      },
+      {
+        "name": "ALBUTEROL",
+        "chembl_id": "CHEMBL714",
+        "reason": "same target: Beta-2 adrenergic receptor"
+      },
+      {
+        "name": "PIRBUTEROL ACETATE",
+        "chembl_id": "CHEMBL1200444",
+        "reason": "same target: Beta-2 adrenergic receptor"
+      },
+      {
+        "name": "PROTOKYLOL HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1200893",
+        "reason": "same target: Beta-2 adrenergic receptor"
+      },
+      {
+        "name": "LEVALBUTEROL HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1201061",
+        "reason": "same target: Beta-2 adrenergic receptor"
+      },
+      {
+        "name": "ARFORMOTEROL TARTRATE",
+        "chembl_id": "CHEMBL1951071",
+        "reason": "same target: Beta-2 adrenergic receptor"
+      },
+      {
+        "name": "BITOLTEROL MESYLATE",
+        "chembl_id": "CHEMBL1200405",
+        "reason": "same target: Beta-2 adrenergic receptor"
+      },
+      {
+        "name": "SALMETEROL XINAFOATE",
+        "chembl_id": "CHEMBL1082607",
+        "reason": "same target: Beta-2 adrenergic receptor"
+      },
+      {
+        "name": "RITODRINE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1367605",
+        "reason": "same target: Beta-2 adrenergic receptor"
+      },
+      {
+        "name": "INDACATEROL MALEATE",
+        "chembl_id": "CHEMBL1789842",
+        "reason": "same target: Beta-2 adrenergic receptor"
+      }
+    ]
+  }
+}

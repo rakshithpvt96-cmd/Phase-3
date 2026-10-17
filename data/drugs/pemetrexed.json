@@ -1,11 +1,11 @@
 {
   "drug_name": "Pemetrexed",
   "slug": "pemetrexed",
-  "enriched_at": "2026-10-09T14:14:46Z",
+  "enriched_at": "2026-10-17T11:33:05Z",
   "source_trial_ids": [
+    "NCT04129502",
     "NCT05116462",
     "NCT05984277",
-    "NCT06417814",
     "NCT06624059",
     "NCT06687369",
     "NCT06927986"
@@ -34,6 +34,12 @@
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Innovent%20Biologics%20%28Suzhou%29%20Co.%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Takeda",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Takeda&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "mAbxience Research S.L.",
@@ -84,6 +90,13 @@
   },
   "source_trials": [
     {
+      "nct_id": "NCT04129502",
+      "title": "TAK-788 as First-Line Treatment Versus Platinum-Based Chemotherapy for Non-Small Cell Lung Cancer (NSCLC) With EGFR Exon 20 Insertion Mutations",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04129502",
+      "has_results": false
+    },
+    {
       "nct_id": "NCT05116462",
       "title": "Neoadjuvant and Adjuvant Therapy Studies of Sindilizumab in Resectable Lung Cancer",
       "status": "ACTIVE_NOT_RECRUITING",
@@ -95,13 +108,6 @@
       "title": "A Global Study of Volrustomig (MEDI5752) Plus Chemotherapy Versus Pembrolizumab Plus Chemotherapy for Participants With Metastatic Non-small Cell Lung Cancer.",
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT05984277",
-      "has_results": false
-    },
-    {
-      "nct_id": "NCT06417814",
-      "title": "A Study to Investigate the Efficacy and Safety of Dato-DXd With or Without Osimertinib Compared With Platinum Based Doublet Chemotherapy in Participants With EGFR-Mutated Locally Advanced or Metastatic Non-Small Cell Lung Cancer",
-      "status": "RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06417814",
       "has_results": false
     },
     {

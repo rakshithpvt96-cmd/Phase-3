@@ -1,0 +1,150 @@
+{
+  "drug_name": "Ublituximab",
+  "slug": "ublituximab",
+  "enriched_at": "2026-10-17T11:35:32Z",
+  "source_trial_ids": [
+    "NCT07211633"
+  ],
+  "sponsors": [
+    {
+      "name": "TG Therapeutics, Inc.",
+      "ticker": "TGTX",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001001316&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2626349",
+      "generic_name": "ublituximab",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2108354",
+    "target_chembl_id": "CHEMBL2058",
+    "target_name": "B-lymphocyte antigen CD20",
+    "mechanism_of_action_chembl": "B-lymphocyte antigen CD20 binding agent"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action The precise mechanism by which ublituximab-xiiy exerts its therapeutic effects in multiple sclerosis is unknown, but is presumed to involve binding to CD20, a cell surface antigen present on pre-B and mature B lymphocytes. Following cell surface binding to B lymphocytes, ublituximab-xiiy results in cell lysis through mechanisms including antibody-dependent cellular cytolysis and complement-dependent cytolysis.",
+    "pharmacokinetics": "12.3 Pharmacokinetics Ublituximab-xiiy exposures increased proportionally over a dose range of 150 mg (0.33 times approved recommended dosage) to 600 mg (1.33 times the approved recommended dosage) in patients with RMS. Following administration of the approved recommended dosage of BRIUMVI, the geometric mean steady-state AUC was 3000 mcg/mL per day (CV=28%) and the mean maximum concentration was 139 mcg/mL (CV=15%). Distribution The estimated central volume of distribution of ublituximab-xiiy was 3.18 L. Elimination The estimated mean terminal half-life of ublituximab-xiiy was 22 days. Metabolism Ublituximab-xiiy is a protein for which the expected metabolic pathway is degradation to small peptides and amino acids by ubiquitous proteolytic enzymes. Specific Populations There were no clinically meaningful differences in the pharmacokinetics of ublituximab-xiiy based on age, sex, body weight, anti-drug antibodies (ADAs) presence, mild renal impairment, or mild hepatic impairment. The effect of moderate to severe renal impairment or moderate to severe hepatic impairment on the pharmacokinetics of ublituximab-xiiy is unknown. Drug Interaction Studies No studies evaluating the drug interaction potential of ublituximab-xiiy have been conducted.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE BRIUMVI is indicated for the treatment of relapsing forms of multiple sclerosis (MS), to include clinically isolated syndrome, relapsing-remitting disease, and active secondary progressive disease, in adults. BRIUMVI is a CD20-directed cytolytic antibody indicated for the treatment of relapsing forms of multiple sclerosis (MS), to include clinically isolated syndrome, relapsing-remitting disease, and active secondary progressive disease, in adults ( 1 , 14 ).",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "BRIUMVI"
+    ],
+    "openfda_generic_names": [
+      "UBLITUXIMAB"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3a77cd8c-811b-407c-9140-d0c5c26435c2",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Relapsing Multiple Sclerosis",
+    "slug": "relapsing-multiple-sclerosis"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07211633",
+      "title": "A Study to Evaluate the Pharmacokinetics, Pharmacodynamics, Safety, Radiological and Clinical Effects of Subcutaneous Ublituximab in Participants With Relapsing Multiple Sclerosis (RMS)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07211633",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42334795",
+        "title": "Anti-CD20 Therapies in Pediatric Acquired Demyelinating Syndromes: Evidence Across MS, AQP4-IgG-Positive NMOSD and MOGAD.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42334795/"
+      },
+      {
+        "pmid": "42292352",
+        "title": "Disease outcomes with ublituximab in treatment-naïve participants: subpopulation analyses of the phase 3 ULTIMATE I and II studies in participants with relapsing multiple sclerosis.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42292352/"
+      },
+      {
+        "pmid": "42114075",
+        "title": "Uncoupling Relapse Reduction and Disability Progression: Evidence From Tolebrutinib Studies.",
+        "pubdate": "2026 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42114075/"
+      },
+      {
+        "pmid": "41787239",
+        "title": "Efficacy of Ublituximab in People with Highly Active Relapsing Multiple Sclerosis.",
+        "pubdate": "2026 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41787239/"
+      },
+      {
+        "pmid": "41697690",
+        "title": "Five Years of Ublituximab in Multiple Sclerosis: ULTIMATE I and II Open-Label Extension Study.",
+        "pubdate": "2026 Apr 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41697690/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "YTTRIUM Y 90 IBRITUMOMAB TIUXETAN",
+        "chembl_id": "CHEMBL2108667",
+        "reason": "same target: B-lymphocyte antigen CD20"
+      },
+      {
+        "name": "RITUXIMAB",
+        "chembl_id": "CHEMBL1201576",
+        "reason": "same target: B-lymphocyte antigen CD20"
+      },
+      {
+        "name": "OFATUMUMAB",
+        "chembl_id": "CHEMBL1201836",
+        "reason": "same target: B-lymphocyte antigen CD20"
+      },
+      {
+        "name": "TOSITUMOMAB",
+        "chembl_id": "CHEMBL1201604",
+        "reason": "same target: B-lymphocyte antigen CD20"
+      },
+      {
+        "name": "OBINUTUZUMAB",
+        "chembl_id": "CHEMBL1743048",
+        "reason": "same target: B-lymphocyte antigen CD20"
+      },
+      {
+        "name": "OCRELIZUMAB",
+        "chembl_id": "CHEMBL2108041",
+        "reason": "same target: B-lymphocyte antigen CD20"
+      },
+      {
+        "name": "VELTUZUMAB",
+        "chembl_id": "CHEMBL1743088",
+        "reason": "same target: B-lymphocyte antigen CD20"
+      },
+      {
+        "name": "TOSITUMOMAB 131I",
+        "chembl_id": "CHEMBL3833304",
+        "reason": "same target: B-lymphocyte antigen CD20"
+      },
+      {
+        "name": "OCARATUZUMAB",
+        "chembl_id": "CHEMBL2109665",
+        "reason": "same target: B-lymphocyte antigen CD20"
+      },
+      {
+        "name": "LFB-R603",
+        "chembl_id": "CHEMBL2109348",
+        "reason": "same target: B-lymphocyte antigen CD20"
+      }
+    ]
+  }
+}

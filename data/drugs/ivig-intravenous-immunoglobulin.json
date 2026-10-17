@@ -1,7 +1,7 @@
 {
   "drug_name": "IVIG (Intravenous Immunoglobulin)",
   "slug": "ivig-intravenous-immunoglobulin",
-  "enriched_at": "2026-10-09T14:13:57Z",
+  "enriched_at": "2026-10-17T11:31:38Z",
   "source_trial_ids": [
     "NCT06742190"
   ],
@@ -60,6 +60,12 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42851885",
+        "title": "Immunoglobulin G dose-exposure-efficacy response in patients with chronic inflammatory demyelinating polyradiculoneuropathy.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42851885/"
+      },
+      {
         "pmid": "42789513",
         "title": "Levels of IgG subclasses 1-4 in BT595, a 10% IVIG: A sub-analysis of a clinical trial.",
         "pubdate": "2026",
@@ -82,12 +88,6 @@
         "title": "Comparative Efficacy of Rozanolixizumab with Efgartigimod or Intravenous Immunoglobulin in Generalized Myasthenia Gravis Using Matching Adjusted Indirect Comparisons.",
         "pubdate": "2026 Sep 24",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42786373/"
-      },
-      {
-        "pmid": "42764727",
-        "title": "Cost comparison of intravenous immunoglobulin and subcutaneous efgartigimod in patients with chronic inflammatory demyelinating polyneuropathy.",
-        "pubdate": "2026 Dec",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42764727/"
       }
     ]
   },

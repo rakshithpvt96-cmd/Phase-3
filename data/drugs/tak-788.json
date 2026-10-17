@@ -1,0 +1,105 @@
+{
+  "drug_name": "TAK-788",
+  "slug": "tak-788",
+  "enriched_at": "2026-10-17T11:35:01Z",
+  "source_trial_ids": [
+    "NCT04129502"
+  ],
+  "sponsors": [
+    {
+      "name": "Takeda",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Takeda&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 118607832,
+    "iupac_name": "propan-2-yl 2-[4-[2-(dimethylamino)ethyl-methylamino]-2-methoxy-5-(prop-2-enoylamino)anilino]-4-(1-methylindol-3-yl)pyrimidine-5-carboxylate",
+    "molecular_formula": "C32H39N7O4",
+    "molecular_weight": "585.7",
+    "canonical_smiles": null,
+    "inchikey": "AZSRSNUQCUDCGG-UHFFFAOYSA-N",
+    "rxnorm": {
+      "rxcui": "2211501",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL3700823",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=TAK-788+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=TAK-788+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=TAK-788+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Advanced/Metastatic Non-Small Cell Lung Cancer (NSCLC)",
+    "slug": "advanced-metastatic-non-small-cell-lung-cancer-nsclc"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04129502",
+      "title": "TAK-788 as First-Line Treatment Versus Platinum-Based Chemotherapy for Non-Small Cell Lung Cancer (NSCLC) With EGFR Exon 20 Insertion Mutations",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04129502",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "41903301",
+        "title": "Phase Ia/Ib trial of the safety and efficacy of mobocertinib in combination with T-DM1 for patients with HER2-mutant solid tumors (WJOG16022M).",
+        "pubdate": "2026 May 2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41903301/"
+      },
+      {
+        "pmid": "38511563",
+        "title": "Mobocertinib: Mechanism of action, clinical, and translational science.",
+        "pubdate": "2024 Mar",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38511563/"
+      },
+      {
+        "pmid": "37988546",
+        "title": "Mobocertinib.",
+        "pubdate": "2012",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37988546/"
+      },
+      {
+        "pmid": "37075617",
+        "title": "Comparative effectiveness of mobocertinib and standard of care in patients with NSCLC with EGFR exon 20 insertion mutations: An indirect comparison.",
+        "pubdate": "2023 May",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37075617/"
+      },
+      {
+        "pmid": "37058788",
+        "title": "Indirect comparison of mobocertinib and real-world therapies for pre-treated non-small cell lung cancer with EGFR exon 20 insertion mutations.",
+        "pubdate": "2023 May",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37058788/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

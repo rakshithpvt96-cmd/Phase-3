@@ -1,11 +1,12 @@
 {
   "drug_name": "Placebo",
   "slug": "placebo",
-  "enriched_at": "2026-10-16T13:18:03Z",
+  "enriched_at": "2026-10-17T11:33:20Z",
   "source_trial_ids": [
     "NCT02914535",
     "NCT04036435",
     "NCT04652882",
+    "NCT04842617",
     "NCT04895241",
     "NCT04961567",
     "NCT05115110",
@@ -44,6 +45,7 @@
     "NCT06602271",
     "NCT06649045",
     "NCT06669754",
+    "NCT06719141",
     "NCT06762548",
     "NCT06775379",
     "NCT06777238",
@@ -64,6 +66,7 @@
     "NCT07469800",
     "NCT07473960",
     "NCT07555392",
+    "NCT07669454",
     "NCT07669467"
   ],
   "sponsors": [
@@ -266,6 +269,12 @@
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Janssen%20Research%20%26%20Development%2C%20LLC&type=10-K&dateb=&owner=include&count=40"
     },
     {
+      "name": "Jiangsu HengRui Medicine Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Jiangsu%20HengRui%20Medicine%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
       "name": "Karuna Therapeutics, Inc., a Bristol Myers Squibb company",
       "ticker": null,
       "market_cap_display": null,
@@ -276,6 +285,12 @@
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Kringle%20Pharma%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Longboard Pharmaceuticals",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Longboard%20Pharmaceuticals&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Lumen Bioscience, Inc.",
@@ -416,6 +431,13 @@
       "title": "Evaluating the Effects of Tasimelteon vs. Placebo in Delayed Sleep-Wake Phase Disorder (DSWPD)",
       "status": "COMPLETED",
       "url": "https://clinicaltrials.gov/study/NCT04652882",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT04842617",
+      "title": "Phase III Study ：SHR6390/Placebo Combined With Endocrine Therapy for the Adjuvant Treatment of Hormone Receptor Positive,Human Epidermal Receptor 2 Negative",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04842617",
       "has_results": false
     },
     {
@@ -685,6 +707,13 @@
       "has_results": false
     },
     {
+      "nct_id": "NCT06719141",
+      "title": "A Study to Investigate LP352 in Children and Adults With Developmental and Epileptic Encephalopathies (DEE)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06719141",
+      "has_results": false
+    },
+    {
       "nct_id": "NCT06762548",
       "title": "Clinical Study of DA-007 for the Treatment of Chemotherapy Induced Alopecia",
       "status": "NOT_YET_RECRUITING",
@@ -825,6 +854,13 @@
       "has_results": false
     },
     {
+      "nct_id": "NCT07669454",
+      "title": "A Randomized, Double-blind, Placebo-controlled, Parallel-group, Comparative, Phase III Study to Evaluate the Efficacy and Safety of Nuvastatic® 300mg Capsule in Reducing Cancer-Tumor in Patients With Metastatic Colorectal Cancer Receiving Standard Chemotherapy.",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07669454",
+      "has_results": false
+    },
+    {
       "nct_id": "NCT07669467",
       "title": "Nuvastatic® Phase III Trial for Fatigue in Triple-Negative Breast Cancer",
       "status": "RECRUITING",
@@ -836,34 +872,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42888376",
+        "title": "Cost Effectiveness of Sertraline for Preventing Domestic Violence Reoffending Among Highly Impulsive Violent Offenders in Australia: A Trial-Based Economic Evaluation.",
+        "pubdate": "2026 Oct 16",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42888376/"
+      },
+      {
+        "pmid": "42888370",
+        "title": "Brexpiprazole for Individual Agitation Symptoms in Alzheimer's Dementia: A Caregiver-Centered Post Hoc Analysis.",
+        "pubdate": "2026 Oct 16",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42888370/"
+      },
+      {
+        "pmid": "42887695",
+        "title": "Dietary supplementation with plant sterols for obesity management and related metabolic disorders: A randomized, double-blind, placebo-controlled crossover clinical trial.",
+        "pubdate": "2026 Oct 16",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42887695/"
+      },
+      {
+        "pmid": "42887516",
+        "title": "Thyroid hormone receptor-β agonist simedeutirom (HSK31679) for Chinese patients with metabolic dysfunction-associated steatohepatitis: a 52-week, multicentre, randomised, double-blind, placebo-controlled, phase 2b trial.",
+        "pubdate": "2026 Oct 16",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42887516/"
+      },
+      {
         "pmid": "42885348",
         "title": "Effect of Colchicine on Arterial Stiffness in Patients With Hypertension: The COlchicine HypERtENsion Trial (COHERENT).",
         "pubdate": "2026 Oct 16",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42885348/"
-      },
-      {
-        "pmid": "42884177",
-        "title": "Beyond Taxonomy: Fungal Nutraceutical Supplementation Modifies the Functional Potential of the Gut Microbiome in Colorectal Cancer.",
-        "pubdate": "2026 Oct 8",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42884177/"
-      },
-      {
-        "pmid": "42884056",
-        "title": "A Randomized Clinical Trial of a Standardized Pumpkin-Seed-Derived Peptide Extract: Body Composition Outcomes and Exploratory Analysis by Baseline Adiposity in Overweight Adults.",
-        "pubdate": "2026 Oct 1",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42884056/"
-      },
-      {
-        "pmid": "42882121",
-        "title": "Population PK/PD Modeling and Simulation to Predict the Comparative Long-Term Efficacy of Olokizumab in Rheumatoid Arthritis Patients.",
-        "pubdate": "2026 Oct 2",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42882121/"
-      },
-      {
-        "pmid": "42880978",
-        "title": "Phase 3, randomised, placebo-controlled trial of voxelotor for the resolution of leg ulcers in sickle cell disease: RESOLVE.",
-        "pubdate": "2026 Oct 15",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42880978/"
       }
     ]
   },

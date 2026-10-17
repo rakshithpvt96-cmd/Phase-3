@@ -1,16 +1,16 @@
 {
   "drug_name": "Anastrozole",
   "slug": "anastrozole",
-  "enriched_at": "2026-09-15T12:31:40Z",
+  "enriched_at": "2026-10-17T11:29:27Z",
   "source_trial_ids": [
-    "NCT04711252"
+    "NCT06016738"
   ],
   "sponsors": [
     {
-      "name": "AstraZeneca",
-      "ticker": "AZN",
+      "name": "Olema Pharmaceuticals, Inc.",
+      "ticker": "OLMA",
       "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000901832&type=10-K&dateb=&owner=include&count=40"
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001750284&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
@@ -45,20 +45,20 @@
     "openfda_generic_names": [
       "ANASTROZOLE"
     ],
-    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1d1d5818-1594-4f54-90a9-ae9a9afcdc67",
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=362034e9-2830-19a5-e063-6394a90a8dfb",
     "note": null,
     "further_reading": null
   },
   "condition": {
-    "raw": "ER-Positive HER2-Negative Breast Cancer",
-    "slug": "er-positive-her2-negative-breast-cancer"
+    "raw": "Breast Cancer",
+    "slug": "breast-cancer"
   },
   "source_trials": [
     {
-      "nct_id": "NCT04711252",
-      "title": "A Comparative Study of AZD9833 Plus Palbociclib Versus Anastrozole Plus Palbociclib in Patients With ER-Positive HER2 Negative Breast Cancer Who Have Not Received Any Systemic Treatment for Advanced Disease",
+      "nct_id": "NCT06016738",
+      "title": "OP-1250 (Palazestrant) vs. Standard of Care for the Treatment of ER+/HER2- Advanced Breast Cancer",
       "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT04711252",
+      "url": "https://clinicaltrials.gov/study/NCT06016738",
       "has_results": false
     }
   ],
