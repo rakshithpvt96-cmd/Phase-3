@@ -1,7 +1,7 @@
 {
   "drug_name": "Tocilizumab",
   "slug": "tocilizumab",
-  "enriched_at": "2026-09-17T12:34:25Z",
+  "enriched_at": "2026-10-17T12:47:11Z",
   "source_trial_ids": [
     "NCT04088396"
   ],
@@ -39,7 +39,7 @@
     "openfda_generic_names": [
       "TOCILIZUMAB"
     ],
-    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ad76441d-da59-47df-8d9d-2243005180f0",
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=581c288f-8015-40ef-a4c3-683c96db193d",
     "note": null,
     "further_reading": null
   },
@@ -60,6 +60,18 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42806362",
+        "title": "Interpretable machine learning models for predicting tocilizumab response in rheumatoid arthritis using clinical data.",
+        "pubdate": "2026 Sep 28",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42806362/"
+      },
+      {
+        "pmid": "42759885",
+        "title": "Autocrine signaling may regulate exercise-induced interleukin-6 release from human skeletal muscle.",
+        "pubdate": "2026 Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42759885/"
+      },
+      {
         "pmid": "42632595",
         "title": "Disease-modifying antirheumatic drugs for hand osteoarthritis: A systematic review and network meta-analysis.",
         "pubdate": "2026 Aug 22",
@@ -76,18 +88,6 @@
         "title": "Thrombotic thrombocytopenic purpura and macrophage activation syndrome secondary to Sjögren's syndrome: a case report.",
         "pubdate": "2026",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42490934/"
-      },
-      {
-        "pmid": "42486389",
-        "title": "Regulatory T cell modulation with selective CD28 blockade and IL-6 receptor antagonist in kidney transplant recipients: Results of CTOT-24-a prospective clinical trial.",
-        "pubdate": "2026 Jul 22",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42486389/"
-      },
-      {
-        "pmid": "42485668",
-        "title": "IL-6 receptor inhibition promotes expansion of cytolytic CD4+ T cells after cellular immunotherapy.",
-        "pubdate": "2026 Jul 22",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42485668/"
       }
     ]
   },

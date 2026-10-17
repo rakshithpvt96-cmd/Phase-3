@@ -1,9 +1,8 @@
 {
-  "drug_name": "METFORMIN",
+  "drug_name": "Metformin",
   "slug": "metformin",
-  "enriched_at": "2026-09-17T12:31:19Z",
+  "enriched_at": "2026-10-17T12:46:28Z",
   "source_trial_ids": [
-    "NCT04670666",
     "NCT06257966"
   ],
   "sponsors": [
@@ -12,12 +11,6 @@
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Beijing%20Dongfang%20Biotech%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
-      "name": "EMS",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=EMS&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
@@ -52,22 +45,15 @@
     "openfda_generic_names": [
       "SITAGLIPTIN AND METFORMIN HYDROCHLORIDE"
     ],
-    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ded33248-44ef-45f6-a461-24b35772a1b2",
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5073c482-952c-400c-afff-64380f133bc8",
     "note": null,
     "further_reading": null
   },
   "condition": {
-    "raw": "Type 2 Diabetes Mellitus",
-    "slug": "type-2-diabetes-mellitus"
+    "raw": "Type2 Diabetes Mellitus",
+    "slug": "type2-diabetes-mellitus"
   },
   "source_trials": [
-    {
-      "nct_id": "NCT04670666",
-      "title": "Efficacy and Safety of Madalena Association in the Treatment of Type II Diabetes Mellitus",
-      "status": "RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT04670666",
-      "has_results": false
-    },
     {
       "nct_id": "NCT06257966",
       "title": "A Phase 3 Study to Evaluate the Efficacy of JY09 Compared With Dulaglutide in Combination Therapy Diabetes Mellitus Type 2 Patients With Metformin",
@@ -80,34 +66,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42714656",
-        "title": "Therapeutics candidates and repurposing strategies to target parkinson's disease pathology: current evidence and future directions.",
-        "pubdate": "2026 Sep 9",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42714656/"
+        "pmid": "42885740",
+        "title": "Case Report WIN-MTB-2024001 - WIN International Molecular Tumor Board: A 55-year-old male with glioblastoma exhibiting amplifications in MDM2 and EGFR.",
+        "pubdate": "2026 Oct 16",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42885740/"
       },
       {
-        "pmid": "42700411",
-        "title": "Efficacy and Safety of Luseogliflozin (TS-071) in Japanese Children and Adolescents with Type 2 Diabetes Mellitus: A Multicenter, Randomized, Double-masked, Placebo-controlled Phase 3 Study.",
-        "pubdate": "2026 Sep 5",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42700411/"
+        "pmid": "42885719",
+        "title": "WIN-MTB-2024002 - WIN International Molecular Tumor Board: A 52-year-old female with unmeasurable Stage IIIc colon cancer.",
+        "pubdate": "2026 Oct 16",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42885719/"
       },
       {
-        "pmid": "42668260",
-        "title": "A practical application for the efficient use of historical data in randomized controlled design using systematic review data.",
-        "pubdate": "2026 Aug 29",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42668260/"
+        "pmid": "42881387",
+        "title": "Effects of SGLT-2 inhibitors on thyroid-stimulating hormone and systemic immune-inflammation index in type 2 diabetes: a retrospective study.",
+        "pubdate": "2026 Sep 11",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42881387/"
       },
       {
-        "pmid": "42667546",
-        "title": "The Role of SGLT2 Inhibitors in the Prevention of Type 2 Diabetes: A Narrative Review of Current Evidence.",
-        "pubdate": "2026 Aug 29",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42667546/"
+        "pmid": "42869597",
+        "title": "Can metformin prolong pregnancy in preterm pre-eclampsia? Study protocol for a Nordic multicentre randomised placebo-controlled trial (PI4).",
+        "pubdate": "2026 Oct 13",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42869597/"
       },
       {
-        "pmid": "42655937",
-        "title": "Impact of Metformin Plus Lifestyle Intervention Compared With Lifestyle Intervention Alone on Prediabetes Remission in Participants With Impaired Glucose Regulation: The China DPP Study.",
-        "pubdate": "2026 Aug 26",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42655937/"
+        "pmid": "42854397",
+        "title": "Inhibition of hIAPP amyloid aggregation by the polyherbal formulation NAMIG-5: a bench-to-bedside translational study.",
+        "pubdate": "2026 Oct 2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42854397/"
       }
     ]
   },

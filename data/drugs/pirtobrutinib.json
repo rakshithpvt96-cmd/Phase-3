@@ -1,7 +1,7 @@
 {
   "drug_name": "Pirtobrutinib",
   "slug": "pirtobrutinib",
-  "enriched_at": "2026-09-17T12:33:15Z",
+  "enriched_at": "2026-10-17T12:46:43Z",
   "source_trial_ids": [
     "NCT04965493"
   ],
@@ -66,9 +66,15 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42786239",
+        "title": "Population pharmacokinetic analysis of pirtobrutinib, a non-covalent BTK inhibitor, in patients with hematological malignancies from the Phase 1/2 BRUIN study.",
+        "pubdate": "2026 Sep 24",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42786239/"
+      },
+      {
         "pmid": "42566728",
         "title": "Contemporary Management of Relapsed or Refractory Chronic Lymphocytic Leukemia.",
-        "pubdate": "2026 Aug 7",
+        "pubdate": "2026 Oct",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42566728/"
       },
       {
@@ -88,12 +94,6 @@
         "title": "Patient-reported outcomes in BRUIN CLL-321: A randomized phase 3 trial comparing pirtobrutinib to investigators choice of idelalisib plus rituximab or bendamustine plus rituximab in patients with relapsed/refractory chronic lymphocytic leukemia/small lymphocytic lymphoma in the post-cBTKi setting.",
         "pubdate": "2026 Jul",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42308688/"
-      },
-      {
-        "pmid": "41749915",
-        "title": "Efficacy of Pirtobrutinib Monotherapy in Treatment-Naïve Chronic Lymphocytic Leukemia: A Bayesian Network Meta-Analysis of Randomized Controlled Trials.",
-        "pubdate": "2026 Feb 18",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41749915/"
       }
     ]
   },
