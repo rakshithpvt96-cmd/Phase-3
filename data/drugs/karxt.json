@@ -1,11 +1,18 @@
 {
   "drug_name": "KarXT",
   "slug": "karxt",
-  "enriched_at": "2026-10-14T14:40:26Z",
+  "enriched_at": "2026-10-18T12:08:57Z",
   "source_trial_ids": [
-    "NCT05511363"
+    "NCT05511363",
+    "NCT06951698"
   ],
   "sponsors": [
+    {
+      "name": "Bristol-Myers Squibb",
+      "ticker": "BMY",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000014272&type=10-K&dateb=&owner=include&count=40"
+    },
     {
       "name": "Karuna Therapeutics, Inc., a Bristol Myers Squibb company",
       "ticker": null,
@@ -55,6 +62,13 @@
       "title": "A Study to Assess Efficacy and Safety of KarXT for the Treatment of Psychosis Associated With Alzheimer's Disease (ADEPT-1)",
       "status": "RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT05511363",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06951698",
+      "title": "A Study to Evaluate the Efficacy and Safety of KarXT for the Treatment of Manic Episodes in Bipolar-I Disorder",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06951698",
       "has_results": false
     }
   ],

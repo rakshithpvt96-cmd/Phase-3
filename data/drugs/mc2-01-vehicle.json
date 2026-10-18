@@ -1,7 +1,7 @@
 {
   "drug_name": "MC2-01 vehicle",
   "slug": "mc2-01-vehicle",
-  "enriched_at": "2026-10-10T13:34:23Z",
+  "enriched_at": "2026-10-18T12:09:40Z",
   "source_trial_ids": [
     "NCT07357831"
   ],
@@ -21,7 +21,7 @@
     }
   },
   "mechanism": {
-    "chembl_id": null,
+    "chembl_id": "CHEMBL2108661",
     "target_chembl_id": null,
     "target_name": null,
     "mechanism_of_action_chembl": null
@@ -60,34 +60,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42892712",
+        "title": "Acute Otitis Externa-Antimicrobial Resistance in the US and Canada: Phase III Study Outcomes.",
+        "pubdate": "2026 Oct 17",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42892712/"
+      },
+      {
+        "pmid": "42891393",
+        "title": "Lipid Nanoparticle-Mediated Antifungal and Immunomodulatory Therapy for Neuromycoses.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42891393/"
+      },
+      {
+        "pmid": "42877380",
+        "title": "A Randomized Clinical Trial: Daily Photoprotection With a Combined Sunscreen-Antioxidant Formulation Preserves Mitochondrial DNA Integrity in Human Facial Skin In Vivo.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42877380/"
+      },
+      {
+        "pmid": "42862712",
+        "title": "Selective γ8 transmembrane α-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid receptor regulatory protein negative allosteric modulators: Efficacy in preclinical antiseizure models.",
+        "pubdate": "2026 Oct 12",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42862712/"
+      },
+      {
         "pmid": "42853353",
         "title": "Infraorbital Skin Application of Menthol Emulsion for Dry Eye Disease: A Randomized Clinical Trial.",
         "pubdate": "2026 Oct 9",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42853353/"
-      },
-      {
-        "pmid": "42823075",
-        "title": "Nephroprotective Effects of the Dual GCGR/GLP-1R Agonist Survodutide in Hypertension-Accelerated Diabetic Kidney Disease.",
-        "pubdate": "2026 Oct 1",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42823075/"
-      },
-      {
-        "pmid": "42821227",
-        "title": "AI-Assisted Quantitative Reflectance Confocal Microscopy Reveals Modulation of Senescence-Associated Epidermal Morphometric Features by a Topical TGF-β Mimetic, XEP™-716 Miniprotein™.",
-        "pubdate": "2026 Oct 1",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42821227/"
-      },
-      {
-        "pmid": "42808078",
-        "title": "Clinical Outcomes of Adding Topical Cetirizine to Minoxidil Therapy in Patients with Androgenetic Alopeci.",
-        "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42808078/"
-      },
-      {
-        "pmid": "42787633",
-        "title": "Advancements in CRISPR-based in vivo gene therapy for hemophilia.",
-        "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42787633/"
       }
     ]
   },

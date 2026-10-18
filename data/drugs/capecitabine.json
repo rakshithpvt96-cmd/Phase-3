@@ -1,13 +1,12 @@
 {
   "drug_name": "Capecitabine",
   "slug": "capecitabine",
-  "enriched_at": "2026-09-24T12:38:38Z",
+  "enriched_at": "2026-10-18T11:59:21Z",
   "source_trial_ids": [
-    "NCT05152147",
     "NCT05568095",
     "NCT05717764",
     "NCT06018337",
-    "NCT06279364",
+    "NCT06118333",
     "NCT06343948",
     "NCT06519370"
   ],
@@ -31,12 +30,6 @@
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=DualityBio%20Inc.&type=10-K&dateb=&owner=include&count=40"
     },
     {
-      "name": "Jazz Pharmaceuticals",
-      "ticker": "JAZZ",
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001232524&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
       "name": "Shanghai Fudan-Zhangjiang Bio-Pharmaceutical Co., Ltd.",
       "ticker": null,
       "market_cap_display": null,
@@ -47,12 +40,6 @@
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Sichuan%20Baili%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
-      "name": "Sichuan Kelun-Biotech Biopharmaceutical Co., Ltd.",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Sichuan%20Kelun-Biotech%20Biopharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
@@ -92,17 +79,10 @@
     "further_reading": null
   },
   "condition": {
-    "raw": "Triple Negative Breast Cancer",
-    "slug": "triple-negative-breast-cancer"
+    "raw": "HR+HER2- Breast Cancer",
+    "slug": "hr-her2-breast-cancer"
   },
   "source_trials": [
-    {
-      "nct_id": "NCT05152147",
-      "title": "A Study of Zanidatamab in Combination With Chemotherapy Plus or Minus Tislelizumab in Patients With HER2-positive Advanced or Metastatic Gastric and Esophageal Cancers",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT05152147",
-      "has_results": false
-    },
     {
       "nct_id": "NCT05568095",
       "title": "A Clinical Trial of a New Combination Treatment, Domvanalimab and Zimberelimab, Plus Chemotherapy, for People With an Upper Gastrointestinal Tract Cancer That Cannot be Removed With Surgery That Has Spread to Other Parts of the Body",
@@ -125,10 +105,10 @@
       "has_results": false
     },
     {
-      "nct_id": "NCT06279364",
-      "title": "A Study of SKB264 Versus Investigator's Choice Chemotherapy in Patients With Unresectable Recurrent or Metastatic Triple-Negative Breast Cancer",
-      "status": "RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06279364",
+      "nct_id": "NCT06118333",
+      "title": "A Study Comparing BL-B01D1 With Physician's Choice of Chemotherapy in Patients With Recurrent or Metastatic Nasopharyngeal Carcinoma(PANKU-NPC01)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06118333",
       "has_results": false
     },
     {
@@ -150,6 +130,18 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42802176",
+        "title": "Disitamab vedotin for HER2-positive breast cancer with liver metastases: phase 3 results from the RC48-C006 phase 2/3 trial.",
+        "pubdate": "2026 Aug 27",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42802176/"
+      },
+      {
+        "pmid": "42781458",
+        "title": "HER2-directed therapy with Trastuzumab deruxtecan in recurrent mucinous ovarian carcinoma: complete clinical response and response to rechallenge.",
+        "pubdate": "2026 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42781458/"
+      },
+      {
         "pmid": "42733563",
         "title": "Short-term versus long-course neoadjuvant chemotherapy for resectable and borderline resectable pancreatic ductal adenocarcinoma (PACT-21 CASSANDRA): results from the second randomisation analysis of a randomised, open-label, 2 × 2 factorial phase 3 trial.",
         "pubdate": "2026 Sep",
@@ -166,18 +158,6 @@
         "title": "First-line anlotinib versus bevacizumab plus CapeOX in RAS/BRAF wild-type unresectable metastatic colorectal cancer (ANCHOR): a multicenter, prospective, randomized, phase 3 trial.",
         "pubdate": "2026 Sep 1",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42675036/"
-      },
-      {
-        "pmid": "42658556",
-        "title": "Pharmaceutical care in patients with gastric cancer treated with capecitabine: A randomized clinical trial.",
-        "pubdate": "2026 Aug 27",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42658556/"
-      },
-      {
-        "pmid": "42633754",
-        "title": "Chemoradiotherapy versus short-course radiotherapy for response-adapted organ preservation in early-stage and intermediate-stage rectal cancer (STAR-TREC): 12-month results of an international, multicentre, open-label, parallel-group, randomised, phase 2/3 trial.",
-        "pubdate": "2026 Sep",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42633754/"
       }
     ]
   },

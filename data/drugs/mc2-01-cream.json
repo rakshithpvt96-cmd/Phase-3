@@ -1,7 +1,7 @@
 {
   "drug_name": "MC2-01 cream",
   "slug": "mc2-01-cream",
-  "enriched_at": "2026-10-10T13:32:45Z",
+  "enriched_at": "2026-10-18T12:09:12Z",
   "source_trial_ids": [
     "NCT07357831"
   ],
@@ -17,7 +17,7 @@
     "rxnorm": null
   },
   "mechanism": {
-    "chembl_id": null,
+    "chembl_id": "CHEMBL2108947",
     "target_chembl_id": null,
     "target_name": null,
     "mechanism_of_action_chembl": null
@@ -56,6 +56,12 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42891531",
+        "title": "Testing the safety of nature-based microbial exposure in atopic dermatitis patients: a randomized, placebo-controlled, double-blinded pilot trial.",
+        "pubdate": "2026 Oct 17",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42891531/"
+      },
+      {
         "pmid": "42825994",
         "title": "D-CARE (Delgocitinib-Chronic hAnd Eczema Response Evaluation): A Retrospective, Multicenter, Real-World Study of Patients with Chronic Hand Eczema (CHE) Treated with Delgocitinib 2% Cream-Temporal Analysis of Symptom and Clinical Sign Response.",
         "pubdate": "2026 Oct 2",
@@ -78,12 +84,6 @@
         "title": "Efficacy and Safety of Ruxolitinib Cream in Patients With Cutaneous Lichen Planus: A Randomized Clinical Trial.",
         "pubdate": "2026 Sep 23",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42776548/"
-      },
-      {
-        "pmid": "42757815",
-        "title": "To Ask or Not to Ask: Does Inquiring About Participants' Expectations Influence the Placebo Effect? A Placebo Mechanism Study in Healthy Volunteers.",
-        "pubdate": "2026 Sep",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42757815/"
       }
     ]
   },

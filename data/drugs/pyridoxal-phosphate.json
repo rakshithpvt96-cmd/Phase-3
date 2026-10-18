@@ -1,0 +1,105 @@
+{
+  "drug_name": "Pyridoxal Phosphate",
+  "slug": "pyridoxal-phosphate",
+  "enriched_at": "2026-10-18T12:10:38Z",
+  "source_trial_ids": [
+    "NCT04706013"
+  ],
+  "sponsors": [
+    {
+      "name": "Medicure",
+      "ticker": "MCUJF",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001133519&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 1051,
+    "iupac_name": "(4-formyl-5-hydroxy-6-methyl-3-pyridinyl)methyl dihydrogen phosphate",
+    "molecular_formula": "C8H10NO6P",
+    "molecular_weight": "247.14",
+    "canonical_smiles": null,
+    "inchikey": "NGVDGCNFYWLIFO-UHFFFAOYSA-N",
+    "rxnorm": {
+      "rxcui": "9004",
+      "generic_name": "pyridoxal phosphate",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL3181870",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": "INDICATIONS AND USAGE Prenatal and Postnatal prescriptive Folic Acid",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "Embriva"
+    ],
+    "openfda_generic_names": [
+      "ASCORBIC ACID, CHOLECALCIFEROL, THIAMINE, PYRIDOXAL PHOSPHATE, FOLIC ACID, METHYLCOBALAMIN, CALCIUM CARBONATE, FERROUS GLUCONATE, POTASSIUM IODIDE"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4d01ab4f-8e6f-48c9-b793-bda5076fa363",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Pyridox(am)Ine 5'-Phosphate Oxidase Deficiency",
+    "slug": "pyridox-am-ine-5-phosphate-oxidase-deficiency"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04706013",
+      "title": "Oral Pyridoxal 5'-Phosphate for the Treatment of Patients With PNPO Deficiency",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04706013",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "41917886",
+        "title": "Prescribing trends and clinical impact of calcium salt supplements in musculoskeletal pain: evidence from a multi-center retrospective analysis in India (TRACE study).",
+        "pubdate": "2026 Mar 31",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41917886/"
+      },
+      {
+        "pmid": "41378916",
+        "title": "A randomized Phase 1b trial evaluating the pharmacodynamics of ilofotase alfa in adults with hypophosphatasia.",
+        "pubdate": "2026 Mar 2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41378916/"
+      },
+      {
+        "pmid": "41094718",
+        "title": "Vitamin B6 (Pyridoxal 5' Phosphate) antagonises carotid body P2X3 receptors in hypertension.",
+        "pubdate": "2026 Mar 16",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41094718/"
+      },
+      {
+        "pmid": "39135540",
+        "title": "Safety, pharmacokinetics, and pharmacodynamics of efzimfotase alfa, a second-generation enzyme replacement therapy: phase 1, dose-escalation study in adults with hypophosphatasia.",
+        "pubdate": "2024 Sep 26",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39135540/"
+      },
+      {
+        "pmid": "38313181",
+        "title": "Assessing pyridoxine adjuvant therapy effects on blood glucose levels in type 2 diabetes: A randomized clinical trial.",
+        "pubdate": "2023 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38313181/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

@@ -1,8 +1,9 @@
 {
   "drug_name": "BL-B01D1",
   "slug": "bl-b01d1",
-  "enriched_at": "2026-10-12T18:44:57Z",
+  "enriched_at": "2026-10-18T11:58:57Z",
   "source_trial_ids": [
+    "NCT06118333",
     "NCT06343948",
     "NCT06382116"
   ],
@@ -49,6 +50,13 @@
     "slug": "hr-her2-breast-cancer"
   },
   "source_trials": [
+    {
+      "nct_id": "NCT06118333",
+      "title": "A Study Comparing BL-B01D1 With Physician's Choice of Chemotherapy in Patients With Recurrent or Metastatic Nasopharyngeal Carcinoma(PANKU-NPC01)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06118333",
+      "has_results": false
+    },
     {
       "nct_id": "NCT06343948",
       "title": "A Study Comparing BL-B01D1 With Chemotherapy of Physician's Choice in Patients With Unresectable Locally Advanced, Recurrent, or Metastatic HR+HER2- Breast Cancer(PANKU-Breast01)",

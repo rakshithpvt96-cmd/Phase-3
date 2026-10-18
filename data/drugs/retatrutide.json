@@ -1,10 +1,11 @@
 {
   "drug_name": "Retatrutide",
   "slug": "retatrutide",
-  "enriched_at": "2026-10-17T12:46:52Z",
+  "enriched_at": "2026-10-18T12:05:42Z",
   "source_trial_ids": [
     "NCT06260722",
-    "NCT06297603"
+    "NCT06297603",
+    "NCT06662383"
   ],
   "sponsors": [
     {
@@ -62,11 +63,24 @@
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT06297603",
       "has_results": false
+    },
+    {
+      "nct_id": "NCT06662383",
+      "title": "A Study of Retatrutide (LY3437943) Compared to Tirzepatide (LY3298176) in Adults Who Have Obesity",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06662383",
+      "has_results": false
     }
   ],
   "prior_results": {
     "ctgov_results_urls": [],
     "pubmed_articles": [
+      {
+        "pmid": "42889249",
+        "title": "Modern Obesity Treatment: Efficacy, Safety, and Future Directions of GLP-1 (Glucagon-Like Peptide-1) and GIP (Glucose-Dependent Insulinotropic Polypeptide) Receptor Agonists.",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42889249/"
+      },
       {
         "pmid": "42814954",
         "title": "Retatrutide, a Triple Hormone Receptor Agonist, for Treatment of Obesity.",
@@ -90,12 +104,6 @@
         "title": "Sustained weight loss exceeding 100 kg with sequential incretin-based therapy in Prader-Willi syndrome.",
         "pubdate": "2026 Oct",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42751099/"
-      },
-      {
-        "pmid": "42721492",
-        "title": "Cardiovascular effects of incretin receptor agonists: beyond glycemic control.",
-        "pubdate": "2026 Jan 1",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42721492/"
       }
     ]
   },

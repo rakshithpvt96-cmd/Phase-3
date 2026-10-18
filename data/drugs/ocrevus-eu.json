@@ -1,0 +1,84 @@
+{
+  "drug_name": "Ocrevus-EU",
+  "slug": "ocrevus-eu",
+  "enriched_at": "2026-10-18T12:03:26Z",
+  "source_trial_ids": [
+    "NCT06847724"
+  ],
+  "sponsors": [
+    {
+      "name": "Sandoz",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Sandoz&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1876381",
+      "generic_name": "Ocrevus",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL5857501",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Ocrevus-EU+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Ocrevus-EU+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Ocrevus-EU+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Relapsing Multiple Sclerosis",
+    "slug": "relapsing-multiple-sclerosis"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06847724",
+      "title": "Comparative PK, PD, Efficacy, and Safety Assessment of the Proposed Ocrelizumab Biosimilar CYB704 and Ocrevus in Participants With Relapsing Multiple Sclerosis",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06847724",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "Remibrutinib",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Novartis Pharmaceuticals"
+      },
+      {
+        "name": "Teriflunomide",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Novartis Pharmaceuticals"
+      },
+      {
+        "name": "Ublituximab",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: TG Therapeutics, Inc."
+      }
+    ]
+  }
+}

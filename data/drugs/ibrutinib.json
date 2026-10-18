@@ -1,0 +1,156 @@
+{
+  "drug_name": "Ibrutinib",
+  "slug": "ibrutinib",
+  "enriched_at": "2026-10-18T12:08:50Z",
+  "source_trial_ids": [
+    "NCT05431179"
+  ],
+  "sponsors": [
+    {
+      "name": "Oncternal Therapeutics, Inc",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Oncternal%20Therapeutics%2C%20Inc&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 24821094,
+    "iupac_name": "1-[(3R)-3-[4-amino-3-(4-phenoxyphenyl)pyrazolo[3,4-d]pyrimidin-1-yl]piperidin-1-yl]prop-2-en-1-one",
+    "molecular_formula": "C25H24N6O2",
+    "molecular_weight": "440.5",
+    "canonical_smiles": null,
+    "inchikey": "XYFPWWZEPKGCCK-GOSISDBHSA-N",
+    "rxnorm": {
+      "rxcui": "1442981",
+      "generic_name": "ibrutinib",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1873475",
+    "target_chembl_id": "CHEMBL5251",
+    "target_name": "Tyrosine-protein kinase BTK",
+    "mechanism_of_action_chembl": "Tyrosine-protein kinase BTK inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Ibrutinib is a small-molecule inhibitor of Bruton’s tyrosine kinase (BTK). Ibrutinib forms a covalent bond with a cysteine residue in the BTK active site, leading to inhibition of BTK enzymatic activity. BTK is a signaling molecule of the B-cell antigen receptor (BCR) and cytokine receptor pathways. BTK’s role in signaling through the B-cell surface receptors results in activation of pathways necessary for B-cell trafficking, chemotaxis, and adhesion. Nonclinical studies show that ibrutinib inhibits malignant B-cell proliferation and survival in vivo as well as cell migration and substrate adhesion in vitro .",
+    "pharmacokinetics": "12.3 Pharmacokinetics Ibrutinib exposure increases with doses up to 840 mg (2 times the maximum approved recommended dosage) in patients with B-cell malignancies. The mean steady-state AUC (% coefficient of variation) observed in patients at 420 mg with CLL/SLL is 708 (71%) ng×h/mL, with WM is 707 (72%) ng×h/mL, and in adult patients with previously treated cGVHD is 1159 (50%) ng×h/mL. Steady-state concentrations of ibrutinib without CYP3A inhibitors were achieved with an accumulation ratio of 1 to 1.6 after 1 week of multiple daily doses of 420 mg. Absorption Absolute bioavailability of ibrutinib in fasted condition was 2.9% (90% CI: 2.1, 3.9) in healthy subjects. Ibrutinib is absorbed after oral administration with a median T max of 1 hour to 2 hours. Effect of Food The administration of IMBRUVICA with a high-fat and high-calorie meal (800 calories to 1,000 calories with approximately 50% of total caloric content of the meal from fat) increased ibrutinib C max by 2- to 4-fold and AUC by approximately 2-fold, compared with administration of ibrutinib after overnight fasting. In vitro studies suggest that ibrutinib is not a substrate of p-glycoprotein (P-gp) or breast cancer resistance protein (BCRP). Distribution Reversible binding of ibrutinib to human plasma protein in vitro was 97.3% with no concentration dependence in the range of 50 ng/mL to 1000 ng/mL. The volume of distribution (V d ) was 683 L, and the apparent volume of distribution at steady state (V d,ss /F) was approximately 10,000 L. Elimination Intravenous clearance was 62 L/h in fasted conditions and 76 L/h in fed conditions. In line with the high first-pass effect, the apparent oral clearance is 2000 L/h in fasted conditions and 1000 L/h in fed conditions. The half-life of ibrutinib is 4 hours to 6 hours. Metabolism Metabolism is the main route of elimination for ibrutinib. It is metabolized to several metabolites primarily by cytochrome P450 (CYP) 3A and to a minor extent by CYP2D6. The active metabolite, PCI-45227, is a dihydrodiol metabolite with inhibitory activity towards BTK approximately 15 times lower than that of ibrutinib. The range of the mean metabolite to parent ratio for PCI-45227 at steady-state is 1 to 2.8. Excretion Ibrutinib, mainly in the form of metabolites, is eliminated primarily via feces. After a single oral administration of radiolabeled ibrutinib, 90% of radioactivity was excreted within 168 hours, with 80% excreted in the feces and less than 10% eliminated in urine. Unchanged ibrutinib accounted for 1% of the radiolabeled excreted dose in feces and none in urine, with the remainder of the excreted dose being metabolites. Specific Populations Age and Sex Age and sex have no clinically meaningful effect on ibrutinib pharmacokinetics. Patients with Renal Impairment Mild and moderate renal impairment (creatinine clearance [CLcr] > 25 mL/min as estimated by Cockcroft-Gault equation) had no influence on the exposure of ibrutinib. No data is available in patients with severe renal impairment (CLcr < 25 mL/min) or in patients on dialysis. Patients with Hepatic Impairment The AUC of ibrutinib increased 2.7-fold in subjects with mild hepatic impairment (Child-Pugh class A), 8.2-fold in subjects with moderate hepatic impairment (Child-Pugh class B) and 9.8-fold in subjects with severe hepatic impairment (Child-Pugh class C) relative to subjects with normal liver function. The C max of ibrutinib increased 5.2-fold in mild hepatic impairment, 8.8-fold in moderate hepatic impairment and 7-fold in severe hepatic impairment relative to subjects with normal liver function [see Use in Specific Populations ( 8.6 )]. Pediatric Patients In pediatric patients with cGVHD treated with ibrutinib at 240 mg/m 2 once daily (patients age ≥ 1 to < 12 years) or 420 mg once daily (patients age ≥ 12 years), the geometric mean (%CV) steady state AUC and C max in patients age ≥ 1 to < 12 years is 467 (102%) ng×h/mL and 65.7 (96%) ng/mL, respectively, and in patients age ≥ 12 to < 17 years is 966 (78%) ng×h/mL and 149 (79%) ng/mL, respectively. Drug Interaction Studies Clinical Studies and Model-Informed Approaches Effect of CYP3A Inhibitors on Ibrutinib: The coadministration of multiple doses of ketoconazole (strong CYP3A inhibitor) increased the C max of ibrutinib by 29-fold and AUC by 24-fold. The coadministration of multiple doses of voriconazole (strong CYP3A inhibitor) increased steady state C max of ibrutinib by 6.7-fold and AUC by 5.7-fold. Simulations under fed conditions suggest that posaconazole (strong CYP3A inhibitor) may increase the AUC of ibrutinib 3-fold to 10-fold. The coadministration of multiple doses of erythromycin (moderate CYP3A inhibitor) increased steady state C max of ibrutinib by 3.4-fold and AUC by 3-fold. Effect of CYP3A Inducers on Ibrutinib: The coadministration of rifampin (strong CYP3A inducer) decreased the C max of ibrutinib by more than 13-fold and AUC by more than 10-fold. Simulations suggest that efavirenz (moderate CYP3A inducer) may decrease the AUC of ibrutinib by 3-fold. In Vitro Studies Effect of Ibrutinib on CYP Substrates: In vitro studies suggest that ibrutinib and PCI-45227 are unlikely to inhibit CYP1A2, 2B6, 2C8, 2C9, 2C19, 2D6 or 3A at clinical doses. Both ibrutinib and PCI-45227 are unlikely to induce CYP1A2, CYP2B6 or CYP3A at clinical doses. Effect of Ibrutinib on Substrates of Transporters: In vitro studies suggest that ibrutinib may inhibit BCRP and P-gp transport at clinical doses. The coadministration of oral P-gp or BCRP substrates (e.g., digoxin, methotrexate) with IMBRUVICA may increase their concentrations.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE IMBRUVICA is a kinase inhibitor indicated for the treatment of: Adult patients with chronic lymphocytic leukemia (CLL)/Small lymphocytic lymphoma (SLL) ( 1.1 ). Adult patients with chronic lymphocytic leukemia (CLL)/Small lymphocytic lymphoma (SLL) with 17p deletion ( 1.2 ). Adult patients with Waldenström’s macroglobulinemia (WM) ( 1.3 ). Adult and pediatric patients age 1 year and older with chronic graft versus host disease (cGVHD) after failure of one or more lines of systemic therapy ( 1.4 ). 1.1 Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma IMBRUVICA is indicated for the treatment of adult patients with chronic lymphocytic leukemia (CLL)/small lymphocytic lymphoma (SLL). 1. 2 Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma with 17p deletion IMBRUVICA is indicated for the treatment of adult patients with chronic lymphocytic leukemia (CLL)/small lymphocytic lymphoma (SLL) with 17p deletion. 1. 3 Waldenström’s Macroglobulinemia IMBRUVICA is indicated for the treatment of adult patients with Waldenström’s macroglobulinemia (WM). 1. 4 Chronic Graft versus Host Disease IMBRUVICA is indicated for the treatment of adult and pediatric patients age 1 year and older with chronic graft-versus-host disease (cGVHD) after failure of one or more lines of systemic therapy.",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "Imbruvica"
+    ],
+    "openfda_generic_names": [
+      "IBRUTINIB"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cc796662-5893-44e5-8020-a353e2bb0e11",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Lymphoma, Mantle-Cell",
+    "slug": "lymphoma-mantle-cell"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05431179",
+      "title": "A Study of Zilovertamab and Ibrutinib in Patients With Relapsed or Refractory Mantle Cell Lymphoma",
+      "status": "WITHDRAWN",
+      "url": "https://clinicaltrials.gov/study/NCT05431179",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42889925",
+        "title": "Real-World Treatment Patterns, Burden of Illness, and Survival of Autologous Stem Cell Transplant-Ineligible Patients With Mantle Cell Lymphoma in Ontario, Canada.",
+        "pubdate": "2026 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42889925/"
+      },
+      {
+        "pmid": "42757031",
+        "title": "A functional prognostic model predicts progression-free survival in patients with relapsed chronic lymphocytic leukemia treated with ibrutinib + venetoclax.",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42757031/"
+      },
+      {
+        "pmid": "42718685",
+        "title": "Longitudinal changes in left atrial function during chronic ibrutinib therapy: a prospective observational study.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42718685/"
+      },
+      {
+        "pmid": "42717721",
+        "title": "Cost-effectiveness of zanubrutinib versus ibrutinib as first-line treatment for patients with Waldenström macroglobulinemia in China.",
+        "pubdate": "2026 Sep 11",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42717721/"
+      },
+      {
+        "pmid": "42712710",
+        "title": "Acalabrutinib Added To Rituximab, Bendamustine (ABR) in Newly Diagnosed High Risk Mantle Cell Lymphoma: an Early Indian Experience.",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42712710/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "SPEBRUTINIB BESYLATE",
+        "chembl_id": "CHEMBL3301600",
+        "reason": "same target: Tyrosine-protein kinase BTK"
+      },
+      {
+        "name": "POSELTINIB",
+        "chembl_id": "CHEMBL4163691",
+        "reason": "same target: Tyrosine-protein kinase BTK"
+      },
+      {
+        "name": "TIRABRUTINIB",
+        "chembl_id": "CHEMBL4071161",
+        "reason": "same target: Tyrosine-protein kinase BTK"
+      },
+      {
+        "name": "MSC-2364447",
+        "chembl_id": "CHEMBL3545193",
+        "reason": "same target: Tyrosine-protein kinase BTK"
+      },
+      {
+        "name": "ACALABRUTINIB",
+        "chembl_id": "CHEMBL3707348",
+        "reason": "same target: Tyrosine-protein kinase BTK"
+      },
+      {
+        "name": "ZANUBRUTINIB",
+        "chembl_id": "CHEMBL3936761",
+        "reason": "same target: Tyrosine-protein kinase BTK"
+      },
+      {
+        "name": "BRANEBRUTINIB",
+        "chembl_id": "CHEMBL4297674",
+        "reason": "same target: Tyrosine-protein kinase BTK"
+      },
+      {
+        "name": "BMS-986142",
+        "chembl_id": "CHEMBL3900554",
+        "reason": "same target: Tyrosine-protein kinase BTK"
+      },
+      {
+        "name": "EVOBRUTINIB",
+        "chembl_id": "CHEMBL4072833",
+        "reason": "same target: Tyrosine-protein kinase BTK"
+      },
+      {
+        "name": "ELSUBRUTINIB",
+        "chembl_id": "CHEMBL4594348",
+        "reason": "same target: Tyrosine-protein kinase BTK"
+      }
+    ]
+  }
+}

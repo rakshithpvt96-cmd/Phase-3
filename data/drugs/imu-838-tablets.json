@@ -1,0 +1,102 @@
+{
+  "drug_name": "IMU-838 tablets",
+  "slug": "imu-838-tablets",
+  "enriched_at": "2026-10-18T12:02:52Z",
+  "source_trial_ids": [
+    "NCT05134441",
+    "NCT05201638"
+  ],
+  "sponsors": [
+    {
+      "name": "Immunic AG",
+      "ticker": "IMUX",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001280776&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1865261",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL197194",
+    "target_chembl_id": "CHEMBL1966",
+    "target_name": "Dihydroorotate dehydrogenase (quinone), mitochondrial",
+    "mechanism_of_action_chembl": "Dihydroorotate dehydrogenase inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=IMU-838%20tablets+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=IMU-838%20tablets+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=IMU-838%20tablets+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Multiple Sclerosis",
+    "slug": "multiple-sclerosis"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05134441",
+      "title": "Study to Evaluate the Efficacy, Safety, and Tolerability of IMU-838 in Patients With Relapsing Multiple Sclerosis",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05134441",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT05201638",
+      "title": "Study to Evaluate the Efficacy, Safety and Tolerability of IMU-838 in Patients With Relapsing Multiple Sclerosis",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05201638",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "LEFLUNOMIDE",
+        "chembl_id": "CHEMBL960",
+        "reason": "same target: Dihydroorotate dehydrogenase (quinone), mitochondrial"
+      },
+      {
+        "name": "TERIFLUNOMIDE",
+        "chembl_id": "CHEMBL973",
+        "reason": "same target: Dihydroorotate dehydrogenase (quinone), mitochondrial"
+      },
+      {
+        "name": "ASLAN-003",
+        "chembl_id": "CHEMBL2263632",
+        "reason": "same target: Dihydroorotate dehydrogenase (quinone), mitochondrial"
+      },
+      {
+        "name": "EMVODODSTAT",
+        "chembl_id": "CHEMBL4650336",
+        "reason": "same target: Dihydroorotate dehydrogenase (quinone), mitochondrial"
+      },
+      {
+        "name": "BREQUINAR",
+        "chembl_id": "CHEMBL38434",
+        "reason": "same target: Dihydroorotate dehydrogenase (quinone), mitochondrial"
+      }
+    ]
+  }
+}

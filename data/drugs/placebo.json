@@ -1,7 +1,7 @@
 {
   "drug_name": "Placebo",
   "slug": "placebo",
-  "enriched_at": "2026-10-17T11:33:20Z",
+  "enriched_at": "2026-10-18T12:05:17Z",
   "source_trial_ids": [
     "NCT02914535",
     "NCT04036435",
@@ -9,13 +9,15 @@
     "NCT04842617",
     "NCT04895241",
     "NCT04961567",
+    "NCT05066217",
     "NCT05115110",
     "NCT05116462",
     "NCT05164341",
+    "NCT05202509",
     "NCT05239728",
-    "NCT05316220",
     "NCT05330182",
     "NCT05360446",
+    "NCT05431179",
     "NCT05511363",
     "NCT05531565",
     "NCT05608291",
@@ -29,10 +31,12 @@
     "NCT06125951",
     "NCT06200207",
     "NCT06208306",
+    "NCT06239311",
     "NCT06245408",
     "NCT06297603",
     "NCT06309966",
     "NCT06339008",
+    "NCT06341335",
     "NCT06411288",
     "NCT06455059",
     "NCT06468956",
@@ -54,10 +58,14 @@
     "NCT06834347",
     "NCT06846515",
     "NCT06910358",
+    "NCT06914895",
     "NCT06958692",
+    "NCT06962280",
     "NCT06994507",
     "NCT07193459",
     "NCT07220109",
+    "NCT07237568",
+    "NCT07251309",
     "NCT07265284",
     "NCT07279194",
     "NCT07298434",
@@ -71,16 +79,16 @@
   ],
   "sponsors": [
     {
-      "name": "AbbVie",
-      "ticker": "ABBV",
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001551152&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
       "name": "Actinogen Medical",
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Actinogen%20Medical&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Akeso",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Akeso&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Alfasigma S.p.A.",
@@ -209,6 +217,12 @@
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001716947&type=10-K&dateb=&owner=include&count=40"
     },
     {
+      "name": "Epygenix",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Epygenix&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
       "name": "Gan & Lee Pharmaceuticals.",
       "ticker": null,
       "market_cap_display": null,
@@ -299,6 +313,12 @@
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Lumen%20Bioscience%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
     },
     {
+      "name": "Lynk Pharmaceuticals Co., Ltd",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Lynk%20Pharmaceuticals%20Co.%2C%20Ltd&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
       "name": "Merck Sharp & Dohme LLC",
       "ticker": null,
       "market_cap_display": null,
@@ -311,6 +331,12 @@
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Natureceuticals%20Sdn%20Bhd&type=10-K&dateb=&owner=include&count=40"
     },
     {
+      "name": "NewAmsterdam Pharma",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=NewAmsterdam%20Pharma&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
       "name": "Novartis Pharmaceuticals",
       "ticker": null,
       "market_cap_display": null,
@@ -321,6 +347,12 @@
       "ticker": "NVO",
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000353278&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Oncternal Therapeutics, Inc",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Oncternal%20Therapeutics%2C%20Inc&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Pharvaris Netherlands B.V.",
@@ -371,10 +403,22 @@
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001347178&type=10-K&dateb=&owner=include&count=40"
     },
     {
+      "name": "Waterstone Pharmaceutical (Wuhan) Co., LTD.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Waterstone%20Pharmaceutical%20%28Wuhan%29%20Co.%2C%20LTD.&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
       "name": "Xenon Pharmaceuticals Inc.",
       "ticker": "XENE",
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001582313&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "medac GmbH",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=medac%20GmbH&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
@@ -408,8 +452,8 @@
     }
   },
   "condition": {
-    "raw": "Ulcerative Colitis (UC)",
-    "slug": "ulcerative-colitis-uc"
+    "raw": "Respiratory Syncytial Virus Infections",
+    "slug": "respiratory-syncytial-virus-infections"
   },
   "source_trials": [
     {
@@ -455,6 +499,13 @@
       "has_results": false
     },
     {
+      "nct_id": "NCT05066217",
+      "title": "An Efficacy and Safety Study of Clemizole HCl in Patients With Lennox-Gastaut Syndrome",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05066217",
+      "has_results": false
+    },
+    {
       "nct_id": "NCT05115110",
       "title": "A Study to Investigate the Safety and Efficacy of RO7204239 in Combination With Risdiplam (RO7034067) in Participants With Spinal Muscular Atrophy",
       "status": "ACTIVE_NOT_RECRUITING",
@@ -476,17 +527,17 @@
       "has_results": false
     },
     {
+      "nct_id": "NCT05202509",
+      "title": "Cardiovascular Outcome Study to Evaluate the Effect of Obicetrapib in Patients With Cardiovascular Disease",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05202509",
+      "has_results": false
+    },
+    {
       "nct_id": "NCT05239728",
       "title": "A Study of Belzutifan (MK-6482) Plus Pembrolizumab (MK-3475) Versus Placebo Plus Pembrolizumab in Participants With Clear Cell Renal Cell Carcinoma Post Nephrectomy (MK-6482-022)",
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT05239728",
-      "has_results": false
-    },
-    {
-      "nct_id": "NCT05316220",
-      "title": "A Study to Assess Adverse Events and Change in Disease Condition of Mesalamine Capsules in Children Aged 5 to 17 Years With Ulcerative Colitis",
-      "status": "WITHDRAWN",
-      "url": "https://clinicaltrials.gov/study/NCT05316220",
       "has_results": false
     },
     {
@@ -501,6 +552,13 @@
       "title": "Coronary Computed Tomography Study to Assess the Effect of Inclisiran in Addition to Maximally Tolerated Statin Therapy on Atherosclerotic Plaque Progression in Participants With a Diagnosis of Non-obstructive Coronary Artery Disease Without Previous Cardiovascular Events",
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT05360446",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT05431179",
+      "title": "A Study of Zilovertamab and Ibrutinib in Patients With Relapsed or Refractory Mantle Cell Lymphoma",
+      "status": "WITHDRAWN",
+      "url": "https://clinicaltrials.gov/study/NCT05431179",
       "has_results": false
     },
     {
@@ -595,6 +653,13 @@
       "has_results": false
     },
     {
+      "nct_id": "NCT06239311",
+      "title": "Efficacy and Safety of Methotrexate Versus Placebo in Adults With Atopic Dermatitis.",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06239311",
+      "has_results": false
+    },
+    {
       "nct_id": "NCT06245408",
       "title": "A Safety and Efficacy Study of Dazodalibep in Participants With Sjögren's Syndrome (SS) With Moderate-to-Severe Symptom State",
       "status": "ACTIVE_NOT_RECRUITING",
@@ -620,6 +685,13 @@
       "title": "A Study of Lebrikizumab in Adult Participants With Perennial Allergic Rhinitis (PREPARED-1)",
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT06339008",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06341335",
+      "title": "A Study of AK104/Placebo Plus AK109/Placebo And Paclitaxel in Gastric or Gastroesophageal Junction Adenocarcinoma",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06341335",
       "has_results": false
     },
     {
@@ -770,10 +842,24 @@
       "has_results": false
     },
     {
+      "nct_id": "NCT06914895",
+      "title": "A Study of Tirzepatide (LY3298176) Compared With Placebo in Adults With Type 1 Diabetes and Obesity or Overweight",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06914895",
+      "has_results": false
+    },
+    {
       "nct_id": "NCT06958692",
       "title": "A Trial of Dextromethorphan and Bupropion Sustained-Release Tablets in Patients With Major Depressive Disorder",
       "status": "RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT06958692",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06962280",
+      "title": "A Long-Term Study of Tirzepatide (LY3298176) in Adults With Type 1 Diabetes and Obesity or Overweight",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06962280",
       "has_results": false
     },
     {
@@ -795,6 +881,20 @@
       "title": "A Study on the Immune Response and Safety of Vaccine Against Respiratory Syncytial Virus Given to Chinese Adults 18 to 59 Years of Age at Increased Risk of Respiratory Syncytial Virus Disease",
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT07220109",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT07237568",
+      "title": "A Study to Evaluate Efficacy and Safety of LNK01001 in Adults With Ankylosing Spondylitis",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07237568",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT07251309",
+      "title": "A Two-Part, Phase 3 Study Evaluating the Efficacy and Safety of WS016 for the Treatment of Hyperkalemia",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07251309",
       "has_results": false
     },
     {
@@ -872,34 +972,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42888376",
-        "title": "Cost Effectiveness of Sertraline for Preventing Domestic Violence Reoffending Among Highly Impulsive Violent Offenders in Australia: A Trial-Based Economic Evaluation.",
-        "pubdate": "2026 Oct 16",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42888376/"
+        "pmid": "42892381",
+        "title": "Efficacy and safety of litifilimab in cutaneous lupus erythematosus: 24-week results of the randomized phase 2 study, AMETHYST.",
+        "pubdate": "2026 Oct 17",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42892381/"
       },
       {
-        "pmid": "42888370",
-        "title": "Brexpiprazole for Individual Agitation Symptoms in Alzheimer's Dementia: A Caregiver-Centered Post Hoc Analysis.",
-        "pubdate": "2026 Oct 16",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42888370/"
+        "pmid": "42892346",
+        "title": "Phase 2 study of fazpilodemab, a FGFR1/Klothoβ agonist, in metabolic dysfunction-associated steatohepatitis (MASH).",
+        "pubdate": "2026 Oct 17",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42892346/"
       },
       {
-        "pmid": "42887695",
-        "title": "Dietary supplementation with plant sterols for obesity management and related metabolic disorders: A randomized, double-blind, placebo-controlled crossover clinical trial.",
-        "pubdate": "2026 Oct 16",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42887695/"
+        "pmid": "42891531",
+        "title": "Testing the safety of nature-based microbial exposure in atopic dermatitis patients: a randomized, placebo-controlled, double-blinded pilot trial.",
+        "pubdate": "2026 Oct 17",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42891531/"
       },
       {
-        "pmid": "42887516",
-        "title": "Thyroid hormone receptor-β agonist simedeutirom (HSK31679) for Chinese patients with metabolic dysfunction-associated steatohepatitis: a 52-week, multicentre, randomised, double-blind, placebo-controlled, phase 2b trial.",
-        "pubdate": "2026 Oct 16",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42887516/"
+        "pmid": "42891510",
+        "title": "Lymphocytosis as a biomarker for natalizumab treatment response in multiple sclerosis: The link with anti-drug antibodies.",
+        "pubdate": "2026 Oct 17",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42891510/"
       },
       {
-        "pmid": "42885348",
-        "title": "Effect of Colchicine on Arterial Stiffness in Patients With Hypertension: The COlchicine HypERtENsion Trial (COHERENT).",
-        "pubdate": "2026 Oct 16",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42885348/"
+        "pmid": "42890128",
+        "title": "Topical oxybutynin antiperspirant for axillary hyperhidrosis: a phase IIb PROBE design clinical trial (TODAY trial).",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42890128/"
       }
     ]
   },

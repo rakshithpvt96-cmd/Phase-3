@@ -1,15 +1,22 @@
 {
   "drug_name": "Paclitaxel",
   "slug": "paclitaxel",
-  "enriched_at": "2026-10-09T14:14:26Z",
+  "enriched_at": "2026-10-18T12:04:25Z",
   "source_trial_ids": [
     "NCT04704934",
     "NCT05116462",
     "NCT05984277",
     "NCT06018337",
+    "NCT06341335",
     "NCT06619236"
   ],
   "sponsors": [
+    {
+      "name": "Akeso",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Akeso&type=10-K&dateb=&owner=include&count=40"
+    },
     {
       "name": "AstraZeneca",
       "ticker": "AZN",
@@ -111,6 +118,13 @@
       "has_results": false
     },
     {
+      "nct_id": "NCT06341335",
+      "title": "A Study of AK104/Placebo Plus AK109/Placebo And Paclitaxel in Gastric or Gastroesophageal Junction Adenocarcinoma",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06341335",
+      "has_results": false
+    },
+    {
       "nct_id": "NCT06619236",
       "title": "Study to Assess the Efficacy of Rina-S Compared to Treatment of Investigator's Choice in Participants With Platinum Resistant Ovarian Cancer",
       "status": "ACTIVE_NOT_RECRUITING",
@@ -122,6 +136,24 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42862523",
+        "title": "Clinical Efficacy of Tislelizumab Plus Gemcitabine-Nab-Paclitaxel for Borderline Resectable Pancreatic Cancer and Chemoresistance Analysis: A Prospective Pilot Study.",
+        "pubdate": "2026 Oct 12",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42862523/"
+      },
+      {
+        "pmid": "42860035",
+        "title": "Combined Active Bone Marrow-Sparing Radiotherapy and Prophylactic PEG-rhG-CSF to Reduce Severe Neutropenia During Platinum-Doublet Concurrent Chemoradiotherapy for Locally Advanced Cervical Cancer: A Phase II Trial.",
+        "pubdate": "2026 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42860035/"
+      },
+      {
+        "pmid": "42855246",
+        "title": "Pembrolizumab plus lenvatinib in the treatment of unresectable cutaneous angiosarcoma: a study protocol of multicentre, open-label phase II study (NCCH2213, PLAS).",
+        "pubdate": "2026 Oct 9",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42855246/"
+      },
+      {
         "pmid": "42821287",
         "title": "Rethinking Treatment Intensification in Poorly Chemosensitive Ovarian Cancer: A Review.",
         "pubdate": "2026 Oct 1",
@@ -132,24 +164,6 @@
         "title": "Intravenous hyaluronidase-expressing oncolytic adenovirus with chemotherapy in metastatic pancreatic cancer: a randomized phase 2b trial.",
         "pubdate": "2026 Sep 30",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42816596/"
-      },
-      {
-        "pmid": "42816421",
-        "title": "Neoadjuvant Anlotinib Plus Paclitaxel-Cisplatin for Technically Resectable Locally Advanced Head and Neck Squamous Cell Carcinoma: A Prospective Single-Arm Phase II Study.",
-        "pubdate": "2026 Sep 30",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42816421/"
-      },
-      {
-        "pmid": "42811017",
-        "title": "Motixafortide, cemiplimab, gemcitabine and nab-paclitaxel in metastatic pancreatic cancer: a single-arm phase 2 study with single-cell correlatives.",
-        "pubdate": "2026 Aug 21",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42811017/"
-      },
-      {
-        "pmid": "42782448",
-        "title": "Efficacy and Safety of EG12014 (Biosimilar Trastuzumab) Compared to Reference Trastuzumab in HER2-Positive Early Breast Cancer: A Phase III Randomized Study.",
-        "pubdate": "2026 Sep 24",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42782448/"
       }
     ]
   },

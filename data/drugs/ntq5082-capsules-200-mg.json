@@ -1,0 +1,121 @@
+{
+  "drug_name": "NTQ5082 capsules 200 mg",
+  "slug": "ntq5082-capsules-200-mg",
+  "enriched_at": "2026-10-18T12:09:53Z",
+  "source_trial_ids": [
+    "NCT07177859"
+  ],
+  "sponsors": [
+    {
+      "name": "Nanjing Chia-tai Tianqing Pharmaceutical",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Nanjing%20Chia-tai%20Tianqing%20Pharmaceutical&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": null
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL5314922",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=NTQ5082%20capsules%20200%20mg+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=NTQ5082%20capsules%20200%20mg+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=NTQ5082%20capsules%20200%20mg+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Paroxysmal Nocturnal Hemoglobinuria",
+    "slug": "paroxysmal-nocturnal-hemoglobinuria"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07177859",
+      "title": "A Phase III Study of NTQ5082 Capsules in the Treatment of Paroxysmal Nocturnal Hemoglobinuria Patients",
+      "status": "NOT_YET_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07177859",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42747864",
+        "title": "Efficacy and safety of minocycline in the treatment of intracerebral haemorrhage: study design and protocol for a multicentre, randomised, open-label, blinded endpoint clinical trial.",
+        "pubdate": "2026 Sep 5",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42747864/"
+      },
+      {
+        "pmid": "42733221",
+        "title": "Efficacy and Safety of Celecoxib Combined With Jintiange Capsules for the Treatment of Knee Osteoarthritis: A Randomized, Double-Blind, Placebo-Controlled Clinical Trial.",
+        "pubdate": "2026 Sep 14",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42733221/"
+      },
+      {
+        "pmid": "42728656",
+        "title": "Oral Bromelain Reduces Postoperative Edema Following Upper Blepharoplasty: A Randomized Triple-Blind Placebo-Controlled Trial.",
+        "pubdate": "2026 Sep 12",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42728656/"
+      },
+      {
+        "pmid": "42207988",
+        "title": "Viloxazine Extended Release in Adults With Attention-Deficit/Hyperactivity Disorder and Depression and/or Anxiety Symptoms: Results From a Decentralized, Open-Label, Phase 4 Trial.",
+        "pubdate": "2026 May 27",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42207988/"
+      },
+      {
+        "pmid": "42102823",
+        "title": "Neuroplastic white matter changes in patients with major depression following lysergic acid diethylamide treatment.",
+        "pubdate": "2026 Jun 16",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42102823/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "Danicopan",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Alexion Pharmaceuticals, Inc."
+      },
+      {
+        "name": "Ravulizumab",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Regeneron Pharmaceuticals"
+      },
+      {
+        "name": "Pozelimab",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Regeneron Pharmaceuticals"
+      },
+      {
+        "name": "Cemdisiran",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Regeneron Pharmaceuticals"
+      },
+      {
+        "name": "Eculizumab",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Regeneron Pharmaceuticals"
+      }
+    ]
+  }
+}

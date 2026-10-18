@@ -1,0 +1,150 @@
+{
+  "drug_name": "Eculizumab Injection",
+  "slug": "eculizumab-injection",
+  "enriched_at": "2026-10-18T12:07:28Z",
+  "source_trial_ids": [
+    "NCT07177859"
+  ],
+  "sponsors": [
+    {
+      "name": "Nanjing Chia-tai Tianqing Pharmaceutical",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Nanjing%20Chia-tai%20Tianqing%20Pharmaceutical&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1655947",
+      "generic_name": "eculizumab Injection",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1201828",
+    "target_chembl_id": "CHEMBL2364163",
+    "target_name": "Complement C5",
+    "mechanism_of_action_chembl": "Complement C5 inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Eculizumab%20Injection+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Eculizumab%20Injection+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Eculizumab%20Injection+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Paroxysmal Nocturnal Hemoglobinuria",
+    "slug": "paroxysmal-nocturnal-hemoglobinuria"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07177859",
+      "title": "A Phase III Study of NTQ5082 Capsules in the Treatment of Paroxysmal Nocturnal Hemoglobinuria Patients",
+      "status": "NOT_YET_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07177859",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "41021723",
+        "title": "",
+        "pubdate": "2025 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41021723/"
+      },
+      {
+        "pmid": "40720060",
+        "title": "Efficacy and Safety Maintained up to 3 Years in Adults with Paroxysmal Nocturnal Hemoglobinuria Receiving Pegcetacoplan.",
+        "pubdate": "2025 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40720060/"
+      },
+      {
+        "pmid": "38727860",
+        "title": "Normalization of Hemoglobin, Lactate Dehydrogenase, and Fatigue in Patients with Paroxysmal Nocturnal Hemoglobinuria Treated with Pegcetacoplan.",
+        "pubdate": "2024 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38727860/"
+      },
+      {
+        "pmid": "36272026",
+        "title": "Phase 3 Study of Subcutaneous Versus Intravenous Ravulizumab in Eculizumab-Experienced Adult Patients with PNH: Primary Analysis and 1-Year Follow-Up.",
+        "pubdate": "2023 Jan",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36272026/"
+      },
+      {
+        "pmid": "36055332",
+        "title": "Pegcetacoplan versus eculizumab in patients with paroxysmal nocturnal haemoglobinuria (PEGASUS): 48-week follow-up of a randomised, open-label, phase 3, active-comparator, controlled trial.",
+        "pubdate": "2022 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36055332/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "PEXELIZUMAB",
+        "chembl_id": "CHEMBL2107979",
+        "reason": "same target: Complement C5"
+      },
+      {
+        "name": "VILOBELIMAB",
+        "chembl_id": "CHEMBL2109636",
+        "reason": "same target: Complement C5"
+      },
+      {
+        "name": "RAVULIZUMAB",
+        "chembl_id": "CHEMBL3989986",
+        "reason": "same target: Complement C5"
+      },
+      {
+        "name": "TESIDOLUMAB",
+        "chembl_id": "CHEMBL4298012",
+        "reason": "same target: Complement C5"
+      },
+      {
+        "name": "NOMACOPAN",
+        "chembl_id": "CHEMBL4297928",
+        "reason": "same target: Complement C5"
+      },
+      {
+        "name": "OLENDALIZUMAB",
+        "chembl_id": "CHEMBL3990025",
+        "reason": "same target: Complement C5"
+      },
+      {
+        "name": "POZELIMAB",
+        "chembl_id": "CHEMBL4298086",
+        "reason": "same target: Complement C5"
+      },
+      {
+        "name": "ZILUCOPLAN",
+        "chembl_id": "CHEMBL4298207",
+        "reason": "same target: Complement C5"
+      },
+      {
+        "name": "CROVALIMAB",
+        "chembl_id": "CHEMBL4594316",
+        "reason": "same target: Complement C5"
+      },
+      {
+        "name": "ZILUCOPLAN SODIUM",
+        "chembl_id": "CHEMBL5315048",
+        "reason": "same target: Complement C5"
+      }
+    ]
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "drug_name": "Perjeta",
+  "slug": "perjeta",
+  "enriched_at": "2026-10-18T12:10:21Z",
+  "source_trial_ids": [
+    "NCT06884254"
+  ],
+  "sponsors": [
+    {
+      "name": "EirGenix, Inc.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=EirGenix%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1298949",
+      "generic_name": "Perjeta",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2007641",
+    "target_chembl_id": "CHEMBL1824",
+    "target_name": "Receptor tyrosine-protein kinase erbB-2",
+    "mechanism_of_action_chembl": "Receptor protein-tyrosine kinase erbB-2 inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Pertuzumab targets the extracellular dimerization domain (Subdomain II) of the human epidermal growth factor receptor 2 protein (HER2) and, thereby, blocks ligand-dependent heterodimerization of HER2 with other HER family members, including EGFR, HER3, and HER4. As a result, pertuzumab inhibits ligand-initiated intracellular signaling through two major signal pathways, mitogen-activated protein (MAP) kinase, and phosphoinositide 3-kinase (PI3K). Inhibition of these signaling pathways can result in cell growth arrest and apoptosis, respectively. In addition, pertuzumab mediates antibody-dependent cell-mediated cytotoxicity (ADCC). While pertuzumab alone inhibited the proliferation of human tumor cells, the combination of pertuzumab and trastuzumab augmented anti-tumor activity in HER2-overexpressing xenograft models.",
+    "pharmacokinetics": "12.3 Pharmacokinetics Based on a population PK analysis that included 481 patients, pertuzumab demonstrated linear pharmacokinetics at a dose range of 2 – 25 mg/kg. With an initial dose of 840 mg followed by a maintenance dose of 420 mg every three weeks thereafter, the steady-state concentration of pertuzumab was reached after the first maintenance dose. Elimination The median clearance (CL) of pertuzumab was 0.24 L/day and the median half-life was 18 days. Specific Populations No clinically significant differences in the pharmacokinetics of pertuzumab were observed based on age, sex, ethnicity (Japanese vs. non-Japanese), or disease status (neoadjuvant or adjuvant vs. metastatic setting). No dose adjustments based on body weight or baseline albumin level are needed, as the exposure changes are not considered clinically relevant. Pertuzumab exposure in patients with mild (CLcr 60 to 90 mL/min, n=200) and moderate renal impairment (CLcr 30 to 60 mL/min, n=71) were similar to those in patients with normal renal function (CLcr greater than 90 mL/min, n=200). The pharmacokinetics of pertuzumab in patients with moderate to severe hepatic impairment or severe renal impairment is unknown.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE PERJETA is a HER2/neu receptor antagonist indicated for: Use in combination with trastuzumab and docetaxel for treatment of adults with HER2-positive metastatic breast cancer (MBC) who have not received prior anti-HER2 therapy or chemotherapy for metastatic disease. ( 1.1 ) Use in combination with trastuzumab and chemotherapy as neoadjuvant treatment of adults with HER2-positive, locally advanced, inflammatory, or early stage breast cancer (either greater than 2 cm in diameter or node positive) as part of a complete treatment regimen for early breast cancer. ( 1.2 , 2.2 , 14.2 ) adjuvant treatment of adults with HER2-positive early breast cancer at high risk of recurrence ( 1.2 , 2.2 , 14.3 ) 1.1 Metastatic Breast Cancer (MBC) PERJETA is indicated for use in combination with trastuzumab and docetaxel for the treatment of adults with HER2-positive metastatic breast cancer who have not received prior anti-HER2 therapy or chemotherapy for metastatic disease [see Dosage and Administration (2.2) and Clinical Studies (14.1) ] . 1.2 Early Breast Cancer (EBC) PERJETA is indicated for use in combination with trastuzumab and chemotherapy for the neoadjuvant treatment of adults with HER2-positive, locally advanced, inflammatory, or early stage breast cancer (either greater than 2 cm in diameter or node positive) as part of a complete treatment regimen for early breast cancer [see Dosage and Administration (2.2) and Clinical Studies (14.2) ] . the adjuvant treatment of adults with HER2-positive early breast cancer at high risk of recurrence [see Dosage and Administration (2.2) and Clinical Studies (14.3) ] .",
+    "boxed_warning": "WARNING: LEFT VENTRICULAR DYSFUNCTION and EMBRYO-FETAL TOXICITY Left Ventricular Dysfunction: PERJETA can cause subclinical and clinical cardiac failure manifesting as decreased LVEF and CHF. Evaluate cardiac function prior to and during treatment. Discontinue PERJETA treatment for a confirmed clinically significant decrease in left ventricular function [see Dosage and Administration (2.3) , Warnings and Precautions (5.1) and Adverse Reactions (6.1) ]. Embryo-fetal Toxicity: Exposure to PERJETA can cause embryo-fetal death and birth defects. Advise patients of these risks and the need for effective contraception [see Warnings and Precautions (5.2) and Use in Specific Populations (8.1) (8.3) ]. WARNING: LEFT VENTRICULAR DYSFUNCTION and EMBRYO-FETAL TOXICITY See full prescribing information for complete boxed warning. Left Ventricular Dysfunction: PERJETA can cause subclinical and clinical cardiac failure manifesting as decreased LVEF and CHF. Evaluate cardiac function prior to and during treatment. Discontinue PERJETA treatment for a confirmed clinically significant decrease in left ventricular function. ( 2.3 , 5.1 , 6.1 ) Embryo-fetal Toxicity: Exposure to PERJETA can cause embryo-fetal death and birth defects. Advise patients of these risks and the need for effective contraception. ( 5.2 , 8.1 , 8.3 )",
+    "openfda_brand_names": [
+      "PERJETA"
+    ],
+    "openfda_generic_names": [
+      "PERTUZUMAB"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=17f85d17-ab71-4f5b-9fe3-0b8c822f69ff",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Early Breast Cancer",
+    "slug": "early-breast-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06884254",
+      "title": "Efficacy and Safety Study of EG1206A (EirGenix' Pertuzumab) Compared With EU-sourced Perjeta® (Pertuzumab) in Patients With HER2-positive Hormone Receptor Negative Early Breast Cancer.",
+      "status": "WITHDRAWN",
+      "url": "https://clinicaltrials.gov/study/NCT06884254",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42854349",
+        "title": "Advancing therapies for HER2-positive metastatic breast cancer: Navigating a wealth of treatment options.",
+        "pubdate": "2026 Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42854349/"
+      },
+      {
+        "pmid": "42806861",
+        "title": "Harnessing Quantitative Medicine to Advance Oncology Drug Development.",
+        "pubdate": "2026 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42806861/"
+      },
+      {
+        "pmid": "42714872",
+        "title": "Neoadjuvant Pertuzumab Biosimilar HLX11 Versus Reference Pertuzumab for Early-stage or Locally Advanced Breast Cancer: A phase 3 Equivalence Trial.",
+        "pubdate": "2026 Sep 9",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42714872/"
+      },
+      {
+        "pmid": "42690668",
+        "title": "Neoadjuvant Anbenitamab and HB1801 in ERBB2-Positive Breast Cancer: A Phase 3 Randomized Clinical Trial.",
+        "pubdate": "2026 Sep 3",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42690668/"
+      },
+      {
+        "pmid": "42636838",
+        "title": "Manual, digital, and AI tumour-infiltrating lymphocyte scoring: a secondary analysis of the APHINITY randomised trial.",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42636838/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "TRASTUZUMAB",
+        "chembl_id": "CHEMBL1201585",
+        "reason": "same target: Receptor tyrosine-protein kinase erbB-2"
+      },
+      {
+        "name": "TRASTUZUMAB EMTANSINE",
+        "chembl_id": "CHEMBL1743082",
+        "reason": "same target: Receptor tyrosine-protein kinase erbB-2"
+      },
+      {
+        "name": "LAPATINIB DITOSYLATE",
+        "chembl_id": "CHEMBL1201179",
+        "reason": "same target: Receptor tyrosine-protein kinase erbB-2"
+      },
+      {
+        "name": "AFATINIB DIMALEATE",
+        "chembl_id": "CHEMBL2105712",
+        "reason": "same target: Receptor tyrosine-protein kinase erbB-2"
+      },
+      {
+        "name": "AC-480",
+        "chembl_id": "CHEMBL1645462",
+        "reason": "same target: Receptor tyrosine-protein kinase erbB-2"
+      },
+      {
+        "name": "ALLITINIB",
+        "chembl_id": "CHEMBL1947204",
+        "reason": "same target: Receptor tyrosine-protein kinase erbB-2"
+      },
+      {
+        "name": "CP-724714",
+        "chembl_id": "CHEMBL483321",
+        "reason": "same target: Receptor tyrosine-protein kinase erbB-2"
+      },
+      {
+        "name": "CUDC-101",
+        "chembl_id": "CHEMBL598797",
+        "reason": "same target: Receptor tyrosine-protein kinase erbB-2"
+      },
+      {
+        "name": "JNJ-26483327",
+        "chembl_id": "CHEMBL3109738",
+        "reason": "same target: Receptor tyrosine-protein kinase erbB-2"
+      },
+      {
+        "name": "AV-412",
+        "chembl_id": "CHEMBL6067986",
+        "reason": "same target: Receptor tyrosine-protein kinase erbB-2"
+      }
+    ]
+  }
+}

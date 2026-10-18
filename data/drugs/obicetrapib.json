@@ -1,0 +1,105 @@
+{
+  "drug_name": "Obicetrapib",
+  "slug": "obicetrapib",
+  "enriched_at": "2026-10-18T12:03:20Z",
+  "source_trial_ids": [
+    "NCT05202509"
+  ],
+  "sponsors": [
+    {
+      "name": "NewAmsterdam Pharma",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=NewAmsterdam%20Pharma&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 11498596,
+    "iupac_name": "4-[2-[[3,5-bis(trifluoromethyl)phenyl]methyl-[(2R,4S)-1-ethoxycarbonyl-2-ethyl-6-(trifluoromethyl)-3,4-dihydro-2H-quinolin-4-yl]amino]pyrimidin-5-yl]oxybutanoic acid",
+    "molecular_formula": "C32H31F9N4O5",
+    "molecular_weight": "722.6",
+    "canonical_smiles": null,
+    "inchikey": "NRWORBQAOQVYBJ-GJZUVCINSA-N",
+    "rxnorm": {
+      "rxcui": "2169568",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL6068417",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Obicetrapib+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Obicetrapib+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Obicetrapib+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Atherosclerotic Cardiovascular Disease",
+    "slug": "atherosclerotic-cardiovascular-disease"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05202509",
+      "title": "Cardiovascular Outcome Study to Evaluate the Effect of Obicetrapib in Patients With Cardiovascular Disease",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05202509",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42395092",
+        "title": "Obicetrapib safety analysis: Pooled phase 3 clinical trial experience.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42395092/"
+      },
+      {
+        "pmid": "42053728",
+        "title": "CETP Renaissance with Obicetrapib.",
+        "pubdate": "2026 Apr 29",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42053728/"
+      },
+      {
+        "pmid": "42006409",
+        "title": "The emerging role of CETP inhibition in the prevention of Alzheimer's disease.",
+        "pubdate": "2026 Apr",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42006409/"
+      },
+      {
+        "pmid": "41998344",
+        "title": "Author Correction: Obicetrapib in patients with heterozygous familial hypercholesterolemia: the BROOKLYN randomized clinical trial.",
+        "pubdate": "2026 May",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41998344/"
+      },
+      {
+        "pmid": "41760952",
+        "title": "Obicetrapib in patients with heterozygous familial hypercholesterolemia: the BROOKLYN randomized clinical trial.",
+        "pubdate": "2026 Mar",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41760952/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

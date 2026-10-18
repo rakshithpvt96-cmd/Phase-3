@@ -1,0 +1,105 @@
+{
+  "drug_name": "Octreotide LAR",
+  "slug": "octreotide-lar",
+  "enriched_at": "2026-10-18T12:04:09Z",
+  "source_trial_ids": [
+    "NCT05050942"
+  ],
+  "sponsors": [
+    {
+      "name": "Camurus AB",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Camurus%20AB&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 6917964,
+    "iupac_name": "acetic acid;(4R,7S,10S,13R,16S,19R)-10-(4-aminobutyl)-19-[[(2R)-2-amino-3-phenylpropanoyl]amino]-16-benzyl-N-[(2R,3R)-1,3-dihydroxybutan-2-yl]-7-[(1R)-1-hydroxyethyl]-13-(1H-indol-3-ylmethyl)-6,9,12,15,18-pentaoxo-1,2-dithia-5,8,11,14,17-pentazacycloicosane-4-carboxamide",
+    "molecular_formula": "C51H70N10O12S2",
+    "molecular_weight": "1079.3",
+    "canonical_smiles": null,
+    "inchikey": "XQEJFZYLWPSJOV-XJQYZYIXSA-N",
+    "rxnorm": {
+      "rxcui": "362679",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1680",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Octreotide%20LAR+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Octreotide%20LAR+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Octreotide%20LAR+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Gastro-enteropancreatic Neuroendocrine Tumor",
+    "slug": "gastro-enteropancreatic-neuroendocrine-tumor"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05050942",
+      "title": "A Trial to Assess Efficacy and Safety of Octreotide Subcutaneous Depot in Patients With GEP-NET",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05050942",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42604001",
+        "title": "[(177)Lu]Lu-DOTA-TATE plus long-acting octreotide in patients with newly diagnosed, advanced, grade 2-3, gastroenteropancreatic neuroendocrine tumours: preplanned and post-hoc efficacy analyses from the randomised, phase 3 NETTER-2 trial.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42604001/"
+      },
+      {
+        "pmid": "41140134",
+        "title": "Medical treatment in acromegaly: a network meta-analysis.",
+        "pubdate": "2025 Oct 30",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41140134/"
+      },
+      {
+        "pmid": "38851203",
+        "title": "[(177)Lu]Lu-DOTA-TATE plus long-acting octreotide versus high‑dose long-acting octreotide for the treatment of newly diagnosed, advanced grade 2-3, well-differentiated, gastroenteropancreatic neuroendocrine tumours (NETTER-2): an open-label, randomised, phase 3 study.",
+        "pubdate": "2024 Jun 29",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38851203/"
+      },
+      {
+        "pmid": "38229199",
+        "title": "Methodology of the SORENTO clinical trial: a prospective, randomised, active-controlled phase 3 trial assessing the efficacy and safety of high exposure octreotide subcutaneous depot (CAM2029) in patients with GEP-NET.",
+        "pubdate": "2024 Jan 16",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38229199/"
+      },
+      {
+        "pmid": "36754009",
+        "title": "Effects of Octreotide-Long-Acting Release Added-on Tolvaptan in Patients with Autosomal Dominant Polycystic Kidney Disease: Pilot, Randomized, Placebo-Controlled, Cross-Over Trial.",
+        "pubdate": "2023 Feb 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36754009/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

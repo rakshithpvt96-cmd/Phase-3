@@ -1,0 +1,156 @@
+{
+  "drug_name": "FOLFOX regimen",
+  "slug": "folfox-regimen",
+  "enriched_at": "2026-10-18T12:08:00Z",
+  "source_trial_ids": [
+    "NCT05033522"
+  ],
+  "sponsors": [
+    {
+      "name": "Mirror Biologics, Inc.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Mirror%20Biologics%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 135659064,
+    "iupac_name": "(2S)-2-[[4-[(2-amino-5-formyl-4-oxo-3,6,7,8-tetrahydropteridin-6-yl)methylamino]benzoyl]amino]pentanedioic acid;5-fluoro-1H-pyrimidine-2,4-dione;oxalic acid;platinum(2+);trans-(1R,2R)-1,2-dimethanidylcyclohexane",
+    "molecular_formula": "C34H42FN9O13Pt",
+    "molecular_weight": "998.8",
+    "canonical_smiles": null,
+    "inchikey": "YXTKHLHCVFUPPT-YYFJYKOTSA-N",
+    "rxnorm": {
+      "rxcui": "1174229",
+      "generic_name": "Anacin Aspirin Regimen Pill",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL414804",
+    "target_chembl_id": "CHEMBL2311221",
+    "target_name": "DNA",
+    "mechanism_of_action_chembl": "DNA inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=FOLFOX%20regimen+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=FOLFOX%20regimen+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=FOLFOX%20regimen+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Hepatocellular Carcinoma",
+    "slug": "hepatocellular-carcinoma"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05033522",
+      "title": "Immunotherapy for Advanced Liver Cancer",
+      "status": "SUSPENDED",
+      "url": "https://clinicaltrials.gov/study/NCT05033522",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42731846",
+        "title": "FOLFOX-based transarterial infusion chemotherapy for unresectable colorectal cancer: protocol of an open-label, multicentre, randomised, controlled, phase II trial.",
+        "pubdate": "2026 Sep 11",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42731846/"
+      },
+      {
+        "pmid": "42545685",
+        "title": "Addition of High-Dose Vitamin D3 to Standard Treatment in Patients With Metastatic Colorectal Cancer: The SOLARIS Randomized Clinical Trial (Alliance A021703).",
+        "pubdate": "2026 Sep 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42545685/"
+      },
+      {
+        "pmid": "42372745",
+        "title": "Perioperative systemic therapy versus surgery alone for resectable colorectal peritoneal-only metastases (CAIRO6): a randomised, open-label, phase 3 trial.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42372745/"
+      },
+      {
+        "pmid": "42371751",
+        "title": "Comparative efficacy of tislelizumab + FOLFOX or CAPOX for gastric/gastroesophageal junction adenocarcinoma: an exploratory matching-adjusted indirect comparison.",
+        "pubdate": "2026 May",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42371751/"
+      },
+      {
+        "pmid": "42349245",
+        "title": "Prognostic markers, quality of life (QoL) and value of health (V-He) in advanced biliary cancers (ABC) treated with second-line active symptom control (ASC) alone or ASC with oxaliplatin-5-FU chemotherapy (ASC + FOLFOX) in the randomised phase III, multicentre, open-label ABC-06 clinical trial.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42349245/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "DORNASE ALFA",
+        "chembl_id": "CHEMBL1201431",
+        "reason": "same target: DNA"
+      },
+      {
+        "name": "DESOXYRIBONUCLEASE",
+        "chembl_id": "CHEMBL1201459",
+        "reason": "same target: DNA"
+      },
+      {
+        "name": "GEMTUZUMAB OZOGAMICIN",
+        "chembl_id": "CHEMBL1201506",
+        "reason": "same target: DNA"
+      },
+      {
+        "name": "BENDAMUSTINE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1201734",
+        "reason": "same target: DNA"
+      },
+      {
+        "name": "DACTINOMYCIN",
+        "chembl_id": "CHEMBL1554",
+        "reason": "same target: DNA"
+      },
+      {
+        "name": "CYCLOPHOSPHAMIDE",
+        "chembl_id": "CHEMBL1200796",
+        "reason": "same target: DNA"
+      },
+      {
+        "name": "MECHLORETHAMINE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1201001",
+        "reason": "same target: DNA"
+      },
+      {
+        "name": "STREPTOZOCIN",
+        "chembl_id": "CHEMBL1977579",
+        "reason": "same target: DNA"
+      },
+      {
+        "name": "NELARABINE",
+        "chembl_id": "CHEMBL1201112",
+        "reason": "same target: DNA"
+      },
+      {
+        "name": "EPIRUBICIN HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1200981",
+        "reason": "same target: DNA"
+      }
+    ]
+  }
+}

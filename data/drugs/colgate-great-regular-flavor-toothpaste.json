@@ -1,0 +1,87 @@
+{
+  "drug_name": "Colgate Great Regular Flavor Toothpaste",
+  "slug": "colgate-great-regular-flavor-toothpaste",
+  "enriched_at": "2026-10-18T11:59:33Z",
+  "source_trial_ids": [
+    "NCT07605338"
+  ],
+  "sponsors": [
+    {
+      "name": "Colgate Palmolive",
+      "ticker": "CL",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000021665&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "545626",
+      "generic_name": "sodium monofluorophosphate 0.0076 MG/MG Toothpaste",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL849",
+    "target_chembl_id": "CHEMBL2364678",
+    "target_name": "Enoyl-[acyl-carrier-protein] reductase [NADH] FabI",
+    "mechanism_of_action_chembl": "Bacterial enoyl-[acyl-carrier-protein] reductase inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Colgate%20Great%20Regular%20Flavor%20Toothpaste+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Colgate%20Great%20Regular%20Flavor%20Toothpaste+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Colgate%20Great%20Regular%20Flavor%20Toothpaste+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Plaque, Dental",
+    "slug": "plaque-dental"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07605338",
+      "title": "To Assess the Efficacy of Two Brushing Regimens: in the Reduction of Established Dental Plaque and Gingivitis.",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07605338",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "12269458",
+        "title": "A randomised controlled trial of the effectiveness of providing free fluoride toothpaste from the age of 12 months on reducing caries in 5-6 year old children.",
+        "pubdate": "2002 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12269458/"
+      },
+      {
+        "pmid": "11763937",
+        "title": "Comparative anticaries efficacy of sodium fluoride and sodium monofluorophosphate dentifrices. A two-year caries clinical trial on children in New Jersey and Puerto Rico.",
+        "pubdate": "2000 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11763937/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "HEXACHLOROPHENE",
+        "chembl_id": "CHEMBL496",
+        "reason": "same target: Enoyl-[acyl-carrier-protein] reductase [NADH] FabI"
+      }
+    ]
+  }
+}

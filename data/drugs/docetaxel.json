@@ -1,23 +1,23 @@
 {
-  "drug_name": "Docetaxel",
+  "drug_name": "docetaxel",
   "slug": "docetaxel",
-  "enriched_at": "2026-10-01T14:19:32Z",
+  "enriched_at": "2026-10-18T12:00:09Z",
   "source_trial_ids": [
     "NCT05132075",
-    "NCT06370871"
+    "NCT06118333"
   ],
   "sponsors": [
-    {
-      "name": "Boehringer Ingelheim",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Boehringer%20Ingelheim&type=10-K&dateb=&owner=include&count=40"
-    },
     {
       "name": "Novartis Pharmaceuticals",
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Novartis%20Pharmaceuticals&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Sichuan Baili Pharmaceutical Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Sichuan%20Baili%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
@@ -52,13 +52,13 @@
     "openfda_generic_names": [
       "DOCETAXEL ANHYDROUS"
     ],
-    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a6417655-9448-4886-ba03-f57f36bcbd14",
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2fb017fd-e55e-43ef-9024-07f2d412b37b",
     "note": null,
     "further_reading": null
   },
   "condition": {
-    "raw": "Advanced Soft Tissue Sarcoma",
-    "slug": "advanced-soft-tissue-sarcoma"
+    "raw": "Non-Small Cell Lung Cancer",
+    "slug": "non-small-cell-lung-cancer"
   },
   "source_trials": [
     {
@@ -69,16 +69,34 @@
       "has_results": false
     },
     {
-      "nct_id": "NCT06370871",
-      "title": "Brightline-3: A Study to Find Out Whether Brigimadlin in Combination With Ezabenlimab Helps People With Advanced Soft Tissue Sarcoma",
-      "status": "WITHDRAWN",
-      "url": "https://clinicaltrials.gov/study/NCT06370871",
+      "nct_id": "NCT06118333",
+      "title": "A Study Comparing BL-B01D1 With Physician's Choice of Chemotherapy in Patients With Recurrent or Metastatic Nasopharyngeal Carcinoma(PANKU-NPC01)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06118333",
       "has_results": false
     }
   ],
   "prior_results": {
     "ctgov_results_urls": [],
     "pubmed_articles": [
+      {
+        "pmid": "42887596",
+        "title": "Efficacy and safety of camrelizumab plus docetaxel and carboplatin as neoadjuvant therapy for stage II-III triple-negative breast cancer: the HELEN-Trio 011 randomized clinical trial.",
+        "pubdate": "2026 Oct 16",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42887596/"
+      },
+      {
+        "pmid": "42875365",
+        "title": "Dosing, Safety, and Pharmacokinetics of Combination Therapy With Darolutamide, Androgen Deprivation Therapy, and Docetaxel for Metastatic Hormone-Sensitive Prostate Cancer in the ARASENS Study.",
+        "pubdate": "2026 Sep 6",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42875365/"
+      },
+      {
+        "pmid": "42864616",
+        "title": "Neutropenia events with androgen receptor pathway inhibitor-containing versus control therapies in prostate cancer patients: a systematic review and meta-analysis.",
+        "pubdate": "2026 Aug 22",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42864616/"
+      },
       {
         "pmid": "42815410",
         "title": "Full enrollment results from cohort 1 of the phase III randomized THOR trial of erdafitinib versus chemotherapy in FGFR-altered advanced urothelial carcinoma.",
@@ -90,24 +108,6 @@
         "title": "Anlotinib enhances the sensitivity to docetaxel in lung cancer through inhibiting DDR1-mediated glycolytic pathway.",
         "pubdate": "2026",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42807855/"
-      },
-      {
-        "pmid": "42801727",
-        "title": "Insulin-Like Growth Factor Axis and Survival in Metastatic Hormone-Sensitive Prostate Cancer: Post-Hoc Analysis From the ENZAMET Phase 3 Trial.",
-        "pubdate": "2026 Sep 27",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42801727/"
-      },
-      {
-        "pmid": "42745627",
-        "title": "Plain language summary of the KRYSTAL-12 study results: adagrasib for non-small cell lung cancer with KRAS(G12C) mutations.",
-        "pubdate": "2026 Sep 16",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42745627/"
-      },
-      {
-        "pmid": "42741060",
-        "title": "Feasibility and acceptability of ice plant intensive cream in preventing hand-foot syndrome in breast cancer patients undergoing Doxorubicin and/or Docetaxel therapy: a randomized controlled pilot study.",
-        "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42741060/"
       }
     ]
   },

@@ -1,0 +1,116 @@
+{
+  "drug_name": "Methotrexate",
+  "slug": "methotrexate",
+  "enriched_at": "2026-10-18T12:09:46Z",
+  "source_trial_ids": [
+    "NCT06239311"
+  ],
+  "sponsors": [
+    {
+      "name": "medac GmbH",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=medac%20GmbH&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 126941,
+    "iupac_name": "(2S)-2-[[4-[(2,4-diaminopteridin-6-yl)methyl-methylamino]benzoyl]amino]pentanedioic acid",
+    "molecular_formula": "C20H22N8O5",
+    "molecular_weight": "454.4",
+    "canonical_smiles": null,
+    "inchikey": "FBOZXECLQNJBKD-ZDUSSCGKSA-N",
+    "rxnorm": {
+      "rxcui": "6851",
+      "generic_name": "methotrexate",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2074969",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Methotrexate inhibits dihydrofolic acid reductase. Dihydrofolates must be reduced to tetrahydrofolates by this enzyme before they can be utilized as carriers of one-carbon groups in the synthesis of purine nucleotides and thymidylate. Therefore, methotrexate interferes with DNA synthesis, repair, and cellular replication. Actively proliferating tissues such as malignant cells, bone marrow, fetal cells, buccal and intestinal mucosa, and cells of the urinary bladder are in general more sensitive to this effect of methotrexate. The mechanism of action in rheumatoid arthritis and in psoriasis is unknown.",
+    "pharmacokinetics": "12.3 Pharmacokinetics Absorption At doses of 30 mg/m 2 or less, the mean bioavailability is approximately 60%. Peak plasma concentrations are reached within 0.75 to 6 hours following oral administration. Methotrexate may undergo enterohepatic recirculation; however, this pathway has not been fully characterized. Effect of Food Food has been shown to delay absorption and reduce peak concentration. Distribution Methotrexate in serum is approximately 50% protein bound. Methotrexate does not penetrate the blood-cerebrospinal fluid barrier at concentrations achieved with the recommended dosages. Elimination The elimination half-life of methotrexate is approximately 3 to 10 hours. Small amounts of methotrexate polyglutamates may remain in tissues for extended periods. The retention and prolonged drug action of these active metabolites vary among different cells, tissues, and tumors. Nonlinear elimination due to saturation of renal tubular reabsorption has been observed in studies of patients with psoriasis receiving methotrexate doses between 7.5 mg and 30 mg. Metabolism Methotrexate is partially metabolized by intestinal flora after oral administration. Methotrexate primarily undergoes hepatic and intracellular metabolism to active polyglutamated forms which can be converted back to methotrexate by hydrolase enzymes. Methotrexate also undergoes minor metabolism to active 7-hydroxymethotrexate. Excretion Methotrexate primarily undergoes renal excretion by glomerular filtration and active tubular secretion that is dependent upon dosage and route of administration. Biliary excretion accounts for ≤10% of the methotrexate dose. Specific Populations The effect of hepatic impairment on the pharmacokinetics of methotrexate is unknown. Pediatric Patients In pediatric patients with leukemia, oral absorption (23% to 95%) of methotrexate is variable and dose-dependent. The difference between highest and lowest peak methotrexate concentrations (C max 0.11 to 2.3 micromolar after a 20 mg/m 2 dose) was 20-fold. The time to peak concentration (T max 0.67 to 4 hours after a 15 mg/m 2 dose) and fraction of dose absorbed is variable. The absorption of doses greater than 40 mg/m 2 is significantly less than that of lower doses. In pediatric patients with pJIA, plasma concentrations of methotrexate are variable. Following oral administration of methotrexate 6.4 mg/m 2 /week to 11.2 mg/m 2 /week, mean serum concentrations were 0.59 micromolar (0.03 to 1.40) at 1 hour, 0.44 micromolar (0.01 to 1) at 2 hours, and 0.29 micromolar (0.06 to 0.58) at 3 hours. In pediatric patients receiving methotrexate for acute lymphoblastic leukemia (6.3 mg/m 2 to 30 mg/m 2 ) or for JIA (3.75 mg/m 2 to 26.2 mg/m 2 ), the terminal half-life has been reported to range from 0.7 to 5.8 hours or from 0.9 to 2.3 hours, respectively. Patients with Renal impairment The elimination half-life of methotrexate is variable and increases with the severity of renal impairment.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE Methotrexate tablets are a diydrofolate reductase inhibitor indicated for the: • Treatment of adults and pediatric patients with acute lymphoblastic leukemia (ALL) as part of a combination chemotherapy maintenance regimen (1.1) • Treatment of adults with mycosis fungoides (1.1) • Treatment of adults with relapsed or refractory non-Hodgkin lymphoma as part of a metronomic combination regimen (1.1) • Treatment of adults with rheumatoid arthritis (1.2) • Treatment of pediatric patients with polyarticular juvenile idiopathic arthritis (pJIA) (1.3) • Treatment of adults with severe psoriasis (1.4) 1.1 Neoplastic Diseases Methotrexate tablets are indicated for the: • treatment of adults and pediatric patients with acute lymphoblastic leukemia (ALL) as part of a combination chemotherapy maintenance regimen • treatment of adults with mycosis fungoides (cutaneous T-cell lymphoma) as a single agent or as part of a combination chemotherapy regimen • treatment of adults with relapsed or refractory non-Hodgkin lymphomas as part of a metronomic combination chemotherapy regimen 1.2 Rheumatoid Arthritis Methotrexate tablets are indicated for the treatment of adults with rheumatoid arthritis. 1.3 Polyarticular Juvenile Idiopathic Arthritis Methotrexate tablets are indicated for the treatment of pediatric patients with polyarticular Juvenile Idiopathic Arthritis (pJIA). 1.4 Psoriasis Methotrexate tablets are indicated for the treatment of adults with severe psoriasis.",
+    "boxed_warning": "WARNING: EMBRYO-FETAL TOXICITY, HYPERSENSITIVITY REACTIONS, SEVERE ADVERSE REACTIONS, and RISK OF MEDICATION ERRORS • Methotrexate tablets can cause embryo-fetal toxicity, including fetal death. For non-neoplastic diseases, methotrexate tablets are contraindicated in pregnancy. For neoplastic diseases, advise females and males of reproductive potential to use effective contraception [see Contraindications (4), Warnings and Precautions (5.1), Use in Specific Populations (8.1, 8.3)]. • Methotrexate tablets are contraindicated in patients with a history of severe hypersensitivity reactions to methotrexate, including anaphylaxis [Contraindications (4), Warnings and Precautions (5.2)]. • Methotrexate tablets when inadvertently administered once daily have resulted in death (5.9) • Serious adverse reactions, including death, have been reported with methotrexate. Closely monitor for adverse reactions of the bone marrow, gastrointestinal tract, liver, lungs, skin, and kidneys. Withhold or discontinue methotrexate tablets as appropriate [Warnings and Precautions (5.3, 5.4, 5.5, 5.6, 5.7, 5.8)]. WARNING: EMBRYO-FETAL TOXICITY, HYPERSENSITIVITY REACTIONS, SEVERE ADVERSE REACTIONS, and RISK OF MEDICATION ERRORS See full prescribing information for complete boxed warning. • Methotrexate tablets can cause embryo-fetal toxicity, including fetal death. For non-neoplastic diseases, Methotrexate tablets are contraindicated in pregnancy. For neoplastic diseases, advise patients of reproductive potential of the potential risk to a fetus and to use effective contraception. (4, 5.1, 8.1, 8.3) • Methotrexate tablets are contraindicated in patients with a history of severe hypersensitivity reactions to methotrexate, including anaphylaxis. (4, 5.2) • Methotrexate tablets when inadvertently administered once daily have resulted in death (5.9) • Serious adverse reactions, including death, have been reported with methotrexate. Closely monitor for adverse reactions of the bone marrow, gastrointestinal tract, liver, lungs, skin, and kidneys. Withhold or discontinue methotrexate tablets as appropriate. (5.3, 5.4, 5.5, 5.6, 5.7, 5.8)",
+    "openfda_brand_names": [
+      "METHOTREXATE"
+    ],
+    "openfda_generic_names": [
+      "METHOTREXATE"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=aafd97c1-3a0a-42b2-845a-a9db9bb7d876",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Moderate to Severe Atopic Dermatitis",
+    "slug": "moderate-to-severe-atopic-dermatitis"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06239311",
+      "title": "Efficacy and Safety of Methotrexate Versus Placebo in Adults With Atopic Dermatitis.",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06239311",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42877866",
+        "title": "Immunomodulatory Therapy in Patients Living With HIV and Inflammatory Dermatoses: A Comprehensive Review of Current Protocols and Emerging Evidence.",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42877866/"
+      },
+      {
+        "pmid": "42861272",
+        "title": "Patient perspectives on simultaneous methotrexate-folic acid intake to improve adherence in rheumatoid arthritis: a cross-sectional survey.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42861272/"
+      },
+      {
+        "pmid": "42817849",
+        "title": "CD25-based graft-versus-host disease prophylaxis after haploidentical hematopoietic stem cell transplantation: comparison of two prophylactic strategies.",
+        "pubdate": "2026 Oct 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42817849/"
+      },
+      {
+        "pmid": "42814788",
+        "title": "Methotrexate and Prednisolone compared to placebo and prednisolone in the treatment of severe Erythema Nodosum Leprosum: An international multicentre, double-blind randomised controlled clinical trial-MaPs in ENL.",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42814788/"
+      },
+      {
+        "pmid": "42814177",
+        "title": "Primary central nervous system lymphoma in the molecular era: genomic drivers, liquid biopsy, and targeted therapeutic strategies.",
+        "pubdate": "2026 Jul 29",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42814177/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "SHR-1819",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Guangdong Hengrui Pharmaceutical Co., Ltd"
+      },
+      {
+        "name": "Placebo",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Guangdong Hengrui Pharmaceutical Co., Ltd"
+      }
+    ]
+  }
+}

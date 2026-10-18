@@ -1,0 +1,99 @@
+{
+  "drug_name": "Zilovertamab",
+  "slug": "zilovertamab",
+  "enriched_at": "2026-10-18T12:11:11Z",
+  "source_trial_ids": [
+    "NCT05431179"
+  ],
+  "sponsors": [
+    {
+      "name": "Oncternal Therapeutics, Inc",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Oncternal%20Therapeutics%2C%20Inc&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2666801",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4297728",
+    "target_chembl_id": "CHEMBL4665585",
+    "target_name": "Inactive tyrosine-protein kinase transmembrane receptor ROR1",
+    "mechanism_of_action_chembl": "Inactive tyrosine-protein kinase transmembrane receptor ROR1 inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Zilovertamab+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Zilovertamab+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Zilovertamab+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Lymphoma, Mantle-Cell",
+    "slug": "lymphoma-mantle-cell"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05431179",
+      "title": "A Study of Zilovertamab and Ibrutinib in Patients With Relapsed or Refractory Mantle Cell Lymphoma",
+      "status": "WITHDRAWN",
+      "url": "https://clinicaltrials.gov/study/NCT05431179",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42731893",
+        "title": "Preclinical development of ABL206, a novel bispecific antibody-drug conjugate targeting B7-H3 and ROR1.",
+        "pubdate": "2026 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42731893/"
+      },
+      {
+        "pmid": "40574986",
+        "title": "Venetoclax Consolidation After Bruton Tyrosine Kinase Inhibitor Treatment for Patients With Chronic Lymphocytic Leukemia.",
+        "pubdate": "2025 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40574986/"
+      },
+      {
+        "pmid": "40009494",
+        "title": "The MURANO study: final analysis and retreatment/crossover substudy results of VenR for patients with relapsed/refractory CLL.",
+        "pubdate": "2025 Jun 5",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40009494/"
+      },
+      {
+        "pmid": "37029329",
+        "title": "Association of baseline ROR1 and ROR2 gene expression with clinical outcomes in the I-SPY2 neoadjuvant breast cancer trial.",
+        "pubdate": "2023 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37029329/"
+      },
+      {
+        "pmid": "38319244",
+        "title": "ROR1 for Lymphoid Cancers.",
+        "pubdate": "2022 Jan",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38319244/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

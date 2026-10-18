@@ -1,0 +1,101 @@
+{
+  "drug_name": "Lanreotide ATG",
+  "slug": "lanreotide-atg",
+  "enriched_at": "2026-10-18T12:03:06Z",
+  "source_trial_ids": [
+    "NCT05050942"
+  ],
+  "sponsors": [
+    {
+      "name": "Camurus AB",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Camurus%20AB&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "68092",
+      "generic_name": "lanreotide",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1201184",
+    "target_chembl_id": "CHEMBL1792",
+    "target_name": "Somatostatin receptor type 5",
+    "mechanism_of_action_chembl": "Somatostatin receptor 5 agonist"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Lanreotide%20ATG+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Lanreotide%20ATG+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Lanreotide%20ATG+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Gastro-enteropancreatic Neuroendocrine Tumor",
+    "slug": "gastro-enteropancreatic-neuroendocrine-tumor"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05050942",
+      "title": "A Trial to Assess Efficacy and Safety of Octreotide Subcutaneous Depot in Patients With GEP-NET",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05050942",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "38229199",
+        "title": "Methodology of the SORENTO clinical trial: a prospective, randomised, active-controlled phase 3 trial assessing the efficacy and safety of high exposure octreotide subcutaneous depot (CAM2029) in patients with GEP-NET.",
+        "pubdate": "2024 Jan 16",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38229199/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "PASIREOTIDE DIASPARTATE",
+        "chembl_id": "CHEMBL5314380",
+        "reason": "same target: Somatostatin receptor type 5"
+      },
+      {
+        "name": "PASIREOTIDE PAMOATE",
+        "chembl_id": "CHEMBL5314382",
+        "reason": "same target: Somatostatin receptor type 5"
+      },
+      {
+        "name": "VAPREOTIDE",
+        "chembl_id": "CHEMBL3349523",
+        "reason": "same target: Somatostatin receptor type 5"
+      },
+      {
+        "name": "VELDOREOTIDE",
+        "chembl_id": "CHEMBL3989911",
+        "reason": "same target: Somatostatin receptor type 5"
+      },
+      {
+        "name": "ONZIGOLIDE",
+        "chembl_id": "CHEMBL4650342",
+        "reason": "same target: Somatostatin receptor type 5"
+      }
+    ]
+  }
+}

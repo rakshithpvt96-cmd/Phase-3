@@ -1,13 +1,14 @@
 {
   "drug_name": "Pembrolizumab",
   "slug": "pembrolizumab",
-  "enriched_at": "2026-10-16T13:17:51Z",
+  "enriched_at": "2026-10-18T12:04:53Z",
   "source_trial_ids": [
     "NCT03711032",
     "NCT04657991",
     "NCT05239728",
     "NCT05608291",
     "NCT05984277",
+    "NCT06448312",
     "NCT06980272"
   ],
   "sponsors": [
@@ -40,6 +41,12 @@
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Shenyang%20Sunshine%20Pharmaceutical%20Co.%2C%20LTD.&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Sichuan Kelun-Biotech Biopharmaceutical Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Sichuan%20Kelun-Biotech%20Biopharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
@@ -110,6 +117,13 @@
       "title": "A Global Study of Volrustomig (MEDI5752) Plus Chemotherapy Versus Pembrolizumab Plus Chemotherapy for Participants With Metastatic Non-small Cell Lung Cancer.",
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT05984277",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06448312",
+      "title": "A Study of SKB264 in Combination With Pembrolizumab Versus Pembrolizumab in Patients With Locally Advanced or Metastatic Non-Small Cell Lung Cancer",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06448312",
       "has_results": false
     },
     {

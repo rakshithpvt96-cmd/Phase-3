@@ -1,10 +1,11 @@
 {
   "drug_name": "Tirzepatide",
   "slug": "tirzepatide",
-  "enriched_at": "2026-08-15T21:49:31Z",
+  "enriched_at": "2026-10-18T12:06:04Z",
   "source_trial_ids": [
-    "NCT06075667",
-    "NCT06534411"
+    "NCT06662383",
+    "NCT06914895",
+    "NCT06962280"
   ],
   "sponsors": [
     {
@@ -12,12 +13,6 @@
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Eli%20Lilly%20and%20Company&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
-      "name": "Novo Nordisk A/S",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Novo%20Nordisk%20A/S&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
@@ -52,7 +47,7 @@
     "openfda_generic_names": [
       "TIRZEPATIDE"
     ],
-    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0818426a-53eb-4db7-9609-bbae1e7a3964",
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=487cd7e7-434c-4925-99fa-aa80b1cc776b",
     "note": null,
     "further_reading": null
   },
@@ -62,17 +57,24 @@
   },
   "source_trials": [
     {
-      "nct_id": "NCT06075667",
-      "title": "A Study of Tirzepatide (LY3298176) Once Weekly in Adolescent Participants Who Have Obesity or Overweight With Weight-Related Comorbidities",
+      "nct_id": "NCT06662383",
+      "title": "A Study of Retatrutide (LY3437943) Compared to Tirzepatide (LY3298176) in Adults Who Have Obesity",
       "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06075667",
+      "url": "https://clinicaltrials.gov/study/NCT06662383",
       "has_results": false
     },
     {
-      "nct_id": "NCT06534411",
-      "title": "A Research Study to See How Much CagriSema Lowers Blood Sugar and Body Weight Compared to Tirzepatide in People With Type 2 Diabetes Treated With Metformin, SGLT2 Inhibitor or Both",
-      "status": "COMPLETED",
-      "url": "https://clinicaltrials.gov/study/NCT06534411",
+      "nct_id": "NCT06914895",
+      "title": "A Study of Tirzepatide (LY3298176) Compared With Placebo in Adults With Type 1 Diabetes and Obesity or Overweight",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06914895",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06962280",
+      "title": "A Long-Term Study of Tirzepatide (LY3298176) in Adults With Type 1 Diabetes and Obesity or Overweight",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06962280",
       "has_results": false
     }
   ],
@@ -80,34 +82,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42594122",
-        "title": "Achieving the triple endpoint of body weight reduction thresholds, systolic blood pressure reduction ≥5 mmHg and non-HDL cholesterol <130 mg/dL with tirzepatide in people with obesity: A post hoc analysis from the SURMOUNT trials.",
-        "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42594122/"
+        "pmid": "42889249",
+        "title": "Modern Obesity Treatment: Efficacy, Safety, and Future Directions of GLP-1 (Glucagon-Like Peptide-1) and GIP (Glucose-Dependent Insulinotropic Polypeptide) Receptor Agonists.",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42889249/"
       },
       {
-        "pmid": "42590128",
-        "title": "Anti-Obesity Medications in Longevity and Aesthetic Medicine.",
-        "pubdate": "2026 Aug 3",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42590128/"
+        "pmid": "42840232",
+        "title": "Cardiovascular outcomes with tirzepatide versus semaglutide in type 2 diabetes.",
+        "pubdate": "2026 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42840232/"
       },
       {
-        "pmid": "42572119",
-        "title": "Predicted 10-Year Cardiovascular Disease Risk Reduction with Tirzepatide Use Over Three Years for Primary Prevention of Cardiovascular Disease in Obesity.",
-        "pubdate": "2026 Aug 10",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42572119/"
+        "pmid": "42831032",
+        "title": "Evaluation of clinical relevance of weight nadirs and weight regain during 3 years of treatment with tirzepatide in participants with obesity or overweight and prediabetes.",
+        "pubdate": "2026 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42831032/"
       },
       {
-        "pmid": "42560457",
-        "title": "Analysis of the efficacy and safety of liraglutide, semaglutide, and tirzepatide for the treatment of overweight and obesity: a systematic review and network meta-analysis.",
-        "pubdate": "2026 Aug 6",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42560457/"
+        "pmid": "42816319",
+        "title": "Real-world effectiveness and safety of low-dose tirzepatide in Japanese people with type 2 diabetes: a multicenter, retrospective, single-arm, observational study-East Shizuoka Tirzepatide (ESTATE) study.",
+        "pubdate": "2026 Sep 29",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42816319/"
       },
       {
-        "pmid": "42557390",
-        "title": "Pharmacotherapy in obstructive sleep apnoea: a clinical guide.",
-        "pubdate": "2026 Aug 6",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42557390/"
+        "pmid": "42797407",
+        "title": "Precision Pharmacotherapy for Obstructive Sleep Apnea: Matching Targeted Drugs to Patient Endophenotypes.",
+        "pubdate": "2026 Aug 28",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42797407/"
       }
     ]
   },

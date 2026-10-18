@@ -1,0 +1,150 @@
+{
+  "drug_name": "cadonilimab",
+  "slug": "cadonilimab",
+  "enriched_at": "2026-10-18T12:06:22Z",
+  "source_trial_ids": [
+    "NCT06341335"
+  ],
+  "sponsors": [
+    {
+      "name": "Akeso",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Akeso&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2540146",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4594456",
+    "target_chembl_id": "CHEMBL3307223",
+    "target_name": "Programmed cell death protein 1",
+    "mechanism_of_action_chembl": "Programmed cell death protein 1 inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=cadonilimab+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=cadonilimab+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=cadonilimab+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Gastric and Gastroesophageal Junction Adenocarcinoma",
+    "slug": "gastric-and-gastroesophageal-junction-adenocarcinoma"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06341335",
+      "title": "A Study of AK104/Placebo Plus AK109/Placebo And Paclitaxel in Gastric or Gastroesophageal Junction Adenocarcinoma",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06341335",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42867445",
+        "title": "Combination therapies for the treatment of locally advanced and advanced cervical cancer.",
+        "pubdate": "2026 Oct 13",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42867445/"
+      },
+      {
+        "pmid": "42812961",
+        "title": "Mitochondrial fitness in circulating T cells predicts neoadjuvant therapy response in locally advanced colorectal cancer.",
+        "pubdate": "2026 Feb",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42812961/"
+      },
+      {
+        "pmid": "42682622",
+        "title": "Association between gut microbiota characteristics and therapeutic efficacy of multimodal combination therapy in hepatocellular carcinoma with portal vein tumor thrombus: a secondary analysis of a prospective phase II trial.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42682622/"
+      },
+      {
+        "pmid": "42285994",
+        "title": "Cadonilimab plus chemotherapy as first-line treatment in PD-L1-negative advanced non-small cell lung cancer: a phase II clinical trial.",
+        "pubdate": "2026 Jun 12",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42285994/"
+      },
+      {
+        "pmid": "41826281",
+        "title": "Cadonilimab plus chemotherapy with or without bevacizumab as first-line treatment for advanced cervical cancer: subgroup analyses from the COMPASSION-16 phase 3 trial.",
+        "pubdate": "2026 Mar 14",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41826281/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "PEMBROLIZUMAB",
+        "chembl_id": "CHEMBL3137343",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "NIVOLUMAB",
+        "chembl_id": "CHEMBL2108738",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "PIDILIZUMAB",
+        "chembl_id": "CHEMBL2108680",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "CEMIPLIMAB",
+        "chembl_id": "CHEMBL4297723",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "DOSTARLIMAB",
+        "chembl_id": "CHEMBL4298124",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "CAMRELIZUMAB",
+        "chembl_id": "CHEMBL4297715",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "SERPLULIMAB",
+        "chembl_id": "CHEMBL4594550",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "RETIFANLIMAB",
+        "chembl_id": "CHEMBL4298037",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "SPARTALIZUMAB",
+        "chembl_id": "CHEMBL4297831",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "SASANLIMAB",
+        "chembl_id": "CHEMBL4298191",
+        "reason": "same target: Programmed cell death protein 1"
+      }
+    ]
+  }
+}

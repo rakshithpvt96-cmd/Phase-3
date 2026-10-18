@@ -1,0 +1,87 @@
+{
+  "drug_name": "Cretostimogene Grenadenorepvec",
+  "slug": "cretostimogene-grenadenorepvec",
+  "enriched_at": "2026-10-18T11:59:48Z",
+  "source_trial_ids": [
+    "NCT06111235"
+  ],
+  "sponsors": [
+    {
+      "name": "CG Oncology, Inc.",
+      "ticker": "CGON",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001991792&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2728035",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL5095454",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Cretostimogene%20Grenadenorepvec+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Cretostimogene%20Grenadenorepvec+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Cretostimogene%20Grenadenorepvec+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Non Muscle Invasive Bladder Cancer",
+    "slug": "non-muscle-invasive-bladder-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06111235",
+      "title": "A Study of Adjuvant Cretostimogene Grenadenorepvec for Treatment of Intermediate Risk NMIBC Following TURBT",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06111235",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42508433",
+        "title": "Intravesical cretostimogene grenadenorepvec oncolytic immunotherapy in high-risk, BCG-unresponsive, non-muscle-invasive bladder cancer with carcinoma in situ (BOND-003 Cohort C): a single-arm, phase 3 trial.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42508433/"
+      },
+      {
+        "pmid": "41647170",
+        "title": "Current use of pre-clinical models for evaluation of human adenovirus-based cancer therapeutics.",
+        "pubdate": "2026 Mar 19",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41647170/"
+      },
+      {
+        "pmid": "40923119",
+        "title": "Oncolytic virus therapy for nonmuscle-invasive bladder cancer: current status and future directions.",
+        "pubdate": "2025 Nov 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40923119/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

@@ -1,7 +1,7 @@
 {
   "drug_name": "HDM1002 400 mg",
   "slug": "hdm1002-400-mg",
-  "enriched_at": "2026-10-10T13:29:29Z",
+  "enriched_at": "2026-10-18T12:08:13Z",
   "source_trial_ids": [
     "NCT07193459"
   ],
@@ -61,16 +61,6 @@
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
     "items": [
       {
-        "name": "HRS9531 Injection",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Fujian Shengdi Pharmaceutical Co., Ltd."
-      },
-      {
-        "name": "Semaglutide Injection",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Fujian Shengdi Pharmaceutical Co., Ltd."
-      },
-      {
         "name": "Retatrutide",
         "chembl_id": null,
         "reason": "same indication trial, sponsor: Eli Lilly and Company"
@@ -89,6 +79,26 @@
         "name": "China Import (dapagliflozin) + China Import (saxagliptin) + Metformin Oral Mix Treat type 2 diabetes",
         "chembl_id": null,
         "reason": "same indication trial, sponsor: Han Xu, M.D., Ph.D., FAPCR, Medical Director,, IRB Chair"
+      },
+      {
+        "name": "Prusogliptin, Dapagliflozin(high dose), Dapagliflozin (low dose) placebo, plus metformin XR",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: CSPC Ouyi Pharmaceutical Co., Ltd."
+      },
+      {
+        "name": "Prusogliptin placebo, Dapagliflozin(high dose), Dapagliflozin (low dose) placebo, plus metformin XR",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: CSPC Ouyi Pharmaceutical Co., Ltd."
+      },
+      {
+        "name": "Prusogliptin, Dapagliflozin(high dose) placebo, Dapagliflozin (low dose), plus metformin XR",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: CSPC Ouyi Pharmaceutical Co., Ltd."
+      },
+      {
+        "name": "Prusogliptin placebo, Dapagliflozin (high dose) placebo, Dapagliflozin (low dose), plus metformin XR",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: CSPC Ouyi Pharmaceutical Co., Ltd."
       }
     ]
   }

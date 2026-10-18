@@ -1,0 +1,101 @@
+{
+  "drug_name": "CAM2029",
+  "slug": "cam2029",
+  "enriched_at": "2026-10-18T11:59:12Z",
+  "source_trial_ids": [
+    "NCT05050942"
+  ],
+  "sponsors": [
+    {
+      "name": "Camurus AB",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Camurus%20AB&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 91617941,
+    "iupac_name": "(4R,7S,10S,13R,16S,19R)-10-(4-aminobutyl)-19-[[(2R)-2-amino-3-phenylpropanoyl]amino]-16-benzyl-N-[(2R,3R)-1,3-dihydroxybutan-2-yl]-7-[(1R)-1-hydroxyethyl]-13-(1H-indol-3-ylmethyl)-6,9,12,15,18-pentaoxo-1,2-dithia-5,8,11,14,17-pentazacycloicosane-4-carboxamide;dihydrochloride",
+    "molecular_formula": "C49H68Cl2N10O10S2",
+    "molecular_weight": "1092.2",
+    "canonical_smiles": null,
+    "inchikey": "PPJMKGDKFBCNIY-LODIGNQBSA-N",
+    "rxnorm": null
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL3545066",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=CAM2029+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=CAM2029+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=CAM2029+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Gastro-enteropancreatic Neuroendocrine Tumor",
+    "slug": "gastro-enteropancreatic-neuroendocrine-tumor"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05050942",
+      "title": "A Trial to Assess Efficacy and Safety of Octreotide Subcutaneous Depot in Patients With GEP-NET",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05050942",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "39415322",
+        "title": "The current status of somatostatin analogs in the treatment of neuroendocrine tumors and future perspectives.",
+        "pubdate": "2025 Feb",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39415322/"
+      },
+      {
+        "pmid": "39378125",
+        "title": "Octreotide Subcutaneous Depot for Acromegaly: A Randomized, Double-blind, Placebo-controlled Phase 3 Trial, ACROINNOVA 1.",
+        "pubdate": "2025 May 19",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39378125/"
+      },
+      {
+        "pmid": "38698434",
+        "title": "Correction: Methodology of the SORENTO clinical trial: a prospective, randomised, active-controlled phase 3 trial assessing the efficacy and safety of high exposure octreotide subcutaneous depot (CAM2029) in patients with GEP-NET.",
+        "pubdate": "2024 May 2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38698434/"
+      },
+      {
+        "pmid": "38229199",
+        "title": "Methodology of the SORENTO clinical trial: a prospective, randomised, active-controlled phase 3 trial assessing the efficacy and safety of high exposure octreotide subcutaneous depot (CAM2029) in patients with GEP-NET.",
+        "pubdate": "2024 Jan 16",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38229199/"
+      },
+      {
+        "pmid": "26610414",
+        "title": "New therapeutic agents for acromegaly.",
+        "pubdate": "2016 Feb",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26610414/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

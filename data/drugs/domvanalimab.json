@@ -1,7 +1,7 @@
 {
   "drug_name": "Domvanalimab",
   "slug": "domvanalimab",
-  "enriched_at": "2026-10-10T13:25:22Z",
+  "enriched_at": "2026-10-18T12:02:21Z",
   "source_trial_ids": [
     "NCT05211895",
     "NCT05568095"
@@ -28,10 +28,10 @@
     }
   },
   "mechanism": {
-    "chembl_id": null,
-    "target_chembl_id": null,
+    "chembl_id": "CHEMBL4650392",
+    "target_chembl_id": "CHEMBL4630878",
     "target_name": null,
-    "mechanism_of_action_chembl": null
+    "mechanism_of_action_chembl": "T-cell immunoreceptor with Ig and ITIM domains inhibitor"
   },
   "fda_label": {
     "has_label": false,

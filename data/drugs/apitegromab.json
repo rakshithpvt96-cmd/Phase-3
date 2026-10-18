@@ -1,0 +1,130 @@
+{
+  "drug_name": "Apitegromab",
+  "slug": "apitegromab",
+  "enriched_at": "2026-10-18T11:58:48Z",
+  "source_trial_ids": [
+    "NCT05626855"
+  ],
+  "sponsors": [
+    {
+      "name": "Scholar Rock, Inc.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Scholar%20Rock%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2753162",
+      "generic_name": "apitegromab",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4594326",
+    "target_chembl_id": "CHEMBL3407325",
+    "target_name": "Growth/differentiation factor 8",
+    "mechanism_of_action_chembl": "Growth/differentiation factor 8 inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "DailyMed",
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b1cd8ab8-8a10-48ed-9806-75a44f22b963",
+    "note": "A label exists in DailyMed but structured sections could not be parsed automatically -- see dailymed_url for the full label.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Apitegromab+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Apitegromab+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Apitegromab+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Spinal Muscular Atrophy",
+    "slug": "spinal-muscular-atrophy"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05626855",
+      "title": "Long-Term Safety & Efficacy of Apitegromab in Patients With SMA Who Completed Previous Trials of Apitegromab",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05626855",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "41566720",
+        "title": "Advancing treatment of spinal muscular atrophy through inhibition of the myostatin signaling pathway.",
+        "pubdate": "2026 Mar",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41566720/"
+      },
+      {
+        "pmid": "41233939",
+        "title": "A plain language summary of the SAPPHIRE clinical trial of apitegromab in children and young adults with spinal muscular atrophy.",
+        "pubdate": "2026 Jan",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41233939/"
+      },
+      {
+        "pmid": "40818473",
+        "title": "Safety and efficacy of apitegromab in nonambulatory type 2 or type 3 spinal muscular atrophy (SAPPHIRE): a phase 3, double-blind, randomised, placebo-controlled trial.",
+        "pubdate": "2025 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40818473/"
+      },
+      {
+        "pmid": "38330285",
+        "title": "Safety and Efficacy of Apitegromab in Patients With Spinal Muscular Atrophy Types 2 and 3: The Phase 2 TOPAZ Study.",
+        "pubdate": "2024 Mar 12",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38330285/"
+      },
+      {
+        "pmid": "35727341",
+        "title": "Inhibition of myostatin and related signaling pathways for the treatment of muscle atrophy in motor neuron diseases.",
+        "pubdate": "2022 Jun 21",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35727341/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "STAMULUMAB",
+        "chembl_id": "CHEMBL2108051",
+        "reason": "same target: Growth/differentiation factor 8"
+      },
+      {
+        "name": "LANDOGROZUMAB",
+        "chembl_id": "CHEMBL3545072",
+        "reason": "same target: Growth/differentiation factor 8"
+      },
+      {
+        "name": "RAMATERCEPT",
+        "chembl_id": "CHEMBL2108674",
+        "reason": "same target: Growth/differentiation factor 8"
+      },
+      {
+        "name": "PF-03446879",
+        "chembl_id": "CHEMBL2109522",
+        "reason": "same target: Growth/differentiation factor 8"
+      },
+      {
+        "name": "DOMAGROZUMAB",
+        "chembl_id": "CHEMBL3544991",
+        "reason": "same target: Growth/differentiation factor 8"
+      },
+      {
+        "name": "TREVOGRUMAB",
+        "chembl_id": "CHEMBL3545374",
+        "reason": "same target: Growth/differentiation factor 8"
+      }
+    ]
+  }
+}

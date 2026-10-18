@@ -1,0 +1,99 @@
+{
+  "drug_name": "experimental vaccine",
+  "slug": "experimental-vaccine",
+  "enriched_at": "2026-10-18T12:02:28Z",
+  "source_trial_ids": [
+    "NCT07505888"
+  ],
+  "sponsors": [
+    {
+      "name": "Sinovac Biotech Co., Ltd",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Sinovac%20Biotech%20Co.%2C%20Ltd&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "389326",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2108573",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": "Biological vaccine - induces immune response"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=experimental%20vaccine+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=experimental%20vaccine+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=experimental%20vaccine+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Epidemic Meningitis",
+    "slug": "epidemic-meningitis"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07505888",
+      "title": "Phase Ⅲ Trial of Group ACYW135 Meningococcal Conjugate Vaccine in Children Aged 2-6 Years",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07505888",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42854231",
+        "title": "Assessing the Willingness of Future Health Care Providers to Participate in Vaccine Trials: Cross-Sectional VACCELERATE European Study.",
+        "pubdate": "2026 Oct 9",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42854231/"
+      },
+      {
+        "pmid": "42841785",
+        "title": "Willingness to Participate in HIV Cure Research Among Young People Living with Perinatally Acquired HIV in the Centre Region of Cameroon: A Cross-Sectional Survey.",
+        "pubdate": "2026 Oct 7",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42841785/"
+      },
+      {
+        "pmid": "42776529",
+        "title": "Prophylactic vs Therapeutic Anticoagulation in Hospitalized Patients With COVID-19: A Randomized Clinical Trial.",
+        "pubdate": "2026 Sep 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42776529/"
+      },
+      {
+        "pmid": "42766251",
+        "title": "Nanoparticle based drug delivery systems improve antimalarial efficacy and vaccine performance in African research and clinical settings.",
+        "pubdate": "2026 Sep 21",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42766251/"
+      },
+      {
+        "pmid": "42722446",
+        "title": "Serotyping and Seroprevalence Estimation of Pasteurellosis in Ovine and Caprine in Selected Districts of Afar Region, Ethiopia.",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42722446/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}
