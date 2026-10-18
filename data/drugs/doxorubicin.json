@@ -1,7 +1,7 @@
 {
   "drug_name": "Doxorubicin",
   "slug": "doxorubicin",
-  "enriched_at": "2026-09-18T12:08:12Z",
+  "enriched_at": "2026-10-18T12:36:47Z",
   "source_trial_ids": [
     "NCT04824092"
   ],
@@ -45,7 +45,7 @@
     "openfda_generic_names": [
       "DOXORUBICIN HYDROCHLORIDE"
     ],
-    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=c9cb8a8d-944f-4fe1-bfba-c55904a79fda",
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0885dddf-727e-4692-92dd-a26c69cc278d",
     "note": null,
     "further_reading": null
   },
@@ -65,6 +65,12 @@
   "prior_results": {
     "ctgov_results_urls": [],
     "pubmed_articles": [
+      {
+        "pmid": "42781248",
+        "title": "Modified Newcastle Regimen Improves Survival Despite Central Nervous System Relapse in Monomorphic Epitheliotropic Intestinal T-Cell Lymphoma.",
+        "pubdate": "2026 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42781248/"
+      },
       {
         "pmid": "42741060",
         "title": "Feasibility and acceptability of ice plant intensive cream in preventing hand-foot syndrome in breast cancer patients undergoing Doxorubicin and/or Docetaxel therapy: a randomized controlled pilot study.",
@@ -88,12 +94,6 @@
         "title": "Summary of Research: Brentuximab Vedotin and Nivolumab in Combination with Chemotherapy for Nonbulky, Early-Stage Classical Hodgkin Lymphoma.",
         "pubdate": "2026 Aug 29",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42667569/"
-      },
-      {
-        "pmid": "42650033",
-        "title": "Tailoring HIPEC with Patient-Derived Organoids in Colorectal Peritoneal Metastases: Results from the First Stage of the Prospective Phase II OrganoHIPEC Clinical Trial (Clinicaltrials.gov NCT06057298).",
-        "pubdate": "2026 Aug 21",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42650033/"
       }
     ]
   },

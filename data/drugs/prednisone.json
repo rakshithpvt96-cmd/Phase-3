@@ -1,7 +1,7 @@
 {
   "drug_name": "Prednisone",
   "slug": "prednisone",
-  "enriched_at": "2026-09-18T12:09:21Z",
+  "enriched_at": "2026-10-18T12:37:07Z",
   "source_trial_ids": [
     "NCT04824092"
   ],
@@ -45,7 +45,7 @@
     "openfda_generic_names": [
       "PREDNISONE"
     ],
-    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0b8ea104-c445-4a71-b032-cd7a42803a37",
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e9a74862-6a3b-4247-837a-389761b5c352",
     "note": null,
     "further_reading": null
   },
@@ -66,6 +66,18 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42833926",
+        "title": "Efficacy and Safety of Olaparib plus Abiraterone Versus Placebo plus Abiraterone in the Non-BRCA Mutation Subgroup of Patients with Metastatic Castration-resistant Prostate Cancer in the PROpel Trial.",
+        "pubdate": "2026 Oct 5",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42833926/"
+      },
+      {
+        "pmid": "42781248",
+        "title": "Modified Newcastle Regimen Improves Survival Despite Central Nervous System Relapse in Monomorphic Epitheliotropic Intestinal T-Cell Lymphoma.",
+        "pubdate": "2026 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42781248/"
+      },
+      {
         "pmid": "42734930",
         "title": "Intravenous Immunoglobulin Add-On in Newly Diagnosed Idiopathic Inflammatory Myopathies: A Randomized Clinical Trial.",
         "pubdate": "2026 Sep 14",
@@ -82,18 +94,6 @@
         "title": "Comparing compressed 2-dose and 3-dose melarsomine protocols in the era of adjunctive therapy: a randomized clinical trial of 168 dogs with heartworm disease.",
         "pubdate": "2026 Sep 2",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42685768/"
-      },
-      {
-        "pmid": "42639020",
-        "title": "Oral corticosteroid dosing strategies for post-COVID-19 organising pneumonia: NORCOVID clinical trial.",
-        "pubdate": "2026 Jul",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42639020/"
-      },
-      {
-        "pmid": "42637535",
-        "title": "Balancing Benefits and Risks: Long-term Use of Daily versus Intermittent Corticosteroids in Duchenne Muscular Dystrophy.",
-        "pubdate": "2026 Aug 24",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42637535/"
       }
     ]
   },

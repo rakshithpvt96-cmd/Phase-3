@@ -1,7 +1,7 @@
 {
   "drug_name": "Olanzapine",
   "slug": "olanzapine",
-  "enriched_at": "2026-09-18T12:11:17Z",
+  "enriched_at": "2026-10-18T12:38:26Z",
   "source_trial_ids": [
     "NCT05303064"
   ],
@@ -45,7 +45,7 @@
     "openfda_generic_names": [
       "OLANZAPINE"
     ],
-    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=10043041-a632-4e57-bc08-37216dea8546",
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2ae07ad4-4e58-4740-9f02-035ec061fefc",
     "note": null,
     "further_reading": null
   },
@@ -66,6 +66,18 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42844827",
+        "title": "Olanzapine for the Prevention and Treatment of ICU Delirium: Protocol for a Systematic Review With Meta-Analysis.",
+        "pubdate": "2026 Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42844827/"
+      },
+      {
+        "pmid": "42792699",
+        "title": "Potential Role of the Triple Receptor Agonist Retatrutide in Antipsychotic-Associated Metabolic Dysfunction Among Clozapine- and Olanzapine-Treated Schizophrenia Spectrum Disorders: A Narrative Review and Theoretical Framework.",
+        "pubdate": "2026 Aug 31",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42792699/"
+      },
+      {
         "pmid": "42742891",
         "title": "Patient and Healthcare Professional Attitudes and Trial Experiences with a Subcutaneous Long-Acting Injectable Olanzapine (TV-44749) for Schizophrenia Treatment.",
         "pubdate": "2026 Sep 15",
@@ -82,18 +94,6 @@
         "title": "Efficacy and safety of memantine as adjunctive treatment for manic episodes in bipolar disorder (BD): a randomized, double-blind, placebo-controlled clinical trial.",
         "pubdate": "2026 Jul 17",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42469725/"
-      },
-      {
-        "pmid": "42338244",
-        "title": "The Danish Out-of-Hospital Cardiac Arrest Trial: A Statistical Analysis Plan.",
-        "pubdate": "2026 Aug",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42338244/"
-      },
-      {
-        "pmid": "42338242",
-        "title": "Prophylactic Olanzapine Versus Placebo in Comatose Survivors of Out-of-Hospital Cardiac Arrest: Protocol for a Multicenter Randomized Comparison Within the Danish Out-of-Hospital Cardiac Arrest (DANOHCA) Trial.",
-        "pubdate": "2026 Aug",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42338242/"
       }
     ]
   },

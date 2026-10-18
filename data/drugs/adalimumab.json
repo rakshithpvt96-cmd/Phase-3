@@ -1,9 +1,8 @@
 {
   "drug_name": "Adalimumab",
   "slug": "adalimumab",
-  "enriched_at": "2026-09-18T12:10:33Z",
+  "enriched_at": "2026-10-18T12:37:52Z",
   "source_trial_ids": [
-    "NCT05814627",
     "NCT06100744"
   ],
   "sponsors": [
@@ -45,17 +44,10 @@
     "further_reading": null
   },
   "condition": {
-    "raw": "Rheumatoid Arthritis",
-    "slug": "rheumatoid-arthritis"
+    "raw": "Juvenile Psoriatic Arthritis",
+    "slug": "juvenile-psoriatic-arthritis"
   },
   "source_trials": [
-    {
-      "nct_id": "NCT05814627",
-      "title": "Study to Assess Change in Disease Activity and Adverse Events of Oral Upadacitinib Compared to Subcutaneous Adalimumab in Adult Participants With Moderate to Severe Rheumatoid Arthritis",
-      "status": "COMPLETED",
-      "url": "https://clinicaltrials.gov/study/NCT05814627",
-      "has_results": false
-    },
     {
       "nct_id": "NCT06100744",
       "title": "A Study to Assess Adverse Events, Change in Disease Activity, and How the Drug Moves Through the Body in Children With Juvenile Psoriatic Arthritis (jPsA) Receiving Subcutaneously Injected Risankizumab or Adalimumab",
@@ -68,34 +60,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42882121",
+        "title": "Population PK/PD Modeling and Simulation to Predict the Comparative Long-Term Efficacy of Olokizumab in Rheumatoid Arthritis Patients.",
+        "pubdate": "2026 Oct 2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42882121/"
+      },
+      {
+        "pmid": "42844553",
+        "title": "Long-Term Safety and Efficacy of Upadacitinib in Patients with Psoriatic Arthritis: 5-Year Results from the Phase 3 SELECT-PsA 1 Study.",
+        "pubdate": "2026 Oct 7",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42844553/"
+      },
+      {
+        "pmid": "42822776",
+        "title": "Sonelokimab, a novel IL-17A- and IL-17F-inhibiting nanobody for the treatment of moderate-to-severe hidradenitis suppurativa: a global, randomized, double-blind, placebo-controlled phase 2 clinical trial (MIRA).",
+        "pubdate": "2026 Oct 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42822776/"
+      },
+      {
+        "pmid": "42766629",
+        "title": "Methotrexate's effect on cells and adalimumab immunogenicity in axial spondyloarthritis: A mathematical study.",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42766629/"
+      },
+      {
         "pmid": "42701929",
         "title": "Efficacy and Safety of the First Adalimumab Biosimilar in Chinese Children with Severe Plaque Psoriasis: The PISCES Study, a Multicenter Prospective Study.",
-        "pubdate": "2026 Sep 6",
+        "pubdate": "2026 Oct",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42701929/"
-      },
-      {
-        "pmid": "42694939",
-        "title": "Adalimumab Reduces Epicardial Adipose Tissue in Psoriasis: A Post Hoc Analysis of a Randomized Placebo-Controlled Clinical Trial.",
-        "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42694939/"
-      },
-      {
-        "pmid": "42671722",
-        "title": "Neuropathic Pain Management Using Novel Biologics in Moderate-to-Severe Hidradenitis Suppurativa.",
-        "pubdate": "2026 Aug 31",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42671722/"
-      },
-      {
-        "pmid": "42665722",
-        "title": "Comparison of the Risk of Acute Anterior Uveitis Flare Between Adalimumab and Subcutaneous Infliximab in Patients with Radiographic Axial Spondyloarthritis and Prior Acute Anterior Uveitis: A Randomized Controlled Trial.",
-        "pubdate": "2026 Sep",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42665722/"
-      },
-      {
-        "pmid": "42632595",
-        "title": "Disease-modifying antirheumatic drugs for hand osteoarthritis: A systematic review and network meta-analysis.",
-        "pubdate": "2026 Aug 22",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42632595/"
       }
     ]
   },
