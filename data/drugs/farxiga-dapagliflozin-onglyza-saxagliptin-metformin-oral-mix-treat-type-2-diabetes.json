@@ -1,7 +1,7 @@
 {
   "drug_name": "Farxiga® (dapagliflozin) + Onglyza® (saxagliptin) + Metformin Oral Mix Treat type 2 diabetes",
   "slug": "farxiga-dapagliflozin-onglyza-saxagliptin-metformin-oral-mix-treat-type-2-diabetes",
-  "enriched_at": "2026-10-11T13:51:42Z",
+  "enriched_at": "2026-10-19T14:27:38Z",
   "source_trial_ids": [
     "NCT07033585"
   ],
@@ -65,16 +65,6 @@
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
     "items": [
       {
-        "name": "HRS9531 Injection",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Fujian Shengdi Pharmaceutical Co., Ltd."
-      },
-      {
-        "name": "Semaglutide Injection",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Fujian Shengdi Pharmaceutical Co., Ltd."
-      },
-      {
         "name": "Retatrutide",
         "chembl_id": null,
         "reason": "same indication trial, sponsor: Eli Lilly and Company"
@@ -93,6 +83,26 @@
         "name": "HDM1002 400 mg",
         "chembl_id": null,
         "reason": "same indication trial, sponsor: Hangzhou Zhongmei Huadong Pharmaceutical Co., Ltd."
+      },
+      {
+        "name": "Prusogliptin, Dapagliflozin(high dose), Dapagliflozin (low dose) placebo, plus metformin XR",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: CSPC Ouyi Pharmaceutical Co., Ltd."
+      },
+      {
+        "name": "Prusogliptin placebo, Dapagliflozin(high dose), Dapagliflozin (low dose) placebo, plus metformin XR",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: CSPC Ouyi Pharmaceutical Co., Ltd."
+      },
+      {
+        "name": "Prusogliptin, Dapagliflozin(high dose) placebo, Dapagliflozin (low dose), plus metformin XR",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: CSPC Ouyi Pharmaceutical Co., Ltd."
+      },
+      {
+        "name": "Prusogliptin placebo, Dapagliflozin (high dose) placebo, Dapagliflozin (low dose), plus metformin XR",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: CSPC Ouyi Pharmaceutical Co., Ltd."
       }
     ]
   }

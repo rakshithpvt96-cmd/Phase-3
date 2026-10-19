@@ -1,7 +1,7 @@
 {
   "drug_name": "Placebo",
   "slug": "placebo",
-  "enriched_at": "2026-10-18T12:05:17Z",
+  "enriched_at": "2026-10-19T14:27:52Z",
   "source_trial_ids": [
     "NCT02914535",
     "NCT04036435",
@@ -48,6 +48,7 @@
     "NCT06588855",
     "NCT06602271",
     "NCT06649045",
+    "NCT06664619",
     "NCT06669754",
     "NCT06719141",
     "NCT06762548",
@@ -63,7 +64,6 @@
     "NCT06962280",
     "NCT06994507",
     "NCT07193459",
-    "NCT07220109",
     "NCT07237568",
     "NCT07251309",
     "NCT07265284",
@@ -229,12 +229,6 @@
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Gan%20%26%20Lee%20Pharmaceuticals.&type=10-K&dateb=&owner=include&count=40"
     },
     {
-      "name": "GlaxoSmithKline",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=GlaxoSmithKline&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
       "name": "Guangdong Hengrui Pharmaceutical Co., Ltd",
       "ticker": null,
       "market_cap_display": null,
@@ -397,6 +391,12 @@
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Takeda&type=10-K&dateb=&owner=include&count=40"
     },
     {
+      "name": "Teva Branded Pharmaceutical Products R&D LLC",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Teva%20Branded%20Pharmaceutical%20Products%20R%26D%20LLC&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
       "name": "Vanda Pharmaceuticals",
       "ticker": "VNDA",
       "market_cap_display": null,
@@ -452,8 +452,8 @@
     }
   },
   "condition": {
-    "raw": "Respiratory Syncytial Virus Infections",
-    "slug": "respiratory-syncytial-virus-infections"
+    "raw": "Psoriasis",
+    "slug": "psoriasis"
   },
   "source_trials": [
     {
@@ -772,6 +772,13 @@
       "has_results": false
     },
     {
+      "nct_id": "NCT06664619",
+      "title": "A Randomized, Double-Blind, Placebo-Controlled Trial on Efficacy and Safety of Fluticasone Propionate/Albuterol Sulfate Combination in Participants 12 Years and Older With Asthma",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06664619",
+      "has_results": false
+    },
+    {
       "nct_id": "NCT06669754",
       "title": "Study of Oral Deucrictibant Extended-Release Tablet for Prophylaxis Against Angioedema Attacks in Adolescents and Adults With HAE",
       "status": "ACTIVE_NOT_RECRUITING",
@@ -877,13 +884,6 @@
       "has_results": false
     },
     {
-      "nct_id": "NCT07220109",
-      "title": "A Study on the Immune Response and Safety of Vaccine Against Respiratory Syncytial Virus Given to Chinese Adults 18 to 59 Years of Age at Increased Risk of Respiratory Syncytial Virus Disease",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT07220109",
-      "has_results": false
-    },
-    {
       "nct_id": "NCT07237568",
       "title": "A Study to Evaluate Efficacy and Safety of LNK01001 in Adults With Ankylosing Spondylitis",
       "status": "RECRUITING",
@@ -972,40 +972,46 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42892381",
-        "title": "Efficacy and safety of litifilimab in cutaneous lupus erythematosus: 24-week results of the randomized phase 2 study, AMETHYST.",
-        "pubdate": "2026 Oct 17",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42892381/"
+        "pmid": "42894830",
+        "title": "Comparative Efficacy and Safety of Bruton Tyrosine Kinase and Spleen Tyrosine Kinase Inhibitors in Immune Thrombocytopenia: A Network Meta-Analysis of Clinical Trials.",
+        "pubdate": "2026 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42894830/"
       },
       {
-        "pmid": "42892346",
-        "title": "Phase 2 study of fazpilodemab, a FGFR1/Klothoβ agonist, in metabolic dysfunction-associated steatohepatitis (MASH).",
-        "pubdate": "2026 Oct 17",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42892346/"
-      },
-      {
-        "pmid": "42891531",
-        "title": "Testing the safety of nature-based microbial exposure in atopic dermatitis patients: a randomized, placebo-controlled, double-blinded pilot trial.",
-        "pubdate": "2026 Oct 17",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42891531/"
-      },
-      {
-        "pmid": "42891510",
-        "title": "Lymphocytosis as a biomarker for natalizumab treatment response in multiple sclerosis: The link with anti-drug antibodies.",
-        "pubdate": "2026 Oct 17",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42891510/"
-      },
-      {
-        "pmid": "42890128",
-        "title": "Topical oxybutynin antiperspirant for axillary hyperhidrosis: a phase IIb PROBE design clinical trial (TODAY trial).",
+        "pmid": "42894764",
+        "title": "Effects of an Esketamine-Containing Induction Regimen on Postoperative Sleep, Analgesia, and Postpartum Depression in Parturients with Sleep Disorders Undergoing Cesarean Section Under General Anesthesia: A Double-Blind Randomized Trial.",
         "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42890128/"
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42894764/"
+      },
+      {
+        "pmid": "42894628",
+        "title": "Effect of a Subanesthetic Dose of Esketamine on Postoperative Sleep Disturbance After Oocyte Retrieval Under Intravenous Anesthesia: A Randomized Controlled Trial.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42894628/"
+      },
+      {
+        "pmid": "42894232",
+        "title": "Gut Regulated Associations of Neuronal Signalling in High Blood Pressure (GRAINS-BP): a double-blinded randomised crossover placebo-controlled trial.",
+        "pubdate": "2026 Jul 22",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42894232/"
+      },
+      {
+        "pmid": "42893869",
+        "title": "Short-term effectiveness of toothpaste containing honeysuckle extract for treating recurrent aphthous ulcers in a randomized, double-blind, placebo-controlled clinical trial.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42893869/"
       }
     ]
   },
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": []
+    "items": [
+      {
+        "name": "IBI112",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Innovent Biopharmaceutical Technology (Hangzhou) Co., LTD."
+      }
+    ]
   }
 }
