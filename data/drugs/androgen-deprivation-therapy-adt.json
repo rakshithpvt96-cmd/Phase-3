@@ -1,7 +1,7 @@
 {
   "drug_name": "Androgen-deprivation Therapy (ADT)",
   "slug": "androgen-deprivation-therapy-adt",
-  "enriched_at": "2026-10-12T18:44:49Z",
+  "enriched_at": "2026-10-20T12:35:46Z",
   "source_trial_ids": [
     "NCT05884398"
   ],
@@ -60,6 +60,12 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42875365",
+        "title": "Dosing, Safety, and Pharmacokinetics of Combination Therapy With Darolutamide, Androgen Deprivation Therapy, and Docetaxel for Metastatic Hormone-Sensitive Prostate Cancer in the ARASENS Study.",
+        "pubdate": "2026 Sep 6",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42875365/"
+      },
+      {
         "pmid": "42837091",
         "title": "Evaluation of Time to Metastasis After Prostatectomy as a Prognostic Factor in Patients With Metachronous mHSPC: A Secondary Analysis of the SWOG-1216 Phase 3 Trial.",
         "pubdate": "2026 Oct 6",
@@ -82,12 +88,6 @@
         "title": "Impact of Treatment Intensification with Abiraterone on Fracture-related Hospitalisation in Newly Diagnosed Prostate Cancer: A Secondary Analysis of Two Randomised Phase 3 Trials Within the STAMPEDE Trial Platform.",
         "pubdate": "2026 Sep 8",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42711192/"
-      },
-      {
-        "pmid": "42669035",
-        "title": "Specialist Referral for Cardiovascular Risk in Patients With Prostate Cancer: A Randomized Clinical Trial.",
-        "pubdate": "2026 Aug 30",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42669035/"
       }
     ]
   },

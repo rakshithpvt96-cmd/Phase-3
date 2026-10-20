@@ -1,0 +1,130 @@
+{
+  "drug_name": "axitinib / everolimus",
+  "slug": "axitinib-everolimus",
+  "enriched_at": "2026-10-20T12:48:22Z",
+  "source_trial_ids": [
+    "NCT05522231"
+  ],
+  "sponsors": [
+    {
+      "name": "Hutchmed",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hutchmed&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1242999",
+      "generic_name": "axitinib",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1908360",
+    "target_chembl_id": "CHEMBL1902",
+    "target_name": "Peptidyl-prolyl cis-trans isomerase FKBP1A",
+    "mechanism_of_action_chembl": "FK506-binding protein 1A inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=axitinib%20/%20everolimus+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=axitinib%20/%20everolimus+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=axitinib%20/%20everolimus+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Advanced Renal Cell Carcinoma",
+    "slug": "advanced-renal-cell-carcinoma"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05522231",
+      "title": "Efficacy and Safety of Fruquintinib in Combination With Sintilimab in Advanced Renal Cell Carcinoma (FRUSICA-2)",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT05522231",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "38614375",
+        "title": "Combination immune checkpoint and targeted protein kinase inhibitors for the treatment of renal cell carcinomas.",
+        "pubdate": "2024 May",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38614375/"
+      },
+      {
+        "pmid": "34895481",
+        "title": "HLA-A*03 and response to immune checkpoint blockade in cancer: an epidemiological biomarker study.",
+        "pubdate": "2022 Jan",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34895481/"
+      },
+      {
+        "pmid": "32767163",
+        "title": "Treating metastatic clear-cell renal cell carcinoma: beyond immunotherapy.",
+        "pubdate": "2020 Aug 7",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32767163/"
+      },
+      {
+        "pmid": "32616076",
+        "title": "Systemic therapy for advanced clear cell renal cell carcinoma after discontinuation of immune-oncology and VEGF targeted therapy combinations.",
+        "pubdate": "2020 Jul 2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32616076/"
+      },
+      {
+        "pmid": "32092974",
+        "title": "New First Line Treatment Options of Clear Cell Renal Cell Cancer Patients with PD-1 or PD-L1 Immune-Checkpoint Inhibitor-Based Combination Therapies.",
+        "pubdate": "2020 Feb 19",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32092974/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "TEMSIROLIMUS",
+        "chembl_id": "CHEMBL1201182",
+        "reason": "same target: Peptidyl-prolyl cis-trans isomerase FKBP1A"
+      },
+      {
+        "name": "SIROLIMUS",
+        "chembl_id": "CHEMBL413",
+        "reason": "same target: Peptidyl-prolyl cis-trans isomerase FKBP1A"
+      },
+      {
+        "name": "PIMECROLIMUS",
+        "chembl_id": "CHEMBL1200686",
+        "reason": "same target: Peptidyl-prolyl cis-trans isomerase FKBP1A"
+      },
+      {
+        "name": "TACROLIMUS",
+        "chembl_id": "CHEMBL3989887",
+        "reason": "same target: Peptidyl-prolyl cis-trans isomerase FKBP1A"
+      },
+      {
+        "name": "OLOCROLIMUS",
+        "chembl_id": "CHEMBL3545142",
+        "reason": "same target: Peptidyl-prolyl cis-trans isomerase FKBP1A"
+      },
+      {
+        "name": "ZOTAROLIMUS",
+        "chembl_id": "CHEMBL219410",
+        "reason": "same target: Peptidyl-prolyl cis-trans isomerase FKBP1A"
+      }
+    ]
+  }
+}

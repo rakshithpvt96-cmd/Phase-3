@@ -1,0 +1,119 @@
+{
+  "drug_name": "fruquintinib+sintilimab",
+  "slug": "fruquintinib-sintilimab",
+  "enriched_at": "2026-10-20T12:49:39Z",
+  "source_trial_ids": [
+    "NCT05522231"
+  ],
+  "sponsors": [
+    {
+      "name": "Hutchmed",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hutchmed&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2670179",
+      "generic_name": "fruquintinib",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4303214",
+    "target_chembl_id": "CHEMBL2095227",
+    "target_name": "Vascular endothelial growth factor receptor",
+    "mechanism_of_action_chembl": "Vascular endothelial growth factor receptor inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=fruquintinib%2Bsintilimab+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=fruquintinib%2Bsintilimab+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=fruquintinib%2Bsintilimab+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Advanced Renal Cell Carcinoma",
+    "slug": "advanced-renal-cell-carcinoma"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05522231",
+      "title": "Efficacy and Safety of Fruquintinib in Combination With Sintilimab in Advanced Renal Cell Carcinoma (FRUSICA-2)",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT05522231",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "SUNITINIB MALATE",
+        "chembl_id": "CHEMBL1567",
+        "reason": "same target: Vascular endothelial growth factor receptor"
+      },
+      {
+        "name": "AXITINIB",
+        "chembl_id": "CHEMBL1289926",
+        "reason": "same target: Vascular endothelial growth factor receptor"
+      },
+      {
+        "name": "VANDETANIB",
+        "chembl_id": "CHEMBL24828",
+        "reason": "same target: Vascular endothelial growth factor receptor"
+      },
+      {
+        "name": "SORAFENIB TOSYLATE",
+        "chembl_id": "CHEMBL1200485",
+        "reason": "same target: Vascular endothelial growth factor receptor"
+      },
+      {
+        "name": "PAZOPANIB HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1201733",
+        "reason": "same target: Vascular endothelial growth factor receptor"
+      },
+      {
+        "name": "REGORAFENIB",
+        "chembl_id": "CHEMBL1946170",
+        "reason": "same target: Vascular endothelial growth factor receptor"
+      },
+      {
+        "name": "NINTEDANIB ESYLATE",
+        "chembl_id": "CHEMBL3039504",
+        "reason": "same target: Vascular endothelial growth factor receptor"
+      },
+      {
+        "name": "LENVATINIB MESYLATE",
+        "chembl_id": "CHEMBL2105704",
+        "reason": "same target: Vascular endothelial growth factor receptor"
+      },
+      {
+        "name": "SU-014813",
+        "chembl_id": "CHEMBL1721885",
+        "reason": "same target: Vascular endothelial growth factor receptor"
+      },
+      {
+        "name": "4SC-203",
+        "chembl_id": "CHEMBL5314406",
+        "reason": "same target: Vascular endothelial growth factor receptor"
+      }
+    ]
+  }
+}

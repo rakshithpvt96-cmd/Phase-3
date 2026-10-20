@@ -1,7 +1,7 @@
 {
   "drug_name": "CM310",
   "slug": "cm310",
-  "enriched_at": "2026-10-12T18:46:38Z",
+  "enriched_at": "2026-10-20T12:37:57Z",
   "source_trial_ids": [
     "NCT06495229"
   ],
@@ -96,21 +96,6 @@
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
     "items": [
       {
-        "name": "Upadacitinib 15mg Dose",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: AbbVie"
-      },
-      {
-        "name": "Dupilumab 300mg Dose",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: AbbVie"
-      },
-      {
-        "name": "Upadacitinib 30mg Dose",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: AbbVie"
-      },
-      {
         "name": "Ruxolitinib",
         "chembl_id": null,
         "reason": "same indication trial, sponsor: Incyte Corporation"
@@ -134,6 +119,21 @@
         "name": "Placebo + TCS",
         "chembl_id": null,
         "reason": "same indication trial, sponsor: LEO Pharma"
+      },
+      {
+        "name": "Upadacitinib 15mg Dose",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: AbbVie"
+      },
+      {
+        "name": "Dupilumab 300mg Dose",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: AbbVie"
+      },
+      {
+        "name": "Upadacitinib 30mg Dose",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: AbbVie"
       }
     ]
   }

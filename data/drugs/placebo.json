@@ -1,10 +1,9 @@
 {
   "drug_name": "Placebo",
   "slug": "placebo",
-  "enriched_at": "2026-10-19T14:27:52Z",
+  "enriched_at": "2026-10-20T12:44:41Z",
   "source_trial_ids": [
     "NCT02914535",
-    "NCT04036435",
     "NCT04652882",
     "NCT04842617",
     "NCT04895241",
@@ -12,7 +11,6 @@
     "NCT05066217",
     "NCT05115110",
     "NCT05116462",
-    "NCT05164341",
     "NCT05202509",
     "NCT05239728",
     "NCT05330182",
@@ -25,6 +23,7 @@
     "NCT05636176",
     "NCT05643534",
     "NCT05653349",
+    "NCT05677451",
     "NCT05702034",
     "NCT06081894",
     "NCT06104124",
@@ -47,7 +46,6 @@
     "NCT06564818",
     "NCT06588855",
     "NCT06602271",
-    "NCT06649045",
     "NCT06664619",
     "NCT06669754",
     "NCT06719141",
@@ -157,12 +155,6 @@
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Biohaven%20Therapeutics%20Ltd.&type=10-K&dateb=&owner=include&count=40"
     },
     {
-      "name": "Bristol-Myers Squibb",
-      "ticker": "BMY",
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000014272&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
       "name": "CSPC Ouyi Pharmaceutical Co., Ltd.",
       "ticker": null,
       "market_cap_display": null,
@@ -173,12 +165,6 @@
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Cerevance&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
-      "name": "Chiesi Farmaceutici S.p.A.",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Chiesi%20Farmaceutici%20S.p.A.&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Chongqing Claruvis Pharmaceutical Co., Ltd.",
@@ -452,8 +438,8 @@
     }
   },
   "condition": {
-    "raw": "Psoriasis",
-    "slug": "psoriasis"
+    "raw": "Sjogren's Syndrome",
+    "slug": "sjogren-s-syndrome"
   },
   "source_trials": [
     {
@@ -461,13 +447,6 @@
       "title": "Filgotinib in Long-Term Extension Study of Adults With Ulcerative Colitis",
       "status": "COMPLETED",
       "url": "https://clinicaltrials.gov/study/NCT02914535",
-      "has_results": false
-    },
-    {
-      "nct_id": "NCT04036435",
-      "title": "Long-Term Study That Measures the Safety and Efficacy of Deucravacitinib (BMS-986165) in Participants With Psoriasis",
-      "status": "COMPLETED",
-      "url": "https://clinicaltrials.gov/study/NCT04036435",
       "has_results": false
     },
     {
@@ -517,13 +496,6 @@
       "title": "Neoadjuvant and Adjuvant Therapy Studies of Sindilizumab in Resectable Lung Cancer",
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT05116462",
-      "has_results": false
-    },
-    {
-      "nct_id": "NCT05164341",
-      "title": "Study to Evaluate the Safety and Efficacy of Daily Subcutaneous Metreleptin Treatment in Subjects With PL",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT05164341",
       "has_results": false
     },
     {
@@ -608,6 +580,13 @@
       "title": "Study of Ianalumab Versus Placebo in Addition to First-line Corticosteroids in Primary Immune Thrombocytopenia (ITP)",
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT05653349",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT05677451",
+      "title": "24 Weeks Double-blind Randomized Placebo-controlled Trial to Evaluate Efficacy, PK, Safety of LOU064 in Adolescents (12 - <18) With CSU and Inadequate Response to H1-antihistamine Followed by Optional 3 Years Open-label Extension and an Optional 3 Years Safety Long-term Treatment-free Follow-up",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05677451",
       "has_results": false
     },
     {
@@ -762,13 +741,6 @@
       "title": "PF614 Analgesic Activity in Acute Postoperative Pain (PF614-301)",
       "status": "RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT06602271",
-      "has_results": false
-    },
-    {
-      "nct_id": "NCT06649045",
-      "title": "A Master Protocol for Orforglipron in Participants With Obstructive Sleep Apnea and Obesity or Overweight",
-      "status": "COMPLETED",
-      "url": "https://clinicaltrials.gov/study/NCT06649045",
       "has_results": false
     },
     {
@@ -972,46 +944,40 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42894830",
-        "title": "Comparative Efficacy and Safety of Bruton Tyrosine Kinase and Spleen Tyrosine Kinase Inhibitors in Immune Thrombocytopenia: A Network Meta-Analysis of Clinical Trials.",
-        "pubdate": "2026 Oct",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42894830/"
+        "pmid": "42898106",
+        "title": "Deucravacitinib versus placebo in adults with moderate-to-severe hidradenitis suppurativa: A pilot study.",
+        "pubdate": "2026 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42898106/"
       },
       {
-        "pmid": "42894764",
-        "title": "Effects of an Esketamine-Containing Induction Regimen on Postoperative Sleep, Analgesia, and Postpartum Depression in Parturients with Sleep Disorders Undergoing Cesarean Section Under General Anesthesia: A Double-Blind Randomized Trial.",
-        "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42894764/"
+        "pmid": "42898002",
+        "title": "Long-term efficacy, clinical outcomes, and safety of vimseltinib in patients with tenosynovial giant cell tumor: results from the MOTION phase 3 trial.",
+        "pubdate": "2026 Oct 19",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42898002/"
       },
       {
-        "pmid": "42894628",
-        "title": "Effect of a Subanesthetic Dose of Esketamine on Postoperative Sleep Disturbance After Oocyte Retrieval Under Intravenous Anesthesia: A Randomized Controlled Trial.",
-        "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42894628/"
+        "pmid": "42897716",
+        "title": "Tirzepatide for Obstructive Sleep Apnea: Trial Evidence, Cardiometabolic Effects, and Implications for Cardiovascular Practice.",
+        "pubdate": "2026 Oct 20",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42897716/"
       },
       {
-        "pmid": "42894232",
-        "title": "Gut Regulated Associations of Neuronal Signalling in High Blood Pressure (GRAINS-BP): a double-blinded randomised crossover placebo-controlled trial.",
-        "pubdate": "2026 Jul 22",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42894232/"
+        "pmid": "42896861",
+        "title": "Safety and tolerability of anti-toll-like receptor 3, monoclonal antibody PRV-300 in patients with moderate-to-severe ulcerative colitis: a randomized phase 1B clinical trial (PULSE).",
+        "pubdate": "2026 Oct 9",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42896861/"
       },
       {
-        "pmid": "42893869",
-        "title": "Short-term effectiveness of toothpaste containing honeysuckle extract for treating recurrent aphthous ulcers in a randomized, double-blind, placebo-controlled clinical trial.",
-        "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42893869/"
+        "pmid": "42896815",
+        "title": "Prenatal Maternal Phosphatidylcholine and Children's Behavior and Cognition through 4 Years of Age: Randomized Clinical Trial.",
+        "pubdate": "2026 Oct 19",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42896815/"
       }
     ]
   },
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": [
-      {
-        "name": "IBI112",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Innovent Biopharmaceutical Technology (Hangzhou) Co., LTD."
-      }
-    ]
+    "items": []
   }
 }

@@ -1,7 +1,7 @@
 {
   "drug_name": "BNT162b2 Vaccine",
   "slug": "bnt162b2-vaccine",
-  "enriched_at": "2026-10-12T18:45:10Z",
+  "enriched_at": "2026-10-20T12:48:36Z",
   "source_trial_ids": [
     "NCT07300839"
   ],
@@ -51,7 +51,7 @@
     {
       "nct_id": "NCT07300839",
       "title": "A Study to Learn About a COVID-19 Vaccine in Healthy Adults 50 Through 64 Years of Age",
-      "status": "ACTIVE_NOT_RECRUITING",
+      "status": "COMPLETED",
       "url": "https://clinicaltrials.gov/study/NCT07300839",
       "has_results": false
     }
@@ -59,6 +59,12 @@
   "prior_results": {
     "ctgov_results_urls": [],
     "pubmed_articles": [
+      {
+        "pmid": "42872797",
+        "title": "Transparency of clinical trials: Reproducing and extending analyses.",
+        "pubdate": "2026 Oct 14",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42872797/"
+      },
       {
         "pmid": "42700749",
         "title": "The platform trial in COVID-19 priming and BOOsting (PICOBOO): The reactogenicity of nine licensed COVID-19 vaccines delivered in immunocompetent adults.",
@@ -82,12 +88,6 @@
         "title": "The Platform trial In COVID-19 priming and BOOsting (PICOBOO): The immunogenicity, reactogenicity and safety of seven licensed COVID-19 vaccines delivered as fifth dose or subsequent boosters in immunocompetent adults.",
         "pubdate": "2026 Aug 13",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42520645/"
-      },
-      {
-        "pmid": "42501282",
-        "title": "Immunogenicity, Tolerability, and Safety of BA.1-Adapted BNT162b2 Vaccine in 18- to 55-Year-Olds Previously Vaccinated with BNT162b2 or Who Were COVID-19 Vaccine-Naive.",
-        "pubdate": "2026 Oct",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42501282/"
       }
     ]
   },

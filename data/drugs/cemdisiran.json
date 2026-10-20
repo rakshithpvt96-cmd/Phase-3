@@ -1,7 +1,7 @@
 {
   "drug_name": "Cemdisiran",
   "slug": "cemdisiran",
-  "enriched_at": "2026-10-12T18:46:29Z",
+  "enriched_at": "2026-10-20T12:37:47Z",
   "source_trial_ids": [
     "NCT05133531"
   ],
@@ -105,6 +105,16 @@
         "name": "Danicopan",
         "chembl_id": null,
         "reason": "same indication trial, sponsor: Alexion Pharmaceuticals, Inc."
+      },
+      {
+        "name": "NTQ5082 capsules 200 mg",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Nanjing Chia-tai Tianqing Pharmaceutical"
+      },
+      {
+        "name": "Eculizumab Injection",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Nanjing Chia-tai Tianqing Pharmaceutical"
       }
     ]
   }

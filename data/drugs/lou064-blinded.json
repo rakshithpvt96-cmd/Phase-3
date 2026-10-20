@@ -1,0 +1,110 @@
+{
+  "drug_name": "LOU064 (blinded)",
+  "slug": "lou064-blinded",
+  "enriched_at": "2026-10-20T12:43:21Z",
+  "source_trial_ids": [
+    "NCT05677451"
+  ],
+  "sponsors": [
+    {
+      "name": "Novartis Pharmaceuticals",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Novartis%20Pharmaceuticals&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2728206",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4483575",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=LOU064%20%28blinded%29+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=LOU064%20%28blinded%29+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=LOU064%20%28blinded%29+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Chronic Spontaneous Urticaria",
+    "slug": "chronic-spontaneous-urticaria"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05677451",
+      "title": "24 Weeks Double-blind Randomized Placebo-controlled Trial to Evaluate Efficacy, PK, Safety of LOU064 in Adolescents (12 - <18) With CSU and Inadequate Response to H1-antihistamine Followed by Optional 3 Years Open-label Extension and an Optional 3 Years Safety Long-term Treatment-free Follow-up",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05677451",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42297099",
+        "title": "Remibrutinib impact on disease control, sleep, and quality of life: Analysis of phase 3 REMIX-1/2.",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42297099/"
+      },
+      {
+        "pmid": "42242425",
+        "title": "Safety of Remibrutinib in Chronic Spontaneous Urticaria: A Pooled Analysis of REMIX-1 and REMIX-2 Trials.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42242425/"
+      },
+      {
+        "pmid": "41115533",
+        "title": "Remibrutinib in chronic spontaneous urticaria: 52-week results from two phase 3 studies.",
+        "pubdate": "2026 Jan",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41115533/"
+      },
+      {
+        "pmid": "40266575",
+        "title": "Rilzabrutinib in Antihistamine-Refractory Chronic Spontaneous Urticaria: The RILECSU Phase 2 Randomized Clinical Trial.",
+        "pubdate": "2025 Jul 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40266575/"
+      },
+      {
+        "pmid": "40043237",
+        "title": "Remibrutinib in Chronic Spontaneous Urticaria.",
+        "pubdate": "2025 Mar 6",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40043237/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "barzolvolimab",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Celldex Therapeutics"
+      },
+      {
+        "name": "Matching placebo",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Celldex Therapeutics"
+      }
+    ]
+  }
+}
