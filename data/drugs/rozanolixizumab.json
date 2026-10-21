@@ -1,7 +1,7 @@
 {
   "drug_name": "rozanolixizumab",
   "slug": "rozanolixizumab",
-  "enriched_at": "2026-09-21T13:46:46Z",
+  "enriched_at": "2026-10-21T14:02:20Z",
   "source_trial_ids": [
     "NCT06149559"
   ],
@@ -51,7 +51,7 @@
     {
       "nct_id": "NCT06149559",
       "title": "A Study of Rozanolixizumab in Pediatric Study Participants With Moderate to Severe Generalized Myasthenia Gravis",
-      "status": "ACTIVE_NOT_RECRUITING",
+      "status": "COMPLETED",
       "url": "https://clinicaltrials.gov/study/NCT06149559",
       "has_results": false
     }
@@ -59,6 +59,18 @@
   "prior_results": {
     "ctgov_results_urls": [],
     "pubmed_articles": [
+      {
+        "pmid": "42786373",
+        "title": "Comparative Efficacy of Rozanolixizumab with Efgartigimod or Intravenous Immunoglobulin in Generalized Myasthenia Gravis Using Matching Adjusted Indirect Comparisons.",
+        "pubdate": "2026 Sep 24",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42786373/"
+      },
+      {
+        "pmid": "42768201",
+        "title": "Regimen-stratified Bayesian model-based meta-analysis of targeted biologics in generalised myasthenia gravis: efficacy comparison, mechanism-level class contrast, and endpoint sensitivity with model-informed trial design.",
+        "pubdate": "2026 Sep 22",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42768201/"
+      },
       {
         "pmid": "42485478",
         "title": "",
@@ -76,29 +88,32 @@
         "title": "Indirect Comparison of Nipocalimab Versus Efgartigimod and Rozanolixizumab in the Treatment of Generalized Myasthenia Gravis.",
         "pubdate": "2026 May",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41817915/"
-      },
-      {
-        "pmid": "41505161",
-        "title": "Novel Therapies for Generalized Myasthenia Gravis: Insights Into FcRn and Complement Inhibition.",
-        "pubdate": "2026 Jan-Feb 01",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41505161/"
-      },
-      {
-        "pmid": "41205003",
-        "title": "Measuring the effect of rozanolixizumab using the Myasthenia Gravis Impairment Index: analyses from the randomized phase 3 MycarinG study.",
-        "pubdate": "2025 Nov 8",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41205003/"
       }
     ]
   },
   "related_drugs": {
-    "method": "ctgov_same_condition",
+    "method": "chembl_same_target",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
     "items": [
       {
-        "name": "Ravulizumab",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Alexion Pharmaceuticals, Inc."
+        "name": "EFGARTIGIMOD ALFA",
+        "chembl_id": "CHEMBL4297551",
+        "reason": "same target: IgG receptor FcRn large subunit p51"
+      },
+      {
+        "name": "NIPOCALIMAB",
+        "chembl_id": "CHEMBL4594310",
+        "reason": "same target: IgG receptor FcRn large subunit p51"
+      },
+      {
+        "name": "BATOCLIMAB",
+        "chembl_id": "CHEMBL4650514",
+        "reason": "same target: IgG receptor FcRn large subunit p51"
+      },
+      {
+        "name": "ORILANOLIMAB",
+        "chembl_id": "CHEMBL4298117",
+        "reason": "same target: IgG receptor FcRn large subunit p51"
       }
     ]
   }

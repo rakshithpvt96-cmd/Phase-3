@@ -1,7 +1,7 @@
 {
   "drug_name": "Pacritinib",
   "slug": "pacritinib",
-  "enriched_at": "2026-09-21T13:44:51Z",
+  "enriched_at": "2026-10-21T14:02:13Z",
   "source_trial_ids": [
     "NCT03165734"
   ],
@@ -27,10 +27,10 @@
     }
   },
   "mechanism": {
-    "chembl_id": null,
-    "target_chembl_id": null,
+    "chembl_id": "CHEMBL2035187",
+    "target_chembl_id": "CHEMBL2971",
     "target_name": null,
-    "mechanism_of_action_chembl": null
+    "mechanism_of_action_chembl": "Tyrosine-protein kinase JAK2 inhibitor"
   },
   "fda_label": {
     "has_label": true,
@@ -98,8 +98,59 @@
     ]
   },
   "related_drugs": {
-    "method": "ctgov_same_condition",
+    "method": "chembl_same_target",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": []
+    "items": [
+      {
+        "name": "RUXOLITINIB PHOSPHATE",
+        "chembl_id": "CHEMBL1795071",
+        "reason": "same target: CHEMBL2971"
+      },
+      {
+        "name": "AC-430",
+        "chembl_id": "CHEMBL3545241",
+        "reason": "same target: CHEMBL2971"
+      },
+      {
+        "name": "CT-1578",
+        "chembl_id": "CHEMBL2035185",
+        "reason": "same target: CHEMBL2971"
+      },
+      {
+        "name": "LS-104",
+        "chembl_id": "CHEMBL5095023",
+        "reason": "same target: CHEMBL2971"
+      },
+      {
+        "name": "ZOTIRACICLIB",
+        "chembl_id": "CHEMBL1944698",
+        "reason": "same target: CHEMBL2971"
+      },
+      {
+        "name": "XL-019",
+        "chembl_id": "CHEMBL3545328",
+        "reason": "same target: CHEMBL2971"
+      },
+      {
+        "name": "AT-9283",
+        "chembl_id": "CHEMBL495727",
+        "reason": "same target: CHEMBL2971"
+      },
+      {
+        "name": "AZD-1480",
+        "chembl_id": "CHEMBL1231124",
+        "reason": "same target: CHEMBL2971"
+      },
+      {
+        "name": "BMS-911543",
+        "chembl_id": "CHEMBL3545215",
+        "reason": "same target: CHEMBL2971"
+      },
+      {
+        "name": "GANDOTINIB",
+        "chembl_id": "CHEMBL2107823",
+        "reason": "same target: CHEMBL2971"
+      }
+    ]
   }
 }
