@@ -1,228 +1,12 @@
 {
-  "generated_at": "2026-10-20T14:10:54Z",
+  "generated_at": "2026-10-21T12:46:53Z",
   "window_upcoming_days": 14,
   "window_lookback_days": [
     1,
     90
   ],
-  "trial_count": 299,
+  "trial_count": 294,
   "trials": [
-    {
-      "nct_id": "NCT04543617",
-      "title": "A Study of Atezolizumab With or Without Tiragolumab in Participants With Unresectable Esophageal Squamous Cell Carcinoma Whose Cancers Have Not Progressed Following Definitive Concurrent Chemoradiotherapy",
-      "status": "COMPLETED",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "Hoffmann-La Roche",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-07-22",
-      "primary_completion_date_type": "ACTUAL",
-      "window": "lookback",
-      "conditions": [
-        "Esophageal Squamous Cell Carcinoma"
-      ],
-      "interventions": [
-        {
-          "name": "Tiragolumab",
-          "type": "DRUG"
-        },
-        {
-          "name": "Atezolizumab",
-          "type": "DRUG"
-        },
-        {
-          "name": "Tiragolumab Matching Placebo",
-          "type": "DRUG"
-        },
-        {
-          "name": "Atezolizumab Matching Placebo",
-          "type": "DRUG"
-        }
-      ],
-      "drug_names": [
-        "Tiragolumab",
-        "Atezolizumab",
-        "Tiragolumab Matching Placebo",
-        "Atezolizumab Matching Placebo"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT04543617",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "Hoffmann-La Roche",
-        "ticker": null,
-        "cik": null,
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hoffmann-La%20Roche&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-19T14:27:04Z"
-      }
-    },
-    {
-      "nct_id": "NCT04901195",
-      "title": "A Study to Test the Long-term Treatment of Bimekizumab in Study Participants With Moderate to Severe Hidradenitis Suppurativa",
-      "status": "COMPLETED",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "UCB Biopharma SRL",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-07-22",
-      "primary_completion_date_type": "ACTUAL",
-      "window": "lookback",
-      "conditions": [
-        "Hidradenitis Suppurativa"
-      ],
-      "interventions": [
-        {
-          "name": "Bimekizumab",
-          "type": "DRUG"
-        }
-      ],
-      "drug_names": [
-        "Bimekizumab"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT04901195",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "UCB Biopharma SRL",
-        "ticker": null,
-        "cik": null,
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=UCB%20Biopharma%20SRL&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-19T14:27:17Z"
-      }
-    },
-    {
-      "nct_id": "NCT05156281",
-      "title": "Efficacy and Safety of Remibrutinib Compared to Teriflunomide in Participants With Relapsing Multiple Sclerosis (RMS) (REMODEL-2)",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "Novartis Pharmaceuticals",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-07-22",
-      "primary_completion_date_type": "ACTUAL",
-      "window": "lookback",
-      "conditions": [
-        "Relapsing Multiple Sclerosis"
-      ],
-      "interventions": [
-        {
-          "name": "Remibrutinib",
-          "type": "DRUG"
-        },
-        {
-          "name": "Teriflunomide",
-          "type": "DRUG"
-        }
-      ],
-      "drug_names": [
-        "Remibrutinib",
-        "Teriflunomide"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT05156281",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "Novartis Pharmaceuticals",
-        "ticker": null,
-        "cik": null,
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Novartis%20Pharmaceuticals&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-19T14:27:09Z"
-      }
-    },
-    {
-      "nct_id": "NCT06439342",
-      "title": "A Study of Maribavir in Chinese Adults With Cytomegalovirus (CMV) Infections",
-      "status": "COMPLETED",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "Takeda",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-07-22",
-      "primary_completion_date_type": "ACTUAL",
-      "window": "lookback",
-      "conditions": [
-        "Cytomegalovirus (CMV)"
-      ],
-      "interventions": [
-        {
-          "name": "Maribavir",
-          "type": "DRUG"
-        }
-      ],
-      "drug_names": [
-        "Maribavir"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT06439342",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "Takeda",
-        "ticker": null,
-        "cik": null,
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Takeda&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-19T14:27:17Z"
-      }
-    },
-    {
-      "nct_id": "NCT07354516",
-      "title": "Study of QLS-111-FDC in Open-Angle Glaucoma or Ocular Hypertension",
-      "status": "COMPLETED",
-      "phases": [
-        "PHASE2",
-        "PHASE3"
-      ],
-      "sponsor": "Qlaris Bio, Inc.",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-07-22",
-      "primary_completion_date_type": "ACTUAL",
-      "window": "lookback",
-      "conditions": [
-        "OAG - Open-Angle Glaucoma",
-        "OHT - Ocular Hypertension"
-      ],
-      "interventions": [
-        {
-          "name": "QLS-111-FDC",
-          "type": "COMBINATION_PRODUCT"
-        },
-        {
-          "name": "Latanoprost (0.005%)",
-          "type": "DRUG"
-        }
-      ],
-      "drug_names": [
-        "Latanoprost (0.005%)"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT07354516",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "Qlaris Bio, Inc.",
-        "ticker": null,
-        "cik": null,
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Qlaris%20Bio%2C%20Inc.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-19T14:27:15Z"
-      }
-    },
     {
       "nct_id": "NCT06104124",
       "title": "A Study to Evaluate the Efficacy and Safety of Dazodalibep in Participants With Sjögren's Syndrome (SS) With Moderate-to-severe Systemic Disease Activity",
@@ -1572,54 +1356,6 @@
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Shanghai%20Mabgeek%20Biotech.Co.Ltd&type=10-K&dateb=&owner=include&count=40",
         "cached_at": "2026-10-19T14:27:17Z"
-      }
-    },
-    {
-      "nct_id": "NCT07037875",
-      "title": "A Study Comparing the Effect and Safety of Linaprazan Glurate to Lansoprazole in Participants With Erosive Esophagitis (EE) Due to Gastroesophageal Reflux Disease (GERD)",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "Cinclus Pharma Holding AB",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-08",
-      "primary_completion_date_type": "ESTIMATED",
-      "window": "lookback",
-      "conditions": [
-        "GERD (Gastroesophageal Reflux Disease)"
-      ],
-      "interventions": [
-        {
-          "name": "Linaprazan glurate 50 mg Twice Daily (BID)",
-          "type": "DRUG"
-        },
-        {
-          "name": "Linaprazan Glurate 50 mg Once Daily (QD)",
-          "type": "DRUG"
-        },
-        {
-          "name": "Lansoprazole 30 mg Once Daily (QD)",
-          "type": "DRUG"
-        }
-      ],
-      "drug_names": [
-        "Linaprazan glurate 50 mg Twice Daily (BID)",
-        "Linaprazan Glurate 50 mg Once Daily (QD)",
-        "Lansoprazole 30 mg Once Daily (QD)"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT07037875",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "Cinclus Pharma Holding AB",
-        "ticker": null,
-        "cik": null,
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Cinclus%20Pharma%20Holding%20AB&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-19T14:27:00Z"
       }
     },
     {
@@ -4605,48 +4341,6 @@
       }
     },
     {
-      "nct_id": "NCT03104517",
-      "title": "Autologous Muscle Derived Cells Compared to Placebo for Urinary Sphincter Repair in Post-surgical Female Stress Incontinence",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "Cook MyoSite",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-09",
-      "primary_completion_date_type": "ESTIMATED",
-      "window": "lookback",
-      "conditions": [
-        "Stress Urinary Incontinence"
-      ],
-      "interventions": [
-        {
-          "name": "AMDC-USR (iltamiocel)",
-          "type": "BIOLOGICAL"
-        },
-        {
-          "name": "Placebo",
-          "type": "OTHER"
-        }
-      ],
-      "drug_names": [
-        "AMDC-USR (iltamiocel)"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT03104517",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "Cook MyoSite",
-        "ticker": null,
-        "cik": null,
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Cook%20MyoSite&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-19T14:27:01Z"
-      }
-    },
-    {
       "nct_id": "NCT03605654",
       "title": "Cellular Immunotherapy in Recipients of Human Leukocyte Antigen (HLA)-Mismatched, Living Donor Kidney Transplants",
       "status": "WITHDRAWN",
@@ -7001,6 +6695,102 @@
       }
     },
     {
+      "nct_id": "NCT06834347",
+      "title": "A Phase 3 Study to Assess the Efficacy, Safety, and Tolerability of Itepekimab (Anti-IL-33 mAb) in Participants With Inadequately-controlled Chronic Rhinosinusitis With Nasal Polyps",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Sanofi",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-09-23",
+      "primary_completion_date_type": "ACTUAL",
+      "window": "lookback",
+      "conditions": [
+        "Chronic Rhinosinusitis With Nasal Polyps"
+      ],
+      "interventions": [
+        {
+          "name": "Itepekimab (SAR440340)",
+          "type": "DRUG"
+        },
+        {
+          "name": "Placebo",
+          "type": "DRUG"
+        },
+        {
+          "name": "Mometasone furoate nasal spray (MFNS)",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "Itepekimab (SAR440340)",
+        "Placebo",
+        "Mometasone furoate nasal spray (MFNS)"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06834347",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Sanofi",
+        "ticker": "SNY",
+        "cik": "0001121404",
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001121404&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-10-19T14:27:16Z"
+      }
+    },
+    {
+      "nct_id": "NCT06834360",
+      "title": "A Phase 3 Study to Assess the Efficacy, Safety, and Tolerability of Itepekimab (Anti-IL-33 mAb) in Participants With Inadequately-controlled Chronic Rhinosinusitis With Nasal Polyps",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Sanofi",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-09-24",
+      "primary_completion_date_type": "ACTUAL",
+      "window": "lookback",
+      "conditions": [
+        "Chronic Rhinosinusitis With Nasal Polyps"
+      ],
+      "interventions": [
+        {
+          "name": "Itepekimab (SAR440340)",
+          "type": "DRUG"
+        },
+        {
+          "name": "Placebo",
+          "type": "DRUG"
+        },
+        {
+          "name": "Mometasone furoate nasal spray (MFNS)",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "Itepekimab (SAR440340)",
+        "Placebo",
+        "Mometasone furoate nasal spray (MFNS)"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06834360",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Sanofi",
+        "ticker": "SNY",
+        "cik": "0001121404",
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001121404&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-10-19T14:27:16Z"
+      }
+    },
+    {
       "nct_id": "NCT04961567",
       "title": "A Study to Learn About the Safety of Litifilimab (BIIB059) Injections and Whether They Can Improve Symptoms of Adult Participants Who Have Systemic Lupus Erythematosus",
       "status": "ACTIVE_NOT_RECRUITING",
@@ -7166,6 +6956,54 @@
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001821586&type=10-K&dateb=&owner=include&count=40",
         "cached_at": "2026-10-20T12:35:24Z"
+      }
+    },
+    {
+      "nct_id": "NCT07037875",
+      "title": "A Study Comparing the Effect and Safety of Linaprazan Glurate to Lansoprazole in Participants With Erosive Esophagitis (EE) Due to Gastroesophageal Reflux Disease (GERD)",
+      "status": "COMPLETED",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Cinclus Pharma Holding AB",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-09-28",
+      "primary_completion_date_type": "ACTUAL",
+      "window": "lookback",
+      "conditions": [
+        "GERD (Gastroesophageal Reflux Disease)"
+      ],
+      "interventions": [
+        {
+          "name": "Linaprazan glurate 50 mg Twice Daily (BID)",
+          "type": "DRUG"
+        },
+        {
+          "name": "Linaprazan Glurate 50 mg Once Daily (QD)",
+          "type": "DRUG"
+        },
+        {
+          "name": "Lansoprazole 30 mg Once Daily (QD)",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "Linaprazan glurate 50 mg Twice Daily (BID)",
+        "Linaprazan Glurate 50 mg Once Daily (QD)",
+        "Lansoprazole 30 mg Once Daily (QD)"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT07037875",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Cinclus Pharma Holding AB",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Cinclus%20Pharma%20Holding%20AB&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-10-19T14:27:00Z"
       }
     },
     {
@@ -10129,54 +9967,6 @@
       }
     },
     {
-      "nct_id": "NCT06834347",
-      "title": "A Phase 3 Study to Assess the Efficacy, Safety, and Tolerability of Itepekimab (Anti-IL-33 mAb) in Participants With Inadequately-controlled Chronic Rhinosinusitis With Nasal Polyps",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "Sanofi",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-10-14",
-      "primary_completion_date_type": "ESTIMATED",
-      "window": "lookback",
-      "conditions": [
-        "Chronic Rhinosinusitis With Nasal Polyps"
-      ],
-      "interventions": [
-        {
-          "name": "Itepekimab (SAR440340)",
-          "type": "DRUG"
-        },
-        {
-          "name": "Placebo",
-          "type": "DRUG"
-        },
-        {
-          "name": "Mometasone furoate nasal spray (MFNS)",
-          "type": "DRUG"
-        }
-      ],
-      "drug_names": [
-        "Itepekimab (SAR440340)",
-        "Placebo",
-        "Mometasone furoate nasal spray (MFNS)"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT06834347",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "Sanofi",
-        "ticker": "SNY",
-        "cik": "0001121404",
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001121404&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-19T14:27:16Z"
-      }
-    },
-    {
       "nct_id": "NCT05702034",
       "title": "A Study of Milvexian in Participants After an Acute Ischemic Stroke or High-Risk Transient Ischemic Attack- LIBREXIA-STROKE",
       "status": "ACTIVE_NOT_RECRUITING",
@@ -10484,7 +10274,7 @@
       "sponsor_class": "INDUSTRY",
       "primary_completion_date": "2026-10-20",
       "primary_completion_date_type": "ESTIMATED",
-      "window": "upcoming",
+      "window": "lookback",
       "conditions": [
         "Subacute Cutaneous Lupus Erythematosus",
         "Chronic Cutaneous Lupus Erythematosus"
@@ -10528,7 +10318,7 @@
       "sponsor_class": "INDUSTRY",
       "primary_completion_date": "2026-10-20",
       "primary_completion_date_type": "ESTIMATED",
-      "window": "upcoming",
+      "window": "lookback",
       "conditions": [
         "Atopic Dermatitis"
       ],
@@ -10571,7 +10361,7 @@
       "sponsor_class": "INDUSTRY",
       "primary_completion_date": "2026-10-20",
       "primary_completion_date_type": "ESTIMATED",
-      "window": "upcoming",
+      "window": "lookback",
       "conditions": [
         "Schizophrenia"
       ],
@@ -10977,7 +10767,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Albireo%2C%20an%20Ipsen%20Company&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-14T12:42:29Z"
+        "cached_at": "2026-10-21T12:46:53Z"
       }
     },
     {
@@ -11299,50 +11089,6 @@
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=CSPC%20Ouyi%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
         "cached_at": "2026-10-14T14:24:06Z"
-      }
-    },
-    {
-      "nct_id": "NCT07490496",
-      "title": "Phase 3 Bunionectomy Study",
-      "status": "NOT_YET_RECRUITING",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "Cali Pharmaceuticals LLC",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-10-30",
-      "primary_completion_date_type": "ESTIMATED",
-      "window": "upcoming",
-      "conditions": [
-        "Postoperative Pain",
-        "Bunion"
-      ],
-      "interventions": [
-        {
-          "name": "CPL-01",
-          "type": "DRUG"
-        },
-        {
-          "name": "saline placebo",
-          "type": "DRUG"
-        }
-      ],
-      "drug_names": [
-        "CPL-01",
-        "saline placebo"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT07490496",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "Cali Pharmaceuticals LLC",
-        "ticker": null,
-        "cik": null,
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Cali%20Pharmaceuticals%20LLC&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-16T13:09:52Z"
       }
     },
     {
@@ -13379,6 +13125,55 @@
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Novartis%20Pharmaceuticals&type=10-K&dateb=&owner=include&count=40",
         "cached_at": "2026-10-19T14:27:09Z"
+      }
+    },
+    {
+      "nct_id": "NCT06772168",
+      "title": "Evaluate the Efficacy and Safety of CMG190303 in Patients With Type 2 Diabetes and Dyslipidemia",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "CMG Pharmaceutical Co. Ltd",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-11-04",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Dyslipidemia",
+        "Type 2 Diabetes"
+      ],
+      "interventions": [
+        {
+          "name": "CMG190303(Dapagliflozin/Rosuvastatin)",
+          "type": "DRUG"
+        },
+        {
+          "name": "Comparator 1: Dapagliflozin/Rosuvastatin placebo",
+          "type": "DRUG"
+        },
+        {
+          "name": "Rosuvastatin/Dapagliflozin placebo",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "CMG190303(Dapagliflozin/Rosuvastatin)",
+        "Comparator 1: Dapagliflozin/Rosuvastatin placebo",
+        "Rosuvastatin/Dapagliflozin placebo"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06772168",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "CMG Pharmaceutical Co. Ltd",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=CMG%20Pharmaceutical%20Co.%20Ltd&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-10-21T12:46:53Z"
       }
     }
   ]

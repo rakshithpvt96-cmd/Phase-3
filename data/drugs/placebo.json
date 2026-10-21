@@ -1,7 +1,7 @@
 {
   "drug_name": "Placebo",
   "slug": "placebo",
-  "enriched_at": "2026-10-20T12:44:41Z",
+  "enriched_at": "2026-10-21T12:47:56Z",
   "source_trial_ids": [
     "NCT02914535",
     "NCT04652882",
@@ -55,6 +55,7 @@
     "NCT06779136",
     "NCT06783114",
     "NCT06834347",
+    "NCT06834360",
     "NCT06846515",
     "NCT06910358",
     "NCT06914895",
@@ -807,6 +808,13 @@
       "has_results": false
     },
     {
+      "nct_id": "NCT06834360",
+      "title": "A Phase 3 Study to Assess the Efficacy, Safety, and Tolerability of Itepekimab (Anti-IL-33 mAb) in Participants With Inadequately-controlled Chronic Rhinosinusitis With Nasal Polyps",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06834360",
+      "has_results": false
+    },
+    {
       "nct_id": "NCT06846515",
       "title": "Phase 3 Evaluation of Efficacy and Safety of AR882 in Gout Patients (AR882-301)",
       "status": "COMPLETED",
@@ -944,34 +952,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42898106",
-        "title": "Deucravacitinib versus placebo in adults with moderate-to-severe hidradenitis suppurativa: A pilot study.",
-        "pubdate": "2026 Dec",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42898106/"
+        "pmid": "42902572",
+        "title": "Proenkephalin A and Heterogeneity of Hydrocortisone Treatment Effect in Septic Shock: A Post Hoc Analysis of the VANISH Trial.",
+        "pubdate": "2026 Oct 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42902572/"
       },
       {
-        "pmid": "42898002",
-        "title": "Long-term efficacy, clinical outcomes, and safety of vimseltinib in patients with tenosynovial giant cell tumor: results from the MOTION phase 3 trial.",
-        "pubdate": "2026 Oct 19",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42898002/"
+        "pmid": "42902396",
+        "title": "Randomised, placebo-controlled study to assess the safety and efficacy of Enterosgel® in the treatment of functional abdominal pain in children and young people (ENTOPIC): study protocol for a clinical trial.",
+        "pubdate": "2026 Jul 25",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42902396/"
       },
       {
-        "pmid": "42897716",
-        "title": "Tirzepatide for Obstructive Sleep Apnea: Trial Evidence, Cardiometabolic Effects, and Implications for Cardiovascular Practice.",
+        "pmid": "42901423",
+        "title": "Efficacy and safety of QY201, an oral dual Janus kinase 1/tyrosine kinase 2 inhibitor, in adults with moderate-to-severe atopic dermatitis: a multicenter, randomized, double-blind, placebo-controlled phase 2 dose-finding trial.",
         "pubdate": "2026 Oct 20",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42897716/"
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42901423/"
       },
       {
-        "pmid": "42896861",
-        "title": "Safety and tolerability of anti-toll-like receptor 3, monoclonal antibody PRV-300 in patients with moderate-to-severe ulcerative colitis: a randomized phase 1B clinical trial (PULSE).",
-        "pubdate": "2026 Oct 9",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42896861/"
+        "pmid": "42898904",
+        "title": "Evaluating IMMPACT Criteria for the Clinical Meaningfulness of Between-Group Differences: Interpreting Randomized Trial Results within a Context of Existing Chronic Pain Analgesics.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42898904/"
       },
       {
-        "pmid": "42896815",
-        "title": "Prenatal Maternal Phosphatidylcholine and Children's Behavior and Cognition through 4 Years of Age: Randomized Clinical Trial.",
-        "pubdate": "2026 Oct 19",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42896815/"
+        "pmid": "42898854",
+        "title": "Pembrolizumab plus gemcitabine and cisplatin for advanced biliary tract cancer: longer-term follow-up from the randomised, double-blind, placebo-controlled, phase 3 KEYNOTE-966 trial.",
+        "pubdate": "2026 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42898854/"
       }
     ]
   },
