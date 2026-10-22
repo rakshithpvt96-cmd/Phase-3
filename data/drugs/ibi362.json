@@ -1,7 +1,7 @@
 {
   "drug_name": "IBI362",
   "slug": "ibi362",
-  "enriched_at": "2026-10-14T14:36:05Z",
+  "enriched_at": "2026-10-22T13:02:43Z",
   "source_trial_ids": [
     "NCT07469800"
   ],
@@ -96,6 +96,17 @@
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": []
+    "items": [
+      {
+        "name": "Tirzepatide",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Eli Lilly and Company"
+      },
+      {
+        "name": "Placebo",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Eli Lilly and Company"
+      }
+    ]
   }
 }

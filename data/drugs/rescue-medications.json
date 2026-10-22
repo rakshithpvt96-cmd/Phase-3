@@ -1,0 +1,99 @@
+{
+  "drug_name": "Rescue medications",
+  "slug": "rescue-medications",
+  "enriched_at": "2026-10-22T12:57:41Z",
+  "source_trial_ids": [
+    "NCT06356311"
+  ],
+  "sponsors": [
+    {
+      "name": "Merck Sharp & Dohme LLC",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Merck%20Sharp%20%26%20Dohme%20LLC&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2730705",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2108889",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Rescue%20medications+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Rescue%20medications+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Rescue%20medications+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Gastroesophageal Cancer",
+    "slug": "gastroesophageal-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06356311",
+      "title": "A Study to Evaluate Sacituzumab Tirumotecan (MK-2870) in Advanced/Metastatic Gastroesophageal Adenocarcinoma (MK-2870-015)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06356311",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42902081",
+        "title": "Intravenous ibuprofen versus ketorolac for acute low back pain in the emergency department: a triple-blind randomized clinical trial.",
+        "pubdate": "2026 Oct 20",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42902081/"
+      },
+      {
+        "pmid": "42887614",
+        "title": "Efficacy and safety of novel nebulized combination of glycopyrronium, formoterol and budesonide in comparison with metered dose inhaler of glycopyrronium, formoterol and budesonide in COPD - A randomized, double-blind, double-dummy clinical trial.",
+        "pubdate": "2026 Oct 16",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42887614/"
+      },
+      {
+        "pmid": "42880720",
+        "title": "Tofacitinib 20 vs 30 mg in acute severe ulcerative colitis: a double-blind randomized controlled trial.",
+        "pubdate": "2026 Oct 9",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42880720/"
+      },
+      {
+        "pmid": "42871156",
+        "title": "Ilioinguinal-Transversus Abdominis Plane (I-TAP) Block with Liposomal Bupivacaine for Analgesia After Cesarean Delivery: A Randomized Controlled Trial.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42871156/"
+      },
+      {
+        "pmid": "42865813",
+        "title": "Liposomal bupivacaine versus ropivacaine thoracic paravertebral block for thoracoscopic atrial septal defect repair: analgesic efficacy and cardiac biomarker outcomes in a single-center, assessor-blinded, randomized trial.",
+        "pubdate": "2026 Sep 30",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42865813/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

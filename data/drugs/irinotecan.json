@@ -1,23 +1,16 @@
 {
   "drug_name": "Irinotecan",
   "slug": "irinotecan",
-  "enriched_at": "2026-08-15T22:18:20Z",
+  "enriched_at": "2026-10-22T12:54:33Z",
   "source_trial_ids": [
-    "NCT06346392",
-    "NCT06625320"
+    "NCT06356311"
   ],
   "sponsors": [
     {
-      "name": "AstraZeneca",
+      "name": "Merck Sharp & Dohme LLC",
       "ticker": null,
       "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=AstraZeneca&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
-      "name": "Revolution Medicines, Inc.",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Revolution%20Medicines%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Merck%20Sharp%20%26%20Dohme%20LLC&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
@@ -52,27 +45,20 @@
     "openfda_generic_names": [
       "IRINOTECAN HYDROCHLORIDE"
     ],
-    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d04f2471-3085-4fc8-a657-bb3918d48e6e",
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b66dbd6d-6ccb-ce9d-e053-2995a90a4c3c",
     "note": null,
     "further_reading": null
   },
   "condition": {
-    "raw": "Gastric Cancer",
-    "slug": "gastric-cancer"
+    "raw": "Gastroesophageal Cancer",
+    "slug": "gastroesophageal-cancer"
   },
   "source_trials": [
     {
-      "nct_id": "NCT06346392",
-      "title": "AZD0901 Compared With Investigator's Choice of Therapy in Participants With Second- or Later-line Advanced or Metastatic Gastric or Gastroesophageal Junction Adenocarcinoma Expressing Claudin18.2",
+      "nct_id": "NCT06356311",
+      "title": "A Study to Evaluate Sacituzumab Tirumotecan (MK-2870) in Advanced/Metastatic Gastroesophageal Adenocarcinoma (MK-2870-015)",
       "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06346392",
-      "has_results": false
-    },
-    {
-      "nct_id": "NCT06625320",
-      "title": "Phase 3 Study of Daraxonrasib (RMC-6236) in Patients With Previously Treated Metastatic Pancreatic Ductal Adenocarcinoma (PDAC)",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06625320",
+      "url": "https://clinicaltrials.gov/study/NCT06356311",
       "has_results": false
     }
   ],
@@ -80,34 +66,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42545685",
-        "title": "Addition of High-Dose Vitamin D3 to Standard Treatment in Patients With Metastatic Colorectal Cancer: The SOLARIS Randomized Clinical Trial (Alliance A021703).",
-        "pubdate": "2026 Aug 3",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42545685/"
+        "pmid": "42861545",
+        "title": "Chemotherapy After Resection of Pancreatic Ductal Adenocarcinoma: Impact of Different Regimens in a Real-World Population.",
+        "pubdate": "2026 Oct 12",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42861545/"
       },
       {
-        "pmid": "42525419",
-        "title": "Maximal Ablative Irradiation Because of Encasement for Patients With Locally Advanced Pancreatic Cancer: A Nonrandomized Clinical Trial.",
-        "pubdate": "2026 Jul 29",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42525419/"
+        "pmid": "42743886",
+        "title": "Circulating free bacterial DNA as a novel biomarker for monitoring therapy response in patients with advanced pancreatic cancer.",
+        "pubdate": "2026 Oct 16",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42743886/"
       },
       {
-        "pmid": "42509089",
-        "title": "Tumour cell density quantified by artificial intelligence is associated with differential benefit from irinotecan-based chemo-radiotherapy in locally advanced rectal cancer: a post-hoc study of the phase 3 ARISTOTLE trial.",
-        "pubdate": "2026 Aug",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42509089/"
+        "pmid": "42735452",
+        "title": "Lurbinectedin plus irinotecan in pretreated gastroenteropancreatic neuroendocrine neoplasms: results of a phase II expansion cohort.",
+        "pubdate": "2026 Sep 14",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42735452/"
       },
       {
-        "pmid": "42508427",
-        "title": "Addition of irinotecan to chemoradiotherapy as preoperative treatment for locally advanced rectal cancer (ARISTOTLE): a multicentre, open-label, phase 3, randomised controlled trial.",
-        "pubdate": "2026 Aug",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42508427/"
+        "pmid": "42733563",
+        "title": "Short-term versus long-course neoadjuvant chemotherapy for resectable and borderline resectable pancreatic ductal adenocarcinoma (PACT-21 CASSANDRA): results from the second randomisation analysis of a randomised, open-label, 2 × 2 factorial phase 3 trial.",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42733563/"
       },
       {
-        "pmid": "42477619",
-        "title": "Efficacy and safety of cetuximab-irinotecan rechallenge versus regorafenib in ras wild-type metastatic colorectal cancer: a single-center exploratory randomized trial.",
-        "pubdate": "2026 Jul 21",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42477619/"
+        "pmid": "42725320",
+        "title": "Systemic treatment of advanced pancreatic cancer: A Comprehensive Review.",
+        "pubdate": "2026 Mar",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42725320/"
       }
     ]
   },

@@ -1,13 +1,14 @@
 {
   "drug_name": "Paclitaxel",
   "slug": "paclitaxel",
-  "enriched_at": "2026-10-18T12:04:25Z",
+  "enriched_at": "2026-10-22T12:55:26Z",
   "source_trial_ids": [
     "NCT04704934",
     "NCT05116462",
     "NCT05984277",
     "NCT06018337",
     "NCT06341335",
+    "NCT06356311",
     "NCT06619236"
   ],
   "sponsors": [
@@ -46,6 +47,12 @@
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Innovent%20Biologics%20%28Suzhou%29%20Co.%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Merck Sharp & Dohme LLC",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Merck%20Sharp%20%26%20Dohme%20LLC&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
@@ -122,6 +129,13 @@
       "title": "A Study of AK104/Placebo Plus AK109/Placebo And Paclitaxel in Gastric or Gastroesophageal Junction Adenocarcinoma",
       "status": "RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT06341335",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06356311",
+      "title": "A Study to Evaluate Sacituzumab Tirumotecan (MK-2870) in Advanced/Metastatic Gastroesophageal Adenocarcinoma (MK-2870-015)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06356311",
       "has_results": false
     },
     {

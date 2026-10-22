@@ -1,12 +1,19 @@
 {
   "drug_name": "docetaxel",
   "slug": "docetaxel",
-  "enriched_at": "2026-10-18T12:00:09Z",
+  "enriched_at": "2026-10-22T12:54:14Z",
   "source_trial_ids": [
     "NCT05132075",
-    "NCT06118333"
+    "NCT06118333",
+    "NCT06356311"
   ],
   "sponsors": [
+    {
+      "name": "Merck Sharp & Dohme LLC",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Merck%20Sharp%20%26%20Dohme%20LLC&type=10-K&dateb=&owner=include&count=40"
+    },
     {
       "name": "Novartis Pharmaceuticals",
       "ticker": null,
@@ -52,7 +59,7 @@
     "openfda_generic_names": [
       "DOCETAXEL ANHYDROUS"
     ],
-    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2fb017fd-e55e-43ef-9024-07f2d412b37b",
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3538b979-8cac-49ed-b8dc-50f73ce38c72",
     "note": null,
     "further_reading": null
   },
@@ -74,11 +81,24 @@
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT06118333",
       "has_results": false
+    },
+    {
+      "nct_id": "NCT06356311",
+      "title": "A Study to Evaluate Sacituzumab Tirumotecan (MK-2870) in Advanced/Metastatic Gastroesophageal Adenocarcinoma (MK-2870-015)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06356311",
+      "has_results": false
     }
   ],
   "prior_results": {
     "ctgov_results_urls": [],
     "pubmed_articles": [
+      {
+        "pmid": "42900475",
+        "title": "Androgen Synthesis Inhibitors vs Androgen Receptor Inhibitors and Survival in Metastatic Hormone-Sensitive Prostate Cancer.",
+        "pubdate": "2026 Oct 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42900475/"
+      },
       {
         "pmid": "42887596",
         "title": "Efficacy and safety of camrelizumab plus docetaxel and carboplatin as neoadjuvant therapy for stage II-III triple-negative breast cancer: the HELEN-Trio 011 randomized clinical trial.",
@@ -102,12 +122,6 @@
         "title": "Full enrollment results from cohort 1 of the phase III randomized THOR trial of erdafitinib versus chemotherapy in FGFR-altered advanced urothelial carcinoma.",
         "pubdate": "2026 Sep 30",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42815410/"
-      },
-      {
-        "pmid": "42807855",
-        "title": "Anlotinib enhances the sensitivity to docetaxel in lung cancer through inhibiting DDR1-mediated glycolytic pathway.",
-        "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42807855/"
       }
     ]
   },

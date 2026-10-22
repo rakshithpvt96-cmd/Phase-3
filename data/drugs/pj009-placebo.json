@@ -1,0 +1,99 @@
+{
+  "drug_name": "PJ009 Placebo",
+  "slug": "pj009-placebo",
+  "enriched_at": "2026-10-22T12:55:50Z",
+  "source_trial_ids": [
+    "NCT06512584"
+  ],
+  "sponsors": [
+    {
+      "name": "Chongqing Peg-Bio Biopharm Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Chongqing%20Peg-Bio%20Biopharm%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "8375",
+      "generic_name": "placebo",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": null,
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=PJ009%20Placebo+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=PJ009%20Placebo+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=PJ009%20Placebo+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Short Bowel Syndrome",
+    "slug": "short-bowel-syndrome"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06512584",
+      "title": "Efficacy and Safety of PJ009 in Patients With Short Bowel Syndrome Requiring Parenteral Nutrition",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06512584",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42902572",
+        "title": "Proenkephalin A and Heterogeneity of Hydrocortisone Treatment Effect in Septic Shock: A Post Hoc Analysis of the VANISH Trial.",
+        "pubdate": "2026 Oct 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42902572/"
+      },
+      {
+        "pmid": "42902396",
+        "title": "Randomised, placebo-controlled study to assess the safety and efficacy of Enterosgel® in the treatment of functional abdominal pain in children and young people (ENTOPIC): study protocol for a clinical trial.",
+        "pubdate": "2026 Jul 25",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42902396/"
+      },
+      {
+        "pmid": "42901423",
+        "title": "Efficacy and safety of QY201, an oral dual Janus kinase 1/tyrosine kinase 2 inhibitor, in adults with moderate-to-severe atopic dermatitis: a multicenter, randomized, double-blind, placebo-controlled phase 2 dose-finding trial.",
+        "pubdate": "2026 Oct 20",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42901423/"
+      },
+      {
+        "pmid": "42898904",
+        "title": "Evaluating IMMPACT Criteria for the Clinical Meaningfulness of Between-Group Differences: Interpreting Randomized Trial Results within a Context of Existing Chronic Pain Analgesics.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42898904/"
+      },
+      {
+        "pmid": "42898854",
+        "title": "Pembrolizumab plus gemcitabine and cisplatin for advanced biliary tract cancer: longer-term follow-up from the randomised, double-blind, placebo-controlled, phase 3 KEYNOTE-966 trial.",
+        "pubdate": "2026 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42898854/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "drug_name": "Trifluridine-Tipiracil",
+  "slug": "trifluridine-tipiracil",
+  "enriched_at": "2026-10-22T13:00:27Z",
+  "source_trial_ids": [
+    "NCT06356311"
+  ],
+  "sponsors": [
+    {
+      "name": "Merck Sharp & Dohme LLC",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Merck%20Sharp%20%26%20Dohme%20LLC&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1670310",
+      "generic_name": "tipiracil / trifluridine",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL235668",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Trifluridine-Tipiracil+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Trifluridine-Tipiracil+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Trifluridine-Tipiracil+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Gastroesophageal Cancer",
+    "slug": "gastroesophageal-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06356311",
+      "title": "A Study to Evaluate Sacituzumab Tirumotecan (MK-2870) in Advanced/Metastatic Gastroesophageal Adenocarcinoma (MK-2870-015)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06356311",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42777178",
+        "title": "Clinical and Proteomic Biomarkers of Trifluridine/Tipiracil in Fluoropyrimidine-Refractory Advanced Pancreatic Adenocarcinoma: A Single-Arm Phase II Trial.",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42777178/"
+      },
+      {
+        "pmid": "42763649",
+        "title": "ctDNA in the Management of Resectable & Advanced Colorectal Cancer: Current Status and Future Directions.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42763649/"
+      },
+      {
+        "pmid": "42428050",
+        "title": "Optimizing third-line and beyond therapies for metastatic colorectal cancer in Taiwan: an evidence-based consensus.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42428050/"
+      },
+      {
+        "pmid": "42260101",
+        "title": "Post-adjuvant chemotherapy in ctDNA-positive patients with resected colorectal cancer: a randomized phase 3 trial.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42260101/"
+      },
+      {
+        "pmid": "42173791",
+        "title": "Matching-Adjusted Indirect Comparison of Sotorasib Plus Panitumumab Versus Trifluridine/Tipiracil Plus Bevacizumab in Chemorefractory Metastatic Colorectal Cancer.",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42173791/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}
