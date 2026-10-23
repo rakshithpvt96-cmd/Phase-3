@@ -1,7 +1,7 @@
 {
   "drug_name": "barzolvolimab",
   "slug": "barzolvolimab",
-  "enriched_at": "2026-10-16T13:11:43Z",
+  "enriched_at": "2026-10-23T13:42:10Z",
   "source_trial_ids": [
     "NCT06445023",
     "NCT06455202"
@@ -102,6 +102,17 @@
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": []
+    "items": [
+      {
+        "name": "LOU064 (blinded)",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Novartis Pharmaceuticals"
+      },
+      {
+        "name": "placebo",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Novartis Pharmaceuticals"
+      }
+    ]
   }
 }

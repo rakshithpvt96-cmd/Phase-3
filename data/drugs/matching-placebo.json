@@ -1,7 +1,7 @@
 {
   "drug_name": "Matching placebo",
   "slug": "matching-placebo",
-  "enriched_at": "2026-10-16T13:15:58Z",
+  "enriched_at": "2026-10-23T13:43:29Z",
   "source_trial_ids": [
     "NCT06445023",
     "NCT06455202"
@@ -68,6 +68,24 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42902396",
+        "title": "Randomised, placebo-controlled study to assess the safety and efficacy of Enterosgel® in the treatment of functional abdominal pain in children and young people (ENTOPIC): study protocol for a clinical trial.",
+        "pubdate": "2026 Jul 25",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42902396/"
+      },
+      {
+        "pmid": "42896861",
+        "title": "Safety and tolerability of anti-toll-like receptor 3, monoclonal antibody PRV-300 in patients with moderate-to-severe ulcerative colitis: a randomized phase 1B clinical trial (PULSE).",
+        "pubdate": "2026 Oct 9",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42896861/"
+      },
+      {
+        "pmid": "42889340",
+        "title": "Clinical evaluation of compound jinji granules in the treatment of primary premature ejaculation: a multicenter, randomized, double-blind, double-dummy, controlled trial.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42889340/"
+      },
+      {
         "pmid": "42874619",
         "title": "Safety and efficacy of delpacibart zotadirsen in Duchenne muscular dystrophy mutations amenable to exon 44 skipping in the USA (EXPLORE44): a randomised, placebo-controlled, double-blind, phase 1/2 trial.",
         "pubdate": "2026 Nov",
@@ -78,30 +96,23 @@
         "title": "Can metformin prolong pregnancy in preterm pre-eclampsia? Study protocol for a Nordic multicentre randomised placebo-controlled trial (PI4).",
         "pubdate": "2026 Oct 13",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42869597/"
-      },
-      {
-        "pmid": "42866928",
-        "title": "Efficacy of Standard Triple Therapy With or Without Statin in Helicobacter pylori Eradication: A Randomized Double-Blind Placebo-Controlled Trial.",
-        "pubdate": "2026 Sep-Oct",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42866928/"
-      },
-      {
-        "pmid": "42866128",
-        "title": "Wangshi Baochi Pill for functional dyspepsia syndrome in infants and toddlers: a multicenter randomized placebo-controlled trial.",
-        "pubdate": "2026 Sep 30",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42866128/"
-      },
-      {
-        "pmid": "42851802",
-        "title": "SGLT2 inhibitors, semaglutide, and finerenone in diabetic kidney disease: a Bayesian network meta-analysis.",
-        "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42851802/"
       }
     ]
   },
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": []
+    "items": [
+      {
+        "name": "LOU064 (blinded)",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Novartis Pharmaceuticals"
+      },
+      {
+        "name": "placebo",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Novartis Pharmaceuticals"
+      }
+    ]
   }
 }

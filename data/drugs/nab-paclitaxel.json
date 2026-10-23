@@ -1,7 +1,7 @@
 {
   "drug_name": "Nab-paclitaxel",
   "slug": "nab-paclitaxel",
-  "enriched_at": "2026-10-16T13:16:51Z",
+  "enriched_at": "2026-10-23T13:43:53Z",
   "source_trial_ids": [
     "NCT05116462",
     "NCT05254171",
@@ -128,6 +128,32 @@
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": []
+    "items": [
+      {
+        "name": "Palazestrant",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Olema Pharmaceuticals, Inc."
+      },
+      {
+        "name": "Fulvestrant",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Olema Pharmaceuticals, Inc."
+      },
+      {
+        "name": "Anastrozole",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Olema Pharmaceuticals, Inc."
+      },
+      {
+        "name": "Letrozole",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Olema Pharmaceuticals, Inc."
+      },
+      {
+        "name": "Exemestane",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Olema Pharmaceuticals, Inc."
+      }
+    ]
   }
 }

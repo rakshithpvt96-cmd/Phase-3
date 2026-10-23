@@ -1,7 +1,7 @@
 {
   "drug_name": "HL-1186",
   "slug": "hl-1186",
-  "enriched_at": "2026-10-16T13:24:50Z",
+  "enriched_at": "2026-10-23T13:47:06Z",
   "source_trial_ids": [
     "NCT07699601",
     "NCT07709598"
@@ -71,17 +71,6 @@
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": [
-      {
-        "name": "CPL-01",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Cali Pharmaceuticals LLC"
-      },
-      {
-        "name": "saline placebo",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Cali Pharmaceuticals LLC"
-      }
-    ]
+    "items": []
   }
 }

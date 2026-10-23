@@ -1,9 +1,8 @@
 {
   "drug_name": "Dazodalibep",
   "slug": "dazodalibep",
-  "enriched_at": "2026-10-16T13:12:57Z",
+  "enriched_at": "2026-10-23T13:42:32Z",
   "source_trial_ids": [
-    "NCT06104124",
     "NCT06245408"
   ],
   "sponsors": [
@@ -45,17 +44,10 @@
     }
   },
   "condition": {
-    "raw": "Sjogren's Syndrome",
-    "slug": "sjogren-s-syndrome"
+    "raw": "Sjögren's Syndrome (SS)",
+    "slug": "sj-gren-s-syndrome-ss"
   },
   "source_trials": [
-    {
-      "nct_id": "NCT06104124",
-      "title": "A Study to Evaluate the Efficacy and Safety of Dazodalibep in Participants With Sjögren's Syndrome (SS) With Moderate-to-severe Systemic Disease Activity",
-      "status": "COMPLETED",
-      "url": "https://clinicaltrials.gov/study/NCT06104124",
-      "has_results": false
-    },
     {
       "nct_id": "NCT06245408",
       "title": "A Safety and Efficacy Study of Dazodalibep in Participants With Sjögren's Syndrome (SS) With Moderate-to-Severe Symptom State",
