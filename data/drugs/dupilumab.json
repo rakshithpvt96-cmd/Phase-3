@@ -1,7 +1,7 @@
 {
   "drug_name": "Dupilumab",
   "slug": "dupilumab",
-  "enriched_at": "2026-09-23T12:38:41Z",
+  "enriched_at": "2026-10-23T12:42:52Z",
   "source_trial_ids": [
     "NCT02612454"
   ],
@@ -60,34 +60,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42770623",
-        "title": "Beyond Omalizumab: Emerging Biologic and Small Molecule Therapies in Chronic Spontaneous Urticaria.",
-        "pubdate": "2026 Sep 22",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42770623/"
+        "pmid": "42895209",
+        "title": "Long-term efficacy of lebrikizumab in treating head, neck and face involvement in patients with moderate-to-severe atopic dermatitis.",
+        "pubdate": "2026 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42895209/"
       },
       {
-        "pmid": "42764892",
-        "title": "Dupilumab Improves Lung Function and Reduces Severe Exacerbations in Patients from China with Type 2 Asthma: A Subgroup Analysis of a Phase 3 Randomized Trial.",
-        "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42764892/"
+        "pmid": "42836357",
+        "title": "Clinical Trial: Dupilumab Improves Eosinophilic Oesophagitis Outcomes Versus Placebo Regardless of Comorbidities or Treatment History in a Randomised Clinical Trial.",
+        "pubdate": "2026 Oct 6",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42836357/"
       },
       {
-        "pmid": "42716513",
-        "title": "Efficacy and Predictors of Response to Biologic Therapy and Endoscopic Sinus Surgery in Patients With Nasal Polyps: A Systematic Review.",
-        "pubdate": "2026 Sep 9",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42716513/"
+        "pmid": "42825999",
+        "title": "Tralokinumab Versus Dupilumab for the Treatment of Atopic Dermatitis with Moderate-to-Severe Hand Involvement: A Matching-Adjusted Indirect Comparison.",
+        "pubdate": "2026 Oct 2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42825999/"
       },
       {
-        "pmid": "42685907",
-        "title": "Efficacy of abrocitinib and dupilumab on chronic hand eczema in patients with moderate-to-severe atopic dermatitis: a prespecified exploratory analysis of the phase 3 JADE DARE study.",
-        "pubdate": "2026 Sep 2",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42685907/"
+        "pmid": "42797344",
+        "title": "Chronic Spontaneous Urticaria in the Era of Targeted Therapy: From Pathogenic Mechanisms to Precision Medicine.",
+        "pubdate": "2026 Sep 16",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42797344/"
       },
       {
-        "pmid": "42658181",
-        "title": "Dupilumab Improves Endoscopic Features in Adult and Adolescent Patients With Eosinophilic Esophagitis: Post Hoc Analysis of LIBERTY EoE TREET Study.",
-        "pubdate": "2026 Aug 27",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42658181/"
+        "pmid": "42776801",
+        "title": "Targeted Therapy for Antihistamine-Refractory Chronic Spontaneous Urticaria: A Critical Narrative Review and an Evidence-Graded Approach to Agent Selection.",
+        "pubdate": "2026 Sep 17",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42776801/"
       }
     ]
   },
@@ -96,9 +96,29 @@
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
     "items": [
       {
-        "name": "Rocatinlimab",
+        "name": "Ruxolitinib",
         "chembl_id": null,
-        "reason": "same indication trial, sponsor: Amgen"
+        "reason": "same indication trial, sponsor: Incyte Corporation"
+      },
+      {
+        "name": "Vehicle Cream",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Incyte Corporation"
+      },
+      {
+        "name": "CM310",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Keymed Biosciences Co.Ltd"
+      },
+      {
+        "name": "Tralokinumab + TCS",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: LEO Pharma"
+      },
+      {
+        "name": "Placebo + TCS",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: LEO Pharma"
       },
       {
         "name": "Upadacitinib 15mg Dose",
@@ -114,21 +134,6 @@
         "name": "Upadacitinib 30mg Dose",
         "chembl_id": null,
         "reason": "same indication trial, sponsor: AbbVie"
-      },
-      {
-        "name": "Ruxolitinib",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Incyte Corporation"
-      },
-      {
-        "name": "Vehicle Cream",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Incyte Corporation"
-      },
-      {
-        "name": "CM310",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Keymed Biosciences Co.Ltd"
       }
     ]
   }
