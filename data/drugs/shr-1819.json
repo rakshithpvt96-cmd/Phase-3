@@ -1,7 +1,7 @@
 {
   "drug_name": "SHR-1819",
   "slug": "shr-1819",
-  "enriched_at": "2026-10-16T13:49:48Z",
+  "enriched_at": "2026-10-23T14:07:43Z",
   "source_trial_ids": [
     "NCT06468956"
   ],
@@ -63,6 +63,17 @@
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": []
+    "items": [
+      {
+        "name": "Methotrexate",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: medac GmbH"
+      },
+      {
+        "name": "Placebo",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: medac GmbH"
+      }
+    ]
   }
 }
