@@ -1,89 +1,12 @@
 {
-  "generated_at": "2026-10-22T14:24:25Z",
+  "generated_at": "2026-10-23T12:28:38Z",
   "window_upcoming_days": 14,
   "window_lookback_days": [
     1,
     90
   ],
-  "trial_count": 293,
+  "trial_count": 290,
   "trials": [
-    {
-      "nct_id": "NCT06067230",
-      "title": "A Study to Investigate the Immunogenicity and Safety of mRNA-1345 Vaccine Targeting Respiratory Syncytial Virus (RSV) in High-risk Adults",
-      "status": "COMPLETED",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "ModernaTX, Inc.",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-07-24",
-      "primary_completion_date_type": "ACTUAL",
-      "window": "lookback",
-      "conditions": [
-        "Respiratory Syncytial Virus"
-      ],
-      "interventions": [
-        {
-          "name": "mRNA-1345",
-          "type": "BIOLOGICAL"
-        }
-      ],
-      "drug_names": [
-        "mRNA-1345"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT06067230",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "ModernaTX, Inc.",
-        "ticker": null,
-        "cik": null,
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=ModernaTX%2C%20Inc.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-19T14:27:09Z"
-      }
-    },
-    {
-      "nct_id": "NCT07222384",
-      "title": "A Study to Learn About BNT162b2 (LP.8.1)-Adapted Vaccine Against SARS-CoV-2 in Children 5 Through 11 Years of Age That Are Considered at Higher Risk of Severe COVID-19",
-      "status": "COMPLETED",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "BioNTech SE",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-07-24",
-      "primary_completion_date_type": "ACTUAL",
-      "window": "lookback",
-      "conditions": [
-        "COVID-19",
-        "SARS-COV-2 Infection"
-      ],
-      "interventions": [
-        {
-          "name": "BNT162b2 (2025/2026 formulation)",
-          "type": "BIOLOGICAL"
-        }
-      ],
-      "drug_names": [
-        "BNT162b2 (2025/2026 formulation)"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT07222384",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "BioNTech SE",
-        "ticker": "BNTX",
-        "cik": "0001776985",
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001776985&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-19T14:26:56Z"
-      }
-    },
     {
       "nct_id": "NCT04884360",
       "title": "D9319C00001- 1L OC Mono Global RCT",
@@ -472,49 +395,6 @@
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Shenyang%20Sunshine%20Pharmaceutical%20Co.%2C%20LTD.&type=10-K&dateb=&owner=include&count=40",
         "cached_at": "2026-10-19T14:27:17Z"
-      }
-    },
-    {
-      "nct_id": "NCT03711032",
-      "title": "Efficacy and Safety of Pembrolizumab (MK-3475) in Combination With Bacillus Calmette-Guerin (BCG) in High-Risk Non-Muscle Invasive Bladder Cancer (HR NMIBC) (MK-3475-676/KEYNOTE-676)",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "Merck Sharp & Dohme LLC",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-07-31",
-      "primary_completion_date_type": "ESTIMATED",
-      "window": "lookback",
-      "conditions": [
-        "High-risk Non-muscle Invasive Bladder Cancer"
-      ],
-      "interventions": [
-        {
-          "name": "Pembrolizumab",
-          "type": "BIOLOGICAL"
-        },
-        {
-          "name": "BCG",
-          "type": "BIOLOGICAL"
-        }
-      ],
-      "drug_names": [
-        "Pembrolizumab",
-        "BCG"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT03711032",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "Merck Sharp & Dohme LLC",
-        "ticker": null,
-        "cik": null,
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Merck%20Sharp%20%26%20Dohme%20LLC&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-19T14:27:08Z"
       }
     },
     {
@@ -4007,44 +3887,6 @@
       }
     },
     {
-      "nct_id": "NCT07023341",
-      "title": "A Study to Learn More About How Well Aficamten Works in Japanese Participants With Symptomatic Obstructive Hypertrophic Cardiomyopathy",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "Bayer",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-08-31",
-      "primary_completion_date_type": "ESTIMATED",
-      "window": "lookback",
-      "conditions": [
-        "Obstructive Hypertrophic Cardiomyopathy"
-      ],
-      "interventions": [
-        {
-          "name": "BAY3723113",
-          "type": "DRUG"
-        }
-      ],
-      "drug_names": [
-        "BAY3723113"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT07023341",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "Bayer",
-        "ticker": null,
-        "cik": null,
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Bayer&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-19T14:26:54Z"
-      }
-    },
-    {
       "nct_id": "NCT07060885",
       "title": "A Research Study of House Dust Mite (HDM) SLIT-tablet for the Treatment of HDM Allergy in Chinese Participants Aged 12-65",
       "status": "COMPLETED",
@@ -6473,6 +6315,59 @@
       }
     },
     {
+      "nct_id": "NCT04129502",
+      "title": "TAK-788 as First-Line Treatment Versus Platinum-Based Chemotherapy for Non-Small Cell Lung Cancer (NSCLC) With EGFR Exon 20 Insertion Mutations",
+      "status": "COMPLETED",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Takeda",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-09-22",
+      "primary_completion_date_type": "ACTUAL",
+      "window": "lookback",
+      "conditions": [
+        "Advanced/Metastatic Non-Small Cell Lung Cancer (NSCLC)"
+      ],
+      "interventions": [
+        {
+          "name": "TAK-788",
+          "type": "DRUG"
+        },
+        {
+          "name": "Pemetrexed",
+          "type": "DRUG"
+        },
+        {
+          "name": "Cisplatin",
+          "type": "DRUG"
+        },
+        {
+          "name": "Carboplatin",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "TAK-788",
+        "Pemetrexed",
+        "Cisplatin",
+        "Carboplatin"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT04129502",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Takeda",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Takeda&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-10-19T14:27:17Z"
+      }
+    },
+    {
       "nct_id": "NCT06125951",
       "title": "Effect of 10 mg Xanamem on Dementia Due to Alzheimer's Disease",
       "status": "ACTIVE_NOT_RECRUITING",
@@ -6560,6 +6455,44 @@
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001776985&type=10-K&dateb=&owner=include&count=40",
         "cached_at": "2026-10-19T14:26:56Z"
+      }
+    },
+    {
+      "nct_id": "NCT06738485",
+      "title": "Recombinant Single-chain Factor VIII (rVIII-SingleChain) in Chinese Participants With Hemophilia A Previously Treated With FVIII Products",
+      "status": "COMPLETED",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "CSL Behring",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-09-23",
+      "primary_completion_date_type": "ACTUAL",
+      "window": "lookback",
+      "conditions": [
+        "Congenital Hemophilia A"
+      ],
+      "interventions": [
+        {
+          "name": "Recombinant single-chain factor VIII (rVIII-SingleChain)",
+          "type": "BIOLOGICAL"
+        }
+      ],
+      "drug_names": [
+        "Recombinant single-chain factor VIII (rVIII-SingleChain)"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06738485",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "CSL Behring",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=CSL%20Behring&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-10-20T12:35:22Z"
       }
     },
     {
@@ -10382,7 +10315,7 @@
       "sponsor_class": "INDUSTRY",
       "primary_completion_date": "2026-10-22",
       "primary_completion_date_type": "ESTIMATED",
-      "window": "upcoming",
+      "window": "lookback",
       "conditions": [
         "Progressive Multiple Sclerosis (PMS)"
       ],
@@ -10420,7 +10353,7 @@
       "sponsor_class": "INDUSTRY",
       "primary_completion_date": "2026-10-22",
       "primary_completion_date_type": "ESTIMATED",
-      "window": "upcoming",
+      "window": "lookback",
       "conditions": [
         "Sjögren's Syndrome (SS)"
       ],
@@ -10574,44 +10507,6 @@
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Novartis%20Pharmaceuticals&type=10-K&dateb=&owner=include&count=40",
         "cached_at": "2026-10-19T14:27:09Z"
-      }
-    },
-    {
-      "nct_id": "NCT06738485",
-      "title": "Recombinant Single-chain Factor VIII (rVIII-SingleChain) in Chinese Participants With Hemophilia A Previously Treated With FVIII Products",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "CSL Behring",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-10-26",
-      "primary_completion_date_type": "ESTIMATED",
-      "window": "upcoming",
-      "conditions": [
-        "Congenital Hemophilia A"
-      ],
-      "interventions": [
-        {
-          "name": "Recombinant single-chain factor VIII (rVIII-SingleChain)",
-          "type": "BIOLOGICAL"
-        }
-      ],
-      "drug_names": [
-        "Recombinant single-chain factor VIII (rVIII-SingleChain)"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT06738485",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "CSL Behring",
-        "ticker": null,
-        "cik": null,
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=CSL%20Behring&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-20T12:35:22Z"
       }
     },
     {
@@ -11193,59 +11088,6 @@
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000873303&type=10-K&dateb=&owner=include&count=40",
         "cached_at": "2026-10-17T11:28:36Z"
-      }
-    },
-    {
-      "nct_id": "NCT04129502",
-      "title": "TAK-788 as First-Line Treatment Versus Platinum-Based Chemotherapy for Non-Small Cell Lung Cancer (NSCLC) With EGFR Exon 20 Insertion Mutations",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "Takeda",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-10-31",
-      "primary_completion_date_type": "ESTIMATED",
-      "window": "upcoming",
-      "conditions": [
-        "Advanced/Metastatic Non-Small Cell Lung Cancer (NSCLC)"
-      ],
-      "interventions": [
-        {
-          "name": "TAK-788",
-          "type": "DRUG"
-        },
-        {
-          "name": "Pemetrexed",
-          "type": "DRUG"
-        },
-        {
-          "name": "Cisplatin",
-          "type": "DRUG"
-        },
-        {
-          "name": "Carboplatin",
-          "type": "DRUG"
-        }
-      ],
-      "drug_names": [
-        "TAK-788",
-        "Pemetrexed",
-        "Cisplatin",
-        "Carboplatin"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT04129502",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "Takeda",
-        "ticker": null,
-        "cik": null,
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Takeda&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-19T14:27:17Z"
       }
     },
     {
@@ -12556,6 +12398,49 @@
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Lynk%20Pharmaceuticals%20Co.%2C%20Ltd&type=10-K&dateb=&owner=include&count=40",
         "cached_at": "2026-10-18T11:58:28Z"
+      }
+    },
+    {
+      "nct_id": "NCT07246590",
+      "title": "Cantharidin Application in Patients With Common Warts (Verruca Vulgaris) (COVE-2)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Verrica Pharmaceuticals Inc.",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-11",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Common Warts",
+        "Common Warts (Verruca Vulgaris)",
+        "Human Papilloma Virus (HPV)",
+        "Warts"
+      ],
+      "interventions": [
+        {
+          "name": "VP-102",
+          "type": "COMBINATION_PRODUCT"
+        },
+        {
+          "name": "Vehicle",
+          "type": "COMBINATION_PRODUCT"
+        }
+      ],
+      "drug_names": [],
+      "url": "https://clinicaltrials.gov/study/NCT07246590",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Verrica Pharmaceuticals Inc.",
+        "ticker": "VRCA",
+        "cik": "0001660334",
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001660334&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-10-23T12:28:37Z"
       }
     },
     {
