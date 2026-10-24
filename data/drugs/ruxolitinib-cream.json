@@ -1,7 +1,7 @@
 {
   "drug_name": "Ruxolitinib Cream",
   "slug": "ruxolitinib-cream",
-  "enriched_at": "2026-10-17T11:33:29Z",
+  "enriched_at": "2026-10-24T11:54:53Z",
   "source_trial_ids": [
     "NCT06958211",
     "NCT06959225"
@@ -103,11 +103,6 @@
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
     "items": [
-      {
-        "name": "Bimekizumab",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: UCB Biopharma SRL"
-      },
       {
         "name": "Sonelokimab",
         "chembl_id": null,

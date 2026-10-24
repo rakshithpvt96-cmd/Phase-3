@@ -1,7 +1,7 @@
 {
   "drug_name": "HRS-1893 Placebo Tablets",
   "slug": "hrs-1893-placebo-tablets",
-  "enriched_at": "2026-10-17T11:31:22Z",
+  "enriched_at": "2026-10-24T11:54:04Z",
   "source_trial_ids": [
     "NCT07021976"
   ],
@@ -63,12 +63,6 @@
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": [
-      {
-        "name": "BAY3723113",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Bayer"
-      }
-    ]
+    "items": []
   }
 }

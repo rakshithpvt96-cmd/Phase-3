@@ -1,7 +1,7 @@
 {
   "drug_name": "TQB2450 placebo + Anlotinib placebo",
   "slug": "tqb2450-placebo-anlotinib-placebo",
-  "enriched_at": "2026-10-17T11:45:41Z",
+  "enriched_at": "2026-10-24T12:02:05Z",
   "source_trial_ids": [
     "NCT06469879"
   ],
@@ -23,7 +23,7 @@
   "mechanism": {
     "chembl_id": "CHEMBL4303201",
     "target_chembl_id": "CHEMBL279",
-    "target_name": "Vascular endothelial growth factor receptor 2",
+    "target_name": null,
     "mechanism_of_action_chembl": "Vascular endothelial growth factor receptor 2 inhibitor"
   },
   "fda_label": {
@@ -61,59 +61,8 @@
     "pubmed_articles": []
   },
   "related_drugs": {
-    "method": "chembl_same_target",
+    "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": [
-      {
-        "name": "CABOZANTINIB S-MALATE",
-        "chembl_id": "CHEMBL2103868",
-        "reason": "same target: Vascular endothelial growth factor receptor 2"
-      },
-      {
-        "name": "RAMUCIRUMAB",
-        "chembl_id": "CHEMBL1743062",
-        "reason": "same target: Vascular endothelial growth factor receptor 2"
-      },
-      {
-        "name": "ENMD-981693",
-        "chembl_id": "CHEMBL52885",
-        "reason": "same target: Vascular endothelial growth factor receptor 2"
-      },
-      {
-        "name": "BMS-794833",
-        "chembl_id": "CHEMBL2143592",
-        "reason": "same target: Vascular endothelial growth factor receptor 2"
-      },
-      {
-        "name": "BMS-817378",
-        "chembl_id": "CHEMBL3545050",
-        "reason": "same target: Vascular endothelial growth factor receptor 2"
-      },
-      {
-        "name": "CM-082",
-        "chembl_id": "CHEMBL3545427",
-        "reason": "same target: Vascular endothelial growth factor receptor 2"
-      },
-      {
-        "name": "CYC-116",
-        "chembl_id": "CHEMBL482967",
-        "reason": "same target: Vascular endothelial growth factor receptor 2"
-      },
-      {
-        "name": "ALTIRATINIB",
-        "chembl_id": "CHEMBL3545365",
-        "reason": "same target: Vascular endothelial growth factor receptor 2"
-      },
-      {
-        "name": "PF-00337210",
-        "chembl_id": "CHEMBL1738697",
-        "reason": "same target: Vascular endothelial growth factor receptor 2"
-      },
-      {
-        "name": "TAS-115",
-        "chembl_id": "CHEMBL3764045",
-        "reason": "same target: Vascular endothelial growth factor receptor 2"
-      }
-    ]
+    "items": []
   }
 }

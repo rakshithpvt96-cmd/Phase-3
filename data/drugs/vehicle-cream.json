@@ -1,7 +1,7 @@
 {
   "drug_name": "Vehicle Cream",
   "slug": "vehicle-cream",
-  "enriched_at": "2026-10-17T11:35:43Z",
+  "enriched_at": "2026-10-24T11:55:51Z",
   "source_trial_ids": [
     "NCT06403501",
     "NCT06832618",
@@ -144,6 +144,21 @@
         "name": "Placebo + TCS",
         "chembl_id": null,
         "reason": "same indication trial, sponsor: LEO Pharma"
+      },
+      {
+        "name": "Upadacitinib 15mg Dose",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: AbbVie"
+      },
+      {
+        "name": "Dupilumab 300mg Dose",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: AbbVie"
+      },
+      {
+        "name": "Upadacitinib 30mg Dose",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: AbbVie"
       }
     ]
   }
