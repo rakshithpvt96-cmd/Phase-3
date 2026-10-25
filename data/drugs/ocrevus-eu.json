@@ -1,7 +1,7 @@
 {
   "drug_name": "Ocrevus-EU",
   "slug": "ocrevus-eu",
-  "enriched_at": "2026-10-18T12:03:26Z",
+  "enriched_at": "2026-10-25T12:25:52Z",
   "source_trial_ids": [
     "NCT06847724"
   ],
@@ -64,16 +64,6 @@
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
     "items": [
-      {
-        "name": "Remibrutinib",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Novartis Pharmaceuticals"
-      },
-      {
-        "name": "Teriflunomide",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Novartis Pharmaceuticals"
-      },
       {
         "name": "Ublituximab",
         "chembl_id": null,
