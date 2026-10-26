@@ -1,107 +1,12 @@
 {
-  "generated_at": "2026-10-25T13:36:46Z",
+  "generated_at": "2026-10-26T13:59:44Z",
   "window_upcoming_days": 14,
   "window_lookback_days": [
     1,
     90
   ],
-  "trial_count": 290,
+  "trial_count": 287,
   "trials": [
-    {
-      "nct_id": "NCT04884360",
-      "title": "D9319C00001- 1L OC Mono Global RCT",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "AstraZeneca",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-07-27",
-      "primary_completion_date_type": "ESTIMATED",
-      "window": "lookback",
-      "conditions": [
-        "Ovarian Cancer"
-      ],
-      "interventions": [
-        {
-          "name": "Olaparib",
-          "type": "DRUG"
-        },
-        {
-          "name": "Matching placebo",
-          "type": "OTHER"
-        }
-      ],
-      "drug_names": [
-        "Olaparib"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT04884360",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "AstraZeneca",
-        "ticker": "AZN",
-        "cik": "0000901832",
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000901832&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-19T14:26:53Z"
-      }
-    },
-    {
-      "nct_id": "NCT05608291",
-      "title": "A Trial to See if the Combination of Fianlimab With Cemiplimab Works Better Than Pembrolizumab for Preventing or Delaying Melanoma From Coming Back After it Has Been Removed With Surgery",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "Regeneron Pharmaceuticals",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-07-27",
-      "primary_completion_date_type": "ESTIMATED",
-      "window": "lookback",
-      "conditions": [
-        "Melanoma"
-      ],
-      "interventions": [
-        {
-          "name": "Fianlimab",
-          "type": "DRUG"
-        },
-        {
-          "name": "Cemiplimab",
-          "type": "DRUG"
-        },
-        {
-          "name": "Pembrolizumab",
-          "type": "DRUG"
-        },
-        {
-          "name": "Placebo",
-          "type": "DRUG"
-        }
-      ],
-      "drug_names": [
-        "Fianlimab",
-        "Cemiplimab",
-        "Pembrolizumab",
-        "Placebo"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT05608291",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "Regeneron Pharmaceuticals",
-        "ticker": "REGN",
-        "cik": "0000872589",
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000872589&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-19T14:27:15Z"
-      }
-    },
     {
       "nct_id": "NCT07343778",
       "title": "A Clinical Trial Evaluating the Safety of Hydronidone Capsules in Patients With Hepatic Fibrosis and Liver Cirrhosis",
@@ -1501,45 +1406,6 @@
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Sinovac%20%28Dalian%29%20Vaccine%20Technology%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
         "cached_at": "2026-10-19T14:27:17Z"
-      }
-    },
-    {
-      "nct_id": "NCT06174987",
-      "title": "A Study to Provide Continued Access to and Assess Long-Term Safety of the Study Drug(s)",
-      "status": "RECRUITING",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "Daiichi Sankyo",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-08-03",
-      "primary_completion_date_type": "ESTIMATED",
-      "window": "lookback",
-      "conditions": [
-        "Advanced Cancer",
-        "Metastatic Cancer"
-      ],
-      "interventions": [
-        {
-          "name": "T-DXd",
-          "type": "DRUG"
-        }
-      ],
-      "drug_names": [
-        "T-DXd"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT06174987",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "Daiichi Sankyo",
-        "ticker": null,
-        "cik": null,
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Daiichi%20Sankyo&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-19T14:27:02Z"
       }
     },
     {
@@ -11134,48 +11000,6 @@
       }
     },
     {
-      "nct_id": "NCT05077904",
-      "title": "A Study to Test the Efficacy and Safety of Staccato Alprazolam in Study Participants 12 Years of Age and Older With Stereotypical Prolonged Seizures",
-      "status": "RECRUITING",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "UCB Biopharma SRL",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-10-31",
-      "primary_completion_date_type": "ESTIMATED",
-      "window": "upcoming",
-      "conditions": [
-        "Stereotypical Prolonged Seizures"
-      ],
-      "interventions": [
-        {
-          "name": "Staccato alprazolam",
-          "type": "DRUG"
-        },
-        {
-          "name": "Placebo",
-          "type": "OTHER"
-        }
-      ],
-      "drug_names": [
-        "Staccato alprazolam"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT05077904",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "UCB Biopharma SRL",
-        "ticker": null,
-        "cik": null,
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=UCB%20Biopharma%20SRL&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-19T14:27:17Z"
-      }
-    },
-    {
       "nct_id": "NCT06016738",
       "title": "OP-1250 (Palazestrant) vs. Standard of Care for the Treatment of ER+/HER2- Advanced Breast Cancer",
       "status": "ACTIVE_NOT_RECRUITING",
@@ -13038,6 +12862,49 @@
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=CMG%20Pharmaceutical%20Co.%20Ltd&type=10-K&dateb=&owner=include&count=40",
         "cached_at": "2026-10-21T12:46:53Z"
+      }
+    },
+    {
+      "nct_id": "NCT06640777",
+      "title": "Efficacy and Safety of LEAF-4L6715 for Acute Respiratory Distress Syndrome",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "LEAF4Life, Inc.",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-11-09",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Acute Respiratory Distress Syndrome"
+      ],
+      "interventions": [
+        {
+          "name": "LEAF-4L6715",
+          "type": "DRUG"
+        },
+        {
+          "name": "Supportive Care",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "LEAF-4L6715",
+        "Supportive Care"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06640777",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "LEAF4Life, Inc.",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=LEAF4Life%2C%20Inc.&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-10-26T13:59:44Z"
       }
     }
   ]
