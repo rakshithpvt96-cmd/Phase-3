@@ -1,16 +1,16 @@
 {
   "drug_name": "Apatinib",
   "slug": "apatinib",
-  "enriched_at": "2026-08-23T07:37:13Z",
+  "enriched_at": "2026-10-27T13:02:58Z",
   "source_trial_ids": [
-    "NCT06346392"
+    "NCT06351020"
   ],
   "sponsors": [
     {
-      "name": "AstraZeneca",
-      "ticker": "AZN",
+      "name": "LaNova Medicines Zhejiang Co., Ltd.",
+      "ticker": null,
       "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000901832&type=10-K&dateb=&owner=include&count=40"
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=LaNova%20Medicines%20Zhejiang%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
@@ -50,15 +50,15 @@
     }
   },
   "condition": {
-    "raw": "Gastric Cancer",
-    "slug": "gastric-cancer"
+    "raw": "Locally Advanced or Metastatic GC and GCJ Adenocarcinoma",
+    "slug": "locally-advanced-or-metastatic-gc-and-gcj-adenocarcinoma"
   },
   "source_trials": [
     {
-      "nct_id": "NCT06346392",
-      "title": "AZD0901 Compared With Investigator's Choice of Therapy in Participants With Second- or Later-line Advanced or Metastatic Gastric or Gastroesophageal Junction Adenocarcinoma Expressing Claudin18.2",
+      "nct_id": "NCT06351020",
+      "title": "LM-302 for the Treatment of Subjects With Claudin18.2-Positive Gastric and Gastroesophageal Junction Adenocarcinoma.",
       "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06346392",
+      "url": "https://clinicaltrials.gov/study/NCT06351020",
       "has_results": false
     }
   ],
@@ -100,17 +100,6 @@
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": [
-      {
-        "name": "Docetaxel for injection (Albumin-bound)",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: CSPC ZhongQi Pharmaceutical Technology Co., Ltd."
-      },
-      {
-        "name": "Taxotere (docetaxel)",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: CSPC ZhongQi Pharmaceutical Technology Co., Ltd."
-      }
-    ]
+    "items": []
   }
 }

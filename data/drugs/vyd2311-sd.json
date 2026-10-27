@@ -1,7 +1,7 @@
 {
   "drug_name": "VYD2311-SD",
   "slug": "vyd2311-sd",
-  "enriched_at": "2026-10-20T12:47:37Z",
+  "enriched_at": "2026-10-27T13:11:14Z",
   "source_trial_ids": [
     "NCT07298434"
   ],
@@ -64,11 +64,6 @@
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
     "items": [
-      {
-        "name": "BNT162b2 (2025/2026 formulation)",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: BioNTech SE"
-      },
       {
         "name": "nirmatrelvir",
         "chembl_id": null,

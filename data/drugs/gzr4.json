@@ -1,9 +1,10 @@
 {
   "drug_name": "GZR4",
   "slug": "gzr4",
-  "enriched_at": "2026-10-20T12:41:18Z",
+  "enriched_at": "2026-10-27T13:06:02Z",
   "source_trial_ids": [
-    "NCT06767735"
+    "NCT06767735",
+    "NCT07165223"
   ],
   "sponsors": [
     {
@@ -49,6 +50,13 @@
       "title": "A Phase III Clinical Study to Assess the Efficacy and Safety of GZR4 in Insulin-naive Subjects With Type 2 Diabetes Mellitus (T2DM)",
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT06767735",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT07165223",
+      "title": "A Phase IIIb Clinical Study to Assess the Efficacy and Safety of GZR4 in Subjects With Type 2 Diabetes Mellitus Treated With Basal Insulin",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07165223",
       "has_results": false
     }
   ],

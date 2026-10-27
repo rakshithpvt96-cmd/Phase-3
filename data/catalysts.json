@@ -1,50 +1,12 @@
 {
-  "generated_at": "2026-10-26T15:56:52Z",
+  "generated_at": "2026-10-27T13:02:41Z",
   "window_upcoming_days": 14,
   "window_lookback_days": [
     1,
     90
   ],
-  "trial_count": 287,
+  "trial_count": 288,
   "trials": [
-    {
-      "nct_id": "NCT07343778",
-      "title": "A Clinical Trial Evaluating the Safety of Hydronidone Capsules in Patients With Hepatic Fibrosis and Liver Cirrhosis",
-      "status": "COMPLETED",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "Beijing Continent Pharmaceutical Co, Ltd.",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-07-28",
-      "primary_completion_date_type": "ACTUAL",
-      "window": "lookback",
-      "conditions": [
-        "Chronic Hepatitis B With Hepatic Fibrosis"
-      ],
-      "interventions": [
-        {
-          "name": "Hydronidone Capsules",
-          "type": "DRUG"
-        }
-      ],
-      "drug_names": [
-        "Hydronidone Capsules"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT07343778",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "Beijing Continent Pharmaceutical Co, Ltd.",
-        "ticker": null,
-        "cik": null,
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Beijing%20Continent%20Pharmaceutical%20Co%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-26T14:49:57Z"
-      }
-    },
     {
       "nct_id": "NCT04724369",
       "title": "Open-Label Study of 18F-mFBG for Imaging Neuroblastoma",
@@ -2375,7 +2337,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001885522&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-20T12:35:25Z"
+        "cached_at": "2026-10-27T13:02:39Z"
       }
     },
     {
@@ -2491,7 +2453,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Genmab&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-20T12:35:24Z"
+        "cached_at": "2026-10-27T13:02:37Z"
       }
     },
     {
@@ -2968,7 +2930,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hutchmed&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-20T12:35:24Z"
+        "cached_at": "2026-10-27T13:02:37Z"
       }
     },
     {
@@ -3134,7 +3096,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Bracco%20Diagnostics%2C%20Inc&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-20T12:35:22Z"
+        "cached_at": "2026-10-27T13:02:36Z"
       }
     },
     {
@@ -4388,93 +4350,6 @@
       }
     },
     {
-      "nct_id": "NCT06235151",
-      "title": "Copper Cu 64 PSMA I&T PET Imaging in Men With Newly Diagnosed Prostate Cancer",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "Curium US LLC",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-09",
-      "primary_completion_date_type": "ESTIMATED",
-      "window": "lookback",
-      "conditions": [
-        "Prostate Cancer",
-        "Prostate Adenocarcinoma"
-      ],
-      "interventions": [
-        {
-          "name": "Copper Cu 64 PSMA I&T",
-          "type": "DRUG"
-        }
-      ],
-      "drug_names": [
-        "Copper Cu 64 PSMA I&T"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT06235151",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "Curium US LLC",
-        "ticker": null,
-        "cik": null,
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Curium%20US%20LLC&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-24T11:53:32Z"
-      }
-    },
-    {
-      "nct_id": "NCT06339008",
-      "title": "A Study of Lebrikizumab in Adult Participants With Perennial Allergic Rhinitis (PREPARED-1)",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "Eli Lilly and Company",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-09",
-      "primary_completion_date_type": "ESTIMATED",
-      "window": "lookback",
-      "conditions": [
-        "Perennial Allergic Rhinitis (PAR)"
-      ],
-      "interventions": [
-        {
-          "name": "LY3650150",
-          "type": "DRUG"
-        },
-        {
-          "name": "Placebo",
-          "type": "DRUG"
-        },
-        {
-          "name": "Standard therapy for INCS",
-          "type": "DRUG"
-        }
-      ],
-      "drug_names": [
-        "LY3650150",
-        "Placebo",
-        "Standard therapy for INCS"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT06339008",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "Eli Lilly and Company",
-        "ticker": null,
-        "cik": null,
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Eli%20Lilly%20and%20Company&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-26T14:50:06Z"
-      }
-    },
-    {
       "nct_id": "NCT06469879",
       "title": "A Clinical Study of TQB2450 Combined With Anlotinib in Limited-Stage Small Cell Lung Cancer Patients",
       "status": "UNKNOWN",
@@ -5299,7 +5174,7 @@
     {
       "nct_id": "NCT06564818",
       "title": "\"A Study of a Deuterated Psilocin Analog (CYB003) in Humans With Major Depressive Disorder\"",
-      "status": "ACTIVE_NOT_RECRUITING",
+      "status": "COMPLETED",
       "phases": [
         "PHASE3"
       ],
@@ -5556,7 +5431,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Medprin%20Regenerative%20Medical%20Technologies%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-20T12:35:24Z"
+        "cached_at": "2026-10-27T13:02:37Z"
       }
     },
     {
@@ -5791,7 +5666,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Guangzhou%20Gloria%20Biosciences%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-20T12:35:24Z"
+        "cached_at": "2026-10-27T13:02:37Z"
       }
     },
     {
@@ -6133,7 +6008,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001702123&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-20T12:35:22Z"
+        "cached_at": "2026-10-27T13:02:36Z"
       }
     },
     {
@@ -6358,7 +6233,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=CSL%20Behring&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-20T12:35:22Z"
+        "cached_at": "2026-10-27T13:02:36Z"
       }
     },
     {
@@ -6584,7 +6459,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001372299&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-20T12:35:26Z"
+        "cached_at": "2026-10-27T13:02:40Z"
       }
     },
     {
@@ -6665,7 +6540,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001821586&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-20T12:35:24Z"
+        "cached_at": "2026-10-27T13:02:37Z"
       }
     },
     {
@@ -7138,7 +7013,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Supergene%2C%20LLC&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-20T12:35:27Z"
+        "cached_at": "2026-10-27T13:02:41Z"
       }
     },
     {
@@ -7967,6 +7842,45 @@
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Debiopharm%20International%20SA&type=10-K&dateb=&owner=include&count=40",
         "cached_at": "2026-10-23T13:41:17Z"
+      }
+    },
+    {
+      "nct_id": "NCT06235151",
+      "title": "Copper Cu 64 PSMA I&T PET Imaging in Men With Newly Diagnosed Prostate Cancer",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Curium US LLC",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-10",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "lookback",
+      "conditions": [
+        "Prostate Cancer",
+        "Prostate Adenocarcinoma"
+      ],
+      "interventions": [
+        {
+          "name": "Copper Cu 64 PSMA I&T",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "Copper Cu 64 PSMA I&T"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06235151",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Curium US LLC",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Curium%20US%20LLC&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-10-24T11:53:32Z"
       }
     },
     {
@@ -9106,7 +9020,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Swedish%20Orphan%20Biovitrum&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-20T12:35:27Z"
+        "cached_at": "2026-10-27T13:02:41Z"
       }
     },
     {
@@ -9149,7 +9063,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Karuna%20Therapeutics%2C%20Inc.%2C%20a%20Bristol%20Myers%20Squibb%20company&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-20T12:35:24Z"
+        "cached_at": "2026-10-27T13:02:37Z"
       }
     },
     {
@@ -9582,7 +9496,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Janssen%20Research%20%26%20Development%2C%20LLC&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-20T12:35:24Z"
+        "cached_at": "2026-10-27T13:02:37Z"
       }
     },
     {
@@ -9716,7 +9630,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Janssen%20Research%20%26%20Development%2C%20LLC&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-20T12:35:24Z"
+        "cached_at": "2026-10-27T13:02:37Z"
       }
     },
     {
@@ -10252,6 +10166,54 @@
       }
     },
     {
+      "nct_id": "NCT06339008",
+      "title": "A Study of Lebrikizumab in Adult Participants With Perennial Allergic Rhinitis (PREPARED-1)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Eli Lilly and Company",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-10-22",
+      "primary_completion_date_type": "ACTUAL",
+      "window": "lookback",
+      "conditions": [
+        "Perennial Allergic Rhinitis (PAR)"
+      ],
+      "interventions": [
+        {
+          "name": "LY3650150",
+          "type": "DRUG"
+        },
+        {
+          "name": "Placebo",
+          "type": "DRUG"
+        },
+        {
+          "name": "Standard therapy for INCS",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "LY3650150",
+        "Placebo",
+        "Standard therapy for INCS"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06339008",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Eli Lilly and Company",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Eli%20Lilly%20and%20Company&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-10-26T14:50:06Z"
+      }
+    },
+    {
       "nct_id": "NCT06799559",
       "title": "Study on the Efficacy and Safety of QLM1016 in Schizophrenia",
       "status": "ACTIVE_NOT_RECRUITING",
@@ -10305,7 +10267,7 @@
       "sponsor_class": "INDUSTRY",
       "primary_completion_date": "2026-10-26",
       "primary_completion_date_type": "ESTIMATED",
-      "window": "upcoming",
+      "window": "lookback",
       "conditions": [
         "Prurigo Nodularis"
       ],
@@ -10343,7 +10305,7 @@
       "sponsor_class": "INDUSTRY",
       "primary_completion_date": "2026-10-26",
       "primary_completion_date_type": "ESTIMATED",
-      "window": "upcoming",
+      "window": "lookback",
       "conditions": [
         "Coronary Artery Disease"
       ],
@@ -12905,6 +12867,97 @@
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=LEAF4Life%2C%20Inc.&type=10-K&dateb=&owner=include&count=40",
         "cached_at": "2026-10-26T13:59:44Z"
+      }
+    },
+    {
+      "nct_id": "NCT06351020",
+      "title": "LM-302 for the Treatment of Subjects With Claudin18.2-Positive Gastric and Gastroesophageal Junction Adenocarcinoma.",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "LaNova Medicines Zhejiang Co., Ltd.",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-11-10",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Locally Advanced or Metastatic GC and GCJ Adenocarcinoma"
+      ],
+      "interventions": [
+        {
+          "name": "LM-302",
+          "type": "DRUG"
+        },
+        {
+          "name": "Apatinib",
+          "type": "DRUG"
+        },
+        {
+          "name": "Irinotecan",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "LM-302",
+        "Apatinib",
+        "Irinotecan"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06351020",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "LaNova Medicines Zhejiang Co., Ltd.",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=LaNova%20Medicines%20Zhejiang%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-10-27T13:02:37Z"
+      }
+    },
+    {
+      "nct_id": "NCT07165223",
+      "title": "A Phase IIIb Clinical Study to Assess the Efficacy and Safety of GZR4 in Subjects With Type 2 Diabetes Mellitus Treated With Basal Insulin",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Gan & Lee Pharmaceuticals.",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-11-10",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Diabetes"
+      ],
+      "interventions": [
+        {
+          "name": "GZR4",
+          "type": "DRUG"
+        },
+        {
+          "name": "Insulin Icodec group",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "GZR4",
+        "Insulin Icodec group"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT07165223",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Gan & Lee Pharmaceuticals.",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Gan%20%26%20Lee%20Pharmaceuticals.&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-10-26T14:50:08Z"
       }
     }
   ]

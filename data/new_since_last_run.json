@@ -1,6 +1,100 @@
 {
-  "generated_at": "2026-10-26T15:56:52Z",
-  "new_trial_count": 0,
-  "new_trials": [],
-  "removed_trial_ids": []
+  "generated_at": "2026-10-27T13:02:41Z",
+  "new_trial_count": 2,
+  "new_trials": [
+    {
+      "nct_id": "NCT06351020",
+      "title": "LM-302 for the Treatment of Subjects With Claudin18.2-Positive Gastric and Gastroesophageal Junction Adenocarcinoma.",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "LaNova Medicines Zhejiang Co., Ltd.",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-11-10",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Locally Advanced or Metastatic GC and GCJ Adenocarcinoma"
+      ],
+      "interventions": [
+        {
+          "name": "LM-302",
+          "type": "DRUG"
+        },
+        {
+          "name": "Apatinib",
+          "type": "DRUG"
+        },
+        {
+          "name": "Irinotecan",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "LM-302",
+        "Apatinib",
+        "Irinotecan"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06351020",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "LaNova Medicines Zhejiang Co., Ltd.",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=LaNova%20Medicines%20Zhejiang%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-10-27T13:02:37Z"
+      }
+    },
+    {
+      "nct_id": "NCT07165223",
+      "title": "A Phase IIIb Clinical Study to Assess the Efficacy and Safety of GZR4 in Subjects With Type 2 Diabetes Mellitus Treated With Basal Insulin",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Gan & Lee Pharmaceuticals.",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-11-10",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Diabetes"
+      ],
+      "interventions": [
+        {
+          "name": "GZR4",
+          "type": "DRUG"
+        },
+        {
+          "name": "Insulin Icodec group",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "GZR4",
+        "Insulin Icodec group"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT07165223",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Gan & Lee Pharmaceuticals.",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Gan%20%26%20Lee%20Pharmaceuticals.&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-10-26T14:50:08Z"
+      }
+    }
+  ],
+  "removed_trial_ids": [
+    "NCT07343778"
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "drug_name": "Androgen-deprivation Therapy (ADT)",
   "slug": "androgen-deprivation-therapy-adt",
-  "enriched_at": "2026-10-20T12:35:46Z",
+  "enriched_at": "2026-10-27T13:02:49Z",
   "source_trial_ids": [
     "NCT05884398"
   ],
@@ -60,6 +60,12 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42921729",
+        "title": "ENZARAD (ANZUP 1303): Phase 3 Trial of Enzalutamide With Androgen Deprivation Therapy and Radiation Therapy in High-Risk Localized or Locally Advanced Prostate Cancer.",
+        "pubdate": "2026 Oct 24",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42921729/"
+      },
+      {
         "pmid": "42875365",
         "title": "Dosing, Safety, and Pharmacokinetics of Combination Therapy With Darolutamide, Androgen Deprivation Therapy, and Docetaxel for Metastatic Hormone-Sensitive Prostate Cancer in the ARASENS Study.",
         "pubdate": "2026 Sep 6",
@@ -82,12 +88,6 @@
         "title": "A Phase II Trial Using Grape Seed Extract for Prostate Cancer Patients With Nonmetastatic Prostate-Specific Antigen Progression After Local Therapy.",
         "pubdate": "2026 Sep 27",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42801665/"
-      },
-      {
-        "pmid": "42711192",
-        "title": "Impact of Treatment Intensification with Abiraterone on Fracture-related Hospitalisation in Newly Diagnosed Prostate Cancer: A Secondary Analysis of Two Randomised Phase 3 Trials Within the STAMPEDE Trial Platform.",
-        "pubdate": "2026 Sep 8",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42711192/"
       }
     ]
   },
