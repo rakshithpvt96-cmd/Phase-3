@@ -1,7 +1,7 @@
 {
   "drug_name": "Sugemalimab",
   "slug": "sugemalimab",
-  "enriched_at": "2026-10-21T12:48:53Z",
+  "enriched_at": "2026-10-28T13:55:46Z",
   "source_trial_ids": [
     "NCT06617416"
   ],
@@ -60,6 +60,12 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42947700",
+        "title": "Economic evaluation of six immune checkpoint inhibitor-based first-line therapies for advanced squamous non-small-cell lung cancer: a cost-effectiveness analysis based on network meta-analysis.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42947700/"
+      },
+      {
         "pmid": "41788456",
         "title": "First-Line Serplulimab versus Other Anti-PD-1/PD-L1 Antibodies Plus Chemotherapy for Esophageal Squamous Cell Carcinoma: A Systematic Review with Benefit-Risk Assessment via Matching-Adjusted Indirect Comparison.",
         "pubdate": "2026",
@@ -82,12 +88,6 @@
         "title": "Sugemalimab versus placebo, in combination with platinum-based chemotherapy, as first-line treatment of metastatic non-small-cell lung cancer (GEMSTONE-302): 4-year outcomes from a double-blind, randomised, phase 3 trial.",
         "pubdate": "2025 Jul",
         "url": "https://pubmed.ncbi.nlm.nih.gov/40523368/"
-      },
-      {
-        "pmid": "39992668",
-        "title": "First-Line Sugemalimab Plus Chemotherapy for Advanced Gastric Cancer: The GEMSTONE-303 Randomized Clinical Trial.",
-        "pubdate": "2025 Apr 15",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/39992668/"
       }
     ]
   },

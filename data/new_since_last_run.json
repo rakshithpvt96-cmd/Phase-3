@@ -1,6 +1,52 @@
 {
-  "generated_at": "2026-10-27T15:12:03Z",
-  "new_trial_count": 0,
-  "new_trials": [],
-  "removed_trial_ids": []
+  "generated_at": "2026-10-28T13:52:56Z",
+  "new_trial_count": 1,
+  "new_trials": [
+    {
+      "nct_id": "NCT06753890",
+      "title": "Efficacy and Safety of Changkang Granules in the Treatment of Irritable Bowel Syndrome With Predominant Diarrhea (Liver qi Affecting the Spleen Pattern)",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Tasly Pharmaceutical Group Co., Ltd",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-11-11",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Diarrhea-predominant Irritable Boewl Syndrome"
+      ],
+      "interventions": [
+        {
+          "name": "Changkang granules",
+          "type": "DRUG"
+        },
+        {
+          "name": "Changkang Granules placebo",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "Changkang granules",
+        "Changkang Granules placebo"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06753890",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Tasly Pharmaceutical Group Co., Ltd",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Tasly%20Pharmaceutical%20Group%20Co.%2C%20Ltd&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-10-28T13:52:56Z"
+      }
+    }
+  ],
+  "removed_trial_ids": [
+    "NCT04706013"
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T15:12:03Z",
+  "generated_at": "2026-10-28T13:52:56Z",
   "window_upcoming_days": 14,
   "window_lookback_days": [
     1,
@@ -10469,7 +10469,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Albireo%2C%20an%20Ipsen%20Company&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-21T12:46:53Z"
+        "cached_at": "2026-10-28T13:52:56Z"
       }
     },
     {
@@ -11236,44 +11236,6 @@
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Natureceuticals%20Sdn%20Bhd&type=10-K&dateb=&owner=include&count=40",
         "cached_at": "2026-10-23T13:41:17Z"
-      }
-    },
-    {
-      "nct_id": "NCT04706013",
-      "title": "Oral Pyridoxal 5'-Phosphate for the Treatment of Patients With PNPO Deficiency",
-      "status": "RECRUITING",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "Medicure",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-11",
-      "primary_completion_date_type": "ESTIMATED",
-      "window": "upcoming",
-      "conditions": [
-        "Pyridox(am)Ine 5'-Phosphate Oxidase Deficiency"
-      ],
-      "interventions": [
-        {
-          "name": "Pyridoxal Phosphate",
-          "type": "DRUG"
-        }
-      ],
-      "drug_names": [
-        "Pyridoxal Phosphate"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT04706013",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "Medicure",
-        "ticker": "MCUJF",
-        "cik": "0001133519",
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001133519&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-25T12:24:15Z"
       }
     },
     {
@@ -12823,7 +12785,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=CMG%20Pharmaceutical%20Co.%20Ltd&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-21T12:46:53Z"
+        "cached_at": "2026-10-28T13:52:56Z"
       }
     },
     {
@@ -12958,6 +12920,49 @@
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Gan%20%26%20Lee%20Pharmaceuticals.&type=10-K&dateb=&owner=include&count=40",
         "cached_at": "2026-10-26T14:50:08Z"
+      }
+    },
+    {
+      "nct_id": "NCT06753890",
+      "title": "Efficacy and Safety of Changkang Granules in the Treatment of Irritable Bowel Syndrome With Predominant Diarrhea (Liver qi Affecting the Spleen Pattern)",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Tasly Pharmaceutical Group Co., Ltd",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-11-11",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Diarrhea-predominant Irritable Boewl Syndrome"
+      ],
+      "interventions": [
+        {
+          "name": "Changkang granules",
+          "type": "DRUG"
+        },
+        {
+          "name": "Changkang Granules placebo",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "Changkang granules",
+        "Changkang Granules placebo"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06753890",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Tasly Pharmaceutical Group Co., Ltd",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Tasly%20Pharmaceutical%20Group%20Co.%2C%20Ltd&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-10-28T13:52:56Z"
       }
     }
   ]
