@@ -1,7 +1,7 @@
 {
   "drug_name": "Topotecan",
   "slug": "topotecan",
-  "enriched_at": "2026-09-28T15:40:53Z",
+  "enriched_at": "2026-10-28T15:47:53Z",
   "source_trial_ids": [
     "NCT06498479",
     "NCT06619236"
@@ -64,7 +64,7 @@
     {
       "nct_id": "NCT06498479",
       "title": "ARTEMIS-008：HS-20093 Compared With Topotecan in Subjects With Relapsed Small Cell Lung Cancer",
-      "status": "RECRUITING",
+      "status": "COMPLETED",
       "url": "https://clinicaltrials.gov/study/NCT06498479",
       "has_results": false
     },
@@ -80,9 +80,15 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42933636",
+        "title": "Extended follow-up of tarlatamab in patients with small-cell lung cancer after platinum-based chemotherapy in the randomized phase 3 DeLLphi-304 study.",
+        "pubdate": "2026 Dec 31",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42933636/"
+      },
+      {
         "pmid": "42734213",
         "title": "Tambotatug Pelitecan in Small-Cell Lung Cancer after Platinum-Based Therapy.",
-        "pubdate": "2026 Sep 12",
+        "pubdate": "2026 Oct 22",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42734213/"
       },
       {
@@ -102,12 +108,6 @@
         "title": "Quadruple immunotherapy with allogeneic natural killer cell infusion for recurrent neuroblastoma.",
         "pubdate": "2026 Jul",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42202757/"
-      },
-      {
-        "pmid": "42028236",
-        "title": "Combination of metronomic oral pazopanib and topotecan for recurrent glioblastoma with and without previous bevacizumab: Results from a phase 2 clinical trial.",
-        "pubdate": "2026 Jan-Dec",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42028236/"
       }
     ]
   },
