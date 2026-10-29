@@ -1,7 +1,7 @@
 {
   "drug_name": "Sintilimab",
   "slug": "sintilimab",
-  "enriched_at": "2026-10-22T12:59:59Z",
+  "enriched_at": "2026-10-29T14:38:12Z",
   "source_trial_ids": [
     "NCT05116462",
     "NCT06618664"
@@ -74,6 +74,12 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42919625",
+        "title": "Sintilimab plus eribulin and carboplatin in patients with metastatic triple-negative breast cancer (SECURE): a phase II, multicenter trial.",
+        "pubdate": "2026 Oct 23",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42919625/"
+      },
+      {
         "pmid": "42836832",
         "title": "Impact of PD-1 and PD-L1 inhibitors on patient-reported outcomes in esophageal squamous cell carcinoma: a systematic review of clinical trials.",
         "pubdate": "2026 Oct 6",
@@ -96,12 +102,6 @@
         "title": "Sintilimab plus concurrent chemoradiotherapy for treatment of locally advanced small cell lung cancer (SINCE-01): a phase II clinical trial.",
         "pubdate": "2026 May 29",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42225651/"
-      },
-      {
-        "pmid": "42206059",
-        "title": "Sintilimab plus fruquintinib with or without radiotherapy for third-line treatment of colorectal cancer with liver metastases: study protocol for a randomized controlled, multicenter phase II trial.",
-        "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42206059/"
       }
     ]
   },

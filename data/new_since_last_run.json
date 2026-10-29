@@ -1,6 +1,59 @@
 {
-  "generated_at": "2026-10-28T15:47:47Z",
-  "new_trial_count": 0,
-  "new_trials": [],
-  "removed_trial_ids": []
+  "generated_at": "2026-10-29T14:31:38Z",
+  "new_trial_count": 1,
+  "new_trials": [
+    {
+      "nct_id": "NCT06671548",
+      "title": "Efficacy & Safety Study of Relugolix in Women With Heavy Menstrual Bleeding Associated With Uterine Fibroids",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Qilu Pharmaceutical Co., Ltd.",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-11-12",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Heavy Menstrual Bleeding",
+        "Uterine Fibroids"
+      ],
+      "interventions": [
+        {
+          "name": "Relugolix",
+          "type": "DRUG"
+        },
+        {
+          "name": "Relugolix placebo",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "Relugolix",
+        "Relugolix placebo"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06671548",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Qilu Pharmaceutical Co., Ltd.",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Qilu%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-10-26T14:50:17Z"
+      }
+    }
+  ],
+  "removed_trial_ids": [
+    "NCT04724369",
+    "NCT04729907",
+    "NCT05261139",
+    "NCT05320692",
+    "NCT06868264",
+    "NCT06927986",
+    "NCT06980272"
+  ]
 }

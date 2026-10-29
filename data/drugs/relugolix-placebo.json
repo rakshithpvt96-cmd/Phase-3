@@ -1,0 +1,150 @@
+{
+  "drug_name": "Relugolix placebo",
+  "slug": "relugolix-placebo",
+  "enriched_at": "2026-10-29T14:49:45Z",
+  "source_trial_ids": [
+    "NCT06671548"
+  ],
+  "sponsors": [
+    {
+      "name": "Qilu Pharmaceutical Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Qilu%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2472778",
+      "generic_name": "relugolix",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1800159",
+    "target_chembl_id": "CHEMBL1855",
+    "target_name": "Gonadotropin-releasing hormone receptor",
+    "mechanism_of_action_chembl": "Gonadotropin-releasing hormone receptor antagonist"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Relugolix%20placebo+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Relugolix%20placebo+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Relugolix%20placebo+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Heavy Menstrual Bleeding",
+    "slug": "heavy-menstrual-bleeding"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06671548",
+      "title": "Efficacy & Safety Study of Relugolix in Women With Heavy Menstrual Bleeding Associated With Uterine Fibroids",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06671548",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42025872",
+        "title": "Oral Gonadotropin-Releasing Hormone Antagonists for the Treatment of Endometriosis-Associated Pain: A Systematic Review and Meta-Analysis.",
+        "pubdate": "2026 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42025872/"
+      },
+      {
+        "pmid": "40320117",
+        "title": "Efficacy and safety of relugolix combination therapy in women with uterine fibroids and adenomyosis: subgroup analysis of LIBERTY 1 and LIBERTY 2.",
+        "pubdate": "2025 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40320117/"
+      },
+      {
+        "pmid": "39466126",
+        "title": "A plain language summary describing changes in pain associated with uterine fibroids among women receiving relugolix combination therapy.",
+        "pubdate": "2024 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39466126/"
+      },
+      {
+        "pmid": "39395815",
+        "title": "Once Daily Oral Relugolix Combination Therapy Versus Placebo in Patients With Endometriosis-Associated Pain: Two Replicate Phase 3, Randomised, Double-Blind, Studies (SPIRIT 1 and 2).",
+        "pubdate": "2024 Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39395815/"
+      },
+      {
+        "pmid": "39159261",
+        "title": "Medical management of endometriosis.",
+        "pubdate": "2024 Oct 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39159261/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "CETRORELIX ACETATE",
+        "chembl_id": "CHEMBL2103735",
+        "reason": "same target: Gonadotropin-releasing hormone receptor"
+      },
+      {
+        "name": "NAFARELIN ACETATE",
+        "chembl_id": "CHEMBL1200671",
+        "reason": "same target: Gonadotropin-releasing hormone receptor"
+      },
+      {
+        "name": "GONADORELIN ACETATE",
+        "chembl_id": "CHEMBL1200511",
+        "reason": "same target: Gonadotropin-releasing hormone receptor"
+      },
+      {
+        "name": "ABARELIX",
+        "chembl_id": "CHEMBL1252",
+        "reason": "same target: Gonadotropin-releasing hormone receptor"
+      },
+      {
+        "name": "DEGARELIX ACETATE",
+        "chembl_id": "CHEMBL2028987",
+        "reason": "same target: Gonadotropin-releasing hormone receptor"
+      },
+      {
+        "name": "GOSERELIN ACETATE",
+        "chembl_id": "CHEMBL1200501",
+        "reason": "same target: Gonadotropin-releasing hormone receptor"
+      },
+      {
+        "name": "HISTRELIN ACETATE",
+        "chembl_id": "CHEMBL1200509",
+        "reason": "same target: Gonadotropin-releasing hormone receptor"
+      },
+      {
+        "name": "GONADORELIN HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1200516",
+        "reason": "same target: Gonadotropin-releasing hormone receptor"
+      },
+      {
+        "name": "TRIPTORELIN PAMOATE",
+        "chembl_id": "CHEMBL1200554",
+        "reason": "same target: Gonadotropin-releasing hormone receptor"
+      },
+      {
+        "name": "GANIRELIX ACETATE",
+        "chembl_id": "CHEMBL5314377",
+        "reason": "same target: Gonadotropin-releasing hormone receptor"
+      }
+    ]
+  }
+}

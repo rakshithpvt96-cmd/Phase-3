@@ -1,0 +1,156 @@
+{
+  "drug_name": "Relugolix",
+  "slug": "relugolix",
+  "enriched_at": "2026-10-29T14:49:21Z",
+  "source_trial_ids": [
+    "NCT06671548"
+  ],
+  "sponsors": [
+    {
+      "name": "Qilu Pharmaceutical Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Qilu%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 10348973,
+    "iupac_name": "1-[4-[1-[(2,6-difluorophenyl)methyl]-5-[(dimethylamino)methyl]-3-(6-methoxypyridazin-3-yl)-2,4-dioxothieno[2,3-d]pyrimidin-6-yl]phenyl]-3-methoxyurea",
+    "molecular_formula": "C29H27F2N7O5S",
+    "molecular_weight": "623.6",
+    "canonical_smiles": null,
+    "inchikey": "AOMXMOCNKJTRQP-UHFFFAOYSA-N",
+    "rxnorm": {
+      "rxcui": "2472778",
+      "generic_name": "relugolix",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1800159",
+    "target_chembl_id": "CHEMBL1855",
+    "target_name": "Gonadotropin-releasing hormone receptor",
+    "mechanism_of_action_chembl": "Gonadotropin-releasing hormone receptor antagonist"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action MYFEMBREE is a combination of relugolix, estradiol (E2), and norethindrone acetate (NETA). Relugolix is a non-peptide GnRH receptor antagonist that competitively binds to pituitary GnRH receptors, thereby reducing the release of luteinizing hormone (LH) and follicle-stimulating hormone (FSH), leading to decreased serum concentrations of the ovarian sex hormones estradiol and progesterone and reduced bleeding associated with uterine fibroids and pain associated with endometriosis. Estradiol acts by binding to nuclear receptors that are expressed in estrogen-responsive tissues. As a component of MYFEMBREE, the addition of exogenous estradiol may reduce the increase in bone resorption and resultant bone loss that can occur due to a decrease in circulating estrogen concentrations from relugolix alone. Progestins such as norethindrone act by binding to nuclear receptors that are expressed in progesterone-responsive tissues. As a component of MYFEMBREE, norethindrone may protect the uterus from the potential adverse endometrial effects of unopposed estrogen.",
+    "pharmacokinetics": "12.3 Pharmacokinetics The pharmacokinetic parameters of relugolix, unconjugated estradiol, and norethindrone after administration of a single dose of MYFEMBREE to healthy postmenopausal women under fasted conditions are summarized in Table 7 . Table 7: Pharmacokinetic Parameters of Relugolix, Unconjugated Estradiol, and Norethindrone After Single Dose Administration of MYFEMBREE Abbreviations: AUC = area under the concentration-time curve; AUC 0-inf = AUC from time 0 extrapolated to infinity; C max = maximum observed concentration; E2 = estradiol; NET = norethindrone; T max = time to maximum observed concentration. Notes: AUC 0-inf is presented in ng·hr/mL for relugolix, NET and in pg·hr/mL for unconjugated E2. C max is presented in ng/mL for relugolix, NET and in pg/mL for unconjugated E2. Relugolix Unconjugated Estradiol Norethindrone AUC 0-inf (ng·hr/mL or pg·hr/mL), mean (SD) 198.1 (111.6) 818.7 (334.4) 17.5 (8.5) C max (ng/mL or pg/mL), mean (SD) 26.0 (18.2) 28.0 (19.2) 3.6 (1.4) T max (hr), median (min, max) 2.00 (0.25, 5.00) 7.00 (0.25, 24.00) 1.0 (0.50, 4.00) Relugolix exhibits greater than dose-proportional exposures at doses ranging from 1 mg to 80 mg (0.025 to 2 times the approved recommended dose) and approximately dose-proportional exposures at doses ranging from 80 mg to 360 mg (2 to 9 times the approved recommended dose). Relugolix concentrations reach steady-state within 12 days, and the degree of accumulation is approximately 2-fold, upon once daily administration. Estradiol and norethindrone concentrations reach steady-state within 2 weeks, with an accumulation of 33% to 47% above concentrations seen after administration of a single dose, upon once daily administration. Absorption The mean (%CV) absolute bioavailability of relugolix is 12% (62%). Effect of Food The AUC 0-inf and C max of relugolix decreased by 38% and 55%, respectively, after administration of MYFEMBREE following consumption of a high-fat, high-calorie meal (i.e., 800-1000 calorie meal in which 50% of calories are derived from fat) compared with the fasted state; however, the decrease in exposure to relugolix is considered not to be clinically meaningful. No clinically meaningful effects of food on the exposure to estradiol or norethindrone were observed. Distribution Plasma protein binding of relugolix is 68% to 71%, primarily to albumin and to a lesser extent to α 1 -acid glycoprotein. The mean blood-to-plasma ratio is 0.78. Estradiol circulates in the blood bound to SHBG (36% to 37%) and to albumin (61%), while only approximately 1% to 2% is unbound. Norethindrone also binds to a similar extent to SHBG (36%) and to albumin (61%). Elimination After administration of a single dose of MYFEMBREE, the mean (SD) terminal phase elimination half-life (t 1/2 ) of relugolix, estradiol, and norethindrone are 61.5 (13.2) hours, 16.6 (7.7) hours, and 10.9 (3.1) hours, respectively. Metabolism Relugolix is metabolized primarily by CYP3A and to a lesser extent by CYP2C8 in vitro. Estradiol is converted reversibly to estrone, and both can be converted to estriol, which is a major urinary metabolite. Estrogens also undergo enterohepatic recirculation due to sulfate and glucuronide conjugation in the liver, biliary secretion of conjugates into the intestine, and hydrolysis in the intestine followed by reabsorption. Norethindrone undergoes extensive biotransformation, primarily by reduction, in addition to sulfation, glucuronidation, and oxidation, respectively, by sulfotransferases (SULTs), glucuronosyltransferases (UGTs), and CYP enzymes, including CYP3A4. The majority of metabolites in the circulation are sulfates, with glucuronides accounting for most of the urinary metabolites. Excretion After oral administration of a single 80 mg radiolabeled dose of relugolix, approximately 81% of the radioactivity was recovered in feces (4.2% as unchanged) and 4.1% in urine (2.2% as unchanged). Estradiol is excreted in the urine as glucuronide and sulfate conjugates. Norethindrone is primarily excreted in urine as various polar metabolites. Specific Populations No clinically significant differences in the pharmacokinetics of relugolix were observed based on age (19 to 53 years), race/ethnicity (Asian [49%], White [24%], Black/African American [24%]), body weight (38 to 144 kg), mild to severe renal impairment (creatinine clearance [CLcr] 15 to 89 mL/min, as estimated by the Cockcroft-Gault equation), or mild or moderate hepatic impairment (Child-Pugh A or B). The effects of severe hepatic impairment (Child-Pugh C) or end-stage renal disease with or without hemodialysis on the pharmacokinetics of relugolix have not been studied. The effects of renal or hepatic impairment on the pharmacokinetics of estradiol or norethindrone have not been studied. However, estradiol blood concentrations are expected to be increased in patients with hepatic impairment compared to patients with normal hepatic function. Drug Interaction Studies Clinical Studies Combined P-gp and Moderate CYP3A Inhibitor: Co-administration of MYFEMBREE with erythromycin (P-gp and moderate CYP3A inhibitor) increased the AUC and C max of relugolix by 4.1-fold and 3.8- fold, respectively. No clinically meaningful differences in the pharmacokinetics of unconjugated estradiol, total estrone, unconjugated estrone, and norethindrone were observed. Combined P-gp and Strong CYP3A Inducer: Co-administration with rifampin (P-gp and strong CYP3A inducer) decreased the AUC and C max of relugolix by 55% and 23%, respectively. Other Drugs: No clinically significant differences in the pharmacokinetics of relugolix were observed when co-administered with voriconazole (strong CYP3A inhibitor), fluconazole (moderate CYP3A inhibitor), or atorvastatin (weak CYP3A inhibitor). No clinically significant differences in the pharmacokinetics of midazolam (sensitive CYP3A substrate), rosuvastatin (BCRP substrate), or dabigatran etexilate (P-gp substrate) were observed upon co-administration with relugolix. In Vitro Studies Cytochrome P450 (CYP) Enzymes : Relugolix is a substrate of CYP3A and CYP2C8. Relugolix is an inducer of CYP3A and CYP2B6, but not an inducer of CYP1A2. Relugolix is not an inhibitor of CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, or CYP3A4. Transporter Systems: Relugolix is a substrate of P-gp, but not a substrate of BCRP. Relugolix is an inhibitor of BCRP and P-gp, but not an inhibitor of OATP1B1, OATP1B3, OATP2B1, OAT1, OAT3, OCT2, MATE1, MATE2-K, or BSEP.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE MYFEMBREE is a combination of relugolix, a gonadotropin-releasing hormone (GnRH) receptor antagonist, estradiol, an estrogen, and norethindrone acetate, a progestin, indicated in premenopausal women for the: management of heavy menstrual bleeding associated with uterine leiomyomas (fibroids). ( 1.1 , 14.1 ) management of moderate to severe pain associated with endometriosis. ( 1.2 , 14.2 ) Limitations of Use Use of MYFEMBREE should be limited to 24 months due to the risk of continued bone loss which may not be reversible. ( 1.3 , 5.2 , 6 ) 1.1 Heavy Menstrual Bleeding Associated with Uterine Leiomyomas MYFEMBREE is indicated for the management of heavy menstrual bleeding associated with uterine leiomyomas (fibroids) in premenopausal women [ see Clinical Studies ( 14 ) ]. 1.2 Moderate to Severe Pain Associated with Endometriosis MYFEMBREE is indicated for the management of moderate to severe pain associated with endometriosis in premenopausal women [ see Clinical Studies ( 14 ) ]. 1.3 Limitations of Use Use of MYFEMBREE should be limited to 24 months due to the risk of continued bone loss that may not be reversible [see Warnings and Precautions ( 5.2 ) and Adverse Reactions ( 6 )].",
+    "boxed_warning": "WARNING: THROMBOEMBOLIC DISORDERS AND VASCULAR EVENTS Estrogen and progestin combinations, including MYFEMBREE, increase the risk of thrombotic or thromboembolic disorders including pulmonary embolism (PE), deep vein thrombosis (DVT), stroke and myocardial infarction (MI), especially in women at increased risk for these events [see Warnings and Precautions ( 5.1 )]. MYFEMBREE is contraindicated in women with current or a history of thrombotic or thromboembolic disorders and in women at increased risk for these events, including women over 35 years of age who smoke or women with uncontrolled hypertension [see Contraindications ( 4 )]. WARNING: THROMBOEMBOLIC DISORDERS AND VASCULAR EVENTS See full prescribing information for complete boxed warning Estrogen and progestin combinations, including MYFEMBREE, increase the risk of thrombotic or thromboembolic disorders, especially in women at increased risk for these events. ( 5.1 ) MYFEMBREE is contraindicated in women with current or a history of thrombotic or thromboembolic disorders and in women at increased risk for these events, including women over 35 years of age who smoke or women with uncontrolled hypertension. ( 4 )",
+    "openfda_brand_names": [
+      "Myfembree"
+    ],
+    "openfda_generic_names": [
+      "RELUGOLIX, ESTRADIOL HEMIHYDRATE, AND NORETHINDRONE ACETATE"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=077a92f6-9f1b-479a-87c7-c92b5db6aa9c",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Heavy Menstrual Bleeding",
+    "slug": "heavy-menstrual-bleeding"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06671548",
+      "title": "Efficacy & Safety Study of Relugolix in Women With Heavy Menstrual Bleeding Associated With Uterine Fibroids",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06671548",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42656189",
+        "title": "Study protocol on quality of life and erectile function recovery in unfavorable intermediate-risk prostate cancer: REDI-CaP trial.",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42656189/"
+      },
+      {
+        "pmid": "42025872",
+        "title": "Oral Gonadotropin-Releasing Hormone Antagonists for the Treatment of Endometriosis-Associated Pain: A Systematic Review and Meta-Analysis.",
+        "pubdate": "2026 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42025872/"
+      },
+      {
+        "pmid": "41706486",
+        "title": "Coronary Plaque Progression After Androgen Deprivation Therapy in Men With Prostate Cancer: A Randomized Clinical Trial.",
+        "pubdate": "2026 May 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41706486/"
+      },
+      {
+        "pmid": "40712786",
+        "title": "Relugolix in prostate cancer therapy: Clinical evidence and practical considerations.",
+        "pubdate": "2025 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40712786/"
+      },
+      {
+        "pmid": "40320117",
+        "title": "Efficacy and safety of relugolix combination therapy in women with uterine fibroids and adenomyosis: subgroup analysis of LIBERTY 1 and LIBERTY 2.",
+        "pubdate": "2025 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40320117/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "CETRORELIX ACETATE",
+        "chembl_id": "CHEMBL2103735",
+        "reason": "same target: Gonadotropin-releasing hormone receptor"
+      },
+      {
+        "name": "NAFARELIN ACETATE",
+        "chembl_id": "CHEMBL1200671",
+        "reason": "same target: Gonadotropin-releasing hormone receptor"
+      },
+      {
+        "name": "GONADORELIN ACETATE",
+        "chembl_id": "CHEMBL1200511",
+        "reason": "same target: Gonadotropin-releasing hormone receptor"
+      },
+      {
+        "name": "ABARELIX",
+        "chembl_id": "CHEMBL1252",
+        "reason": "same target: Gonadotropin-releasing hormone receptor"
+      },
+      {
+        "name": "DEGARELIX ACETATE",
+        "chembl_id": "CHEMBL2028987",
+        "reason": "same target: Gonadotropin-releasing hormone receptor"
+      },
+      {
+        "name": "GOSERELIN ACETATE",
+        "chembl_id": "CHEMBL1200501",
+        "reason": "same target: Gonadotropin-releasing hormone receptor"
+      },
+      {
+        "name": "HISTRELIN ACETATE",
+        "chembl_id": "CHEMBL1200509",
+        "reason": "same target: Gonadotropin-releasing hormone receptor"
+      },
+      {
+        "name": "GONADORELIN HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1200516",
+        "reason": "same target: Gonadotropin-releasing hormone receptor"
+      },
+      {
+        "name": "TRIPTORELIN PAMOATE",
+        "chembl_id": "CHEMBL1200554",
+        "reason": "same target: Gonadotropin-releasing hormone receptor"
+      },
+      {
+        "name": "GANIRELIX ACETATE",
+        "chembl_id": "CHEMBL5314377",
+        "reason": "same target: Gonadotropin-releasing hormone receptor"
+      }
+    ]
+  }
+}

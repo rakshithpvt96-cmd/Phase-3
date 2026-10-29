@@ -1,7 +1,7 @@
 {
   "drug_name": "VYD2311",
   "slug": "vyd2311",
-  "enriched_at": "2026-10-22T13:10:10Z",
+  "enriched_at": "2026-10-29T14:54:42Z",
   "source_trial_ids": [
     "NCT07655180"
   ],
@@ -60,21 +60,6 @@
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
     "items": [
-      {
-        "name": "BNT162b2 (2025/2026 formulation)",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: BioNTech SE"
-      },
-      {
-        "name": "nirmatrelvir",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Pfizer"
-      },
-      {
-        "name": "ritonavir",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Pfizer"
-      },
       {
         "name": "BNT162b2 Vaccine",
         "chembl_id": null,

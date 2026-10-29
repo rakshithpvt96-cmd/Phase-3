@@ -1,7 +1,7 @@
 {
   "drug_name": "Pembrolizumab Monotherapy",
   "slug": "pembrolizumab-monotherapy",
-  "enriched_at": "2026-10-22T13:05:41Z",
+  "enriched_at": "2026-10-29T14:45:42Z",
   "source_trial_ids": [
     "NCT06790966"
   ],
@@ -60,9 +60,15 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42933458",
+        "title": "First-line pembrolizumab versus carboplatin plus paclitaxel in participants with mismatch repair-deficient advanced or recurrent endometrial cancer (KEYNOTE-C93/GOG-3064/ENGOT-en15): interim analysis of a multicentre, open-label, randomised, active-comparator controlled, phase 3 trial.",
+        "pubdate": "2026 Oct 26",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42933458/"
+      },
+      {
         "pmid": "42823821",
         "title": "SUNRAY-02: a study of olomorasib combined with immunotherapy in stage II-III KRAS G12C-mutant non-small cell lung cancer after definitive therapy.",
-        "pubdate": "2026 Oct 1",
+        "pubdate": "2026 Sep",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42823821/"
       },
       {
@@ -82,12 +88,6 @@
         "title": "Advancements in Immunotherapy for Lung Cancer: A Meta-Analysis of Clinical Trial Outcomes.",
         "pubdate": "2026 Sep",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42716675/"
-      },
-      {
-        "pmid": "42692071",
-        "title": "Comparative Cost-Effectiveness Analysis of First-Line Immunotherapy for Advanced Melanoma Based on 10-Year Clinical Outcomes.",
-        "pubdate": "2026 Sep 3",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42692071/"
       }
     ]
   },

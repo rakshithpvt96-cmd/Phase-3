@@ -1,269 +1,12 @@
 {
-  "generated_at": "2026-10-28T15:47:47Z",
+  "generated_at": "2026-10-29T14:31:38Z",
   "window_upcoming_days": 14,
   "window_lookback_days": [
     1,
     90
   ],
-  "trial_count": 288,
+  "trial_count": 282,
   "trials": [
-    {
-      "nct_id": "NCT04724369",
-      "title": "Open-Label Study of 18F-mFBG for Imaging Neuroblastoma",
-      "status": "COMPLETED",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "Innervate Radiopharmaceuticals LLC (Formerly: Illumina Radiopharmaceuticals LLC)",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-07-30",
-      "primary_completion_date_type": "ACTUAL",
-      "window": "lookback",
-      "conditions": [
-        "Neuroblastoma"
-      ],
-      "interventions": [
-        {
-          "name": "18F-MFBG",
-          "type": "DRUG"
-        }
-      ],
-      "drug_names": [
-        "18F-MFBG"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT04724369",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "Innervate Radiopharmaceuticals LLC (Formerly: Illumina Radiopharmaceuticals LLC)",
-        "ticker": null,
-        "cik": null,
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Innervate%20Radiopharmaceuticals%20LLC%20%28Formerly%3A%20Illumina%20Radiopharmaceuticals%20LLC%29&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-26T14:50:11Z"
-      }
-    },
-    {
-      "nct_id": "NCT04729907",
-      "title": "A Study to Learn About the Long-Term Safety of Higher Doses of Nusinersen (BIIB058) Given as Injections to Participants With Spinal Muscular Atrophy (SMA) Who Took Part in an Earlier Nusinersen Trial (ONWARD)",
-      "status": "COMPLETED",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "Biogen",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-07-30",
-      "primary_completion_date_type": "ACTUAL",
-      "window": "lookback",
-      "conditions": [
-        "Muscular Atrophy, Spinal"
-      ],
-      "interventions": [
-        {
-          "name": "Nusinersen",
-          "type": "DRUG"
-        }
-      ],
-      "drug_names": [
-        "Nusinersen"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT04729907",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "Biogen",
-        "ticker": "BIIB",
-        "cik": "0000875045",
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000875045&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-26T14:50:00Z"
-      }
-    },
-    {
-      "nct_id": "NCT05261139",
-      "title": "EPIC-Peds: A Study to Learn About the Study Medicine Called PF-07321332 (Nirmatrelvir)/Ritonavir in Patients Under 18 Years of Age With COVID-19 That Are Not Hospitalized But Are at Risk for Severe Disease",
-      "status": "RECRUITING",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "Pfizer",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-07-30",
-      "primary_completion_date_type": "ESTIMATED",
-      "window": "lookback",
-      "conditions": [
-        "COVID-19"
-      ],
-      "interventions": [
-        {
-          "name": "nirmatrelvir",
-          "type": "DRUG"
-        },
-        {
-          "name": "ritonavir",
-          "type": "DRUG"
-        }
-      ],
-      "drug_names": [
-        "nirmatrelvir",
-        "ritonavir"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT05261139",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "Pfizer",
-        "ticker": "PFE",
-        "cik": "0000078003",
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000078003&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-26T14:50:16Z"
-      }
-    },
-    {
-      "nct_id": "NCT05320692",
-      "title": "A Study of TACE Combined With Camrelizumab Plus Rivoceranib (Apatinib) in Patients With Incurable Hepatocellular Carcinoma",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "Jiangsu HengRui Medicine Co., Ltd.",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-07-30",
-      "primary_completion_date_type": "ESTIMATED",
-      "window": "lookback",
-      "conditions": [
-        "Hepatocellular Carcinoma"
-      ],
-      "interventions": [
-        {
-          "name": "TACE+Camrelizumab+Apatinib mesylate",
-          "type": "DRUG"
-        },
-        {
-          "name": "TACE",
-          "type": "PROCEDURE"
-        }
-      ],
-      "drug_names": [
-        "TACE+Camrelizumab+Apatinib mesylate"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT05320692",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "Jiangsu HengRui Medicine Co., Ltd.",
-        "ticker": null,
-        "cik": null,
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Jiangsu%20HengRui%20Medicine%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-26T14:50:13Z"
-      }
-    },
-    {
-      "nct_id": "NCT06927986",
-      "title": "Phase III Trial of SYS6010 Versus Platinum-based Chemotherapy for EGFR-mutated NSCLC（SYNSTAR01）",
-      "status": "RECRUITING",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "CSPC Megalith Biopharmaceutical Co.,Ltd.",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-07-30",
-      "primary_completion_date_type": "ESTIMATED",
-      "window": "lookback",
-      "conditions": [
-        "EGFR-mutated Locally Advanced or Metastatic NSCLC"
-      ],
-      "interventions": [
-        {
-          "name": "SYS6010",
-          "type": "DRUG"
-        },
-        {
-          "name": "Pemetrexed",
-          "type": "DRUG"
-        },
-        {
-          "name": "Cisplatin",
-          "type": "DRUG"
-        },
-        {
-          "name": "Carboplatin",
-          "type": "DRUG"
-        }
-      ],
-      "drug_names": [
-        "SYS6010",
-        "Pemetrexed",
-        "Cisplatin",
-        "Carboplatin"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT06927986",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "CSPC Megalith Biopharmaceutical Co.,Ltd.",
-        "ticker": null,
-        "cik": null,
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=CSPC%20Megalith%20Biopharmaceutical%20Co.%2CLtd.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-26T14:50:04Z"
-      }
-    },
-    {
-      "nct_id": "NCT06980272",
-      "title": "SSGJ-707 in Advanced Non-Small Cell Lung Cancer",
-      "status": "RECRUITING",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "Shenyang Sunshine Pharmaceutical Co., LTD.",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-07-30",
-      "primary_completion_date_type": "ESTIMATED",
-      "window": "lookback",
-      "conditions": [
-        "Advanced Non-Small Cell Lung Cancer"
-      ],
-      "interventions": [
-        {
-          "name": "SSGJ-707",
-          "type": "DRUG"
-        },
-        {
-          "name": "Pembrolizumab",
-          "type": "DRUG"
-        }
-      ],
-      "drug_names": [
-        "SSGJ-707",
-        "Pembrolizumab"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT06980272",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "Shenyang Sunshine Pharmaceutical Co., LTD.",
-        "ticker": null,
-        "cik": null,
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Shenyang%20Sunshine%20Pharmaceutical%20Co.%2C%20LTD.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-26T14:50:20Z"
-      }
-    },
     {
       "nct_id": "NCT04225871",
       "title": "Open-Label Extension of Zilucoplan in Subjects With Generalized Myasthenia Gravis",
@@ -2757,7 +2500,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001472091&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-22T12:50:09Z"
+        "cached_at": "2026-10-29T14:31:37Z"
       }
     },
     {
@@ -3374,7 +3117,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Galderma%20R%26D&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-22T12:50:09Z"
+        "cached_at": "2026-10-29T14:31:37Z"
       }
     },
     {
@@ -3467,7 +3210,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Lumen%20Bioscience%2C%20Inc.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-22T12:50:09Z"
+        "cached_at": "2026-10-29T14:31:37Z"
       }
     },
     {
@@ -3553,7 +3296,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Sichuan%20Jishengtang%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-22T12:53:13Z"
+        "cached_at": "2026-10-29T14:31:38Z"
       }
     },
     {
@@ -3797,7 +3540,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Daewon%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-22T12:50:09Z"
+        "cached_at": "2026-10-29T14:31:37Z"
       }
     },
     {
@@ -4488,49 +4231,6 @@
       }
     },
     {
-      "nct_id": "NCT06868264",
-      "title": "C-BEYOND: Efficacy and Safety of BEM/RZR vs. SOF/VEL in Subjects With Chronic HCV",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "Atea Pharmaceuticals, Inc.",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-09",
-      "primary_completion_date_type": "ESTIMATED",
-      "window": "lookback",
-      "conditions": [
-        "HEPATITIS C VIRUS CHRONIC INFECTION"
-      ],
-      "interventions": [
-        {
-          "name": "Bemnifosbuvir-Ruzasvir (BEM/RZR)",
-          "type": "DRUG"
-        },
-        {
-          "name": "Sofosbuvir-Velpatasvir (SOF/VEL)",
-          "type": "DRUG"
-        }
-      ],
-      "drug_names": [
-        "Bemnifosbuvir-Ruzasvir (BEM/RZR)",
-        "Sofosbuvir-Velpatasvir (SOF/VEL)"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT06868264",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "Atea Pharmaceuticals, Inc.",
-        "ticker": "AVIR",
-        "cik": "0001593899",
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001593899&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-24T11:53:31Z"
-      }
-    },
-    {
       "nct_id": "NCT06922045",
       "title": "Phase III Clinical Trial of STSP-0601 for Injection in Hemophilia Patients",
       "status": "ACTIVE_NOT_RECRUITING",
@@ -4566,49 +4266,6 @@
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Jiangsu%20BioJeTay%20Biotechnology%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
         "cached_at": "2026-10-24T11:53:33Z"
-      }
-    },
-    {
-      "nct_id": "NCT06938347",
-      "title": "Comparing the Safety and Efficacy of ASI-02 to Agitated Saline for Suspected Right-to-left Shunt",
-      "status": "RECRUITING",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "Agitated Solutions, Inc.",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-09",
-      "primary_completion_date_type": "ESTIMATED",
-      "window": "lookback",
-      "conditions": [
-        "Right-To-Left Shunt"
-      ],
-      "interventions": [
-        {
-          "name": "Agitated Saline SoC",
-          "type": "DRUG"
-        },
-        {
-          "name": "ASI-02",
-          "type": "DRUG"
-        }
-      ],
-      "drug_names": [
-        "Agitated Saline SoC",
-        "ASI-02"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT06938347",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "Agitated Solutions, Inc.",
-        "ticker": null,
-        "cik": null,
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Agitated%20Solutions%2C%20Inc.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-24T11:53:30Z"
       }
     },
     {
@@ -6502,7 +6159,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Chongqing%20Peg-Bio%20Biopharm%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-22T12:50:09Z"
+        "cached_at": "2026-10-29T14:31:37Z"
       }
     },
     {
@@ -6684,7 +6341,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=SyneuRx%20International%20%28Taiwan%29%20Corp&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-22T12:53:13Z"
+        "cached_at": "2026-10-29T14:31:38Z"
       }
     },
     {
@@ -7094,7 +6751,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Beijing%20Pearl%20Biotechnology%20Limited%20Liability%20Company&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-22T12:50:09Z"
+        "cached_at": "2026-10-29T14:31:37Z"
       }
     },
     {
@@ -7226,7 +6883,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Chongqing%20Claruvis%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-22T12:50:09Z"
+        "cached_at": "2026-10-29T14:31:37Z"
       }
     },
     {
@@ -7269,7 +6926,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=CSPC%20Ouyi%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-22T12:50:09Z"
+        "cached_at": "2026-10-29T14:31:37Z"
       }
     },
     {
@@ -7312,7 +6969,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Innovent%20Biopharmaceutical%20Technology%20%28Hangzhou%29%20Co.%2C%20LTD.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-22T12:50:09Z"
+        "cached_at": "2026-10-29T14:31:37Z"
       }
     },
     {
@@ -7354,7 +7011,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=UpTru%20Inc.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-22T12:53:13Z"
+        "cached_at": "2026-10-29T14:31:38Z"
       }
     },
     {
@@ -7392,7 +7049,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Sinovac%20Biotech%20Co.%2C%20Ltd&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-22T12:53:13Z"
+        "cached_at": "2026-10-29T14:31:38Z"
       }
     },
     {
@@ -7533,44 +7190,6 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Loxo%20Oncology%2C%20Inc.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-23T13:41:17Z"
-      }
-    },
-    {
-      "nct_id": "NCT05134012",
-      "title": "RAdiolabeled Perfusion to Identify Coronary Artery Disease Using WAter To Evaluate Responses of Myocardial FLOW (RAPID-WATER-FLOW)",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "MedTrace Pharma A/S",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-10",
-      "primary_completion_date_type": "ESTIMATED",
-      "window": "lookback",
-      "conditions": [
-        "Coronary Artery Disease"
-      ],
-      "interventions": [
-        {
-          "name": "[O-15]-Water PET Myocardial Perfusion Imaging (MPI)",
-          "type": "DRUG"
-        }
-      ],
-      "drug_names": [
-        "[O-15]-Water PET Myocardial Perfusion Imaging (MPI)"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT05134012",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "MedTrace Pharma A/S",
-        "ticker": null,
-        "cik": null,
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=MedTrace%20Pharma%20A/S&type=10-K&dateb=&owner=include&count=40",
         "cached_at": "2026-10-23T13:41:17Z"
       }
     },
@@ -8935,6 +8554,44 @@
       }
     },
     {
+      "nct_id": "NCT05134012",
+      "title": "RAdiolabeled Perfusion to Identify Coronary Artery Disease Using WAter To Evaluate Responses of Myocardial FLOW (RAPID-WATER-FLOW)",
+      "status": "COMPLETED",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "MedTrace Pharma A/S",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-10-02",
+      "primary_completion_date_type": "ACTUAL",
+      "window": "lookback",
+      "conditions": [
+        "Coronary Artery Disease"
+      ],
+      "interventions": [
+        {
+          "name": "[O-15]-Water PET Myocardial Perfusion Imaging (MPI)",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "[O-15]-Water PET Myocardial Perfusion Imaging (MPI)"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT05134012",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "MedTrace Pharma A/S",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=MedTrace%20Pharma%20A/S&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-10-23T13:41:17Z"
+      }
+    },
+    {
       "nct_id": "NCT07363720",
       "title": "A Trial of TAK-861 for the Treatment of Narcolepsy With Cataplexy",
       "status": "ACTIVE_NOT_RECRUITING",
@@ -10039,7 +9696,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=LEO%20Pharma&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-22T12:50:09Z"
+        "cached_at": "2026-10-29T14:31:37Z"
       }
     },
     {
@@ -10081,7 +9738,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Otsuka%20Pharmaceutical%20Development%20%26%20Commercialization%2C%20Inc.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-22T12:50:09Z"
+        "cached_at": "2026-10-29T14:31:37Z"
       }
     },
     {
@@ -10291,7 +9948,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Galderma%20R%26D&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-22T12:50:09Z"
+        "cached_at": "2026-10-29T14:31:37Z"
       }
     },
     {
@@ -10349,7 +10006,7 @@
       "sponsor_class": "INDUSTRY",
       "primary_completion_date": "2026-10-28",
       "primary_completion_date_type": "ESTIMATED",
-      "window": "upcoming",
+      "window": "lookback",
       "conditions": [
         "Spinal Muscular Atrophy (SMA)"
       ],
@@ -10397,7 +10054,7 @@
       "sponsor_class": "INDUSTRY",
       "primary_completion_date": "2026-10-28",
       "primary_completion_date_type": "ESTIMATED",
-      "window": "upcoming",
+      "window": "lookback",
       "conditions": [
         "Carcinoma, Renal Cell"
       ],
@@ -10445,7 +10102,7 @@
       "sponsor_class": "INDUSTRY",
       "primary_completion_date": "2026-10-28",
       "primary_completion_date_type": "ESTIMATED",
-      "window": "upcoming",
+      "window": "lookback",
       "conditions": [
         "Biliary Atresia"
       ],
@@ -10483,7 +10140,7 @@
       "sponsor_class": "INDUSTRY",
       "primary_completion_date": "2026-10-28",
       "primary_completion_date_type": "ESTIMATED",
-      "window": "upcoming",
+      "window": "lookback",
       "conditions": [
         "NSCLC (Non-small Cell Lung Cancer)"
       ],
@@ -10790,7 +10447,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=CSPC%20Ouyi%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-22T12:50:09Z"
+        "cached_at": "2026-10-29T14:31:37Z"
       }
     },
     {
@@ -11935,6 +11592,49 @@
       }
     },
     {
+      "nct_id": "NCT06938347",
+      "title": "Comparing the Safety and Efficacy of ASI-02 to Agitated Saline for Suspected Right-to-left Shunt",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Agitated Solutions, Inc.",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-11",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Right-To-Left Shunt"
+      ],
+      "interventions": [
+        {
+          "name": "Agitated Saline SoC",
+          "type": "DRUG"
+        },
+        {
+          "name": "ASI-02",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "Agitated Saline SoC",
+        "ASI-02"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06938347",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Agitated Solutions, Inc.",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Agitated%20Solutions%2C%20Inc.&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-10-24T11:53:30Z"
+      }
+    },
+    {
       "nct_id": "NCT06962280",
       "title": "A Long-Term Study of Tirzepatide (LY3298176) in Adults With Type 1 Diabetes and Obesity or Overweight",
       "status": "ACTIVE_NOT_RECRUITING",
@@ -12324,7 +12024,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Sinovac%20Biotech%20Co.%2C%20Ltd&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-22T12:53:13Z"
+        "cached_at": "2026-10-29T14:31:38Z"
       }
     },
     {
@@ -12963,6 +12663,50 @@
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Tasly%20Pharmaceutical%20Group%20Co.%2C%20Ltd&type=10-K&dateb=&owner=include&count=40",
         "cached_at": "2026-10-28T13:52:56Z"
+      }
+    },
+    {
+      "nct_id": "NCT06671548",
+      "title": "Efficacy & Safety Study of Relugolix in Women With Heavy Menstrual Bleeding Associated With Uterine Fibroids",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Qilu Pharmaceutical Co., Ltd.",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-11-12",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Heavy Menstrual Bleeding",
+        "Uterine Fibroids"
+      ],
+      "interventions": [
+        {
+          "name": "Relugolix",
+          "type": "DRUG"
+        },
+        {
+          "name": "Relugolix placebo",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "Relugolix",
+        "Relugolix placebo"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06671548",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Qilu Pharmaceutical Co., Ltd.",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Qilu%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-10-26T14:50:17Z"
       }
     }
   ]
