@@ -1,0 +1,156 @@
+{
+  "drug_name": "Omeprazole",
+  "slug": "omeprazole",
+  "enriched_at": "2026-10-30T14:33:42Z",
+  "source_trial_ids": [
+    "NCT05646862"
+  ],
+  "sponsors": [
+    {
+      "name": "Hoffmann-La Roche",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hoffmann-La%20Roche&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 4594,
+    "iupac_name": "6-methoxy-2-[(4-methoxy-3,5-dimethyl-2-pyridinyl)methylsulfinyl]-1H-benzimidazole",
+    "molecular_formula": "C17H19N3O3S",
+    "molecular_weight": "345.4",
+    "canonical_smiles": null,
+    "inchikey": "SUBDBMMJDZJVOS-UHFFFAOYSA-N",
+    "rxnorm": {
+      "rxcui": "7646",
+      "generic_name": "omeprazole",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1503",
+    "target_chembl_id": "CHEMBL2095173",
+    "target_name": "Potassium-transporting ATPase",
+    "mechanism_of_action_chembl": "Potassium-transporting ATPase inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": "Use • treats frequent heartburn (occurs 2 or more days a week) • not intended for immediate relief of heartburn; this drug may take 1 to 4 days for full effect",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "omeprazole"
+    ],
+    "openfda_generic_names": [
+      "OMEPRAZOLE"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0340ef94-d2b4-47af-a045-d0d031293984",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Breast Cancer",
+    "slug": "breast-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05646862",
+      "title": "A Study Evaluating the Efficacy and Safety of Inavolisib Plus Fulvestrant Compared With Alpelisib Plus Fulvestrant in Participants With HR-Positive, HER2-Negative, PIK3CA Mutated, Locally Advanced or Metastatic Breast Cancer Post CDK4/6i and Endocrine Combination Therapy",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05646862",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42869649",
+        "title": "14-Day Keverprazan-Amoxicillin Dual Therapy Versus Bismuth-Containing Quadruple Therapy as First-Line Treatment for Helicobacter pylori Eradication: A Prospective, Single-Center, Randomized Controlled Trial.",
+        "pubdate": "2026 Oct 13",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42869649/"
+      },
+      {
+        "pmid": "42866928",
+        "title": "Efficacy of Standard Triple Therapy With or Without Statin in Helicobacter pylori Eradication: A Randomized Double-Blind Placebo-Controlled Trial.",
+        "pubdate": "2026 Sep-Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42866928/"
+      },
+      {
+        "pmid": "42824818",
+        "title": "Efficacy of IgY on Helicobacter pylori eradication and improvement of clinical symptoms: a randomized double-blind clinical trial.",
+        "pubdate": "2026 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42824818/"
+      },
+      {
+        "pmid": "42667590",
+        "title": "Effect of Rivoceranib 200 mg Once Daily on the Pharmacokinetics of a Cocktail Probe Substrate of Cytochrome P450 Enzymes: A Phase I Trial in Healthy Volunteers.",
+        "pubdate": "2026 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42667590/"
+      },
+      {
+        "pmid": "42636164",
+        "title": "Sucralfate/Sodium Alginate Capsules and Proton Pump Inhibitor-Refractory Reflux Symptoms in Nonerosive Reflux Disease and Mild Erosive Disease: A Randomized, Phase 3, Noninferiority Study.",
+        "pubdate": "2026 Aug 24",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42636164/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "DEXLANSOPRAZOLE",
+        "chembl_id": "CHEMBL1201863",
+        "reason": "same target: Potassium-transporting ATPase"
+      },
+      {
+        "name": "OMEPRAZOLE MAGNESIUM",
+        "chembl_id": "CHEMBL1567328",
+        "reason": "same target: Potassium-transporting ATPase"
+      },
+      {
+        "name": "RABEPRAZOLE SODIUM",
+        "chembl_id": "CHEMBL1200930",
+        "reason": "same target: Potassium-transporting ATPase"
+      },
+      {
+        "name": "PANTOPRAZOLE SODIUM",
+        "chembl_id": "CHEMBL3989559",
+        "reason": "same target: Potassium-transporting ATPase"
+      },
+      {
+        "name": "LANSOPRAZOLE",
+        "chembl_id": "CHEMBL480",
+        "reason": "same target: Potassium-transporting ATPase"
+      },
+      {
+        "name": "ESOMEPRAZOLE SODIUM",
+        "chembl_id": "CHEMBL1200470",
+        "reason": "same target: Potassium-transporting ATPase"
+      },
+      {
+        "name": "ESOMEPRAZOLE MAGNESIUM",
+        "chembl_id": "CHEMBL5314366",
+        "reason": "same target: Potassium-transporting ATPase"
+      },
+      {
+        "name": "ESOMEPRAZOLE STRONTIUM",
+        "chembl_id": "CHEMBL2146140",
+        "reason": "same target: Potassium-transporting ATPase"
+      },
+      {
+        "name": "VONOPRAZAN FUMARATE",
+        "chembl_id": "CHEMBL2064032",
+        "reason": "same target: Potassium-transporting ATPase"
+      },
+      {
+        "name": "TEGOPRAZAN",
+        "chembl_id": "CHEMBL4297583",
+        "reason": "same target: Potassium-transporting ATPase"
+      }
+    ]
+  }
+}

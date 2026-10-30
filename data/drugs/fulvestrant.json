@@ -1,8 +1,9 @@
 {
   "drug_name": "Fulvestrant",
   "slug": "fulvestrant",
-  "enriched_at": "2026-10-17T11:31:09Z",
+  "enriched_at": "2026-10-30T14:26:39Z",
   "source_trial_ids": [
+    "NCT05646862",
     "NCT06016738",
     "NCT06635447"
   ],
@@ -12,6 +13,12 @@
       "ticker": "AZN",
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000901832&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Hoffmann-La Roche",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hoffmann-La%20Roche&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Olema Pharmaceuticals, Inc.",
@@ -52,7 +59,7 @@
     "openfda_generic_names": [
       "FULVESTRANT"
     ],
-    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=840cd7c0-9f33-f74e-f136-de7fe899bfb4",
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e20d8ca3-8837-4003-8b01-1ebec342062a",
     "note": null,
     "further_reading": null
   },
@@ -61,6 +68,13 @@
     "slug": "breast-cancer"
   },
   "source_trials": [
+    {
+      "nct_id": "NCT05646862",
+      "title": "A Study Evaluating the Efficacy and Safety of Inavolisib Plus Fulvestrant Compared With Alpelisib Plus Fulvestrant in Participants With HR-Positive, HER2-Negative, PIK3CA Mutated, Locally Advanced or Metastatic Breast Cancer Post CDK4/6i and Endocrine Combination Therapy",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05646862",
+      "has_results": false
+    },
     {
       "nct_id": "NCT06016738",
       "title": "OP-1250 (Palazestrant) vs. Standard of Care for the Treatment of ER+/HER2- Advanced Breast Cancer",
@@ -79,6 +93,12 @@
   "prior_results": {
     "ctgov_results_urls": [],
     "pubmed_articles": [
+      {
+        "pmid": "42926108",
+        "title": "Overall survival from the phase III postMONARCH trial of abemaciclib plus fulvestrant versus placebo plus fulvestrant for HR+, HER2- advanced breast cancer following progression on a prior CDK4/6 inhibitor plus endocrine therapy.",
+        "pubdate": "2026 Oct 24",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42926108/"
+      },
       {
         "pmid": "42814929",
         "title": "Giredestrant plus Everolimus in Advanced Breast Cancer.",
@@ -102,12 +122,6 @@
         "title": "Real-world data for a CDK4/6 inhibitor, palbociclib, as 1st- or 2nd-line therapy in HR+/HER2- metastatic breast cancer: a multicenter prospective cohort study.",
         "pubdate": "2026 May 29",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42216212/"
-      },
-      {
-        "pmid": "42168151",
-        "title": "Fulvestrant versus capecitabine as maintenance therapy in hormone receptor-positive, HER2-negative metastatic breast cancer after first-line chemotherapy (FAMILY): a multicenter, open-label, randomized, phase 3 trial.",
-        "pubdate": "2026 May 22",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42168151/"
       }
     ]
   },
@@ -139,6 +153,21 @@
         "name": "Capivasertib",
         "chembl_id": null,
         "reason": "same indication trial, sponsor: AstraZeneca"
+      },
+      {
+        "name": "Inavolisib",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Hoffmann-La Roche"
+      },
+      {
+        "name": "Alpelisib",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Hoffmann-La Roche"
+      },
+      {
+        "name": "Bupropion",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Hoffmann-La Roche"
       }
     ]
   }

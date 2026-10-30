@@ -1,7 +1,7 @@
 {
   "drug_name": "Docetaxel injection",
   "slug": "docetaxel-injection",
-  "enriched_at": "2026-10-23T13:46:31Z",
+  "enriched_at": "2026-10-30T14:31:24Z",
   "source_trial_ids": [
     "NCT06300177"
   ],
@@ -60,9 +60,15 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42928397",
+        "title": "Real-World Safety and Effectiveness of Radium-223 in Patients with Metastatic Castration-Resistant Prostate Cancer: Final Analysis of the RAPIT Study.",
+        "pubdate": "2026 Oct 25",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42928397/"
+      },
+      {
         "pmid": "42276910",
         "title": "How Will PSMAddition Impact the Management of Prostate Cancer?",
-        "pubdate": "2026 Jun 11",
+        "pubdate": "2026 Oct",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42276910/"
       },
       {
@@ -82,12 +88,6 @@
         "title": "Human clinical trial using diagnostic ultrasound and microbubbles to enhance neoadjuvant chemotherapy in HER2- negative breast cancer.",
         "pubdate": "2022",
         "url": "https://pubmed.ncbi.nlm.nih.gov/36338760/"
-      },
-      {
-        "pmid": "36058988",
-        "title": "Local administration of large surface area microparticle docetaxel to solid carcinomas induces direct cytotoxicity and immune-mediated tumoricidal effects: preclinical and clinical studies.",
-        "pubdate": "2023 Feb",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/36058988/"
       }
     ]
   },

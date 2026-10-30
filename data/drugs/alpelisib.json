@@ -1,16 +1,16 @@
 {
   "drug_name": "Alpelisib",
   "slug": "alpelisib",
-  "enriched_at": "2026-09-15T12:31:31Z",
+  "enriched_at": "2026-10-30T14:30:25Z",
   "source_trial_ids": [
-    "NCT05501886"
+    "NCT05646862"
   ],
   "sponsors": [
     {
-      "name": "Celcuity Inc",
-      "ticker": "CELC",
+      "name": "Hoffmann-La Roche",
+      "ticker": null,
       "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001603454&type=10-K&dateb=&owner=include&count=40"
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hoffmann-La%20Roche&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
@@ -35,17 +35,17 @@
   "fda_label": {
     "has_label": true,
     "source": "openFDA",
-    "mechanism_of_action": "12.1 Mechanism of Action Alpelisib is an inhibitor of phosphatidylinositol-3-kinase (PI3K) with inhibitory activity predominantly against PI3Kα. Gain-of-function mutations in the gene encoding the catalytic α-subunit of PI3K (PIK3CA) lead to activation of PI3Kα and Akt-signaling, cellular transformation and the generation of tumors in in vitro and in vivo models. Activating mutations in PIK3CA have been found to induce a spectrum of overgrowths and malformations comprising a wide group of clinically recognizable disorders commonly known as PROS. In an inducible mouse model of Congenital Lipomatous Overgrowth, Vascular Malformations, Epidermal Nevi, Scoliosis/Skeletal and Spinal syndrome (CLOVES), a phenotype of PROS, alpelisib inhibition of the PI3K pathway resulted in the prevention or improvement of organ abnormalities associated with the disease, depending on when alpelisib treatment was started. These findings were reversed after withdrawal of alpelisib.",
-    "pharmacokinetics": "12.3 Pharmacokinetics The pharmacokinetics of alpelisib has been studied in healthy subjects and adult patients with solid tumors and are presented as mean (% CV) under fed conditions unless otherwise specified. Alpelisib maximum plasma concentration (C max ) was 277 ng/mL (24%) and area under the curve (AUC) was 2,090 hr*ng/mL (24%) following administration of a single 50 mg dose of VIJOICE. Steady state alpelisib C max and AUC increased proportionally over the dose range of 30 mg (0.6 times the lowest approved recommended dosage) to 450 mg (1.8 times the highest approved recommended dosage) under fed conditions. The mean accumulation of alpelisib was 1.3 to 1.5 and steady state plasma concentrations were reached within 3 days following daily dosage. Absorption The median time to reach peak plasma concentration (T max ) ranged between 2.0 to 4.0 hours. Effect of Food A high-fat high-calorie (HFHC) meal (985 calories with 58.1 g of fat) increased alpelisib AUC by 73% and C max by 84%, and a low-fat low-calorie (LFLC) meal (334 calories with 8.7 g of fat) increased alpelisib AUC by 77% and C max by 145% following administration of a single 300 mg dose of alpelisib as tablets. No clinically relevant differences in alpelisib AUC were observed between LFLC and HFHC meals. No clinically relevant food effect on alpelisib pharmacokinetics was observed after a single 50 mg oral dose of VIJOICE as granules taken with a LFLC meal as compared to that taken under fasted conditions. No clinically relevant differences in alpelisib C max and AUC were observed following administration of a single 50 mg dose of VIJOICE as granules or tablets taken with a LFLC meal. Distribution The apparent volume of distribution of alpelisib at steady state is 114 L (46%). Protein binding of alpelisib is 89% and is independent of concentration. Elimination The half-life of alpelisib is predicted to be 8 to 9 hours. The clearance of alpelisib is 9.2 L/hr (21%) under fed conditions. Metabolism Alpelisib is primarily metabolized by chemical and enzymatic hydrolysis to form its metabolite BZG791 and followed by CYP3A4 mediated hydroxylation. Excretion Following a single oral dose of 400 mg (1.6 times the highest approved recommended dosage) radiolabeled alpelisib under fasted condition, 81% of the administered dose was recovered in feces (36% unchanged) and 14% (2% unchanged) in urine. CYP3A4-mediated metabolites (12%) and glucuronides amounted to approximately 15% of the dose. Specific Populations No clinically significant differences in the pharmacokinetics of alpelisib were predicted based on age (21 to 87 years), sex, race/ethnicity (Japanese or Caucasian), body weight (37 to 181 kg), mild to moderate renal impairment (CLcr 30 to < 90 mL/min based on the Cockcroft-Gault formula), or mild to severe hepatic impairment (Child-Pugh Class A, B, and C). The effect of severe renal impairment (CLcr < 30 mL/min) on the pharmacokinetics of alpelisib is unknown. Drug Interaction Studies Clinical Studies and Model-Informed Approaches Acid Reducing Agents: No clinically significant differences in the pharmacokinetics of alpelisib were observed when used concomitantly with ranitidine (H2 receptor antagonist) and administered with food as directed. Concomitant use of ranitidine decreased alpelisib AUC approximately 30% and C max by 51% with a single 300 mg oral dose (1.2 times the highest approved recommended dosage) of alpelisib under the fasted state. In the presence of a low-fat low-calorie meal, AUC was decreased by 21% and C max by 36% with ranitidine. CYP3A4, CYP2C8, CYP2C9, CYP2C19 and CYP2B6 Substrates : Coadministration of repeated doses of alpelisib 300 mg with a single-dose of sensitive substrates of CYP3A4 (midazolam), CYP2C8 (repaglinide), CYP2C9 (warfarin), CYP2C19 (omeprazole) and CYP2B6 (bupropion), administered as a cocktail did not show clinically significant pharmacokinetic interactions. No clinically significant differences in pharmacokinetics of everolimus (a substrate of CYP3A4 and P-gp) were observed when used concurrently with alpelisib. Effect of CYP3A4 Inducers on Alpelisib: Coadministration of repeat doses of rifampin (a strong CYP3A4 inducer) with a single 300 mg dose of alpelisib decreased alpelisib C max by 38% and AUC by 57%, respectively. Coadministration of rifampin with repeat doses of 300 mg alpelisib decreased alpelisib C max by 59% and AUC by 74%, respectively. Model-Informed Approaches Coadministration of repeat doses of ketoconazole (a strong CYP3A4 inhibitor) with a single 300 mg dose of alpelisib is expected to increase alpelisib AUC by 37% or less. Coadministration of repeat doses of efavirenz (a moderate CYP3A4 inducer) with a single 300 mg dose of alpelisib is expected to decrease alpelisib AUC by 30% or less. In Vitro Studies Effect of Transporter on Alpelisib: Alpelisib is a substrate of BCRP. Effect of Alpelisib on Transporters: Alpelisib is an inhibitor of P-gp. Alpelisib has a low potential to inhibit BCRP, MRP2, BSEP, OATP1B1, OATP1B3, OCT1, OAT1, OAT3, OCT2, MATE1, and MATE2K at clinically relevant concentrations.",
-    "indications_and_usage": "1 INDICATIONS AND USAGE VIJOICE is indicated for the treatment of adult and pediatric patients 2 years of age and older with severe manifestations of PIK3CA-Related Overgrowth Spectrum (PROS) who require systemic therapy. This indication is approved under accelerated approval based on response rate and duration of response. Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial(s). VIJOICE is a kinase inhibitor indicated for the treatment of adult and pediatric patients 2 years of age and older with severe manifestations of PIK3CA-Related Overgrowth Spectrum (PROS) who require systemic therapy. This indication is approved under accelerated approval based on response rate and duration of response. Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial(s). ( 1 )",
+    "mechanism_of_action": "12.1 Mechanism of Action Alpelisib is an inhibitor of phosphatidylinositol-3-kinase (PI3K) with inhibitory activity predominantly against PI3Kα. Gain-of-function mutations in the gene encoding the catalytic α-subunit of PI3K (PIK3CA) lead to activation of PI3Kα and Akt-signaling, cellular transformation and the generation of tumors in in vitro and in vivo models. In breast cancer cell lines, alpelisib inhibited the phosphorylation of PI3K downstream targets, including Akt and showed activity in cell lines harboring a PIK3CA mutation. In vivo, alpelisib inhibited the PI3K/Akt signaling pathway and reduced tumor growth in xenograft models, including models of breast cancer. PI3K inhibition by alpelisib treatment has been shown to induce an increase in estrogen receptor (ER) transcription in breast cancer cells. The combination of alpelisib and fulvestrant demonstrated increased anti-tumor activity compared to either treatment alone in xenograft models derived from ER-positive, PIK3CA mutated breast cancer cell lines.",
+    "pharmacokinetics": "12.3 Pharmacokinetics The pharmacokinetics of alpelisib has been studied in healthy subjects and adult patients with solid tumors. Steady-state alpelisib maximum plasma concentration (C max ) and AUC increased proportionally over the dose range of 30 mg to 450 mg (0.1 to 1.5 times the approved recommended dosage) under fed conditions. The mean accumulation of alpelisib is 1.3 to 1.5 and steady-state plasma concentrations are reached within 3 days following daily dosage. In adult patients who received PIQRAY 300 mg once daily in the SOLAR-1 trial, population approach derived mean steady-state alpelisib [coefficient of variation (CV%)] for C max was 2480 (23%) ng/mL and AUC 0-24hr was 33224 (21%) ng*h/mL. Absorption The median time to reach peak plasma concentration (T max ) ranged between 2.0 to 4.0 hours. Effect of food A high-fat high-calorie meal (985 calories with 58.1 g of fat) increased alpelisib AUC by 73% and C max by 84%, and a low-fat low-calorie meal (334 calories with 8.7 g of fat) increased alpelisib AUC by 77% and C max by 145% following a single dose of PIQRAY. No clinically significant differences in alpelisib AUC were observed between low-fat low-calorie and high-fat high-calorie meals. Distribution The mean (% CV) apparent volume of distribution of alpelisib at steady-state is predicted to be 114 L (46%). Protein binding of alpelisib is 89% and is independent of concentration. Elimination The half-life of alpelisib is predicted to be 8 to 9 hours. The mean (% CV) clearance of alpelisib is predicted to be 9.2 L/hr (21%) under fed conditions. Metabolism Alpelisib is primarily metabolized by chemical and enzymatic hydrolysis to form its metabolite BZG791 and followed by CYP3A4 mediated hydroxylation. Excretion Following a single oral dose of 400 mg radiolabeled alpelisib under fasted condition, 81% of the administered dose was recovered in feces (36% unchanged, 32% BZG791) and 14% (2% unchanged, 7.1% BZG791) in urine. CYP3A4-mediated metabolites (12%) and glucuronides amounted to approximately 15% of the dose. Specific Populations No clinically significant differences in the pharmacokinetics of alpelisib were predicted based on age (21 to 87 years), sex, race/ethnicity (Japanese or Caucasian), body weight (37 to 181 kg), mild to moderate renal impairment (CLcr 30 to < 90 mL/min based on the Cockcroft-Gault formula), or mild to severe hepatic impairment (Child-Pugh Class A, B, and C). The effect of severe renal impairment (CLcr < 30 mL/min) on the pharmacokinetics of alpelisib is unknown. Drug Interaction Studies Clinical Studies Acid Reducing Agents: PIQRAY can be coadministered with acid reducing agents, since PIQRAY should be taken with food. Food exhibited a more pronounced effect on the solubility of alpelisib than the effect of gastric pH value. Coadministration of the H 2 receptor antagonist ranitidine in combination with a single 300 mg oral dose of alpelisib decreased the absorption and overall exposure of alpelisib. In the presence of a low-fat low-calorie meal, AUC was decreased on average by 21% and C max by 36% with ranitidine. Under the fasted state, AUC was decreased on average by 30% and C max by 51% with ranitidine. CYP3A4, CYP2C8, CYP2C9, CYP2C19 and CYP2B6 Substrates: Coadministration of repeated doses of alpelisib 300 mg with a single-dose of sensitive substrates of CYP3A4 (midazolam), CYP2C8 (repaglinide), CYP2C9 (warfarin), CYP2C19 (omeprazole) and CYP2B6 (bupropion), administered as a cocktail did not show clinically significant pharmacokinetic interactions. No clinically significant differences in pharmacokinetics of everolimus (a substrate of CYP3A4 and P-gp) were observed when coadministered with alpelisib. Effect of CYP3A4 Inducers on Alpelisib: Coadministration of repeat doses of rifampin (a strong CYP3A4 inducer) with a single 300 mg dose of alpelisib decreased alpelisib C max by 38% and AUC by 57%, respectively. Coadministration of rifampin with repeat doses of 300 mg alpelisib decreased alpelisib C max by 59% and AUC by 74%, respectively. Model-Informed Approaches Coadministration of repeat doses of ketoconazole (a strong CYP3A4 inhibitor) with a single 300 mg dose of alpelisib is expected to increase alpelisib AUC by 37% or less. Coadministration of repeat doses of efavirenz (a moderate CYP3A4 inducer) with a single 300 mg dose of alpelisib is expected to decrease alpelisib AUC by 30% or less. In Vitro Studies Effect of Transporter on Alpelisib: Alpelisib is a substrate of BCRP. Effect of Alpelisib on Transporters: Alpelisib is an inhibitor of P-gp. Alpelisib has a low potential to inhibit BCRP, MRP2, BSEP, OATP1B1, OATP1B3, OCT1, OAT1, OAT3, OCT2, MATE1, and MATE2K at clinically relevant concentrations.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE PIQRAY is indicated in combination with fulvestrant for the treatment of adults with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative, PIK3CA-mutated, advanced or metastatic breast cancer as detected by an FDA-approved test following progression on or after an endocrine-based regimen. PIQRAY is a kinase inhibitor indicated in combination with fulvestrant for the treatment of adults with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative, PIK3CA-mutated, advanced or metastatic breast cancer as detected by an FDA-approved test following progression on or after an endocrine-based regimen.",
     "boxed_warning": null,
     "openfda_brand_names": [
-      "VIJOICE"
+      "PIQRAY"
     ],
     "openfda_generic_names": [
       "ALPELISIB"
     ],
-    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b20b4e18-7a4b-4500-a08f-06c6dab0ee5b",
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=638069a4-aee0-46c9-9e21-54ad449c163c",
     "note": null,
     "further_reading": null
   },
@@ -55,16 +55,22 @@
   },
   "source_trials": [
     {
-      "nct_id": "NCT05501886",
-      "title": "Gedatolisib Plus Fulvestrant With or Without Palbociclib vs Standard-of-Care for the Treatment of Patients With Advanced or Metastatic HR+/HER2- Breast Cancer (VIKTORIA-1)",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT05501886",
+      "nct_id": "NCT05646862",
+      "title": "A Study Evaluating the Efficacy and Safety of Inavolisib Plus Fulvestrant Compared With Alpelisib Plus Fulvestrant in Participants With HR-Positive, HER2-Negative, PIK3CA Mutated, Locally Advanced or Metastatic Breast Cancer Post CDK4/6i and Endocrine Combination Therapy",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05646862",
       "has_results": false
     }
   ],
   "prior_results": {
     "ctgov_results_urls": [],
     "pubmed_articles": [
+      {
+        "pmid": "42939506",
+        "title": "Targeting PI3Kα with Small Molecules: Progress and Challenges in Tumor Treatment.",
+        "pubdate": "2026 Sep 22",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42939506/"
+      },
       {
         "pmid": "42159385",
         "title": "Assessment of alpelisib-induced hyperglycemia in a real-world setting: A nationwide claims data analysis.",
@@ -86,14 +92,8 @@
       {
         "pmid": "41851057",
         "title": "Model-Based Patient Selection and Dosing Strategies for HRAS and PIK3CA Dysregulated HNSCC: A QSP Model for Alpelisib and Tipifarnib Combination.",
-        "pubdate": "2026 Mar 18",
+        "pubdate": "2026 Nov",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41851057/"
-      },
-      {
-        "pmid": "41623364",
-        "title": "Alpelisib, a PI3Kα inhibitor, effectively treats vascular anomalies with diverse genotypes and phenotypes.",
-        "pubdate": "2026 Feb",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41623364/"
       }
     ]
   },

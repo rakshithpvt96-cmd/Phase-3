@@ -1,0 +1,146 @@
+{
+  "drug_name": "Inavolisib",
+  "slug": "inavolisib",
+  "enriched_at": "2026-10-30T14:32:52Z",
+  "source_trial_ids": [
+    "NCT05646862"
+  ],
+  "sponsors": [
+    {
+      "name": "Hoffmann-La Roche",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hoffmann-La%20Roche&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 124173720,
+    "iupac_name": "(2S)-2-[[2-[(4S)-4-(difluoromethyl)-2-oxo-1,3-oxazolidin-3-yl]-5,6-dihydroimidazo[1,2-d][1,4]benzoxazepin-9-yl]amino]propanamide",
+    "molecular_formula": "C18H19F2N5O4",
+    "molecular_weight": "407.4",
+    "canonical_smiles": null,
+    "inchikey": "SGEUNORSOZVTOL-CABZTGNLSA-N",
+    "rxnorm": {
+      "rxcui": "2695422",
+      "generic_name": "inavolisib",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4650215",
+    "target_chembl_id": "CHEMBL4005",
+    "target_name": "Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform",
+    "mechanism_of_action_chembl": "PI3-kinase p110-alpha subunit inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Inavolisib is an inhibitor of phosphatidylinositol 3-kinase (PI3K) with inhibitory activity predominantly against PI3Kα. In vitro, inavolisib induced the degradation of mutated PI3K catalytic alpha subunit p110α (encoded by the PIK3CA gene), inhibited phosphorylation of the downstream target AKT, reduced cellular proliferation, and induced apoptosis in PIK3CA -mutated breast cancer cell lines. In vivo, inavolisib reduced tumor growth in PIK3CA -mutated, estrogen receptor-positive, breast cancer xenograft models. The combination of inavolisib with palbociclib and fulvestrant increased tumor growth inhibition compared to each treatment alone or the doublet combinations.",
+    "pharmacokinetics": "12.3 Pharmacokinetics Inavolisib pharmacokinetics are presented as geometric mean (geometric coefficient of variation [geo CV]%) following administration of the approved recommended dosage unless otherwise specified. The inavolisib steady-state AUC is 1,010 h*ng/mL (25%) and C max is 69 ng/mL (27%). Steady-state concentrations are predicted to be attained by day 5. Inavolisib accumulation is approximately 2-fold. Inavolisib steady-state AUC is proportional with dose from 6 to 12 mg (0.7 to 1.3 times the approved recommended dosage). Absorption Inavolisib absolute oral bioavailability is 76%. Inavolisib steady-state median (min, max) time to maximum plasma concentration (T max ) is 3 hours (0.5, 4 hours). Effect of Food No clinically significant differences in inavolisib pharmacokinetics were observed following administration of inavolisib with a high-fat meal (approximately 1,000 calories, 50% fat). Distribution Inavolisib apparent (oral) volume of distribution is 155 L (26%). Inavolisib plasma protein binding is 37% and is not concentration-dependent in vitro. Inavolisib blood-to-plasma ratio is 0.8. Elimination Inavolisib elimination half-life is 15 hours (24%) with a total clearance of 8.8 L/hr (29%). Metabolism Inavolisib is primarily metabolized by hydrolysis. In vitro, inavolisib was minimally metabolized by CYP3A. Excretion Following oral administration of a single radiolabeled dose, 49% of the administered dose was recovered in urine (40% unchanged) and 48% in feces (11% unchanged). Specific Populations No clinically significant differences in the pharmacokinetics of inavolisib were observed based on age (27 to 85 years), sex, race (Asian or White), body weight (39 to 159 kg), or mild hepatic impairment (total bilirubin > ULN to ≤ 1.5 × ULN or AST > ULN and total bilirubin ≤ ULN). The effect of moderate to severe hepatic impairment on inavolisib pharmacokinetics is unknown. Patients with Renal Impairment Inavolisib AUC increased 1.7-fold in subjects with moderate renal impairment (eGFR 30 to < 60 mL/min based on CKD-EPI) and 2.2-fold in subjects with severe renal impairment (eGFR < 30 mL/min) compared to subjects with normal renal function (eGFR ≥ 90 mL/min). No clinically significant differences in the pharmacokinetics of inavolisib were observed in patients with mild renal impairment compared to patients with normal renal function. Drug Interaction Studies Clinical Studies and Model-Informed Approaches Proton Pump Inhibitors: No clinically significant difference in steady-state inavolisib pharmacokinetics were observed based upon concomitant use of a proton pump inhibitor (lansoprazole, omeprazole, esomeprazole, pantoprazole, or rabeprazole). In Vitro Studies CYP450 Enzymes: Inavolisib induces CYP3A and CYP2B6. Inavolisib is a time-dependent inhibitor of CYP3A. Inavolisib does not inhibit CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, or CYP2D6. Transporter Systems: Inavolisib is a substrate of P-glycoprotein (P-gp) and breast cancer resistance protein (BCRP), but is not a substrate of OATP1B1, OATP1B3, OCT1, OCT2, MATE1, MATE2K, OAT1, OAT2. Inavolisib does not inhibit P-gp, BCRP, OATP1B1, OATP1B3, OCT1, OCT2, OAT1, OAT3, MATE1, or MATE2K.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE ITOVEBI, in combination with palbociclib and fulvestrant, is indicated for the treatment of adults with endocrine-resistant, PIK3CA -mutated, hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative, locally advanced or metastatic breast cancer, as detected by an FDA-approved test, following recurrence on or after completing adjuvant endocrine therapy [see Clinical Studies (14.1) ] . ITOVEBI is a kinase inhibitor indicated in combination with palbociclib and fulvestrant for the treatment of adults with endocrine-resistant, PIK3CA -mutated, hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative, locally advanced or metastatic breast cancer, as detected by an FDA-approved test, following recurrence on or after completing adjuvant endocrine therapy. ( 1 , 14.1 )",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "Itovebi"
+    ],
+    "openfda_generic_names": [
+      "INAVOLISIB"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5de59f5b-e5db-410f-b692-658686ef4107",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Breast Cancer",
+    "slug": "breast-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05646862",
+      "title": "A Study Evaluating the Efficacy and Safety of Inavolisib Plus Fulvestrant Compared With Alpelisib Plus Fulvestrant in Participants With HR-Positive, HER2-Negative, PIK3CA Mutated, Locally Advanced or Metastatic Breast Cancer Post CDK4/6i and Endocrine Combination Therapy",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05646862",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42939506",
+        "title": "Targeting PI3Kα with Small Molecules: Progress and Challenges in Tumor Treatment.",
+        "pubdate": "2026 Sep 22",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42939506/"
+      },
+      {
+        "pmid": "42543051",
+        "title": "Cost-effectiveness of inavolisib-based therapy in PIK3CA-mutated advanced breast cancer in the USA.",
+        "pubdate": "2026 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42543051/"
+      },
+      {
+        "pmid": "42052484",
+        "title": "Application of PI3K inhibitors in breast cancer treatment: a clinical trial landscape analysis based on clinical trial databases and registries.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42052484/"
+      },
+      {
+        "pmid": "41902997",
+        "title": "The logarithmic phase as a therapeutic direction: evaluating pharmacological strategies against cancer progression.",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41902997/"
+      },
+      {
+        "pmid": "41533822",
+        "title": "",
+        "pubdate": "2025 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41533822/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "BAY-1082439",
+        "chembl_id": "CHEMBL3644672",
+        "reason": "same target: Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform"
+      },
+      {
+        "name": "FIMEPINOSTAT",
+        "chembl_id": "CHEMBL3622533",
+        "reason": "same target: Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform"
+      },
+      {
+        "name": "SERABELISIB",
+        "chembl_id": "CHEMBL3935857",
+        "reason": "same target: Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform"
+      },
+      {
+        "name": "PKI-179",
+        "chembl_id": "CHEMBL1258517",
+        "reason": "same target: Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform"
+      },
+      {
+        "name": "PWT-33579",
+        "chembl_id": "CHEMBL3545323",
+        "reason": "same target: Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform"
+      },
+      {
+        "name": "ALPELISIB",
+        "chembl_id": "CHEMBL2396661",
+        "reason": "same target: Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform"
+      },
+      {
+        "name": "COPANLISIB HYDROCHLORIDE",
+        "chembl_id": "CHEMBL3545068",
+        "reason": "same target: Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform"
+      },
+      {
+        "name": "COPANLISIB",
+        "chembl_id": "CHEMBL3218576",
+        "reason": "same target: Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform"
+      }
+    ]
+  }
+}

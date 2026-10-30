@@ -1,0 +1,156 @@
+{
+  "drug_name": "Midazolam",
+  "slug": "midazolam",
+  "enriched_at": "2026-10-30T14:33:19Z",
+  "source_trial_ids": [
+    "NCT05646862"
+  ],
+  "sponsors": [
+    {
+      "name": "Hoffmann-La Roche",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hoffmann-La%20Roche&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 4192,
+    "iupac_name": "8-chloro-6-(2-fluorophenyl)-1-methyl-4H-imidazo[1,5-a][1,4]benzodiazepine",
+    "molecular_formula": "C18H13ClFN3",
+    "molecular_weight": "325.8",
+    "canonical_smiles": null,
+    "inchikey": "DDLIGBOFAVUZHB-UHFFFAOYSA-N",
+    "rxnorm": {
+      "rxcui": "6960",
+      "generic_name": "midazolam",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL655",
+    "target_chembl_id": "CHEMBL2093872",
+    "target_name": "GABA-A receptor; anion channel",
+    "mechanism_of_action_chembl": "GABA-A receptor; anion channel positive allosteric modulator"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": null,
+    "pharmacokinetics": "Pharmacokinetics: Midazolam's activity is primarily due to the parent drug. Elimination of the parent drug takes place via hepatic metabolism of midazolam to hydroxylated metabolites that are conjugated and excreted in the urine. Six single-dose pharmacokinetic studies involving healthy adults yield pharmacokinetic parameters for midazolam in the following ranges: volume of distribution (Vd), 1.0 to 3.1 L/kg; elimination half-life, 1.8 to 6.4 hours (mean approximately 3 hours); total clearance (Cl), 0.25 to 0.54 L/hr/kg. In a parallel group study, there was no difference in the clearance, in subjects administered 0.15 mg/kg (n=4) and 0.3 mg/kg (n=4) IV doses indicating linear kinetics. The clearance was successively reduced by approximately 30% at doses of 0.45 mg/kg (n=4) and 0.6 mg/kg (n=5) indicating non-linear kinetics in this dose range. Absorption : The absolute bioavailability of the intramuscular route was greater than 90% in a cross-over study in which healthy subjects (n=17) were administered a 7.5 mg IV or IM dose. The mean peak concentration (C max ) and time to peak (T max ) following the IM dose was 90 ng/mL (20% CV) and 0.5 hr (50% CV). C max for the 1-hydroxy metabolite following the IM dose was 8 ng/mL (T max =1.0 hr). Following IM administration, C max for midazolam and its 1-hydroxy metabolite were approximately one-half of those achieved after intravenous injection. Distribution : The volume of distribution (Vd) determined from six single-dose pharmacokinetic studies involving healthy adults ranged from 1.0-3.1 L/kg. Female gender, old age, and obesity are associated with increased values of midazolam Vd. In humans, midazolam has been shown to cross the placenta and enter into fetal circulation and has been detected in human milk and CSF (see CLINICAL PHARMACOLOGY, Special Populations ). In adults and children older than 1 year, midazolam is approximately 97% bound to plasma protein, principally albumin. Metabolism : In vitro studies with human liver microsomes indicate that the biotransformation of midazolam is mediated by cytochrome P450-3A4. This cytochrome also appears to be present in gastrointestinal tract mucosa as well as liver. Sixty to seventy percent of the biotransformation products is 1-hydroxy-midazolam (also termed alpha-hydroxymidazolam) while 4-hydroxy-midazolam constitutes 5% or less. Small amounts of a dihydroxy derivative have also been detected but not quantified. The principal urinary excretion products are glucuronide conjugates of the hydroxylated derivatives. Drugs that inhibit the activity of cytochrome P450-3A4 may inhibit midazolam clearance and elevate steady-state midazolam concentrations. Studies of the intravenous administration of 1-hydroxy-midazolam in humans suggest that 1-hydroxy-midazolam is at least as potent as the parent compound and may contribute to the net pharmacologic activity of midazolam. In vitro studies have demonstrated that the affinities of 1- and 4-hydroxy-midazolam for the benzodiazepine receptor are approximately 20% and 7%, respectively, relative to midazolam. Excretion : Clearance of midazolam is reduced in association with old age, congestive heart failure, liver disease (cirrhosis) or conditions which diminish cardiac output and hepatic blood flow. The principal urinary excretion product is 1-hydroxy-midazolam in the form of a glucuronide conjugate; smaller amounts of the glucuronide conjugates of 4-hydroxy- and dihydroxy-midazolam are detected as well. The amount of midazolam excreted unchanged in the urine after a single IV dose is less than 0.5% (n=5). Following a single IV infusion in 5 healthy volunteers, 45% to 57% of the dose was excreted in the urine as 1-hydroxymethyl midazolam conjugate. Pharmacokinetics-continuous infusion: The pharmacokinetic profile of midazolam following continuous infusion, based on 282 adult subjects, has been shown to be similar to that following single-dose administration for subjects of comparable age, gender, body habitus and health status. However, midazolam can accumulate in peripheral tissues with continuous infusion. The effects of accumulation are greater after long-term infusions than after short-term infusions. The effects of accumulation can be reduced by maintaining the lowest midazolam infusion rate that produces satisfactory sedation. Infrequent hypotensive episodes have occurred during continuous infusion; however, neither the time to onset nor the duration of the episode appeared to be related to plasma concentrations of midazolam or alpha-hydroxy-midazolam. Further, there does not appear to be an increased chance of occurrence of a hypotensive episode with increased loading doses. Patients with renal impairment may have longer elimination half-lives for midazolam (see CLINICAL PHARMACOLOGY, Special Populations: Renal Failure ).",
+    "indications_and_usage": "INDICATIONS AND USAGE Midazolam injection is indicated: intramuscularly or intravenously for preoperative sedation/anxiolysis/amnesia; intravenously as an agent for sedation/anxiolysis/amnesia prior to or during diagnostic, therapeutic or endoscopic procedures, such as bronchoscopy, gastroscopy, cystoscopy, coronary angiography, cardiac catheterization, oncology procedures, radiologic procedures, suture of lacerations and other procedures either alone or in combination with other CNS depressants; intravenously for induction of general anesthesia, before administration of other anesthetic agents. With the use of narcotic premedication, induction of anesthesia can be attained within a relatively narrow dose range and in a short period of time. Intravenous midazolam can also be used as a component of intravenous supplementation of nitrous oxide and oxygen (balanced anesthesia); continuous intravenous infusion for sedation of intubated and mechanically ventilated patients as a component of anesthesia or during treatment in a critical care setting.",
+    "boxed_warning": "WARNINGS Personnel and Equipment for Monitoring and Resuscitation Adults and Pediatrics: Intravenous midazolam hydrochloride has been associated with respiratory depression and respiratory arrest, especially when used for sedation in noncritical care settings. In some cases, where this was not recognized promptly and treated effectively, death or hypoxic encephalopathy has resulted. Intravenous midazolam hydrochloride should be used only in hospital or ambulatory care settings, including physicians' and dental offices, that provide for continuous monitoring of respiratory and cardiac function, e.g., pulse oximetry. Immediate availability of resuscitative drugs and age- and size-appropriate equipment for bag/valve/mask ventilation and intubation, and personnel trained in their use and skilled in airway management should be assured (see WARNINGS ). For deeply sedated pediatric patients, a dedicated individual, other than the practitioner performing the procedure, should monitor the patient throughout the procedure. Risks From Concomitant Use With Opioids Concomitant use of benzodiazepines and opioids may result in profound sedation, respiratory depression, coma, and death. Monitor patients for respiratory depression and sedation (see WARNINGS and PRECAUTIONS ; Drug Interactions ). Individualization of Dosage Midazolam hydrochloride must never be used without individualization of dosage. The initial intravenous dose for sedation in adult patients may be as little as 1 mg, but should not exceed 2.5 mg in a normal healthy adult. Lower doses are necessary for older (over 60 years) or debilitated patients and in patients receiving concomitant narcotics or other central nervous system (CNS) depressants. The initial dose and all subsequent doses should always be titrated slowly; administer over at least 2 minutes and allow an additional 2 or more minutes to fully evaluate the sedative effect. The use of dilution 5 mg/mL formulation is recommended to facilitate slower injection. Doses of sedative medications in pediatric patients must be calculated on a mg/kg basis, and initial doses and all subsequent doses should always be titrated slowly. The initial pediatric dose of midazolam for sedation/anxiolysis/amnesia is age, procedure, and route dependent (see DOSAGE AND ADMINISTRATION for complete dosing information). Neonates: Midazolam hydrochloride should not be administered by rapid injection in the neonatal population. Severe hypotension and seizures have been reported following rapid intravenous administration, particularly with concomitant use of fentanyl (see DOSAGE AND ADMINISTRATION for complete information).",
+    "openfda_brand_names": [
+      "Midazolam"
+    ],
+    "openfda_generic_names": [
+      "MIDAZOLAM HYDROCHLORIDE"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2b29422e-54d5-4a49-8522-e9cf752368c3",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Breast Cancer",
+    "slug": "breast-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05646862",
+      "title": "A Study Evaluating the Efficacy and Safety of Inavolisib Plus Fulvestrant Compared With Alpelisib Plus Fulvestrant in Participants With HR-Positive, HER2-Negative, PIK3CA Mutated, Locally Advanced or Metastatic Breast Cancer Post CDK4/6i and Endocrine Combination Therapy",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05646862",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42947895",
+        "title": "A novel endoscopy-guided airway management strategy for lateral decubitus endoscopic procedures.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42947895/"
+      },
+      {
+        "pmid": "42933579",
+        "title": "Low-dose ketamine modulates brain entropy in treatment-resistant depression: Results from two neuroimaging clinical trials.",
+        "pubdate": "2026 Oct 26",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42933579/"
+      },
+      {
+        "pmid": "42849709",
+        "title": "Randomized controlled trial of acute ketamine versus midazolam for recurrence of suicidality in adolescents (TASK): Rationale, design, and baseline characteristics.",
+        "pubdate": "2026 Oct 8",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42849709/"
+      },
+      {
+        "pmid": "42844637",
+        "title": "Palliative and end-of-life care on the battlefield: a scoping review.",
+        "pubdate": "2026 Sep 26",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42844637/"
+      },
+      {
+        "pmid": "42787594",
+        "title": "Virtual Reality for Anxiety and Pain Management in Lower Limb Orthopedic Surgery Under Spinal Anesthesia: A Randomized Controlled Trial.",
+        "pubdate": "2026 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42787594/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "METHOXYFLURANE",
+        "chembl_id": "CHEMBL1341",
+        "reason": "same target: GABA-A receptor; anion channel"
+      },
+      {
+        "name": "FLUMAZENIL",
+        "chembl_id": "CHEMBL407",
+        "reason": "same target: GABA-A receptor; anion channel"
+      },
+      {
+        "name": "CLORAZEPATE DIPOTASSIUM",
+        "chembl_id": "CHEMBL2096631",
+        "reason": "same target: GABA-A receptor; anion channel"
+      },
+      {
+        "name": "CHLORDIAZEPOXIDE",
+        "chembl_id": "CHEMBL451",
+        "reason": "same target: GABA-A receptor; anion channel"
+      },
+      {
+        "name": "CHLORDIAZEPOXIDE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1200703",
+        "reason": "same target: GABA-A receptor; anion channel"
+      },
+      {
+        "name": "DIAZEPAM",
+        "chembl_id": "CHEMBL12",
+        "reason": "same target: GABA-A receptor; anion channel"
+      },
+      {
+        "name": "ESZOPICLONE",
+        "chembl_id": "CHEMBL1522",
+        "reason": "same target: GABA-A receptor; anion channel"
+      },
+      {
+        "name": "OXAZEPAM",
+        "chembl_id": "CHEMBL568",
+        "reason": "same target: GABA-A receptor; anion channel"
+      },
+      {
+        "name": "MEPROBAMATE",
+        "chembl_id": "CHEMBL979",
+        "reason": "same target: GABA-A receptor; anion channel"
+      },
+      {
+        "name": "CLOBAZAM",
+        "chembl_id": "CHEMBL70418",
+        "reason": "same target: GABA-A receptor; anion channel"
+      }
+    ]
+  }
+}

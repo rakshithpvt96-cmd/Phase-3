@@ -1,7 +1,7 @@
 {
   "drug_name": "Durvalumab, Gemcitabine, Cisplatin",
   "slug": "durvalumab-gemcitabine-cisplatin",
-  "enriched_at": "2026-10-23T13:42:52Z",
+  "enriched_at": "2026-10-30T14:26:06Z",
   "source_trial_ids": [
     "NCT06591520"
   ],
@@ -60,6 +60,12 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42945191",
+        "title": "Dual-Targeted Agent Improves Advanced BTC Survival.",
+        "pubdate": "2026 Oct 27",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42945191/"
+      },
+      {
         "pmid": "42777170",
         "title": "Personalized Therapy in Advanced Cholangiocarcinoma: Contemporary Treatment Approaches and Future Directions.",
         "pubdate": "2026 Sep 23",
@@ -82,12 +88,6 @@
         "title": "Advanced cholangiocarcinoma in 2025: Therapeutic sequencing and global implementation.",
         "pubdate": "2026 Jul 10",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42372729/"
-      },
-      {
-        "pmid": "42144106",
-        "title": "External validation of MAGIC-D model in Taiwanese patients with advanced biliary tract cancer receiving durvalumab and chemotherapy.",
-        "pubdate": "2026 May 16",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42144106/"
       }
     ]
   },
