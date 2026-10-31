@@ -1,6 +1,123 @@
 {
-  "generated_at": "2026-10-30T15:41:08Z",
-  "new_trial_count": 0,
-  "new_trials": [],
-  "removed_trial_ids": []
+  "generated_at": "2026-10-31T13:26:13Z",
+  "new_trial_count": 2,
+  "new_trials": [
+    {
+      "nct_id": "NCT06716203",
+      "title": "A Study of BGM0504 in Poorly Controlled Type 2 Diabetes Patients Only Through Diet and Exercise",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "BrightGene Bio-Medical Technology Co., Ltd.",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-11-14",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Type 2 Diabetes Mellitus (T2DM)"
+      ],
+      "interventions": [
+        {
+          "name": "Drug: 5 mg BGM0504 Administered SC",
+          "type": "DRUG"
+        },
+        {
+          "name": "Drug: : 10 mg BGM0504 Administered SC",
+          "type": "DRUG"
+        },
+        {
+          "name": "Drug: Placebo Administered SC",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "Drug: 5 mg BGM0504 Administered SC",
+        "Drug: : 10 mg BGM0504 Administered SC",
+        "Drug: Placebo Administered SC"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06716203",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "BrightGene Bio-Medical Technology Co., Ltd.",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=BrightGene%20Bio-Medical%20Technology%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-10-31T13:26:02Z"
+      }
+    },
+    {
+      "nct_id": "NCT06716216",
+      "title": "A Study of BGM0504 in Participants With Type 2 Diabetes",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "BrightGene Bio-Medical Technology Co., Ltd.",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-11-14",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Type 2 Diabetes Mellitus (T2DM)"
+      ],
+      "interventions": [
+        {
+          "name": "Drug: 5 mg BGM0504 Administered SC",
+          "type": "DRUG"
+        },
+        {
+          "name": "Drug:10 mg BGM0504 Administered SC",
+          "type": "DRUG"
+        },
+        {
+          "name": "Drug: Semaglutide Administered SC",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "Drug: 5 mg BGM0504 Administered SC",
+        "Drug:10 mg BGM0504 Administered SC",
+        "Drug: Semaglutide Administered SC"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06716216",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "BrightGene Bio-Medical Technology Co., Ltd.",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=BrightGene%20Bio-Medical%20Technology%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-10-31T13:26:02Z"
+      }
+    }
+  ],
+  "removed_trial_ids": [
+    "NCT03539744",
+    "NCT06216028",
+    "NCT06343948",
+    "NCT06382116",
+    "NCT06416852",
+    "NCT06455059",
+    "NCT06514612",
+    "NCT06553027",
+    "NCT06556368",
+    "NCT06602271",
+    "NCT06669754",
+    "NCT06767735",
+    "NCT06779136",
+    "NCT07113392",
+    "NCT07114406",
+    "NCT07298330",
+    "NCT07298434",
+    "NCT07469800",
+    "NCT07473427"
+  ]
 }

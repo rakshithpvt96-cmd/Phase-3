@@ -1,7 +1,7 @@
 {
   "drug_name": "Palazestrant",
   "slug": "palazestrant",
-  "enriched_at": "2026-10-24T11:54:48Z",
+  "enriched_at": "2026-10-31T13:29:03Z",
   "source_trial_ids": [
     "NCT06016738"
   ],
@@ -118,6 +118,16 @@
         "name": "Fulvestrant",
         "chembl_id": null,
         "reason": "same indication trial, sponsor: AstraZeneca"
+      },
+      {
+        "name": "Inavolisib",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Hoffmann-La Roche"
+      },
+      {
+        "name": "Alpelisib",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Hoffmann-La Roche"
       }
     ]
   }

@@ -1,0 +1,110 @@
+{
+  "drug_name": "Drug: Placebo Administered SC",
+  "slug": "drug-placebo-administered-sc",
+  "enriched_at": "2026-10-31T13:26:56Z",
+  "source_trial_ids": [
+    "NCT06716203"
+  ],
+  "sponsors": [
+    {
+      "name": "BrightGene Bio-Medical Technology Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=BrightGene%20Bio-Medical%20Technology%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "8375",
+      "generic_name": "placebo",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1397913",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Drug%3A%20Placebo%20Administered%20SC+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Drug%3A%20Placebo%20Administered%20SC+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Drug%3A%20Placebo%20Administered%20SC+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Type 2 Diabetes Mellitus (T2DM)",
+    "slug": "type-2-diabetes-mellitus-t2dm"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06716203",
+      "title": "A Study of BGM0504 in Poorly Controlled Type 2 Diabetes Patients Only Through Diet and Exercise",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06716203",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42960606",
+        "title": "Tezepelumab in Canadian Adults With Severe Chronic Rhinosinusitis With Nasal Polyps: A Subgroup Analysis of the Phase 3 WAYPOINT Trial.",
+        "pubdate": "2026 Jan-Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42960606/"
+      },
+      {
+        "pmid": "42810372",
+        "title": "Retatrutide in adults with obesity and type 2 diabetes (TRIUMPH-2): a double-blind, parallel-group, randomised, placebo-controlled, phase 3 trial.",
+        "pubdate": "2026 Oct 10",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42810372/"
+      },
+      {
+        "pmid": "42771346",
+        "title": "DNL343 and Disease Progression in Amyotrophic Lateral Sclerosis: A Randomized Clinical Trial.",
+        "pubdate": "2026 Sep 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42771346/"
+      },
+      {
+        "pmid": "42676941",
+        "title": "Effects of Dexmedetomidine on Respiratory Mechanics in Elderly Patients Undergoing Laparoscopic Colorectal Tumor Resection: A Randomized Double-Blinded Trial.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42676941/"
+      },
+      {
+        "pmid": "42671837",
+        "title": "Dose-Dependent Effects of Cannabis Edibles on Simulated Driving Performance: A Randomized Clinical Trial.",
+        "pubdate": "2026 Aug 3",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42671837/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "GZR18",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Gan & Lee Pharmaceuticals."
+      },
+      {
+        "name": "Placebo",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Gan & Lee Pharmaceuticals."
+      }
+    ]
+  }
+}

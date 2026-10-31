@@ -1,0 +1,104 @@
+{
+  "drug_name": "Drug: Semaglutide Administered SC",
+  "slug": "drug-semaglutide-administered-sc",
+  "enriched_at": "2026-10-31T13:27:07Z",
+  "source_trial_ids": [
+    "NCT06716216"
+  ],
+  "sponsors": [
+    {
+      "name": "BrightGene Bio-Medical Technology Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=BrightGene%20Bio-Medical%20Technology%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1991302",
+      "generic_name": "semaglutide",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4556788",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Drug%3A%20Semaglutide%20Administered%20SC+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Drug%3A%20Semaglutide%20Administered%20SC+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Drug%3A%20Semaglutide%20Administered%20SC+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Type 2 Diabetes Mellitus (T2DM)",
+    "slug": "type-2-diabetes-mellitus-t2dm"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06716216",
+      "title": "A Study of BGM0504 in Participants With Type 2 Diabetes",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06716216",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "41335431",
+        "title": "Semaglutide and Early-Stage Metabolic Abnormalities in Individuals With Schizophrenia Spectrum Disorders: A Randomized Clinical Trial.",
+        "pubdate": "2026 Feb 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41335431/"
+      },
+      {
+        "pmid": "40900607",
+        "title": "Semaglutide Treatment of Antipsychotic-Treated Patients With Schizophrenia, Prediabetes, and Obesity: The HISTORI Randomized Clinical Trial.",
+        "pubdate": "2025 Nov 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40900607/"
+      },
+      {
+        "pmid": "37364590",
+        "title": "Efficacy and safety of co-administered once-weekly cagrilintide 2·4 mg with once-weekly semaglutide 2·4 mg in type 2 diabetes: a multicentre, randomised, double-blind, active-controlled, phase 2 trial.",
+        "pubdate": "2023 Aug 26",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37364590/"
+      },
+      {
+        "pmid": "28110911",
+        "title": "Efficacy and safety of once-weekly semaglutide monotherapy versus placebo in patients with type 2 diabetes (SUSTAIN 1): a double-blind, randomised, placebo-controlled, parallel-group, multinational, multicentre phase 3a trial.",
+        "pubdate": "2017 Apr",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28110911/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "GZR18",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Gan & Lee Pharmaceuticals."
+      },
+      {
+        "name": "Placebo",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Gan & Lee Pharmaceuticals."
+      }
+    ]
+  }
+}
