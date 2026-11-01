@@ -1,7 +1,7 @@
 {
   "drug_name": "Placebo",
   "slug": "placebo",
-  "enriched_at": "2026-10-21T12:47:56Z",
+  "enriched_at": "2026-11-01T14:09:55Z",
   "source_trial_ids": [
     "NCT02914535",
     "NCT04652882",
@@ -18,15 +18,12 @@
     "NCT05431179",
     "NCT05511363",
     "NCT05531565",
-    "NCT05608291",
-    "NCT05627648",
     "NCT05636176",
     "NCT05643534",
     "NCT05653349",
     "NCT05677451",
     "NCT05702034",
     "NCT06081894",
-    "NCT06104124",
     "NCT06125951",
     "NCT06200207",
     "NCT06208306",
@@ -36,23 +33,17 @@
     "NCT06309966",
     "NCT06339008",
     "NCT06341335",
-    "NCT06411288",
-    "NCT06455059",
     "NCT06468956",
     "NCT06516952",
     "NCT06516965",
     "NCT06534723",
-    "NCT06553027",
     "NCT06564818",
     "NCT06588855",
-    "NCT06602271",
     "NCT06664619",
-    "NCT06669754",
     "NCT06719141",
     "NCT06762548",
     "NCT06775379",
     "NCT06777238",
-    "NCT06779136",
     "NCT06783114",
     "NCT06834347",
     "NCT06834360",
@@ -67,16 +58,20 @@
     "NCT07251309",
     "NCT07265284",
     "NCT07279194",
-    "NCT07298434",
     "NCT07300839",
-    "NCT07363720",
-    "NCT07469800",
+    "NCT07392125",
     "NCT07473960",
     "NCT07555392",
     "NCT07669454",
     "NCT07669467"
   ],
   "sponsors": [
+    {
+      "name": "Achieve Life Sciences",
+      "ticker": "ACHV",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000949858&type=10-K&dateb=&owner=include&count=40"
+    },
     {
       "name": "Actinogen Medical",
       "ticker": null,
@@ -120,22 +115,10 @@
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Arthrosi%20Therapeutics&type=10-K&dateb=&owner=include&count=40"
     },
     {
-      "name": "Avidity Biosciences, Inc.",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Avidity%20Biosciences%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
       "name": "Bharat Biotech International Limited",
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Bharat%20Biotech%20International%20Limited&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
-      "name": "BioMarin Pharmaceutical",
-      "ticker": "BMRN",
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001048477&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "BioNTech SE",
@@ -160,12 +143,6 @@
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=CSPC%20Ouyi%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
-      "name": "Cerevance",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Cerevance&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Chongqing Claruvis Pharmaceutical Co., Ltd.",
@@ -196,12 +173,6 @@
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Eli%20Lilly%20and%20Company&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
-      "name": "Ensysce Biosciences",
-      "ticker": "ENSC",
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001716947&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Epygenix",
@@ -252,12 +223,6 @@
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Innovent%20Biopharmaceutical%20Technology%20%28Hangzhou%29%20Co.%2C%20LTD.&type=10-K&dateb=&owner=include&count=40"
     },
     {
-      "name": "Invivyd, Inc.",
-      "ticker": "IVVD",
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001832038&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
       "name": "Janssen Research & Development, LLC",
       "ticker": null,
       "market_cap_display": null,
@@ -274,12 +239,6 @@
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Karuna%20Therapeutics%2C%20Inc.%2C%20a%20Bristol%20Myers%20Squibb%20company&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
-      "name": "Kringle Pharma, Inc.",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Kringle%20Pharma%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Longboard Pharmaceuticals",
@@ -336,22 +295,10 @@
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Oncternal%20Therapeutics%2C%20Inc&type=10-K&dateb=&owner=include&count=40"
     },
     {
-      "name": "Pharvaris Netherlands B.V.",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Pharvaris%20Netherlands%20B.V.&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
       "name": "Qilu Pharmaceutical Co., Ltd.",
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Qilu%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
-      "name": "Regeneron Pharmaceuticals",
-      "ticker": "REGN",
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000872589&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Sanofi",
@@ -360,22 +307,10 @@
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001121404&type=10-K&dateb=&owner=include&count=40"
     },
     {
-      "name": "Shanghai Mabgeek Biotech.Co.Ltd",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Shanghai%20Mabgeek%20Biotech.Co.Ltd&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
       "name": "Sichuan Jishengtang Pharmaceutical Co., Ltd.",
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Sichuan%20Jishengtang%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
-      "name": "Takeda",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Takeda&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Teva Branded Pharmaceutical Products R&D LLC",
@@ -439,8 +374,8 @@
     }
   },
   "condition": {
-    "raw": "Sjogren's Syndrome",
-    "slug": "sjogren-s-syndrome"
+    "raw": "Type 2 Diabetes Mellitus (T2DM)",
+    "slug": "type-2-diabetes-mellitus-t2dm"
   },
   "source_trials": [
     {
@@ -549,20 +484,6 @@
       "has_results": false
     },
     {
-      "nct_id": "NCT05608291",
-      "title": "A Trial to See if the Combination of Fianlimab With Cemiplimab Works Better Than Pembrolizumab for Preventing or Delaying Melanoma From Coming Back After it Has Been Removed With Surgery",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT05608291",
-      "has_results": false
-    },
-    {
-      "nct_id": "NCT05627648",
-      "title": "Phase 3 Study of KP-100LI in Subjects With Vocal Fold Scar",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT05627648",
-      "has_results": false
-    },
-    {
       "nct_id": "NCT05636176",
       "title": "A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With Heart Failure and Inflammation",
       "status": "TERMINATED",
@@ -602,13 +523,6 @@
       "title": "A Trial to Evaluate the Efficacy and Safety of Aficamten Compared to Placebo in Adults With Symptomatic Non-Obstructive Hypertrophic Cardiomyopathy (nHCM)",
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT06081894",
-      "has_results": false
-    },
-    {
-      "nct_id": "NCT06104124",
-      "title": "A Study to Evaluate the Efficacy and Safety of Dazodalibep in Participants With Sjögren's Syndrome (SS) With Moderate-to-severe Systemic Disease Activity",
-      "status": "COMPLETED",
-      "url": "https://clinicaltrials.gov/study/NCT06104124",
       "has_results": false
     },
     {
@@ -675,20 +589,6 @@
       "has_results": false
     },
     {
-      "nct_id": "NCT06411288",
-      "title": "Global Study of Del-desiran for the Treatment of DM1",
-      "status": "COMPLETED",
-      "url": "https://clinicaltrials.gov/study/NCT06411288",
-      "has_results": false
-    },
-    {
-      "nct_id": "NCT06455059",
-      "title": "Interventional Study of Vosoritide for the Treatment of Children With Hypochondroplasia",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06455059",
-      "has_results": false
-    },
-    {
       "nct_id": "NCT06468956",
       "title": "Efficacy and Safety Study of SHR-1819 Injection in Adult Patients With Severe Atopic Dermatitis",
       "status": "COMPLETED",
@@ -717,16 +617,9 @@
       "has_results": false
     },
     {
-      "nct_id": "NCT06553027",
-      "title": "To Evaluate the Efficacy of CVN424 in Parkinson's Disease Participants With Motor Complications",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06553027",
-      "has_results": false
-    },
-    {
       "nct_id": "NCT06564818",
       "title": "\"A Study of a Deuterated Psilocin Analog (CYB003) in Humans With Major Depressive Disorder\"",
-      "status": "ACTIVE_NOT_RECRUITING",
+      "status": "COMPLETED",
       "url": "https://clinicaltrials.gov/study/NCT06564818",
       "has_results": false
     },
@@ -738,24 +631,10 @@
       "has_results": false
     },
     {
-      "nct_id": "NCT06602271",
-      "title": "PF614 Analgesic Activity in Acute Postoperative Pain (PF614-301)",
-      "status": "RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06602271",
-      "has_results": false
-    },
-    {
       "nct_id": "NCT06664619",
       "title": "A Randomized, Double-Blind, Placebo-Controlled Trial on Efficacy and Safety of Fluticasone Propionate/Albuterol Sulfate Combination in Participants 12 Years and Older With Asthma",
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT06664619",
-      "has_results": false
-    },
-    {
-      "nct_id": "NCT06669754",
-      "title": "Study of Oral Deucrictibant Extended-Release Tablet for Prophylaxis Against Angioedema Attacks in Adolescents and Adults With HAE",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06669754",
       "has_results": false
     },
     {
@@ -784,13 +663,6 @@
       "title": "A Phase III Clinical Study to Evaluate the Efficacy and Safety of GZR18 Injection in Subjects With Type 2 Diabetes Mellitus and Poor Blood Glucose Control by Diet and Exercise",
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT06777238",
-      "has_results": false
-    },
-    {
-      "nct_id": "NCT06779136",
-      "title": "Phase III Clinical Study of MG-K10 Humanized Mab Injection in Subjects With Prurigo Nodularis",
-      "status": "RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06779136",
       "has_results": false
     },
     {
@@ -892,13 +764,6 @@
       "has_results": false
     },
     {
-      "nct_id": "NCT07298434",
-      "title": "Study of VYD2311 for the Prevention of COVID-19",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT07298434",
-      "has_results": false
-    },
-    {
       "nct_id": "NCT07300839",
       "title": "A Study to Learn About a COVID-19 Vaccine in Healthy Adults 50 Through 64 Years of Age",
       "status": "COMPLETED",
@@ -906,17 +771,10 @@
       "has_results": false
     },
     {
-      "nct_id": "NCT07363720",
-      "title": "A Trial of TAK-861 for the Treatment of Narcolepsy With Cataplexy",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT07363720",
-      "has_results": false
-    },
-    {
-      "nct_id": "NCT07469800",
-      "title": "Efficacy and Safety of IBI362 in Hypertensive Patients With Overweight/Obesity",
-      "status": "RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT07469800",
+      "nct_id": "NCT07392125",
+      "title": "Phase 3 Trial Evaluating the Efficacy and Safety of Cytisinicline for Vaping Cessation in Adults Using Nicotine-Containing E Cigarettes",
+      "status": "NOT_YET_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07392125",
       "has_results": false
     },
     {
@@ -952,40 +810,66 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42902572",
-        "title": "Proenkephalin A and Heterogeneity of Hydrocortisone Treatment Effect in Septic Shock: A Post Hoc Analysis of the VANISH Trial.",
-        "pubdate": "2026 Oct 1",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42902572/"
-      },
-      {
-        "pmid": "42902396",
-        "title": "Randomised, placebo-controlled study to assess the safety and efficacy of Enterosgel® in the treatment of functional abdominal pain in children and young people (ENTOPIC): study protocol for a clinical trial.",
-        "pubdate": "2026 Jul 25",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42902396/"
-      },
-      {
-        "pmid": "42901423",
-        "title": "Efficacy and safety of QY201, an oral dual Janus kinase 1/tyrosine kinase 2 inhibitor, in adults with moderate-to-severe atopic dermatitis: a multicenter, randomized, double-blind, placebo-controlled phase 2 dose-finding trial.",
-        "pubdate": "2026 Oct 20",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42901423/"
-      },
-      {
-        "pmid": "42898904",
-        "title": "Evaluating IMMPACT Criteria for the Clinical Meaningfulness of Between-Group Differences: Interpreting Randomized Trial Results within a Context of Existing Chronic Pain Analgesics.",
+        "pmid": "42967138",
+        "title": "Effect of Preoperative Intranasal Dexmedetomidine on Postoperative Myocardial Injury in Patients Undergoing Coronary Artery Bypass Grafting.",
         "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42898904/"
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42967138/"
       },
       {
-        "pmid": "42898854",
-        "title": "Pembrolizumab plus gemcitabine and cisplatin for advanced biliary tract cancer: longer-term follow-up from the randomised, double-blind, placebo-controlled, phase 3 KEYNOTE-966 trial.",
-        "pubdate": "2026 Oct",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42898854/"
+        "pmid": "42965874",
+        "title": "S1P receptors in ulcerative colitis: spotlight on Etrasimod.",
+        "pubdate": "2026 Oct 31",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42965874/"
+      },
+      {
+        "pmid": "42965558",
+        "title": "Colchicine and Perioperative Acute Kidney Injury: A Substudy of the COP-AF Randomized Clinical Trial.",
+        "pubdate": "2026 Oct 30",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42965558/"
+      },
+      {
+        "pmid": "42964955",
+        "title": "A mechanistic quantitative systems pharmacology framework for glucosamine sulfate in knee osteoarthritis: linking exposure, cartilage biology, and clinical outcomes.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42964955/"
+      },
+      {
+        "pmid": "42964859",
+        "title": "Effect of Risedronate on Rib Cortical Thickness After Stereotactic Body Radiotherapy to Peripheral Lung Tumors: Results of a Randomized Phase 2 Trial.",
+        "pubdate": "2026 Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42964859/"
       }
     ]
   },
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": []
+    "items": [
+      {
+        "name": "Drug: 5 mg BGM0504 Administered SC",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: BrightGene Bio-Medical Technology Co., Ltd."
+      },
+      {
+        "name": "Drug: : 10 mg BGM0504 Administered SC",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: BrightGene Bio-Medical Technology Co., Ltd."
+      },
+      {
+        "name": "Drug: Placebo Administered SC",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: BrightGene Bio-Medical Technology Co., Ltd."
+      },
+      {
+        "name": "Drug:10 mg BGM0504 Administered SC",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: BrightGene Bio-Medical Technology Co., Ltd."
+      },
+      {
+        "name": "Drug: Semaglutide Administered SC",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: BrightGene Bio-Medical Technology Co., Ltd."
+      }
+    ]
   }
 }

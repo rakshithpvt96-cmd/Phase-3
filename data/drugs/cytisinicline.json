@@ -1,0 +1,156 @@
+{
+  "drug_name": "Cytisinicline",
+  "slug": "cytisinicline",
+  "enriched_at": "2026-11-01T14:10:56Z",
+  "source_trial_ids": [
+    "NCT07392125"
+  ],
+  "sponsors": [
+    {
+      "name": "Achieve Life Sciences",
+      "ticker": "ACHV",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000949858&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 10235,
+    "iupac_name": "(1R,9S)-7,11-diazatricyclo[7.3.1.02,7]trideca-2,4-dien-6-one",
+    "molecular_formula": "C11H14N2O",
+    "molecular_weight": "190.24",
+    "canonical_smiles": null,
+    "inchikey": "ANJTVLIZGCUXLD-DTWKUNHWSA-N",
+    "rxnorm": {
+      "rxcui": "1723152",
+      "generic_name": "cytisine",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL497939",
+    "target_chembl_id": "CHEMBL1907589",
+    "target_name": "Neuronal acetylcholine receptor; alpha4/beta2",
+    "mechanism_of_action_chembl": "Neuronal acetylcholine receptor; alpha4/beta2 partial agonist"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Cytisinicline+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Cytisinicline+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Cytisinicline+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Vaping Cessation",
+    "slug": "vaping-cessation"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07392125",
+      "title": "Phase 3 Trial Evaluating the Efficacy and Safety of Cytisinicline for Vaping Cessation in Adults Using Nicotine-Containing E Cigarettes",
+      "status": "NOT_YET_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07392125",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42389948",
+        "title": "Interventions for smoking cessation in inpatient psychiatry settings.",
+        "pubdate": "2026 Jul 2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42389948/"
+      },
+      {
+        "pmid": "41885781",
+        "title": "An evaluation of cytisinicline for smoking cessation in adult smokers.",
+        "pubdate": "2026 Mar",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41885781/"
+      },
+      {
+        "pmid": "41576369",
+        "title": "Efficacy, Safety, and Economic Impact of Cytisinicline Maintenance Therapy in Patients Who Are Candidates for Smoking Cessation: Protocol for a Phase IV, Multicenter, Randomized, Open-Label, Controlled, Parallel Clinical Trial (CITISILONG Trial).",
+        "pubdate": "2026 Jan 23",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41576369/"
+      },
+      {
+        "pmid": "40962497",
+        "title": "Cytisinicline for smoking cessation in individuals with self-reported COPD: a post hoc analysis of the ORCA-2 and ORCA-3 trials.",
+        "pubdate": "2026 Jan 15",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40962497/"
+      },
+      {
+        "pmid": "40257755",
+        "title": "Cytisinicline for Smoking Cessation: The ORCA Phase 3 Replication Randomized Clinical Trial.",
+        "pubdate": "2025 Jun 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40257755/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "NICOTINE POLACRILEX",
+        "chembl_id": "CHEMBL1201536",
+        "reason": "same target: Neuronal acetylcholine receptor; alpha4/beta2"
+      },
+      {
+        "name": "NICOTINE",
+        "chembl_id": "CHEMBL3",
+        "reason": "same target: Neuronal acetylcholine receptor; alpha4/beta2"
+      },
+      {
+        "name": "VARENICLINE TARTRATE",
+        "chembl_id": "CHEMBL6067972",
+        "reason": "same target: Neuronal acetylcholine receptor; alpha4/beta2"
+      },
+      {
+        "name": "TC-2216",
+        "chembl_id": "CHEMBL504652",
+        "reason": "same target: Neuronal acetylcholine receptor; alpha4/beta2"
+      },
+      {
+        "name": "ABT-560",
+        "chembl_id": "CHEMBL3707354",
+        "reason": "same target: Neuronal acetylcholine receptor; alpha4/beta2"
+      },
+      {
+        "name": "ISPRONICLINE",
+        "chembl_id": "CHEMBL188462",
+        "reason": "same target: Neuronal acetylcholine receptor; alpha4/beta2"
+      },
+      {
+        "name": "TEBANICLINE TOSYLATE",
+        "chembl_id": "CHEMBL2104964",
+        "reason": "same target: Neuronal acetylcholine receptor; alpha4/beta2"
+      },
+      {
+        "name": "SOFINICLINE",
+        "chembl_id": "CHEMBL238465",
+        "reason": "same target: Neuronal acetylcholine receptor; alpha4/beta2"
+      },
+      {
+        "name": "SIMPINICLINE",
+        "chembl_id": "CHEMBL4594254",
+        "reason": "same target: Neuronal acetylcholine receptor; alpha4/beta2"
+      },
+      {
+        "name": "AZD1446",
+        "chembl_id": "CHEMBL2179529",
+        "reason": "same target: Neuronal acetylcholine receptor; alpha4/beta2"
+      }
+    ]
+  }
+}

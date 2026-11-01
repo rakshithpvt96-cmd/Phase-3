@@ -1,7 +1,7 @@
 {
   "drug_name": "AlloStim® immunotherapy",
   "slug": "allostim-immunotherapy",
-  "enriched_at": "2026-10-25T12:26:32Z",
+  "enriched_at": "2026-11-01T14:10:22Z",
   "source_trial_ids": [
     "NCT05033522"
   ],
@@ -64,11 +64,6 @@
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
     "items": [
-      {
-        "name": "TACE+Camrelizumab+Apatinib mesylate",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Jiangsu HengRui Medicine Co., Ltd."
-      },
       {
         "name": "Durvalumab",
         "chembl_id": null,
