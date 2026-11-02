@@ -1,0 +1,94 @@
+{
+  "drug_name": "furmonertinib 240 mg oral, daily",
+  "slug": "furmonertinib-240-mg-oral-daily",
+  "enriched_at": "2026-11-02T16:54:56Z",
+  "source_trial_ids": [
+    "NCT05607550"
+  ],
+  "sponsors": [
+    {
+      "name": "ArriVent BioPharma, Inc.",
+      "ticker": "AVBP",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001868279&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2471543",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2108778",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": "Biological vaccine - induces immune response"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=furmonertinib%20240%20mg%20oral%2C%20daily+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=furmonertinib%20240%20mg%20oral%2C%20daily+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=furmonertinib%20240%20mg%20oral%2C%20daily+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Metastatic Non-Small Cell Lung Cancer",
+    "slug": "metastatic-non-small-cell-lung-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05607550",
+      "title": "Study to Compare Furmonertinib to Platinum-Based Chemotherapy for Patients With Locally Advanced or Metastatic Non-Small Cell Lung Cancer (NSCLC) With Epidermal Growth Factor Receptor (EGFR) Exon 20 Insertion Mutations (FURVENT)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05607550",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "Volrustomig",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: AstraZeneca"
+      },
+      {
+        "name": "Pembrolizumab",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: AstraZeneca"
+      },
+      {
+        "name": "Carboplatin",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: AstraZeneca"
+      },
+      {
+        "name": "Paclitaxel",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: AstraZeneca"
+      },
+      {
+        "name": "Pemetrexed",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: AstraZeneca"
+      }
+    ]
+  }
+}

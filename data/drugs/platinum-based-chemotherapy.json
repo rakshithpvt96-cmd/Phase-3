@@ -1,0 +1,125 @@
+{
+  "drug_name": "platinum-based chemotherapy",
+  "slug": "platinum-based-chemotherapy",
+  "enriched_at": "2026-11-02T16:55:18Z",
+  "source_trial_ids": [
+    "NCT05607550"
+  ],
+  "sponsors": [
+    {
+      "name": "ArriVent BioPharma, Inc.",
+      "ticker": "AVBP",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001868279&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1311280",
+      "generic_name": "platinum",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL324631",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=platinum-based%20chemotherapy+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=platinum-based%20chemotherapy+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=platinum-based%20chemotherapy+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Metastatic Non-Small Cell Lung Cancer",
+    "slug": "metastatic-non-small-cell-lung-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05607550",
+      "title": "Study to Compare Furmonertinib to Platinum-Based Chemotherapy for Patients With Locally Advanced or Metastatic Non-Small Cell Lung Cancer (NSCLC) With Epidermal Growth Factor Receptor (EGFR) Exon 20 Insertion Mutations (FURVENT)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05607550",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42945508",
+        "title": "PARP Inhibitors in the Management of Ovarian Cancer: ASCO Living Guideline, Version 2026.1.0.",
+        "pubdate": "2026 Oct 27",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42945508/"
+      },
+      {
+        "pmid": "42933461",
+        "title": "Izalontamab brengitecan versus platinum-based chemotherapy in EGFR-mutated advanced non-squamous non-small-cell lung cancer after progression on third-generation EGFR tyrosine kinase inhibitors (PANKU-Lung01): a multicentre, randomised, open-label, phase 3 trial in China.",
+        "pubdate": "2026 Oct 26",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42933461/"
+      },
+      {
+        "pmid": "42933460",
+        "title": "Sacituzumab tirumotecan versus treatment of physician's choice in previously treated endometrial cancer (TroFuse-005/ENGOT-en23/GOG-3095): a randomised, open-label, phase 3 trial.",
+        "pubdate": "2026 Oct 26",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42933460/"
+      },
+      {
+        "pmid": "42931961",
+        "title": "Intensity-modulated radiotherapy combined with albumin-bound paclitaxel and platinum-based chemotherapy for locoregional recurrent cervical cancer: a single-institutional phase II investigator-initiated nonrandomized clinical trial.",
+        "pubdate": "2026 Jul 28",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42931961/"
+      },
+      {
+        "pmid": "42929694",
+        "title": "Sacituzumab Tirumotecan plus Pembrolizumab in PD-L1-Negative Advanced NSCLC.",
+        "pubdate": "2026 Oct 25",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42929694/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "Volrustomig",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: AstraZeneca"
+      },
+      {
+        "name": "Pembrolizumab",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: AstraZeneca"
+      },
+      {
+        "name": "Carboplatin",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: AstraZeneca"
+      },
+      {
+        "name": "Paclitaxel",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: AstraZeneca"
+      },
+      {
+        "name": "Pemetrexed",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: AstraZeneca"
+      }
+    ]
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "drug_name": "Zilucoplan",
+  "slug": "zilucoplan",
+  "enriched_at": "2026-11-02T16:56:35Z",
+  "source_trial_ids": [
+    "NCT06055959"
+  ],
+  "sponsors": [
+    {
+      "name": "UCB Biopharma SRL",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=UCB%20Biopharma%20SRL&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 133083018,
+    "iupac_name": "(2S)-2-[[(2S)-2-[[(2S)-1-[(2S)-2-[[(2S)-2-[[(2S)-2-[[(2S)-2-[[(2S)-2-[[(2S)-2-[[(2S,5S,8S,11S,14S,22S)-22-acetamido-11-benzyl-8-(3-carbamimidamidopropyl)-5-(2-carboxyethyl)-3,6,9,12,16,23-hexaoxo-2-propan-2-yl-1,4,7,10,13,17-hexazacyclotricosane-14-carbonyl]-methylamino]-3-carboxypropanoyl]amino]-3,3-dimethylbutanoyl]amino]-3-(4-hydroxyphenyl)propanoyl]amino]-3-(1H-pyrrolo[2,3-b]pyridin-3-yl)propanoyl]amino]-4-carboxybutanoyl]amino]-3-(4-hydroxyphenyl)propanoyl]pyrrolidine-2-carbonyl]amino]-2-cyclohexylacetyl]amino]-6-[3-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[[(4S)-4-carboxy-4-(hexadecanoylamino)butanoyl]amino]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]propanoylamino]hexanoic acid",
+    "molecular_formula": "C172H278N24O55",
+    "molecular_weight": "3562",
+    "canonical_smiles": null,
+    "inchikey": "JDXCOXKBIGBZSK-PSNKNOTQSA-N",
+    "rxnorm": {
+      "rxcui": "2672489",
+      "generic_name": "zilucoplan",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4298207",
+    "target_chembl_id": "CHEMBL2364163",
+    "target_name": "Complement C5",
+    "mechanism_of_action_chembl": "Complement C5 inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Zilucoplan binds to the complement protein C5 and inhibits its cleavage to C5a and C5b, preventing the generation of the terminal complement complex, C5b-9. The precise mechanism by which zilucoplan exerts its therapeutic effect in generalized myasthenia gravis is unknown but is presumed to involve reduction of C5b-9 deposition at the neuromuscular junction.",
+    "pharmacokinetics": "12.3 Pharmacokinetics The population pharmacokinetics (PK) analysis showed that zilucoplan PK was not time dependent. Following single daily subcutaneous administration of ZILBRYSQ (0.05 mg/kg, 0.1 mg/kg, 0.2 mg/kg, and 0.4 mg/kg) in healthy subjects, increase in peak plasma concentration was approximately dose proportional and increase in area under the curve was less than dose proportional. Absorption Following single and multiple daily subcutaneous administration of ZILBRYSQ 0.3 mg/kg in healthy subjects, zilucoplan reached peak plasma concentration generally between 3 to 6 hours post-dose. Following daily subcutaneous dosing of ZILBRYSQ 0.3 mg/kg for 14 days in healthy subjects, both the peak plasma concentration and exposure (AUC tau ) increased by approximately 3-fold. In Study 1 [see Clinical Studies (14) ] , after daily repeated subcutaneous administration of ZILBRYSQ 0.3 mg/kg, plasma concentrations of zilucoplan were consistent, with steady state trough concentrations being reached by four weeks of treatment with ZILBRYSQ through twelve weeks. Distribution The mean volume of distribution at steady state was 3.51 L in the population pharmacokinetics analysis for adult patients with gMG. Zilucoplan and its 2 major metabolites are highly bound to plasma proteins (>99%). Elimination The mean plasma terminal half-life of zilucoplan was approximately 172 hours (7 to 8 days). Metabolism As a peptide, ZILBRYSQ is expected to be degraded into small peptides and amino acids via catabolic pathways. In plasma, two major metabolites, RA103488 and RA102758, were detected. The metabolite RA103488, formed mainly because of cytochrome CYP450 4F2, has pharmacological activity similar to zilucoplan but is present at a much lower concentration compared to zilucoplan. The metabolite RA102758, formed by protease mediated degradation, is pharmacologically inactive. The AUCs of both metabolites were approximately 10% of the parent AUC. The contribution of RA103488 to pharmacological activity is therefore expected to be low. Excretion Excretion of zilucoplan and its metabolite in urine and feces was negligible (<1% of the dose). Specific Populations Age, Sex, and Race A population pharmacokinetics analysis assessing the effects of age, sex, and race did not suggest any clinically significant impact of these covariates on zilucoplan exposures. Patients with Renal Impairment A dedicated clinical study compared the pharmacokinetics of a single subcutaneous dose of ZILBRYSQ 0.3 mg/kg in subjects with severe renal impairment (as defined by a creatinine clearance <30 mL/min estimated by Cockcroft-Gault formula) to that of matched healthy subjects with normal renal function. A decrease in zilucoplan exposure (AUC 0-inf ) of 13% was observed. This change in zilucoplan exposures is not expected to be clinically significant. No dose adjustment is required in patients with renal impairment. Patients with Hepatic Impairment A dedicated clinical study compared the pharmacokinetics of a single subcutaneous dose of ZILBRYSQ 0.3 mg/kg in subjects with moderate hepatic impairment (as indicated by a Child-Pugh category of moderate [score of 7 to 9]) to that of matched healthy subjects with normal hepatic function. A decrease in zilucoplan exposure (AUC 0-inf ) of 24% was observed. This change in zilucoplan exposures is not expected to be clinically significant. No dose adjustment is required in patients with mild or moderate hepatic impairment. The pharmacokinetics of zilucoplan in patients with severe hepatic impairment have not been studied. Drug Interactions Clinical drug interaction studies have not been performed with zilucoplan. In vitro studies have shown that zilucoplan is not a substrate of major cytochrome P450 (CYP) enzymes (1A2, 2B6, 2C8, 2C9, 2C19, 2D6, and 3A) or transporters (P-gp, BCRP, OATP1B1, and OATP1B3). Based on the results from in vitro drug interaction testing, clinically relevant interactions between zilucoplan and substrates of CYP enzymes (1A2, 2B6, 2C8, 2C9, 2C19, 2D6, 3A, and 4F), uridine diphosphoglucuronosyl transferases (UGTs; 1A1, 1A3, 1A4, 1A6, 1A9, 2B7, and 2B15), and transporters (P-gp, BCRP, OATP1B1, OATP1B3, OAT1, OAT3, MATE1, MATE2-K, OCT1, and OCT2) is unlikely.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE ZILBRYSQ is indicated for the treatment of generalized myasthenia gravis (gMG) in adult patients who are anti-acetylcholine receptor (AChR) antibody positive. ZILBRYSQ is a complement inhibitor indicated for the treatment of generalized myasthenia gravis (gMG) in adult patients who are anti-acetylcholine receptor (AChR) antibody positive. ( 1 )",
+    "boxed_warning": "WARNING: SERIOUS MENINGOCOCCAL INFECTIONS ZILBRYSQ, a complement inhibitor, increases the risk of serious infections caused by Neisseria meningitidis [see Warnings and Precautions (5.1) ] . Life-threatening and fatal meningococcal infections have occurred in patients treated with complement inhibitors. These infections may become rapidly life-threatening or fatal if not recognized and treated early. Complete or update vaccination for meningococcal bacteria (for serogroups A, C, W, Y, and B) at least 2 weeks prior to the first dose of ZILBRYSQ, unless the risks of delaying therapy outweigh the risk of developing a serious infection. Comply with the most current Advisory Committee on Immunization Practices (ACIP) recommendations for vaccination against meningococcal bacteria in patients receiving a complement inhibitor. See Warnings and Precautions (5.1) for additional guidance on the management of the risk of serious infections caused by meningococcal bacteria. Patients receiving ZILBRYSQ are at increased risk for invasive disease caused by Neisseria meningitidis , even if they develop antibodies following vaccination. Monitor patients for early signs and symptoms of serious meningococcal infections and evaluate immediately if infection is suspected. Because of the risk of serious meningococcal infections, ZILBRYSQ is available only through a restricted program under a Risk Evaluation and Mitigation Strategy (REMS) called ZILBRYSQ REMS [see Warnings and Precautions (5.2) ] . WARNING: SERIOUS MENINGOCOCCAL INFECTIONS See full prescribing information for complete boxed warning. ZILBRYSQ increases the risk of serious and life-threatening infections caused by Neisseria meningitidis . ( 5.1 ) Complete or update meningococcal vaccination at least 2 weeks prior to the first dose of ZILBRYSQ, unless the risks of delaying ZILBRYSQ outweigh the risks of developing a serious infection. Comply with the most current Advisory Committee on Immunization Practices (ACIP) recommendations for meningococcal vaccination in patients receiving a complement inhibitor. ( 5.1 ) Patients receiving ZILBRYSQ are at increased risk for invasive disease caused by N. meningitidis , even if they develop antibodies following vaccination. Monitor patients for early signs and symptoms of meningococcal infections and evaluate immediately if infection is suspected. ( 5.1 ) ZILBRYSQ is available only through a restricted program called ZILBRYSQ REMS. ( 5.2 )",
+    "openfda_brand_names": [
+      "ZILBRYSQ"
+    ],
+    "openfda_generic_names": [
+      "ZILUCOPLAN"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9f1d53d6-e495-4a3a-8bb9-680a15d25034",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Generalized Myasthenia Gravis",
+    "slug": "generalized-myasthenia-gravis"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06055959",
+      "title": "A Study to Evaluate Subcutaneous Zilucoplan in Pediatric Participants With Generalized Myasthenia Gravis",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06055959",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42786374",
+        "title": "Comparative Efficacy of Zilucoplan Versus Intravenous Immunoglobulin, Eculizumab, and Ravulizumab Using Matching-Adjusted Indirect Comparisons.",
+        "pubdate": "2026 Sep 24",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42786374/"
+      },
+      {
+        "pmid": "42768201",
+        "title": "Regimen-stratified Bayesian model-based meta-analysis of targeted biologics in generalised myasthenia gravis: efficacy comparison, mechanism-level class contrast, and endpoint sensitivity with model-informed trial design.",
+        "pubdate": "2026 Sep 22",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42768201/"
+      },
+      {
+        "pmid": "42492371",
+        "title": "Site-targeted proximal complement C3 inhibition, but not C5 blockade, attenuates neurodegeneration in a mouse model of amyotrophic lateral sclerosis: Implications for failed clinical trials.",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42492371/"
+      },
+      {
+        "pmid": "42485478",
+        "title": "",
+        "pubdate": "2026 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42485478/"
+      },
+      {
+        "pmid": "41505161",
+        "title": "Novel Therapies for Generalized Myasthenia Gravis: Insights Into FcRn and Complement Inhibition.",
+        "pubdate": "2026 Jan-Feb 01",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41505161/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "ECULIZUMAB",
+        "chembl_id": "CHEMBL1201828",
+        "reason": "same target: Complement C5"
+      },
+      {
+        "name": "PEXELIZUMAB",
+        "chembl_id": "CHEMBL2107979",
+        "reason": "same target: Complement C5"
+      },
+      {
+        "name": "VILOBELIMAB",
+        "chembl_id": "CHEMBL2109636",
+        "reason": "same target: Complement C5"
+      },
+      {
+        "name": "RAVULIZUMAB",
+        "chembl_id": "CHEMBL3989986",
+        "reason": "same target: Complement C5"
+      },
+      {
+        "name": "TESIDOLUMAB",
+        "chembl_id": "CHEMBL4298012",
+        "reason": "same target: Complement C5"
+      },
+      {
+        "name": "NOMACOPAN",
+        "chembl_id": "CHEMBL4297928",
+        "reason": "same target: Complement C5"
+      },
+      {
+        "name": "OLENDALIZUMAB",
+        "chembl_id": "CHEMBL3990025",
+        "reason": "same target: Complement C5"
+      },
+      {
+        "name": "POZELIMAB",
+        "chembl_id": "CHEMBL4298086",
+        "reason": "same target: Complement C5"
+      },
+      {
+        "name": "CROVALIMAB",
+        "chembl_id": "CHEMBL4594316",
+        "reason": "same target: Complement C5"
+      },
+      {
+        "name": "ZILUCOPLAN SODIUM",
+        "chembl_id": "CHEMBL5315048",
+        "reason": "same target: Complement C5"
+      }
+    ]
+  }
+}

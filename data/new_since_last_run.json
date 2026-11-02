@@ -1,6 +1,180 @@
 {
-  "generated_at": "2026-11-01T15:52:50Z",
-  "new_trial_count": 0,
-  "new_trials": [],
-  "removed_trial_ids": []
+  "generated_at": "2026-11-02T16:54:20Z",
+  "new_trial_count": 4,
+  "new_trials": [
+    {
+      "nct_id": "NCT03737214",
+      "title": "A Study to Evaluate the Long-term Safety and Tolerability of Lucerastat in Adult Subjects With Fabry Disease",
+      "status": "COMPLETED",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Idorsia Pharmaceuticals Ltd.",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-08-31",
+      "primary_completion_date_type": "ACTUAL",
+      "window": "lookback",
+      "conditions": [
+        "Fabry Disease"
+      ],
+      "interventions": [
+        {
+          "name": "Lucerastat",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "Lucerastat"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT03737214",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Idorsia Pharmaceuticals Ltd.",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Idorsia%20Pharmaceuticals%20Ltd.&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-11-02T16:54:12Z"
+      }
+    },
+    {
+      "nct_id": "NCT04849728",
+      "title": "A Phase 3 Study Evaluating Efficacy and Safety of Lanifibranor Followed by an Active Treatment Extension in Adult Patients With (NASH) and Fibrosis Stages F2 and F3 ( NATiV3 )",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Inventiva Pharma",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-09-29",
+      "primary_completion_date_type": "ACTUAL",
+      "window": "lookback",
+      "conditions": [
+        "NASH - Nonalcoholic Steatohepatitis"
+      ],
+      "interventions": [
+        {
+          "name": "IVA337",
+          "type": "DRUG"
+        },
+        {
+          "name": "Placebo",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "IVA337",
+        "Placebo"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT04849728",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Inventiva Pharma",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Inventiva%20Pharma&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-11-02T16:54:13Z"
+      }
+    },
+    {
+      "nct_id": "NCT05607550",
+      "title": "Study to Compare Furmonertinib to Platinum-Based Chemotherapy for Patients With Locally Advanced or Metastatic Non-Small Cell Lung Cancer (NSCLC) With Epidermal Growth Factor Receptor (EGFR) Exon 20 Insertion Mutations (FURVENT)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "ArriVent BioPharma, Inc.",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-10-06",
+      "primary_completion_date_type": "ACTUAL",
+      "window": "lookback",
+      "conditions": [
+        "Metastatic Non-Small Cell Lung Cancer",
+        "Advanced Non-Small Cell Lung Cancer",
+        "EGFR Exon 20 Mutations"
+      ],
+      "interventions": [
+        {
+          "name": "furmonertinib 240 mg oral, daily",
+          "type": "DRUG"
+        },
+        {
+          "name": "furmonertinib 160 mg oral, daily",
+          "type": "DRUG"
+        },
+        {
+          "name": "platinum-based chemotherapy",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "furmonertinib 240 mg oral, daily",
+        "furmonertinib 160 mg oral, daily",
+        "platinum-based chemotherapy"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT05607550",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "ArriVent BioPharma, Inc.",
+        "ticker": "AVBP",
+        "cik": "0001868279",
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001868279&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-11-02T16:54:03Z"
+      }
+    },
+    {
+      "nct_id": "NCT06055959",
+      "title": "A Study to Evaluate Subcutaneous Zilucoplan in Pediatric Participants With Generalized Myasthenia Gravis",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE2",
+        "PHASE3"
+      ],
+      "sponsor": "UCB Biopharma SRL",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-11-16",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Generalized Myasthenia Gravis"
+      ],
+      "interventions": [
+        {
+          "name": "Zilucoplan",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "Zilucoplan"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06055959",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "UCB Biopharma SRL",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=UCB%20Biopharma%20SRL&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-11-02T16:54:19Z"
+      }
+    }
+  ],
+  "removed_trial_ids": [
+    "NCT06762548",
+    "NCT07216482"
+  ]
 }

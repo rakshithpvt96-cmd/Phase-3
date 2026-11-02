@@ -1,0 +1,122 @@
+{
+  "drug_name": "IVA337",
+  "slug": "iva337",
+  "enriched_at": "2026-11-02T16:55:05Z",
+  "source_trial_ids": [
+    "NCT04849728"
+  ],
+  "sponsors": [
+    {
+      "name": "Inventiva Pharma",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Inventiva%20Pharma&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 68677842,
+    "iupac_name": "4-[1-(1,3-benzothiazol-6-ylsulfonyl)-5-chloroindol-2-yl]butanoic acid",
+    "molecular_formula": "C19H15ClN2O4S2",
+    "molecular_weight": "434.9",
+    "canonical_smiles": null,
+    "inchikey": "OQDQIFQRNZIEEJ-UHFFFAOYSA-N",
+    "rxnorm": null
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4091374",
+    "target_chembl_id": "CHEMBL3559683",
+    "target_name": "Peroxisome proliferator-activated receptor",
+    "mechanism_of_action_chembl": "Peroxisome proliferator-activated receptor agonist"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=IVA337+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=IVA337+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=IVA337+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "NASH - Nonalcoholic Steatohepatitis",
+    "slug": "nash-nonalcoholic-steatohepatitis"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04849728",
+      "title": "A Phase 3 Study Evaluating Efficacy and Safety of Lanifibranor Followed by an Active Treatment Extension in Adult Patients With (NASH) and Fibrosis Stages F2 and F3 ( NATiV3 )",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04849728",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42767573",
+        "title": "Combination pharmacotherapy for MASH: Potential synergistic approaches.",
+        "pubdate": "2026 Sep 21",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42767573/"
+      },
+      {
+        "pmid": "42741482",
+        "title": "A new era in the treatment of metabolic dysfunction-associated steatotic liver disease (MASLD): clinical breakthroughs and challenges.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42741482/"
+      },
+      {
+        "pmid": "42056522",
+        "title": "GLP-1R-GIPR-PPARα/γ/δ quintuple agonism corrects obesity and diabetes in mice.",
+        "pubdate": "2026 May",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42056522/"
+      },
+      {
+        "pmid": "40943823",
+        "title": "Treatment Landscape of Metabolic-Dysfunction-Associated Steatotic Liver Disease.",
+        "pubdate": "2025 Aug 27",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40943823/"
+      },
+      {
+        "pmid": "40486133",
+        "title": "Altered liver sinusoidal endothelial cells in MASLD and their evolution following lanifibranor treatment.",
+        "pubdate": "2025 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40486133/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "INDEGLITAZAR",
+        "chembl_id": "CHEMBL1232583",
+        "reason": "same target: Peroxisome proliferator-activated receptor"
+      },
+      {
+        "name": "SODELGLITAZAR",
+        "chembl_id": "CHEMBL2104984",
+        "reason": "same target: Peroxisome proliferator-activated receptor"
+      },
+      {
+        "name": "BEZAFIBRATE",
+        "chembl_id": "CHEMBL264374",
+        "reason": "same target: Peroxisome proliferator-activated receptor"
+      },
+      {
+        "name": "CHIGLITAZAR",
+        "chembl_id": "CHEMBL4650349",
+        "reason": "same target: Peroxisome proliferator-activated receptor"
+      }
+    ]
+  }
+}

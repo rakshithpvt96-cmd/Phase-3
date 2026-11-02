@@ -1,11 +1,12 @@
 {
   "drug_name": "Placebo",
   "slug": "placebo",
-  "enriched_at": "2026-11-01T14:09:55Z",
+  "enriched_at": "2026-11-02T16:55:12Z",
   "source_trial_ids": [
     "NCT02914535",
     "NCT04652882",
     "NCT04842617",
+    "NCT04849728",
     "NCT04895241",
     "NCT04961567",
     "NCT05066217",
@@ -41,7 +42,6 @@
     "NCT06588855",
     "NCT06664619",
     "NCT06719141",
-    "NCT06762548",
     "NCT06775379",
     "NCT06777238",
     "NCT06783114",
@@ -95,12 +95,6 @@
       "ticker": "AMGN",
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000318154&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
-      "name": "Applied Biology, Inc.",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Applied%20Biology%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Ardelyx",
@@ -221,6 +215,12 @@
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Innovent%20Biopharmaceutical%20Technology%20%28Hangzhou%29%20Co.%2C%20LTD.&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Inventiva Pharma",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Inventiva%20Pharma&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Janssen Research & Development, LLC",
@@ -397,6 +397,13 @@
       "title": "Phase III Study ：SHR6390/Placebo Combined With Endocrine Therapy for the Adjuvant Treatment of Hormone Receptor Positive,Human Epidermal Receptor 2 Negative",
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT04842617",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT04849728",
+      "title": "A Phase 3 Study Evaluating Efficacy and Safety of Lanifibranor Followed by an Active Treatment Extension in Adult Patients With (NASH) and Fibrosis Stages F2 and F3 ( NATiV3 )",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04849728",
       "has_results": false
     },
     {
@@ -645,13 +652,6 @@
       "has_results": false
     },
     {
-      "nct_id": "NCT06762548",
-      "title": "Clinical Study of DA-007 for the Treatment of Chemotherapy Induced Alopecia",
-      "status": "NOT_YET_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06762548",
-      "has_results": false
-    },
-    {
       "nct_id": "NCT06775379",
       "title": "A Randomized Study of Azetukalner Versus Placebo in Major Depressive Disorder",
       "status": "ACTIVE_NOT_RECRUITING",
@@ -810,34 +810,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42968246",
+        "title": "Intake of ETAS(®) Improves Cognitive Function in Healthy Middle-Aged and Older Adults: A Randomized, Double-Blind, Placebo-Controlled Trial.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42968246/"
+      },
+      {
+        "pmid": "42968188",
+        "title": "Short-term effects of oral curcumin as adjunct to intravitreal bevacizumab in diabetic macular edema: a randomized clinical trial.",
+        "pubdate": "2026 Aug 3",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42968188/"
+      },
+      {
         "pmid": "42967138",
         "title": "Effect of Preoperative Intranasal Dexmedetomidine on Postoperative Myocardial Injury in Patients Undergoing Coronary Artery Bypass Grafting.",
         "pubdate": "2026",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42967138/"
       },
       {
-        "pmid": "42965874",
-        "title": "S1P receptors in ulcerative colitis: spotlight on Etrasimod.",
+        "pmid": "42966623",
+        "title": "Probiotics and diarrhoea morbidity among infants in Tanzania: secondary analysis of a randomised clinical trial.",
         "pubdate": "2026 Oct 31",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42966623/"
+      },
+      {
+        "pmid": "42965874",
+        "title": "S1P receptors in ulcerative colitis: spotlight on etrasimod.",
+        "pubdate": "2026 Nov 1",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42965874/"
-      },
-      {
-        "pmid": "42965558",
-        "title": "Colchicine and Perioperative Acute Kidney Injury: A Substudy of the COP-AF Randomized Clinical Trial.",
-        "pubdate": "2026 Oct 30",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42965558/"
-      },
-      {
-        "pmid": "42964955",
-        "title": "A mechanistic quantitative systems pharmacology framework for glucosamine sulfate in knee osteoarthritis: linking exposure, cartilage biology, and clinical outcomes.",
-        "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42964955/"
-      },
-      {
-        "pmid": "42964859",
-        "title": "Effect of Risedronate on Rib Cortical Thickness After Stereotactic Body Radiotherapy to Peripheral Lung Tumors: Results of a Randomized Phase 2 Trial.",
-        "pubdate": "2026 Nov",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42964859/"
       }
     ]
   },
