@@ -1,0 +1,81 @@
+{
+  "drug_name": "Tobevibart",
+  "slug": "tobevibart",
+  "enriched_at": "2026-11-03T15:01:42Z",
+  "source_trial_ids": [
+    "NCT06903338"
+  ],
+  "sponsors": [
+    {
+      "name": "Vir Biotechnology, Inc.",
+      "ticker": "VIR",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001706431&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2686335",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL5314621",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Tobevibart+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Tobevibart+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Tobevibart+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Viral Hepatitis",
+    "slug": "viral-hepatitis"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06903338",
+      "title": "A Study to Evaluate Tobevibart + Elebsiran in Chronic HDV Infection",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06903338",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "40882923",
+        "title": "Engineered monoclonal antibody tobevibart enhances HBsAg capture by Fc receptor-positive cells and activates HBV-specific T cells.",
+        "pubdate": "2026 Jan",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40882923/"
+      },
+      {
+        "pmid": "40606936",
+        "title": "Hope on the horizon: Emerging therapies for hepatitis D.",
+        "pubdate": "2025 Jun 27",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40606936/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

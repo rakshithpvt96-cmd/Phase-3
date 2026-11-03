@@ -1,6 +1,90 @@
 {
-  "generated_at": "2026-11-02T19:16:40Z",
-  "new_trial_count": 0,
-  "new_trials": [],
-  "removed_trial_ids": []
+  "generated_at": "2026-11-03T14:54:15Z",
+  "new_trial_count": 2,
+  "new_trials": [
+    {
+      "nct_id": "NCT06903338",
+      "title": "A Study to Evaluate Tobevibart + Elebsiran in Chronic HDV Infection",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Vir Biotechnology, Inc.",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-09-30",
+      "primary_completion_date_type": "ACTUAL",
+      "window": "lookback",
+      "conditions": [
+        "Viral Hepatitis"
+      ],
+      "interventions": [
+        {
+          "name": "Tobevibart",
+          "type": "DRUG"
+        },
+        {
+          "name": "Elebsiran",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "Tobevibart",
+        "Elebsiran"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06903338",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Vir Biotechnology, Inc.",
+        "ticker": "VIR",
+        "cik": "0001706431",
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001706431&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-11-03T14:54:14Z"
+      }
+    },
+    {
+      "nct_id": "NCT06415344",
+      "title": "Long-term Extension of GTX-102 in Angelman Syndrome",
+      "status": "TERMINATED",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Ultragenyx Pharmaceutical Inc",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-10-30",
+      "primary_completion_date_type": "ACTUAL",
+      "window": "lookback",
+      "conditions": [
+        "Angelman Syndrome"
+      ],
+      "interventions": [
+        {
+          "name": "GTX-102",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "GTX-102"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06415344",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Ultragenyx Pharmaceutical Inc",
+        "ticker": "RARE",
+        "cik": "0001515673",
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001515673&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-11-03T14:54:13Z"
+      }
+    }
+  ],
+  "removed_trial_ids": [
+    "NCT03974113"
+  ]
 }

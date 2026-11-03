@@ -1,7 +1,7 @@
 {
   "drug_name": "Povorcitinib",
   "slug": "povorcitinib",
-  "enriched_at": "2026-10-27T13:09:27Z",
+  "enriched_at": "2026-11-03T15:00:35Z",
   "source_trial_ids": [
     "NCT06516952",
     "NCT06516965"
@@ -74,6 +74,12 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42972109",
+        "title": "Povorcitinib for nonsegmental vitiligo: two randomized, controlled, phase 3 STOP-V trials.",
+        "pubdate": "2026 Nov 2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42972109/"
+      },
+      {
         "pmid": "42907530",
         "title": "Author Correction: Povorcitinib for hidradenitis suppurativa: the randomized, double-blind, placebo-controlled STOP-HS1 and STOP-HS2 phase 3 trials.",
         "pubdate": "2026 Oct 21",
@@ -96,12 +102,6 @@
         "title": "Emerging synthetic drugs for the management of hidradenitis suppurativa: a comprehensive update.",
         "pubdate": "2026 Jul",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42342652/"
-      },
-      {
-        "pmid": "42105313",
-        "title": "Povorcitinib for Hidradenitis suppurativa: a narrative review on clinical trial data with expert commentary.",
-        "pubdate": "2026 Jul",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42105313/"
       }
     ]
   },
@@ -109,11 +109,6 @@
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
     "items": [
-      {
-        "name": "Placebo",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Shanghai Mabgeek Biotech.Co.Ltd"
-      },
       {
         "name": "Nemolizumab",
         "chembl_id": null,
