@@ -1,6 +1,181 @@
 {
-  "generated_at": "2026-11-03T16:52:51Z",
-  "new_trial_count": 0,
-  "new_trials": [],
-  "removed_trial_ids": []
+  "generated_at": "2026-11-04T15:13:27Z",
+  "new_trial_count": 4,
+  "new_trials": [
+    {
+      "nct_id": "NCT01064466",
+      "title": "Pharmacogenomics ANDA SNP Clinical Study - Etoposide and Single Nucleotide Polymorphisms",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE2",
+        "PHASE3"
+      ],
+      "sponsor": "Han Xu, M.D., Ph.D., FAPCR, Medical Director,, IRB Chair",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-11-18",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Small Cell Lung Cancer"
+      ],
+      "interventions": [
+        {
+          "name": "ETOPOSIDE - Usual",
+          "type": "DRUG"
+        },
+        {
+          "name": "ETOPOSIDE - Study",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "ETOPOSIDE - Usual",
+        "ETOPOSIDE - Study"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT01064466",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Han Xu, M.D., Ph.D., FAPCR, Medical Director,, IRB Chair",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Han%20Xu%2C%20M.D.%2C%20Ph.D.%2C%20FAPCR%2C%20Medical%20Director%2C%2C%20IRB%20Chair&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-11-02T16:54:12Z"
+      }
+    },
+    {
+      "nct_id": "NCT03348670",
+      "title": "Pharmacogenomics IND Commercial SNP Clinical Study - Abiraterone and Single Nucleotide Polymorphisms",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE2",
+        "PHASE3"
+      ],
+      "sponsor": "Han Xu, M.D., Ph.D., FAPCR, Sponsor-Investigator, IRB Chair",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-11-18",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Prostate Cancer"
+      ],
+      "interventions": [
+        {
+          "name": "Abiraterone - Usual",
+          "type": "DRUG"
+        },
+        {
+          "name": "Abiraterone - Study",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "Abiraterone - Usual",
+        "Abiraterone - Study"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT03348670",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Han Xu, M.D., Ph.D., FAPCR, Sponsor-Investigator, IRB Chair",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Han%20Xu%2C%20M.D.%2C%20Ph.D.%2C%20FAPCR%2C%20Sponsor-Investigator%2C%20IRB%20Chair&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-11-04T15:13:27Z"
+      }
+    },
+    {
+      "nct_id": "NCT05946941",
+      "title": "A Study to Evaluate the Efficacy and Safety of Deucravacitinib in Adults With Active Sjögren's Syndrome",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Bristol-Myers Squibb",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-11-18",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Sjögren's Syndrome"
+      ],
+      "interventions": [
+        {
+          "name": "Deucravacitinib",
+          "type": "DRUG"
+        },
+        {
+          "name": "Placebo",
+          "type": "OTHER"
+        }
+      ],
+      "drug_names": [
+        "Deucravacitinib"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT05946941",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Bristol-Myers Squibb",
+        "ticker": "BMY",
+        "cik": "0000014272",
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000014272&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-11-02T16:54:07Z"
+      }
+    },
+    {
+      "nct_id": "NCT05987956",
+      "title": "Pharmacogenomics IND SNP Clinical Trial - Alectinib and Single Nucleotide Polymorphisms",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE2",
+        "PHASE3"
+      ],
+      "sponsor": "Medicine Invention Design, Inc",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-11-18",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "ALK-Positive Non-Small Cell Lung Cancer (NSCLC)"
+      ],
+      "interventions": [
+        {
+          "name": "ALECENSA - alectinib hydrochloride capsule",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "ALECENSA - alectinib hydrochloride capsule"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT05987956",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Medicine Invention Design, Inc",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Medicine%20Invention%20Design%2C%20Inc&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-11-04T15:13:27Z"
+      }
+    }
+  ],
+  "removed_trial_ids": [
+    "NCT05221840",
+    "NCT06052267",
+    "NCT06892288",
+    "NCT07241377"
+  ]
 }

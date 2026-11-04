@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T16:52:51Z",
+  "generated_at": "2026-11-04T15:13:27Z",
   "window_upcoming_days": 14,
   "window_lookback_days": [
     1,
@@ -7,106 +7,6 @@
   ],
   "trial_count": 263,
   "trials": [
-    {
-      "nct_id": "NCT06892288",
-      "title": "A Study to Assess the Efficacy and Safety of Weekly Doses of GLM101 in Participants With PMM2-CDG",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "phases": [
-        "PHASE2",
-        "PHASE3"
-      ],
-      "sponsor": "Glycomine, Inc.",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-08-05",
-      "primary_completion_date_type": "ACTUAL",
-      "window": "lookback",
-      "conditions": [
-        "Phosphomannomutase 2 Deficiency",
-        "PMM2-CDG"
-      ],
-      "interventions": [
-        {
-          "name": "GLM101 (Part A, Double-blind)",
-          "type": "DRUG"
-        },
-        {
-          "name": "Placebo (Part A, Double-blind)",
-          "type": "DRUG"
-        },
-        {
-          "name": "GLM101 (Part B, Open-label)",
-          "type": "DRUG"
-        }
-      ],
-      "drug_names": [
-        "GLM101 (Part A, Double-blind)",
-        "Placebo (Part A, Double-blind)",
-        "GLM101 (Part B, Open-label)"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT06892288",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "Glycomine, Inc.",
-        "ticker": null,
-        "cik": null,
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Glycomine%2C%20Inc.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-02T16:54:10Z"
-      }
-    },
-    {
-      "nct_id": "NCT07241377",
-      "title": "A Study in Healthy Adults to Compare the Bioavailability of EPA + DHA From Two Microalgal Sources to One Fish Source and Placebo",
-      "status": "COMPLETED",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "RDC Clinical Pty Ltd",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-08-05",
-      "primary_completion_date_type": "ACTUAL",
-      "window": "lookback",
-      "conditions": [
-        "Absorption of Omega-3",
-        "Omega-3 Supplementation",
-        "Healthy Participants"
-      ],
-      "interventions": [
-        {
-          "name": "life'sTM omega O1035DS nTG",
-          "type": "DIETARY_SUPPLEMENT"
-        },
-        {
-          "name": "life'sTM omega O3020DS nTG",
-          "type": "DIETARY_SUPPLEMENT"
-        },
-        {
-          "name": "MEG-3 3323rTG",
-          "type": "DIETARY_SUPPLEMENT"
-        },
-        {
-          "name": "Placebo",
-          "type": "OTHER"
-        }
-      ],
-      "drug_names": [],
-      "url": "https://clinicaltrials.gov/study/NCT07241377",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "RDC Clinical Pty Ltd",
-        "ticker": null,
-        "cik": null,
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=RDC%20Clinical%20Pty%20Ltd&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-02T16:54:16Z"
-      }
-    },
     {
       "nct_id": "NCT07357831",
       "title": "A Phase III Trial To Evaluate The Efficacy And Safety Of MC2-01 Cream Compared To CAL/BDP Gel and Vehicle In Plaque Psoriasis Subjects",
@@ -5376,58 +5276,6 @@
       }
     },
     {
-      "nct_id": "NCT05221840",
-      "title": "A Global Study to Assess the Effects of Durvalumab With Oleclumab or Durvalumab With Monalizumab Following Concurrent Chemoradiation in Patients With Stage III Unresectable Non-Small Cell Lung Cancer",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "AstraZeneca",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-09-30",
-      "primary_completion_date_type": "ESTIMATED",
-      "window": "lookback",
-      "conditions": [
-        "Non-Small Cell Lung Cancer"
-      ],
-      "interventions": [
-        {
-          "name": "Durvalumab",
-          "type": "DRUG"
-        },
-        {
-          "name": "Oleclumab",
-          "type": "DRUG"
-        },
-        {
-          "name": "Monalizumab",
-          "type": "DRUG"
-        },
-        {
-          "name": "Placebo",
-          "type": "OTHER"
-        }
-      ],
-      "drug_names": [
-        "Durvalumab",
-        "Oleclumab",
-        "Monalizumab"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT05221840",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "AstraZeneca",
-        "ticker": "AZN",
-        "cik": "0000901832",
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000901832&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-02T16:54:04Z"
-      }
-    },
-    {
       "nct_id": "NCT05288179",
       "title": "Efficacy and Safety of Pirfenidone Capsules in the Treatment of Pneumoconiosis",
       "status": "RECRUITING",
@@ -8883,52 +8731,56 @@
       }
     },
     {
-      "nct_id": "NCT05115110",
-      "title": "A Study to Investigate the Safety and Efficacy of RO7204239 in Combination With Risdiplam (RO7034067) in Participants With Spinal Muscular Atrophy",
-      "status": "ACTIVE_NOT_RECRUITING",
+      "nct_id": "NCT06664619",
+      "title": "A Randomized, Double-Blind, Placebo-Controlled Trial on Efficacy and Safety of Fluticasone Propionate/Albuterol Sulfate Combination in Participants 12 Years and Older With Asthma",
+      "status": "COMPLETED",
       "phases": [
-        "PHASE2",
         "PHASE3"
       ],
-      "sponsor": "Hoffmann-La Roche",
+      "sponsor": "Teva Branded Pharmaceutical Products R&D LLC",
       "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-10-28",
-      "primary_completion_date_type": "ESTIMATED",
+      "primary_completion_date": "2026-10-26",
+      "primary_completion_date_type": "ACTUAL",
       "window": "lookback",
       "conditions": [
-        "Spinal Muscular Atrophy (SMA)"
+        "Asthma"
       ],
       "interventions": [
         {
-          "name": "RO7204239",
+          "name": "Fp/ABS",
+          "type": "DRUG"
+        },
+        {
+          "name": "FP",
+          "type": "DRUG"
+        },
+        {
+          "name": "ABS",
           "type": "DRUG"
         },
         {
           "name": "Placebo",
           "type": "DRUG"
-        },
-        {
-          "name": "Risdiplam",
-          "type": "DRUG"
         }
       ],
       "drug_names": [
-        "RO7204239",
-        "Placebo",
-        "Risdiplam"
+        "Fp/ABS",
+        "FP",
+        "ABS",
+        "Placebo"
       ],
-      "url": "https://clinicaltrials.gov/study/NCT05115110",
+      "url": "https://clinicaltrials.gov/study/NCT06664619",
       "has_results": false,
       "results_first_post_date": null,
       "company_info": {
-        "sponsor": "Hoffmann-La Roche",
+        "sponsor": "Teva Branded Pharmaceutical Products R&D LLC",
         "ticker": null,
         "cik": null,
         "market_cap": null,
         "market_cap_display": null,
         "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hoffmann-La%20Roche&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-02T16:54:12Z"
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Teva%20Branded%20Pharmaceutical%20Products%20R%26D%20LLC&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-10-31T13:26:11Z"
       }
     },
     {
@@ -9014,7 +8866,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Albireo%2C%20an%20Ipsen%20Company&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-28T13:52:56Z"
+        "cached_at": "2026-11-04T15:13:27Z"
       }
     },
     {
@@ -9604,49 +9456,6 @@
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001750284&type=10-K&dateb=&owner=include&count=40",
         "cached_at": "2026-10-31T13:26:04Z"
-      }
-    },
-    {
-      "nct_id": "NCT06052267",
-      "title": "A Study to Test if a Fixed-Dose Combination of Fluticasone Propionate/Albuterol Sulfate is Effective in Preventing Asthma Exacerbations",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "Teva Branded Pharmaceutical Products R&D LLC",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-10-31",
-      "primary_completion_date_type": "ESTIMATED",
-      "window": "lookback",
-      "conditions": [
-        "Asthma"
-      ],
-      "interventions": [
-        {
-          "name": "TEV-56248",
-          "type": "DRUG"
-        },
-        {
-          "name": "Albuterol sulfate",
-          "type": "DRUG"
-        }
-      ],
-      "drug_names": [
-        "TEV-56248",
-        "Albuterol sulfate"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT06052267",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "Teva Branded Pharmaceutical Products R&D LLC",
-        "ticker": null,
-        "cik": null,
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Teva%20Branded%20Pharmaceutical%20Products%20R%26D%20LLC&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-31T13:26:11Z"
       }
     },
     {
@@ -11188,6 +10997,55 @@
       }
     },
     {
+      "nct_id": "NCT05115110",
+      "title": "A Study to Investigate the Safety and Efficacy of RO7204239 in Combination With Risdiplam (RO7034067) in Participants With Spinal Muscular Atrophy",
+      "status": "COMPLETED",
+      "phases": [
+        "PHASE2",
+        "PHASE3"
+      ],
+      "sponsor": "Hoffmann-La Roche",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-11-02",
+      "primary_completion_date_type": "ACTUAL",
+      "window": "lookback",
+      "conditions": [
+        "Spinal Muscular Atrophy (SMA)"
+      ],
+      "interventions": [
+        {
+          "name": "RO7204239",
+          "type": "DRUG"
+        },
+        {
+          "name": "Placebo",
+          "type": "DRUG"
+        },
+        {
+          "name": "Risdiplam",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "RO7204239",
+        "Placebo",
+        "Risdiplam"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT05115110",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Hoffmann-La Roche",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hoffmann-La%20Roche&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-11-02T16:54:12Z"
+      }
+    },
+    {
       "nct_id": "NCT06015737",
       "title": "A Phase III Study to Investigate the Efficacy and Safety of Anifrolumab in Adults With Chronic and/or Subacute Cutaneous Lupus Erythematosus",
       "status": "ACTIVE_NOT_RECRUITING",
@@ -11225,59 +11083,6 @@
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000901832&type=10-K&dateb=&owner=include&count=40",
         "cached_at": "2026-11-02T16:54:04Z"
-      }
-    },
-    {
-      "nct_id": "NCT06664619",
-      "title": "A Randomized, Double-Blind, Placebo-Controlled Trial on Efficacy and Safety of Fluticasone Propionate/Albuterol Sulfate Combination in Participants 12 Years and Older With Asthma",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "Teva Branded Pharmaceutical Products R&D LLC",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-11-02",
-      "primary_completion_date_type": "ESTIMATED",
-      "window": "lookback",
-      "conditions": [
-        "Asthma"
-      ],
-      "interventions": [
-        {
-          "name": "Fp/ABS",
-          "type": "DRUG"
-        },
-        {
-          "name": "FP",
-          "type": "DRUG"
-        },
-        {
-          "name": "ABS",
-          "type": "DRUG"
-        },
-        {
-          "name": "Placebo",
-          "type": "DRUG"
-        }
-      ],
-      "drug_names": [
-        "Fp/ABS",
-        "FP",
-        "ABS",
-        "Placebo"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT06664619",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "Teva Branded Pharmaceutical Products R&D LLC",
-        "ticker": null,
-        "cik": null,
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Teva%20Branded%20Pharmaceutical%20Products%20R%26D%20LLC&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-31T13:26:11Z"
       }
     },
     {
@@ -11333,7 +11138,7 @@
       "sponsor_class": "INDUSTRY",
       "primary_completion_date": "2026-11-03",
       "primary_completion_date_type": "ESTIMATED",
-      "window": "upcoming",
+      "window": "lookback",
       "conditions": [
         "Chronic Spontaneous Urticaria"
       ],
@@ -11411,7 +11216,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=CMG%20Pharmaceutical%20Co.%20Ltd&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-28T13:52:56Z"
+        "cached_at": "2026-11-04T15:13:27Z"
       }
     },
     {
@@ -11588,7 +11393,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Tasly%20Pharmaceutical%20Group%20Co.%2C%20Ltd&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-28T13:52:56Z"
+        "cached_at": "2026-11-04T15:13:27Z"
       }
     },
     {
@@ -11878,6 +11683,175 @@
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=UCB%20Biopharma%20SRL&type=10-K&dateb=&owner=include&count=40",
         "cached_at": "2026-11-02T16:54:19Z"
+      }
+    },
+    {
+      "nct_id": "NCT01064466",
+      "title": "Pharmacogenomics ANDA SNP Clinical Study - Etoposide and Single Nucleotide Polymorphisms",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE2",
+        "PHASE3"
+      ],
+      "sponsor": "Han Xu, M.D., Ph.D., FAPCR, Medical Director,, IRB Chair",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-11-18",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Small Cell Lung Cancer"
+      ],
+      "interventions": [
+        {
+          "name": "ETOPOSIDE - Usual",
+          "type": "DRUG"
+        },
+        {
+          "name": "ETOPOSIDE - Study",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "ETOPOSIDE - Usual",
+        "ETOPOSIDE - Study"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT01064466",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Han Xu, M.D., Ph.D., FAPCR, Medical Director,, IRB Chair",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Han%20Xu%2C%20M.D.%2C%20Ph.D.%2C%20FAPCR%2C%20Medical%20Director%2C%2C%20IRB%20Chair&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-11-02T16:54:12Z"
+      }
+    },
+    {
+      "nct_id": "NCT03348670",
+      "title": "Pharmacogenomics IND Commercial SNP Clinical Study - Abiraterone and Single Nucleotide Polymorphisms",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE2",
+        "PHASE3"
+      ],
+      "sponsor": "Han Xu, M.D., Ph.D., FAPCR, Sponsor-Investigator, IRB Chair",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-11-18",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Prostate Cancer"
+      ],
+      "interventions": [
+        {
+          "name": "Abiraterone - Usual",
+          "type": "DRUG"
+        },
+        {
+          "name": "Abiraterone - Study",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "Abiraterone - Usual",
+        "Abiraterone - Study"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT03348670",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Han Xu, M.D., Ph.D., FAPCR, Sponsor-Investigator, IRB Chair",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Han%20Xu%2C%20M.D.%2C%20Ph.D.%2C%20FAPCR%2C%20Sponsor-Investigator%2C%20IRB%20Chair&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-11-04T15:13:27Z"
+      }
+    },
+    {
+      "nct_id": "NCT05946941",
+      "title": "A Study to Evaluate the Efficacy and Safety of Deucravacitinib in Adults With Active Sjögren's Syndrome",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Bristol-Myers Squibb",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-11-18",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Sjögren's Syndrome"
+      ],
+      "interventions": [
+        {
+          "name": "Deucravacitinib",
+          "type": "DRUG"
+        },
+        {
+          "name": "Placebo",
+          "type": "OTHER"
+        }
+      ],
+      "drug_names": [
+        "Deucravacitinib"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT05946941",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Bristol-Myers Squibb",
+        "ticker": "BMY",
+        "cik": "0000014272",
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000014272&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-11-02T16:54:07Z"
+      }
+    },
+    {
+      "nct_id": "NCT05987956",
+      "title": "Pharmacogenomics IND SNP Clinical Trial - Alectinib and Single Nucleotide Polymorphisms",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE2",
+        "PHASE3"
+      ],
+      "sponsor": "Medicine Invention Design, Inc",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-11-18",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "ALK-Positive Non-Small Cell Lung Cancer (NSCLC)"
+      ],
+      "interventions": [
+        {
+          "name": "ALECENSA - alectinib hydrochloride capsule",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "ALECENSA - alectinib hydrochloride capsule"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT05987956",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Medicine Invention Design, Inc",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Medicine%20Invention%20Design%2C%20Inc&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-11-04T15:13:27Z"
       }
     }
   ]

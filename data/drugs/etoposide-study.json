@@ -1,0 +1,150 @@
+{
+  "drug_name": "ETOPOSIDE - Study",
+  "slug": "etoposide-study",
+  "enriched_at": "2026-11-04T15:16:53Z",
+  "source_trial_ids": [
+    "NCT01064466"
+  ],
+  "sponsors": [
+    {
+      "name": "Han Xu, M.D., Ph.D., FAPCR, Medical Director,, IRB Chair",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Han%20Xu%2C%20M.D.%2C%20Ph.D.%2C%20FAPCR%2C%20Medical%20Director%2C%2C%20IRB%20Chair&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "4179",
+      "generic_name": "etoposide",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1200645",
+    "target_chembl_id": "CHEMBL1806",
+    "target_name": "DNA topoisomerase 2-alpha",
+    "mechanism_of_action_chembl": "DNA topoisomerase II alpha inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=ETOPOSIDE%20-%20Study+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=ETOPOSIDE%20-%20Study+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=ETOPOSIDE%20-%20Study+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Small Cell Lung Cancer",
+    "slug": "small-cell-lung-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT01064466",
+      "title": "Pharmacogenomics ANDA SNP Clinical Study - Etoposide and Single Nucleotide Polymorphisms",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT01064466",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42911120",
+        "title": "Durvalumab plus etoposide-carboplatin for advanced digestive neuroendocrine carcinoma: a phase III trial (JCOG2107E).",
+        "pubdate": "2026 Oct 22",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42911120/"
+      },
+      {
+        "pmid": "42900351",
+        "title": "Vibostolimab Coformulated with Pembrolizumab Plus Chemotherapy as First-Line Therapy for Extensive-Stage Small-Cell Lung Cancer.",
+        "pubdate": "2026 Oct 20",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42900351/"
+      },
+      {
+        "pmid": "42820325",
+        "title": "Plain language summary of the J-TAIL-2 study results: a study of Japanese patients with extensive-stage small cell lung cancer that followed their treatment with atezolizumab plus chemotherapy over time.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42820325/"
+      },
+      {
+        "pmid": "42814905",
+        "title": "[(177)Lu]Lu-DOTATATE Molecular Radiotherapy During Induction Chemotherapy for First-Line Stage 4 High-Risk Neuroblastoma in South African Children: Protocol for a Phase 1 Randomized Controlled Trial (LuDO-SA Trial).",
+        "pubdate": "2026 Sep 30",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42814905/"
+      },
+      {
+        "pmid": "42780413",
+        "title": "Deep and durable response to re-challenge with platinum-based therapy in a platinum-relapsed small cell lung cancer patient following Olvi-Vec oncolytic immunotherapy: a case report.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42780413/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "DAUNORUBICIN CITRATE",
+        "chembl_id": "CHEMBL1200475",
+        "reason": "same target: DNA topoisomerase 2-alpha"
+      },
+      {
+        "name": "DAUNORUBICIN HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1563",
+        "reason": "same target: DNA topoisomerase 2-alpha"
+      },
+      {
+        "name": "DOXORUBICIN HYDROCHLORIDE",
+        "chembl_id": "CHEMBL359744",
+        "reason": "same target: DNA topoisomerase 2-alpha"
+      },
+      {
+        "name": "MITOXANTRONE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1417019",
+        "reason": "same target: DNA topoisomerase 2-alpha"
+      },
+      {
+        "name": "VALRUBICIN",
+        "chembl_id": "CHEMBL1096885",
+        "reason": "same target: DNA topoisomerase 2-alpha"
+      },
+      {
+        "name": "IDARUBICIN HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1200976",
+        "reason": "same target: DNA topoisomerase 2-alpha"
+      },
+      {
+        "name": "AMRUBICIN HYDROCHLORIDE",
+        "chembl_id": "CHEMBL481958",
+        "reason": "same target: DNA topoisomerase 2-alpha"
+      },
+      {
+        "name": "ALDOXORUBICIN",
+        "chembl_id": "CHEMBL2107818",
+        "reason": "same target: DNA topoisomerase 2-alpha"
+      },
+      {
+        "name": "AMRUBICIN",
+        "chembl_id": "CHEMBL1186894",
+        "reason": "same target: DNA topoisomerase 2-alpha"
+      },
+      {
+        "name": "GANCOTAMAB",
+        "chembl_id": "CHEMBL3833344",
+        "reason": "same target: DNA topoisomerase 2-alpha"
+      }
+    ]
+  }
+}

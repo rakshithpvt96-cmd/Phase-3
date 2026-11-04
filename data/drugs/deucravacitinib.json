@@ -1,10 +1,11 @@
 {
   "drug_name": "Deucravacitinib",
   "slug": "deucravacitinib",
-  "enriched_at": "2026-10-05T18:09:57Z",
+  "enriched_at": "2026-11-04T15:16:20Z",
   "source_trial_ids": [
     "NCT05617677",
-    "NCT05620407"
+    "NCT05620407",
+    "NCT05946941"
   ],
   "sponsors": [
     {
@@ -68,11 +69,24 @@
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT05620407",
       "has_results": false
+    },
+    {
+      "nct_id": "NCT05946941",
+      "title": "A Study to Evaluate the Efficacy and Safety of Deucravacitinib in Adults With Active Sjögren's Syndrome",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05946941",
+      "has_results": false
     }
   ],
   "prior_results": {
     "ctgov_results_urls": [],
     "pubmed_articles": [
+      {
+        "pmid": "42898106",
+        "title": "Deucravacitinib versus placebo in adults with moderate-to-severe hidradenitis suppurativa: A pilot study.",
+        "pubdate": "2026 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42898106/"
+      },
       {
         "pmid": "42785684",
         "title": "Janus Kinase Inhibitor Use in Adults Aged 65 Years and Older: A Clinical Review Across Atopic Dermatitis, Alopecia Areata, and Psoriasis.",
@@ -82,7 +96,7 @@
       {
         "pmid": "42663861",
         "title": "Safety of Icotrokinra Through 1 Year for the Treatment of Moderate-to-Severe Plaque Psoriasis and Psoriasis Affecting High-Impact Sites: Pooled Results Across the ICONIC-LEAD, ICONIC-TOTAL, and ICONIC-ADVANCE 1 and 2 Phase 3 Trials.",
-        "pubdate": "2026 Aug 28",
+        "pubdate": "2026 Oct",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42663861/"
       },
       {
@@ -96,12 +110,6 @@
         "title": "Deucravacitinib 5-Year Safety and Efficacy Results in Plaque Psoriasis: A Phase 3 Open-Label Extension of Randomized Clinical Trials.",
         "pubdate": "2026 Sep",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42563042/"
-      },
-      {
-        "pmid": "42562758",
-        "title": "Efficacy and safety of deucravacitinib, an oral, selective tyrosine kinase 2 inhibitor, in patients with active psoriatic arthritis: 52-week results from the randomised, double-blind, placebo-controlled phase 3 POETYK PsA-1 trial.",
-        "pubdate": "2026 Sep",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42562758/"
       }
     ]
   },
