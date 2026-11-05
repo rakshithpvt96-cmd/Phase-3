@@ -1,60 +1,12 @@
 {
-  "generated_at": "2026-11-04T16:56:11Z",
+  "generated_at": "2026-11-05T15:14:33Z",
   "window_upcoming_days": 14,
   "window_lookback_days": [
     1,
     90
   ],
-  "trial_count": 263,
+  "trial_count": 262,
   "trials": [
-    {
-      "nct_id": "NCT07357831",
-      "title": "A Phase III Trial To Evaluate The Efficacy And Safety Of MC2-01 Cream Compared To CAL/BDP Gel and Vehicle In Plaque Psoriasis Subjects",
-      "status": "COMPLETED",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "Hangzhou Zhongmei Huadong Pharmaceutical Co., Ltd.",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-08-06",
-      "primary_completion_date_type": "ACTUAL",
-      "window": "lookback",
-      "conditions": [
-        "Plaque Psoriasis"
-      ],
-      "interventions": [
-        {
-          "name": "MC2-01 cream",
-          "type": "DRUG"
-        },
-        {
-          "name": "MC2-01 vehicle",
-          "type": "DRUG"
-        },
-        {
-          "name": "CAL/BDP Gel",
-          "type": "DRUG"
-        }
-      ],
-      "drug_names": [
-        "MC2-01 cream",
-        "MC2-01 vehicle",
-        "CAL/BDP Gel"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT07357831",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "Hangzhou Zhongmei Huadong Pharmaceutical Co., Ltd.",
-        "ticker": null,
-        "cik": null,
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hangzhou%20Zhongmei%20Huadong%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-02T16:54:12Z"
-      }
-    },
     {
       "nct_id": "NCT06777238",
       "title": "A Phase III Clinical Study to Evaluate the Efficacy and Safety of GZR18 Injection in Subjects With Type 2 Diabetes Mellitus and Poor Blood Glucose Control by Diet and Exercise",
@@ -1202,7 +1154,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001472091&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-29T14:31:37Z"
+        "cached_at": "2026-11-05T15:14:30Z"
       }
     },
     {
@@ -1857,7 +1809,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Galderma%20R%26D&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-29T14:31:37Z"
+        "cached_at": "2026-11-05T15:14:29Z"
       }
     },
     {
@@ -1950,7 +1902,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Lumen%20Bioscience%2C%20Inc.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-29T14:31:37Z"
+        "cached_at": "2026-11-05T15:14:30Z"
       }
     },
     {
@@ -2036,7 +1988,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Sichuan%20Jishengtang%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-29T14:31:38Z"
+        "cached_at": "2026-11-05T15:14:33Z"
       }
     },
     {
@@ -2280,7 +2232,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Daewon%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-29T14:31:37Z"
+        "cached_at": "2026-11-05T15:14:29Z"
       }
     },
     {
@@ -3395,6 +3347,54 @@
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Daewoong%20Pharmaceutical%20Co.%20LTD.&type=10-K&dateb=&owner=include&count=40",
         "cached_at": "2026-10-31T13:26:02Z"
+      }
+    },
+    {
+      "nct_id": "NCT06556368",
+      "title": "A Study to Evaluate the Efficacy and Safety of Tarcocimab Tedromer and Tabirafusp Tedromer Compared to Aflibercept in Participants With Neovascular (Wet) Age-related Macular Degeneration (wAMD) - DAYBREAK",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Kodiak Sciences Inc",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-09-02",
+      "primary_completion_date_type": "ACTUAL",
+      "window": "lookback",
+      "conditions": [
+        "Wet Age-related Macular Degeneration"
+      ],
+      "interventions": [
+        {
+          "name": "Tarcocimab tedromer",
+          "type": "DRUG"
+        },
+        {
+          "name": "Tabirafusp tedromer",
+          "type": "DRUG"
+        },
+        {
+          "name": "Aflibercept",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "Tarcocimab tedromer",
+        "Tabirafusp tedromer",
+        "Aflibercept"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06556368",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Kodiak Sciences Inc",
+        "ticker": "KOD",
+        "cik": "0001468748",
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001468748&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-11-05T15:14:29Z"
       }
     },
     {
@@ -4855,7 +4855,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Chongqing%20Peg-Bio%20Biopharm%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-29T14:31:37Z"
+        "cached_at": "2026-11-05T15:14:29Z"
       }
     },
     {
@@ -5080,7 +5080,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=SyneuRx%20International%20%28Taiwan%29%20Corp&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-29T14:31:38Z"
+        "cached_at": "2026-11-05T15:14:33Z"
       }
     },
     {
@@ -5438,7 +5438,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Beijing%20Pearl%20Biotechnology%20Limited%20Liability%20Company&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-29T14:31:37Z"
+        "cached_at": "2026-11-05T15:14:29Z"
       }
     },
     {
@@ -5570,7 +5570,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Chongqing%20Claruvis%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-29T14:31:37Z"
+        "cached_at": "2026-11-05T15:14:29Z"
       }
     },
     {
@@ -5656,7 +5656,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=CSPC%20Ouyi%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-29T14:31:37Z"
+        "cached_at": "2026-11-05T15:14:29Z"
       }
     },
     {
@@ -5699,7 +5699,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Innovent%20Biopharmaceutical%20Technology%20%28Hangzhou%29%20Co.%2C%20LTD.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-29T14:31:37Z"
+        "cached_at": "2026-11-05T15:14:29Z"
       }
     },
     {
@@ -5741,7 +5741,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=UpTru%20Inc.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-29T14:31:38Z"
+        "cached_at": "2026-11-05T15:14:33Z"
       }
     },
     {
@@ -5779,7 +5779,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Sinovac%20Biotech%20Co.%2C%20Ltd&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-29T14:31:38Z"
+        "cached_at": "2026-11-05T15:14:33Z"
       }
     },
     {
@@ -5920,44 +5920,6 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Loxo%20Oncology%2C%20Inc.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-30T14:24:13Z"
-      }
-    },
-    {
-      "nct_id": "NCT05172726",
-      "title": "Tapinarof for the Treatment of Plaque Psoriasis in Pediatric Subjects",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "Organon and Co",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-10",
-      "primary_completion_date_type": "ESTIMATED",
-      "window": "lookback",
-      "conditions": [
-        "Plaque Psoriasis"
-      ],
-      "interventions": [
-        {
-          "name": "tapinarof cream, 1%",
-          "type": "DRUG"
-        }
-      ],
-      "drug_names": [
-        "tapinarof cream, 1%"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT05172726",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "Organon and Co",
-        "ticker": null,
-        "cik": null,
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Organon%20and%20Co&type=10-K&dateb=&owner=include&count=40",
         "cached_at": "2026-10-30T14:24:13Z"
       }
     },
@@ -7984,6 +7946,44 @@
       }
     },
     {
+      "nct_id": "NCT05172726",
+      "title": "Tapinarof for the Treatment of Plaque Psoriasis in Pediatric Subjects",
+      "status": "COMPLETED",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Organon and Co",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-10-14",
+      "primary_completion_date_type": "ACTUAL",
+      "window": "lookback",
+      "conditions": [
+        "Plaque Psoriasis"
+      ],
+      "interventions": [
+        {
+          "name": "tapinarof cream, 1%",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "tapinarof cream, 1%"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT05172726",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Organon and Co",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Organon%20and%20Co&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-10-30T14:24:13Z"
+      }
+    },
+    {
       "nct_id": "NCT05702034",
       "title": "A Study of Milvexian in Participants After an Acute Ischemic Stroke or High-Risk Transient Ischemic Attack- LIBREXIA-STROKE",
       "status": "ACTIVE_NOT_RECRUITING",
@@ -8432,7 +8432,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=LEO%20Pharma&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-29T14:31:37Z"
+        "cached_at": "2026-11-05T15:14:30Z"
       }
     },
     {
@@ -8474,7 +8474,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Otsuka%20Pharmaceutical%20Development%20%26%20Commercialization%2C%20Inc.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-29T14:31:37Z"
+        "cached_at": "2026-11-05T15:14:30Z"
       }
     },
     {
@@ -8684,7 +8684,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Galderma%20R%26D&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-29T14:31:37Z"
+        "cached_at": "2026-11-05T15:14:29Z"
       }
     },
     {
@@ -9225,7 +9225,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=CSPC%20Ouyi%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-29T14:31:37Z"
+        "cached_at": "2026-11-05T15:14:29Z"
       }
     },
     {
@@ -10759,7 +10759,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Sinovac%20Biotech%20Co.%2C%20Ltd&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-10-29T14:31:38Z"
+        "cached_at": "2026-11-05T15:14:33Z"
       }
     },
     {
@@ -11181,7 +11181,7 @@
       "sponsor_class": "INDUSTRY",
       "primary_completion_date": "2026-11-04",
       "primary_completion_date_type": "ESTIMATED",
-      "window": "upcoming",
+      "window": "lookback",
       "conditions": [
         "Dyslipidemia",
         "Type 2 Diabetes"
@@ -11644,45 +11644,6 @@
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000949858&type=10-K&dateb=&owner=include&count=40",
         "cached_at": "2026-11-01T14:07:32Z"
-      }
-    },
-    {
-      "nct_id": "NCT06055959",
-      "title": "A Study to Evaluate Subcutaneous Zilucoplan in Pediatric Participants With Generalized Myasthenia Gravis",
-      "status": "RECRUITING",
-      "phases": [
-        "PHASE2",
-        "PHASE3"
-      ],
-      "sponsor": "UCB Biopharma SRL",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-11-16",
-      "primary_completion_date_type": "ESTIMATED",
-      "window": "upcoming",
-      "conditions": [
-        "Generalized Myasthenia Gravis"
-      ],
-      "interventions": [
-        {
-          "name": "Zilucoplan",
-          "type": "DRUG"
-        }
-      ],
-      "drug_names": [
-        "Zilucoplan"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT06055959",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "UCB Biopharma SRL",
-        "ticker": null,
-        "cik": null,
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=UCB%20Biopharma%20SRL&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-02T16:54:19Z"
       }
     },
     {

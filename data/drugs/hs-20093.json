@@ -1,7 +1,7 @@
 {
   "drug_name": "HS-20093",
   "slug": "hs-20093",
-  "enriched_at": "2026-10-29T14:40:11Z",
+  "enriched_at": "2026-11-05T15:19:22Z",
   "source_trial_ids": [
     "NCT06498479"
   ],
@@ -82,6 +82,17 @@
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": []
+    "items": [
+      {
+        "name": "ETOPOSIDE - Usual",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Han Xu, M.D., Ph.D., FAPCR, Medical Director,, IRB Chair"
+      },
+      {
+        "name": "ETOPOSIDE - Study",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Han Xu, M.D., Ph.D., FAPCR, Medical Director,, IRB Chair"
+      }
+    ]
   }
 }

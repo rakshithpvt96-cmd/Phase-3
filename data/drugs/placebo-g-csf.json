@@ -1,7 +1,7 @@
 {
   "drug_name": "Placebo+G-CSF",
   "slug": "placebo-g-csf",
-  "enriched_at": "2026-10-29T14:46:46Z",
+  "enriched_at": "2026-11-05T15:23:17Z",
   "source_trial_ids": [
     "NCT06514508"
   ],
@@ -78,27 +78,22 @@
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
     "items": [
       {
-        "name": "Pomalidomide",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: AbbVie"
-      },
-      {
-        "name": "Dexamethasone",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: AbbVie"
-      },
-      {
-        "name": "Venetoclax",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: AbbVie"
-      },
-      {
         "name": "Elranatamab",
         "chembl_id": null,
         "reason": "same indication trial, sponsor: Pfizer"
       },
       {
         "name": "Elotuzumab",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Pfizer"
+      },
+      {
+        "name": "Pomalidomide",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Pfizer"
+      },
+      {
+        "name": "Dexamethasone",
         "chembl_id": null,
         "reason": "same indication trial, sponsor: Pfizer"
       },

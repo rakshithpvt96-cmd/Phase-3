@@ -1,7 +1,7 @@
 {
   "drug_name": "PLB1001",
   "slug": "plb1001",
-  "enriched_at": "2026-10-29T14:47:25Z",
+  "enriched_at": "2026-11-05T15:23:37Z",
   "source_trial_ids": [
     "NCT05989542"
   ],
@@ -80,36 +80,6 @@
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
     "items": [
       {
-        "name": "Alectinib",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Hoffmann-La Roche"
-      },
-      {
-        "name": "Cisplatin",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Hoffmann-La Roche"
-      },
-      {
-        "name": "Carboplatin",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Hoffmann-La Roche"
-      },
-      {
-        "name": "Pemetrexed",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Hoffmann-La Roche"
-      },
-      {
-        "name": "BL-B01D1",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Sichuan Baili Pharmaceutical Co., Ltd."
-      },
-      {
-        "name": "Pemetrexed+Cisplatin or Carboplatin",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Sichuan Baili Pharmaceutical Co., Ltd."
-      },
-      {
         "name": "Durvalumab",
         "chembl_id": null,
         "reason": "same indication trial, sponsor: AstraZeneca"
@@ -118,6 +88,36 @@
         "name": "Domvanalimab",
         "chembl_id": null,
         "reason": "same indication trial, sponsor: AstraZeneca"
+      },
+      {
+        "name": "JDQ443",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Novartis Pharmaceuticals"
+      },
+      {
+        "name": "docetaxel",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Novartis Pharmaceuticals"
+      },
+      {
+        "name": "Pemetrexed",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Innovent Biologics (Suzhou) Co. Ltd."
+      },
+      {
+        "name": "Carboplatin",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Innovent Biologics (Suzhou) Co. Ltd."
+      },
+      {
+        "name": "Paclitaxel",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Innovent Biologics (Suzhou) Co. Ltd."
+      },
+      {
+        "name": "Sintilimab",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Innovent Biologics (Suzhou) Co. Ltd."
       }
     ]
   }

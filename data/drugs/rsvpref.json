@@ -1,7 +1,7 @@
 {
   "drug_name": "RSVpreF",
   "slug": "rsvpref",
-  "enriched_at": "2026-10-29T14:49:57Z",
+  "enriched_at": "2026-11-05T15:24:22Z",
   "source_trial_ids": [
     "NCT07543380"
   ],
@@ -60,6 +60,12 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42968145",
+        "title": "Cost-utility of respiratory syncytial virus prefusion F (RSVpreF) maternal vaccine for disease prevention among colombian infants.",
+        "pubdate": "2026 Aug 3",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42968145/"
+      },
+      {
         "pmid": "42893914",
         "title": "[Research progress and vaccination strategies of respiratory syncytial virus vaccines for pregnant women].",
         "pubdate": "2026 Oct 6",
@@ -82,29 +88,12 @@
         "title": "A Randomized Phase 3 Study to Evaluate the Safety, Tolerability, and Immunogenicity of the Bivalent RSVpreF Vaccine in Older Adults in Korea.",
         "pubdate": "2026 Sep 3",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42797593/"
-      },
-      {
-        "pmid": "42761810",
-        "title": "Maternal RSV vaccination: clinical efficacy, safety, and global policy considerations: a systematic review.",
-        "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42761810/"
       }
     ]
   },
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": [
-      {
-        "name": "Recombinant Respiratory Syncytial Virus Vaccine (CHO Cell)",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: MAXVAX Biotechnology Limited Liability Company"
-      },
-      {
-        "name": "Placebo (Saline solution)",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: MAXVAX Biotechnology Limited Liability Company"
-      }
-    ]
+    "items": []
   }
 }

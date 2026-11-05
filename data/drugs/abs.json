@@ -1,7 +1,7 @@
 {
   "drug_name": "ABS",
   "slug": "abs",
-  "enriched_at": "2026-10-05T18:22:12Z",
+  "enriched_at": "2026-11-05T15:18:20Z",
   "source_trial_ids": [
     "NCT06664619"
   ],
@@ -41,7 +41,7 @@
     "boxed_warning": null,
     "openfda_brand_names": [],
     "openfda_generic_names": [],
-    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3ef0cff8-19c1-4441-b780-fca6c7ee1615",
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=470efcd0-d350-3dc4-e063-6394a90ab8c1",
     "note": "A label exists in DailyMed but structured sections could not be parsed automatically -- see dailymed_url for the full label.",
     "further_reading": {
       "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=ABS+mechanism+of+action",
@@ -57,7 +57,7 @@
     {
       "nct_id": "NCT06664619",
       "title": "A Randomized, Double-Blind, Placebo-Controlled Trial on Efficacy and Safety of Fluticasone Propionate/Albuterol Sulfate Combination in Participants 12 Years and Older With Asthma",
-      "status": "RECRUITING",
+      "status": "COMPLETED",
       "url": "https://clinicaltrials.gov/study/NCT06664619",
       "has_results": false
     }
@@ -65,6 +65,12 @@
   "prior_results": {
     "ctgov_results_urls": [],
     "pubmed_articles": [
+      {
+        "pmid": "42898854",
+        "title": "Pembrolizumab plus gemcitabine and cisplatin for advanced biliary tract cancer: longer-term follow-up from the randomised, double-blind, placebo-controlled, phase 3 KEYNOTE-966 trial.",
+        "pubdate": "2026 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42898854/"
+      },
       {
         "pmid": "42686916",
         "title": "Treatment of Herpes simplex encephalitis with the helicase-primase inhibitor pritelivir in an immunocompromised patient.",
@@ -88,12 +94,6 @@
         "title": "Allergy burden score and lung function impairment in children with asthma: a dose-response cross-sectional study.",
         "pubdate": "2026 Jun 23",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42337151/"
-      },
-      {
-        "pmid": "42179814",
-        "title": "Rationale and methods of the MOVI-HIIT! cluster-randomized controlled trial: an avatar-guided virtual platform for classroom activity breaks and its impact on cognition, adiposity, and fitness in preschoolers.",
-        "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42179814/"
       }
     ]
   },
