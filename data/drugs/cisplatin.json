@@ -1,14 +1,13 @@
 {
   "drug_name": "Cisplatin",
   "slug": "cisplatin",
-  "enriched_at": "2026-10-17T11:30:13Z",
+  "enriched_at": "2026-11-06T14:52:09Z",
   "source_trial_ids": [
     "NCT04129502",
+    "NCT04634877",
     "NCT05116462",
     "NCT06123884",
-    "NCT06624059",
-    "NCT06687369",
-    "NCT06927986"
+    "NCT06687369"
   ],
   "sponsors": [
     {
@@ -18,22 +17,16 @@
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Bio-Thera%20Solutions&type=10-K&dateb=&owner=include&count=40"
     },
     {
-      "name": "CSPC Megalith Biopharmaceutical Co.,Ltd.",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=CSPC%20Megalith%20Biopharmaceutical%20Co.%2CLtd.&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
-      "name": "Hoffmann-La Roche",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hoffmann-La%20Roche&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
       "name": "Innovent Biologics (Suzhou) Co. Ltd.",
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Innovent%20Biologics%20%28Suzhou%29%20Co.%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Merck Sharp & Dohme LLC",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Merck%20Sharp%20%26%20Dohme%20LLC&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Takeda",
@@ -80,20 +73,27 @@
     "openfda_generic_names": [
       "CISPLATIN"
     ],
-    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=508496cb-3441-46b3-a4fe-e0d440e6adc6",
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=93edf309-993c-48ec-be90-27d89c86b62b",
     "note": null,
     "further_reading": null
   },
   "condition": {
-    "raw": "EGFR-mutated Locally Advanced or Metastatic NSCLC",
-    "slug": "egfr-mutated-locally-advanced-or-metastatic-nsclc"
+    "raw": "Non Squamous Non Small Cell Lung Cancer",
+    "slug": "non-squamous-non-small-cell-lung-cancer"
   },
   "source_trials": [
     {
       "nct_id": "NCT04129502",
       "title": "TAK-788 as First-Line Treatment Versus Platinum-Based Chemotherapy for Non-Small Cell Lung Cancer (NSCLC) With EGFR Exon 20 Insertion Mutations",
-      "status": "ACTIVE_NOT_RECRUITING",
+      "status": "COMPLETED",
       "url": "https://clinicaltrials.gov/study/NCT04129502",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT04634877",
+      "title": "Study of Pembrolizumab (MK-3475) in Combination With Adjuvant Chemotherapy With or Without Radiotherapy in Participants With Newly Diagnosed Endometrial Cancer After Surgery With Curative Intent (MK-3475-B21 / KEYNOTE-B21 / ENGOT-en11 / GOG-3053)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04634877",
       "has_results": false
     },
     {
@@ -111,24 +111,10 @@
       "has_results": false
     },
     {
-      "nct_id": "NCT06624059",
-      "title": "A Study to See How Well and How Safely Different Treatments Work in a Group of Participants With Non-Small Cell Lung Cancer (NSCLC)",
-      "status": "COMPLETED",
-      "url": "https://clinicaltrials.gov/study/NCT06624059",
-      "has_results": false
-    },
-    {
       "nct_id": "NCT06687369",
       "title": "A Study to Compare Pharmacokinetics, Efficacy, Safety, and Immunogenicity of MB12 (Proposed Pembrolizumab Biosimilar) to Keytruda® in Non-small Cell Lung Cancer (BENITO Study)",
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT06687369",
-      "has_results": false
-    },
-    {
-      "nct_id": "NCT06927986",
-      "title": "Phase III Trial of SYS6010 Versus Platinum-based Chemotherapy for EGFR-mutated NSCLC（SYNSTAR01）",
-      "status": "RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06927986",
       "has_results": false
     }
   ],
@@ -136,34 +122,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42845031",
-        "title": "Phase IIa Trial of Locoregional High-Dose Autologous Natural Killer Cell Therapy Combined with Hepatic Arterial Infusion Chemotherapy for Locally Advanced Hepatocellular Carcinoma.",
-        "pubdate": "2026 Oct 7",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42845031/"
+        "pmid": "42964102",
+        "title": "Prospective evaluation of combination oral S-1 and intravenous cisplatin in cancer patients with severe hepatic dysfunction - a feasibility, safety, and pharmacokinetic study.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42964102/"
       },
       {
-        "pmid": "42816421",
-        "title": "Neoadjuvant Anlotinib Plus Paclitaxel-Cisplatin for Technically Resectable Locally Advanced Head and Neck Squamous Cell Carcinoma: A Prospective Single-Arm Phase II Study.",
-        "pubdate": "2026 Sep 30",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42816421/"
+        "pmid": "42963929",
+        "title": "The evolving role of perioperative systemic therapy in bladder cancer.",
+        "pubdate": "2026 Nov 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42963929/"
       },
       {
-        "pmid": "42814905",
-        "title": "[(177)Lu]Lu-DOTATATE Molecular Radiotherapy During Induction Chemotherapy for First-Line Stage 4 High-Risk Neuroblastoma in South African Children: Protocol for a Phase 1 Randomized Controlled Trial (LuDO-SA Trial).",
-        "pubdate": "2026 Sep 30",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42814905/"
+        "pmid": "42945191",
+        "title": "Dual-Targeted Agent Improves Advanced BTC Survival.",
+        "pubdate": "2026 Oct 27",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42945191/"
       },
       {
-        "pmid": "42804084",
-        "title": "Patient Characteristics and Treatment Patterns of Advanced Biliary Tract Cancer (BTC): A Chinese Physician Survey.",
-        "pubdate": "2026 Sep 28",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42804084/"
+        "pmid": "42940080",
+        "title": "Utility of Chemotherapy for Metastatic Melanoma in the Contemporary Era and Experience with Modified Vinblastine-Cisplatin-Temozolomide at a Tertiary Care Center.",
+        "pubdate": "2026 Oct 8",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42940080/"
       },
       {
-        "pmid": "42784848",
-        "title": "HYPOCON: A Randomised Proof of Concept Clinical Trial of Biphasic Fractionation Schedules to Overcome Hypoxia in Locally Advanced Squamous Cell Carcinoma of the Head and Neck Treated with Curative Intent Primary Chemo-radiotherapy.",
-        "pubdate": "2026 Sep 9",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42784848/"
+        "pmid": "42936389",
+        "title": "Comparison of Mirtazapine versus Olanzapine for the Prevention of Chemotherapy-induced Nausea and Vomiting in Highly Emetogenic Chemotherapy: A Double-blind Randomized Crossover Trial.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42936389/"
       }
     ]
   },

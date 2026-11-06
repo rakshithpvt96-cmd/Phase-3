@@ -1,15 +1,14 @@
 {
   "drug_name": "Carboplatin",
   "slug": "carboplatin",
-  "enriched_at": "2026-10-17T11:30:01Z",
+  "enriched_at": "2026-11-06T14:52:02Z",
   "source_trial_ids": [
     "NCT04129502",
+    "NCT04634877",
     "NCT05116462",
     "NCT05984277",
     "NCT06123884",
-    "NCT06624059",
-    "NCT06687369",
-    "NCT06927986"
+    "NCT06687369"
   ],
   "sponsors": [
     {
@@ -25,22 +24,16 @@
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Bio-Thera%20Solutions&type=10-K&dateb=&owner=include&count=40"
     },
     {
-      "name": "CSPC Megalith Biopharmaceutical Co.,Ltd.",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=CSPC%20Megalith%20Biopharmaceutical%20Co.%2CLtd.&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
-      "name": "Hoffmann-La Roche",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hoffmann-La%20Roche&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
       "name": "Innovent Biologics (Suzhou) Co. Ltd.",
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Innovent%20Biologics%20%28Suzhou%29%20Co.%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Merck Sharp & Dohme LLC",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Merck%20Sharp%20%26%20Dohme%20LLC&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Takeda",
@@ -92,15 +85,22 @@
     "further_reading": null
   },
   "condition": {
-    "raw": "EGFR-mutated Locally Advanced or Metastatic NSCLC",
-    "slug": "egfr-mutated-locally-advanced-or-metastatic-nsclc"
+    "raw": "Metastatic Non-small Cell Lung Cancer",
+    "slug": "metastatic-non-small-cell-lung-cancer"
   },
   "source_trials": [
     {
       "nct_id": "NCT04129502",
       "title": "TAK-788 as First-Line Treatment Versus Platinum-Based Chemotherapy for Non-Small Cell Lung Cancer (NSCLC) With EGFR Exon 20 Insertion Mutations",
-      "status": "ACTIVE_NOT_RECRUITING",
+      "status": "COMPLETED",
       "url": "https://clinicaltrials.gov/study/NCT04129502",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT04634877",
+      "title": "Study of Pembrolizumab (MK-3475) in Combination With Adjuvant Chemotherapy With or Without Radiotherapy in Participants With Newly Diagnosed Endometrial Cancer After Surgery With Curative Intent (MK-3475-B21 / KEYNOTE-B21 / ENGOT-en11 / GOG-3053)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04634877",
       "has_results": false
     },
     {
@@ -125,24 +125,10 @@
       "has_results": false
     },
     {
-      "nct_id": "NCT06624059",
-      "title": "A Study to See How Well and How Safely Different Treatments Work in a Group of Participants With Non-Small Cell Lung Cancer (NSCLC)",
-      "status": "COMPLETED",
-      "url": "https://clinicaltrials.gov/study/NCT06624059",
-      "has_results": false
-    },
-    {
       "nct_id": "NCT06687369",
       "title": "A Study to Compare Pharmacokinetics, Efficacy, Safety, and Immunogenicity of MB12 (Proposed Pembrolizumab Biosimilar) to Keytruda® in Non-small Cell Lung Cancer (BENITO Study)",
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT06687369",
-      "has_results": false
-    },
-    {
-      "nct_id": "NCT06927986",
-      "title": "Phase III Trial of SYS6010 Versus Platinum-based Chemotherapy for EGFR-mutated NSCLC（SYNSTAR01）",
-      "status": "RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06927986",
       "has_results": false
     }
   ],
@@ -150,34 +136,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42887596",
-        "title": "Efficacy and safety of camrelizumab plus docetaxel and carboplatin as neoadjuvant therapy for stage II-III triple-negative breast cancer: the HELEN-Trio 011 randomized clinical trial.",
-        "pubdate": "2026 Oct 16",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42887596/"
+        "pmid": "42986615",
+        "title": "HB0025 With Chemotherapy for Advanced Non-Small Cell Lung Cancer: A Phase 2 Nonrandomized Clinical Trial.",
+        "pubdate": "2026 Nov 5",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42986615/"
       },
       {
-        "pmid": "42860035",
-        "title": "Combined Active Bone Marrow-Sparing Radiotherapy and Prophylactic PEG-rhG-CSF to Reduce Severe Neutropenia During Platinum-Doublet Concurrent Chemoradiotherapy for Locally Advanced Cervical Cancer: A Phase II Trial.",
-        "pubdate": "2026 Oct",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42860035/"
+        "pmid": "42933461",
+        "title": "Izalontamab brengitecan versus platinum-based chemotherapy in EGFR-mutated advanced non-squamous non-small-cell lung cancer after progression on third-generation EGFR tyrosine kinase inhibitors (PANKU-Lung01): a multicentre, randomised, open-label, phase 3 trial in China.",
+        "pubdate": "2026 Oct 26",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42933461/"
       },
       {
-        "pmid": "42821287",
-        "title": "Rethinking Treatment Intensification in Poorly Chemosensitive Ovarian Cancer: A Review.",
-        "pubdate": "2026 Oct 1",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42821287/"
+        "pmid": "42933458",
+        "title": "First-line pembrolizumab versus carboplatin plus paclitaxel in participants with mismatch repair-deficient advanced or recurrent endometrial cancer (KEYNOTE-C93/GOG-3064/ENGOT-en15): interim analysis of a multicentre, open-label, randomised, active-comparator controlled, phase 3 trial.",
+        "pubdate": "2026 Oct 26",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42933458/"
       },
       {
-        "pmid": "42820325",
-        "title": "Plain language summary of the J-TAIL-2 study results: a study of Japanese patients with extensive-stage small cell lung cancer that followed their treatment with atezolizumab plus chemotherapy over time.",
-        "pubdate": "2026 Oct 1",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42820325/"
+        "pmid": "42933457",
+        "title": "Ruzaltatug rezetecan versus chemotherapy for EGFR-mutated advanced non-small-cell lung cancer progressing after EGFR tyrosine kinase inhibitor therapy (HERON-Lung01): interim analysis of a randomised, open-label, phase 3 trial in China.",
+        "pubdate": "2026 Nov 7",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42933457/"
       },
       {
-        "pmid": "42814905",
-        "title": "[(177)Lu]Lu-DOTATATE Molecular Radiotherapy During Induction Chemotherapy for First-Line Stage 4 High-Risk Neuroblastoma in South African Children: Protocol for a Phase 1 Randomized Controlled Trial (LuDO-SA Trial).",
-        "pubdate": "2026 Sep 30",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42814905/"
+        "pmid": "42919625",
+        "title": "Sintilimab plus eribulin and carboplatin in patients with metastatic triple-negative breast cancer (SECURE): a phase II, multicenter trial.",
+        "pubdate": "2026 Oct 23",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42919625/"
       }
     ]
   },

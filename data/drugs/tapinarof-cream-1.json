@@ -1,7 +1,7 @@
 {
   "drug_name": "tapinarof cream, 1%",
   "slug": "tapinarof-cream-1",
-  "enriched_at": "2026-10-30T14:29:15Z",
+  "enriched_at": "2026-11-06T14:58:40Z",
   "source_trial_ids": [
     "NCT05172726"
   ],
@@ -51,7 +51,7 @@
     {
       "nct_id": "NCT05172726",
       "title": "Tapinarof for the Treatment of Plaque Psoriasis in Pediatric Subjects",
-      "status": "ACTIVE_NOT_RECRUITING",
+      "status": "COMPLETED",
       "url": "https://clinicaltrials.gov/study/NCT05172726",
       "has_results": false
     }
@@ -95,21 +95,6 @@
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
     "items": [
-      {
-        "name": "MC2-01 cream",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Hangzhou Zhongmei Huadong Pharmaceutical Co., Ltd."
-      },
-      {
-        "name": "MC2-01 vehicle",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Hangzhou Zhongmei Huadong Pharmaceutical Co., Ltd."
-      },
-      {
-        "name": "CAL/BDP Gel",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Hangzhou Zhongmei Huadong Pharmaceutical Co., Ltd."
-      },
       {
         "name": "Apremilast",
         "chembl_id": null,

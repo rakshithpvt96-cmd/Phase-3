@@ -1,8 +1,9 @@
 {
   "drug_name": "Paclitaxel",
   "slug": "paclitaxel",
-  "enriched_at": "2026-10-22T12:55:26Z",
+  "enriched_at": "2026-11-06T14:53:52Z",
   "source_trial_ids": [
+    "NCT04634877",
     "NCT04704934",
     "NCT05116462",
     "NCT05984277",
@@ -87,7 +88,7 @@
     "openfda_generic_names": [
       "PACLITAXEL"
     ],
-    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e4be6cbf-72b9-4f7f-9b1b-459b2d35961a",
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4df3fda6-0b29-420e-ab91-81441ce914ed",
     "note": null,
     "further_reading": null
   },
@@ -96,6 +97,13 @@
     "slug": "metastatic-breast-cancer"
   },
   "source_trials": [
+    {
+      "nct_id": "NCT04634877",
+      "title": "Study of Pembrolizumab (MK-3475) in Combination With Adjuvant Chemotherapy With or Without Radiotherapy in Participants With Newly Diagnosed Endometrial Cancer After Surgery With Curative Intent (MK-3475-B21 / KEYNOTE-B21 / ENGOT-en11 / GOG-3053)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04634877",
+      "has_results": false
+    },
     {
       "nct_id": "NCT04704934",
       "title": "Trastuzumab Deruxtecan for Subjects With HER2-Positive Gastric Cancer or Gastro-Esophageal Junction Adenocarcinoma After Progression on or After a Trastuzumab-Containing Regimen (DESTINY-Gastric04)",
@@ -150,34 +158,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42862523",
-        "title": "Clinical Efficacy of Tislelizumab Plus Gemcitabine-Nab-Paclitaxel for Borderline Resectable Pancreatic Cancer and Chemoresistance Analysis: A Prospective Pilot Study.",
-        "pubdate": "2026 Oct 12",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42862523/"
+        "pmid": "42986615",
+        "title": "HB0025 With Chemotherapy for Advanced Non-Small Cell Lung Cancer: A Phase 2 Nonrandomized Clinical Trial.",
+        "pubdate": "2026 Nov 5",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42986615/"
       },
       {
-        "pmid": "42860035",
-        "title": "Combined Active Bone Marrow-Sparing Radiotherapy and Prophylactic PEG-rhG-CSF to Reduce Severe Neutropenia During Platinum-Doublet Concurrent Chemoradiotherapy for Locally Advanced Cervical Cancer: A Phase II Trial.",
-        "pubdate": "2026 Oct",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42860035/"
+        "pmid": "42982408",
+        "title": "Event-free survival in patients with early triple-negative breast cancer receiving platinum-free, de-escalated anti-PD-1 neoadjuvant therapy: an updated analysis of the NeoTENNIS trial.",
+        "pubdate": "2026 Nov 4",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42982408/"
       },
       {
-        "pmid": "42855246",
-        "title": "Pembrolizumab plus lenvatinib in the treatment of unresectable cutaneous angiosarcoma: a study protocol of multicentre, open-label phase II study (NCCH2213, PLAS).",
-        "pubdate": "2026 Oct 9",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42855246/"
+        "pmid": "42979888",
+        "title": "[Sustained disease control with sacituzumab govitecan in a patient with HR+/HER2- metastatic breast cancer resistant to endocrine therapy, with a high tumour burden and limited benefit from standard chemotherapy.].",
+        "pubdate": "2026 Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42979888/"
       },
       {
-        "pmid": "42821287",
-        "title": "Rethinking Treatment Intensification in Poorly Chemosensitive Ovarian Cancer: A Review.",
-        "pubdate": "2026 Oct 1",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42821287/"
+        "pmid": "42962507",
+        "title": "Phase Ib-II study of ramucirumab combined with nab-paclitaxel and Gemcitabine as first-line treatment in patients with advanced pancreatic adenocarcinoma (RACING).",
+        "pubdate": "2026 Oct 30",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42962507/"
       },
       {
-        "pmid": "42816596",
-        "title": "Intravenous hyaluronidase-expressing oncolytic adenovirus with chemotherapy in metastatic pancreatic cancer: a randomized phase 2b trial.",
-        "pubdate": "2026 Sep 30",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42816596/"
+        "pmid": "42959501",
+        "title": "Gastric cancer peritoneal metastases as an immune compartment: immune evasion, systemic immunotherapy and regional treatment strategies.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42959501/"
       }
     ]
   },
