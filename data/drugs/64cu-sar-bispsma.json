@@ -1,7 +1,7 @@
 {
   "drug_name": "64Cu-SAR-bisPSMA",
   "slug": "64cu-sar-bispsma",
-  "enriched_at": "2026-10-31T13:31:21Z",
+  "enriched_at": "2026-11-07T14:21:03Z",
   "source_trial_ids": [
     "NCT06056830"
   ],
@@ -68,6 +68,16 @@
         "name": "Copper Cu 64 PSMA I&T",
         "chembl_id": null,
         "reason": "same indication trial, sponsor: Curium US LLC"
+      },
+      {
+        "name": "Abiraterone - Usual",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Han Xu, M.D., Ph.D., FAPCR, Sponsor-Investigator, IRB Chair"
+      },
+      {
+        "name": "Abiraterone - Study",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Han Xu, M.D., Ph.D., FAPCR, Sponsor-Investigator, IRB Chair"
       }
     ]
   }

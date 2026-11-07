@@ -1,0 +1,138 @@
+{
+  "drug_name": "Bromocriptine mesylate tablets",
+  "slug": "bromocriptine-mesylate-tablets",
+  "enriched_at": "2026-11-07T14:22:23Z",
+  "source_trial_ids": [
+    "NCT07124221"
+  ],
+  "sponsors": [
+    {
+      "name": "Changchun GeneScience Pharmaceutical Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Changchun%20GeneScience%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "142426",
+      "generic_name": "bromocriptine mesylate",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1200503",
+    "target_chembl_id": "CHEMBL2331075",
+    "target_name": "D2-like dopamine receptor",
+    "mechanism_of_action_chembl": "D2-like dopamine receptor agonist"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Bromocriptine%20mesylate%20tablets+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Bromocriptine%20mesylate%20tablets+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Bromocriptine%20mesylate%20tablets+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Hyperprolactinemia",
+    "slug": "hyperprolactinemia"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07124221",
+      "title": "A Phase III Clinical Study of Cabergoline Tablets Compared With Bromocriptine Mesylate Tablets",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07124221",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "17636242",
+        "title": "Superiority of newly developed vaginal suppositories over vaginal use of commercial bromocriptine tablets: a randomized controlled clinical trial.",
+        "pubdate": "2007 Apr",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17636242/"
+      },
+      {
+        "pmid": "10674877",
+        "title": "Prevention of rat mammary carcinoma utilizing leuprolide as an equivalent to oophorectomy.",
+        "pubdate": "1999 Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10674877/"
+      },
+      {
+        "pmid": "2132052",
+        "title": "[Clinical trial of the treatment of amyotrophic lateral sclerosis with bromocriptine].",
+        "pubdate": "1990 Jan-Apr",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2132052/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "LOXAPINE",
+        "chembl_id": "CHEMBL831",
+        "reason": "same target: D2-like dopamine receptor"
+      },
+      {
+        "name": "CHLORPROMAZINE",
+        "chembl_id": "CHEMBL71",
+        "reason": "same target: D2-like dopamine receptor"
+      },
+      {
+        "name": "CHLORPROMAZINE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1713",
+        "reason": "same target: D2-like dopamine receptor"
+      },
+      {
+        "name": "OLANZAPINE PAMOATE",
+        "chembl_id": "CHEMBL3989694",
+        "reason": "same target: D2-like dopamine receptor"
+      },
+      {
+        "name": "PRAMIPEXOLE DIHYDROCHLORIDE",
+        "chembl_id": "CHEMBL3182733",
+        "reason": "same target: D2-like dopamine receptor"
+      },
+      {
+        "name": "DROPERIDOL",
+        "chembl_id": "CHEMBL1108",
+        "reason": "same target: D2-like dopamine receptor"
+      },
+      {
+        "name": "LOXAPINE SUCCINATE",
+        "chembl_id": "CHEMBL1201155",
+        "reason": "same target: D2-like dopamine receptor"
+      },
+      {
+        "name": "PROMAZINE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1200469",
+        "reason": "same target: D2-like dopamine receptor"
+      },
+      {
+        "name": "ROPINIROLE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1200411",
+        "reason": "same target: D2-like dopamine receptor"
+      },
+      {
+        "name": "LEVOMEPROMAZINE",
+        "chembl_id": "CHEMBL1764",
+        "reason": "same target: D2-like dopamine receptor"
+      }
+    ]
+  }
+}

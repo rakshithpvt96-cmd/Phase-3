@@ -1,0 +1,132 @@
+{
+  "drug_name": "Cabergoline tablets",
+  "slug": "cabergoline-tablets",
+  "enriched_at": "2026-11-07T14:22:30Z",
+  "source_trial_ids": [
+    "NCT07124221"
+  ],
+  "sponsors": [
+    {
+      "name": "Changchun GeneScience Pharmaceutical Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Changchun%20GeneScience%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "371178",
+      "generic_name": "cabergoline Oral Tablet",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1201087",
+    "target_chembl_id": "CHEMBL217",
+    "target_name": "D(2) dopamine receptor",
+    "mechanism_of_action_chembl": "Dopamine D2 receptor agonist"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Cabergoline%20tablets+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Cabergoline%20tablets+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Cabergoline%20tablets+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Hyperprolactinemia",
+    "slug": "hyperprolactinemia"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07124221",
+      "title": "A Phase III Clinical Study of Cabergoline Tablets Compared With Bromocriptine Mesylate Tablets",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07124221",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "32641968",
+        "title": "Comparative Study of the Effects of Chamomile (Matricaria Chamomilla L.) and Cabergoline on Idiopathic Hyperprolactinemia: A Pilot Randomized Controlled Trial.",
+        "pubdate": "2019 Summer",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32641968/"
+      },
+      {
+        "pmid": "28867888",
+        "title": "Efficacy of Combined Cabergoline and Metformin Compared to Metformin Alone on Cycle Regularity in Patients with Polycystic Ovarian Disease with Hyperprolactinemia: A Randomized Clinical Trial.",
+        "pubdate": "2017 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28867888/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "THIETHYLPERAZINE MALATE",
+        "chembl_id": "CHEMBL2359670",
+        "reason": "same target: D(2) dopamine receptor"
+      },
+      {
+        "name": "THIETHYLPERAZINE MALEATE",
+        "chembl_id": "CHEMBL3989478",
+        "reason": "same target: D(2) dopamine receptor"
+      },
+      {
+        "name": "FLUPHENAZINE ENANTHATE",
+        "chembl_id": "CHEMBL1200951",
+        "reason": "same target: D(2) dopamine receptor"
+      },
+      {
+        "name": "PERPHENAZINE",
+        "chembl_id": "CHEMBL567",
+        "reason": "same target: D(2) dopamine receptor"
+      },
+      {
+        "name": "BENZQUINAMIDE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1200707",
+        "reason": "same target: D(2) dopamine receptor"
+      },
+      {
+        "name": "PROCHLORPERAZINE",
+        "chembl_id": "CHEMBL728",
+        "reason": "same target: D(2) dopamine receptor"
+      },
+      {
+        "name": "FLUPHENAZINE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1448187",
+        "reason": "same target: D(2) dopamine receptor"
+      },
+      {
+        "name": "PROCHLORPERAZINE MALEATE",
+        "chembl_id": "CHEMBL1314751",
+        "reason": "same target: D(2) dopamine receptor"
+      },
+      {
+        "name": "FLUPHENAZINE DECANOATE",
+        "chembl_id": "CHEMBL1200854",
+        "reason": "same target: D(2) dopamine receptor"
+      },
+      {
+        "name": "ACETOPHENAZINE MALEATE",
+        "chembl_id": "CHEMBL2360079",
+        "reason": "same target: D(2) dopamine receptor"
+      }
+    ]
+  }
+}

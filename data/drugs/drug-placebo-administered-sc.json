@@ -1,7 +1,7 @@
 {
   "drug_name": "Drug: Placebo Administered SC",
   "slug": "drug-placebo-administered-sc",
-  "enriched_at": "2026-10-31T13:26:56Z",
+  "enriched_at": "2026-11-07T14:18:27Z",
   "source_trial_ids": [
     "NCT06716203"
   ],
@@ -60,6 +60,12 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42990859",
+        "title": "Intranasal CBT101 demonstrates favorable safety and neurophysiological evidence of central activity in healthy male volunteers.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42990859/"
+      },
+      {
         "pmid": "42960606",
         "title": "Tezepelumab in Canadian Adults With Severe Chronic Rhinosinusitis With Nasal Polyps: A Subgroup Analysis of the Phase 3 WAYPOINT Trial.",
         "pubdate": "2026 Jan-Dec",
@@ -82,29 +88,12 @@
         "title": "Effects of Dexmedetomidine on Respiratory Mechanics in Elderly Patients Undergoing Laparoscopic Colorectal Tumor Resection: A Randomized Double-Blinded Trial.",
         "pubdate": "2026",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42676941/"
-      },
-      {
-        "pmid": "42671837",
-        "title": "Dose-Dependent Effects of Cannabis Edibles on Simulated Driving Performance: A Randomized Clinical Trial.",
-        "pubdate": "2026 Aug 3",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42671837/"
       }
     ]
   },
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": [
-      {
-        "name": "GZR18",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Gan & Lee Pharmaceuticals."
-      },
-      {
-        "name": "Placebo",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Gan & Lee Pharmaceuticals."
-      }
-    ]
+    "items": []
   }
 }

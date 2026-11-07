@@ -1,7 +1,7 @@
 {
   "drug_name": "Volrustomig",
   "slug": "volrustomig",
-  "enriched_at": "2026-10-31T13:30:50Z",
+  "enriched_at": "2026-11-07T14:20:51Z",
   "source_trial_ids": [
     "NCT05984277"
   ],
@@ -63,6 +63,22 @@
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": []
+    "items": [
+      {
+        "name": "furmonertinib 240 mg oral, daily",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: ArriVent BioPharma, Inc."
+      },
+      {
+        "name": "furmonertinib 160 mg oral, daily",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: ArriVent BioPharma, Inc."
+      },
+      {
+        "name": "platinum-based chemotherapy",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: ArriVent BioPharma, Inc."
+      }
+    ]
   }
 }
