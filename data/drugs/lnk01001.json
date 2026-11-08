@@ -1,7 +1,7 @@
 {
   "drug_name": "LNK01001",
   "slug": "lnk01001",
-  "enriched_at": "2026-11-01T14:12:01Z",
+  "enriched_at": "2026-11-08T14:26:19Z",
   "source_trial_ids": [
     "NCT07237568"
   ],
@@ -59,12 +59,6 @@
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": [
-      {
-        "name": "Bimekizumab",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: UCB Biopharma SRL"
-      }
-    ]
+    "items": []
   }
 }
