@@ -1,7 +1,7 @@
 {
   "drug_name": "THP-00103",
   "slug": "thp-00103",
-  "enriched_at": "2026-08-30T13:56:14Z",
+  "enriched_at": "2026-11-09T17:23:19Z",
   "source_trial_ids": [
     "NCT06647745"
   ],
@@ -51,7 +51,7 @@
     {
       "nct_id": "NCT06647745",
       "title": "A Randomized, Double-blind, Multi-center, Active-controlled, Phase 3 Clinical Trial to Evaluate the Efficacy and Safety of Combination Therapy of THP-00101, THP-00102, and THP-00103 in Subjects With T2DM and Essential Hypertension",
-      "status": "RECRUITING",
+      "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT06647745",
       "has_results": false
     }
@@ -75,19 +75,34 @@
         "reason": "same indication trial, sponsor: Eli Lilly and Company"
       },
       {
-        "name": "Oral semaglutide",
+        "name": "HDM1002 200 mg",
         "chembl_id": null,
-        "reason": "same indication trial, sponsor: Novo Nordisk A/S"
+        "reason": "same indication trial, sponsor: Hangzhou Zhongmei Huadong Pharmaceutical Co., Ltd."
       },
       {
-        "name": "HRS9531 Injection",
+        "name": "HDM1002 400 mg",
         "chembl_id": null,
-        "reason": "same indication trial, sponsor: Fujian Shengdi Pharmaceutical Co., Ltd."
+        "reason": "same indication trial, sponsor: Hangzhou Zhongmei Huadong Pharmaceutical Co., Ltd."
       },
       {
-        "name": "Semaglutide Injection",
+        "name": "Farxiga® (dapagliflozin) + Onglyza® (saxagliptin) + Metformin Oral Mix Treat type 2 diabetes",
         "chembl_id": null,
-        "reason": "same indication trial, sponsor: Fujian Shengdi Pharmaceutical Co., Ltd."
+        "reason": "same indication trial, sponsor: Han Xu, M.D., Ph.D., FAPCR, Medical Director,, IRB Chair"
+      },
+      {
+        "name": "China Import (dapagliflozin) + China Import (saxagliptin) + Metformin Oral Mix Treat type 2 diabetes",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Han Xu, M.D., Ph.D., FAPCR, Medical Director,, IRB Chair"
+      },
+      {
+        "name": "Prusogliptin, Dapagliflozin(high dose), Dapagliflozin (low dose) placebo, plus metformin XR",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: CSPC Ouyi Pharmaceutical Co., Ltd."
+      },
+      {
+        "name": "Prusogliptin placebo, Dapagliflozin(high dose), Dapagliflozin (low dose) placebo, plus metformin XR",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: CSPC Ouyi Pharmaceutical Co., Ltd."
       }
     ]
   }

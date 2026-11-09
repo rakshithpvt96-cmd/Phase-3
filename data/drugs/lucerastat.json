@@ -1,7 +1,7 @@
 {
   "drug_name": "Lucerastat",
   "slug": "lucerastat",
-  "enriched_at": "2026-11-02T16:56:06Z",
+  "enriched_at": "2026-11-09T17:31:20Z",
   "source_trial_ids": [
     "NCT03737214"
   ],
@@ -27,10 +27,10 @@
     }
   },
   "mechanism": {
-    "chembl_id": "CHEMBL1086997",
-    "target_chembl_id": "CHEMBL2063",
-    "target_name": "Ceramide glucosyltransferase",
-    "mechanism_of_action_chembl": "Ceramide glucosyltransferase inhibitor"
+    "chembl_id": null,
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
   },
   "fda_label": {
     "has_label": false,
@@ -98,24 +98,8 @@
     ]
   },
   "related_drugs": {
-    "method": "chembl_same_target",
+    "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": [
-      {
-        "name": "MIGLUSTAT",
-        "chembl_id": "CHEMBL1029",
-        "reason": "same target: Ceramide glucosyltransferase"
-      },
-      {
-        "name": "ELIGLUSTAT TARTRATE",
-        "chembl_id": "CHEMBL5723563",
-        "reason": "same target: Ceramide glucosyltransferase"
-      },
-      {
-        "name": "VENGLUSTAT",
-        "chembl_id": "CHEMBL4297611",
-        "reason": "same target: Ceramide glucosyltransferase"
-      }
-    ]
+    "items": []
   }
 }

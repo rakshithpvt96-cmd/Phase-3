@@ -1,0 +1,105 @@
+{
+  "drug_name": "dTpa",
+  "slug": "dtpa",
+  "enriched_at": "2026-11-09T17:18:21Z",
+  "source_trial_ids": [
+    "NCT07596199"
+  ],
+  "sponsors": [
+    {
+      "name": "GlaxoSmithKline",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=GlaxoSmithKline&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 3053,
+    "iupac_name": "2-[bis[2-[bis(carboxymethyl)amino]ethyl]amino]acetic acid",
+    "molecular_formula": "C14H23N3O10",
+    "molecular_weight": "393.35",
+    "canonical_smiles": null,
+    "inchikey": "QPCDCPDFJACHGM-UHFFFAOYSA-N",
+    "rxnorm": {
+      "rxcui": "3690",
+      "generic_name": "pentetic acid",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": null,
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": "INDICATIONS AND USAGE Pentetate Indium Disodium In 111 is recommended for use in radionuclide cisternography.",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "Indium DTPA In 111"
+    ],
+    "openfda_generic_names": [
+      "INDIUM IN-111 PENTETATE DISODIUM"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4fea5871-b515-4f69-a297-11507ddd7817",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Diphtheria-Tetanus-acellular Pertussis Vaccines",
+    "slug": "diphtheria-tetanus-acellular-pertussis-vaccines"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07596199",
+      "title": "A Study on the Immune Response and Safety of a Combined Vaccine Against Diphtheria, Tetanus and Acellular Pertussis (dTpa) in Japanese Healthy Pregnant Women",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07596199",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42397155",
+        "title": "Effect of Semaglutide on Measured vs Estimated Glomerular Filtration Rate.",
+        "pubdate": "2026 Jul 3",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42397155/"
+      },
+      {
+        "pmid": "42158419",
+        "title": "Case Report: Gangrene after one dose of investigational stannic pentetate radiopharmaceutical.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42158419/"
+      },
+      {
+        "pmid": "41665510",
+        "title": "External Validation of a Postoperative Renal Function Predictive Model Following Partial Nephrectomy.",
+        "pubdate": "2026 May",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41665510/"
+      },
+      {
+        "pmid": "41526838",
+        "title": "Integrated motion-corrected extracellular volume fraction mapping reveals subtle extracellular remodeling in remote myocardium following chronic myocardial infarction.",
+        "pubdate": "2026 Jan 12",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41526838/"
+      },
+      {
+        "pmid": "41344399",
+        "title": "Results of a Pilot Trial of Infusion Rate Escalation During Convection-Enhanced Delivery of Topotecan with a Multiport Catheter.",
+        "pubdate": "2026 Jan",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41344399/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

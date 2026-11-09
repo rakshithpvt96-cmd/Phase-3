@@ -1,7 +1,7 @@
 {
   "drug_name": "furmonertinib 240 mg oral, daily",
   "slug": "furmonertinib-240-mg-oral-daily",
-  "enriched_at": "2026-11-02T16:54:56Z",
+  "enriched_at": "2026-11-09T17:21:01Z",
   "source_trial_ids": [
     "NCT05607550"
   ],
@@ -21,10 +21,10 @@
     }
   },
   "mechanism": {
-    "chembl_id": "CHEMBL2108778",
+    "chembl_id": null,
     "target_chembl_id": null,
     "target_name": null,
-    "mechanism_of_action_chembl": "Biological vaccine - induces immune response"
+    "mechanism_of_action_chembl": null
   },
   "fda_label": {
     "has_label": false,

@@ -1,8 +1,9 @@
 {
   "drug_name": "Marketed varicella vaccine",
   "slug": "marketed-varicella-vaccine",
-  "enriched_at": "2026-11-07T14:23:42Z",
+  "enriched_at": "2026-11-09T17:31:45Z",
   "source_trial_ids": [
+    "NCT06693895",
     "NCT06855160"
   ],
   "sponsors": [
@@ -21,10 +22,10 @@
     }
   },
   "mechanism": {
-    "chembl_id": "CHEMBL2108573",
+    "chembl_id": null,
     "target_chembl_id": null,
     "target_name": null,
-    "mechanism_of_action_chembl": "Biological vaccine - induces immune response"
+    "mechanism_of_action_chembl": null
   },
   "fda_label": {
     "has_label": false,
@@ -48,6 +49,13 @@
     "slug": "chickenpox"
   },
   "source_trials": [
+    {
+      "nct_id": "NCT06693895",
+      "title": "A Study on the Safety of an Investigational Chickenpox Vaccine, When Given to Healthy Children, 12 to 15 Months of Age",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06693895",
+      "has_results": false
+    },
     {
       "nct_id": "NCT06855160",
       "title": "A Study on the Immune Response and Safety of an Investigational Chickenpox Vaccine and a Marketed Measles, Mumps and Rubella Vaccine When Administered as Intramuscular Injection to Healthy Children 12 to 15 Months of Age",

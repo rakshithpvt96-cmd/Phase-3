@@ -1,7 +1,7 @@
 {
   "drug_name": "IVA337",
   "slug": "iva337",
-  "enriched_at": "2026-11-02T16:55:05Z",
+  "enriched_at": "2026-11-09T17:22:09Z",
   "source_trial_ids": [
     "NCT04849728"
   ],
@@ -25,7 +25,7 @@
   "mechanism": {
     "chembl_id": "CHEMBL4091374",
     "target_chembl_id": "CHEMBL3559683",
-    "target_name": "Peroxisome proliferator-activated receptor",
+    "target_name": null,
     "mechanism_of_action_chembl": "Peroxisome proliferator-activated receptor agonist"
   },
   "fda_label": {
@@ -100,22 +100,22 @@
       {
         "name": "INDEGLITAZAR",
         "chembl_id": "CHEMBL1232583",
-        "reason": "same target: Peroxisome proliferator-activated receptor"
+        "reason": "same target: CHEMBL3559683"
       },
       {
         "name": "SODELGLITAZAR",
         "chembl_id": "CHEMBL2104984",
-        "reason": "same target: Peroxisome proliferator-activated receptor"
+        "reason": "same target: CHEMBL3559683"
       },
       {
         "name": "BEZAFIBRATE",
         "chembl_id": "CHEMBL264374",
-        "reason": "same target: Peroxisome proliferator-activated receptor"
+        "reason": "same target: CHEMBL3559683"
       },
       {
         "name": "CHIGLITAZAR",
         "chembl_id": "CHEMBL4650349",
-        "reason": "same target: Peroxisome proliferator-activated receptor"
+        "reason": "same target: CHEMBL3559683"
       }
     ]
   }
