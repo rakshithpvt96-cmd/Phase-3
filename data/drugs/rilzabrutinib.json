@@ -1,0 +1,156 @@
+{
+  "drug_name": "rilzabrutinib",
+  "slug": "rilzabrutinib",
+  "enriched_at": "2026-11-11T15:02:13Z",
+  "source_trial_ids": [
+    "NCT07216079"
+  ],
+  "sponsors": [
+    {
+      "name": "Sanofi",
+      "ticker": "SNY",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001121404&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 73388818,
+    "iupac_name": "(E)-2-[(3R)-3-[4-amino-3-(2-fluoro-4-phenoxyphenyl)pyrazolo[3,4-d]pyrimidin-1-yl]piperidine-1-carbonyl]-4-methyl-4-[4-(oxetan-3-yl)piperazin-1-yl]pent-2-enenitrile",
+    "molecular_formula": "C36H40FN9O3",
+    "molecular_weight": "665.8",
+    "canonical_smiles": null,
+    "inchikey": "LCFFREMLXLZNHE-GBOLQPHISA-N",
+    "rxnorm": {
+      "rxcui": "2722398",
+      "generic_name": "rilzabrutinib",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL3702854",
+    "target_chembl_id": "CHEMBL5251",
+    "target_name": "Tyrosine-protein kinase BTK",
+    "mechanism_of_action_chembl": "Tyrosine-protein kinase BTK inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Rilzabrutinib is a small-molecule, covalent, reversible kinase inhibitor targeting Bruton's tyrosine kinase (BTK). Rilzabrutinib mediates its therapeutic effect in ITP through immune modulation including 1) inhibition of B cell activation, and 2) interruption of antibody-coated cell phagocytosis by Fcγ receptor (FcγR) in spleen and liver. In vitro , rilzabrutinib reduced autoantibody signaling mediated through the FcγR pathway, blocked B cell signaling, and decreased autoantibody generation through effects on B cell activation.",
+    "pharmacokinetics": "12.3 Pharmacokinetics The pharmacokinetics of rilzabrutinib are presented as geometric mean (% coefficient of variation) unless otherwise specified. The C max and AUC of rilzabrutinib increase proportionally following administration of multiple doses of 300 mg to 600 mg. Steady-state plasma levels are reached within 3 days with accumulation up to 1.3-fold at the approved recommended dosage. Following daily doses of 400 mg rilzabrutinib twice daily, the steady-state C max and AUC24h are 150 ng/mL (56%) and 1540 ng.h/mL (57.5%), respectively. Absorption The absolute oral bioavailability of rilzabrutinib is 4.7%. Following a single oral dose of 400 mg rilzabrutinib, the median time to peak plasma concentration (T max ) is approximately 2 hours. Effect of Food: Rilzabrutinib AUC and C max decreased by 20% and 31%, respectively, following administration of a single oral 400 mg dose with a high fat meal (approximately 1,000 calories with 50% of total caloric content from fat). Distribution The volume of distribution at terminal phase (Vz) after IV administration is 149L. Rilzabrutinib is 97.5% bound to plasma proteins and the blood-to-plasma ratio is 0.786. Metabolism Rilzabrutinib is predominantly metabolized by cytochrome P450 3A. Elimination The clearance of rilzabrutinib is time-independent. Following multiple doses of 400 mg twice daily rilzabrutinib in patients with ITP, mean CL/F ranged from 246 to 911 L/h. Based on the population pharmacokinetic analysis in patients with ITP, the mean CL/F was 516 L/h. In Phase 1 studies, the half-life of rilzabrutinib ranged between 1.6 to 4.5 hours. Excretion Following administration of a single 400 mg 14C-labeled rilzabrutinib dose in healthy subjects, approximately 86% of the dose was recovered in feces (9% unchanged) and to a lesser extent in urine (~5%) and bile (~6%). Approximately 0.03% of rilzabrutinib was excreted unchanged in the urine. Special Populations No clinically significant differences in the pharmacokinetics of rilzabrutinib were observed based on age (12 to 80 years), sex, race, mild to moderate renal impairment (CL CR 46 to 89 mL/min), or mild hepatic impairment (Child-Pugh class A). Rilzabrutinib exposure (both C max and AUC) increased by approximately 4.5-fold in participants with moderate hepatic impairment (Child-Pugh class B). Patients with severe hepatic impairment (Child-Pugh class C) and CL CR <46 mL/min have not been studied. Drug Interaction Studies Clinical Studies and Model-Informed Approaches Effect of Other Drugs on Rilzabrutinib Strong CYP3A inhibitors : Concomitant use with ritonavir (strong CYP3A inhibitor) increased rilzabrutinib C max by approximately 5-fold and AUC by 8-fold at steady state. Moderate CYP3A inhibitors : Concomitant use with moderate CYP3A inhibitors (fluconazole, erythromycin and verapamil) is predicted to increase rilzabrutinib C max and AUC by approximately 3-fold at steady state. Weak CYP3A inhibitors : Cimetidine is predicted to increase rilzabrutinib C max by approximately 2-fold and AUC by 1.6-fold. Strong CYP3A inducers : Coadministration of rifampin (strong CYP3A inducer) decreased rilzabrutinib C max and AUC by approximately 80% at steady state. Moderate CYP3A inducers : Coadministration of moderate CYP3A inducers (efavirenz, rifabutin) is predicted to reduce rilzabrutinib C max and AUC by up to 70% at steady state. Weak CYP3A inducers : Modafinil is predicted to reduce rilzabrutinib C max and AUC by 20%. Proton pump inhibitor : Coadministration of esomeprazole (proton pump inhibitor) decreased rilzabrutinib C max by 55% and AUC by 51%. H2 receptor antagonist : Administration of famotidine (H2 receptor antagonist) two hours after the evening dose of rilzabrutinib decreased the next morning dose of rilzabrutinib C max by 35% and AUC by 28%. P-glycoprotein (P-gp) inhibitor : Coadministration of quinidine (P-gp inhibitor) increased rilzabrutinib C max and AUC by approximately 13% at steady state. Effect of Rilzabrutinib on Other Drugs CYP3A4 substrates : Concomitant use of a single dose of rilzabrutinib 400 mg with midazolam (sensitive CYP3A inhibitor) increased midazolam C max and AUC by 2.2-fold as observed in study with healthy participants. Midazolam AUC is predicted to increase up to 3.0-fold in patients with immune thrombocytopenia following coadministration with 400 mg rilzabrutinib twice daily. In Vitro Studies CYP Enzymes : Rilzabrutinib is a substrate of CYP3A. Rilzabrutinib is both an inhibitor and inducer of CYP3A. Transporters : Rilzabrutinib is a substrate of P-gp and BCRP, but not a substrate for OAT1, OAT3, OCT1, OCT2, OATP1B1, OATP1B3, or BSEP. Rilzabrutinib inhibits P-gp, BCRP, OATP1B1, OATP1B3, and BSEP at clinically relevant concentrations.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE WAYRILZ is indicated for the treatment of adult patients with persistent or chronic immune thrombocytopenia (ITP) who have had an insufficient response to a previous treatment. WAYRILZ is a kinase inhibitor indicated for the treatment of adult patients with persistent or chronic immune thrombocytopenia (ITP) who have had an insufficient response to a previous treatment. ( 1 )",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "WAYRILZ"
+    ],
+    "openfda_generic_names": [
+      "RILZABRUTINIB"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=95ffd367-9b0c-4f75-8487-5d8f3c0a5ad0",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Immune Thrombocytopenia",
+    "slug": "immune-thrombocytopenia"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07216079",
+      "title": "Rilzabrutinib for the Adult Participants With Chronic ITP Who Have Completed Phase 3 Study in Japan",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07216079",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42999879",
+        "title": "Bruton's tyrosine kinase inhibitors in primary immune thrombocytopenia: pathophysiology and clinical evidence.",
+        "pubdate": "2026 Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42999879/"
+      },
+      {
+        "pmid": "42894830",
+        "title": "Comparative Efficacy and Safety of Bruton Tyrosine Kinase and Spleen Tyrosine Kinase Inhibitors in Immune Thrombocytopenia: A Network Meta-Analysis of Clinical Trials.",
+        "pubdate": "2026 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42894830/"
+      },
+      {
+        "pmid": "42836361",
+        "title": "Targeted therapies in pemphigus vulgaris: Emerging horizons beyond rituximab.",
+        "pubdate": "2026 Oct 6",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42836361/"
+      },
+      {
+        "pmid": "42770623",
+        "title": "Beyond Omalizumab: Emerging Biologic and Small Molecule Therapies in Chronic Spontaneous Urticaria.",
+        "pubdate": "2026 Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42770623/"
+      },
+      {
+        "pmid": "42753771",
+        "title": "Clinical activity and safety of rilzabrutinib in patients with previously treated immune thrombocytopenia (LUNA3): results from the open-label period of a phase 3 trial.",
+        "pubdate": "2026 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42753771/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "IBRUTINIB",
+        "chembl_id": "CHEMBL1873475",
+        "reason": "same target: Tyrosine-protein kinase BTK"
+      },
+      {
+        "name": "SPEBRUTINIB BESYLATE",
+        "chembl_id": "CHEMBL3301600",
+        "reason": "same target: Tyrosine-protein kinase BTK"
+      },
+      {
+        "name": "POSELTINIB",
+        "chembl_id": "CHEMBL4163691",
+        "reason": "same target: Tyrosine-protein kinase BTK"
+      },
+      {
+        "name": "TIRABRUTINIB",
+        "chembl_id": "CHEMBL4071161",
+        "reason": "same target: Tyrosine-protein kinase BTK"
+      },
+      {
+        "name": "MSC-2364447",
+        "chembl_id": "CHEMBL3545193",
+        "reason": "same target: Tyrosine-protein kinase BTK"
+      },
+      {
+        "name": "ACALABRUTINIB",
+        "chembl_id": "CHEMBL3707348",
+        "reason": "same target: Tyrosine-protein kinase BTK"
+      },
+      {
+        "name": "ZANUBRUTINIB",
+        "chembl_id": "CHEMBL3936761",
+        "reason": "same target: Tyrosine-protein kinase BTK"
+      },
+      {
+        "name": "BRANEBRUTINIB",
+        "chembl_id": "CHEMBL4297674",
+        "reason": "same target: Tyrosine-protein kinase BTK"
+      },
+      {
+        "name": "BMS-986142",
+        "chembl_id": "CHEMBL3900554",
+        "reason": "same target: Tyrosine-protein kinase BTK"
+      },
+      {
+        "name": "EVOBRUTINIB",
+        "chembl_id": "CHEMBL4072833",
+        "reason": "same target: Tyrosine-protein kinase BTK"
+      }
+    ]
+  }
+}

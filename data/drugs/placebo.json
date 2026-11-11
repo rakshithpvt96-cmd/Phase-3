@@ -1,7 +1,7 @@
 {
   "drug_name": "Placebo",
   "slug": "placebo",
-  "enriched_at": "2026-11-02T16:55:12Z",
+  "enriched_at": "2026-11-11T15:01:51Z",
   "source_trial_ids": [
     "NCT02914535",
     "NCT04652882",
@@ -39,11 +39,11 @@
     "NCT06516965",
     "NCT06534723",
     "NCT06564818",
+    "NCT06585787",
     "NCT06588855",
     "NCT06664619",
     "NCT06719141",
     "NCT06775379",
-    "NCT06777238",
     "NCT06783114",
     "NCT06834347",
     "NCT06834360",
@@ -173,12 +173,6 @@
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Epygenix&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
-      "name": "Gan & Lee Pharmaceuticals.",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Gan%20%26%20Lee%20Pharmaceuticals.&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Guangdong Hengrui Pharmaceutical Co., Ltd",
@@ -374,8 +368,8 @@
     }
   },
   "condition": {
-    "raw": "Type 2 Diabetes Mellitus (T2DM)",
-    "slug": "type-2-diabetes-mellitus-t2dm"
+    "raw": "Irritable Bowel Syndrome With Constipation (IBS-C)",
+    "slug": "irritable-bowel-syndrome-with-constipation-ibs-c"
   },
   "source_trials": [
     {
@@ -430,7 +424,7 @@
     {
       "nct_id": "NCT05115110",
       "title": "A Study to Investigate the Safety and Efficacy of RO7204239 in Combination With Risdiplam (RO7034067) in Participants With Spinal Muscular Atrophy",
-      "status": "ACTIVE_NOT_RECRUITING",
+      "status": "COMPLETED",
       "url": "https://clinicaltrials.gov/study/NCT05115110",
       "has_results": false
     },
@@ -631,6 +625,13 @@
       "has_results": false
     },
     {
+      "nct_id": "NCT06585787",
+      "title": "A Study to Evaluate KarXT as a Treatment for Psychosis Associated With Alzheimer's Disease (ADEPT-4)",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06585787",
+      "has_results": false
+    },
+    {
       "nct_id": "NCT06588855",
       "title": "A Study to Assess the Efficacy and Safety of Induction Therapy With Afimkibart (Also Known as RO7790121) in Participants With Moderately to Severely Active Ulcerative Colitis",
       "status": "ACTIVE_NOT_RECRUITING",
@@ -640,7 +641,7 @@
     {
       "nct_id": "NCT06664619",
       "title": "A Randomized, Double-Blind, Placebo-Controlled Trial on Efficacy and Safety of Fluticasone Propionate/Albuterol Sulfate Combination in Participants 12 Years and Older With Asthma",
-      "status": "ACTIVE_NOT_RECRUITING",
+      "status": "COMPLETED",
       "url": "https://clinicaltrials.gov/study/NCT06664619",
       "has_results": false
     },
@@ -656,13 +657,6 @@
       "title": "A Randomized Study of Azetukalner Versus Placebo in Major Depressive Disorder",
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT06775379",
-      "has_results": false
-    },
-    {
-      "nct_id": "NCT06777238",
-      "title": "A Phase III Clinical Study to Evaluate the Efficacy and Safety of GZR18 Injection in Subjects With Type 2 Diabetes Mellitus and Poor Blood Glucose Control by Diet and Exercise",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06777238",
       "has_results": false
     },
     {
@@ -810,66 +804,40 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42968246",
-        "title": "Intake of ETAS(®) Improves Cognitive Function in Healthy Middle-Aged and Older Adults: A Randomized, Double-Blind, Placebo-Controlled Trial.",
+        "pmid": "43008966",
+        "title": "Janus Kinase Inhibitors for Severe Alopecia Areata: A Systematic Literature Review and Network Meta-Analysis.",
+        "pubdate": "2026 Nov 10",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43008966/"
+      },
+      {
+        "pmid": "43008349",
+        "title": "Analytical and clinical validation of Ion Torrent™ Oncomine™ Dx Express Test for identifying PIK3CA/AKT1/PTEN-altered tumors in patients with hormone receptor-positive advanced breast cancer for treatment with capivasertib.",
+        "pubdate": "2026 Nov 10",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43008349/"
+      },
+      {
+        "pmid": "43008126",
+        "title": "Efficacy and Safety of Brepocitinib in Cutaneous Sarcoidosis: A Phase 2 Randomized Clinical Trial.",
+        "pubdate": "2026 Nov 10",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43008126/"
+      },
+      {
+        "pmid": "43008037",
+        "title": "Acute doses of 3 and 6 mg/kg caffeine produce outcome- and phase-specific improvements in male 100-m sprinters: A randomized, double-blind, placebo-controlled crossover trial.",
         "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42968246/"
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43008037/"
       },
       {
-        "pmid": "42968188",
-        "title": "Short-term effects of oral curcumin as adjunct to intravitreal bevacizumab in diabetic macular edema: a randomized clinical trial.",
-        "pubdate": "2026 Aug 3",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42968188/"
-      },
-      {
-        "pmid": "42967138",
-        "title": "Effect of Preoperative Intranasal Dexmedetomidine on Postoperative Myocardial Injury in Patients Undergoing Coronary Artery Bypass Grafting.",
-        "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42967138/"
-      },
-      {
-        "pmid": "42966623",
-        "title": "Probiotics and diarrhoea morbidity among infants in Tanzania: secondary analysis of a randomised clinical trial.",
-        "pubdate": "2026 Oct 31",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42966623/"
-      },
-      {
-        "pmid": "42965874",
-        "title": "S1P receptors in ulcerative colitis: spotlight on etrasimod.",
-        "pubdate": "2026 Nov 1",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42965874/"
+        "pmid": "43007834",
+        "title": "Adalimumab Does Not Improve Clinical Outcomes After Needle Fasciotomy for Dupuytren Contracture: A Randomized Controlled Pilot Trial.",
+        "pubdate": "2026 Nov 10",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43007834/"
       }
     ]
   },
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": [
-      {
-        "name": "Drug: 5 mg BGM0504 Administered SC",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: BrightGene Bio-Medical Technology Co., Ltd."
-      },
-      {
-        "name": "Drug: : 10 mg BGM0504 Administered SC",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: BrightGene Bio-Medical Technology Co., Ltd."
-      },
-      {
-        "name": "Drug: Placebo Administered SC",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: BrightGene Bio-Medical Technology Co., Ltd."
-      },
-      {
-        "name": "Drug:10 mg BGM0504 Administered SC",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: BrightGene Bio-Medical Technology Co., Ltd."
-      },
-      {
-        "name": "Drug: Semaglutide Administered SC",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: BrightGene Bio-Medical Technology Co., Ltd."
-      }
-    ]
+    "items": []
   }
 }

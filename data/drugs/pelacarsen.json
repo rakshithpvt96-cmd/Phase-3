@@ -1,0 +1,105 @@
+{
+  "drug_name": "Pelacarsen",
+  "slug": "pelacarsen",
+  "enriched_at": "2026-11-11T15:06:01Z",
+  "source_trial_ids": [
+    "NCT05900141"
+  ],
+  "sponsors": [
+    {
+      "name": "Novartis Pharmaceuticals",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Novartis%20Pharmaceuticals&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2471442",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4298202",
+    "target_chembl_id": "CHEMBL4662965",
+    "target_name": "LPA mRNA",
+    "mechanism_of_action_chembl": "LPA mRNA antisense inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Pelacarsen+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Pelacarsen+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Pelacarsen+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Hyperlipoproteinemia (a)",
+    "slug": "hyperlipoproteinemia-a"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05900141",
+      "title": "An Open Label Extension (OLE) Study to Evaluate Long-term Safety and Tolerability of Pelacarsen (TQJ230)",
+      "status": "TERMINATED",
+      "url": "https://clinicaltrials.gov/study/NCT05900141",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42979111",
+        "title": "Five Trials, Five Different Questions: Design Heterogeneity Among Lipoprotein(a)-Lowering Cardiovascular Outcomes Trials After Lp(a)HORIZON.",
+        "pubdate": "2026 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42979111/"
+      },
+      {
+        "pmid": "42886494",
+        "title": "Lp(a)-Reducing Agent Pelacarsen Misses the Mark in Phase 3-Now What?",
+        "pubdate": "2026 Nov 10",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42886494/"
+      },
+      {
+        "pmid": "42880684",
+        "title": "Pelacarsen and Lp(a)HORIZON: Interpreting the disconnect between lipoprotein(a) lowering and cardiovascular outcomes.",
+        "pubdate": "2026 Oct 15",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42880684/"
+      },
+      {
+        "pmid": "42873455",
+        "title": "RNA-Based Therapies for Lipoprotein(a) Reduction: Antisense Oligonucleotides, Small Interfering RNAs, and Emerging Platforms.",
+        "pubdate": "2026 Oct 14",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42873455/"
+      },
+      {
+        "pmid": "42853682",
+        "title": "Targeting Lipoprotein(a) in Cardiovascular Disease: Emerging Therapies and Clinical Implications.",
+        "pubdate": "2026 Oct 9",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42853682/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "OLPASIRAN",
+        "chembl_id": "CHEMBL4650413",
+        "reason": "same target: LPA mRNA"
+      }
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "drug_name": "Octreotide LAR (Long-acting release)",
+  "slug": "octreotide-lar-long-acting-release",
+  "enriched_at": "2026-11-11T15:05:53Z",
+  "source_trial_ids": [
+    "NCT07057622"
+  ],
+  "sponsors": [
+    {
+      "name": "HTA Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=HTA%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "218069",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1680",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Octreotide%20LAR%20%28Long-acting%20release%29+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Octreotide%20LAR%20%28Long-acting%20release%29+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Octreotide%20LAR%20%28Long-acting%20release%29+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "NETS Ga68 Lu177",
+    "slug": "nets-ga68-lu177"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07057622",
+      "title": "A Phase III Clinical Study to Compare the Safety and Efficacy of 177Lu-DOTATATE Injection and Long-acting Oxytrexine in Adult Patients With NETs",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07057622",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "38229199",
+        "title": "Methodology of the SORENTO clinical trial: a prospective, randomised, active-controlled phase 3 trial assessing the efficacy and safety of high exposure octreotide subcutaneous depot (CAM2029) in patients with GEP-NET.",
+        "pubdate": "2024 Jan 16",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38229199/"
+      },
+      {
+        "pmid": "36754009",
+        "title": "Effects of Octreotide-Long-Acting Release Added-on Tolvaptan in Patients with Autosomal Dominant Polycystic Kidney Disease: Pilot, Randomized, Placebo-Controlled, Cross-Over Trial.",
+        "pubdate": "2023 Feb 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36754009/"
+      },
+      {
+        "pmid": "34533700",
+        "title": "Safety and efficacy of peptide receptor radionuclide therapy with (177)Lu-DOTA(0)-Tyr(3)-octreotate in combination with amino acid solution infusion in Japanese patients with somatostatin receptor-positive, progressive neuroendocrine tumors.",
+        "pubdate": "2021 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34533700/"
+      },
+      {
+        "pmid": "34260017",
+        "title": "Estimation of Health-Related Utilities for (177)Lu-DOTATATE in GEP-NET Patients Using Utilities Mapped from EORTC QLQ-C30 to EQ-5D-3L and QLU-C10D Utilities.",
+        "pubdate": "2021 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34260017/"
+      },
+      {
+        "pmid": "32182791",
+        "title": "Efficacy and Safety of First-Line Everolimus Therapy Alone or in Combination with Octreotide in Gastroenteropancreatic Neuroendocrine Tumors. A Hellenic Cooperative Oncology Group (HeCOG) Study.",
+        "pubdate": "2020 Mar 9",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32182791/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

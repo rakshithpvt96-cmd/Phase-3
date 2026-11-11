@@ -1,7 +1,7 @@
 {
   "drug_name": "JDQ443",
   "slug": "jdq443",
-  "enriched_at": "2026-11-03T14:58:17Z",
+  "enriched_at": "2026-11-11T15:05:11Z",
   "source_trial_ids": [
     "NCT05132075"
   ],
@@ -53,7 +53,7 @@
     {
       "nct_id": "NCT05132075",
       "title": "Study of JDQ443 in Comparison With Docetaxel in Participants With Locally Advanced or Metastatic KRAS G12C Mutant Non-small Cell Lung Cancer",
-      "status": "ACTIVE_NOT_RECRUITING",
+      "status": "TERMINATED",
       "url": "https://clinicaltrials.gov/study/NCT05132075",
       "has_results": false
     }
@@ -79,16 +79,6 @@
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
     "items": [
-      {
-        "name": "Durvalumab",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: AstraZeneca"
-      },
-      {
-        "name": "Domvanalimab",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: AstraZeneca"
-      },
       {
         "name": "Pemetrexed",
         "chembl_id": null,
@@ -118,6 +108,16 @@
         "name": "Nab paclitaxel",
         "chembl_id": null,
         "reason": "same indication trial, sponsor: Innovent Biologics (Suzhou) Co. Ltd."
+      },
+      {
+        "name": "Placebo",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Innovent Biologics (Suzhou) Co. Ltd."
+      },
+      {
+        "name": "PLB1001",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Beijing Pearl Biotechnology Limited Liability Company"
       }
     ]
   }

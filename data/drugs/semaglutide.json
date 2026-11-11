@@ -1,9 +1,10 @@
 {
   "drug_name": "Semaglutide",
   "slug": "semaglutide",
-  "enriched_at": "2026-10-15T12:46:56Z",
+  "enriched_at": "2026-11-11T15:02:26Z",
   "source_trial_ids": [
-    "NCT06260722"
+    "NCT06260722",
+    "NCT06778967"
   ],
   "sponsors": [
     {
@@ -11,6 +12,12 @@
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Eli%20Lilly%20and%20Company&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Gan & Lee Pharmaceuticals.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Gan%20%26%20Lee%20Pharmaceuticals.&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
@@ -61,40 +68,47 @@
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT06260722",
       "has_results": false
+    },
+    {
+      "nct_id": "NCT06778967",
+      "title": "A Phase III Clinical Study to Evaluate the Efficacy and Safety of GZR18 Injection in Adult Type 2 Diabetes Mellitus",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT06778967",
+      "has_results": false
     }
   ],
   "prior_results": {
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42860310",
-        "title": "The Power of Two: Harnessing Dual Glucagon and Incretin Signaling for Treatment of Obesity and Metabolic Dysfunction-Associated Steatohepatitis-A Narrative Review with a Translational Focus.",
-        "pubdate": "2026 Oct 11",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42860310/"
+        "pmid": "43000472",
+        "title": "Hemodynamic effects of semaglutide in individuals with heart failure with preserved ejection fraction and obesity: a placebo-controlled randomized clinical trial.",
+        "pubdate": "2026 Nov 8",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43000472/"
       },
       {
-        "pmid": "42851802",
-        "title": "SGLT2 inhibitors, semaglutide, and finerenone in diabetic kidney disease: a Bayesian network meta-analysis.",
+        "pmid": "42998725",
+        "title": "Phase 3 clinical development of semaglutide (2015-2026): a comprehensive evidence-based review of trial designs, therapeutic outcomes and global clinical experience.",
+        "pubdate": "2026 Nov 7",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42998725/"
+      },
+      {
+        "pmid": "42997320",
+        "title": "GLP-1 receptor agonists as potential disease-modifying agents in Parkinson's and Alzheimer's disease: mechanisms, clinical trial evidence, and the neuroprotection horizon.",
         "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42851802/"
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42997320/"
       },
       {
-        "pmid": "42847129",
-        "title": "Effects of a GLP-1 agonist and anti-diabetic therapies on pheochromocytoma/paraganglioma growth.",
-        "pubdate": "2026 Oct 7",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42847129/"
+        "pmid": "42996399",
+        "title": "Will GLP-1-based therapies reshape the epidemiology of MASLD? An emerging public health perspective.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42996399/"
       },
       {
-        "pmid": "42840232",
-        "title": "Cardiovascular outcomes with tirzepatide versus semaglutide in type 2 diabetes.",
-        "pubdate": "2026 Dec",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42840232/"
-      },
-      {
-        "pmid": "42810438",
-        "title": "Estimating the Wider Societal Impact of Semaglutide Across Multiple Indications in Canada: an Economic Evaluation.",
-        "pubdate": "2026 Sep 29",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42810438/"
+        "pmid": "42988221",
+        "title": "Semaglutide versus diet-based weight loss in obesity and heart failure with reduced ejection fraction (FIT-HF): Protocol for a randomized controlled trial.",
+        "pubdate": "2026 Nov 5",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42988221/"
       }
     ]
   },

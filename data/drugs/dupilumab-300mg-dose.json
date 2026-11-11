@@ -1,7 +1,7 @@
 {
   "drug_name": "Dupilumab 300mg Dose",
   "slug": "dupilumab-300mg-dose",
-  "enriched_at": "2026-11-03T14:55:58Z",
+  "enriched_at": "2026-11-11T14:59:24Z",
   "source_trial_ids": [
     "NCT06389136"
   ],
@@ -60,6 +60,12 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42980500",
+        "title": "Pharmacokinetics, efficacy and safety of dupilumab administered with prefilled pen devices in patients aged <12 years with atopic dermatitis.",
+        "pubdate": "2026 Nov 4",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42980500/"
+      },
+      {
         "pmid": "27268421",
         "title": "Dupilumab therapy provides clinically meaningful improvement in patient-reported outcomes (PROs): A phase IIb, randomized, placebo-controlled, clinical trial in adult patients with moderate to severe atopic dermatitis (AD).",
         "pubdate": "2016 Sep",
@@ -71,16 +77,6 @@
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
     "items": [
-      {
-        "name": "Ruxolitinib",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Incyte Corporation"
-      },
-      {
-        "name": "Vehicle Cream",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Incyte Corporation"
-      },
       {
         "name": "CM310",
         "chembl_id": null,
@@ -100,6 +96,16 @@
         "name": "Placebo + TCS",
         "chembl_id": null,
         "reason": "same indication trial, sponsor: LEO Pharma"
+      },
+      {
+        "name": "ICP-332 Tablets",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Beijing InnoCare Pharma Tech Co., Ltd."
+      },
+      {
+        "name": "ICP-332 Placebo Tablets",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Beijing InnoCare Pharma Tech Co., Ltd."
       }
     ]
   }

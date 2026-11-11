@@ -1,0 +1,68 @@
+{
+  "drug_name": "0.412% stannous fluoride toothpaste and flat trimmed toothbrush",
+  "slug": "0-412-stannous-fluoride-toothpaste-and-flat-trimmed-toothbrush",
+  "enriched_at": "2026-11-11T15:02:48Z",
+  "source_trial_ids": [
+    "NCT07917507"
+  ],
+  "sponsors": [
+    {
+      "name": "Colgate Palmolive",
+      "ticker": "CL",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000021665&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "378674",
+      "generic_name": "stannous fluoride Toothpaste",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1909079",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=0.412%25%20stannous%20fluoride%20toothpaste%20and%20flat%20trimmed%20toothbrush+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=0.412%25%20stannous%20fluoride%20toothpaste%20and%20flat%20trimmed%20toothbrush+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=0.412%25%20stannous%20fluoride%20toothpaste%20and%20flat%20trimmed%20toothbrush+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Plaque",
+    "slug": "plaque"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07917507",
+      "title": "Efficacy of Two Brushing Regimens in the Reduction of Established Dental Plaque and Gingivitis",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT07917507",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

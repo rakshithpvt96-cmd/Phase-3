@@ -1,6 +1,386 @@
 {
-  "generated_at": "2026-11-09T19:36:56Z",
-  "new_trial_count": 0,
-  "new_trials": [],
-  "removed_trial_ids": []
+  "generated_at": "2026-11-11T14:58:17Z",
+  "new_trial_count": 9,
+  "new_trials": [
+    {
+      "nct_id": "NCT06778967",
+      "title": "A Phase III Clinical Study to Evaluate the Efficacy and Safety of GZR18 Injection in Adult Type 2 Diabetes Mellitus",
+      "status": "COMPLETED",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Gan & Lee Pharmaceuticals.",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-09-18",
+      "primary_completion_date_type": "ACTUAL",
+      "window": "lookback",
+      "conditions": [
+        "Type 2 Diabetes Mellitus (T2DM)"
+      ],
+      "interventions": [
+        {
+          "name": "GZR18",
+          "type": "DRUG"
+        },
+        {
+          "name": "semaglutide",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "GZR18",
+        "semaglutide"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06778967",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Gan & Lee Pharmaceuticals.",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Gan%20%26%20Lee%20Pharmaceuticals.&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-11-09T17:16:23Z"
+      }
+    },
+    {
+      "nct_id": "NCT07292441",
+      "title": "Extension Study of the Phase 3 Clinical Study of GZR18 Injection for Weight Loss",
+      "status": "COMPLETED",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Gan & Lee Pharmaceuticals.",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-09-22",
+      "primary_completion_date_type": "ACTUAL",
+      "window": "lookback",
+      "conditions": [
+        "Overweight or Obesity"
+      ],
+      "interventions": [
+        {
+          "name": "GZR18 injection",
+          "type": "DRUG"
+        },
+        {
+          "name": "Placebo",
+          "type": "OTHER"
+        }
+      ],
+      "drug_names": [
+        "GZR18 injection"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT07292441",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Gan & Lee Pharmaceuticals.",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Gan%20%26%20Lee%20Pharmaceuticals.&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-11-09T17:16:23Z"
+      }
+    },
+    {
+      "nct_id": "NCT05900141",
+      "title": "An Open Label Extension (OLE) Study to Evaluate Long-term Safety and Tolerability of Pelacarsen (TQJ230)",
+      "status": "TERMINATED",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Novartis Pharmaceuticals",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-10-15",
+      "primary_completion_date_type": "ACTUAL",
+      "window": "lookback",
+      "conditions": [
+        "Hyperlipoproteinemia (a)"
+      ],
+      "interventions": [
+        {
+          "name": "Pelacarsen",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "Pelacarsen"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT05900141",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Novartis Pharmaceuticals",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Novartis%20Pharmaceuticals&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-11-09T17:16:27Z"
+      }
+    },
+    {
+      "nct_id": "NCT07917507",
+      "title": "Efficacy of Two Brushing Regimens in the Reduction of Established Dental Plaque and Gingivitis",
+      "status": "COMPLETED",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Colgate Palmolive",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-11-04",
+      "primary_completion_date_type": "ACTUAL",
+      "window": "lookback",
+      "conditions": [
+        "Plaque",
+        "Gingivitis"
+      ],
+      "interventions": [
+        {
+          "name": "0.412% stannous fluoride toothpaste and flat trimmed toothbrush",
+          "type": "DRUG"
+        },
+        {
+          "name": "0.76% Na MFP and flat trimmed toothbrush",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "0.412% stannous fluoride toothpaste and flat trimmed toothbrush",
+        "0.76% Na MFP and flat trimmed toothbrush"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT07917507",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Colgate Palmolive",
+        "ticker": "CL",
+        "cik": "0000021665",
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000021665&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-11-09T17:16:20Z"
+      }
+    },
+    {
+      "nct_id": "NCT03815643",
+      "title": "Avelumab Program Rollover Study",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "EMD Serono Research & Development Institute, Inc.",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-11-24",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Solid Tumors"
+      ],
+      "interventions": [
+        {
+          "name": "Avelumab",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "Avelumab"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT03815643",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "EMD Serono Research & Development Institute, Inc.",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=EMD%20Serono%20Research%20%26%20Development%20Institute%2C%20Inc.&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-11-11T14:58:11Z"
+      }
+    },
+    {
+      "nct_id": "NCT06585787",
+      "title": "A Study to Evaluate KarXT as a Treatment for Psychosis Associated With Alzheimer's Disease (ADEPT-4)",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Karuna Therapeutics, Inc., a Bristol Myers Squibb company",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-11-24",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Alzheimer Disease"
+      ],
+      "interventions": [
+        {
+          "name": "KarXT",
+          "type": "DRUG"
+        },
+        {
+          "name": "Placebo",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "KarXT",
+        "Placebo"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06585787",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Karuna Therapeutics, Inc., a Bristol Myers Squibb company",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Karuna%20Therapeutics%2C%20Inc.%2C%20a%20Bristol%20Myers%20Squibb%20company&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-11-11T14:58:11Z"
+      }
+    },
+    {
+      "nct_id": "NCT07057622",
+      "title": "A Phase III Clinical Study to Compare the Safety and Efficacy of 177Lu-DOTATATE Injection and Long-acting Oxytrexine in Adult Patients With NETs",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "HTA Co., Ltd.",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-11-24",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "NETS Ga68 Lu177"
+      ],
+      "interventions": [
+        {
+          "name": "177Lu-DOTATATE injection",
+          "type": "DRUG"
+        },
+        {
+          "name": "Octreotide LAR (Long-acting release)",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "177Lu-DOTATATE injection",
+        "Octreotide LAR (Long-acting release)"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT07057622",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "HTA Co., Ltd.",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=HTA%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-11-11T14:58:11Z"
+      }
+    },
+    {
+      "nct_id": "NCT06775860",
+      "title": "ICP-332 in Subjects With Moderate to Severe Atopic Dermatitis",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Beijing InnoCare Pharma Tech Co., Ltd.",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-11-25",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Atopic Dermatitis"
+      ],
+      "interventions": [
+        {
+          "name": "ICP-332 Tablets",
+          "type": "DRUG"
+        },
+        {
+          "name": "ICP-332 Placebo Tablets",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "ICP-332 Tablets",
+        "ICP-332 Placebo Tablets"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06775860",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Beijing InnoCare Pharma Tech Co., Ltd.",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Beijing%20InnoCare%20Pharma%20Tech%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-11-11T14:58:10Z"
+      }
+    },
+    {
+      "nct_id": "NCT07216079",
+      "title": "Rilzabrutinib for the Adult Participants With Chronic ITP Who Have Completed Phase 3 Study in Japan",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Sanofi",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-11-25",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Immune Thrombocytopenia"
+      ],
+      "interventions": [
+        {
+          "name": "rilzabrutinib",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "rilzabrutinib"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT07216079",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Sanofi",
+        "ticker": "SNY",
+        "cik": "0001121404",
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001121404&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-11-09T17:16:29Z"
+      }
+    }
+  ],
+  "removed_trial_ids": [
+    "NCT06018337",
+    "NCT06052059",
+    "NCT06088199",
+    "NCT06901505",
+    "NCT07109869",
+    "NCT07215767"
+  ]
 }

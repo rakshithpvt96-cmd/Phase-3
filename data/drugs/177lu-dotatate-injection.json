@@ -1,0 +1,97 @@
+{
+  "drug_name": "177Lu-DOTATATE injection",
+  "slug": "177lu-dotatate-injection",
+  "enriched_at": "2026-11-11T15:03:08Z",
+  "source_trial_ids": [
+    "NCT07057622"
+  ],
+  "sponsors": [
+    {
+      "name": "HTA Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=HTA%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1999335",
+      "generic_name": "lutetium Lu 177 dotatate",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL3707297",
+    "target_chembl_id": "CHEMBL3594",
+    "target_name": "Carbonic anhydrase 9",
+    "mechanism_of_action_chembl": "Carbonic anhydrase IX binding agent"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=177Lu-DOTATATE%20injection+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=177Lu-DOTATATE%20injection+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=177Lu-DOTATATE%20injection+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "NETS Ga68 Lu177",
+    "slug": "nets-ga68-lu177"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07057622",
+      "title": "A Phase III Clinical Study to Compare the Safety and Efficacy of 177Lu-DOTATATE Injection and Long-acting Oxytrexine in Adult Patients With NETs",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07057622",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "29905961",
+        "title": "Treatment planning algorithm for peptide receptor radionuclide therapy considering multiple tumor lesions and organs at risk.",
+        "pubdate": "2018 Jun 15",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29905961/"
+      },
+      {
+        "pmid": "18188559",
+        "title": "Report on short-term side effects of treatments with 177Lu-octreotate in combination with capecitabine in seven patients with gastroenteropancreatic neuroendocrine tumours.",
+        "pubdate": "2008 Apr",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18188559/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "GIRENTUXIMAB",
+        "chembl_id": "CHEMBL1743027",
+        "reason": "same target: Carbonic anhydrase 9"
+      },
+      {
+        "name": "CG250 111IN",
+        "chembl_id": "CHEMBL3707280",
+        "reason": "same target: Carbonic anhydrase 9"
+      },
+      {
+        "name": "IODINE I 124 GIRENTUXIMAB",
+        "chembl_id": "CHEMBL2108713",
+        "reason": "same target: Carbonic anhydrase 9"
+      }
+    ]
+  }
+}

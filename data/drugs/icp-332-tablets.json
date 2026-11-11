@@ -1,0 +1,131 @@
+{
+  "drug_name": "ICP-332 Tablets",
+  "slug": "icp-332-tablets",
+  "enriched_at": "2026-11-11T15:04:54Z",
+  "source_trial_ids": [
+    "NCT06775860"
+  ],
+  "sponsors": [
+    {
+      "name": "Beijing InnoCare Pharma Tech Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Beijing%20InnoCare%20Pharma%20Tech%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": null
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL3654090",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=ICP-332%20Tablets+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=ICP-332%20Tablets+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=ICP-332%20Tablets+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Atopic Dermatitis",
+    "slug": "atopic-dermatitis"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06775860",
+      "title": "ICP-332 in Subjects With Moderate to Severe Atopic Dermatitis",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06775860",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "43007542",
+        "title": "Measuring the Effect of Amphetamine Extended-Release (DYANAVEL® XR) on Driving Performance in Young Adult Drivers with ADHD Using a Sophisticated Driving Simulation.",
+        "pubdate": "2026 Nov 10",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43007542/"
+      },
+      {
+        "pmid": "42998121",
+        "title": "Public Participation in U.S. Food and Drug Administration (FDA) Advisory Committees: A Qualitative Analysis.",
+        "pubdate": "2026 Nov 7",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42998121/"
+      },
+      {
+        "pmid": "42970163",
+        "title": "Efficacy and Safety of Dapagliflozin, Glimepiride, and Metformin Fixed-Dose Combination Tablet in Type 2 Diabetes: A Phase III Trial.",
+        "pubdate": "2026 Nov 2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42970163/"
+      },
+      {
+        "pmid": "42965558",
+        "title": "Colchicine and Perioperative Acute Kidney Injury: A Substudy of the COP-AF Randomized Clinical Trial.",
+        "pubdate": "2026 Oct 30",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42965558/"
+      },
+      {
+        "pmid": "42948931",
+        "title": "Multivitamins - A Scoping Review of Clinical Trials Examining Their Efficacy and Safety.",
+        "pubdate": "2026 Oct 28",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42948931/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "CM310",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Keymed Biosciences Co.Ltd"
+      },
+      {
+        "name": "Dupilumab",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Regeneron Pharmaceuticals"
+      },
+      {
+        "name": "Tralokinumab + TCS",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: LEO Pharma"
+      },
+      {
+        "name": "Placebo + TCS",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: LEO Pharma"
+      },
+      {
+        "name": "Upadacitinib 15mg Dose",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: AbbVie"
+      },
+      {
+        "name": "Dupilumab 300mg Dose",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: AbbVie"
+      },
+      {
+        "name": "Upadacitinib 30mg Dose",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: AbbVie"
+      }
+    ]
+  }
+}
