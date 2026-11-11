@@ -1,7 +1,7 @@
 {
   "drug_name": "Nemolizumab",
   "slug": "nemolizumab",
-  "enriched_at": "2026-10-12T16:34:52Z",
+  "enriched_at": "2026-11-11T16:57:30Z",
   "source_trial_ids": [
     "NCT03989206",
     "NCT04204616"
@@ -52,7 +52,7 @@
     {
       "nct_id": "NCT03989206",
       "title": "Long-term Safety and Efficacy of Nemolizumab With Moderate-to-severe Atopic Dermatitis",
-      "status": "ACTIVE_NOT_RECRUITING",
+      "status": "COMPLETED",
       "url": "https://clinicaltrials.gov/study/NCT03989206",
       "has_results": false
     },
@@ -68,6 +68,12 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42959662",
+        "title": "Direct randomized evidence for systemic targeted therapies in prurigo nodularis: a systematic review and meta-analysis.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42959662/"
+      },
+      {
         "pmid": "42826149",
         "title": "Off-Label Uses of Nemolizumab: A Narrative Review.",
         "pubdate": "2026 Oct 1",
@@ -76,7 +82,7 @@
       {
         "pmid": "42771135",
         "title": "Development of a Conceptual Disease Model of Atopic Dermatitis Using Data from the Phase 3 ARCADIA 1 Trial.",
-        "pubdate": "2026 Sep 22",
+        "pubdate": "2026 Nov",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42771135/"
       },
       {
@@ -90,12 +96,6 @@
         "title": "Efficacy and Safety of Nemolizumab at Week 48: Results from the Maintenance Phase of Two Global Phase 3 Pivotal Studies (ARCADIA 1&2) in Patients with Moderate-to-Severe Atopic Dermatitis.",
         "pubdate": "2026 Jun 10",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42272192/"
-      },
-      {
-        "pmid": "42228089",
-        "title": "[Chronic prurigo: overview of pathophysiology, diagnosis, and treatment].",
-        "pubdate": "2026 Jul",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42228089/"
       }
     ]
   },
