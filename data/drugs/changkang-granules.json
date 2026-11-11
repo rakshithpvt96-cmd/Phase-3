@@ -1,7 +1,7 @@
 {
   "drug_name": "Changkang granules",
   "slug": "changkang-granules",
-  "enriched_at": "2026-11-04T15:18:25Z",
+  "enriched_at": "2026-11-11T15:30:01Z",
   "source_trial_ids": [
     "NCT06753890"
   ],
@@ -58,7 +58,38 @@
   ],
   "prior_results": {
     "ctgov_results_urls": [],
-    "pubmed_articles": []
+    "pubmed_articles": [
+      {
+        "pmid": "42973811",
+        "title": "Shenqi Shiyiwei Granule for breast cancer related fatigue-centered symptom cluster: protocol of a multicenter randomized double-blind placebo-controlled trial.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42973811/"
+      },
+      {
+        "pmid": "42905398",
+        "title": "Alveolar Ridge Reconstruction Using Autogenous Tooth Roots vs Ice Cream Cone Technique: Clinical and Histomorphometric Outcomes from a Randomized Clinical Trial.",
+        "pubdate": "2026 Oct 21",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42905398/"
+      },
+      {
+        "pmid": "42712610",
+        "title": "Effects and safety of Huatan Qushi Huoxue granules on obesity-associated non-alcoholic fatty liver disease: a multicenter, randomized, double-blind, placebo-controlled trial.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42712610/"
+      },
+      {
+        "pmid": "42689237",
+        "title": "Yifeixiaoji decoction as an adjunct to osimertinib therapy in advanced EGFR-mutated NSCLC: protocol for a randomized, double-blind, placebo-controlled trial.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42689237/"
+      },
+      {
+        "pmid": "42553771",
+        "title": "Study protocol for a randomized, triple-blind, placebo-controlled trial of modified Ukgan-san in patients with Hwabyung and neurotic symptoms.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42553771/"
+      }
+    ]
   },
   "related_drugs": {
     "method": "ctgov_same_condition",
