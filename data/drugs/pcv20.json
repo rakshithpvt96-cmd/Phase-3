@@ -1,9 +1,10 @@
 {
   "drug_name": "PCV20",
   "slug": "pcv20",
-  "enriched_at": "2026-11-06T14:57:36Z",
+  "enriched_at": "2026-11-13T15:57:01Z",
   "source_trial_ids": [
-    "NCT07284654"
+    "NCT07284654",
+    "NCT07425392"
   ],
   "sponsors": [
     {
@@ -54,6 +55,13 @@
       "status": "COMPLETED",
       "url": "https://clinicaltrials.gov/study/NCT07284654",
       "has_results": false
+    },
+    {
+      "nct_id": "NCT07425392",
+      "title": "Safety, Tolerability, and Immunogenicity of VAX-31 in Adults ≥50 Years With Prior Pneumococcal Vaccination",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT07425392",
+      "has_results": false
     }
   ],
   "prior_results": {
@@ -61,8 +69,8 @@
     "pubmed_articles": [
       {
         "pmid": "42265800",
-        "title": "Safety and Immunogenicity of 20-valent Pneumococcal Conjugate Vaccine According to Number and Timing of Primary Series Doses.",
-        "pubdate": "2026 Jun 10",
+        "title": "Safety and Immunogenicity of 20-Valent Pneumococcal Conjugate Vaccine According to Number and Timing of Primary Series Doses.",
+        "pubdate": "2026 Dec 1",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42265800/"
       },
       {

@@ -1,0 +1,68 @@
+{
+  "drug_name": "Seasonal Influenza Vaccine (SIV) (Flublok)",
+  "slug": "seasonal-influenza-vaccine-siv-flublok",
+  "enriched_at": "2026-11-13T15:59:39Z",
+  "source_trial_ids": [
+    "NCT07365826"
+  ],
+  "sponsors": [
+    {
+      "name": "Vaxcyte, Inc.",
+      "ticker": "PCVX",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001649094&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2752333",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2109042",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": "Biological vaccine - induces immune response"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Seasonal%20Influenza%20Vaccine%20%28SIV%29%20%28Flublok%29+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Seasonal%20Influenza%20Vaccine%20%28SIV%29%20%28Flublok%29+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Seasonal%20Influenza%20Vaccine%20%28SIV%29%20%28Flublok%29+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Pneumococcal Disease",
+    "slug": "pneumococcal-disease"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07365826",
+      "title": "A Clinical Study to Evaluate the Safety, Tolerability, and Immunogenicity of VAX-31 With Influenza Vaccine in Adults ≥ 50 Years of Age",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT07365826",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

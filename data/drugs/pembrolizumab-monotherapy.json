@@ -1,7 +1,7 @@
 {
   "drug_name": "Pembrolizumab Monotherapy",
   "slug": "pembrolizumab-monotherapy",
-  "enriched_at": "2026-11-05T15:22:50Z",
+  "enriched_at": "2026-11-13T15:57:17Z",
   "source_trial_ids": [
     "NCT06790966"
   ],
@@ -60,9 +60,15 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "43018951",
+        "title": "Perioperative immunotherapy in muscle-invasive bladder cancer: a narrative review of neoadjuvant, adjuvant, and antibody-drug conjugate-based strategies.",
+        "pubdate": "2026 Nov 12",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43018951/"
+      },
+      {
         "pmid": "42933458",
         "title": "First-line pembrolizumab versus carboplatin plus paclitaxel in participants with mismatch repair-deficient advanced or recurrent endometrial cancer (KEYNOTE-C93/GOG-3064/ENGOT-en15): interim analysis of a multicentre, open-label, randomised, active-comparator controlled, phase 3 trial.",
-        "pubdate": "2026 Oct 26",
+        "pubdate": "2026 Nov 14",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42933458/"
       },
       {
@@ -82,12 +88,6 @@
         "title": "Avoidance of cardiac toxicity during the application of immune checkpoint inhibitors: a safety systematic review combining network meta-analysis and pharmacovigilance study.",
         "pubdate": "2026",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42740907/"
-      },
-      {
-        "pmid": "42716675",
-        "title": "Advancements in Immunotherapy for Lung Cancer: A Meta-Analysis of Clinical Trial Outcomes.",
-        "pubdate": "2026 Sep",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42716675/"
       }
     ]
   },

@@ -1,0 +1,116 @@
+{
+  "drug_name": "Omecamtiv mecarbil",
+  "slug": "omecamtiv-mecarbil",
+  "enriched_at": "2026-11-13T15:56:14Z",
+  "source_trial_ids": [
+    "NCT04464525"
+  ],
+  "sponsors": [
+    {
+      "name": "Cytokinetics",
+      "ticker": "CYTK",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001061983&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 11689883,
+    "iupac_name": "methyl 4-[[2-fluoro-3-[(6-methyl-3-pyridinyl)carbamoylamino]phenyl]methyl]piperazine-1-carboxylate",
+    "molecular_formula": "C20H24FN5O3",
+    "molecular_weight": "401.4",
+    "canonical_smiles": null,
+    "inchikey": "RFUBTTPMWSKEIW-UHFFFAOYSA-N",
+    "rxnorm": {
+      "rxcui": "1036427",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1800955",
+    "target_chembl_id": "CHEMBL3831286",
+    "target_name": "Cardiac myosin",
+    "mechanism_of_action_chembl": "Cardiac myosin activator"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Omecamtiv%20mecarbil+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Omecamtiv%20mecarbil+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Omecamtiv%20mecarbil+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Chronic Heart Failure With Reduced Ejection Fraction",
+    "slug": "chronic-heart-failure-with-reduced-ejection-fraction"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04464525",
+      "title": "Omecamtiv Mecarbil Post-trial Access Study",
+      "status": "WITHDRAWN",
+      "url": "https://clinicaltrials.gov/study/NCT04464525",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "41528277",
+        "title": "Lactate Dehydrogenase and Outcomes in Patients With HF and Reduced Ejection Fraction: Insights From GALACTIC-HF.",
+        "pubdate": "2026 May",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41528277/"
+      },
+      {
+        "pmid": "41123512",
+        "title": "Efficacy and Safety of Omecamtiv Mecarbil in Heart Failure With Reduced Ejection Fraction According to Age: The GALACTIC-HF Trial.",
+        "pubdate": "2026 Feb",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41123512/"
+      },
+      {
+        "pmid": "40357100",
+        "title": "Omecamtiv Mecarbil in Systolic Heart Failure: Clinical Efficacy and Future Directions of a Novel Myosin-Activating Inotropic Agent.",
+        "pubdate": "2025 Apr",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40357100/"
+      },
+      {
+        "pmid": "39215646",
+        "title": "Relative Effectiveness of High-Dose Versus Standard-Dose Quadrivalent Influenza Vaccine in Older Adults With Cardiovascular Disease: A Prespecified Analysis of the DANFLU-1 Randomized Clinical Trial.",
+        "pubdate": "2025 Feb",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39215646/"
+      },
+      {
+        "pmid": "38849353",
+        "title": "Omecamtiv mecarbil and Mavacamten target the same myosin pocket despite opposite effects in heart contraction.",
+        "pubdate": "2024 Jun 7",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38849353/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "DANICAMTIV",
+        "chembl_id": "CHEMBL4594304",
+        "reason": "same target: Cardiac myosin"
+      },
+      {
+        "name": "MAVACAMTEN",
+        "chembl_id": "CHEMBL4297517",
+        "reason": "same target: Cardiac myosin"
+      }
+    ]
+  }
+}

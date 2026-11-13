@@ -1,16 +1,16 @@
 {
   "drug_name": "Vehicle",
   "slug": "vehicle",
-  "enriched_at": "2026-08-15T21:50:27Z",
+  "enriched_at": "2026-11-13T16:03:15Z",
   "source_trial_ids": [
-    "NCT06073132"
+    "NCT07578363"
   ],
   "sponsors": [
     {
-      "name": "TWi Biotechnology, Inc.",
+      "name": "Alcon Research",
       "ticker": null,
       "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=TWi%20Biotechnology%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Alcon%20Research&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
@@ -44,15 +44,15 @@
     }
   },
   "condition": {
-    "raw": "Generalized Epidermolysis Bullosa Simplex",
-    "slug": "generalized-epidermolysis-bullosa-simplex"
+    "raw": "Ocular Hyperemia",
+    "slug": "ocular-hyperemia"
   },
   "source_trials": [
     {
-      "nct_id": "NCT06073132",
-      "title": "An International, Multicenter, Randomized, Double-Blind, Parallel Group, Vehicle-Controlled, Phase 2/3 Study With Open-Label Extension Evaluating the Efficacy and Safety of Diacerein 1% Ointment for the Treatment of Generalized Epidermolysis Bullosa Simplex (EBS)",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06073132",
+      "nct_id": "NCT07578363",
+      "title": "An Investigation of FID 123472 Ophthalmic Solution to Vehicle for the Reduction of Ocular Redness in Adults",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07578363",
       "has_results": false
     }
   ],
@@ -60,34 +60,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42551191",
-        "title": "A mouse PDX clinical trial reveals broad efficacy of niraparib and vc-seco-DUBA anti-HER2 ADC SYD985 in HER2/neu expressing endometrial cancer.",
-        "pubdate": "2026 Aug 4",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42551191/"
+        "pmid": "43021012",
+        "title": "Adjunctive Panthenol-Enriched Balm during Oral Isotretinoin: Hydration and Barrier Outcomes.",
+        "pubdate": "2026 Nov 13",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43021012/"
       },
       {
-        "pmid": "42558486",
-        "title": "SPRAYDYE: a phase I/II randomised pilot study to assess the safety and feasibility of topically applied AKRO-6qcICG, a cathepsin-activatable fluorescent imaging agent, for real-time intraoperative resection margin assessment in breast-conserving surgery.",
-        "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42558486/"
+        "pmid": "43007542",
+        "title": "Measuring the Effect of Amphetamine Extended-Release (DYANAVEL® XR) on Driving Performance in Young Adult Drivers with ADHD Using a Sophisticated Driving Simulation.",
+        "pubdate": "2026 Nov 10",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43007542/"
       },
       {
-        "pmid": "42555077",
-        "title": "Clindamycin Phosphate 1.2%/Adapalene 0.15%/Benzoyl Peroxide 3.1% Gel for Acne: Pooled Analysis by Age and Sex.",
-        "pubdate": "2026 Aug 1",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42555077/"
+        "pmid": "42988660",
+        "title": "Local treatments of psoriasis and atopic dermatitis: From pharmacological targets to meta-analyses.",
+        "pubdate": "2026 Oct 7",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42988660/"
       },
       {
-        "pmid": "42553513",
-        "title": "Development and validation of a MedDRA-based signal detection construct for drug-induced neurobehavioral impairment.",
-        "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42553513/"
+        "pmid": "42962926",
+        "title": "52-Week Safety and Disease Control With Ruxolitinib Cream in Children Aged 2 to 11 Years With Atopic Dermatitis: Results From the Phase 3 TRuE-AD3 Study.",
+        "pubdate": "2026 Oct 30",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42962926/"
       },
       {
-        "pmid": "42544919",
-        "title": "Developing next-generation antibody-drug conjugates for breast cancer drug delivery: hurdles and advances in the clinic.",
-        "pubdate": "2026 Aug 11",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42544919/"
+        "pmid": "42930704",
+        "title": "In Vitro Terbinafine Susceptibility of Dermatophytes and Mycological Cure Outcomes from a Multicenter Phase III Onychomycosis Trial.",
+        "pubdate": "2026 Oct 2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42930704/"
       }
     ]
   },
