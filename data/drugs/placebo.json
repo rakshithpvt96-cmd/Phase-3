@@ -1,7 +1,7 @@
 {
   "drug_name": "Placebo",
   "slug": "placebo",
-  "enriched_at": "2026-11-11T15:01:51Z",
+  "enriched_at": "2026-11-13T15:26:12Z",
   "source_trial_ids": [
     "NCT02914535",
     "NCT04652882",
@@ -59,6 +59,7 @@
     "NCT07265284",
     "NCT07279194",
     "NCT07300839",
+    "NCT07365826",
     "NCT07392125",
     "NCT07473960",
     "NCT07555392",
@@ -317,6 +318,12 @@
       "ticker": "VNDA",
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001347178&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Vaxcyte, Inc.",
+      "ticker": "PCVX",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001649094&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Waterstone Pharmaceutical (Wuhan) Co., LTD.",
@@ -765,6 +772,13 @@
       "has_results": false
     },
     {
+      "nct_id": "NCT07365826",
+      "title": "A Clinical Study to Evaluate the Safety, Tolerability, and Immunogenicity of VAX-31 With Influenza Vaccine in Adults ≥ 50 Years of Age",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT07365826",
+      "has_results": false
+    },
+    {
       "nct_id": "NCT07392125",
       "title": "Phase 3 Trial Evaluating the Efficacy and Safety of Cytisinicline for Vaping Cessation in Adults Using Nicotine-Containing E Cigarettes",
       "status": "NOT_YET_RECRUITING",
@@ -804,34 +818,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "43008966",
-        "title": "Janus Kinase Inhibitors for Severe Alopecia Areata: A Systematic Literature Review and Network Meta-Analysis.",
-        "pubdate": "2026 Nov 10",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43008966/"
+        "pmid": "43021552",
+        "title": "Olanzapine or prochlorperazine added to antiemetic therapy for persistent chemotherapy-induced nausea: an NCORP phase 3 RCT.",
+        "pubdate": "2026 Nov 13",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43021552/"
       },
       {
-        "pmid": "43008349",
-        "title": "Analytical and clinical validation of Ion Torrent™ Oncomine™ Dx Express Test for identifying PIK3CA/AKT1/PTEN-altered tumors in patients with hormone receptor-positive advanced breast cancer for treatment with capivasertib.",
-        "pubdate": "2026 Nov 10",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43008349/"
+        "pmid": "43021372",
+        "title": "Effect of alpha-lipoic acid on atrial fibrillation and biomarkers of myocardial injury in patients undergoing coronary artery bypass surgery: study protocol of a randomized, double-blind, placebo-controlled clinical trial.",
+        "pubdate": "2026 Aug 18",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43021372/"
       },
       {
-        "pmid": "43008126",
-        "title": "Efficacy and Safety of Brepocitinib in Cutaneous Sarcoidosis: A Phase 2 Randomized Clinical Trial.",
-        "pubdate": "2026 Nov 10",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43008126/"
+        "pmid": "43020499",
+        "title": "Cervicothoracic sympathetic chain block Against placebo Saline injection Evaluation for post-COVID condition: a study protocol for the CeASE randomised controlled trial.",
+        "pubdate": "2026 Nov 12",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43020499/"
       },
       {
-        "pmid": "43008037",
-        "title": "Acute doses of 3 and 6 mg/kg caffeine produce outcome- and phase-specific improvements in male 100-m sprinters: A randomized, double-blind, placebo-controlled crossover trial.",
-        "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43008037/"
+        "pmid": "43018909",
+        "title": "Efficacy and Safety of Ecopipam for Tourette Syndrome: An updated GRADE-assessed systematic review and meta-analysis.",
+        "pubdate": "2026 Nov 12",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43018909/"
       },
       {
-        "pmid": "43007834",
-        "title": "Adalimumab Does Not Improve Clinical Outcomes After Needle Fasciotomy for Dupuytren Contracture: A Randomized Controlled Pilot Trial.",
-        "pubdate": "2026 Nov 10",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43007834/"
+        "pmid": "43018805",
+        "title": "Effects of Lactiplantibacillus plantarum SG5 on anxiety, insomnia, and gut microbiota composition in college students.",
+        "pubdate": "2026 Nov 12",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43018805/"
       }
     ]
   },

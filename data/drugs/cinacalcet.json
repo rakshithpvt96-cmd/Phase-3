@@ -1,0 +1,105 @@
+{
+  "drug_name": "Cinacalcet",
+  "slug": "cinacalcet",
+  "enriched_at": "2026-11-13T15:34:22Z",
+  "source_trial_ids": [
+    "NCT07122401"
+  ],
+  "sponsors": [
+    {
+      "name": "Shaanxi Micot Pharmaceutical Technology Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Shaanxi%20Micot%20Pharmaceutical%20Technology%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 156419,
+    "iupac_name": "N-[(1R)-1-naphthalen-1-ylethyl]-3-[3-(trifluoromethyl)phenyl]propan-1-amine",
+    "molecular_formula": "C22H22F3N",
+    "molecular_weight": "357.4",
+    "canonical_smiles": null,
+    "inchikey": "VDHAWDNDOKGFTD-MRXNPFEDSA-N",
+    "rxnorm": {
+      "rxcui": "407990",
+      "generic_name": "cinacalcet",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1201284",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action The calcium-sensing receptor on the surface of the chief cell of the parathyroid gland is the principal regulator of PTH synthesis and secretion. Cinacalcet, the active ingredient in cinacalcet tablets is a calcimimetic agent that directly lowers PTH levels by increasing the sensitivity of the calcium-sensing receptor to activation by extracellular calcium. The reduction in PTH is associated with a concomitant decrease in serum calcium levels.",
+    "pharmacokinetics": "12.3 Pharmacokinetics Absorption and Distribution After oral administration of cinacalcet, C max is achieved in approximately 2 to 6 hours. Cinacalcet C max and AUC (0-infinite) were increased by 82% and 68%, respectively, following administration with a high-fat meal compared with fasting in healthy volunteers. The C max and AUC (0-infinite) of cinacalcet were increased by 65% and 50%, respectively, when cinacalcet was administered with a low-fat meal compared with fasting. After absorption, cinacalcet concentrations decline in a biphasic fashion with an initial half-life of approximately 6 hours and terminal half-life of 30 to 40 hours. Steady-state drug levels are achieved within 7 days, and the mean accumulation ratio is approximately 2 with once daily oral administration. The median accumulation ratio is approximately 2 to 5 with twice daily oral administration. The AUC and C max of cinacalcet increase proportionally over the dose range of 30 to 180 mg once daily. The pharmacokinetic profile of cinacalcet does not change over time with once daily dosing of 30 to 180 mg. The volume of distribution is approximately 1000 L, indicating extensive distribution. Cinacalcet is approximately 93% to 97% bound to plasma protein(s). The ratio of blood cinacalcet concentration to plasma cinacalcet concentration is 0.80 at a blood cinacalcet concentration of 10 ng/mL. Metabolism and Excretion Cinacalcet is metabolized by multiple enzymes, primarily CYP3A4, CYP2D6, and CYP1A2. After administration of a 75 mg radiolabeled dose to healthy volunteers, cinacalcet was metabolized via: 1) oxidative N-dealkylation to hydrocinnamic acid and hydroxy-hydrocinnamic acid, which are further metabolized via β-oxidation and glycine conjugation; the oxidative N-dealkylation process also generates metabolites that contain the naphthalene ring; and 2) oxidation of the naphthalene ring on the parent drug forming dihydrodiols, which are further conjugated with glucuronic acid. The plasma concentrations of the major circulating metabolites, including the cinnamic acid derivatives and glucuronidated dihydrodiols, markedly exceed the parent drug concentrations. The hydrocinnamic acid metabolite and glucuronide conjugates have minimal or no calcimimetic activity. Renal excretion of metabolites was the primary route of elimination of radioactivity. Approximately 80% of the dose was recovered in the urine and 15% in the feces. Specific Populations Age: Geriatric Population The pharmacokinetic profile of cinacalcet in geriatric patients (age ≥ 65 years, n = 12) is similar to that for patients who are < 65 years of age (n = 268) [see Use in Specific Populations ( 8.5 )] . Hepatic Impairment The disposition of a 50 mg cinacalcet tablets single dose was compared between patients with hepatic impairment and patients with normal hepatic function. Cinacalcet exposure (AUC (0-infinite) ) was comparable between healthy volunteers and patients with mild hepatic impairment. However, in patients with moderate and severe hepatic impairment (as indicated by the Child-Pugh method), cinacalcet exposures (AUC (0-infinite) ) were 2.4 and 4.2 fold higher, respectively, than that in healthy volunteers. The mean half-life of cinacalcet increased from 49 hours in healthy volunteers to 65 hours and 84 hours in patients with moderate and severe hepatic impairment, respectively. Protein binding of cinacalcet is not affected by impaired hepatic function [see Use in Specific Populations ( 8.7 )]. Renal Impairment The pharmacokinetic profile of a 75 mg cinacalcet tablets single dose in patients with mild, moderate, and severe renal impairment, and those on hemodialysis or peritoneal dialysis is comparable with that in healthy volunteers [see Use in Specific Populations ( 8.6 )] . Drug Interactions In vitro studies indicate that cinacalcet is a strong inhibitor of CYP2D6, but not an inhibitor of CYP1A2, CYP2C9, CYP2C19, and CYP3A4. In vitro induction studies indicate that cinacalcet is not an inducer of CYP450 enzymes. Tables 5 and 6 list the findings from in vivo drug-drug interaction studies. Table 5. Effect of co-administered drugs on cinacalcet Co-administered drug and dosing regimen Cinacalcet Dose Single dose. Mean change in AUC (0-inf) Mean change in C max 200 mg ketoconazole twice daily for 7 days 90 mg on day 5 ↑127% ↑116% 1500 mg calcium carbonate, single dose 100 mg ↓6% ↓5% 80 mg pantoprazole daily for 3 days 90 mg on day 3 ↑1% ↓3% 2400 mg sevelamer HCl three times a day for 2 days 90 mg on day 1 with first dose of sevelamer ↓4% ↓7% Table 6. Effect of cinacalcet co-administration on other drugs Cinacalcet dosing regimen Co-administered drug Name and Dose Mean change in AUC (0-inf) Mean change in C max 30 mg twice daily for 8 days 25 mg warfarin No significant change in prothrombin time. tablet Single dose on day 5. ↑1 % for R-warfarin ↓1% for S-warfarin ↓10 % for R-warfarin ↓12 % for S-warfarin 90 mg daily for 7 days to CYP2D6 extensive metabolizers 50 mg desipramine ↑264% ↑75% 90 mg daily for 5 days 2 mg midazolam † ↑5% ↓5% 25 or 100 mg single dose to CYP2D6 extensive metabolizers 50 mg amitriptyline single dose ↑21-22% for amitriptyline ↑17-23% for nortriptyline Nortriptyline is an active metabolite of amitriptyline. ↑13-21% for amitriptyline ↑11-15% for nortriptyline",
+    "indications_and_usage": "1 INDICATIONS AND USAGE Cinacalcet is a positive modulator of the calcium sensing receptor indicated for: Secondary Hyperparathyroidism (HPT) in adult patients with chronic kidney disease (CKD) on dialysis. ( 1.1 ) Limitations of Use : Cinacalcet tablets are not indicated for use in patients with CKD who are not on dialysis Hypercalcemia in adult patients with Parathyroid Carcinoma (PC). ( 1.2 ) Hypercalcemia in adult patients with primary HPT for whom parathyroidectomy would be indicated on the basis of serum calcium levels, but who are unable to undergo parathyroidectomy. ( 1.3 ) 1.1 Secondary Hyperparathyroidism Cinacalcet tablets are indicated for the treatment of secondary hyperparathyroidism (HPT) in adult patients with chronic kidney disease (CKD) on dialysis [see Clinical Studies ( 14.1 )]. Limitations of Use: Cinacalcet tablets are not indicated for use in patients with CKD who are not on dialysis because of an increased risk of hypocalcemia [see Warnings and Precautions ( 5.1 )]. 1.2 Parathyroid Carcinoma Cinacalcet tablets are indicated for the treatment of hypercalcemia in adult patients with Parathyroid Carcinoma [see Clinical Studies ( 14.2 )] . 1.3 Primary Hyperparathyroidism Cinacalcet tablets are indicated for the treatment of hypercalcemia in adult patients with primary HPT for whom parathyroidectomy would be indicated on the basis of serum calcium levels, but who are unable to undergo parathyroidectomy. [see Clinical Studies ( 14.3 )] .",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "CINACALCET"
+    ],
+    "openfda_generic_names": [
+      "CINACALCET"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1c78bfff-7a82-4d1d-bc61-718c3ff3aa92",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Secondary Hyperparathyroidism, Chronic Kidney Disease",
+    "slug": "secondary-hyperparathyroidism-chronic-kidney-disease"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07122401",
+      "title": "Study of MT1013 for the Treatment of Patients With Secondary Hyperparathyroidism",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07122401",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42319888",
+        "title": "Adjudicating Heart Failure Events in Participants Receiving Hemodialysis: Findings from Evaluation of Cinacalcet Hydrochloride Therapy to Lower Cardiovascular Events (EVOLVE) Trial.",
+        "pubdate": "2026 Jun 19",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42319888/"
+      },
+      {
+        "pmid": "41526879",
+        "title": "Comparative effectiveness of parathyroidectomy versus cinacalcet in severe secondary hyperparathyroidism among hemodialysis patients in Sudan: a retrospective cohort study.",
+        "pubdate": "2026 Jan 12",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41526879/"
+      },
+      {
+        "pmid": "41013372",
+        "title": "Real-world evaluation of cinacalcet on hard outcomes in hemodialysis patients in Saudi Arabia.",
+        "pubdate": "2025 Sep 26",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41013372/"
+      },
+      {
+        "pmid": "40597062",
+        "title": "Multiple Ectopic calcifications in end-stage renal disease: role of inflammation and partial reversibility with intensified peritoneal dialysis-a case report.",
+        "pubdate": "2025 Jul 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40597062/"
+      },
+      {
+        "pmid": "38765600",
+        "title": "Alkaline Phosphatase and Parathyroid Hormone Levels: International Variation and Associations With Clinical Outcomes in the DOPPS.",
+        "pubdate": "2024 Apr",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38765600/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

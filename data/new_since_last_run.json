@@ -1,6 +1,341 @@
 {
-  "generated_at": "2026-11-11T16:57:25Z",
-  "new_trial_count": 0,
-  "new_trials": [],
-  "removed_trial_ids": []
+  "generated_at": "2026-11-13T15:11:12Z",
+  "new_trial_count": 7,
+  "new_trials": [
+    {
+      "nct_id": "NCT07931521",
+      "title": "Clinical Trial to Evaluate the Safety and Efficacy of DW4421 in Patients With Erosive Reflux Disease",
+      "status": "COMPLETED",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Daewon Pharmaceutical Co., Ltd.",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-08-31",
+      "primary_completion_date_type": "ACTUAL",
+      "window": "lookback",
+      "conditions": [
+        "Erosive Reflux Disease",
+        "GERD (Gastroesophageal Reflux Disease)"
+      ],
+      "interventions": [
+        {
+          "name": "DW4421 20mg",
+          "type": "DRUG"
+        },
+        {
+          "name": "DW4421 40mg",
+          "type": "DRUG"
+        },
+        {
+          "name": "Esomeprazole 40mg",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "DW4421 20mg",
+        "DW4421 40mg",
+        "Esomeprazole 40mg"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT07931521",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Daewon Pharmaceutical Co., Ltd.",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Daewon%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-11-13T15:11:04Z"
+      }
+    },
+    {
+      "nct_id": "NCT07365826",
+      "title": "A Clinical Study to Evaluate the Safety, Tolerability, and Immunogenicity of VAX-31 With Influenza Vaccine in Adults ≥ 50 Years of Age",
+      "status": "COMPLETED",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Vaxcyte, Inc.",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-10-21",
+      "primary_completion_date_type": "ACTUAL",
+      "window": "lookback",
+      "conditions": [
+        "Pneumococcal Disease"
+      ],
+      "interventions": [
+        {
+          "name": "31-valent pneumococcal conjugate vaccine",
+          "type": "BIOLOGICAL"
+        },
+        {
+          "name": "Seasonal Influenza Vaccine (SIV) (Flublok)",
+          "type": "BIOLOGICAL"
+        },
+        {
+          "name": "Placebo",
+          "type": "BIOLOGICAL"
+        }
+      ],
+      "drug_names": [
+        "31-valent pneumococcal conjugate vaccine",
+        "Seasonal Influenza Vaccine (SIV) (Flublok)",
+        "Placebo"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT07365826",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Vaxcyte, Inc.",
+        "ticker": "PCVX",
+        "cik": "0001649094",
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001649094&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-11-13T15:11:09Z"
+      }
+    },
+    {
+      "nct_id": "NCT07425392",
+      "title": "Safety, Tolerability, and Immunogenicity of VAX-31 in Adults ≥50 Years With Prior Pneumococcal Vaccination",
+      "status": "COMPLETED",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Vaxcyte, Inc.",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-10-25",
+      "primary_completion_date_type": "ACTUAL",
+      "window": "lookback",
+      "conditions": [
+        "Pneumococcal Disease"
+      ],
+      "interventions": [
+        {
+          "name": "31-valent pneumococcal conjugate vaccine",
+          "type": "BIOLOGICAL"
+        },
+        {
+          "name": "PCV20",
+          "type": "BIOLOGICAL"
+        }
+      ],
+      "drug_names": [
+        "31-valent pneumococcal conjugate vaccine",
+        "PCV20"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT07425392",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Vaxcyte, Inc.",
+        "ticker": "PCVX",
+        "cik": "0001649094",
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001649094&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-11-13T15:11:09Z"
+      }
+    },
+    {
+      "nct_id": "NCT07578363",
+      "title": "An Investigation of FID 123472 Ophthalmic Solution to Vehicle for the Reduction of Ocular Redness in Adults",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Alcon Research",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-11",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "lookback",
+      "conditions": [
+        "Ocular Hyperemia"
+      ],
+      "interventions": [
+        {
+          "name": "Apraclonidine Ophthalmic Solution, 0.125% Unit Dose Preservative Free",
+          "type": "DRUG"
+        },
+        {
+          "name": "Vehicle",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "Apraclonidine Ophthalmic Solution, 0.125% Unit Dose Preservative Free",
+        "Vehicle"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT07578363",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Alcon Research",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Alcon%20Research&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-11-13T15:11:04Z"
+      }
+    },
+    {
+      "nct_id": "NCT03981796",
+      "title": "A Study to Evaluate Dostarlimab Plus Carboplatin-paclitaxel Versus Placebo Plus Carboplatin-paclitaxel in Participants With Recurrent or Primary Advanced Endometrial Cancer",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Tesaro, Inc.",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-11-26",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Neoplasms"
+      ],
+      "interventions": [
+        {
+          "name": "Dostarlimab",
+          "type": "BIOLOGICAL"
+        },
+        {
+          "name": "Placebo matching dostarlimab",
+          "type": "DRUG"
+        },
+        {
+          "name": "Carboplatin",
+          "type": "DRUG"
+        },
+        {
+          "name": "Paclitaxel",
+          "type": "DRUG"
+        },
+        {
+          "name": "Niraparib",
+          "type": "DRUG"
+        },
+        {
+          "name": "Placebo matching Niraparib",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "Dostarlimab",
+        "Placebo matching dostarlimab",
+        "Carboplatin",
+        "Paclitaxel",
+        "Niraparib",
+        "Placebo matching Niraparib"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT03981796",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Tesaro, Inc.",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Tesaro%2C%20Inc.&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-11-13T15:11:09Z"
+      }
+    },
+    {
+      "nct_id": "NCT07122401",
+      "title": "Study of MT1013 for the Treatment of Patients With Secondary Hyperparathyroidism",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Shaanxi Micot Pharmaceutical Technology Co., Ltd.",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-11-26",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Secondary Hyperparathyroidism, Chronic Kidney Disease"
+      ],
+      "interventions": [
+        {
+          "name": "MT1013",
+          "type": "DRUG"
+        },
+        {
+          "name": "Cinacalcet",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "MT1013",
+        "Cinacalcet"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT07122401",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Shaanxi Micot Pharmaceutical Technology Co., Ltd.",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Shaanxi%20Micot%20Pharmaceutical%20Technology%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-11-13T15:11:08Z"
+      }
+    },
+    {
+      "nct_id": "NCT04464525",
+      "title": "Omecamtiv Mecarbil Post-trial Access Study",
+      "status": "WITHDRAWN",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Cytokinetics",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-11-27",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Chronic Heart Failure With Reduced Ejection Fraction"
+      ],
+      "interventions": [
+        {
+          "name": "Omecamtiv mecarbil",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "Omecamtiv mecarbil"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT04464525",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Cytokinetics",
+        "ticker": "CYTK",
+        "cik": "0001061983",
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001061983&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-11-09T17:16:22Z"
+      }
+    }
+  ],
+  "removed_trial_ids": [
+    "NCT06445023",
+    "NCT06455202",
+    "NCT06507436",
+    "NCT06553768",
+    "NCT06716203",
+    "NCT06809595"
+  ]
 }

@@ -1,0 +1,106 @@
+{
+  "drug_name": "Placebo matching Niraparib",
+  "slug": "placebo-matching-niraparib",
+  "enriched_at": "2026-11-13T15:27:57Z",
+  "source_trial_ids": [
+    "NCT03981796"
+  ],
+  "sponsors": [
+    {
+      "name": "Tesaro, Inc.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Tesaro%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1918231",
+      "generic_name": "niraparib",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1094636",
+    "target_chembl_id": "CHEMBL5366",
+    "target_name": "Poly [ADP-ribose] polymerase 2",
+    "mechanism_of_action_chembl": "Poly [ADP-ribose] polymerase 2 inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Placebo%20matching%20Niraparib+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Placebo%20matching%20Niraparib+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Placebo%20matching%20Niraparib+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Neoplasms",
+    "slug": "neoplasms"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT03981796",
+      "title": "A Study to Evaluate Dostarlimab Plus Carboplatin-paclitaxel Versus Placebo Plus Carboplatin-paclitaxel in Participants With Recurrent or Primary Advanced Endometrial Cancer",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT03981796",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "39111209",
+        "title": "Adjustment for imbalances in baseline characteristics in the MAGNITUDE phase 3 study confirms the clinical benefit of niraparib in combination with abiraterone acetate plus prednisone in patients with metastatic prostate cancer.",
+        "pubdate": "2024 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39111209/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "TALAZOPARIB TOSYLATE",
+        "chembl_id": "CHEMBL3137318",
+        "reason": "same target: Poly [ADP-ribose] polymerase 2"
+      },
+      {
+        "name": "TALAZOPARIB",
+        "chembl_id": "CHEMBL3137320",
+        "reason": "same target: Poly [ADP-ribose] polymerase 2"
+      },
+      {
+        "name": "NIRAPARIB TOSYLATE MONOHYDRATE",
+        "chembl_id": "CHEMBL3989922",
+        "reason": "same target: Poly [ADP-ribose] polymerase 2"
+      },
+      {
+        "name": "2X-121",
+        "chembl_id": "CHEMBL3644587",
+        "reason": "same target: Poly [ADP-ribose] polymerase 2"
+      },
+      {
+        "name": "PAMIPARIB",
+        "chembl_id": "CHEMBL4112930",
+        "reason": "same target: Poly [ADP-ribose] polymerase 2"
+      },
+      {
+        "name": "SENAPARIB",
+        "chembl_id": "CHEMBL4802152",
+        "reason": "same target: Poly [ADP-ribose] polymerase 2"
+      }
+    ]
+  }
+}

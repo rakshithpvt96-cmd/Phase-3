@@ -1,7 +1,7 @@
 {
   "drug_name": "Upadacitinib 30mg Dose",
   "slug": "upadacitinib-30mg-dose",
-  "enriched_at": "2026-11-05T15:18:13Z",
+  "enriched_at": "2026-11-13T15:32:24Z",
   "source_trial_ids": [
     "NCT06389136"
   ],
@@ -96,16 +96,6 @@
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
     "items": [
       {
-        "name": "Ruxolitinib",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Incyte Corporation"
-      },
-      {
-        "name": "Vehicle Cream",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Incyte Corporation"
-      },
-      {
         "name": "CM310",
         "chembl_id": null,
         "reason": "same indication trial, sponsor: Keymed Biosciences Co.Ltd"
@@ -124,6 +114,16 @@
         "name": "Placebo + TCS",
         "chembl_id": null,
         "reason": "same indication trial, sponsor: LEO Pharma"
+      },
+      {
+        "name": "ICP-332 Tablets",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Beijing InnoCare Pharma Tech Co., Ltd."
+      },
+      {
+        "name": "ICP-332 Placebo Tablets",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Beijing InnoCare Pharma Tech Co., Ltd."
       }
     ]
   }

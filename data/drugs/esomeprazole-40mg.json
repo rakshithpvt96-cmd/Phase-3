@@ -1,0 +1,150 @@
+{
+  "drug_name": "Esomeprazole 40mg",
+  "slug": "esomeprazole-40mg",
+  "enriched_at": "2026-11-13T15:35:50Z",
+  "source_trial_ids": [
+    "NCT07931521"
+  ],
+  "sponsors": [
+    {
+      "name": "Daewon Pharmaceutical Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Daewon%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "331599",
+      "generic_name": "esomeprazole 40 MG",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL5314366",
+    "target_chembl_id": "CHEMBL2095173",
+    "target_name": "Potassium-transporting ATPase",
+    "mechanism_of_action_chembl": "Potassium-transporting ATPase inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Esomeprazole%2040mg+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Esomeprazole%2040mg+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Esomeprazole%2040mg+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Erosive Reflux Disease",
+    "slug": "erosive-reflux-disease"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07931521",
+      "title": "Clinical Trial to Evaluate the Safety and Efficacy of DW4421 in Patients With Erosive Reflux Disease",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT07931521",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42501988",
+        "title": "[Dual therapy vs bismuth quadruple therapy in recurrent H. pylori: multicenter randomized trial].",
+        "pubdate": "2026 Apr-Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42501988/"
+      },
+      {
+        "pmid": "39115573",
+        "title": "Efficacy and safety of fexuprazan in patients with symptoms and signs of laryngopharyngeal reflux disease: a randomized clinical trial.",
+        "pubdate": "2024 Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39115573/"
+      },
+      {
+        "pmid": "36178335",
+        "title": "Randomized clinical trial: A double-blind, proof-of-concept, phase 2 study evaluating the efficacy and safety of vonoprazan 20 or 40 mg versus esomeprazole 40 mg in patients with symptomatic gastro-esophageal reflux disease and partial response to a healing dose of a proton-pump inhibitor.",
+        "pubdate": "2023 Jan",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36178335/"
+      },
+      {
+        "pmid": "35281316",
+        "title": "Pharmacokinetics and Pharmacodynamics of YYD601, a Dual Delayed-Release Formulation of Esomeprazole, Following Single and Multiple Doses in Healthy Adult Volunteers Under Fasting and Fed Conditions.",
+        "pubdate": "2022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35281316/"
+      },
+      {
+        "pmid": "27134145",
+        "title": "Randomized clinical trial comparing ten day concomitant and sequential therapies for Helicobacter pylori eradication in a high clarithromycin resistance area.",
+        "pubdate": "2016 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27134145/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "OMEPRAZOLE",
+        "chembl_id": "CHEMBL1503",
+        "reason": "same target: Potassium-transporting ATPase"
+      },
+      {
+        "name": "DEXLANSOPRAZOLE",
+        "chembl_id": "CHEMBL1201863",
+        "reason": "same target: Potassium-transporting ATPase"
+      },
+      {
+        "name": "OMEPRAZOLE MAGNESIUM",
+        "chembl_id": "CHEMBL1567328",
+        "reason": "same target: Potassium-transporting ATPase"
+      },
+      {
+        "name": "RABEPRAZOLE SODIUM",
+        "chembl_id": "CHEMBL1200930",
+        "reason": "same target: Potassium-transporting ATPase"
+      },
+      {
+        "name": "PANTOPRAZOLE SODIUM",
+        "chembl_id": "CHEMBL3989559",
+        "reason": "same target: Potassium-transporting ATPase"
+      },
+      {
+        "name": "LANSOPRAZOLE",
+        "chembl_id": "CHEMBL480",
+        "reason": "same target: Potassium-transporting ATPase"
+      },
+      {
+        "name": "ESOMEPRAZOLE SODIUM",
+        "chembl_id": "CHEMBL1200470",
+        "reason": "same target: Potassium-transporting ATPase"
+      },
+      {
+        "name": "ESOMEPRAZOLE STRONTIUM",
+        "chembl_id": "CHEMBL2146140",
+        "reason": "same target: Potassium-transporting ATPase"
+      },
+      {
+        "name": "VONOPRAZAN FUMARATE",
+        "chembl_id": "CHEMBL2064032",
+        "reason": "same target: Potassium-transporting ATPase"
+      },
+      {
+        "name": "TEGOPRAZAN",
+        "chembl_id": "CHEMBL4297583",
+        "reason": "same target: Potassium-transporting ATPase"
+      }
+    ]
+  }
+}

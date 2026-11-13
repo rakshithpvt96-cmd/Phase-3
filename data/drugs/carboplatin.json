@@ -1,8 +1,9 @@
 {
   "drug_name": "Carboplatin",
   "slug": "carboplatin",
-  "enriched_at": "2026-11-06T14:52:02Z",
+  "enriched_at": "2026-11-13T15:16:01Z",
   "source_trial_ids": [
+    "NCT03981796",
     "NCT04129502",
     "NCT04634877",
     "NCT05116462",
@@ -40,6 +41,12 @@
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Takeda&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Tesaro, Inc.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Tesaro%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "mAbxience Research S.L.",
@@ -80,7 +87,7 @@
     "openfda_generic_names": [
       "CARBOPLATIN"
     ],
-    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4c89cedc-e48b-445c-ad05-54dbe60e4fb0",
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=48aa7ef3-9f44-2a08-e054-00144ff88e88",
     "note": null,
     "further_reading": null
   },
@@ -89,6 +96,13 @@
     "slug": "metastatic-non-small-cell-lung-cancer"
   },
   "source_trials": [
+    {
+      "nct_id": "NCT03981796",
+      "title": "A Study to Evaluate Dostarlimab Plus Carboplatin-paclitaxel Versus Placebo Plus Carboplatin-paclitaxel in Participants With Recurrent or Primary Advanced Endometrial Cancer",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT03981796",
+      "has_results": false
+    },
     {
       "nct_id": "NCT04129502",
       "title": "TAK-788 as First-Line Treatment Versus Platinum-Based Chemotherapy for Non-Small Cell Lung Cancer (NSCLC) With EGFR Exon 20 Insertion Mutations",
@@ -136,6 +150,12 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "43018983",
+        "title": "Perioperative Camrelizumab Plus Chemotherapy in Locally Advanced Head and Neck Squamous Cell Carcinoma: A Randomized Clinical Trial.",
+        "pubdate": "2026 Nov 12",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43018983/"
+      },
+      {
         "pmid": "42986615",
         "title": "HB0025 With Chemotherapy for Advanced Non-Small Cell Lung Cancer: A Phase 2 Nonrandomized Clinical Trial.",
         "pubdate": "2026 Nov 5",
@@ -150,7 +170,7 @@
       {
         "pmid": "42933458",
         "title": "First-line pembrolizumab versus carboplatin plus paclitaxel in participants with mismatch repair-deficient advanced or recurrent endometrial cancer (KEYNOTE-C93/GOG-3064/ENGOT-en15): interim analysis of a multicentre, open-label, randomised, active-comparator controlled, phase 3 trial.",
-        "pubdate": "2026 Oct 26",
+        "pubdate": "2026 Nov 14",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42933458/"
       },
       {
@@ -158,12 +178,6 @@
         "title": "Ruzaltatug rezetecan versus chemotherapy for EGFR-mutated advanced non-small-cell lung cancer progressing after EGFR tyrosine kinase inhibitor therapy (HERON-Lung01): interim analysis of a randomised, open-label, phase 3 trial in China.",
         "pubdate": "2026 Nov 7",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42933457/"
-      },
-      {
-        "pmid": "42919625",
-        "title": "Sintilimab plus eribulin and carboplatin in patients with metastatic triple-negative breast cancer (SECURE): a phase II, multicenter trial.",
-        "pubdate": "2026 Oct 23",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42919625/"
       }
     ]
   },

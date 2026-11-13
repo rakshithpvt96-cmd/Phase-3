@@ -1,13 +1,13 @@
 {
   "drug_name": "Paclitaxel",
   "slug": "paclitaxel",
-  "enriched_at": "2026-11-06T14:53:52Z",
+  "enriched_at": "2026-11-13T15:25:14Z",
   "source_trial_ids": [
+    "NCT03981796",
     "NCT04634877",
     "NCT04704934",
     "NCT05116462",
     "NCT05984277",
-    "NCT06018337",
     "NCT06341335",
     "NCT06356311",
     "NCT06619236"
@@ -32,12 +32,6 @@
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Daiichi%20Sankyo&type=10-K&dateb=&owner=include&count=40"
     },
     {
-      "name": "DualityBio Inc.",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=DualityBio%20Inc.&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
       "name": "Genmab",
       "ticker": null,
       "market_cap_display": null,
@@ -54,6 +48,12 @@
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Merck%20Sharp%20%26%20Dohme%20LLC&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Tesaro, Inc.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Tesaro%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
@@ -93,10 +93,17 @@
     "further_reading": null
   },
   "condition": {
-    "raw": "Metastatic Breast Cancer",
-    "slug": "metastatic-breast-cancer"
+    "raw": "Metastatic Non-small Cell Lung Cancer",
+    "slug": "metastatic-non-small-cell-lung-cancer"
   },
   "source_trials": [
+    {
+      "nct_id": "NCT03981796",
+      "title": "A Study to Evaluate Dostarlimab Plus Carboplatin-paclitaxel Versus Placebo Plus Carboplatin-paclitaxel in Participants With Recurrent or Primary Advanced Endometrial Cancer",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT03981796",
+      "has_results": false
+    },
     {
       "nct_id": "NCT04634877",
       "title": "Study of Pembrolizumab (MK-3475) in Combination With Adjuvant Chemotherapy With or Without Radiotherapy in Participants With Newly Diagnosed Endometrial Cancer After Surgery With Curative Intent (MK-3475-B21 / KEYNOTE-B21 / ENGOT-en11 / GOG-3053)",
@@ -126,13 +133,6 @@
       "has_results": false
     },
     {
-      "nct_id": "NCT06018337",
-      "title": "A Study of DB-1303/BNT323 vs Investigator's Choice Chemotherapy in HER2-Low, Hormone Receptor Positive Metastatic Breast Cancer (DYNASTY-Breast02)",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06018337",
-      "has_results": false
-    },
-    {
       "nct_id": "NCT06341335",
       "title": "A Study of AK104/Placebo Plus AK109/Placebo And Paclitaxel in Gastric or Gastroesophageal Junction Adenocarcinoma",
       "status": "RECRUITING",
@@ -158,6 +158,24 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "43018983",
+        "title": "Perioperative Camrelizumab Plus Chemotherapy in Locally Advanced Head and Neck Squamous Cell Carcinoma: A Randomized Clinical Trial.",
+        "pubdate": "2026 Nov 12",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43018983/"
+      },
+      {
+        "pmid": "43018949",
+        "title": "Izalontamab Brengitecan in Recurrent or Metastatic Esophageal Squamous Cell Carcinoma: The PANKU-Esophagus01 Randomized Clinical Trial.",
+        "pubdate": "2026 Nov 12",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43018949/"
+      },
+      {
+        "pmid": "42996359",
+        "title": "Phase II study of pembrolizumab plus nab-paclitaxel in Hormone Receptor-positive, HER2- negative metastatic breast cancer: clinical and molecular insights into response.",
+        "pubdate": "2026 Oct 22",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42996359/"
+      },
+      {
         "pmid": "42986615",
         "title": "HB0025 With Chemotherapy for Advanced Non-Small Cell Lung Cancer: A Phase 2 Nonrandomized Clinical Trial.",
         "pubdate": "2026 Nov 5",
@@ -166,26 +184,8 @@
       {
         "pmid": "42982408",
         "title": "Event-free survival in patients with early triple-negative breast cancer receiving platinum-free, de-escalated anti-PD-1 neoadjuvant therapy: an updated analysis of the NeoTENNIS trial.",
-        "pubdate": "2026 Nov 4",
+        "pubdate": "2026 Nov 5",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42982408/"
-      },
-      {
-        "pmid": "42979888",
-        "title": "[Sustained disease control with sacituzumab govitecan in a patient with HR+/HER2- metastatic breast cancer resistant to endocrine therapy, with a high tumour burden and limited benefit from standard chemotherapy.].",
-        "pubdate": "2026 Nov",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42979888/"
-      },
-      {
-        "pmid": "42962507",
-        "title": "Phase Ib-II study of ramucirumab combined with nab-paclitaxel and Gemcitabine as first-line treatment in patients with advanced pancreatic adenocarcinoma (RACING).",
-        "pubdate": "2026 Oct 30",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42962507/"
-      },
-      {
-        "pmid": "42959501",
-        "title": "Gastric cancer peritoneal metastases as an immune compartment: immune evasion, systemic immunotherapy and regional treatment strategies.",
-        "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42959501/"
       }
     ]
   },

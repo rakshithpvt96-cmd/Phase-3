@@ -1,0 +1,95 @@
+{
+  "drug_name": "DW4421 20mg",
+  "slug": "dw4421-20mg",
+  "enriched_at": "2026-11-13T15:35:32Z",
+  "source_trial_ids": [
+    "NCT07931521"
+  ],
+  "sponsors": [
+    {
+      "name": "Daewon Pharmaceutical Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Daewon%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": null
+  },
+  "mechanism": {
+    "chembl_id": null,
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=DW4421%2020mg+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=DW4421%2020mg+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=DW4421%2020mg+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Erosive Reflux Disease",
+    "slug": "erosive-reflux-disease"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07931521",
+      "title": "Clinical Trial to Evaluate the Safety and Efficacy of DW4421 in Patients With Erosive Reflux Disease",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT07931521",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42814788",
+        "title": "Methotrexate and Prednisolone compared to placebo and prednisolone in the treatment of severe Erythema Nodosum Leprosum: An international multicentre, double-blind randomised controlled clinical trial-MaPs in ENL.",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42814788/"
+      },
+      {
+        "pmid": "42638188",
+        "title": "Plasma and breast milk pharmacokinetics of suvorexant in healthy lactating women.",
+        "pubdate": "2026 Aug 24",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42638188/"
+      },
+      {
+        "pmid": "42624353",
+        "title": "The Threshold for a Clinically Meaningful Improvement in Cardiopulmonary Exercise Testing Measures for Patients With Symptomatic Obstructive Hypertrophic Cardiomyopathy.",
+        "pubdate": "2026 Aug 20",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42624353/"
+      },
+      {
+        "pmid": "42623398",
+        "title": "A single dose of azithromycin versus placebo for malaria in infants: A cluster-randomized trial.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42623398/"
+      },
+      {
+        "pmid": "42533223",
+        "title": "PDE10A Inhibition in Schizophrenia: A Randomised, Placebo-Controlled Phase 2 Study of Alofropodect (CPL'36) in Patients Experiencing Acute Schizophrenia.",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42533223/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

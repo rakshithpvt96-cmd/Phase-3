@@ -1,16 +1,16 @@
 {
   "drug_name": "Dostarlimab",
   "slug": "dostarlimab",
-  "enriched_at": "2026-09-15T12:33:12Z",
+  "enriched_at": "2026-11-13T15:18:02Z",
   "source_trial_ids": [
-    "NCT06472076"
+    "NCT03981796"
   ],
   "sponsors": [
     {
-      "name": "GlaxoSmithKline",
+      "name": "Tesaro, Inc.",
       "ticker": null,
       "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=GlaxoSmithKline&type=10-K&dateb=&owner=include&count=40"
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Tesaro%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
@@ -30,8 +30,8 @@
     "has_label": true,
     "source": "openFDA",
     "mechanism_of_action": "12.1 Mechanism of Action Binding of the PD-1 ligands, PD-L1 and PD-L2, to the PD-1 receptor found on T cells inhibits T-cell proliferation and cytokine production. Upregulation of PD-1 ligands occurs in some tumors, and signaling through this pathway can contribute to inhibition of active T-cell immune surveillance of tumors. Dostarlimab-gxly is a humanized monoclonal antibody of the IgG4 isotype that binds to the PD-1 receptor and blocks its interaction with PD-L1 and PD-L2, releasing PD-1 pathway-mediated inhibition of the immune response, including the anti-tumor immune response. In syngeneic mouse tumor models, blocking PD-1 activity resulted in decreased tumor growth.",
-    "pharmacokinetics": "12.3 Pharmacokinetics The pharmacokinetics of dostarlimab-gxly as a single agent and in combination with carboplatin and paclitaxel were evaluated in patients with various solid tumors, including patients with EC. Mean C max , AUC 0-inf , and AUC 0-tau increased proportionally over the dose range of 1 to 10 mg/kg. The Cycle 1 mean (coefficient of variation [%CV]) C max and AUC 0-tau of dostarlimab-gxly as a single agent were 171 mcg/mL (20%) and 35,730 mcg*h/mL (20%), respectively at the dosage of 500 mg once every 3 weeks and 309 mcg/mL (31%) and 95,820 mcg*h/mL (29%), respectively at the dosage of 1,000 mg every 6 weeks. Distribution The mean (%CV) volume of distribution of dostarlimab-gxly at steady state is approximately 5.8 L (15%). Elimination The mean terminal elimination half-life of dostarlimab-gxly at steady state is 23.5 days and its mean (%CV) clearance at steady state is 0.007 L/h (30%). Metabolism: Dostarlimab-gxly is expected to be metabolized into small peptides and amino acids by catabolic pathways. Specific Populations No clinically significant differences in the pharmacokinetics of dostarlimab-gxly were observed based on age (24 to 86 years), sex, race/ethnicity (75% White, 2% Asian, and 5% African American), tumor type, and renal impairment based on the estimated creatinine clearance (eGFR ≥15 mL/min/1.73 m 2 ), and mild to moderate hepatic impairment [total bilirubin (TB) >ULN to 3 times ULN or AST>ULN to any AST]. Drug Interaction Studies Dostarlimab exposure when administered in combination with carboplatin and paclitaxel was comparable to single agent exposure and there was no evidence to suggest a clinically relevant change of dostarlimab-gxly clearance over time in patients with recurrent or advanced EC.",
-    "indications_and_usage": "1 INDICATIONS AND USAGE JEMPERLI is a programmed death receptor-1 (PD-1)–blocking antibody indicated: Endometrial Cancer • in combination with carboplatin and paclitaxel, followed by JEMPERLI as a single agent, for the treatment of adult patients with primary advanced or recurrent endometrial cancer (EC). ( 1.1 ) • as a single agent for the treatment of adult patients with mismatch repair deficient (dMMR) recurrent or advanced EC, as determined by an FDA-approved test, that has progressed on or following prior treatment with a platinum-containing regimen in any setting and are not candidates for curative surgery or radiation. ( 1.1 , 2.1 ) Mismatch Repair Deficient Recurrent or Advanced Solid Tumors • as a single agent for the treatment of adult patients with dMMR recurrent or advanced solid tumors, as determined by an FDA-approved test, that have progressed on or following prior treatment and who have no satisfactory alternative treatment options. 1 ( 1.2 , 2.1 ) 1 This indication is approved under accelerated approval based on tumor response rate and durability of response. Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial(s). ( 1.2 ) 1.1 Endometrial Cancer JEMPERLI, in combination with carboplatin and paclitaxel, followed by JEMPERLI as a single agent, is indicated for the treatment of adult patients with primary advanced or recurrent endometrial cancer (EC). JEMPERLI, as a single agent, is indicated for the treatment of adult patients with mismatch repair deficient (dMMR) recurrent or advanced EC, as determined by an FDA-approved test, that has progressed on or following prior treatment with a platinum-containing regimen in any setting and are not candidates for curative surgery or radiation [see Dosage and Administration ( 2.1 )]. 1.2 Mismatch Repair Deficient Recurrent or Advanced Solid Tumors JEMPERLI, as a single agent, is indicated for the treatment of adult patients with dMMR recurrent or advanced solid tumors, as determined by an FDA-approved test, that have progressed on or following prior treatment and who have no satisfactory alternative treatment options [see Dosage and Administration ( 2.1 )]. This indication is approved under accelerated approval based on tumor response rate and durability of response [see Clinical Studies ( 14.2 )]. Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial(s).",
+    "pharmacokinetics": "12.3 Pharmacokinetics The pharmacokinetics of dostarlimab‑gxly as a single agent and in combination with carboplatin and paclitaxel were evaluated in patients with various solid tumors, including patients with EC. Mean C max , AUC 0‑inf , and AUC 0‑tau increased proportionally over the dose range of 1 to 10 mg/kg. The Cycle 1 mean (coefficient of variation [%CV]) C max and AUC 0‑tau of dostarlimab‑gxly as a single agent were 171 mcg/mL (20%) and 35,730 mcg•h/mL (20%), respectively at the dosage of 500 mg once every 3 weeks and 309 mcg/mL (31%) and 95,820 mcg•h/mL (29%), respectively at the dosage of 1,000 mg every 6 weeks. Distribution The mean (%CV) volume of distribution of dostarlimab‑gxly at steady state is approximately 5.8 L (15%). Elimination The mean terminal elimination half‑life of dostarlimab‑gxly at steady state is 23.5 days and its mean (%CV) clearance at steady state is 0.007 L/h (30%). Metabolism: Dostarlimab‑gxly is expected to be metabolized into small peptides and amino acids by catabolic pathways. Specific Populations No clinically significant differences in the pharmacokinetics of dostarlimab‑gxly were observed based on age (24 to 86 years), sex, race/ethnicity (75% White, 2% Asian, and 5% African American), tumor type, and renal impairment based on the estimated creatinine clearance (eGFR ≥15 mL/min/1.73 m 2 ), and mild to moderate hepatic impairment (total bilirubin [TB] >ULN to 3 times ULN or AST>ULN to any AST). Drug Interaction Studies Dostarlimab exposure when administered in combination with carboplatin and paclitaxel was comparable to single agent exposure and there was no evidence to suggest a clinically relevant change of dostarlimab‑gxly clearance over time in patients with recurrent or advanced EC.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE JEMPERLI is a programmed death receptor‑1 (PD‑1)–blocking antibody indicated: Endometrial Cancer • in combination with carboplatin and paclitaxel, followed by JEMPERLI as a single agent, for the treatment of adult patients with primary advanced or recurrent endometrial cancer (EC). ( 1.1 ) • as a single agent for the treatment of adult patients with mismatch repair deficient (dMMR) recurrent or advanced EC, as determined by an FDA‑authorized test, that has progressed on or following prior treatment with a platinum‑containing regimen in any setting and are not candidates for curative surgery or radiation. ( 1.1 , 2.1 ) Microsatellite Instability–High or Mismatch Repair Deficient Locally Advanced Rectal Cancer • as a single agent for the treatment of adult patients with Stage II/III, locally advanced rectal cancer (LARC) that is microsatellite instability‑high (MSI‑H) or dMMR, as determined by an FDA‑authorized test for solid tumors. ( 1.2 , 2.1 ) This indication is approved under accelerated approval based on sustained clinical complete response for 12 months. The long-term risk of relapse is unknown, with additional follow-up expected. Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial(s). ( 1.2 ) Mismatch Repair Deficient Recurrent or Advanced Solid Tumors • as a single agent for the treatment of adult patients with dMMR recurrent or advanced solid tumors, as determined by an FDA‑authorized test, that have progressed on or following prior treatment and who have no satisfactory alternative treatment options. ( 1.3 , 2.1 ) This indication is approved under accelerated approval based on tumor response rate and durability of response. Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial(s). ( 1.3 ) 1.1 Endometrial Cancer JEMPERLI, in combination with carboplatin and paclitaxel, followed by JEMPERLI as a single agent, is indicated for the treatment of adult patients with primary advanced or recurrent endometrial cancer (EC). JEMPERLI, as a single agent, is indicated for the treatment of adult patients with mismatch repair deficient (dMMR) recurrent or advanced EC, as determined by an FDA‑authorized test, that has progressed on or following prior treatment with a platinum‑containing regimen in any setting and are not candidates for curative surgery or radiation [see Dosage and Administration ( 2.1 )]. 1.2 Microsatellite Instability-High or Mismatch Repair Deficient Locally Advanced Rectal Cancer JEMPERLI, as a single agent, is indicated for the treatment of adult patients with Stage II/III, locally advanced rectal cancer (LARC) that is microsatellite instability‑high (MSI‑H) or dMMR, as determined by an FDA‑authorized test for solid tumors [see Dosage and Administration ( 2.1 )]. This indication is approved under accelerated approval based on sustained clinical complete response for 12 months [see Clinical Studies ( 14.2 )]. The long-term risk of relapse is unknown, with additional follow-up expected. Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial(s). 1.3 Mismatch Repair Deficient Recurrent or Advanced Solid Tumors JEMPERLI, as a single agent, is indicated for the treatment of adult patients with dMMR recurrent or advanced solid tumors, as determined by an FDA‑authorized test, that have progressed on or following prior treatment and who have no satisfactory alternative treatment options [see Dosage and Administration ( 2.1 )] . This indication is approved under accelerated approval based on tumor response rate and durability of response [see Clinical Studies ( 14.3 )] . Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial(s).",
     "boxed_warning": null,
     "openfda_brand_names": [
       "Jemperli"
@@ -44,21 +44,27 @@
     "further_reading": null
   },
   "condition": {
-    "raw": "Lung Cancer, Non-Small Cell",
-    "slug": "lung-cancer-non-small-cell"
+    "raw": "Neoplasms",
+    "slug": "neoplasms"
   },
   "source_trials": [
     {
-      "nct_id": "NCT06472076",
-      "title": "A Study of Belrestotug Plus Dostarlimab Compared With Placebo Plus Pembrolizumab in Previously Untreated Participants With Programmed Death Ligand 1 (PD-L1) High Non-small-cell Lung Cancer (NSCLC)",
+      "nct_id": "NCT03981796",
+      "title": "A Study to Evaluate Dostarlimab Plus Carboplatin-paclitaxel Versus Placebo Plus Carboplatin-paclitaxel in Participants With Recurrent or Primary Advanced Endometrial Cancer",
       "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06472076",
+      "url": "https://clinicaltrials.gov/study/NCT03981796",
       "has_results": false
     }
   ],
   "prior_results": {
     "ctgov_results_urls": [],
     "pubmed_articles": [
+      {
+        "pmid": "42850140",
+        "title": "BEHOLD-1 and -2: phase 1/2 randomized studies evaluating the B7 homolog 4 protein-targeted antibody-drug conjugate mocertatug rezetecan in patients with solid tumors, including endometrial and ovarian cancers.",
+        "pubdate": "2026 Sep 7",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42850140/"
+      },
       {
         "pmid": "42610707",
         "title": "Use, survival, and adverse events of dostarlimab monotherapy in advanced or recurrent endometrial cancer: a nationwide cohort study in France.",
@@ -74,7 +80,7 @@
       {
         "pmid": "42215378",
         "title": "Four-year survival outcomes with dostarlimab plus chemotherapy in mismatch repair deficient/microsatellite instability-high primary advanced or recurrent endometrial cancer in the RUBY trial.",
-        "pubdate": "2026 May 29",
+        "pubdate": "2026 Sep",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42215378/"
       },
       {
@@ -82,12 +88,6 @@
         "title": "Recent therapeutic advances in gynecologic oncology: evolving roles of immunotherapy, antibody-drug conjugates, and clinical trial innovations.",
         "pubdate": "2025",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41626151/"
-      },
-      {
-        "pmid": "41617622",
-        "title": "[French recommendations for clinical practice, Nice/Saint-Paul-de-Vence 2024-2025: Management of advanced/relapsing endometrial cancer].",
-        "pubdate": "2026 Feb",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41617622/"
       }
     ]
   },

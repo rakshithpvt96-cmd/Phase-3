@@ -1,0 +1,95 @@
+{
+  "drug_name": "DW4421 40mg",
+  "slug": "dw4421-40mg",
+  "enriched_at": "2026-11-13T15:35:40Z",
+  "source_trial_ids": [
+    "NCT07931521"
+  ],
+  "sponsors": [
+    {
+      "name": "Daewon Pharmaceutical Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Daewon%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": null
+  },
+  "mechanism": {
+    "chembl_id": null,
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=DW4421%2040mg+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=DW4421%2040mg+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=DW4421%2040mg+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Erosive Reflux Disease",
+    "slug": "erosive-reflux-disease"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07931521",
+      "title": "Clinical Trial to Evaluate the Safety and Efficacy of DW4421 in Patients With Erosive Reflux Disease",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT07931521",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "43007834",
+        "title": "Adalimumab Does Not Improve Clinical Outcomes After Needle Fasciotomy for Dupuytren Contracture: A Randomized Controlled Pilot Trial.",
+        "pubdate": "2026 Nov 10",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43007834/"
+      },
+      {
+        "pmid": "42913354",
+        "title": "Safety and efficacy of psilocybin-assisted therapy for alcohol use disorder: Open-label extension of a phase II randomized controlled trial.",
+        "pubdate": "2026 Nov 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42913354/"
+      },
+      {
+        "pmid": "42845560",
+        "title": "A Phase 2b randomized clinical trial of the oral p38α inhibitor neflamapimod in dementia with Lewy bodies (DLB).",
+        "pubdate": "2026 Aug 14",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42845560/"
+      },
+      {
+        "pmid": "42814788",
+        "title": "Methotrexate and Prednisolone compared to placebo and prednisolone in the treatment of severe Erythema Nodosum Leprosum: An international multicentre, double-blind randomised controlled clinical trial-MaPs in ENL.",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42814788/"
+      },
+      {
+        "pmid": "42669075",
+        "title": "Effect of In-Hospital Initiation of Dapagliflozin on Decongestion in Patients Hospitalized for Heart Failure: An Analysis of the DAPA ACT HF-TIMI 68 Trial.",
+        "pubdate": "2026 Aug 30",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42669075/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

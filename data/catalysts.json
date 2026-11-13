@@ -1,97 +1,12 @@
 {
-  "generated_at": "2026-11-11T16:57:25Z",
+  "generated_at": "2026-11-13T15:11:12Z",
   "window_upcoming_days": 14,
   "window_lookback_days": [
     1,
     90
   ],
-  "trial_count": 262,
+  "trial_count": 263,
   "trials": [
-    {
-      "nct_id": "NCT06809595",
-      "title": "A Phase 3 Trial of MM120 for Generalized Anxiety Disorder (Panorama)",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "Definium Therapeutics US, Inc.",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-08-13",
-      "primary_completion_date_type": "ACTUAL",
-      "window": "lookback",
-      "conditions": [
-        "Generalized Anxiety Disorder"
-      ],
-      "interventions": [
-        {
-          "name": "Placebo",
-          "type": "OTHER"
-        },
-        {
-          "name": "DT120",
-          "type": "DRUG"
-        }
-      ],
-      "drug_names": [
-        "DT120"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT06809595",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "Definium Therapeutics US, Inc.",
-        "ticker": null,
-        "cik": null,
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Definium%20Therapeutics%20US%2C%20Inc.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:23Z"
-      }
-    },
-    {
-      "nct_id": "NCT06507436",
-      "title": "The Phase III Clinical Study of Herombopag for the Treatment of Thrombocytopenia in Chronic Liver Disease Patients Undergoing Elective Invasive Surgery",
-      "status": "COMPLETED",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "Jiangsu HengRui Medicine Co., Ltd.",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-08-14",
-      "primary_completion_date_type": "ACTUAL",
-      "window": "lookback",
-      "conditions": [
-        "Thrombocytopenia in Chronic Liver Disease Patients Undergoing Elective Invasive Surgery"
-      ],
-      "interventions": [
-        {
-          "name": "Herombopag tablets",
-          "type": "DRUG"
-        },
-        {
-          "name": "Herombopag placebo tablets",
-          "type": "DRUG"
-        }
-      ],
-      "drug_names": [
-        "Herombopag tablets",
-        "Herombopag placebo tablets"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT06507436",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "Jiangsu HengRui Medicine Co., Ltd.",
-        "ticker": null,
-        "cik": null,
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Jiangsu%20HengRui%20Medicine%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:26Z"
-      }
-    },
     {
       "nct_id": "NCT07655180",
       "title": "Safety and Serum Virus Neutralizing Antibody Responses of VYD2311, a COVID-19 Vaccine, and Coadministered VYD2311 With a COVID-19 Vaccine",
@@ -483,7 +398,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001684693&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-06T14:50:55Z"
+        "cached_at": "2026-11-13T15:11:08Z"
       }
     },
     {
@@ -611,6 +526,54 @@
       }
     },
     {
+      "nct_id": "NCT06716216",
+      "title": "A Study of BGM0504 in Participants With Type 2 Diabetes",
+      "status": "COMPLETED",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "BrightGene Bio-Medical Technology Co., Ltd.",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-08-25",
+      "primary_completion_date_type": "ACTUAL",
+      "window": "lookback",
+      "conditions": [
+        "Type 2 Diabetes Mellitus (T2DM)"
+      ],
+      "interventions": [
+        {
+          "name": "Drug: 5 mg BGM0504 Administered SC",
+          "type": "DRUG"
+        },
+        {
+          "name": "Drug:10 mg BGM0504 Administered SC",
+          "type": "DRUG"
+        },
+        {
+          "name": "Drug: Semaglutide Administered SC",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "Drug: 5 mg BGM0504 Administered SC",
+        "Drug:10 mg BGM0504 Administered SC",
+        "Drug: Semaglutide Administered SC"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06716216",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "BrightGene Bio-Medical Technology Co., Ltd.",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=BrightGene%20Bio-Medical%20Technology%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-11-07T14:17:31Z"
+      }
+    },
+    {
       "nct_id": "NCT06790966",
       "title": "Phase 3 Study of PDS0101 and Pembrolizumab in HPV16+ Recurrent/Metastatic Head and Neck Squamous Cell Carcinoma",
       "status": "TERMINATED",
@@ -653,7 +616,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001472091&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-05T15:14:30Z"
+        "cached_at": "2026-11-13T15:11:06Z"
       }
     },
     {
@@ -681,6 +644,69 @@
         "RSVpreF"
       ],
       "url": "https://clinicaltrials.gov/study/NCT07543380",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Pfizer",
+        "ticker": "PFE",
+        "cik": "0000078003",
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000078003&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-11-09T17:16:27Z"
+      }
+    },
+    {
+      "nct_id": "NCT06152575",
+      "title": "MagnetisMM-32: A Study to Learn About the Study Medicine Called Elranatamab in People With Multiple Myeloma (MM) That Has Come Back After Taking Other Treatments (Including Prior Treatment With an Anti-CD38 Antibody and Lenalidomide)",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Pfizer",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-08-26",
+      "primary_completion_date_type": "ACTUAL",
+      "window": "lookback",
+      "conditions": [
+        "Multiple Myeloma"
+      ],
+      "interventions": [
+        {
+          "name": "Elranatamab",
+          "type": "DRUG"
+        },
+        {
+          "name": "Elotuzumab",
+          "type": "DRUG"
+        },
+        {
+          "name": "Pomalidomide",
+          "type": "DRUG"
+        },
+        {
+          "name": "Dexamethasone",
+          "type": "DRUG"
+        },
+        {
+          "name": "Bortezomib",
+          "type": "DRUG"
+        },
+        {
+          "name": "Carfilzomib",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "Elranatamab",
+        "Elotuzumab",
+        "Pomalidomide",
+        "Dexamethasone",
+        "Bortezomib",
+        "Carfilzomib"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06152575",
       "has_results": false,
       "results_first_post_date": null,
       "company_info": {
@@ -734,7 +760,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Guangdong%20Hengrui%20Pharmaceutical%20Co.%2C%20Ltd&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-06T14:50:55Z"
+        "cached_at": "2026-11-13T15:11:04Z"
       }
     },
     {
@@ -996,69 +1022,6 @@
       }
     },
     {
-      "nct_id": "NCT06152575",
-      "title": "MagnetisMM-32: A Study to Learn About the Study Medicine Called Elranatamab in People With Multiple Myeloma (MM) That Has Come Back After Taking Other Treatments (Including Prior Treatment With an Anti-CD38 Antibody and Lenalidomide)",
-      "status": "RECRUITING",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "Pfizer",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-08-30",
-      "primary_completion_date_type": "ESTIMATED",
-      "window": "lookback",
-      "conditions": [
-        "Multiple Myeloma"
-      ],
-      "interventions": [
-        {
-          "name": "Elranatamab",
-          "type": "DRUG"
-        },
-        {
-          "name": "Elotuzumab",
-          "type": "DRUG"
-        },
-        {
-          "name": "Pomalidomide",
-          "type": "DRUG"
-        },
-        {
-          "name": "Dexamethasone",
-          "type": "DRUG"
-        },
-        {
-          "name": "Bortezomib",
-          "type": "DRUG"
-        },
-        {
-          "name": "Carfilzomib",
-          "type": "DRUG"
-        }
-      ],
-      "drug_names": [
-        "Elranatamab",
-        "Elotuzumab",
-        "Pomalidomide",
-        "Dexamethasone",
-        "Bortezomib",
-        "Carfilzomib"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT06152575",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "Pfizer",
-        "ticker": "PFE",
-        "cik": "0000078003",
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000078003&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:27Z"
-      }
-    },
-    {
       "nct_id": "NCT06495229",
       "title": "Study of CM310 in Adolescent Subjects With Atopic Dermatis",
       "status": "ACTIVE_NOT_RECRUITING",
@@ -1255,7 +1218,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Galderma%20R%26D&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-05T15:14:29Z"
+        "cached_at": "2026-11-13T15:11:04Z"
       }
     },
     {
@@ -1348,7 +1311,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Lumen%20Bioscience%2C%20Inc.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-05T15:14:30Z"
+        "cached_at": "2026-11-13T15:11:06Z"
       }
     },
     {
@@ -1434,7 +1397,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Sichuan%20Jishengtang%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-05T15:14:33Z"
+        "cached_at": "2026-11-13T15:11:08Z"
       }
     },
     {
@@ -1678,7 +1641,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Daewon%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-05T15:14:29Z"
+        "cached_at": "2026-11-13T15:11:04Z"
       }
     },
     {
@@ -1718,7 +1681,56 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Inozyme%20Pharma&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-06T14:50:55Z"
+        "cached_at": "2026-11-13T15:11:04Z"
+      }
+    },
+    {
+      "nct_id": "NCT07931521",
+      "title": "Clinical Trial to Evaluate the Safety and Efficacy of DW4421 in Patients With Erosive Reflux Disease",
+      "status": "COMPLETED",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Daewon Pharmaceutical Co., Ltd.",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-08-31",
+      "primary_completion_date_type": "ACTUAL",
+      "window": "lookback",
+      "conditions": [
+        "Erosive Reflux Disease",
+        "GERD (Gastroesophageal Reflux Disease)"
+      ],
+      "interventions": [
+        {
+          "name": "DW4421 20mg",
+          "type": "DRUG"
+        },
+        {
+          "name": "DW4421 40mg",
+          "type": "DRUG"
+        },
+        {
+          "name": "Esomeprazole 40mg",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "DW4421 20mg",
+        "DW4421 40mg",
+        "Esomeprazole 40mg"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT07931521",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Daewon Pharmaceutical Co., Ltd.",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Daewon%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-11-13T15:11:04Z"
       }
     },
     {
@@ -2802,7 +2814,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001468748&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-05T15:14:29Z"
+        "cached_at": "2026-11-13T15:11:04Z"
       }
     },
     {
@@ -3630,7 +3642,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Vertex%20Pharmaceuticals%20Incorporated&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-06T14:50:58Z"
+        "cached_at": "2026-11-13T15:11:12Z"
       }
     },
     {
@@ -3721,7 +3733,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001649094&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-06T14:50:56Z"
+        "cached_at": "2026-11-13T15:11:09Z"
       }
     },
     {
@@ -4037,7 +4049,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Actinogen%20Medical&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-06T14:50:54Z"
+        "cached_at": "2026-11-13T15:11:04Z"
       }
     },
     {
@@ -4483,7 +4495,50 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Chongqing%20Peg-Bio%20Biopharm%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-05T15:14:29Z"
+        "cached_at": "2026-11-13T15:11:04Z"
+      }
+    },
+    {
+      "nct_id": "NCT06516965",
+      "title": "A Study to Evaluate the Efficacy and Safety Study of Povorcitinib in Participants With Prurigo Nodularis (STOP-PN2)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Incyte Corporation",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-09-28",
+      "primary_completion_date_type": "ACTUAL",
+      "window": "lookback",
+      "conditions": [
+        "Prurigo Nodularis"
+      ],
+      "interventions": [
+        {
+          "name": "Povorcitinib",
+          "type": "DRUG"
+        },
+        {
+          "name": "Placebo",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "Povorcitinib",
+        "Placebo"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06516965",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Incyte Corporation",
+        "ticker": "INCY",
+        "cik": "0000879169",
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000879169&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-11-09T17:16:24Z"
       }
     },
     {
@@ -4708,7 +4763,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=SyneuRx%20International%20%28Taiwan%29%20Corp&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-05T15:14:33Z"
+        "cached_at": "2026-11-13T15:11:09Z"
       }
     },
     {
@@ -5066,7 +5121,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Beijing%20Pearl%20Biotechnology%20Limited%20Liability%20Company&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-05T15:14:29Z"
+        "cached_at": "2026-11-13T15:11:04Z"
       }
     },
     {
@@ -5198,7 +5253,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Chongqing%20Claruvis%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-05T15:14:29Z"
+        "cached_at": "2026-11-13T15:11:04Z"
       }
     },
     {
@@ -5284,7 +5339,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=CSPC%20Ouyi%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-05T15:14:29Z"
+        "cached_at": "2026-11-13T15:11:04Z"
       }
     },
     {
@@ -5327,7 +5382,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Innovent%20Biopharmaceutical%20Technology%20%28Hangzhou%29%20Co.%2C%20LTD.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-05T15:14:29Z"
+        "cached_at": "2026-11-13T15:11:04Z"
       }
     },
     {
@@ -5369,7 +5424,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=UpTru%20Inc.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-05T15:14:33Z"
+        "cached_at": "2026-11-13T15:11:09Z"
       }
     },
     {
@@ -5407,7 +5462,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Sinovac%20Biotech%20Co.%2C%20Ltd&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-05T15:14:33Z"
+        "cached_at": "2026-11-13T15:11:08Z"
       }
     },
     {
@@ -5499,7 +5554,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Inmunotek%20S.L.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-06T14:50:55Z"
+        "cached_at": "2026-11-13T15:11:04Z"
       }
     },
     {
@@ -5548,7 +5603,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Loxo%20Oncology%2C%20Inc.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-06T14:50:55Z"
+        "cached_at": "2026-11-13T15:11:06Z"
       }
     },
     {
@@ -5639,7 +5694,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=GIE%20Medical&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-06T14:50:55Z"
+        "cached_at": "2026-11-13T15:11:04Z"
       }
     },
     {
@@ -5693,7 +5748,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Industrial%20Farmac%C3%A9utica%20Cantabria%2C%20S.A.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-06T14:50:55Z"
+        "cached_at": "2026-11-13T15:11:04Z"
       }
     },
     {
@@ -5742,7 +5797,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Privo%20Technologies&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-06T14:50:55Z"
+        "cached_at": "2026-11-13T15:11:08Z"
       }
     },
     {
@@ -5780,7 +5835,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Debiopharm%20International%20SA&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-06T14:50:55Z"
+        "cached_at": "2026-11-13T15:11:04Z"
       }
     },
     {
@@ -5820,49 +5875,6 @@
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Curium%20US%20LLC&type=10-K&dateb=&owner=include&count=40",
         "cached_at": "2026-11-07T14:17:31Z"
-      }
-    },
-    {
-      "nct_id": "NCT06297603",
-      "title": "Effect of Retatrutide Compared With Placebo in Participants With Type 2 Diabetes and Moderate or Severe Renal Impairment, With Inadequate Glycemic Control on Basal Insulin, With or Without Metformin and/or SGLT2 Inhibitor (TRANSCEND-T2D-3)",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "Eli Lilly and Company",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-10",
-      "primary_completion_date_type": "ESTIMATED",
-      "window": "lookback",
-      "conditions": [
-        "Type 2 Diabetes"
-      ],
-      "interventions": [
-        {
-          "name": "Retatrutide",
-          "type": "DRUG"
-        },
-        {
-          "name": "Placebo",
-          "type": "DRUG"
-        }
-      ],
-      "drug_names": [
-        "Retatrutide",
-        "Placebo"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT06297603",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "Eli Lilly and Company",
-        "ticker": null,
-        "cik": null,
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Eli%20Lilly%20and%20Company&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:23Z"
       }
     },
     {
@@ -5953,7 +5965,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Biohaven%20Therapeutics%20Ltd.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-06T14:50:54Z"
+        "cached_at": "2026-11-13T15:11:04Z"
       }
     },
     {
@@ -6039,135 +6051,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Zhejiang%20Sunshine%20Mandi%20Pharmaceutical%20Co.%2CLtd.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-06T14:50:58Z"
-      }
-    },
-    {
-      "nct_id": "NCT06445023",
-      "title": "A Phase 3 Study of Barzolvolimab in Participants With Chronic Spontaneous Urticaria",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "Celldex Therapeutics",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-10",
-      "primary_completion_date_type": "ESTIMATED",
-      "window": "lookback",
-      "conditions": [
-        "Chronic Spontaneous Urticaria"
-      ],
-      "interventions": [
-        {
-          "name": "barzolvolimab",
-          "type": "BIOLOGICAL"
-        },
-        {
-          "name": "Matching placebo",
-          "type": "BIOLOGICAL"
-        }
-      ],
-      "drug_names": [
-        "barzolvolimab",
-        "Matching placebo"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT06445023",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "Celldex Therapeutics",
-        "ticker": "CLDX",
-        "cik": "0000744218",
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000744218&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-06T14:50:54Z"
-      }
-    },
-    {
-      "nct_id": "NCT06455202",
-      "title": "A Phase 3 Study of Barzolvolimab in Participants With Chronic Spontaneous Urticaria (CSU)",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "Celldex Therapeutics",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-10",
-      "primary_completion_date_type": "ESTIMATED",
-      "window": "lookback",
-      "conditions": [
-        "Chronic Spontaneous Urticaria"
-      ],
-      "interventions": [
-        {
-          "name": "barzolvolimab",
-          "type": "BIOLOGICAL"
-        },
-        {
-          "name": "Matching placebo",
-          "type": "BIOLOGICAL"
-        }
-      ],
-      "drug_names": [
-        "barzolvolimab",
-        "Matching placebo"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT06455202",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "Celldex Therapeutics",
-        "ticker": "CLDX",
-        "cik": "0000744218",
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000744218&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-06T14:50:54Z"
-      }
-    },
-    {
-      "nct_id": "NCT06553768",
-      "title": "Evaluation of Maralixibat in Pruritus Associated With General Cholestatic Liver Disease (EXPAND)",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "Mirum Pharmaceuticals, Inc.",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-10",
-      "primary_completion_date_type": "ESTIMATED",
-      "window": "lookback",
-      "conditions": [
-        "Cholestatic Liver Disease (Except ALGS, PFIC, PBC and PSC)"
-      ],
-      "interventions": [
-        {
-          "name": "Maralixibat",
-          "type": "DRUG"
-        },
-        {
-          "name": "Placebo",
-          "type": "OTHER"
-        }
-      ],
-      "drug_names": [
-        "Maralixibat"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT06553768",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "Mirum Pharmaceuticals, Inc.",
-        "ticker": "MIRM",
-        "cik": "0001759425",
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001759425&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:26Z"
+        "cached_at": "2026-11-13T15:11:12Z"
       }
     },
     {
@@ -6210,7 +6094,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Akeso&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-06T14:50:54Z"
+        "cached_at": "2026-11-13T15:11:04Z"
       }
     },
     {
@@ -6347,7 +6231,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Ebima%20Clifford%20Okundaye&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-06T14:50:55Z"
+        "cached_at": "2026-11-13T15:11:04Z"
       }
     },
     {
@@ -6435,7 +6319,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Senseye%2C%20Inc.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-06T14:50:55Z"
+        "cached_at": "2026-11-13T15:11:08Z"
       }
     },
     {
@@ -6543,7 +6427,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Shanghai%20Huilun%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-06T14:50:55Z"
+        "cached_at": "2026-11-13T15:11:08Z"
       }
     },
     {
@@ -6597,7 +6481,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Shanghai%20Huilun%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-06T14:50:55Z"
+        "cached_at": "2026-11-13T15:11:08Z"
       }
     },
     {
@@ -6694,7 +6578,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Beijing%20Dongfang%20Biotech%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-06T14:50:54Z"
+        "cached_at": "2026-11-13T15:11:04Z"
       }
     },
     {
@@ -6775,7 +6659,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=SK%20Life%20Science%2C%20Inc.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-06T14:50:55Z"
+        "cached_at": "2026-11-13T15:11:08Z"
       }
     },
     {
@@ -6813,7 +6697,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=MedTrace%20Pharma%20A/S&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-06T14:50:55Z"
+        "cached_at": "2026-11-13T15:11:06Z"
       }
     },
     {
@@ -7113,49 +6997,6 @@
       }
     },
     {
-      "nct_id": "NCT06959225",
-      "title": "Study to Evaluate the Efficacy and Safety of Ruxolitinib Cream in Participants With Hidradenitis Suppurativa (TRuE-HS1)",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "Incyte Corporation",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-10-09",
-      "primary_completion_date_type": "ESTIMATED",
-      "window": "lookback",
-      "conditions": [
-        "Hidradenitis Suppurativa"
-      ],
-      "interventions": [
-        {
-          "name": "Ruxolitinib Cream",
-          "type": "DRUG"
-        },
-        {
-          "name": "Vehicle Cream",
-          "type": "DRUG"
-        }
-      ],
-      "drug_names": [
-        "Ruxolitinib Cream",
-        "Vehicle Cream"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT06959225",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "Incyte Corporation",
-        "ticker": "INCY",
-        "cik": "0000879169",
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000879169&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:24Z"
-      }
-    },
-    {
       "nct_id": "NCT07193459",
       "title": "Study to Evaluate HDM1002 Tablets in Adults With Type 2 Diabetes Mellitus",
       "status": "RECRUITING",
@@ -7417,7 +7258,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Organon%20and%20Co&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-06T14:50:55Z"
+        "cached_at": "2026-11-13T15:11:06Z"
       }
     },
     {
@@ -7537,7 +7378,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Suzhou%20Alphamab%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-06T14:50:56Z"
+        "cached_at": "2026-11-13T15:11:09Z"
       }
     },
     {
@@ -7580,7 +7421,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=LEO%20Pharma&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-05T15:14:30Z"
+        "cached_at": "2026-11-13T15:11:06Z"
       }
     },
     {
@@ -7823,49 +7664,6 @@
       }
     },
     {
-      "nct_id": "NCT06516965",
-      "title": "A Study to Evaluate the Efficacy and Safety Study of Povorcitinib in Participants With Prurigo Nodularis (STOP-PN2)",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "Incyte Corporation",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-10-19",
-      "primary_completion_date_type": "ESTIMATED",
-      "window": "lookback",
-      "conditions": [
-        "Prurigo Nodularis"
-      ],
-      "interventions": [
-        {
-          "name": "Povorcitinib",
-          "type": "DRUG"
-        },
-        {
-          "name": "Placebo",
-          "type": "DRUG"
-        }
-      ],
-      "drug_names": [
-        "Povorcitinib",
-        "Placebo"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT06516965",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "Incyte Corporation",
-        "ticker": "INCY",
-        "cik": "0000879169",
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000879169&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:24Z"
-      }
-    },
-    {
       "nct_id": "NCT05531565",
       "title": "A 2-Part Study to Learn Whether Litifilimab (BIIB059) Injections Can Improve Symptoms of Adult Participants Who Have Active Cutaneous Lupus Erythematosus",
       "status": "ACTIVE_NOT_RECRUITING",
@@ -7949,7 +7747,55 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Otsuka%20Pharmaceutical%20Development%20%26%20Commercialization%2C%20Inc.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-05T15:14:30Z"
+        "cached_at": "2026-11-13T15:11:06Z"
+      }
+    },
+    {
+      "nct_id": "NCT07365826",
+      "title": "A Clinical Study to Evaluate the Safety, Tolerability, and Immunogenicity of VAX-31 With Influenza Vaccine in Adults ≥ 50 Years of Age",
+      "status": "COMPLETED",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Vaxcyte, Inc.",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-10-21",
+      "primary_completion_date_type": "ACTUAL",
+      "window": "lookback",
+      "conditions": [
+        "Pneumococcal Disease"
+      ],
+      "interventions": [
+        {
+          "name": "31-valent pneumococcal conjugate vaccine",
+          "type": "BIOLOGICAL"
+        },
+        {
+          "name": "Seasonal Influenza Vaccine (SIV) (Flublok)",
+          "type": "BIOLOGICAL"
+        },
+        {
+          "name": "Placebo",
+          "type": "BIOLOGICAL"
+        }
+      ],
+      "drug_names": [
+        "31-valent pneumococcal conjugate vaccine",
+        "Seasonal Influenza Vaccine (SIV) (Flublok)",
+        "Placebo"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT07365826",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Vaxcyte, Inc.",
+        "ticker": "PCVX",
+        "cik": "0001649094",
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001649094&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-11-13T15:11:09Z"
       }
     },
     {
@@ -8125,6 +7971,49 @@
       }
     },
     {
+      "nct_id": "NCT07425392",
+      "title": "Safety, Tolerability, and Immunogenicity of VAX-31 in Adults ≥50 Years With Prior Pneumococcal Vaccination",
+      "status": "COMPLETED",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Vaxcyte, Inc.",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-10-25",
+      "primary_completion_date_type": "ACTUAL",
+      "window": "lookback",
+      "conditions": [
+        "Pneumococcal Disease"
+      ],
+      "interventions": [
+        {
+          "name": "31-valent pneumococcal conjugate vaccine",
+          "type": "BIOLOGICAL"
+        },
+        {
+          "name": "PCV20",
+          "type": "BIOLOGICAL"
+        }
+      ],
+      "drug_names": [
+        "31-valent pneumococcal conjugate vaccine",
+        "PCV20"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT07425392",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Vaxcyte, Inc.",
+        "ticker": "PCVX",
+        "cik": "0001649094",
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001649094&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-11-13T15:11:09Z"
+      }
+    },
+    {
       "nct_id": "NCT04204616",
       "title": "A Long-term Study of Nemolizumab (CD14152) in Participants With Prurigo Nodularis (PN)",
       "status": "ACTIVE_NOT_RECRUITING",
@@ -8159,7 +8048,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Galderma%20R%26D&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-05T15:14:29Z"
+        "cached_at": "2026-11-13T15:11:04Z"
       }
     },
     {
@@ -8203,6 +8092,49 @@
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Novartis%20Pharmaceuticals&type=10-K&dateb=&owner=include&count=40",
         "cached_at": "2026-11-09T17:16:27Z"
+      }
+    },
+    {
+      "nct_id": "NCT06297603",
+      "title": "Effect of Retatrutide Compared With Placebo in Participants With Type 2 Diabetes and Moderate or Severe Renal Impairment, With Inadequate Glycemic Control on Basal Insulin, With or Without Metformin and/or SGLT2 Inhibitor (TRANSCEND-T2D-3)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Eli Lilly and Company",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-10-26",
+      "primary_completion_date_type": "ACTUAL",
+      "window": "lookback",
+      "conditions": [
+        "Type 2 Diabetes"
+      ],
+      "interventions": [
+        {
+          "name": "Retatrutide",
+          "type": "DRUG"
+        },
+        {
+          "name": "Placebo",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "Retatrutide",
+        "Placebo"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06297603",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Eli Lilly and Company",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Eli%20Lilly%20and%20Company&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-11-09T17:16:23Z"
       }
     },
     {
@@ -8384,7 +8316,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Akeso&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-06T14:50:54Z"
+        "cached_at": "2026-11-13T15:11:04Z"
       }
     },
     {
@@ -8397,7 +8329,7 @@
       "sponsor": "Novartis Pharmaceuticals",
       "sponsor_class": "INDUSTRY",
       "primary_completion_date": "2026-10-29",
-      "primary_completion_date_type": "ESTIMATED",
+      "primary_completion_date_type": "ACTUAL",
       "window": "lookback",
       "conditions": [
         "Primary Immune Thrombocytopenia (ITP)"
@@ -8475,6 +8407,49 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hoffmann-La%20Roche&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-11-09T17:16:24Z"
+      }
+    },
+    {
+      "nct_id": "NCT06959225",
+      "title": "Study to Evaluate the Efficacy and Safety of Ruxolitinib Cream in Participants With Hidradenitis Suppurativa (TRuE-HS1)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Incyte Corporation",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-10-29",
+      "primary_completion_date_type": "ACTUAL",
+      "window": "lookback",
+      "conditions": [
+        "Hidradenitis Suppurativa"
+      ],
+      "interventions": [
+        {
+          "name": "Ruxolitinib Cream",
+          "type": "DRUG"
+        },
+        {
+          "name": "Vehicle Cream",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "Ruxolitinib Cream",
+        "Vehicle Cream"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06959225",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Incyte Corporation",
+        "ticker": "INCY",
+        "cik": "0000879169",
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000879169&type=10-K&dateb=&owner=include&count=40",
         "cached_at": "2026-11-09T17:16:24Z"
       }
     },
@@ -8566,7 +8541,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Laekna%20Limited&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-06T14:50:55Z"
+        "cached_at": "2026-11-13T15:11:06Z"
       }
     },
     {
@@ -8604,7 +8579,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Vertex%20Pharmaceuticals%20Incorporated&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-06T14:50:58Z"
+        "cached_at": "2026-11-13T15:11:12Z"
       }
     },
     {
@@ -8700,7 +8675,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=CSPC%20Ouyi%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-05T15:14:29Z"
+        "cached_at": "2026-11-13T15:11:04Z"
       }
     },
     {
@@ -8743,7 +8718,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Kind%20Pharmaceuticals%20LLC&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-06T14:50:55Z"
+        "cached_at": "2026-11-13T15:11:04Z"
       }
     },
     {
@@ -8787,7 +8762,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Natureceuticals%20Sdn%20Bhd&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-06T14:50:55Z"
+        "cached_at": "2026-11-13T15:11:06Z"
       }
     },
     {
@@ -9064,7 +9039,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Natureceuticals%20Sdn%20Bhd&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-06T14:50:55Z"
+        "cached_at": "2026-11-13T15:11:06Z"
       }
     },
     {
@@ -9528,7 +9503,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Akeso&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-06T14:50:54Z"
+        "cached_at": "2026-11-13T15:11:04Z"
       }
     },
     {
@@ -9663,54 +9638,6 @@
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Eli%20Lilly%20and%20Company&type=10-K&dateb=&owner=include&count=40",
         "cached_at": "2026-11-09T17:16:23Z"
-      }
-    },
-    {
-      "nct_id": "NCT06847724",
-      "title": "Comparative PK, PD, Efficacy, and Safety Assessment of the Proposed Ocrelizumab Biosimilar CYB704 and Ocrevus in Participants With Relapsing Multiple Sclerosis",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "Sandoz",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-11",
-      "primary_completion_date_type": "ESTIMATED",
-      "window": "lookback",
-      "conditions": [
-        "Relapsing Multiple Sclerosis"
-      ],
-      "interventions": [
-        {
-          "name": "CYB704",
-          "type": "BIOLOGICAL"
-        },
-        {
-          "name": "Ocrevus-EU",
-          "type": "BIOLOGICAL"
-        },
-        {
-          "name": "Ocrevus-US",
-          "type": "BIOLOGICAL"
-        }
-      ],
-      "drug_names": [
-        "CYB704",
-        "Ocrevus-EU",
-        "Ocrevus-US"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT06847724",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "Sandoz",
-        "ticker": null,
-        "cik": null,
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Sandoz&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-08T14:08:26Z"
       }
     },
     {
@@ -10098,7 +10025,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001660334&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-06T14:50:57Z"
+        "cached_at": "2026-11-13T15:11:10Z"
       }
     },
     {
@@ -10234,7 +10161,50 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Sinovac%20Biotech%20Co.%2C%20Ltd&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-05T15:14:33Z"
+        "cached_at": "2026-11-13T15:11:08Z"
+      }
+    },
+    {
+      "nct_id": "NCT07578363",
+      "title": "An Investigation of FID 123472 Ophthalmic Solution to Vehicle for the Reduction of Ocular Redness in Adults",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Alcon Research",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-11",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "lookback",
+      "conditions": [
+        "Ocular Hyperemia"
+      ],
+      "interventions": [
+        {
+          "name": "Apraclonidine Ophthalmic Solution, 0.125% Unit Dose Preservative Free",
+          "type": "DRUG"
+        },
+        {
+          "name": "Vehicle",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "Apraclonidine Ophthalmic Solution, 0.125% Unit Dose Preservative Free",
+        "Vehicle"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT07578363",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Alcon Research",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Alcon%20Research&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-11-13T15:11:04Z"
       }
     },
     {
@@ -10530,7 +10500,7 @@
       "sponsor": "AstraZeneca",
       "sponsor_class": "INDUSTRY",
       "primary_completion_date": "2026-11-02",
-      "primary_completion_date_type": "ESTIMATED",
+      "primary_completion_date_type": "ACTUAL",
       "window": "lookback",
       "conditions": [
         "Cutaneous Lupus Erythematosus"
@@ -10643,6 +10613,54 @@
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Novartis%20Pharmaceuticals&type=10-K&dateb=&owner=include&count=40",
         "cached_at": "2026-11-09T17:16:27Z"
+      }
+    },
+    {
+      "nct_id": "NCT06847724",
+      "title": "Comparative PK, PD, Efficacy, and Safety Assessment of the Proposed Ocrelizumab Biosimilar CYB704 and Ocrevus in Participants With Relapsing Multiple Sclerosis",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Sandoz",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-11-03",
+      "primary_completion_date_type": "ACTUAL",
+      "window": "lookback",
+      "conditions": [
+        "Relapsing Multiple Sclerosis"
+      ],
+      "interventions": [
+        {
+          "name": "CYB704",
+          "type": "BIOLOGICAL"
+        },
+        {
+          "name": "Ocrevus-EU",
+          "type": "BIOLOGICAL"
+        },
+        {
+          "name": "Ocrevus-US",
+          "type": "BIOLOGICAL"
+        }
+      ],
+      "drug_names": [
+        "CYB704",
+        "Ocrevus-EU",
+        "Ocrevus-US"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06847724",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Sandoz",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Sandoz&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-11-08T14:08:26Z"
       }
     },
     {
@@ -10947,7 +10965,7 @@
       "sponsor_class": "INDUSTRY",
       "primary_completion_date": "2026-11-11",
       "primary_completion_date_type": "ESTIMATED",
-      "window": "upcoming",
+      "window": "lookback",
       "conditions": [
         "Diarrhea-predominant Irritable Boewl Syndrome"
       ],
@@ -10990,7 +11008,7 @@
       "sponsor_class": "INDUSTRY",
       "primary_completion_date": "2026-11-12",
       "primary_completion_date_type": "ESTIMATED",
-      "window": "upcoming",
+      "window": "lookback",
       "conditions": [
         "Heavy Menstrual Bleeding",
         "Uterine Fibroids"
@@ -11084,102 +11102,6 @@
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hoffmann-La%20Roche&type=10-K&dateb=&owner=include&count=40",
         "cached_at": "2026-11-09T17:16:24Z"
-      }
-    },
-    {
-      "nct_id": "NCT06716203",
-      "title": "A Study of BGM0504 in Poorly Controlled Type 2 Diabetes Patients Only Through Diet and Exercise",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "BrightGene Bio-Medical Technology Co., Ltd.",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-11-14",
-      "primary_completion_date_type": "ESTIMATED",
-      "window": "upcoming",
-      "conditions": [
-        "Type 2 Diabetes Mellitus (T2DM)"
-      ],
-      "interventions": [
-        {
-          "name": "Drug: 5 mg BGM0504 Administered SC",
-          "type": "DRUG"
-        },
-        {
-          "name": "Drug: : 10 mg BGM0504 Administered SC",
-          "type": "DRUG"
-        },
-        {
-          "name": "Drug: Placebo Administered SC",
-          "type": "DRUG"
-        }
-      ],
-      "drug_names": [
-        "Drug: 5 mg BGM0504 Administered SC",
-        "Drug: : 10 mg BGM0504 Administered SC",
-        "Drug: Placebo Administered SC"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT06716203",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "BrightGene Bio-Medical Technology Co., Ltd.",
-        "ticker": null,
-        "cik": null,
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=BrightGene%20Bio-Medical%20Technology%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-07T14:17:31Z"
-      }
-    },
-    {
-      "nct_id": "NCT06716216",
-      "title": "A Study of BGM0504 in Participants With Type 2 Diabetes",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "BrightGene Bio-Medical Technology Co., Ltd.",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-11-14",
-      "primary_completion_date_type": "ESTIMATED",
-      "window": "upcoming",
-      "conditions": [
-        "Type 2 Diabetes Mellitus (T2DM)"
-      ],
-      "interventions": [
-        {
-          "name": "Drug: 5 mg BGM0504 Administered SC",
-          "type": "DRUG"
-        },
-        {
-          "name": "Drug:10 mg BGM0504 Administered SC",
-          "type": "DRUG"
-        },
-        {
-          "name": "Drug: Semaglutide Administered SC",
-          "type": "DRUG"
-        }
-      ],
-      "drug_names": [
-        "Drug: 5 mg BGM0504 Administered SC",
-        "Drug:10 mg BGM0504 Administered SC",
-        "Drug: Semaglutide Administered SC"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT06716216",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "BrightGene Bio-Medical Technology Co., Ltd.",
-        "ticker": null,
-        "cik": null,
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=BrightGene%20Bio-Medical%20Technology%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-07T14:17:31Z"
       }
     },
     {
@@ -11826,6 +11748,150 @@
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001121404&type=10-K&dateb=&owner=include&count=40",
         "cached_at": "2026-11-09T17:16:29Z"
+      }
+    },
+    {
+      "nct_id": "NCT03981796",
+      "title": "A Study to Evaluate Dostarlimab Plus Carboplatin-paclitaxel Versus Placebo Plus Carboplatin-paclitaxel in Participants With Recurrent or Primary Advanced Endometrial Cancer",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Tesaro, Inc.",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-11-26",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Neoplasms"
+      ],
+      "interventions": [
+        {
+          "name": "Dostarlimab",
+          "type": "BIOLOGICAL"
+        },
+        {
+          "name": "Placebo matching dostarlimab",
+          "type": "DRUG"
+        },
+        {
+          "name": "Carboplatin",
+          "type": "DRUG"
+        },
+        {
+          "name": "Paclitaxel",
+          "type": "DRUG"
+        },
+        {
+          "name": "Niraparib",
+          "type": "DRUG"
+        },
+        {
+          "name": "Placebo matching Niraparib",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "Dostarlimab",
+        "Placebo matching dostarlimab",
+        "Carboplatin",
+        "Paclitaxel",
+        "Niraparib",
+        "Placebo matching Niraparib"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT03981796",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Tesaro, Inc.",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Tesaro%2C%20Inc.&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-11-13T15:11:09Z"
+      }
+    },
+    {
+      "nct_id": "NCT07122401",
+      "title": "Study of MT1013 for the Treatment of Patients With Secondary Hyperparathyroidism",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Shaanxi Micot Pharmaceutical Technology Co., Ltd.",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-11-26",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Secondary Hyperparathyroidism, Chronic Kidney Disease"
+      ],
+      "interventions": [
+        {
+          "name": "MT1013",
+          "type": "DRUG"
+        },
+        {
+          "name": "Cinacalcet",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "MT1013",
+        "Cinacalcet"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT07122401",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Shaanxi Micot Pharmaceutical Technology Co., Ltd.",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Shaanxi%20Micot%20Pharmaceutical%20Technology%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-11-13T15:11:08Z"
+      }
+    },
+    {
+      "nct_id": "NCT04464525",
+      "title": "Omecamtiv Mecarbil Post-trial Access Study",
+      "status": "WITHDRAWN",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Cytokinetics",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-11-27",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Chronic Heart Failure With Reduced Ejection Fraction"
+      ],
+      "interventions": [
+        {
+          "name": "Omecamtiv mecarbil",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "Omecamtiv mecarbil"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT04464525",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Cytokinetics",
+        "ticker": "CYTK",
+        "cik": "0001061983",
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001061983&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-11-09T17:16:22Z"
       }
     }
   ]

@@ -1,7 +1,7 @@
 {
   "drug_name": "Belzutifan",
   "slug": "belzutifan",
-  "enriched_at": "2026-10-14T12:43:24Z",
+  "enriched_at": "2026-11-13T15:14:21Z",
   "source_trial_ids": [
     "NCT05239728"
   ],
@@ -34,20 +34,20 @@
   },
   "fda_label": {
     "has_label": true,
-    "source": "DailyMed",
-    "mechanism_of_action": null,
-    "pharmacokinetics": null,
-    "indications_and_usage": null,
-    "boxed_warning": null,
-    "openfda_brand_names": [],
-    "openfda_generic_names": [],
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Belzutifan is an inhibitor of hypoxia-inducible factor 2 alpha (HIF-2α). HIF-2α is a transcription factor that plays a role in oxygen sensing by regulating genes that promote adaptation to hypoxia. Under normal oxygen levels, HIF-2α is targeted for ubiquitin-proteasomal degradation by VHL protein. Lack of functional VHL protein results in stabilization and accumulation of HIF-2α. Upon stabilization, HIF-2α translocates into the nucleus and interacts with hypoxia-inducible factor 1 beta (HIF-1β) to form a transcriptional complex that induces expression of downstream genes, including genes associated with cellular proliferation, angiogenesis, and tumor growth. Belzutifan binds to HIF-2α, and in conditions of hypoxia or impairment of VHL protein function, belzutifan blocks the HIF-2α-HIF-1β interaction, leading to reduced transcription and expression of HIF-2α target genes. In vivo, belzutifan demonstrated anti-tumor activity in mouse xenograft models of renal cell carcinoma.",
+    "pharmacokinetics": "12.3 Pharmacokinetics The C max and AUC of belzutifan increase proportionally over a dose range of 20 mg to 120 mg (0.17 to 1 times the approved recommended dose). The estimated geometric mean steady-state (CV%) C max is 1.5 μg/mL (45%) and AUC 0-24h is 20 μg•hr/mL (62%). Steady state is reached after approximately 3 days. Absorption The median T max occurs at 1 to 2 hours after WELIREG administration. Effect of Food A high-fat, high-calorie meal (total calories approximately 1000 kcal, 56 g fat, 55 g carbohydrate, and 31 g protein) delayed T max by approximately 2 hours with no clinically significant effect on C max and AUC of belzutifan. Distribution The estimated mean (CV%) volume of distribution is 119 L (28%). Plasma protein binding of belzutifan is 45%. The blood-to-plasma concentration ratio of belzutifan is 0.88. Elimination The estimated mean (CV%) clearance is 6 L/hr (58%) and the mean elimination half-life is 14 hrs. Metabolism Belzutifan is primarily metabolized by UGT2B17 and CYP2C19 and to a lesser extent by CYP3A4 [see Clinical Pharmacology (12.5) ] . Excretion Following a single oral dose of radiolabeled belzutifan, approximately 49.6% of the dose was excreted in urine and 51.7% in feces (primarily as inactive metabolites). Specific Populations Patients who are poor metabolizers of UGT2B17 and CYP2C19 had higher belzutifan AUC [see Clinical Pharmacology (12.5) ] . No clinically significant differences in the pharmacokinetics of belzutifan were observed based on age (15 to 90 years), sex, ethnicity (non-Hispanic, Hispanic), race (White (76%), Black (5%), Asian (15%), Native American, Pacific Islander), or body weight (40 to 166 kg). Pediatric patients The exposure of belzutifan in pediatric patients 12 years and older is predicted to be within range of that observed in adults at the recommended dosage. Patients with Renal Impairment No clinically significant differences in the mean belzutifan exposure were observed between subjects with normal renal function and those with mild (eGFR 60-89 mL/min) or moderate renal impairment (eGFR 30-59 mL/min) and those with end-stage renal disease (eGFR <15 mL/min) requiring dialysis. Patients with Hepatic Impairment No clinically significant differences in the mean belzutifan exposure were observed between subjects with normal liver function (total bilirubin and AST ≤ ULN), and those with mild hepatic impairment (total bilirubin ≤ ULN and AST > ULN or total bilirubin >1 to 1.5 x ULN and any AST). Belzutifan exposure (AUC) increased by 1.5-fold in patients with moderate hepatic impairment (Child-Pugh B) compared to subjects with normal hepatic function. Patients with severe hepatic impairment have not been studied. Drug Interaction Studies Clinical Studies and Model-Informed Approaches Effect of Belzutifan on CYP3A Substrates: Coadministration of WELIREG 120 mg once daily with midazolam (a sensitive CYP3A4 substrate) decreased the midazolam AUC by 40% and the C max by 34%. Midazolam AUC is predicted to decrease up to 70% in patients with higher belzutifan concentrations (e.g., dual poor metabolizers) [see Clinical Pharmacology (12.5) ] . In Vitro Studies Cytochrome P450 (CYP) Enzymes: Belzutifan does not inhibit CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, or CYP3A4. Belzutifan does not induce CYP1A2 or CYP2B6. Transporter Systems: Belzutifan is a substrate of P-gp, OATP1B1, and OATP1B3, but is not a substrate of BCRP. Belzutifan inhibits MATE2K. Belzutifan does not inhibit P-gp, BCRP, OATP1B1, OATP1B3, OAT1, OAT3, OCT2, or MATE1.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE WELIREG is a hypoxia-inducible factor inhibitor indicated: von Hippel-Lindau disease for treatment of adult patients with von Hippel-Lindau (VHL) disease who require therapy for associated renal cell carcinoma (RCC), central nervous system (CNS) hemangioblastomas, or pancreatic neuroendocrine tumors (pNET), not requiring immediate surgery. ( 1.1 ) Renal Cell Carcinoma with a Clear Cell Component in combination with pembrolizumab or pembrolizumab and berahyaluronidase alfa-pmph, for the adjuvant treatment of adult patients with renal cell carcinoma with a clear cell component (ccRCC) at intermediate-high or high risk of recurrence following nephrectomy, or following nephrectomy and resection of metastatic lesions. ( 1.2 ) in combination with lenvatinib for the treatment of adult patients with advanced ccRCC following a programmed death receptor-1 (PD-1) or programmed death-ligand 1 (PD-L1) inhibitor. ( 1.2 ) as monotherapy, for treatment of adult patients with advanced ccRCC following a PD-1 or PD-L1 inhibitor and a vascular endothelial growth factor tyrosine kinase inhibitor (VEGF-TKI). ( 1.2 ) Pheochromocytoma or Paraganglioma for treatment of adult and pediatric patients 12 years and older with locally advanced, unresectable, or metastatic pheochromocytoma or paraganglioma (PPGL). ( 1.3 ) 1.1 von Hippel-Lindau disease WELIREG is indicated for treatment of adult patients with von Hippel-Lindau (VHL) disease who require therapy for associated renal cell carcinoma (RCC), central nervous system (CNS) hemangioblastomas, or pancreatic neuroendocrine tumors (pNET), not requiring immediate surgery. 1.2 Renal Cell Carcinoma with a Clear Cell Component WELIREG, in combination with pembrolizumab or pembrolizumab and berahyaluronidase alfa-pmph, is indicated for the adjuvant treatment of adult patients with renal cell carcinoma with a clear cell component (ccRCC) at intermediate-high or high risk of recurrence following nephrectomy, or following nephrectomy and resection of metastatic lesions. WELIREG, in combination with lenvatinib, is indicated for the treatment of adult patients with advanced ccRCC following a programmed death receptor-1 (PD-1) or programmed death-ligand 1 (PD-L1) inhibitor. WELIREG, as monotherapy, is indicated for the treatment of adult patients with advanced ccRCC following a PD-1 or PD-L1 inhibitor and a vascular endothelial growth factor tyrosine kinase inhibitor (VEGF-TKI). 1.3 Pheochromocytoma or Paraganglioma WELIREG is indicated for the treatment of adult and pediatric patients 12 years and older with locally advanced, unresectable, or metastatic pheochromocytoma or paraganglioma (PPGL).",
+    "boxed_warning": "WARNING: EMBRYO-FETAL TOXICITY Exposure to WELIREG during pregnancy can cause embryo-fetal harm. Verify pregnancy status prior to the initiation of WELIREG. Advise patients of these risks and the need for effective non-hormonal contraception. WELIREG can render some hormonal contraceptives ineffective [see Warnings and Precautions (5.4) , Drug Interactions (7.2) , Use in Specific Populations (8.1 , 8.3) ]. WARNING: EMBRYO-FETAL TOXICITY See full prescribing information for complete boxed warning. Exposure to WELIREG during pregnancy can cause embryo-fetal harm. Verify pregnancy status prior to the initiation of WELIREG. Advise patients of these risks and the need for effective non-hormonal contraception. WELIREG can render some hormonal contraceptives ineffective. ( 5.4 , 7.2 , 8.1 , 8.3 )",
+    "openfda_brand_names": [
+      "WELIREG"
+    ],
+    "openfda_generic_names": [
+      "BELZUTIFAN"
+    ],
     "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=13e15ee0-d679-4fa9-9430-e2e2170474da",
-    "note": "A label exists in DailyMed but structured sections could not be parsed automatically -- see dailymed_url for the full label.",
-    "further_reading": {
-      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Belzutifan+mechanism+of+action",
-      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Belzutifan+pharmacokinetics",
-      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Belzutifan+efficacy+phase+3"
-    }
+    "note": null,
+    "further_reading": null
   },
   "condition": {
     "raw": "Carcinoma, Renal Cell",
@@ -66,6 +66,18 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42927856",
+        "title": "Pembrolizumab plus lenvatinib with belzutifan or quavonlimab as first-line therapy for advanced renal-cell carcinoma: randomized open-label phase 3 LITESPARK-012 study.",
+        "pubdate": "2026 Oct 25",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42927856/"
+      },
+      {
+        "pmid": "42927855",
+        "title": "Final prespecified analysis of the phase 3 LITESPARK-011 study: belzutifan plus lenvatinib versus cabozantinib for advanced renal cell carcinoma after anti-PD-(L)1 therapy.",
+        "pubdate": "2026 Oct 25",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42927855/"
+      },
+      {
         "pmid": "42745329",
         "title": "Oral belzutifan treatment in von hippel-lindau-associated retinal hemangioblastoma: a promising approach.",
         "pubdate": "2026 Sep 14",
@@ -82,18 +94,6 @@
         "title": "Belzutifan in Von Hippel-Lindau-associated Hemangioblastomas: A Systematic Review and Meta-analysis.",
         "pubdate": "2026 Oct",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42626756/"
-      },
-      {
-        "pmid": "42593521",
-        "title": "Recent advances in etiology and treatment of von Hippel-Lindau Disease (VHLD).",
-        "pubdate": "2026 Aug 13",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42593521/"
-      },
-      {
-        "pmid": "42586114",
-        "title": "Belzutifan plus lenvatinib versus cabozantinib in patients with previously treated advanced renal cell carcinoma (LITESPARK-011): an open-label, randomised, controlled, phase 3 trial.",
-        "pubdate": "2026 Aug 29",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42586114/"
       }
     ]
   },

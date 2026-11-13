@@ -1,0 +1,119 @@
+{
+  "drug_name": "Apraclonidine Ophthalmic Solution, 0.125% Unit Dose Preservative Free",
+  "slug": "apraclonidine-ophthalmic-solution-0-125-unit-dose-preservative-free",
+  "enriched_at": "2026-11-13T15:33:46Z",
+  "source_trial_ids": [
+    "NCT07578363"
+  ],
+  "sponsors": [
+    {
+      "name": "Alcon Research",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Alcon%20Research&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "379111",
+      "generic_name": "apraclonidine Ophthalmic Solution",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1200379",
+    "target_chembl_id": "CHEMBL2095158",
+    "target_name": "Adrenergic receptor alpha-2",
+    "mechanism_of_action_chembl": "Adrenergic receptor alpha-2 agonist"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Apraclonidine%20Ophthalmic%20Solution%2C%200.125%25%20Unit%20Dose%20Preservative%20Free+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Apraclonidine%20Ophthalmic%20Solution%2C%200.125%25%20Unit%20Dose%20Preservative%20Free+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Apraclonidine%20Ophthalmic%20Solution%2C%200.125%25%20Unit%20Dose%20Preservative%20Free+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Ocular Hyperemia",
+    "slug": "ocular-hyperemia"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07578363",
+      "title": "An Investigation of FID 123472 Ophthalmic Solution to Vehicle for the Reduction of Ocular Redness in Adults",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07578363",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "BRIMONIDINE TARTRATE",
+        "chembl_id": "CHEMBL1200389",
+        "reason": "same target: Adrenergic receptor alpha-2"
+      },
+      {
+        "name": "DEXMEDETOMIDINE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL2106195",
+        "reason": "same target: Adrenergic receptor alpha-2"
+      },
+      {
+        "name": "TIZANIDINE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1200329",
+        "reason": "same target: Adrenergic receptor alpha-2"
+      },
+      {
+        "name": "MIRTAZAPINE",
+        "chembl_id": "CHEMBL654",
+        "reason": "same target: Adrenergic receptor alpha-2"
+      },
+      {
+        "name": "CLONIDINE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1705",
+        "reason": "same target: Adrenergic receptor alpha-2"
+      },
+      {
+        "name": "METHYLDOPATE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1200432",
+        "reason": "same target: Adrenergic receptor alpha-2"
+      },
+      {
+        "name": "GUANFACINE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1200494",
+        "reason": "same target: Adrenergic receptor alpha-2"
+      },
+      {
+        "name": "CLONIDINE",
+        "chembl_id": "CHEMBL134",
+        "reason": "same target: Adrenergic receptor alpha-2"
+      },
+      {
+        "name": "METHYLDOPA",
+        "chembl_id": "CHEMBL459",
+        "reason": "same target: Adrenergic receptor alpha-2"
+      },
+      {
+        "name": "GUANABENZ ACETATE",
+        "chembl_id": "CHEMBL1200560",
+        "reason": "same target: Adrenergic receptor alpha-2"
+      }
+    ]
+  }
+}

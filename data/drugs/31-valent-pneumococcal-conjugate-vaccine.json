@@ -1,9 +1,11 @@
 {
   "drug_name": "31 valent pneumococcal conjugate vaccine",
   "slug": "31-valent-pneumococcal-conjugate-vaccine",
-  "enriched_at": "2026-11-06T14:55:40Z",
+  "enriched_at": "2026-11-13T15:33:20Z",
   "source_trial_ids": [
-    "NCT07284654"
+    "NCT07284654",
+    "NCT07365826",
+    "NCT07425392"
   ],
   "sponsors": [
     {
@@ -53,6 +55,20 @@
       "title": "Safety, Tolerability, and Immunogenicity of VAX-31 in Adults ≥50 Years With Immunobridging to Adults 18-49",
       "status": "COMPLETED",
       "url": "https://clinicaltrials.gov/study/NCT07284654",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT07365826",
+      "title": "A Clinical Study to Evaluate the Safety, Tolerability, and Immunogenicity of VAX-31 With Influenza Vaccine in Adults ≥ 50 Years of Age",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT07365826",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT07425392",
+      "title": "Safety, Tolerability, and Immunogenicity of VAX-31 in Adults ≥50 Years With Prior Pneumococcal Vaccination",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT07425392",
       "has_results": false
     }
   ],
