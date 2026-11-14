@@ -1,7 +1,7 @@
 {
   "drug_name": "Drug: Semaglutide Administered SC",
   "slug": "drug-semaglutide-administered-sc",
-  "enriched_at": "2026-11-07T14:18:41Z",
+  "enriched_at": "2026-11-14T16:10:28Z",
   "source_trial_ids": [
     "NCT06716216"
   ],
@@ -51,7 +51,7 @@
     {
       "nct_id": "NCT06716216",
       "title": "A Study of BGM0504 in Participants With Type 2 Diabetes",
-      "status": "ACTIVE_NOT_RECRUITING",
+      "status": "COMPLETED",
       "url": "https://clinicaltrials.gov/study/NCT06716216",
       "has_results": false
     }
@@ -88,6 +88,17 @@
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": []
+    "items": [
+      {
+        "name": "GZR18",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Gan & Lee Pharmaceuticals."
+      },
+      {
+        "name": "semaglutide",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Gan & Lee Pharmaceuticals."
+      }
+    ]
   }
 }

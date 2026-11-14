@@ -1,9 +1,8 @@
 {
   "drug_name": "Drug: 5 mg BGM0504 Administered SC",
   "slug": "drug-5-mg-bgm0504-administered-sc",
-  "enriched_at": "2026-11-07T14:18:14Z",
+  "enriched_at": "2026-11-14T16:10:19Z",
   "source_trial_ids": [
-    "NCT06716203",
     "NCT06716216"
   ],
   "sponsors": [
@@ -50,16 +49,9 @@
   },
   "source_trials": [
     {
-      "nct_id": "NCT06716203",
-      "title": "A Study of BGM0504 in Poorly Controlled Type 2 Diabetes Patients Only Through Diet and Exercise",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06716203",
-      "has_results": false
-    },
-    {
       "nct_id": "NCT06716216",
       "title": "A Study of BGM0504 in Participants With Type 2 Diabetes",
-      "status": "ACTIVE_NOT_RECRUITING",
+      "status": "COMPLETED",
       "url": "https://clinicaltrials.gov/study/NCT06716216",
       "has_results": false
     }
@@ -71,6 +63,17 @@
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": []
+    "items": [
+      {
+        "name": "GZR18",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Gan & Lee Pharmaceuticals."
+      },
+      {
+        "name": "semaglutide",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Gan & Lee Pharmaceuticals."
+      }
+    ]
   }
 }

@@ -1,7 +1,7 @@
 {
   "drug_name": "Combined metabolic activators",
   "slug": "combined-metabolic-activators",
-  "enriched_at": "2026-11-07T14:22:50Z",
+  "enriched_at": "2026-11-14T16:09:39Z",
   "source_trial_ids": [
     "NCT07062198"
   ],
@@ -60,34 +60,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42994959",
-        "title": "An inhibitor of the mitochondrial respiratory chain exerts synergistic anti-tumour effects when combined with alkylating agents.",
-        "pubdate": "2026 Nov 6",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42994959/"
+        "pmid": "43026840",
+        "title": "Synergizing Against RAS: The Evolving Landscape of Targeted Combinations in Pancreatic Cancer.",
+        "pubdate": "2026 Nov 2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43026840/"
       },
       {
-        "pmid": "42989241",
-        "title": "Radiographic, histological, and immunohistochemical comparison of allograft, xenograft, and combined graft in maxillary sinus augmentation: a prospective randomized clinical study.",
-        "pubdate": "2026 Aug 11",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42989241/"
+        "pmid": "43017918",
+        "title": "Sublingual cyclobenzaprine for fibromyalgia: a critical evaluation of clinical development and therapeutic positioning.",
+        "pubdate": "2026 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43017918/"
       },
       {
-        "pmid": "42989127",
-        "title": "Effects of 8-week brisk walking combined with table tennis exercise on cardiovascular function in middle-aged and elderly individuals.",
-        "pubdate": "2026 Aug 10",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42989127/"
+        "pmid": "43017556",
+        "title": "Microbiome-targeted strategies for Alzheimer's disease: multi-omics signatures, mechanistic links, and intervention evidence.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43017556/"
       },
       {
-        "pmid": "42987870",
-        "title": "Precision Immunotherapy in Sepsis.",
-        "pubdate": "2026 Nov 5",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42987870/"
+        "pmid": "43016341",
+        "title": "Creatine and CoQ10 with physical activity on muscle function in children with myositis: a proof-of-concept trial.",
+        "pubdate": "2026 Nov 12",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43016341/"
       },
       {
-        "pmid": "42982076",
-        "title": "Preparing for responsive management versus renal dialysis in older people living with kidney failure and frailty or multimorbidity in the UK (Prepare for Kidney Care): a two-arm, superiority, parallel-group, open-label, pragmatic, phase 3, individually randomised controlled trial.",
-        "pubdate": "2026 Nov 4",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42982076/"
+        "pmid": "43005049",
+        "title": "Exercise training in kidney transplant recipients (EXTRA Trial): protocol for a randomized controlled trial.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43005049/"
       }
     ]
   },
@@ -104,6 +104,11 @@
         "name": "Placebo",
         "chembl_id": null,
         "reason": "same indication trial, sponsor: Actinogen Medical"
+      },
+      {
+        "name": "KarXT",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Karuna Therapeutics, Inc., a Bristol Myers Squibb company"
       }
     ]
   }
