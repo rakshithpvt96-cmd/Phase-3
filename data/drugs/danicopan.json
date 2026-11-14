@@ -1,7 +1,7 @@
 {
   "drug_name": "Danicopan",
   "slug": "danicopan",
-  "enriched_at": "2026-10-15T12:45:21Z",
+  "enriched_at": "2026-11-14T14:02:51Z",
   "source_trial_ids": [
     "NCT05389449"
   ],
@@ -27,10 +27,10 @@
     }
   },
   "mechanism": {
-    "chembl_id": "CHEMBL4250860",
-    "target_chembl_id": "CHEMBL2176771",
-    "target_name": "Complement factor D",
-    "mechanism_of_action_chembl": "Complement factor D inhibitor"
+    "chembl_id": null,
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
   },
   "fda_label": {
     "has_label": true,
@@ -98,13 +98,38 @@
     ]
   },
   "related_drugs": {
-    "method": "chembl_same_target",
+    "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
     "items": [
       {
-        "name": "LAMPALIZUMAB",
-        "chembl_id": "CHEMBL2109408",
-        "reason": "same target: Complement factor D"
+        "name": "Ravulizumab",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Regeneron Pharmaceuticals"
+      },
+      {
+        "name": "Pozelimab",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Regeneron Pharmaceuticals"
+      },
+      {
+        "name": "Cemdisiran",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Regeneron Pharmaceuticals"
+      },
+      {
+        "name": "Eculizumab",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Regeneron Pharmaceuticals"
+      },
+      {
+        "name": "NTQ5082 capsules 200 mg",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Nanjing Chia-tai Tianqing Pharmaceutical"
+      },
+      {
+        "name": "Eculizumab Injection",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Nanjing Chia-tai Tianqing Pharmaceutical"
       }
     ]
   }

@@ -1,18 +1,11 @@
 {
   "drug_name": "Pomalidomide",
   "slug": "pomalidomide",
-  "enriched_at": "2026-10-15T12:46:29Z",
+  "enriched_at": "2026-11-14T14:22:14Z",
   "source_trial_ids": [
-    "NCT03539744",
     "NCT06152575"
   ],
   "sponsors": [
-    {
-      "name": "AbbVie",
-      "ticker": "ABBV",
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001551152&type=10-K&dateb=&owner=include&count=40"
-    },
     {
       "name": "Pfizer",
       "ticker": "PFE",
@@ -62,13 +55,6 @@
   },
   "source_trials": [
     {
-      "nct_id": "NCT03539744",
-      "title": "A Study Designed to Evaluate the Safety and Efficacy of Venetoclax Plus Dexamethasone (VenDex) Compared With Pomalidomide Plus Dexamethasone (PomDex) in Participants With t(11;14)-Positive Relapsed or Refractory Multiple Myeloma.",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT03539744",
-      "has_results": false
-    },
-    {
       "nct_id": "NCT06152575",
       "title": "MagnetisMM-32: A Study to Learn About the Study Medicine Called Elranatamab in People With Multiple Myeloma (MM) That Has Come Back After Taking Other Treatments (Including Prior Treatment With an Anti-CD38 Antibody and Lenalidomide)",
       "status": "RECRUITING",
@@ -79,6 +65,18 @@
   "prior_results": {
     "ctgov_results_urls": [],
     "pubmed_articles": [
+      {
+        "pmid": "42970164",
+        "title": "Teclistamab Plus Daratumumab Versus Standard Daratumumab-Based Proteasome Inhibitor Combinations for Relapsed/Refractory Multiple Myeloma: An Inverse Probability of Treatment Weighting Analysis.",
+        "pubdate": "2026 Nov 2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42970164/"
+      },
+      {
+        "pmid": "42892628",
+        "title": "Final analysis results from DREAMM-3, a phase 3 study of belantamab mafodotin versus pomalidomide plus dexamethasone in patients with relapsed/refractory multiple myeloma.",
+        "pubdate": "2026 Oct 17",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42892628/"
+      },
       {
         "pmid": "42844619",
         "title": "T-cell-redirecting therapies in early relapsed multiple myeloma: a systematic review and network meta-analysis.",
@@ -96,18 +94,6 @@
         "title": "Exposure-response and dose simulation of belantamab mafodotin in combination with standards of care in patients with relapsed/refractory multiple myeloma.",
         "pubdate": "2026 Sep 3",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42687822/"
-      },
-      {
-        "pmid": "42669938",
-        "title": "A prospective, phase IV study of ixazomib, pomalidomide and dexamethasone in patients with relapsed or refractory multiple myeloma.",
-        "pubdate": "2026 Aug 30",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42669938/"
-      },
-      {
-        "pmid": "42530826",
-        "title": "Revolutionizing 2L+ Myeloma: A Podcast on the New Era of BCMA-Targeted Bispecific Antibody Therapies.",
-        "pubdate": "2026 Jul 30",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42530826/"
       }
     ]
   },

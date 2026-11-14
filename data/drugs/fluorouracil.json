@@ -1,7 +1,7 @@
 {
   "drug_name": "Fluorouracil",
   "slug": "fluorouracil",
-  "enriched_at": "2026-10-15T12:48:26Z",
+  "enriched_at": "2026-11-14T14:14:50Z",
   "source_trial_ids": [
     "NCT05568095"
   ],
@@ -29,7 +29,7 @@
   "mechanism": {
     "chembl_id": "CHEMBL185",
     "target_chembl_id": "CHEMBL1952",
-    "target_name": "Thymidylate synthase",
+    "target_name": null,
     "mechanism_of_action_chembl": "Thymidylate synthase inhibitor"
   },
   "fda_label": {
@@ -66,34 +66,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42861545",
-        "title": "Chemotherapy After Resection of Pancreatic Ductal Adenocarcinoma: Impact of Different Regimens in a Real-World Population.",
-        "pubdate": "2026 Oct 12",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42861545/"
+        "pmid": "42976418",
+        "title": "Pembrolizumab plus FLOT as neoadjuvant and adjuvant therapy in locally advanced gastric and gastroesophageal junction cancer: analysis of the FLOT cohort from the phase 3 KEYNOTE-585 study.",
+        "pubdate": "2026 Nov 3",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42976418/"
       },
       {
-        "pmid": "42845031",
-        "title": "Phase IIa Trial of Locoregional High-Dose Autologous Natural Killer Cell Therapy Combined with Hepatic Arterial Infusion Chemotherapy for Locally Advanced Hepatocellular Carcinoma.",
-        "pubdate": "2026 Oct 7",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42845031/"
+        "pmid": "42964102",
+        "title": "Prospective evaluation of combination oral S-1 and intravenous cisplatin in cancer patients with severe hepatic dysfunction - a feasibility, safety, and pharmacokinetic study.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42964102/"
       },
       {
-        "pmid": "42802176",
-        "title": "Disitamab vedotin for HER2-positive breast cancer with liver metastases: phase 3 results from the RC48-C006 phase 2/3 trial.",
-        "pubdate": "2026 Aug 27",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42802176/"
+        "pmid": "42955495",
+        "title": "Treatment Options After Recurrence Following Perioperative Durvalumab Plus FLOT for Gastric and Gastroesophageal Junction Adenocarcinoma: A Biology-First Sequencing Framework.",
+        "pubdate": "2026 Oct 28",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42955495/"
       },
       {
-        "pmid": "42743886",
-        "title": "Circulating free bacterial DNA as a novel biomarker for monitoring therapy response in patients with advanced pancreatic cancer.",
-        "pubdate": "2026 Oct 16",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42743886/"
+        "pmid": "42927765",
+        "title": "Neoadjuvant short-course radiotherapy followed by camrelizumab and chemotherapy versus standard of care for locally advanced rectal cancer (UNION): a prespecified interim analysis of a multicentre, open-label, randomised, phase 3 trial.",
+        "pubdate": "2026 Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42927765/"
       },
       {
-        "pmid": "42733563",
-        "title": "Short-term versus long-course neoadjuvant chemotherapy for resectable and borderline resectable pancreatic ductal adenocarcinoma (PACT-21 CASSANDRA): results from the second randomisation analysis of a randomised, open-label, 2 × 2 factorial phase 3 trial.",
-        "pubdate": "2026 Sep",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42733563/"
+        "pmid": "42914998",
+        "title": "Perioperative chemotherapy and stereotactic body radiotherapy versus perioperative chemotherapy alone in patients with high-risk, localised pancreatic cancer (MASTERPLAN): an open-label, phase 2, multicentre, randomised trial of the Australasian Gastro-Intestinal Trials Group.",
+        "pubdate": "2026 Oct 23",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42914998/"
       }
     ]
   },
@@ -102,54 +102,54 @@
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
     "items": [
       {
-        "name": "FLOXURIDINE",
+        "name": "CHEMBL917",
         "chembl_id": "CHEMBL917",
-        "reason": "same target: Thymidylate synthase"
+        "reason": "same target: CHEMBL1952"
       },
       {
-        "name": "PEMETREXED DISODIUM",
+        "name": "CHEMBL2360464",
         "chembl_id": "CHEMBL2360464",
-        "reason": "same target: Thymidylate synthase"
+        "reason": "same target: CHEMBL1952"
       },
       {
-        "name": "CAPECITABINE",
+        "name": "CHEMBL1773",
         "chembl_id": "CHEMBL1773",
-        "reason": "same target: Thymidylate synthase"
+        "reason": "same target: CHEMBL1952"
       },
       {
-        "name": "RALTITREXED",
+        "name": "CHEMBL225071",
         "chembl_id": "CHEMBL225071",
-        "reason": "same target: Thymidylate synthase"
+        "reason": "same target: CHEMBL1952"
       },
       {
-        "name": "OSI-7904",
+        "name": "CHEMBL169896",
         "chembl_id": "CHEMBL169896",
-        "reason": "same target: Thymidylate synthase"
+        "reason": "same target: CHEMBL1952"
       },
       {
-        "name": "NOLATREXED",
+        "name": "CHEMBL320775",
         "chembl_id": "CHEMBL320775",
-        "reason": "same target: Thymidylate synthase"
+        "reason": "same target: CHEMBL1952"
       },
       {
-        "name": "DOXIFLURIDINE",
+        "name": "CHEMBL1130",
         "chembl_id": "CHEMBL1130",
-        "reason": "same target: Thymidylate synthase"
+        "reason": "same target: CHEMBL1952"
       },
       {
-        "name": "TEGAFUR",
+        "name": "CHEMBL20883",
         "chembl_id": "CHEMBL20883",
-        "reason": "same target: Thymidylate synthase"
+        "reason": "same target: CHEMBL1952"
       },
       {
-        "name": "PEMETREXED",
+        "name": "CHEMBL225072",
         "chembl_id": "CHEMBL225072",
-        "reason": "same target: Thymidylate synthase"
+        "reason": "same target: CHEMBL1952"
       },
       {
-        "name": "PEMETREXED MONOHYDRATE",
+        "name": "CHEMBL5315053",
         "chembl_id": "CHEMBL5315053",
-        "reason": "same target: Thymidylate synthase"
+        "reason": "same target: CHEMBL1952"
       }
     ]
   }

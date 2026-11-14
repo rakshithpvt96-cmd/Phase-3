@@ -1,7 +1,7 @@
 {
   "drug_name": "Placebo",
   "slug": "placebo",
-  "enriched_at": "2026-11-13T15:26:12Z",
+  "enriched_at": "2026-11-14T14:05:25Z",
   "source_trial_ids": [
     "NCT02914535",
     "NCT04652882",
@@ -41,6 +41,7 @@
     "NCT06564818",
     "NCT06585787",
     "NCT06588855",
+    "NCT06660992",
     "NCT06664619",
     "NCT06719141",
     "NCT06775379",
@@ -180,6 +181,12 @@
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Guangdong%20Hengrui%20Pharmaceutical%20Co.%2C%20Ltd&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Haisco Pharmaceutical Group Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Haisco%20Pharmaceutical%20Group%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Hangzhou Zhongmei Huadong Pharmaceutical Co., Ltd.",
@@ -646,6 +653,13 @@
       "has_results": false
     },
     {
+      "nct_id": "NCT06660992",
+      "title": "A Study to Assess the Efficacy and Safety of HSK31858 in Participants With Non-Cystic Fibrosis Bronchiectasis",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06660992",
+      "has_results": false
+    },
+    {
       "nct_id": "NCT06664619",
       "title": "A Randomized, Double-Blind, Placebo-Controlled Trial on Efficacy and Safety of Fluticasone Propionate/Albuterol Sulfate Combination in Participants 12 Years and Older With Asthma",
       "status": "COMPLETED",
@@ -818,34 +832,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "43021552",
-        "title": "Olanzapine or prochlorperazine added to antiemetic therapy for persistent chemotherapy-induced nausea: an NCORP phase 3 RCT.",
+        "pmid": "43030783",
+        "title": "Orexin-2 Receptor Agonists in Narcolepsy: Restoring the Missing Signal.",
+        "pubdate": "2026 Nov 6",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43030783/"
+      },
+      {
+        "pmid": "43030167",
+        "title": "Examining the Gastrointestinal Effects of Solnul(®), a Prebiotic Resistant Potato Starch: A Replication Randomized, Double-Blind, Placebo-Controlled Clinical Trial in Healthy Adults.",
+        "pubdate": "2026 Oct 27",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43030167/"
+      },
+      {
+        "pmid": "43030142",
+        "title": "Comparative Effects of Different Carbohydrate-Protein Formulations on Resistance Training Adaptations in Healthy Young Men.",
+        "pubdate": "2026 Oct 25",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43030142/"
+      },
+      {
+        "pmid": "43030126",
+        "title": "Efficacy and Safety of Cuban Policosanol on Cognitive Function and Antioxidant Status in Adults with Subjective Memory Decline: A 12-Week Randomized, Double-Blinded, Placebo-Controlled Multicenter Trial.",
+        "pubdate": "2026 Oct 24",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43030126/"
+      },
+      {
+        "pmid": "43024878",
+        "title": "Smartphone-Delivered Cognitive Behavioral Digital Therapeutic for Children and Adolescents With Major Depressive Disorder: Protocol for a Multicenter, Randomized, Double-Blind, Placebo-Controlled Trial.",
         "pubdate": "2026 Nov 13",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43021552/"
-      },
-      {
-        "pmid": "43021372",
-        "title": "Effect of alpha-lipoic acid on atrial fibrillation and biomarkers of myocardial injury in patients undergoing coronary artery bypass surgery: study protocol of a randomized, double-blind, placebo-controlled clinical trial.",
-        "pubdate": "2026 Aug 18",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43021372/"
-      },
-      {
-        "pmid": "43020499",
-        "title": "Cervicothoracic sympathetic chain block Against placebo Saline injection Evaluation for post-COVID condition: a study protocol for the CeASE randomised controlled trial.",
-        "pubdate": "2026 Nov 12",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43020499/"
-      },
-      {
-        "pmid": "43018909",
-        "title": "Efficacy and Safety of Ecopipam for Tourette Syndrome: An updated GRADE-assessed systematic review and meta-analysis.",
-        "pubdate": "2026 Nov 12",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43018909/"
-      },
-      {
-        "pmid": "43018805",
-        "title": "Effects of Lactiplantibacillus plantarum SG5 on anxiety, insomnia, and gut microbiota composition in college students.",
-        "pubdate": "2026 Nov 12",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43018805/"
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43024878/"
       }
     ]
   },

@@ -1,7 +1,7 @@
 {
   "drug_name": "Carfilzomib",
   "slug": "carfilzomib",
-  "enriched_at": "2026-10-15T12:45:03Z",
+  "enriched_at": "2026-11-14T14:02:09Z",
   "source_trial_ids": [
     "NCT05552976",
     "NCT06152575"
@@ -34,10 +34,10 @@
     }
   },
   "mechanism": {
-    "chembl_id": "CHEMBL451887",
-    "target_chembl_id": "CHEMBL2364701",
-    "target_name": "26S proteasome",
-    "mechanism_of_action_chembl": "26S proteasome inhibitor"
+    "chembl_id": null,
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
   },
   "fda_label": {
     "has_label": true,
@@ -80,6 +80,12 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42970164",
+        "title": "Teclistamab Plus Daratumumab Versus Standard Daratumumab-Based Proteasome Inhibitor Combinations for Relapsed/Refractory Multiple Myeloma: An Inverse Probability of Treatment Weighting Analysis.",
+        "pubdate": "2026 Nov 2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42970164/"
+      },
+      {
         "pmid": "42699035",
         "title": "From toxicity to immunity: Evaluating CAR-T and conventional therapies in multiple myeloma through quality-adjusted life year (QALY) outcomes.",
         "pubdate": "2026",
@@ -102,43 +108,22 @@
         "title": "Plain language summary of publication of how long people with relapsed multiple myeloma lived after treatment in the IKEMA study: Isatuximab plus carfilzomib and dexamethasone versus carfilzomib and dexamethasone.",
         "pubdate": "2026 Jun",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42363804/"
-      },
-      {
-        "pmid": "42289183",
-        "title": "Mezigdomide, carfilzomib, and dexamethasone versus carfilzomib and dexamethasone in patients with relapsed or refractory multiple myeloma (SUCCESSOR-2): a phase 3, open-label, randomised controlled trial.",
-        "pubdate": "2026 Jul 18",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42289183/"
       }
     ]
   },
   "related_drugs": {
-    "method": "chembl_same_target",
+    "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
     "items": [
       {
-        "name": "BORTEZOMIB",
-        "chembl_id": "CHEMBL325041",
-        "reason": "same target: 26S proteasome"
+        "name": "Motixafortide+G-CSF",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Guangzhou Gloria Biosciences Co., Ltd."
       },
       {
-        "name": "IXAZOMIB CITRATE",
-        "chembl_id": "CHEMBL3545432",
-        "reason": "same target: 26S proteasome"
-      },
-      {
-        "name": "OPROZOMIB",
-        "chembl_id": "CHEMBL2103884",
-        "reason": "same target: 26S proteasome"
-      },
-      {
-        "name": "IXAZOMIB",
-        "chembl_id": "CHEMBL2141296",
-        "reason": "same target: 26S proteasome"
-      },
-      {
-        "name": "BORTEZOMIB D-MANNITOL",
-        "chembl_id": "CHEMBL5315122",
-        "reason": "same target: 26S proteasome"
+        "name": "Placebo+G-CSF",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Guangzhou Gloria Biosciences Co., Ltd."
       }
     ]
   }

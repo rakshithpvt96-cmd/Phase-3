@@ -1,19 +1,12 @@
 {
   "drug_name": "Dexamethasone",
   "slug": "dexamethasone",
-  "enriched_at": "2026-10-15T12:45:34Z",
+  "enriched_at": "2026-11-14T14:03:06Z",
   "source_trial_ids": [
-    "NCT03539744",
     "NCT05552976",
     "NCT06152575"
   ],
   "sponsors": [
-    {
-      "name": "AbbVie",
-      "ticker": "ABBV",
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001551152&type=10-K&dateb=&owner=include&count=40"
-    },
     {
       "name": "Bristol-Myers Squibb",
       "ticker": "BMY",
@@ -59,7 +52,7 @@
     "openfda_generic_names": [
       "DEXAMETHASONE"
     ],
-    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=191c1a56-194f-4876-b501-2f8aee447d83",
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b15200fb-1826-472b-a907-e677a272513b",
     "note": null,
     "further_reading": null
   },
@@ -68,13 +61,6 @@
     "slug": "multiple-myeloma"
   },
   "source_trials": [
-    {
-      "nct_id": "NCT03539744",
-      "title": "A Study Designed to Evaluate the Safety and Efficacy of Venetoclax Plus Dexamethasone (VenDex) Compared With Pomalidomide Plus Dexamethasone (PomDex) in Participants With t(11;14)-Positive Relapsed or Refractory Multiple Myeloma.",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT03539744",
-      "has_results": false
-    },
     {
       "nct_id": "NCT05552976",
       "title": "A Study to Evaluate Mezigdomide in Combination With Carfilzomib and Dexamethasone (MeziKD) Versus Carfilzomib and Dexamethasone (Kd) in Participants With Relapsed or Refractory Multiple Myeloma (SUCCESSOR-2)",
@@ -94,34 +80,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42844619",
-        "title": "T-cell-redirecting therapies in early relapsed multiple myeloma: a systematic review and network meta-analysis.",
-        "pubdate": "2026 Oct 7",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42844619/"
+        "pmid": "43031491",
+        "title": "EBNEO Commentary: Dexamethasone Eye Drops to Prevent Treatment-Requiring Retinopathy of Prematurity: The DROPROP Randomised Clinical Trial.",
+        "pubdate": "2026 Nov 14",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43031491/"
       },
       {
-        "pmid": "42820104",
-        "title": "Liposomal Bupivacaine versus Bupivacaine Hydrochloride Plus Dexamethasone for Combined Adductor Canal and iPACK Blocks in Total Knee Arthroplasty: A Randomized Controlled Trial.",
+        "pmid": "43022007",
+        "title": "Transcutaneous electrical acupoint stimulation versus sham stimulation and dexamethasone versus amisulpride for preventing postoperative nausea and vomiting after laparoscopic gynecologic surgery: protocol for a randomized 2 × 2 factorial trial.",
         "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42820104/"
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43022007/"
       },
       {
-        "pmid": "42822478",
-        "title": "Felzartamab plus lenalidomide-dexamethasone versus lenalidomide-dexamethasone for relapsed or refractory multiple myeloma: an open-label, parallel-controlled, randomised, phase 3 trial.",
-        "pubdate": "2026 Oct",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42822478/"
+        "pmid": "43021552",
+        "title": "Olanzapine or prochlorperazine added to antiemetic therapy for persistent chemotherapy-induced nausea: an NCORP phase 3 RCT.",
+        "pubdate": "2026 Nov 13",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43021552/"
       },
       {
-        "pmid": "42822221",
-        "title": "Efficacy and safety of intracochlear corticosteroid delivery as salvage therapy for complete sudden sensorineural hearing loss.",
-        "pubdate": "2026 Sep 19",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42822221/"
+        "pmid": "43005137",
+        "title": "PC6 injection enhanced the preventive effect against postoperative nausea of granisetron compared with intravenous injection in gynecological laparoscopic patients: a randomized controlled study.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43005137/"
       },
       {
-        "pmid": "42816859",
-        "title": "Intramasseteric versus pterygomandibular space dexamethasone injection for oedema and trismus after mandibular third molar surgery: a randomised split-mouth clinical trial.",
-        "pubdate": "2026 Sep 26",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42816859/"
+        "pmid": "42970164",
+        "title": "Teclistamab Plus Daratumumab Versus Standard Daratumumab-Based Proteasome Inhibitor Combinations for Relapsed/Refractory Multiple Myeloma: An Inverse Probability of Treatment Weighting Analysis.",
+        "pubdate": "2026 Nov 2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42970164/"
       }
     ]
   },
@@ -129,31 +115,6 @@
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
     "items": [
-      {
-        "name": "Elranatamab",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Pfizer"
-      },
-      {
-        "name": "Elotuzumab",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Pfizer"
-      },
-      {
-        "name": "Pomalidomide",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Pfizer"
-      },
-      {
-        "name": "Bortezomib",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Pfizer"
-      },
-      {
-        "name": "Carfilzomib",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Pfizer"
-      },
       {
         "name": "Motixafortide+G-CSF",
         "chembl_id": null,

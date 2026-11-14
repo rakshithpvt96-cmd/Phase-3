@@ -1,9 +1,8 @@
 {
   "drug_name": "Eribulin",
   "slug": "eribulin",
-  "enriched_at": "2026-10-15T12:45:46Z",
+  "enriched_at": "2026-11-14T14:03:16Z",
   "source_trial_ids": [
-    "NCT06343948",
     "NCT06519370"
   ],
   "sponsors": [
@@ -12,12 +11,6 @@
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Shanghai%20Fudan-Zhangjiang%20Bio-Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
-      "name": "Sichuan Baili Pharmaceutical Co., Ltd.",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Sichuan%20Baili%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
@@ -52,22 +45,15 @@
     "openfda_generic_names": [
       "ERIBULIN MESYLATE"
     ],
-    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=64bf3c30-f06a-3615-ca5e-eb4154d371d0",
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9bfd8ac7-57e2-4c9d-add8-26502cfb54a8",
     "note": null,
     "further_reading": null
   },
   "condition": {
-    "raw": "HR+HER2- Breast Cancer",
-    "slug": "hr-her2-breast-cancer"
+    "raw": "Triple Negative Breast Cancer",
+    "slug": "triple-negative-breast-cancer"
   },
   "source_trials": [
-    {
-      "nct_id": "NCT06343948",
-      "title": "A Study Comparing BL-B01D1 With Chemotherapy of Physician's Choice in Patients With Unresectable Locally Advanced, Recurrent, or Metastatic HR+HER2- Breast Cancer(PANKU-Breast01)",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06343948",
-      "has_results": false
-    },
     {
       "nct_id": "NCT06519370",
       "title": "FDA018-ADC vs Investigator's Choice Chemotherapy to Treat Locally Advanced, Recurrent or Metastatic Triple-negative Breast Cancer",
@@ -80,6 +66,24 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42984708",
+        "title": "Eribulin mesylate in combination with ivonescimab as first-line treatment for unresectable locally advanced or metastatic triple-negative breast cancer(EMIT): study protocol for a single-arm, multicenter clinical trial.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42984708/"
+      },
+      {
+        "pmid": "42933459",
+        "title": "Izalontamab brengitecan for HR+/HER2- breast cancer in China (PANKU-Breast01): a randomised, phase 3 trial.",
+        "pubdate": "2026 Oct 26",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42933459/"
+      },
+      {
+        "pmid": "42919625",
+        "title": "Sintilimab plus eribulin and carboplatin in patients with metastatic triple-negative breast cancer (SECURE): a phase II, multicenter trial.",
+        "pubdate": "2026 Oct 23",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42919625/"
+      },
+      {
         "pmid": "42279279",
         "title": "The Evolving Landscape of Systemic Therapy for Liposarcoma.",
         "pubdate": "2026 May 22",
@@ -90,24 +94,6 @@
         "title": "Minimal important differences of EORTC QLQ-C30 and QLQ-BR23 for metastatic breast cancer patients in a Japanese population: results from the RESQ trial.",
         "pubdate": "2026 May",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41910921/"
-      },
-      {
-        "pmid": "41879493",
-        "title": "Marine-Derived Anticancer Compounds and their Clinical Status.",
-        "pubdate": "2026 Mar 23",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41879493/"
-      },
-      {
-        "pmid": "39814865",
-        "title": "Cost-effectiveness analysis of eribulin versus dacarbazine in patients with advanced liposarcoma.",
-        "pubdate": "2025 Jan 15",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/39814865/"
-      },
-      {
-        "pmid": "39516370",
-        "title": "Phase 1b/2 study of the liposomal formulation of eribulin (E7389-LF) in combination with nivolumab: Results from the phase 2 esophageal cancer cohort.",
-        "pubdate": "2024 Sep 4",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/39516370/"
       }
     ]
   },

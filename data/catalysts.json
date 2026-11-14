@@ -1,60 +1,12 @@
 {
-  "generated_at": "2026-11-13T17:00:16Z",
+  "generated_at": "2026-11-14T13:59:00Z",
   "window_upcoming_days": 14,
   "window_lookback_days": [
     1,
     90
   ],
-  "trial_count": 263,
+  "trial_count": 264,
   "trials": [
-    {
-      "nct_id": "NCT07655180",
-      "title": "Safety and Serum Virus Neutralizing Antibody Responses of VYD2311, a COVID-19 Vaccine, and Coadministered VYD2311 With a COVID-19 Vaccine",
-      "status": "COMPLETED",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "Invivyd, Inc.",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-08-15",
-      "primary_completion_date_type": "ACTUAL",
-      "window": "lookback",
-      "conditions": [
-        "COVID-19"
-      ],
-      "interventions": [
-        {
-          "name": "COVID-19 mRNA vaccine",
-          "type": "DRUG"
-        },
-        {
-          "name": "VYD2311",
-          "type": "DRUG"
-        },
-        {
-          "name": "Placebo (Normal Saline)",
-          "type": "DRUG"
-        }
-      ],
-      "drug_names": [
-        "COVID-19 mRNA vaccine",
-        "VYD2311",
-        "Placebo (Normal Saline)"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT07655180",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "Invivyd, Inc.",
-        "ticker": "IVVD",
-        "cik": "0001832038",
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001832038&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:25Z"
-      }
-    },
     {
       "nct_id": "NCT05984277",
       "title": "A Global Study of Volrustomig (MEDI5752) Plus Chemotherapy Versus Pembrolizumab Plus Chemotherapy for Participants With Metastatic Non-small Cell Lung Cancer.",
@@ -11052,7 +11004,7 @@
       "sponsor_class": "INDUSTRY",
       "primary_completion_date": "2026-11-13",
       "primary_completion_date_type": "ESTIMATED",
-      "window": "upcoming",
+      "window": "lookback",
       "conditions": [
         "Breast Cancer"
       ],
@@ -11892,6 +11844,100 @@
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001061983&type=10-K&dateb=&owner=include&count=40",
         "cached_at": "2026-11-09T17:16:22Z"
+      }
+    },
+    {
+      "nct_id": "NCT06660992",
+      "title": "A Study to Assess the Efficacy and Safety of HSK31858 in Participants With Non-Cystic Fibrosis Bronchiectasis",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Haisco Pharmaceutical Group Co., Ltd.",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-11-28",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Non-cystic Fibrosis Bronchiectasis"
+      ],
+      "interventions": [
+        {
+          "name": "HSK31858, tablet",
+          "type": "DRUG"
+        },
+        {
+          "name": "Placebo",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "HSK31858, tablet",
+        "Placebo"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06660992",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Haisco Pharmaceutical Group Co., Ltd.",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Haisco%20Pharmaceutical%20Group%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-11-14T13:59:00Z"
+      }
+    },
+    {
+      "nct_id": "NCT07103148",
+      "title": "A Phase III Control Study of the Safety and Immunogenicity of vYF in Pediatric Population",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Sanofi",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-11-28",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Yellow Fever Immunization"
+      ],
+      "interventions": [
+        {
+          "name": "Yellow fever vaccine (live)",
+          "type": "BIOLOGICAL"
+        },
+        {
+          "name": "Yellow fever vaccine (live)",
+          "type": "BIOLOGICAL"
+        },
+        {
+          "name": "Yellow fever vaccine (live)",
+          "type": "BIOLOGICAL"
+        },
+        {
+          "name": "Measles, combinations with mumps and rubella, live attenuated",
+          "type": "BIOLOGICAL"
+        }
+      ],
+      "drug_names": [
+        "Yellow fever vaccine (live)",
+        "Measles, combinations with mumps and rubella, live attenuated"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT07103148",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Sanofi",
+        "ticker": "SNY",
+        "cik": "0001121404",
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001121404&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-11-09T17:16:29Z"
       }
     }
   ]

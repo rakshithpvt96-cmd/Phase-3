@@ -1,0 +1,115 @@
+{
+  "drug_name": "HSK31858, tablet",
+  "slug": "hsk31858-tablet",
+  "enriched_at": "2026-11-14T14:17:04Z",
+  "source_trial_ids": [
+    "NCT06660992"
+  ],
+  "sponsors": [
+    {
+      "name": "Haisco Pharmaceutical Group Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Haisco%20Pharmaceutical%20Group%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": null
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL635",
+    "target_chembl_id": "CHEMBL2034",
+    "target_name": "Glucocorticoid receptor",
+    "mechanism_of_action_chembl": "Glucocorticoid receptor agonist"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=HSK31858%2C%20tablet+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=HSK31858%2C%20tablet+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=HSK31858%2C%20tablet+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Non-cystic Fibrosis Bronchiectasis",
+    "slug": "non-cystic-fibrosis-bronchiectasis"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06660992",
+      "title": "A Study to Assess the Efficacy and Safety of HSK31858 in Participants With Non-Cystic Fibrosis Bronchiectasis",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06660992",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "HALCINONIDE",
+        "chembl_id": "CHEMBL1200845",
+        "reason": "same target: Glucocorticoid receptor"
+      },
+      {
+        "name": "MEDRYSONE",
+        "chembl_id": "CHEMBL1201173",
+        "reason": "same target: Glucocorticoid receptor"
+      },
+      {
+        "name": "DIFLUPREDNATE",
+        "chembl_id": "CHEMBL1201749",
+        "reason": "same target: Glucocorticoid receptor"
+      },
+      {
+        "name": "BETAMETHASONE",
+        "chembl_id": "CHEMBL632",
+        "reason": "same target: Glucocorticoid receptor"
+      },
+      {
+        "name": "HYDROCORTISONE",
+        "chembl_id": "CHEMBL389621",
+        "reason": "same target: Glucocorticoid receptor"
+      },
+      {
+        "name": "TRIAMCINOLONE ACETONIDE",
+        "chembl_id": "CHEMBL1504",
+        "reason": "same target: Glucocorticoid receptor"
+      },
+      {
+        "name": "HYDROCORTISONE CYPIONATE",
+        "chembl_id": "CHEMBL1549",
+        "reason": "same target: Glucocorticoid receptor"
+      },
+      {
+        "name": "CLOBETASOL PROPIONATE",
+        "chembl_id": "CHEMBL1159650",
+        "reason": "same target: Glucocorticoid receptor"
+      },
+      {
+        "name": "HYDROCORTISONE SODIUM SUCCINATE",
+        "chembl_id": "CHEMBL1200495",
+        "reason": "same target: Glucocorticoid receptor"
+      },
+      {
+        "name": "FLUOROMETHOLONE",
+        "chembl_id": "CHEMBL1200600",
+        "reason": "same target: Glucocorticoid receptor"
+      }
+    ]
+  }
+}

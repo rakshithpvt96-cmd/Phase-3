@@ -1,7 +1,7 @@
 {
   "drug_name": "Leucovorin",
   "slug": "leucovorin",
-  "enriched_at": "2026-10-15T12:48:47Z",
+  "enriched_at": "2026-11-14T14:17:45Z",
   "source_trial_ids": [
     "NCT05568095"
   ],
@@ -45,7 +45,7 @@
     "openfda_generic_names": [
       "LEUCOVORIN CALCIUM"
     ],
-    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6f14fa40-97ab-4ec5-b66b-793d6d1abac9",
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=82c445f5-4cb7-4457-af19-3b5b8a121b4f",
     "note": null,
     "further_reading": null
   },
@@ -66,6 +66,24 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42976418",
+        "title": "Pembrolizumab plus FLOT as neoadjuvant and adjuvant therapy in locally advanced gastric and gastroesophageal junction cancer: analysis of the FLOT cohort from the phase 3 KEYNOTE-585 study.",
+        "pubdate": "2026 Nov 3",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42976418/"
+      },
+      {
+        "pmid": "42955495",
+        "title": "Treatment Options After Recurrence Following Perioperative Durvalumab Plus FLOT for Gastric and Gastroesophageal Junction Adenocarcinoma: A Biology-First Sequencing Framework.",
+        "pubdate": "2026 Oct 28",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42955495/"
+      },
+      {
+        "pmid": "42914998",
+        "title": "Perioperative chemotherapy and stereotactic body radiotherapy versus perioperative chemotherapy alone in patients with high-risk, localised pancreatic cancer (MASTERPLAN): an open-label, phase 2, multicentre, randomised trial of the Australasian Gastro-Intestinal Trials Group.",
+        "pubdate": "2026 Oct 23",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42914998/"
+      },
+      {
         "pmid": "42861545",
         "title": "Chemotherapy After Resection of Pancreatic Ductal Adenocarcinoma: Impact of Different Regimens in a Real-World Population.",
         "pubdate": "2026 Oct 12",
@@ -76,24 +94,6 @@
         "title": "Circulating free bacterial DNA as a novel biomarker for monitoring therapy response in patients with advanced pancreatic cancer.",
         "pubdate": "2026 Oct 16",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42743886/"
-      },
-      {
-        "pmid": "42733563",
-        "title": "Short-term versus long-course neoadjuvant chemotherapy for resectable and borderline resectable pancreatic ductal adenocarcinoma (PACT-21 CASSANDRA): results from the second randomisation analysis of a randomised, open-label, 2 × 2 factorial phase 3 trial.",
-        "pubdate": "2026 Sep",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42733563/"
-      },
-      {
-        "pmid": "42731846",
-        "title": "FOLFOX-based transarterial infusion chemotherapy for unresectable colorectal cancer: protocol of an open-label, multicentre, randomised, controlled, phase II trial.",
-        "pubdate": "2026 Sep 11",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42731846/"
-      },
-      {
-        "pmid": "42716074",
-        "title": "Perioperative durvalumab plus fluorouracil, leucovorin, oxaliplatin, and docetaxel for resectable gastric and gastro-oesophageal junction adenocarcinoma (MATTERHORN): final results of overall survival and event-free survival by pathological response in a global, randomised, double-blind, placebo-controlled, multicentre, phase 3 trial.",
-        "pubdate": "2026 Sep 19",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42716074/"
       }
     ]
   },
