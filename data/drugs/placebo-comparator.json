@@ -1,23 +1,16 @@
 {
-  "drug_name": "Placebo comparator",
+  "drug_name": "Placebo Comparator",
   "slug": "placebo-comparator",
-  "enriched_at": "2026-09-28T15:14:40Z",
+  "enriched_at": "2026-11-15T14:40:09Z",
   "source_trial_ids": [
-    "NCT05232279",
-    "NCT06101745"
+    "NCT06641466"
   ],
   "sponsors": [
     {
-      "name": "Curadel Surgical Innovations, Inc.",
-      "ticker": null,
+      "name": "Pfizer",
+      "ticker": "PFE",
       "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Curadel%20Surgical%20Innovations%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
-      "name": "RDC Clinical Pty Ltd",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=RDC%20Clinical%20Pty%20Ltd&type=10-K&dateb=&owner=include&count=40"
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000078003&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
@@ -45,28 +38,21 @@
     "dailymed_url": null,
     "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
     "further_reading": {
-      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Placebo%20comparator+mechanism+of+action",
-      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Placebo%20comparator+pharmacokinetics",
-      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Placebo%20comparator+efficacy+phase+3"
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Placebo%20Comparator+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Placebo%20Comparator+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Placebo%20Comparator+efficacy+phase+3"
     }
   },
   "condition": {
-    "raw": "Erectile Dysfunction",
-    "slug": "erectile-dysfunction"
+    "raw": "Menstrual Migraine",
+    "slug": "menstrual-migraine"
   },
   "source_trials": [
     {
-      "nct_id": "NCT05232279",
-      "title": "Effect of Testofen on Erectile Function in an Adult Male Population",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT05232279",
-      "has_results": false
-    },
-    {
-      "nct_id": "NCT06101745",
-      "title": "Trial to Visualize the Ureters With Nizaracianine Triflutate in Adults Undergoing Abdominopelvic Surgery",
+      "nct_id": "NCT06641466",
+      "title": "A Study to Learn About the Study Medicine Called Rimegepant in Women When Used for Intermittent Prevention of Menstrual Migraine",
       "status": "RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06101745",
+      "url": "https://clinicaltrials.gov/study/NCT06641466",
       "has_results": false
     }
   ],
@@ -74,34 +60,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42802029",
-        "title": "Perioperative Durvalumab for Resectable NSCLC: Updated Outcomes for Japanese Patients in AEGEAN.",
-        "pubdate": "2026 Sep 27",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42802029/"
+        "pmid": "43034128",
+        "title": "Ginseng Guben Oral Liquid, a Chinese patent medicine, for post-COVID-19 fatigue: A multicenter randomized controlled trial.",
+        "pubdate": "2026 Oct 29",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43034128/"
       },
       {
-        "pmid": "42799782",
-        "title": "Photobiomodulation versus ischemic preconditioning for protection against exercise-induced muscle damage: protocol for a randomized controlled trial.",
-        "pubdate": "2026 Sep 26",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42799782/"
+        "pmid": "43032907",
+        "title": "Efficacy and safety of teneligliptin as add-on therapy in patients with type 2 diabetes treated with empagliflozin and metformin: A 24-week, randomized, double-blind, placebo-controlled phase 3 trial.",
+        "pubdate": "2026 Nov 14",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43032907/"
       },
       {
-        "pmid": "42799334",
-        "title": "Prevention of radial artery occlusion with rivaroxaban after interventional coronary interventions using transradial access: Results of a single-center randomized clinical trial.",
-        "pubdate": "2026 Sep 26",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42799334/"
+        "pmid": "43032675",
+        "title": "Assessment of efficacy and safety of SlimSEB(®) for weight reduction in overweight and obese subjects at risk of type 2 diabetes mellitus: a prospective, randomized, double-blind, parallel-group, controlled, interventional clinical study.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43032675/"
       },
       {
-        "pmid": "42797557",
-        "title": "Estimating and Projecting Efficacy of Monoclonal Antibodies Against Respiratory Syncytial Virus Beyond Clinical Trial Periods.",
-        "pubdate": "2026 Aug 26",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42797557/"
+        "pmid": "43032564",
+        "title": "Tavapadon in Parkinson's disease: D1/D5 receptor pharmacology, clinical evidence, and translational perspectives.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43032564/"
       },
       {
-        "pmid": "42796966",
-        "title": "Omega-3 Supplementation Modulates Whole-Blood EPA and DHA Without Improving Patient-Reported Outcomes in Youth with Migraine: A Quasi-Randomized Pilot Trial.",
-        "pubdate": "2026 Sep 11",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42796966/"
+        "pmid": "43030783",
+        "title": "Orexin-2 Receptor Agonists in Narcolepsy: Restoring the Missing Signal.",
+        "pubdate": "2026 Nov 6",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43030783/"
       }
     ]
   },

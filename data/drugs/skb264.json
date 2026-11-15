@@ -1,7 +1,7 @@
 {
   "drug_name": "SKB264",
   "slug": "skb264",
-  "enriched_at": "2026-11-08T14:24:59Z",
+  "enriched_at": "2026-11-15T14:37:54Z",
   "source_trial_ids": [
     "NCT06448312"
   ],
@@ -74,16 +74,6 @@
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
     "items": [
       {
-        "name": "Durvalumab",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: AstraZeneca"
-      },
-      {
-        "name": "Domvanalimab",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: AstraZeneca"
-      },
-      {
         "name": "JDQ443",
         "chembl_id": null,
         "reason": "same indication trial, sponsor: Novartis Pharmaceuticals"
@@ -110,6 +100,16 @@
       },
       {
         "name": "Sintilimab",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Innovent Biologics (Suzhou) Co. Ltd."
+      },
+      {
+        "name": "Cisplatin",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Innovent Biologics (Suzhou) Co. Ltd."
+      },
+      {
+        "name": "Nab paclitaxel",
         "chembl_id": null,
         "reason": "same indication trial, sponsor: Innovent Biologics (Suzhou) Co. Ltd."
       }

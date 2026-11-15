@@ -1,7 +1,7 @@
 {
   "drug_name": "Encorafenib",
   "slug": "encorafenib",
-  "enriched_at": "2026-10-16T13:14:22Z",
+  "enriched_at": "2026-11-15T14:36:26Z",
   "source_trial_ids": [
     "NCT04657991"
   ],
@@ -68,7 +68,7 @@
       {
         "pmid": "42744133",
         "title": "Biomarker-guided treatment selection in metastatic colorectal cancer: A critical review of established and emerging therapies.",
-        "pubdate": "2026 Sep 15",
+        "pubdate": "2026 Nov",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42744133/"
       },
       {
@@ -100,27 +100,6 @@
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": [
-      {
-        "name": "Fianlimab",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Regeneron Pharmaceuticals"
-      },
-      {
-        "name": "Cemiplimab",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Regeneron Pharmaceuticals"
-      },
-      {
-        "name": "Pembrolizumab",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Regeneron Pharmaceuticals"
-      },
-      {
-        "name": "Placebo",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Regeneron Pharmaceuticals"
-      }
-    ]
+    "items": []
   }
 }

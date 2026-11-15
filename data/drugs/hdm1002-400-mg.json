@@ -1,7 +1,7 @@
 {
   "drug_name": "HDM1002 400 mg",
   "slug": "hdm1002-400-mg",
-  "enriched_at": "2026-11-08T14:26:02Z",
+  "enriched_at": "2026-11-15T14:39:29Z",
   "source_trial_ids": [
     "NCT07193459"
   ],
@@ -61,16 +61,6 @@
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
     "items": [
       {
-        "name": "Retatrutide",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Eli Lilly and Company"
-      },
-      {
-        "name": "Placebo",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Eli Lilly and Company"
-      },
-      {
         "name": "Farxiga® (dapagliflozin) + Onglyza® (saxagliptin) + Metformin Oral Mix Treat type 2 diabetes",
         "chembl_id": null,
         "reason": "same indication trial, sponsor: Han Xu, M.D., Ph.D., FAPCR, Medical Director,, IRB Chair"
@@ -79,6 +69,16 @@
         "name": "China Import (dapagliflozin) + China Import (saxagliptin) + Metformin Oral Mix Treat type 2 diabetes",
         "chembl_id": null,
         "reason": "same indication trial, sponsor: Han Xu, M.D., Ph.D., FAPCR, Medical Director,, IRB Chair"
+      },
+      {
+        "name": "Retatrutide",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Eli Lilly and Company"
+      },
+      {
+        "name": "Placebo",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Eli Lilly and Company"
       },
       {
         "name": "Prusogliptin, Dapagliflozin(high dose), Dapagliflozin (low dose) placebo, plus metformin XR",

@@ -1,7 +1,7 @@
 {
   "drug_name": "ESA",
   "slug": "esa",
-  "enriched_at": "2026-10-16T13:23:53Z",
+  "enriched_at": "2026-11-15T14:39:01Z",
   "source_trial_ids": [
     "NCT07494409"
   ],
@@ -14,6 +14,12 @@
     }
   ],
   "identity": {
+    "pubchem_cid": 11668,
+    "iupac_name": "ethanesulfonic acid",
+    "molecular_formula": "C2H6O3S",
+    "molecular_weight": "110.13",
+    "canonical_smiles": null,
+    "inchikey": "CCIVGXIOQKPBKL-UHFFFAOYSA-N",
     "rxnorm": {
       "rxcui": "2636785",
       "generic_name": "esafoxolaner",
@@ -60,6 +66,12 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42893801",
+        "title": "Evaluating Darbepoetin Treatment Strategies for Managing Anaemia in Haemodialysis Patients: Effects on All-Cause Mortality From a Target Trial Emulation Using Electronic Health Record Data.",
+        "pubdate": "2026 Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42893801/"
+      },
+      {
         "pmid": "42751311",
         "title": "Efficacy and Safety of Pritelivir vs Foscarnet for the Treatment of Acyclovir-Refractory Herpes Simplex Virus Infection in Immunocompromised Adults: A Randomized, Open-Label Phase 2 Trial.",
         "pubdate": "2026 Sep",
@@ -68,7 +80,7 @@
       {
         "pmid": "42676001",
         "title": "Bridging the Gap: A Systematic Review of Modern Hemophilia Therapies and Global Inequities in Clinical Trial Participation.",
-        "pubdate": "2026 Aug 31",
+        "pubdate": "2026 Nov-Dec",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42676001/"
       },
       {
@@ -82,12 +94,6 @@
         "title": "Roxadustat induced fetal hemoglobin in anemic CKD patients: a dual-center real-world observational cohort study.",
         "pubdate": "2026 Mar 4",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41781902/"
-      },
-      {
-        "pmid": "41654788",
-        "title": "Efficacy and safety analysis of different treatment schemes of erythropoiesis-stimulating agents for chronic kidney disease with anemia: a meta analysis between 2000-2024.",
-        "pubdate": "2026 Feb 7",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41654788/"
       }
     ]
   },

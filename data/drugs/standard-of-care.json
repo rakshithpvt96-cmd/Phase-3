@@ -1,0 +1,99 @@
+{
+  "drug_name": "Standard of Care",
+  "slug": "standard-of-care",
+  "enriched_at": "2026-11-15T14:40:26Z",
+  "source_trial_ids": [
+    "NCT06641466"
+  ],
+  "sponsors": [
+    {
+      "name": "Pfizer",
+      "ticker": "PFE",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000078003&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "215502",
+      "generic_name": "Azo Urinary Pain Relief",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL261657",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Standard%20of%20Care+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Standard%20of%20Care+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Standard%20of%20Care+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Menstrual Migraine",
+    "slug": "menstrual-migraine"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06641466",
+      "title": "A Study to Learn About the Study Medicine Called Rimegepant in Women When Used for Intermittent Prevention of Menstrual Migraine",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06641466",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "43034040",
+        "title": "Effectiveness and safety of lumbar erector spinae plane block versus no locoregional block in hip surgery: a randomized controlled trial.",
+        "pubdate": "2026 Nov 14",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43034040/"
+      },
+      {
+        "pmid": "43032513",
+        "title": "Access to clinical cancer genomics and precision oncology-based care in North America.",
+        "pubdate": "2027 Feb",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43032513/"
+      },
+      {
+        "pmid": "43026905",
+        "title": "Pulmonary Large-Cell Neuroendocrine Carcinoma: Molecular Heterogeneity, Current Treatment and the Emerging Precision-Oncology Paradigm.",
+        "pubdate": "2026 Nov 7",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43026905/"
+      },
+      {
+        "pmid": "43026840",
+        "title": "Synergizing Against RAS: The Evolving Landscape of Targeted Combinations in Pancreatic Cancer.",
+        "pubdate": "2026 Nov 2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43026840/"
+      },
+      {
+        "pmid": "43026528",
+        "title": "Optimal initial PEEP in management of preterm infant with respiratory distress syndrome: a prospective study at newborn unit of Moi Teaching and Referral Hospital.",
+        "pubdate": "2026 Aug 19",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43026528/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

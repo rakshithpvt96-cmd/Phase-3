@@ -1,10 +1,8 @@
 {
   "drug_name": "Durvalumab",
   "slug": "durvalumab",
-  "enriched_at": "2026-10-16T13:13:38Z",
+  "enriched_at": "2026-11-15T14:36:22Z",
   "source_trial_ids": [
-    "NCT05211895",
-    "NCT05221840",
     "NCT05557838"
   ],
   "sponsors": [
@@ -46,24 +44,10 @@
     "further_reading": null
   },
   "condition": {
-    "raw": "Non-Small Cell Lung Cancer",
-    "slug": "non-small-cell-lung-cancer"
+    "raw": "Hepatocellular Carcinoma",
+    "slug": "hepatocellular-carcinoma"
   },
   "source_trials": [
-    {
-      "nct_id": "NCT05211895",
-      "title": "A Global Study to Assess the Effects of Durvalumab + Domvanalimab Following Concurrent Chemoradiation in Participants With Stage III Unresectable NSCLC",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT05211895",
-      "has_results": false
-    },
-    {
-      "nct_id": "NCT05221840",
-      "title": "A Global Study to Assess the Effects of Durvalumab With Oleclumab or Durvalumab With Monalizumab Following Concurrent Chemoradiation in Patients With Stage III Unresectable Non-Small Cell Lung Cancer",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT05221840",
-      "has_results": false
-    },
     {
       "nct_id": "NCT05557838",
       "title": "Durvalumab Plus Tremelimumab as First-line Treatment in Chinese Patients With uHCC",
@@ -76,34 +60,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42838226",
-        "title": "First-line durvalumab and tremelimumab in poor-prognosis unresectable hepatocellular carcinoma: Phase IIIb single-arm SIERRA study.",
-        "pubdate": "2026 Oct 6",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42838226/"
+        "pmid": "43026905",
+        "title": "Pulmonary Large-Cell Neuroendocrine Carcinoma: Molecular Heterogeneity, Current Treatment and the Emerging Precision-Oncology Paradigm.",
+        "pubdate": "2026 Nov 7",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43026905/"
       },
       {
-        "pmid": "42823821",
-        "title": "SUNRAY-02: a study of olomorasib combined with immunotherapy in stage II-III KRAS G12C-mutant non-small cell lung cancer after definitive therapy.",
-        "pubdate": "2026 Oct 1",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42823821/"
+        "pmid": "43018951",
+        "title": "Perioperative immunotherapy in muscle-invasive bladder cancer: a narrative review of neoadjuvant, adjuvant, and antibody-drug conjugate-based strategies.",
+        "pubdate": "2026 Nov 12",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43018951/"
       },
       {
-        "pmid": "42806195",
-        "title": "Population Pharmacokinetics and Exposure-response Analysis of Durvalumab in Patients with Limited-stage Small-cell Lung Cancer in the Phase 3 ADRIATIC Study.",
-        "pubdate": "2026 Sep 28",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42806195/"
+        "pmid": "42971506",
+        "title": "Brief Report: Patterns of Disease Progression with Durvalumab versus Placebo After Concurrent Chemoradiotherapy for Limited-Stage SCLC in the Phase 3 ADRIATIC Trial.",
+        "pubdate": "2026 Nov 2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42971506/"
       },
       {
-        "pmid": "42802029",
-        "title": "Perioperative Durvalumab for Resectable NSCLC: Updated Outcomes for Japanese Patients in AEGEAN.",
-        "pubdate": "2026 Sep 27",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42802029/"
+        "pmid": "42955495",
+        "title": "Treatment Options After Recurrence Following Perioperative Durvalumab Plus FLOT for Gastric and Gastroesophageal Junction Adenocarcinoma: A Biology-First Sequencing Framework.",
+        "pubdate": "2026 Oct 28",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42955495/"
       },
       {
-        "pmid": "42795014",
-        "title": "Systemic Therapy for Advanced Hepatocellular Carcinoma with Impaired Liver Function: Navigating the Evidence Gap.",
-        "pubdate": "2026 Sep 20",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42795014/"
+        "pmid": "42945191",
+        "title": "Dual-Targeted Agent Improves Advanced BTC Survival.",
+        "pubdate": "2026 Oct 27",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42945191/"
       }
     ]
   },

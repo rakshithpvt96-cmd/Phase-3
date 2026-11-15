@@ -1,9 +1,8 @@
 {
   "drug_name": "Domvanalimab",
   "slug": "domvanalimab",
-  "enriched_at": "2026-11-08T14:23:47Z",
+  "enriched_at": "2026-11-15T14:38:45Z",
   "source_trial_ids": [
-    "NCT05211895",
     "NCT05568095"
   ],
   "sponsors": [
@@ -12,12 +11,6 @@
       "ticker": "RCUS",
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001724521&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
-      "name": "AstraZeneca",
-      "ticker": "AZN",
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000901832&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
@@ -51,17 +44,10 @@
     }
   },
   "condition": {
-    "raw": "Non-Small Cell Lung Cancer",
-    "slug": "non-small-cell-lung-cancer"
+    "raw": "Advanced Upper Gastrointestinal Tract Adenocarcinoma",
+    "slug": "advanced-upper-gastrointestinal-tract-adenocarcinoma"
   },
   "source_trials": [
-    {
-      "nct_id": "NCT05211895",
-      "title": "A Global Study to Assess the Effects of Durvalumab + Domvanalimab Following Concurrent Chemoradiation in Participants With Stage III Unresectable NSCLC",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT05211895",
-      "has_results": false
-    },
     {
       "nct_id": "NCT05568095",
       "title": "A Clinical Trial of a New Combination Treatment, Domvanalimab and Zimberelimab, Plus Chemotherapy, for People With an Upper Gastrointestinal Tract Cancer That Cannot be Removed With Surgery That Has Spread to Other Parts of the Body",

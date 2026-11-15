@@ -1,6 +1,59 @@
 {
-  "generated_at": "2026-11-14T15:53:30Z",
-  "new_trial_count": 0,
-  "new_trials": [],
+  "generated_at": "2026-11-15T14:35:18Z",
+  "new_trial_count": 1,
+  "new_trials": [
+    {
+      "nct_id": "NCT06641466",
+      "title": "A Study to Learn About the Study Medicine Called Rimegepant in Women When Used for Intermittent Prevention of Menstrual Migraine",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Pfizer",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-11-29",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Menstrual Migraine"
+      ],
+      "interventions": [
+        {
+          "name": "Rimegepant",
+          "type": "DRUG"
+        },
+        {
+          "name": "Placebo Comparator",
+          "type": "DRUG"
+        },
+        {
+          "name": "Standard of Care",
+          "type": "DRUG"
+        },
+        {
+          "name": "Rimegepant",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "Rimegepant",
+        "Placebo Comparator",
+        "Standard of Care"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06641466",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Pfizer",
+        "ticker": "PFE",
+        "cik": "0000078003",
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000078003&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-11-09T17:16:27Z"
+      }
+    }
+  ],
   "removed_trial_ids": []
 }

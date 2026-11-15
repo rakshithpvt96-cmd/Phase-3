@@ -1,0 +1,156 @@
+{
+  "drug_name": "Rimegepant",
+  "slug": "rimegepant",
+  "enriched_at": "2026-11-15T14:40:20Z",
+  "source_trial_ids": [
+    "NCT06641466"
+  ],
+  "sponsors": [
+    {
+      "name": "Pfizer",
+      "ticker": "PFE",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000078003&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 51049968,
+    "iupac_name": "[(5S,6S,9R)-5-amino-6-(2,3-difluorophenyl)-6,7,8,9-tetrahydro-5H-cyclohepta[b]pyridin-9-yl] 4-(2-oxo-3H-imidazo[4,5-b]pyridin-1-yl)piperidine-1-carboxylate",
+    "molecular_formula": "C28H28F2N6O3",
+    "molecular_weight": "534.6",
+    "canonical_smiles": null,
+    "inchikey": "KRNAOFGYEFKHPB-ANJVHQHFSA-N",
+    "rxnorm": {
+      "rxcui": "2282307",
+      "generic_name": "rimegepant",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2364629",
+    "target_chembl_id": "CHEMBL3798",
+    "target_name": "Calcitonin gene-related peptide type 1 receptor",
+    "mechanism_of_action_chembl": "Calcitonin gene-related peptide type 1 receptor antagonist"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Rimegepant is a calcitonin gene-related peptide receptor antagonist.",
+    "pharmacokinetics": "12.3 Pharmacokinetics Absorption Following oral administration of NURTEC ODT, rimegepant is absorbed with the maximum concentration at 1.5 hours. The absolute oral bioavailability of rimegepant is approximately 64%. Effects of Food Following administration of NURTEC ODT under fed conditions with a high-fat or low-fat meal, T max was delayed by approximately 1 to 1.5 hours. A high-fat meal reduced C max by 42 to 53% and AUC by 32 to 38%. A low-fat meal reduced C max by 36% and AUC by 28%. NURTEC ODT was administered without regard to food in clinical safety and efficacy studies. The impact of the reduction in rimegepant exposure because of administration with food on its efficacy is unknown. Distribution The steady state volume of distribution of rimegepant is 120 L. Plasma protein binding of rimegepant is approximately 96%. Elimination Metabolism Rimegepant is primarily metabolized by CYP3A4 and to a lesser extent by CYP2C9. Rimegepant is the primary form (~77%) with no major metabolites (i.e., > 10%) detected in plasma. Excretion The elimination half-life of rimegepant is approximately 11 hours in healthy subjects. Following oral administration of [ 14 C]-rimegepant to healthy male subjects, 78% of the total radioactivity was recovered in feces and 24% in urine. Unchanged rimegepant is the major single component in excreted feces (42%) and urine (51%). Specific Populations Renal Impairment In a dedicated clinical study comparing the pharmacokinetics of rimegepant in subjects with mild (estimated creatinine clearance [CLcr] 60-89 mL/min), moderate (CLcr 30-59 mL/min), and severe (CLcr 15-29 mL/min) renal impairment to that with normal subjects (healthy matched control), the exposure of rimegepant following single 75 mg dose was approximately 40% higher in subjects with moderate renal impairment. However, there was no clinically meaningful difference in the exposure of rimegepant in subjects with severe renal impairment compared to subjects with normal renal function (CLcr >= 90 mL/min). NURTEC ODT has not been studied in patients with end-stage renal disease (CLcr < 15 mL/min) [see Use in Specific Populations (8.7) ]. Hepatic Impairment In a dedicated clinical study comparing the pharmacokinetics of rimegepant in subjects with mild, moderate, and severe hepatic impairment to that with normal subjects (healthy matched control), the exposure of rimegepant (C max and AUC) following single 75 mg dose was approximately 2-fold higher in subjects with severe impairment (Child-Pugh class C). There were no clinically meaningful differences in the exposure of rimegepant in subjects with mild (Child-Pugh class A) and moderate hepatic impairment (Child-Pugh class B) compared to subjects with normal hepatic function [see Use in Specific Populations (8.6) ]. Other Specific Populations No clinically significant differences in the pharmacokinetics of rimegepant were observed based on age, sex, race/ethnicity, body weight, or CYP2C9 genotype [see Clinical Pharmacology (12.5) ]. Drug Interaction Studies In Vitro Studies Enzymes Rimegepant is a substrate of CYP3A4 and CYP2C9 (see In Vivo Studies ). Rimegepant is not an inhibitor of CYP1A2, 2B6, 2C9, 2C19, 2D6, or UGT1A1 at clinically relevant concentrations. However, rimegepant is a weak inhibitor of CYP3A4 with time-dependent inhibition. Rimegepant is not an inducer of CYP1A2, CYP2B6, or CYP3A4 at clinically relevant concentrations. Transporters Rimegepant is a substrate of P-gp and BCRP (see In Vivo Studies ) . Rimegepant is not a substrate of OATP1B1 or OATP1B3. Considering its low renal clearance, rimegepant was not evaluated as a substrate of the OAT1, OAT3, OCT2, MATE1, or MATE2-K. Rimegepant is not an inhibitor of P-gp, BCRP, OAT1, or MATE2-K at clinically relevant concentrations. It is a weak inhibitor of OATP1B1 and OAT3. Rimegepant is an inhibitor of OATP1B3, OCT2, and MATE1. In a dedicated interaction study, concomitant administration of 75 mg rimegepant at steady state with metformin, a MATE1 transporter substrate, at steady state resulted in no clinically significant impact on either metformin pharmacokinetics or on glucose utilization. No clinical drug interactions are expected for NURTEC ODT with OATP1B3 or OCT2, at clinically relevant concentrations. In Vivo Studies CYP3A4 Inhibitors In a dedicated drug interaction study, concomitant administration of 75 mg rimegepant (single dose) with itraconazole, a strong CYP3A4 inhibitor, at steady state resulted in increased exposures of rimegepant (AUC by 4-fold and C max by ~1.5-fold) [see Drug Interactions (7.1) ]. No dedicated drug interaction study was conducted to assess the effect of concomitant administration of a weak inhibitor of CYP3A4 on the pharmacokinetics of rimegepant. The concomitant administration of rimegepant with a moderate inhibitor of CYP3A4 may increase rimegepant exposures (AUC) by less than 2-fold [see Drug Interactions (7.1) ]. Concomitant administration of rimegepant with a weak inhibitor of CYP3A4 is not expected to have a clinically significant impact on rimegepant exposures. CYP3A Inducers In a dedicated drug interaction study, concomitant administration of 75 mg rimegepant (single dose) with rifampin, a strong CYP3A4 inducer, at steady state resulted in decreased exposures of rimegepant (AUC by 80% and C max by 64%), which may lead to loss of efficacy [see Drug Interactions (7.2) ] . No dedicated drug interaction study was conducted to assess the effect of concomitant administration of a moderate or weak inducer of CYP3A4 on the pharmacokinetics of rimegepant . Since rimegepant is a moderately sensitive substrate for CYP3A4, drugs that are moderate inducers of CYP3A4 can also cause significant reduction in rimegepant exposure resulting in loss of efficacy [see Drug Interactions (7.2) ] . Clinically significant interaction is not expected with concomitant administration of weak inducers of CYP3A4 and rimegepant. CYP2C9 Inhibitors In a dedicated drug interaction study, concomitant administration of 75 mg rimegepant (single dose) with fluconazole, a combined moderate CYP3A4 and CYP2C9 inhibitor, resulted in increased exposures of rimegepant (AUC by 1.8-fold) with no relevant effect on C max . Rimegepant is primarily metabolized by CYP3A4 and to a lesser extent by CYP2C9. Increase in the exposure of rimegepant can be attributed to combined inhibition of CYP2C9 and CYP3A4 with fluconazole administration suggesting a minor contribution from CYP2C9. Thus, CYP2C9 inhibition alone is not expected to significantly affect rimegepant exposures. P-gp and BCRP Inhibitors In a dedicated drug interaction study, concomitant administration of NURTEC ODT with cyclosporine (a potent P-gp and BCRP inhibitor) and with quinidine (a potent P-gp inhibitor) resulted in an increase of similar magnitude in rimegepant exposure (AUC and C max by 1.6 and 1.4 fold with cyclosporine, and by 1.6 and 1.7 fold with quinidine, respectively) [see Drug Interactions (7.3) ]. Therefore, concomitant administration of NURTEC ODT with BCRP inhibitors is not expected to have a clinically significant impact on rimegepant exposures. Other Drugs: No significant pharmacokinetic interactions were observed when rimegepant was concomitantly administered with oral contraceptives (norelgestromin, ethinyl estradiol), midazolam (a sensitive CYP3A4 substrate), metformin (a MATE1 substrate), or sumatriptan [see Clinical Pharmacology (12.2) ].",
+    "indications_and_usage": "1 INDICATIONS AND USAGE NURTEC ODT is a calcitonin gene-related peptide receptor antagonist indicated for the: acute treatment of migraine with or without aura in adults ( 1.1 ) preventive treatment of episodic migraine in adults ( 1.2 ) 1.1 Acute Treatment of Migraine NURTEC ODT is indicated for the acute treatment of migraine with or without aura in adults . 1.2 Preventive Treatment of Episodic Migraine NURTEC ODT is indicated for the preventive treatment of episodic migraine in adults.",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "NURTEC ODT"
+    ],
+    "openfda_generic_names": [
+      "RIMEGEPANT SULFATE"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9ef08e09-1098-35cc-e053-2a95a90a3e1d",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Menstrual Migraine",
+    "slug": "menstrual-migraine"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06641466",
+      "title": "A Study to Learn About the Study Medicine Called Rimegepant in Women When Used for Intermittent Prevention of Menstrual Migraine",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06641466",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42839212",
+        "title": "Efficacy and Safety of Rimegepant for the Acute Treatment of Migraine in Adults of Hispanic or Latino Ethnicity: Post Hoc Analysis of Three Randomized, Placebo-Controlled Trials.",
+        "pubdate": "2026 Oct 6",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42839212/"
+      },
+      {
+        "pmid": "42828704",
+        "title": "Time Course of Rimegepant Effect for Acute Treatment of Migraine in Adults Unsuitable for Triptans: Exploratory Endpoints from a Phase 4, Randomized, Double-Blind, Placebo-Controlled Study.",
+        "pubdate": "2026 Oct 3",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42828704/"
+      },
+      {
+        "pmid": "42816745",
+        "title": "Post Hoc Analysis of Time to First and Sustained Improvement in Weekly Migraine Days Among Patients Receiving Preventive Treatment With Rimegepant 75 mg.",
+        "pubdate": "2026 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42816745/"
+      },
+      {
+        "pmid": "42582108",
+        "title": "Innovations in conservative and surgical therapy for Ménière's disease-narrative review.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42582108/"
+      },
+      {
+        "pmid": "42265882",
+        "title": "The pharmacology of gepants in migraine: A scoping review on mechanisms, clinical applications, and combination strategies.",
+        "pubdate": "2026 Jul-Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42265882/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "RIMEGEPANT",
+        "chembl_id": "CHEMBL2178422",
+        "reason": "same target: Calcitonin gene-related peptide type 1 receptor"
+      },
+      {
+        "name": "UBROGEPANT",
+        "chembl_id": "CHEMBL2364638",
+        "reason": "same target: Calcitonin gene-related peptide type 1 receptor"
+      },
+      {
+        "name": "MK3207",
+        "chembl_id": "CHEMBL1910936",
+        "reason": "same target: Calcitonin gene-related peptide type 1 receptor"
+      },
+      {
+        "name": "OLCEGEPANT",
+        "chembl_id": "CHEMBL207197",
+        "reason": "same target: Calcitonin gene-related peptide type 1 receptor"
+      },
+      {
+        "name": "DAVALINTIDE",
+        "chembl_id": "CHEMBL2105635",
+        "reason": "same target: Calcitonin gene-related peptide type 1 receptor"
+      },
+      {
+        "name": "TELCAGEPANT",
+        "chembl_id": "CHEMBL236593",
+        "reason": "same target: Calcitonin gene-related peptide type 1 receptor"
+      },
+      {
+        "name": "ERENUMAB",
+        "chembl_id": "CHEMBL3833329",
+        "reason": "same target: Calcitonin gene-related peptide type 1 receptor"
+      },
+      {
+        "name": "ATOGEPANT",
+        "chembl_id": "CHEMBL3991065",
+        "reason": "same target: Calcitonin gene-related peptide type 1 receptor"
+      },
+      {
+        "name": "BI-44370",
+        "chembl_id": "CHEMBL3334624",
+        "reason": "same target: Calcitonin gene-related peptide type 1 receptor"
+      },
+      {
+        "name": "ZAVEGEPANT HYDROCHLORIDE",
+        "chembl_id": "CHEMBL4650220",
+        "reason": "same target: Calcitonin gene-related peptide type 1 receptor"
+      }
+    ]
+  }
+}
