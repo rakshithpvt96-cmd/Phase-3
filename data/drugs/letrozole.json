@@ -1,13 +1,13 @@
 {
   "drug_name": "Letrozole",
   "slug": "letrozole",
-  "enriched_at": "2026-10-17T11:32:11Z",
+  "enriched_at": "2026-11-16T18:04:45Z",
   "source_trial_ids": [
     "NCT06016738"
   ],
   "sponsors": [
     {
-      "name": "Olema Pharmaceuticals, Inc.",
+      "name": "Olema Oncology, Inc.",
       "ticker": "OLMA",
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001750284&type=10-K&dateb=&owner=include&count=40"
@@ -45,7 +45,7 @@
     "openfda_generic_names": [
       "LETROZOLE"
     ],
-    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3cc750a5-cc88-4b42-b4ab-a87e760f291d",
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fa2d40a5-3504-44ef-8f5c-aa4c06308074",
     "note": null,
     "further_reading": null
   },
@@ -66,6 +66,24 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42968162",
+        "title": "Safety and treatment duration of ribociclib + nonsteroidal aromatase inhibitor in HR+/HER2- early breast cancer: a phase 3 randomized controlled trial (NATALEE).",
+        "pubdate": "2026 Aug 4",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42968162/"
+      },
+      {
+        "pmid": "42918423",
+        "title": "Overall survival with adjuvant ribociclib plus nonsteroidal aromatase inhibitor in patients with high-risk HR+/HER2- early breast cancer: Six-year follow-up of the NATALEE trial.",
+        "pubdate": "2026 Oct 23",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42918423/"
+      },
+      {
+        "pmid": "42854977",
+        "title": "Invasomes nanocarriers for targeted delivery of letrozole derivative: A novel strategy to mitigate breast cancer.",
+        "pubdate": "2026 Oct 9",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42854977/"
+      },
+      {
         "pmid": "42833841",
         "title": "Fatal drug-induced liver injury in the setting of abemaciclib therapy for metastatic breast cancer.",
         "pubdate": "2026 Oct 5",
@@ -76,24 +94,6 @@
         "title": "Efficacy of everolimus and letrozole with or without ribociclib in recurrent endometrial cancer: a phase 2 randomized clinical trial.",
         "pubdate": "2026 Sep 1",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42823426/"
-      },
-      {
-        "pmid": "42787272",
-        "title": "Comparison of live birth rates between calorie-restricted diet and metformin prior to ovulation induction therapy in women with polycystic ovary syndrome and overweight/obesity: a protocol for a multicenter, randomized comparative effectiveness trial.",
-        "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42787272/"
-      },
-      {
-        "pmid": "42447658",
-        "title": "Surgical window of opportunity clinical trial of abemaciclib and letrozole for endometrioid adenocarcinoma of the endometrium.",
-        "pubdate": "2026 Aug",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42447658/"
-      },
-      {
-        "pmid": "42442380",
-        "title": "Switching to camizestrant at ESR1 mutation emergence before disease progression during first-line treatment of hormone receptor-positive advanced breast cancer (SERENA-6): extended analysis of a double-blind, placebo-controlled, randomised, phase 3 trial.",
-        "pubdate": "2026 Aug",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42442380/"
       }
     ]
   },

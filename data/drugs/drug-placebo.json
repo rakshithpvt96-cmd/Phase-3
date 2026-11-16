@@ -1,0 +1,99 @@
+{
+  "drug_name": "Drug: placebo",
+  "slug": "drug-placebo",
+  "enriched_at": "2026-11-16T18:11:06Z",
+  "source_trial_ids": [
+    "NCT07672561"
+  ],
+  "sponsors": [
+    {
+      "name": "Zhejiang Wenda Pharma Technology LTD.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Zhejiang%20Wenda%20Pharma%20Technology%20LTD.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "8375",
+      "generic_name": "placebo",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL157030",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Drug%3A%20placebo+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Drug%3A%20placebo+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Drug%3A%20placebo+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Moderate to Severe Plaque Psoriasis",
+    "slug": "moderate-to-severe-plaque-psoriasis"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07672561",
+      "title": "A Multicenter, Randomized, Double-Blind, Placebo-Controlled Phase Ⅲ Study to Evaluate the Efficacy and Safety of WD-890 Tablets for the Treatment of Moderate to Severe Plaque Psoriasis",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07672561",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "43035066",
+        "title": "Cemiplimab plus chemotherapy versus chemotherapy in non-small-cell lung cancer with PD-L1 ≥1%: 5-year update of EMPOWER-Lung 3 Part 2 results.",
+        "pubdate": "2026 Nov 15",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43035066/"
+      },
+      {
+        "pmid": "43033821",
+        "title": "Efficacy and safety of co-administered cagrilintide-semaglutide (CagriSema) 1·7 mg each and 1·0 mg each in adults with overweight or obesity (REDEFINE 9): a multicentre, randomised, double-blind within-dose-level, placebo-controlled, parallel-group, phase 3b trial.",
+        "pubdate": "2026 Nov 14",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43033821/"
+      },
+      {
+        "pmid": "43032907",
+        "title": "Efficacy and safety of teneligliptin as add-on therapy in patients with type 2 diabetes treated with empagliflozin and metformin: A 24-week, randomized, double-blind, placebo-controlled phase 3 trial.",
+        "pubdate": "2026 Nov 14",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43032907/"
+      },
+      {
+        "pmid": "43032440",
+        "title": "Clinical trials of TB preventive treatment: a scoping review.",
+        "pubdate": "2026 Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43032440/"
+      },
+      {
+        "pmid": "43032262",
+        "title": "Proof-of-concept phase II study protocol to evaluate the efficacy and safety of prednisone in the treatment of idiosyncratic hepatotoxicity and its mechanistic pathways through an integrative analysis: the DILICORT clinical trial.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43032262/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

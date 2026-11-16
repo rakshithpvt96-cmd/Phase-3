@@ -1,108 +1,12 @@
 {
-  "generated_at": "2026-11-15T16:08:38Z",
+  "generated_at": "2026-11-16T17:55:43Z",
   "window_upcoming_days": 14,
   "window_lookback_days": [
     1,
     90
   ],
-  "trial_count": 265,
+  "trial_count": 274,
   "trials": [
-    {
-      "nct_id": "NCT05984277",
-      "title": "A Global Study of Volrustomig (MEDI5752) Plus Chemotherapy Versus Pembrolizumab Plus Chemotherapy for Participants With Metastatic Non-small Cell Lung Cancer.",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "AstraZeneca",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-08-17",
-      "primary_completion_date_type": "ACTUAL",
-      "window": "lookback",
-      "conditions": [
-        "Metastatic Non-small Cell Lung Cancer"
-      ],
-      "interventions": [
-        {
-          "name": "Volrustomig",
-          "type": "DRUG"
-        },
-        {
-          "name": "Pembrolizumab",
-          "type": "DRUG"
-        },
-        {
-          "name": "Carboplatin",
-          "type": "DRUG"
-        },
-        {
-          "name": "Paclitaxel",
-          "type": "DRUG"
-        },
-        {
-          "name": "Pemetrexed",
-          "type": "DRUG"
-        }
-      ],
-      "drug_names": [
-        "Volrustomig",
-        "Pembrolizumab",
-        "Carboplatin",
-        "Paclitaxel",
-        "Pemetrexed"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT05984277",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "AstraZeneca",
-        "ticker": "AZN",
-        "cik": "0000901832",
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000901832&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:16Z"
-      }
-    },
-    {
-      "nct_id": "NCT06029439",
-      "title": "Study to Assess the Safety and Effectiveness of NMRA-335140-501",
-      "status": "TERMINATED",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "Neumora Therapeutics, Inc.",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-08-17",
-      "primary_completion_date_type": "ACTUAL",
-      "window": "lookback",
-      "conditions": [
-        "Major Depressive Disorder"
-      ],
-      "interventions": [
-        {
-          "name": "NMRA-335140",
-          "type": "DRUG"
-        }
-      ],
-      "drug_names": [
-        "NMRA-335140"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT06029439",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "Neumora Therapeutics, Inc.",
-        "ticker": "NMRA",
-        "cik": "0001885522",
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001885522&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-11T14:58:12Z"
-      }
-    },
     {
       "nct_id": "NCT06519370",
       "title": "FDA018-ADC vs Investigator's Choice Chemotherapy to Treat Locally Advanced, Recurrent or Metastatic Triple-negative Breast Cancer",
@@ -158,7 +62,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Shanghai%20Fudan-Zhangjiang%20Bio-Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:30Z"
+        "cached_at": "2026-11-16T17:55:42Z"
       }
     },
     {
@@ -259,7 +163,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=ViiV%20Healthcare&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:30Z"
+        "cached_at": "2026-11-16T17:55:42Z"
       }
     },
     {
@@ -393,7 +297,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hansoh%20BioMedical%20R%26D%20Company&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:24Z"
+        "cached_at": "2026-11-16T17:55:35Z"
       }
     },
     {
@@ -436,7 +340,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001551152&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:09Z"
+        "cached_at": "2026-11-16T17:55:22Z"
       }
     },
     {
@@ -474,7 +378,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Alexion%20Pharmaceuticals%2C%20Inc.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:12Z"
+        "cached_at": "2026-11-16T17:55:24Z"
       }
     },
     {
@@ -606,7 +510,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000078003&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:27Z"
+        "cached_at": "2026-11-16T17:55:38Z"
       }
     },
     {
@@ -669,7 +573,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000078003&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:27Z"
+        "cached_at": "2026-11-16T17:55:38Z"
       }
     },
     {
@@ -755,7 +659,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Eli%20Lilly%20and%20Company&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:23Z"
+        "cached_at": "2026-11-16T17:55:35Z"
       }
     },
     {
@@ -872,7 +776,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001724521&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:14Z"
+        "cached_at": "2026-11-16T17:55:25Z"
       }
     },
     {
@@ -927,7 +831,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Panbela%20Therapeutics%2C%20Inc.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:27Z"
+        "cached_at": "2026-11-16T17:55:38Z"
       }
     },
     {
@@ -1008,7 +912,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Keymed%20Biosciences%20Co.Ltd&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:26Z"
+        "cached_at": "2026-11-16T17:55:36Z"
       }
     },
     {
@@ -1051,7 +955,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Beletalent%20%28Zhuhai%29%20Pharmaceutical%20Co.%2C%20Ltd&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:16Z"
+        "cached_at": "2026-11-16T17:55:28Z"
       }
     },
     {
@@ -1094,7 +998,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=AMAG%20Pharmaceuticals%2C%20Inc.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:09Z"
+        "cached_at": "2026-11-16T17:55:22Z"
       }
     },
     {
@@ -1132,7 +1036,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Idorsia%20Pharmaceuticals%20Ltd.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:24Z"
+        "cached_at": "2026-11-16T17:55:35Z"
       }
     },
     {
@@ -1219,7 +1123,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Daiichi%20Sankyo&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:23Z"
+        "cached_at": "2026-11-16T17:55:35Z"
       }
     },
     {
@@ -1306,7 +1210,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001061983&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:22Z"
+        "cached_at": "2026-11-16T17:55:33Z"
       }
     },
     {
@@ -1393,7 +1297,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Santen%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:30Z"
+        "cached_at": "2026-11-16T17:55:42Z"
       }
     },
     {
@@ -1456,7 +1360,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=mAbxience%20Research%20S.L.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:31Z"
+        "cached_at": "2026-11-16T17:55:43Z"
       }
     },
     {
@@ -1550,7 +1454,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=ALK-Abell%C3%B3%20A/S&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:09Z"
+        "cached_at": "2026-11-16T17:55:22Z"
       }
     },
     {
@@ -2051,7 +1955,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001551152&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:09Z"
+        "cached_at": "2026-11-16T17:55:22Z"
       }
     },
     {
@@ -2196,7 +2100,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Chia%20Tai%20Tianqing%20Pharmaceutical%20Group%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:20Z"
+        "cached_at": "2026-11-16T17:55:32Z"
       }
     },
     {
@@ -2291,7 +2195,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=argenx&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:31Z"
+        "cached_at": "2026-11-16T17:55:43Z"
       }
     },
     {
@@ -2372,7 +2276,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Qilu%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:28Z"
+        "cached_at": "2026-11-16T17:55:39Z"
       }
     },
     {
@@ -2415,7 +2319,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Shandong%20Suncadia%20Medicine%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:30Z"
+        "cached_at": "2026-11-16T17:55:42Z"
       }
     },
     {
@@ -2506,7 +2410,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000021665&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:20Z"
+        "cached_at": "2026-11-16T17:55:32Z"
       }
     },
     {
@@ -2584,7 +2488,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000879169&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:24Z"
+        "cached_at": "2026-11-16T17:55:35Z"
       }
     },
     {
@@ -2675,7 +2579,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Jiangsu%20HengRui%20Medicine%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:26Z"
+        "cached_at": "2026-11-16T17:55:36Z"
       }
     },
     {
@@ -2809,7 +2713,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Novartis%20Pharmaceuticals&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:27Z"
+        "cached_at": "2026-11-16T17:55:36Z"
       }
     },
     {
@@ -2852,7 +2756,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000353278&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:27Z"
+        "cached_at": "2026-11-16T17:55:36Z"
       }
     },
     {
@@ -2892,7 +2796,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001551152&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:09Z"
+        "cached_at": "2026-11-16T17:55:22Z"
       }
     },
     {
@@ -2984,7 +2888,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Cybin%20IRL%20Limited&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:22Z"
+        "cached_at": "2026-11-16T17:55:33Z"
       }
     },
     {
@@ -3022,7 +2926,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=GlaxoSmithKline&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:23Z"
+        "cached_at": "2026-11-16T17:55:35Z"
       }
     },
     {
@@ -3073,7 +2977,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Innovent%20Biologics%20%28Suzhou%29%20Co.%20Ltd.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:25Z"
+        "cached_at": "2026-11-16T17:55:36Z"
       }
     },
     {
@@ -3282,7 +3186,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=EyePoint%20Pharmaceuticals%2C%20Inc.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:23Z"
+        "cached_at": "2026-11-16T17:55:35Z"
       }
     },
     {
@@ -3361,7 +3265,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001121404&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:29Z"
+        "cached_at": "2026-11-16T17:55:40Z"
       }
     },
     {
@@ -3429,7 +3333,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=GlaxoSmithKline&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:23Z"
+        "cached_at": "2026-11-16T17:55:35Z"
       }
     },
     {
@@ -3555,7 +3459,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Genzyme%2C%20a%20Sanofi%20Company&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:23Z"
+        "cached_at": "2026-11-16T17:55:35Z"
       }
     },
     {
@@ -3637,7 +3541,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Sarfez%20Pharmaceuticals%2C%20Inc.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:30Z"
+        "cached_at": "2026-11-16T17:55:42Z"
       }
     },
     {
@@ -3728,7 +3632,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Gan%20%26%20Lee%20Pharmaceuticals.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:23Z"
+        "cached_at": "2026-11-16T17:55:35Z"
       }
     },
     {
@@ -3776,7 +3680,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hangzhou%20Zhongmei%20Huadong%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:24Z"
+        "cached_at": "2026-11-16T17:55:35Z"
       }
     },
     {
@@ -3820,7 +3724,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Bharat%20Biotech%20International%20Limited&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:16Z"
+        "cached_at": "2026-11-16T17:55:28Z"
       }
     },
     {
@@ -3902,7 +3806,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000901832&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:16Z"
+        "cached_at": "2026-11-16T17:55:28Z"
       }
     },
     {
@@ -3955,7 +3859,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Takeda&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:30Z"
+        "cached_at": "2026-11-16T17:55:42Z"
       }
     },
     {
@@ -4043,7 +3947,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Gan%20%26%20Lee%20Pharmaceuticals.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:23Z"
+        "cached_at": "2026-11-16T17:55:35Z"
       }
     },
     {
@@ -4087,7 +3991,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001776985&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:16Z"
+        "cached_at": "2026-11-16T17:55:28Z"
       }
     },
     {
@@ -4173,7 +4077,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001121404&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:29Z"
+        "cached_at": "2026-11-16T17:55:40Z"
       }
     },
     {
@@ -4221,7 +4125,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001121404&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:29Z"
+        "cached_at": "2026-11-16T17:55:40Z"
       }
     },
     {
@@ -4264,7 +4168,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000875045&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:18Z"
+        "cached_at": "2026-11-16T17:55:30Z"
       }
     },
     {
@@ -4317,7 +4221,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000872589&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:28Z"
+        "cached_at": "2026-11-16T17:55:39Z"
       }
     },
     {
@@ -4365,7 +4269,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000014272&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:19Z"
+        "cached_at": "2026-11-16T17:55:31Z"
       }
     },
     {
@@ -4490,7 +4394,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000879169&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:24Z"
+        "cached_at": "2026-11-16T17:55:35Z"
       }
     },
     {
@@ -4576,7 +4480,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Cinclus%20Pharma%20Holding%20AB&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:20Z"
+        "cached_at": "2026-11-16T17:55:32Z"
       }
     },
     {
@@ -4619,7 +4523,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Inventiva%20Pharma&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:25Z"
+        "cached_at": "2026-11-16T17:55:36Z"
       }
     },
     {
@@ -4672,7 +4576,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=GlaxoSmithKline&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:23Z"
+        "cached_at": "2026-11-16T17:55:35Z"
       }
     },
     {
@@ -4753,7 +4657,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=GlaxoSmithKline&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:23Z"
+        "cached_at": "2026-11-16T17:55:35Z"
       }
     },
     {
@@ -4796,7 +4700,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hoffmann-La%20Roche&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:24Z"
+        "cached_at": "2026-11-16T17:55:35Z"
       }
     },
     {
@@ -4839,7 +4743,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000875045&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:18Z"
+        "cached_at": "2026-11-16T17:55:30Z"
       }
     },
     {
@@ -4907,7 +4811,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Innovent%20Biologics%20%28Suzhou%29%20Co.%20Ltd.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:25Z"
+        "cached_at": "2026-11-16T17:55:36Z"
       }
     },
     {
@@ -4950,7 +4854,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Beijing%20Continent%20Pharmaceutical%20Co%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:16Z"
+        "cached_at": "2026-11-16T17:55:28Z"
       }
     },
     {
@@ -5035,7 +4939,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000901832&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:16Z"
+        "cached_at": "2026-11-16T17:55:28Z"
       }
     },
     {
@@ -5111,7 +5015,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=GlaxoSmithKline&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:23Z"
+        "cached_at": "2026-11-16T17:55:35Z"
       }
     },
     {
@@ -5156,7 +5060,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Shanghai%20JMT-Bio%20Inc.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:30Z"
+        "cached_at": "2026-11-16T17:55:42Z"
       }
     },
     {
@@ -5380,44 +5284,6 @@
       }
     },
     {
-      "nct_id": "NCT07416110",
-      "title": "Phase IIIb Clinical Trial to Evaluate Lot-to-lot Consistency of Sinovac Rabies Vaccine",
-      "status": "NOT_YET_RECRUITING",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "Sinovac Biotech Co., Ltd",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-09-30",
-      "primary_completion_date_type": "ESTIMATED",
-      "window": "lookback",
-      "conditions": [
-        "Rabies (Healthy Volunteers)"
-      ],
-      "interventions": [
-        {
-          "name": "Sinovac rabies vaccine",
-          "type": "BIOLOGICAL"
-        }
-      ],
-      "drug_names": [
-        "Sinovac rabies vaccine"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT07416110",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "Sinovac Biotech Co., Ltd",
-        "ticker": null,
-        "cik": null,
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Sinovac%20Biotech%20Co.%2C%20Ltd&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-13T15:11:08Z"
-      }
-    },
-    {
       "nct_id": "NCT04088396",
       "title": "A Study of Baricitinib (LY3009104) in Participants From 1 Year to Less Than 18 Years Old With Systemic Juvenile Idiopathic Arthritis (sJIA)",
       "status": "ACTIVE_NOT_RECRUITING",
@@ -5457,7 +5323,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Eli%20Lilly%20and%20Company&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:23Z"
+        "cached_at": "2026-11-16T17:55:35Z"
       }
     },
     {
@@ -5606,7 +5472,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001551152&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:09Z"
+        "cached_at": "2026-11-16T17:55:22Z"
       }
     },
     {
@@ -5869,7 +5735,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Chia%20Tai%20Tianqing%20Pharmaceutical%20Group%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:20Z"
+        "cached_at": "2026-11-16T17:55:32Z"
       }
     },
     {
@@ -5960,7 +5826,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Sichuan%20Baili%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:30Z"
+        "cached_at": "2026-11-16T17:55:42Z"
       }
     },
     {
@@ -6099,7 +5965,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Suzhou%20Suncadia%20Biopharmaceuticals%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:30Z"
+        "cached_at": "2026-11-16T17:55:42Z"
       }
     },
     {
@@ -6142,7 +6008,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001582313&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:30Z"
+        "cached_at": "2026-11-16T17:55:42Z"
       }
     },
     {
@@ -6231,7 +6097,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=CSPC%20ZhongQi%20Pharmaceutical%20Technology%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:20Z"
+        "cached_at": "2026-11-16T17:55:32Z"
       }
     },
     {
@@ -6325,7 +6191,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000021665&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:20Z"
+        "cached_at": "2026-11-16T17:55:32Z"
       }
     },
     {
@@ -6477,7 +6343,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000353278&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:27Z"
+        "cached_at": "2026-11-16T17:55:36Z"
       }
     },
     {
@@ -6573,7 +6439,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000879169&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:24Z"
+        "cached_at": "2026-11-16T17:55:35Z"
       }
     },
     {
@@ -6776,7 +6642,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=UCB%20Biopharma%20SRL&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:30Z"
+        "cached_at": "2026-11-16T17:55:42Z"
       }
     },
     {
@@ -6826,7 +6692,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001868279&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:15Z"
+        "cached_at": "2026-11-16T17:55:27Z"
       }
     },
     {
@@ -6869,7 +6735,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000014272&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:19Z"
+        "cached_at": "2026-11-16T17:55:31Z"
       }
     },
     {
@@ -6907,7 +6773,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=CSPC%20ZhongQi%20Pharmaceutical%20Technology%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:20Z"
+        "cached_at": "2026-11-16T17:55:32Z"
       }
     },
     {
@@ -6945,7 +6811,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000872589&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:28Z"
+        "cached_at": "2026-11-16T17:55:39Z"
       }
     },
     {
@@ -6993,7 +6859,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hangzhou%20Zhongmei%20Huadong%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:24Z"
+        "cached_at": "2026-11-16T17:55:35Z"
       }
     },
     {
@@ -7038,7 +6904,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Biocodex&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:18Z"
+        "cached_at": "2026-11-16T17:55:30Z"
       }
     },
     {
@@ -7124,7 +6990,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Shanghai%20JMT-Bio%20Inc.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:30Z"
+        "cached_at": "2026-11-16T17:55:42Z"
       }
     },
     {
@@ -7172,7 +7038,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hoffmann-La%20Roche&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:24Z"
+        "cached_at": "2026-11-16T17:55:35Z"
       }
     },
     {
@@ -7291,7 +7157,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Novartis%20Pharmaceuticals&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:27Z"
+        "cached_at": "2026-11-16T17:55:36Z"
       }
     },
     {
@@ -7331,6 +7197,49 @@
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Suzhou%20Alphamab%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
         "cached_at": "2026-11-13T15:11:09Z"
+      }
+    },
+    {
+      "nct_id": "NCT07937449",
+      "title": "The Efficacy and Safety of DLBS3233 in Adults With Prediabetes",
+      "status": "COMPLETED",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Dexa Medica Group",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-10-15",
+      "primary_completion_date_type": "ACTUAL",
+      "window": "lookback",
+      "conditions": [
+        "Prediabetes"
+      ],
+      "interventions": [
+        {
+          "name": "DLBS3233",
+          "type": "DRUG"
+        },
+        {
+          "name": "Metformin XR",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "DLBS3233",
+        "Metformin XR"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT07937449",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Dexa Medica Group",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Dexa%20Medica%20Group&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-11-16T17:55:35Z"
       }
     },
     {
@@ -7417,7 +7326,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Han%20Xu%2C%20M.D.%2C%20Ph.D.%2C%20FAPCR%2C%20Medical%20Director%2C%2C%20IRB%20Chair&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:24Z"
+        "cached_at": "2026-11-16T17:55:35Z"
       }
     },
     {
@@ -7459,7 +7368,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000014272&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:19Z"
+        "cached_at": "2026-11-16T17:55:31Z"
       }
     },
     {
@@ -7501,7 +7410,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000014272&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:19Z"
+        "cached_at": "2026-11-16T17:55:31Z"
       }
     },
     {
@@ -7569,7 +7478,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Merck%20Sharp%20%26%20Dohme%20LLC&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:26Z"
+        "cached_at": "2026-11-16T17:55:36Z"
       }
     },
     {
@@ -7612,7 +7521,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000879169&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:24Z"
+        "cached_at": "2026-11-16T17:55:35Z"
       }
     },
     {
@@ -7657,7 +7566,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000875045&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:18Z"
+        "cached_at": "2026-11-16T17:55:30Z"
       }
     },
     {
@@ -7785,7 +7694,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hoffmann-La%20Roche&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:24Z"
+        "cached_at": "2026-11-16T17:55:35Z"
       }
     },
     {
@@ -7828,7 +7737,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000318154&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:12Z"
+        "cached_at": "2026-11-16T17:55:24Z"
       }
     },
     {
@@ -7876,7 +7785,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Eli%20Lilly%20and%20Company&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:23Z"
+        "cached_at": "2026-11-16T17:55:35Z"
       }
     },
     {
@@ -7919,7 +7828,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Qilu%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:28Z"
+        "cached_at": "2026-11-16T17:55:39Z"
       }
     },
     {
@@ -8043,7 +7952,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Novartis%20Pharmaceuticals&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:27Z"
+        "cached_at": "2026-11-16T17:55:36Z"
       }
     },
     {
@@ -8086,7 +7995,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Eli%20Lilly%20and%20Company&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:23Z"
+        "cached_at": "2026-11-16T17:55:35Z"
       }
     },
     {
@@ -8187,7 +8096,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Merck%20Sharp%20%26%20Dohme%20LLC&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:26Z"
+        "cached_at": "2026-11-16T17:55:36Z"
       }
     },
     {
@@ -8316,7 +8225,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Novartis%20Pharmaceuticals&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:27Z"
+        "cached_at": "2026-11-16T17:55:36Z"
       }
     },
     {
@@ -8359,7 +8268,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hoffmann-La%20Roche&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:24Z"
+        "cached_at": "2026-11-16T17:55:35Z"
       }
     },
     {
@@ -8402,7 +8311,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000879169&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:24Z"
+        "cached_at": "2026-11-16T17:55:35Z"
       }
     },
     {
@@ -8450,7 +8359,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000078003&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:27Z"
+        "cached_at": "2026-11-16T17:55:38Z"
       }
     },
     {
@@ -8757,7 +8666,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Jiangsu%20HengRui%20Medicine%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:26Z"
+        "cached_at": "2026-11-16T17:55:36Z"
       }
     },
     {
@@ -8767,7 +8676,7 @@
       "phases": [
         "PHASE3"
       ],
-      "sponsor": "Olema Pharmaceuticals, Inc.",
+      "sponsor": "Olema Oncology, Inc.",
       "sponsor_class": "INDUSTRY",
       "primary_completion_date": "2026-10-31",
       "primary_completion_date_type": "ESTIMATED",
@@ -8812,14 +8721,14 @@
       "has_results": false,
       "results_first_post_date": null,
       "company_info": {
-        "sponsor": "Olema Pharmaceuticals, Inc.",
-        "ticker": null,
-        "cik": null,
+        "sponsor": "Olema Oncology, Inc.",
+        "ticker": "OLMA",
+        "cik": "0001750284",
         "market_cap": null,
         "market_cap_display": null,
         "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Olema%20Pharmaceuticals%2C%20Inc.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-14T15:53:25Z"
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001750284&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-11-16T17:55:36Z"
       }
     },
     {
@@ -8862,7 +8771,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000901832&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:16Z"
+        "cached_at": "2026-11-16T17:55:28Z"
       }
     },
     {
@@ -9359,7 +9268,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Sichuan%20Baili%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:30Z"
+        "cached_at": "2026-11-16T17:55:42Z"
       }
     },
     {
@@ -9503,7 +9412,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001551152&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:09Z"
+        "cached_at": "2026-11-16T17:55:22Z"
       }
     },
     {
@@ -9589,7 +9498,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Eli%20Lilly%20and%20Company&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:23Z"
+        "cached_at": "2026-11-16T17:55:35Z"
       }
     },
     {
@@ -9677,7 +9586,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Eli%20Lilly%20and%20Company&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:23Z"
+        "cached_at": "2026-11-16T17:55:35Z"
       }
     },
     {
@@ -9765,7 +9674,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Eli%20Lilly%20and%20Company&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:23Z"
+        "cached_at": "2026-11-16T17:55:35Z"
       }
     },
     {
@@ -10204,7 +10113,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000021665&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:20Z"
+        "cached_at": "2026-11-16T17:55:32Z"
       }
     },
     {
@@ -10390,7 +10299,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000014272&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:19Z"
+        "cached_at": "2026-11-16T17:55:31Z"
       }
     },
     {
@@ -10439,7 +10348,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hoffmann-La%20Roche&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:24Z"
+        "cached_at": "2026-11-16T17:55:35Z"
       }
     },
     {
@@ -10479,7 +10388,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000901832&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:16Z"
+        "cached_at": "2026-11-16T17:55:28Z"
       }
     },
     {
@@ -10521,7 +10430,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000014272&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:19Z"
+        "cached_at": "2026-11-16T17:55:31Z"
       }
     },
     {
@@ -10564,7 +10473,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Novartis%20Pharmaceuticals&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:27Z"
+        "cached_at": "2026-11-16T17:55:36Z"
       }
     },
     {
@@ -10676,7 +10585,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=THPharm%20Corp.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:30Z"
+        "cached_at": "2026-11-16T17:55:42Z"
       }
     },
     {
@@ -10769,7 +10678,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000021665&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:20Z"
+        "cached_at": "2026-11-16T17:55:32Z"
       }
     },
     {
@@ -10812,7 +10721,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=LEAF4Life%2C%20Inc.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:26Z"
+        "cached_at": "2026-11-16T17:55:36Z"
       }
     },
     {
@@ -10903,7 +10812,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Gan%20%26%20Lee%20Pharmaceuticals.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:23Z"
+        "cached_at": "2026-11-16T17:55:35Z"
       }
     },
     {
@@ -10990,7 +10899,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Qilu%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:28Z"
+        "cached_at": "2026-11-16T17:55:39Z"
       }
     },
     {
@@ -11053,7 +10962,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hoffmann-La%20Roche&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:24Z"
+        "cached_at": "2026-11-16T17:55:35Z"
       }
     },
     {
@@ -11067,7 +10976,7 @@
       "sponsor_class": "INDUSTRY",
       "primary_completion_date": "2026-11-15",
       "primary_completion_date_type": "ESTIMATED",
-      "window": "upcoming",
+      "window": "lookback",
       "conditions": [
         "Vaping Cessation"
       ],
@@ -11144,7 +11053,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Han%20Xu%2C%20M.D.%2C%20Ph.D.%2C%20FAPCR%2C%20Medical%20Director%2C%2C%20IRB%20Chair&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:24Z"
+        "cached_at": "2026-11-16T17:55:35Z"
       }
     },
     {
@@ -11230,7 +11139,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000014272&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:19Z"
+        "cached_at": "2026-11-16T17:55:31Z"
       }
     },
     {
@@ -11345,7 +11254,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Merck%20Sharp%20%26%20Dohme%20LLC&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:26Z"
+        "cached_at": "2026-11-16T17:55:36Z"
       }
     },
     {
@@ -11456,7 +11365,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=GlaxoSmithKline&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:23Z"
+        "cached_at": "2026-11-16T17:55:35Z"
       }
     },
     {
@@ -11494,7 +11403,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=GlaxoSmithKline&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:23Z"
+        "cached_at": "2026-11-16T17:55:35Z"
       }
     },
     {
@@ -11699,7 +11608,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001121404&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:29Z"
+        "cached_at": "2026-11-16T17:55:40Z"
       }
     },
     {
@@ -11843,7 +11752,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001061983&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:22Z"
+        "cached_at": "2026-11-16T17:55:33Z"
       }
     },
     {
@@ -11937,7 +11846,7 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001121404&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:29Z"
+        "cached_at": "2026-11-16T17:55:40Z"
       }
     },
     {
@@ -11989,7 +11898,456 @@
         "market_cap_display": null,
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000078003&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-09T17:16:27Z"
+        "cached_at": "2026-11-16T17:55:38Z"
+      }
+    },
+    {
+      "nct_id": "NCT03148418",
+      "title": "A Study in Participants Previously Enrolled in a Genentech- and/or F. Hoffmann-La Roche Ltd-Sponsored Atezolizumab Study (IMbrella A)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Hoffmann-La Roche",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-11-30",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Cancer"
+      ],
+      "interventions": [
+        {
+          "name": "Atezolizumab",
+          "type": "DRUG"
+        },
+        {
+          "name": "Bevacizumab",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "Atezolizumab",
+        "Bevacizumab"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT03148418",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Hoffmann-La Roche",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hoffmann-La%20Roche&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-11-16T17:55:35Z"
+      }
+    },
+    {
+      "nct_id": "NCT05438407",
+      "title": "Pediatric Patients Aged 4 to 11 Years With APDS",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Pharming Technologies B.V.",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-11-30",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "APDS"
+      ],
+      "interventions": [
+        {
+          "name": "Leniolisib",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "Leniolisib"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT05438407",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Pharming Technologies B.V.",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Pharming%20Technologies%20B.V.&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-11-16T17:55:39Z"
+      }
+    },
+    {
+      "nct_id": "NCT05462587",
+      "title": "A Study to Evaluate Efficacy and Safety of AVTX-803 in Patients With Leukocyte Adhesion Deficiency Type II",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "AUG Therapeutics",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-11-30",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Leukocyte Adhesion Deficiency"
+      ],
+      "interventions": [
+        {
+          "name": "AVTX-803 (L-Fucose)",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "AVTX-803 (L-Fucose)"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT05462587",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "AUG Therapeutics",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=AUG%20Therapeutics&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-11-16T17:55:22Z"
+      }
+    },
+    {
+      "nct_id": "NCT05924776",
+      "title": "Plasmodium Immunotherapy for Advanced Ovarian Cancer",
+      "status": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE2",
+        "PHASE3"
+      ],
+      "sponsor": "CAS Lamvac (Guangzhou) Biomedical Technology Co., Ltd.",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-11-30",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Advanced Ovarian Cancer"
+      ],
+      "interventions": [
+        {
+          "name": "Plasmodium immunotherapy",
+          "type": "BIOLOGICAL"
+        }
+      ],
+      "drug_names": [
+        "Plasmodium immunotherapy"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT05924776",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "CAS Lamvac (Guangzhou) Biomedical Technology Co., Ltd.",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=CAS%20Lamvac%20%28Guangzhou%29%20Biomedical%20Technology%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-11-16T17:55:32Z"
+      }
+    },
+    {
+      "nct_id": "NCT06129175",
+      "title": "UCMSCs as Treatment for Patients With Acute Ischemic Stroke (Stroke Neuroncell-EX)",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE2",
+        "PHASE3"
+      ],
+      "sponsor": "Cytopeutics Sdn. Bhd.",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-11-30",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Acute Ischemic Stroke"
+      ],
+      "interventions": [
+        {
+          "name": "Neuroncell-EX",
+          "type": "BIOLOGICAL"
+        },
+        {
+          "name": "Placebo",
+          "type": "OTHER"
+        }
+      ],
+      "drug_names": [
+        "Neuroncell-EX"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06129175",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Cytopeutics Sdn. Bhd.",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Cytopeutics%20Sdn.%20Bhd.&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-11-16T17:55:35Z"
+      }
+    },
+    {
+      "nct_id": "NCT06833983",
+      "title": "To Evaluate the Clinical Study of GS1191-0445 Injection in the Treatment of Hemophilia A",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Gritgen Therapeutics Co., Ltd.",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-11-30",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Hemophilia A"
+      ],
+      "interventions": [
+        {
+          "name": "GS1191-0445 injection",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "GS1191-0445 injection"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06833983",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Gritgen Therapeutics Co., Ltd.",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Gritgen%20Therapeutics%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-11-16T17:55:35Z"
+      }
+    },
+    {
+      "nct_id": "NCT06954961",
+      "title": "A Study to Evaluate D-0502 in Subjects With ER+ Her2- Locally Advanced or Metastatic Breast Cancer",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "InventisBio Co., Ltd",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-11-30",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Breast Cancer"
+      ],
+      "interventions": [
+        {
+          "name": "D-0502",
+          "type": "DRUG"
+        },
+        {
+          "name": "Fulvestrant",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "D-0502",
+        "Fulvestrant"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06954961",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "InventisBio Co., Ltd",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=InventisBio%20Co.%2C%20Ltd&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-11-16T17:55:36Z"
+      }
+    },
+    {
+      "nct_id": "NCT06968585",
+      "title": "A Study of A166 Versus Trastuzumab Emtansine (T-DM1) in Patients With HER2-Positive Unresectable or Metastatic Breast Cancer Previously Treated With Trastuzumab and Taxane Therapy",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Sichuan Kelun-Biotech Biopharmaceutical Co., Ltd.",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-11-30",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "HER2-positive Breast Cancer"
+      ],
+      "interventions": [
+        {
+          "name": "A166",
+          "type": "DRUG"
+        },
+        {
+          "name": "T-DM1",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "A166",
+        "T-DM1"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06968585",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Sichuan Kelun-Biotech Biopharmaceutical Co., Ltd.",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Sichuan%20Kelun-Biotech%20Biopharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-11-15T14:35:18Z"
+      }
+    },
+    {
+      "nct_id": "NCT07226258",
+      "title": "Phase III Study to Assess the Safety and Efficacy of SL1002 for Osteoarthritis Knee Pain",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Saol Therapeutics Inc",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-11-30",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Osteoarthritis Knee Pain"
+      ],
+      "interventions": [
+        {
+          "name": "SL1002",
+          "type": "DRUG"
+        },
+        {
+          "name": "Normal Saline",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "SL1002",
+        "Normal Saline"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT07226258",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Saol Therapeutics Inc",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Saol%20Therapeutics%20Inc&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-11-16T17:55:42Z"
+      }
+    },
+    {
+      "nct_id": "NCT07548840",
+      "title": "A Clinical Study of TS-172 in Hyperphosphatemia Patients on Hemodialysis",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Taisho Pharmaceutical Co., Ltd.",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-11-30",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Hyperphosphatemia Patients on Hemodialysis"
+      ],
+      "interventions": [
+        {
+          "name": "TS-172 20~60 mg/day",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "TS-172 20~60 mg/day"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT07548840",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Taisho Pharmaceutical Co., Ltd.",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Taisho%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-11-16T17:55:42Z"
+      }
+    },
+    {
+      "nct_id": "NCT07672561",
+      "title": "A Multicenter, Randomized, Double-Blind, Placebo-Controlled Phase Ⅲ Study to Evaluate the Efficacy and Safety of WD-890 Tablets for the Treatment of Moderate to Severe Plaque Psoriasis",
+      "status": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Zhejiang Wenda Pharma Technology LTD.",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-11-30",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Moderate to Severe Plaque Psoriasis"
+      ],
+      "interventions": [
+        {
+          "name": "Drug:WD-890",
+          "type": "DRUG"
+        },
+        {
+          "name": "Drug: placebo",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "Drug:WD-890",
+        "Drug: placebo"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT07672561",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Zhejiang Wenda Pharma Technology LTD.",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Zhejiang%20Wenda%20Pharma%20Technology%20LTD.&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-11-16T17:55:43Z"
       }
     }
   ]

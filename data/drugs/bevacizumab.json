@@ -1,11 +1,18 @@
 {
   "drug_name": "Bevacizumab",
   "slug": "bevacizumab",
-  "enriched_at": "2026-10-18T12:38:01Z",
+  "enriched_at": "2026-11-16T18:00:11Z",
   "source_trial_ids": [
+    "NCT03148418",
     "NCT06618664"
   ],
   "sponsors": [
+    {
+      "name": "Hoffmann-La Roche",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hoffmann-La%20Roche&type=10-K&dateb=&owner=include&count=40"
+    },
     {
       "name": "Suzhou Suncadia Biopharmaceuticals Co., Ltd.",
       "ticker": null,
@@ -49,6 +56,13 @@
   },
   "source_trials": [
     {
+      "nct_id": "NCT03148418",
+      "title": "A Study in Participants Previously Enrolled in a Genentech- and/or F. Hoffmann-La Roche Ltd-Sponsored Atezolizumab Study (IMbrella A)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT03148418",
+      "has_results": false
+    },
+    {
       "nct_id": "NCT06618664",
       "title": "A Clinical Study of SHR-8068 Combined With Adebrelimab and Bevacizumab Versus Sintilimab Combined With Bevacizumab for the Treatment of Advanced Hepatocellular Carcinoma (KYLIN-02)",
       "status": "RECRUITING",
@@ -60,34 +74,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42885719",
-        "title": "WIN-MTB-2024002 - WIN International Molecular Tumor Board: A 52-year-old female with unmeasurable Stage IIIc colon cancer.",
-        "pubdate": "2026 Oct 16",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42885719/"
+        "pmid": "43013925",
+        "title": "BEHOLD phase 3 clinical development program of mocertatug rezetecan in ovarian and endometrial cancer.",
+        "pubdate": "2026 Nov 11",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43013925/"
       },
       {
-        "pmid": "42867445",
-        "title": "Combination therapies for the treatment of locally advanced and advanced cervical cancer.",
-        "pubdate": "2026 Oct 13",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42867445/"
+        "pmid": "42968188",
+        "title": "Short-term effects of oral curcumin as adjunct to intravitreal bevacizumab in diabetic macular edema: a randomized clinical trial.",
+        "pubdate": "2026 Aug 3",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42968188/"
       },
       {
-        "pmid": "42850140",
-        "title": "BEHOLD-1 and -2: phase 1/2 randomized studies evaluating the B7 homolog 4 protein-targeted antibody-drug conjugate mocertatug rezetecan in patients with solid tumors, including endometrial and ovarian cancers.",
-        "pubdate": "2026 Sep 7",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42850140/"
+        "pmid": "42945979",
+        "title": "Pazopanib alternating with bevacizumab in patients with metastatic clear-cell renal cell carcinoma naive to treatment: a multicentre, single-arm, phase 1/2 trial.",
+        "pubdate": "2026 Oct 27",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42945979/"
       },
       {
-        "pmid": "42821287",
-        "title": "Rethinking Treatment Intensification in Poorly Chemosensitive Ovarian Cancer: A Review.",
-        "pubdate": "2026 Oct 1",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42821287/"
+        "pmid": "42945772",
+        "title": "Immune checkpoint inhibitors in platinum-resistant ovarian cancer: Clinical disappointments, biological lessons, and the reopening of therapeutic opportunities.",
+        "pubdate": "2026 Oct 24",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42945772/"
       },
       {
-        "pmid": "42820658",
-        "title": "DUBHE-H-308 study protocol: rationale and adaptive design of a randomized, open-label, seamless phaseII/III trial of iparomlimab and tuvonralimab (QL1706)-based regimens versus sintilimab plus bevacizumab as first-line treatment for advanced hepatocellular carcinoma.",
-        "pubdate": "2026 Oct 1",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42820658/"
+        "pmid": "42945508",
+        "title": "PARP Inhibitors in the Management of Ovarian Cancer: ASCO Living Guideline, Version 2026.1.0.",
+        "pubdate": "2026 Oct 27",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42945508/"
       }
     ]
   },
@@ -96,52 +110,52 @@
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
     "items": [
       {
-        "name": "PEGAPTANIB SODIUM",
+        "name": "CHEMBL1201421",
         "chembl_id": "CHEMBL1201421",
         "reason": "same target: Vascular endothelial growth factor A, long form"
       },
       {
-        "name": "RANIBIZUMAB",
+        "name": "CHEMBL1201825",
         "chembl_id": "CHEMBL1201825",
         "reason": "same target: Vascular endothelial growth factor A, long form"
       },
       {
-        "name": "AFLIBERCEPT",
+        "name": "CHEMBL1742982",
         "chembl_id": "CHEMBL1742982",
         "reason": "same target: Vascular endothelial growth factor A, long form"
       },
       {
-        "name": "BEVACIZUMAB 111IN",
+        "name": "CHEMBL3707253",
         "chembl_id": "CHEMBL3707253",
         "reason": "same target: Vascular endothelial growth factor A, long form"
       },
       {
-        "name": "MUPARFOSTAT",
+        "name": "CHEMBL4297163",
         "chembl_id": "CHEMBL4297163",
         "reason": "same target: Vascular endothelial growth factor A, long form"
       },
       {
-        "name": "CONBERCEPT",
+        "name": "CHEMBL2108313",
         "chembl_id": "CHEMBL2108313",
         "reason": "same target: Vascular endothelial growth factor A, long form"
       },
       {
-        "name": "BROLUCIZUMAB",
+        "name": "CHEMBL3707357",
         "chembl_id": "CHEMBL3707357",
         "reason": "same target: Vascular endothelial growth factor A, long form"
       },
       {
-        "name": "VANUCIZUMAB",
+        "name": "CHEMBL3545259",
         "chembl_id": "CHEMBL3545259",
         "reason": "same target: Vascular endothelial growth factor A, long form"
       },
       {
-        "name": "FARICIMAB",
+        "name": "CHEMBL4297750",
         "chembl_id": "CHEMBL4297750",
         "reason": "same target: Vascular endothelial growth factor A, long form"
       },
       {
-        "name": "ABICIPAR PEGOL",
+        "name": "CHEMBL4297684",
         "chembl_id": "CHEMBL4297684",
         "reason": "same target: Vascular endothelial growth factor A, long form"
       }

@@ -1,7 +1,7 @@
 {
   "drug_name": "THP-00106",
   "slug": "thp-00106",
-  "enriched_at": "2026-11-09T17:24:45Z",
+  "enriched_at": "2026-11-16T18:08:37Z",
   "source_trial_ids": [
     "NCT06647745"
   ],
@@ -65,22 +65,17 @@
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
     "items": [
       {
-        "name": "Retatrutide",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Eli Lilly and Company"
-      },
-      {
-        "name": "Placebo",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Eli Lilly and Company"
-      },
-      {
         "name": "HDM1002 200 mg",
         "chembl_id": null,
         "reason": "same indication trial, sponsor: Hangzhou Zhongmei Huadong Pharmaceutical Co., Ltd."
       },
       {
         "name": "HDM1002 400 mg",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Hangzhou Zhongmei Huadong Pharmaceutical Co., Ltd."
+      },
+      {
+        "name": "Placebo",
         "chembl_id": null,
         "reason": "same indication trial, sponsor: Hangzhou Zhongmei Huadong Pharmaceutical Co., Ltd."
       },
@@ -93,6 +88,11 @@
         "name": "China Import (dapagliflozin) + China Import (saxagliptin) + Metformin Oral Mix Treat type 2 diabetes",
         "chembl_id": null,
         "reason": "same indication trial, sponsor: Han Xu, M.D., Ph.D., FAPCR, Medical Director,, IRB Chair"
+      },
+      {
+        "name": "Retatrutide",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Eli Lilly and Company"
       },
       {
         "name": "Prusogliptin, Dapagliflozin(high dose), Dapagliflozin (low dose) placebo, plus metformin XR",

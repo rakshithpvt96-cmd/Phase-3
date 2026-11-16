@@ -1,0 +1,74 @@
+{
+  "drug_name": "Neuroncell-EX",
+  "slug": "neuroncell-ex",
+  "enriched_at": "2026-11-16T18:13:04Z",
+  "source_trial_ids": [
+    "NCT06129175"
+  ],
+  "sponsors": [
+    {
+      "name": "Cytopeutics Sdn. Bhd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Cytopeutics%20Sdn.%20Bhd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2203558",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL382277",
+    "target_chembl_id": "CHEMBL4506",
+    "target_name": "NAD-dependent protein deacetylase sirtuin-1",
+    "mechanism_of_action_chembl": "NAD-dependent deacetylase sirtuin 1 inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Neuroncell-EX+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Neuroncell-EX+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Neuroncell-EX+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Acute Ischemic Stroke",
+    "slug": "acute-ischemic-stroke"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06129175",
+      "title": "UCMSCs as Treatment for Patients With Acute Ischemic Stroke (Stroke Neuroncell-EX)",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06129175",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "SRT-2104",
+        "chembl_id": "CHEMBL4297436",
+        "reason": "same target: NAD-dependent protein deacetylase sirtuin-1"
+      }
+    ]
+  }
+}

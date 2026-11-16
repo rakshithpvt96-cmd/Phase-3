@@ -1,0 +1,105 @@
+{
+  "drug_name": "Metformin XR",
+  "slug": "metformin-xr",
+  "enriched_at": "2026-11-16T18:12:52Z",
+  "source_trial_ids": [
+    "NCT07937449"
+  ],
+  "sponsors": [
+    {
+      "name": "Dexa Medica Group",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Dexa%20Medica%20Group&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 44573417,
+    "iupac_name": "1-carbamimidoyl-1,2-dimethylguanidine;hydrochloride",
+    "molecular_formula": "C4H12ClN5",
+    "molecular_weight": "165.62",
+    "canonical_smiles": null,
+    "inchikey": "GWWIHNWMWIJWRT-UHFFFAOYSA-N",
+    "rxnorm": {
+      "rxcui": "2200517",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL494397",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Metformin%20XR+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Metformin%20XR+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Metformin%20XR+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Prediabetes",
+    "slug": "prediabetes"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07937449",
+      "title": "The Efficacy and Safety of DLBS3233 in Adults With Prediabetes",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT07937449",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "43015023",
+        "title": "Effects of henagliflozin proline tablets versus metformin extended-release tablets on body composition in geriatric patients with newly diagnosed type 2 diabetes mellitus (HABIT-GEMs): study protocol for a multicentre, randomised, open-label trial.",
+        "pubdate": "2026 Nov 11",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43015023/"
+      },
+      {
+        "pmid": "42961607",
+        "title": "Bioequivalence of China- and Germany-Manufactured Extended-Release Reduced-Mass Metformin (Glucophage(®) XR RM) Tablets Under Fasted and Fed Conditions in Healthy Participants: An Open-Label, Randomized, Single-Center Crossover Study.",
+        "pubdate": "2026 Oct 30",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42961607/"
+      },
+      {
+        "pmid": "41262261",
+        "title": "Study protocol of a multicenter, randomized, non-inferiority, open-label study investigating the efficacy of a fixed-dose combination regimen of dapagliflozin/metformin versus co-administered dual therapy based on glycemic control, satisfaction and adherence in patients with newly diagnosed type 2 diabetes mellitus.",
+        "pubdate": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41262261/"
+      },
+      {
+        "pmid": "39821190",
+        "title": "Effectiveness and Safety of Vildagliptin Sustained Release in the Management of Type 2 Diabetes Mellitus: Real-World Evidence in Indian Patients [NOVELTY Study].",
+        "pubdate": "2025 Mar",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39821190/"
+      },
+      {
+        "pmid": "39033369",
+        "title": "The Efficacy and Safety of DLBS3233, A Combined Bioactive Fraction of Cinnamomum burmanii and Lagerstroemia speciosa Plants on The Endocrine-Metabolic Profile of Women with Polycystic Ovary Syndrome: A Randomized Clinical Trial.",
+        "pubdate": "2024 Jul 13",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39033369/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

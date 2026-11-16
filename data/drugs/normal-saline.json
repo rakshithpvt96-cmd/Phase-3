@@ -1,0 +1,105 @@
+{
+  "drug_name": "Normal Saline",
+  "slug": "normal-saline",
+  "enriched_at": "2026-11-16T18:05:21Z",
+  "source_trial_ids": [
+    "NCT07226258"
+  ],
+  "sponsors": [
+    {
+      "name": "Saol Therapeutics Inc",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Saol%20Therapeutics%20Inc&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 5234,
+    "iupac_name": "sodium chloride",
+    "molecular_formula": "ClNa",
+    "molecular_weight": "58.44",
+    "canonical_smiles": null,
+    "inchikey": "FAPWRFPIFSIZLT-UHFFFAOYSA-M",
+    "rxnorm": {
+      "rxcui": "1866877",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2108783",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": "This products designed for gentle cleaning of the face, mouth, nose, eyes, ears,and wounds. It can also be used with a nebulizer to help relieve discomfort in the nose and mouth.",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "Nacl 0.9% Normal Saline Solution"
+    ],
+    "openfda_generic_names": [
+      "SODIUM CHLORIDE"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5a53c4c8-c9de-700c-e063-6394a90a3ab5",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Osteoarthritis Knee Pain",
+    "slug": "osteoarthritis-knee-pain"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07226258",
+      "title": "Phase III Study to Assess the Safety and Efficacy of SL1002 for Osteoarthritis Knee Pain",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07226258",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "43034572",
+        "title": "Comparing the Effects of Premedication With Low-Dose Midazolam, Low-Dose Etomidate, and Transcutaneous Acupoint Electrical Stimulation on Reducing Etomidate-Induced Myoclonic Movements and Pain: A Single-Blind Randomized Clinical Trial.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43034572/"
+      },
+      {
+        "pmid": "43032850",
+        "title": "Study of the effect of tranexamic acid in controlling periapical bleeding during root canal therapy and the performance of biological materials.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43032850/"
+      },
+      {
+        "pmid": "43024079",
+        "title": "Caffeine for prevention of acute kidney injury in neonates with perinatal asphyxia: a randomized placebo-controlled trial.",
+        "pubdate": "2026 Nov 13",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43024079/"
+      },
+      {
+        "pmid": "43016697",
+        "title": "Impact of administration timing of subanesthetic doses of esketamine on emergence agitation in patients undergoing nasal endoscopic surgery: a randomized controlled trial.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43016697/"
+      },
+      {
+        "pmid": "43009911",
+        "title": "Effect of gluma® on the oral health-related quality of life in patients with dentine hypersensitivity: a triple-blind, randomized, controlled clinical trial.",
+        "pubdate": "2026 Aug 8",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43009911/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

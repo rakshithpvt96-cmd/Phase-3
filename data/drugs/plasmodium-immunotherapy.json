@@ -1,0 +1,99 @@
+{
+  "drug_name": "Plasmodium immunotherapy",
+  "slug": "plasmodium-immunotherapy",
+  "enriched_at": "2026-11-16T18:13:46Z",
+  "source_trial_ids": [
+    "NCT05924776"
+  ],
+  "sponsors": [
+    {
+      "name": "CAS Lamvac (Guangzhou) Biomedical Technology Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=CAS%20Lamvac%20%28Guangzhou%29%20Biomedical%20Technology%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1432989",
+      "generic_name": "Plasmodium malariae",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2108717",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Plasmodium%20immunotherapy+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Plasmodium%20immunotherapy+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Plasmodium%20immunotherapy+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Advanced Ovarian Cancer",
+    "slug": "advanced-ovarian-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05924776",
+      "title": "Plasmodium Immunotherapy for Advanced Ovarian Cancer",
+      "status": "NOT_YET_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05924776",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42030969",
+        "title": "Duration and association with protection of NANP-repeat-specific and C-terminus-specific anti-circumsporozoite protein IgG responses following RTS,S/AS01(E) vaccination: an observational ancillary immunological study of a phase 3 clinical trial.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42030969/"
+      },
+      {
+        "pmid": "40692795",
+        "title": "R21/Matrix-M malaria vaccine drives diverse immune responses in pre-exposed adults: insights from a phase IIb controlled human malaria infection trial.",
+        "pubdate": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40692795/"
+      },
+      {
+        "pmid": "40642064",
+        "title": "Vaccine-induced responses to R21/Matrix-M - an analysis of samples from a phase 1b age de-escalation, dose-escalation trial.",
+        "pubdate": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40642064/"
+      },
+      {
+        "pmid": "39490199",
+        "title": "Heterogeneity of the human immune response to malaria infection and vaccination driven by latent cytomegalovirus infection.",
+        "pubdate": "2024 Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39490199/"
+      },
+      {
+        "pmid": "39461358",
+        "title": "The effect of Plasmodium falciparum exposure and maternal anti-circumsporozoite protein antibodies on responses to RTS,S/AS01(E) vaccination in infants and children: an ancillary observational immunological study to a phase 3, randomised clinical trial.",
+        "pubdate": "2025 Mar",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39461358/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

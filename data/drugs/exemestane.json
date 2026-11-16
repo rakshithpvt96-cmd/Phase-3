@@ -1,13 +1,13 @@
 {
   "drug_name": "Exemestane",
   "slug": "exemestane",
-  "enriched_at": "2026-10-17T11:31:00Z",
+  "enriched_at": "2026-11-16T18:02:46Z",
   "source_trial_ids": [
     "NCT06016738"
   ],
   "sponsors": [
     {
-      "name": "Olema Pharmaceuticals, Inc.",
+      "name": "Olema Oncology, Inc.",
       "ticker": "OLMA",
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001750284&type=10-K&dateb=&owner=include&count=40"
@@ -45,7 +45,7 @@
     "openfda_generic_names": [
       "EXEMESTANE"
     ],
-    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fab5468a-d5b7-45e3-b8b2-ed902fddd3a6",
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=392b5b4f-3fb4-4ba7-a15a-6022298db719",
     "note": null,
     "further_reading": null
   },
@@ -65,6 +65,12 @@
   "prior_results": {
     "ctgov_results_urls": [],
     "pubmed_articles": [
+      {
+        "pmid": "43002362",
+        "title": "Imlunestrant as Monotherapy or in Combination with Abemaciclib in ER+, HER2- Advanced Breast Cancer: Chinese Subgroup Analysis of the Phase III Randomized EMBER-3 Study.",
+        "pubdate": "2026 Nov 9",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43002362/"
+      },
       {
         "pmid": "42814929",
         "title": "Giredestrant plus Everolimus in Advanced Breast Cancer.",
@@ -88,12 +94,6 @@
         "title": "A biology-based quality-diversity algorithm for drug repurposing in Alzheimer's disease using automated machine learning.",
         "pubdate": "2026 Mar 30",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41913218/"
-      },
-      {
-        "pmid": "40974664",
-        "title": "Artificial intelligence and radiomics biomarkers for treatment response prediction in advanced HER2-negative breast cancer.",
-        "pubdate": "2025 Dec",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/40974664/"
       }
     ]
   },

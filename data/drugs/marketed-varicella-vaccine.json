@@ -1,7 +1,7 @@
 {
   "drug_name": "Marketed varicella vaccine",
   "slug": "marketed-varicella-vaccine",
-  "enriched_at": "2026-11-09T17:31:45Z",
+  "enriched_at": "2026-11-16T18:12:44Z",
   "source_trial_ids": [
     "NCT06693895",
     "NCT06855160"
@@ -22,10 +22,10 @@
     }
   },
   "mechanism": {
-    "chembl_id": null,
+    "chembl_id": "CHEMBL2108573",
     "target_chembl_id": null,
     "target_name": null,
-    "mechanism_of_action_chembl": null
+    "mechanism_of_action_chembl": "Biological vaccine - induces immune response"
   },
   "fda_label": {
     "has_label": false,

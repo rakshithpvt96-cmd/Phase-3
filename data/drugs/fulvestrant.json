@@ -1,11 +1,12 @@
 {
   "drug_name": "Fulvestrant",
   "slug": "fulvestrant",
-  "enriched_at": "2026-10-30T14:26:39Z",
+  "enriched_at": "2026-11-16T18:03:12Z",
   "source_trial_ids": [
     "NCT05646862",
     "NCT06016738",
-    "NCT06635447"
+    "NCT06635447",
+    "NCT06954961"
   ],
   "sponsors": [
     {
@@ -21,7 +22,13 @@
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hoffmann-La%20Roche&type=10-K&dateb=&owner=include&count=40"
     },
     {
-      "name": "Olema Pharmaceuticals, Inc.",
+      "name": "InventisBio Co., Ltd",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=InventisBio%20Co.%2C%20Ltd&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Olema Oncology, Inc.",
       "ticker": "OLMA",
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001750284&type=10-K&dateb=&owner=include&count=40"
@@ -88,16 +95,35 @@
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT06635447",
       "has_results": false
+    },
+    {
+      "nct_id": "NCT06954961",
+      "title": "A Study to Evaluate D-0502 in Subjects With ER+ Her2- Locally Advanced or Metastatic Breast Cancer",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06954961",
+      "has_results": false
     }
   ],
   "prior_results": {
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42926108",
-        "title": "Overall survival from the phase III postMONARCH trial of abemaciclib plus fulvestrant versus placebo plus fulvestrant for HR+, HER2- advanced breast cancer following progression on a prior CDK4/6 inhibitor plus endocrine therapy.",
-        "pubdate": "2026 Oct 24",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42926108/"
+        "pmid": "43008349",
+        "title": "Analytical and clinical validation of Ion Torrent™ Oncomine™ Dx Express Test for identifying PIK3CA/AKT1/PTEN-altered tumors in patients with hormone receptor-positive advanced breast cancer for treatment with capivasertib.",
+        "pubdate": "2026 Nov 10",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43008349/"
+      },
+      {
+        "pmid": "43002362",
+        "title": "Imlunestrant as Monotherapy or in Combination with Abemaciclib in ER+, HER2- Advanced Breast Cancer: Chinese Subgroup Analysis of the Phase III Randomized EMBER-3 Study.",
+        "pubdate": "2026 Nov 9",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43002362/"
+      },
+      {
+        "pmid": "42873573",
+        "title": "A randomized phase II study of fulvestrant with or without ganetespib in patients with endocrine-resistant metastatic breast cancer.",
+        "pubdate": "2026 Oct 7",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42873573/"
       },
       {
         "pmid": "42814929",
@@ -110,18 +136,6 @@
         "title": "Cost-effectiveness of inavolisib-based therapy in PIK3CA-mutated advanced breast cancer in the USA.",
         "pubdate": "2026 Oct",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42543051/"
-      },
-      {
-        "pmid": "42265710",
-        "title": "Targeting drug resistance in breast cancer: a dual-perspective landscape analysis of PROTACs from bench to bedside.",
-        "pubdate": "2026 Jun 9",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42265710/"
-      },
-      {
-        "pmid": "42216212",
-        "title": "Real-world data for a CDK4/6 inhibitor, palbociclib, as 1st- or 2nd-line therapy in HR+/HER2- metastatic breast cancer: a multicenter prospective cohort study.",
-        "pubdate": "2026 May 29",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42216212/"
       }
     ]
   },

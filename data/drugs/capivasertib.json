@@ -1,7 +1,7 @@
 {
   "drug_name": "Capivasertib",
   "slug": "capivasertib",
-  "enriched_at": "2026-10-17T11:29:47Z",
+  "enriched_at": "2026-11-16T18:00:53Z",
   "source_trial_ids": [
     "NCT06635447"
   ],
@@ -27,27 +27,27 @@
     }
   },
   "mechanism": {
-    "chembl_id": "CHEMBL2325741",
-    "target_chembl_id": "CHEMBL2111353",
-    "target_name": "Serine/threonine-protein kinase AKT",
-    "mechanism_of_action_chembl": "Serine/threonine-protein kinase AKT inhibitor"
+    "chembl_id": null,
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
   },
   "fda_label": {
     "has_label": true,
-    "source": "DailyMed",
-    "mechanism_of_action": null,
-    "pharmacokinetics": null,
-    "indications_and_usage": null,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Capivasertib is an inhibitor of all 3 isoforms of serine/threonine kinase AKT (AKT1, AKT2 and AKT3) and inhibits phosphorylation of downstream AKT substrates. AKT activation in tumors is a result of activation of upstream signaling pathways, mutations in AKT1 , loss of phosphatase and tensin homolog (PTEN) function and mutations in the catalytic subunit alpha of phosphatidylinositol 3-kinase ( PIK3CA ). In vitro , capivasertib reduced growth of breast cancer cell lines including those with relevant PIK3CA or AKT1 mutations or PTEN alteration. In vivo , capivasertib alone and in combination with fulvestrant inhibited tumor growth of mouse xenograft models including estrogen receptor positive breast cancer models with alterations in PIK3CA, AKT1 , and PTEN . In vitro , capivasertib reduced growth of AR-positive PTEN deficient prostate cancer cell lines. In vivo , capivasertib inhibited tumor growth in mouse xenograft models bearing PTEN-deficient prostate cancer cells and demonstrated increased antitumor activity when used in combination with abiraterone.",
+    "pharmacokinetics": "12.3 Pharmacokinetics Capivasertib pharmacokinetic parameters are presented as the geometric mean [geometric % coefficient of variation (%CV)], unless otherwise specified. The capivasertib steady-state AUC is 7,356 h·ng/mL (38%) and C max is 1,247 ng/mL (28%). Steady-state concentrations are predicted to be attained on the 3rd and 4th dosing day of each week, starting week 2. Capivasertib plasma concentrations are approximately 0.2% to 5.1% of the steady state Cmax during the off-dosing days. Capivasertib AUC and C max are proportional with dose over a range of 80 to 800 mg (0.2 to 2 times the approved recommended dosage). Absorption T max is approximately 1-2 hours. The absolute bioavailability is 29%. Effect of Food No clinically meaningful differences in capivasertib pharmacokinetics were observed following administration of TRUQAP with a high-fat meal (approximately 1,000 kcal; fat 60%) or a low-fat meal (approximately 400 kcal; fat 26%). Distribution The steady state oral volume of distribution is 1,847 L (36%). Capivasertib plasma protein binding is 78% and the plasma-to-blood ratio is 0.71. Elimination The half-life is 8.3 hours, and the steady-state oral clearance is 50 L/h (37% CV). Renal clearance was 21% of total clearance. Metabolism Capivasertib is primarily metabolized by CYP3A4 and UGT2B7. Excretion Following a single radiolabeled oral dose of 400 mg, the mean total recovery was 45% from urine and 50% from feces. Specific Populations No clinically significant differences in capivasertib pharmacokinetics were observed based on race/ethnicity (including White, Asian, Black, American Indian or Alaskan Native, and Native Hawaiian or Other Pacific Islander), sex (88% females), body weight (32 to 150 kg), age (26 to 87 years), mild hepatic impairment (bilirubin ≤ ULN and AST > ULN or bilirubin > 1 to 1.5x ULN), or mild to moderate renal impairment (CLcr 30 to 89 mL/min). The effect of moderate (bilirubin > 1.5 to 3x ULN and any AST) hepatic impairment is not fully characterized. TRUQAP has not been studied in patients with severe (bilirubin > 3x ULN and any AST) hepatic impairment or severe renal impairment (CLcr 15 to 29 mL/min). Drug Interaction Studies Clinical Studies and Model-Informed Approaches Effect of Strong and Moderate CYP3A Inhibitors on Capivasertib: Itraconazole (strong CYP3A4 inhibitor) is predicted to increase capivasertib AUC by up to 1.7-fold and C max by up to 1.4-fold. Erythromycin and verapamil (moderate CYP3A inhibitors) are predicted to increase capivasertib AUC by up to 1.5-fold and C max by up to 1.3-fold. Effect of Strong and Moderate CYP3A Inducers on Capivasertib: Rifampicin (strong CYP3A4 inducer) is predicted to decrease capivasertib AUC by 70% and C max by 60%. Efavirenz (moderate CYP3A4 inducer) is predicted to decrease capivasertib AUC by 60% and C max by 50%. Effect of UGT2B7 Inhibitors on Capivasertib: Probenecid (UGT2B7 inhibitor) is not predicted to have a clinically meaningful effect on capivasertib pharmacokinetics. Effect of Acid Reducing Agents on Capivasertib: Rabeprazole (gastric acid reducing agent) did not have a clinically meaningful effect on capivasertib pharmacokinetics. Effect of Capivasertib on CYP3A Substrates: Concomitant use of TRUQAP increased midazolam (CYP3A substrate) AUC by 1.8-fold on day 4 and by 1.2-fold on day 7. Effect of Capivasertib on CYP2D6 Substrates: TRUQAP is predicted to increase desipramine (CYP2D6 substrate) AUC by up to 2.1-fold on day 4. Effect of Capivasertib on CYP2C9 Substrates: Concomitant use of TRUQAP with warfarin (CYP2C9 substrate) is not predicted to have a clinically meaningful effect on warfarin pharmacokinetics. Effect of Capivasertib on UGT1A1 Substrates: TRUQAP is predicted to increase raltegravir (UGT1A1 substrate) AUC by up to 1.7-fold on day 4. In-Vitro Studies CYP450 Enzymes: Capivasertib induces CYP1A2. Transporter Systems: Capivasertib inhibits BCRP, OATP1B1, OATP1B3, OAT3, MATE1, MATE2-K, and OCT2.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE TRUQAP is a kinase inhibitor indicated: HR-Positive, HER2-Megative Locally Advanced or Metastatic Breast Cancer • in combination with fulvestrant for the treatment of adult patients with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative, locally advanced or metastatic breast cancer with one or more PIK3CA/AKT1/PTEN-alterations as detected by an FDA-authorized test following progression on at least one endocrine-based regimen in the metastatic setting or recurrence on or within 12 months of completing adjuvant therapy. ( 1.1 ) PTEN-Deficient Metastatic Androgen Pathway Modulation-Naïve or -Sensitive (mAPMN/S) Prostate Cancer • in combination with abiraterone and prednisone for the treatment of adult patients with metastatic androgen pathway modulation-naïve or -sensitive (mAPMN/S) prostate cancer that is PTEN-deficient as detected by an FDA-authorized test. ( 1.2 ) 1.1 HR-Positive, HER2-Negative Locally Advanced or Metastatic Breast Cancer TRUQAP, in combination with fulvestrant, is indicated for the treatment of adult patients with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative, locally advanced or metastatic breast cancer with one or more PIK3CA/AKT1/PTEN -alteration as detected by an FDA-authorized test following progression on at least one endocrine-based regimen in the metastatic setting or recurrence on or within 12 months of completing adjuvant therapy. 1.2 PTEN-Deficient Metastatic Androgen Pathway Modulation-Naïve or -Sensitive Prostate Cancer TRUQAP, in combination with abiraterone and prednisone, is indicated for the treatment of adult patients with metastatic androgen pathway modulation-naïve or -sensitive (mAPMN/S) prostate cancer that is PTEN-deficient as detected by an FDA-authorized test.",
     "boxed_warning": null,
-    "openfda_brand_names": [],
-    "openfda_generic_names": [],
+    "openfda_brand_names": [
+      "TRUQAP"
+    ],
+    "openfda_generic_names": [
+      "CAPIVASERTIB"
+    ],
     "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d698c106-2322-401e-b738-cbd83c843ecf",
-    "note": "A label exists in DailyMed but structured sections could not be parsed automatically -- see dailymed_url for the full label.",
-    "further_reading": {
-      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Capivasertib+mechanism+of+action",
-      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Capivasertib+pharmacokinetics",
-      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Capivasertib+efficacy+phase+3"
-    }
+    "note": null,
+    "further_reading": null
   },
   "condition": {
     "raw": "Breast Cancer",
@@ -66,6 +66,18 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "43008349",
+        "title": "Analytical and clinical validation of Ion Torrent™ Oncomine™ Dx Express Test for identifying PIK3CA/AKT1/PTEN-altered tumors in patients with hormone receptor-positive advanced breast cancer for treatment with capivasertib.",
+        "pubdate": "2026 Nov 10",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43008349/"
+      },
+      {
+        "pmid": "42924219",
+        "title": "Bacterial Meningitis Following Robot-Assisted Radical Prostatectomy After Neoadjuvant Precision Oncology-Directed Therapy: A Case Report.",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42924219/"
+      },
+      {
         "pmid": "41993992",
         "title": "Redefining standards: a comprehensive systematic review of practice changing advances in GU oncology from ASCO and ESMO 2025.",
         "pubdate": "2026",
@@ -82,74 +94,52 @@
         "title": "Optimizing clinical monitoring and management guidelines for capivasertib in HR-positive/HER2-negative advanced breast cancer: expert opinion.",
         "pubdate": "2025 Dec 4",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41345397/"
-      },
-      {
-        "pmid": "41076600",
-        "title": "Clinical significance on switching CDK4/6 inhibitors among 13,284 patients with metastatic breast cancer.",
-        "pubdate": "2025 Nov",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41076600/"
-      },
-      {
-        "pmid": "40615716",
-        "title": "AKT/mTOR as a targetable hub to overcome multimodal resistance to EGFR inhibitors in oesophageal squamous cell carcinoma.",
-        "pubdate": "2025 Sep",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/40615716/"
       }
     ]
   },
   "related_drugs": {
-    "method": "chembl_same_target",
+    "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
     "items": [
       {
-        "name": "MIRANSERTIB",
-        "chembl_id": "CHEMBL4297188",
-        "reason": "same target: Serine/threonine-protein kinase AKT"
+        "name": "Afuresertib",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Laekna Limited"
       },
       {
-        "name": "GSK-690693",
-        "chembl_id": "CHEMBL494089",
-        "reason": "same target: Serine/threonine-protein kinase AKT"
+        "name": "Afuresertib/placebo",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Laekna Limited"
       },
       {
-        "name": "LY-2780301",
-        "chembl_id": "CHEMBL3545134",
-        "reason": "same target: Serine/threonine-protein kinase AKT"
+        "name": "Nuvastatic 300",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Natureceuticals Sdn Bhd"
       },
       {
-        "name": "MK-2201",
-        "chembl_id": "CHEMBL3545000",
-        "reason": "same target: Serine/threonine-protein kinase AKT"
+        "name": "Placebo",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Natureceuticals Sdn Bhd"
       },
       {
-        "name": "XL-418",
-        "chembl_id": "CHEMBL2016893",
-        "reason": "same target: Serine/threonine-protein kinase AKT"
+        "name": "Palazestrant",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Olema Oncology, Inc."
       },
       {
-        "name": "AFURESERTIB",
-        "chembl_id": "CHEMBL2219422",
-        "reason": "same target: Serine/threonine-protein kinase AKT"
+        "name": "Fulvestrant",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Olema Oncology, Inc."
       },
       {
-        "name": "UPROSERTIB",
-        "chembl_id": "CHEMBL3137336",
-        "reason": "same target: Serine/threonine-protein kinase AKT"
+        "name": "Anastrozole",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Olema Oncology, Inc."
       },
       {
-        "name": "MK-2206",
-        "chembl_id": "CHEMBL1079175",
-        "reason": "same target: Serine/threonine-protein kinase AKT"
-      },
-      {
-        "name": "IPATASERTIB",
-        "chembl_id": "CHEMBL2177390",
-        "reason": "same target: Serine/threonine-protein kinase AKT"
-      },
-      {
-        "name": "TRICIRIBINE PHOSPHATE",
-        "chembl_id": "CHEMBL462018",
-        "reason": "same target: Serine/threonine-protein kinase AKT"
+        "name": "Letrozole",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Olema Oncology, Inc."
       }
     ]
   }

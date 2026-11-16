@@ -1,0 +1,156 @@
+{
+  "drug_name": "Leniolisib",
+  "slug": "leniolisib",
+  "enriched_at": "2026-11-16T18:04:23Z",
+  "source_trial_ids": [
+    "NCT05438407"
+  ],
+  "sponsors": [
+    {
+      "name": "Pharming Technologies B.V.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Pharming%20Technologies%20B.V.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 57495353,
+    "iupac_name": "1-[(3S)-3-[[6-[6-methoxy-5-(trifluoromethyl)-3-pyridinyl]-7,8-dihydro-5H-pyrido[4,3-d]pyrimidin-4-yl]amino]pyrrolidin-1-yl]propan-1-one",
+    "molecular_formula": "C21H25F3N6O2",
+    "molecular_weight": "450.5",
+    "canonical_smiles": null,
+    "inchikey": "MWKYMZXCGYXLPL-ZDUSSCGKSA-N",
+    "rxnorm": {
+      "rxcui": "2633005",
+      "generic_name": "leniolisib",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL3643413",
+    "target_chembl_id": "CHEMBL3130",
+    "target_name": "Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit delta isoform",
+    "mechanism_of_action_chembl": "PI3-kinase p110-delta subunit inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Leniolisib inhibits PI3K-delta by blocking the active binding site of PI3K-delta. In cell-free isolated enzyme assays, leniolisib was selective for PI3K-delta over PI3K-alpha (28-fold), PI3K-beta (43-fold), and PI3K-gamma (257-fold), as well as the broader kinome. In cell-based assays, leniolisib reduced pAkt pathway activity and inhibited proliferation and activation of B and T cell subsets. Gain-of-function variants in the gene encoding the p110-delta catalytic subunit or loss of function variants in the gene encoding the p85-alpha regulatory subunit each cause hyperactivity of PI3K-delta. Leniolisib inhibits the signaling pathways that lead to increased production of PIP3, hyperactivity of the downstream mTOR/Akt pathway, and to the dysregulation of B and T cells.",
+    "pharmacokinetics": "12.3 Pharmacokinetics The systemic drug exposure (AUC and C max ) of leniolisib increased dose proportionally within the studied range of doses (20 to 140 mg twice a day dosing and single doses of 10 to 400 mg) in healthy adult participants. During twice daily dosing approximately 12 hours apart, leniolisib accumulates approximately 1.4-fold (range of 1.0 to 2.2) in achieving steady-state, consistent with an effective half-life (t 1/2 ) of approximately 7 hours. Steady state drug concentrations can be expected to be reached after approximately 2 to 3 days of JOENJA treatment. The pharmacokinetics of leniolisib are similar between healthy participants and APDS patients. Absorption In a placebo controlled, single and multiple ascending dose study in healthy adult participants, leniolisib median time to maximum plasma concentration (T max ) occurred at about 1 hour postdose. T max appeared independent of dose and was not altered after multiple oral doses. Food is unlikely to have a clinically meaningful effect on the systemic exposure of leniolisib during JOENJA treatment. Distribution The systemic decay in leniolisib plasma concentration over time is bi-exponential, indicating a distribution delay towards peripheral tissues. The apparent terminal elimination t 1/2 is approximately 10 hours. The volume of distribution of leniolisib is estimated to be 28.5 L in patients with APDS. Leniolisib was highly bound (94.5%) to plasma proteins. Elimination The mean recovery of total 14C-radioactivity following a single oral dose of 70 mg 14C-leniolisib in adult males was 92.5% (67.0% and 25.5% recovered via feces and urine, respectively) 168 hours postdose. Unchanged leniolisib (6.32%) was the predominant drug-related material recovered in urine. Metabolism Leniolisib was 60% metabolized by the liver, with CYP3A4 being the most predominant enzyme involved (95.4%) in the primary oxidative metabolism of leniolisib with minor contribution from other enzymes (3.5% CYP3A5, 0.7% CYP1A2 and 0.4% CYP2D6). Intestinal secretion by BCRP as well as extrahepatic CYP1A1 cannot be excluded as excretion routes. Specific Populations Pediatric Patients Following a single 70 mg oral dose of leniolisib in APDS patients, leniolisib systemic exposures were comparable between pediatric patients 12 to 17 years of age and adults (≥ 18 years of age), with median T max (ranging from 1 to 5 hours) reached approximately 3 hours post-dose in patients 12 to 17 years of age. The observed difference in the median T max between pediatric patients 12 to 17 years of age and adults (≥ 18 years of age) is not clinically relevant given the PK variability and comparable concentration-time profiles between the two age groups. Body weight was identified as a significant covariate impacting the pharmacokinetics of leniolisib. In pediatric patients younger than 12 years of age who weigh 27 kg or greater at the recommended dosage based on body weight, observed leniolisib C min is within the range of C min values of adults and pediatric patients aged 12 years of age and older following oral administration of the recommended dosage of 70 mg twice a day. Patients with Hepatic Impairment The effect of hepatic impairment on the pharmacokinetics of leniolisib has not been evaluated. As leniolisib is metabolized to a large extent by the liver (60%), use of JOENJA is not recommended in patients with moderate to severe hepatic impairment [see Use in Specific Populations ( 8.6 )] . Drug Interaction Studies Strong CYP3A4 Inhibitors : Leniolisib-exposure was increased approximately 2-fold when administered with itraconazole (strong CYP3A4 inhibitor). Moderate CYP3A4 Inhibitors: Physiologically based pharmacokinetic (PBPK) model-based simulations predicted a maximum increase of 75% in leniolisib AUC 0-12 with erythromycin (moderate CYP3A4 inhibitor). CYP3A4 Inducers: PBPK model-based simulations predicted a maximum decrease of 78% and 58% in leniolisib AUC 0-12 with rifampin (strong CYP3A4 inducer) and efavirenz (moderate CYP3A4 inducer), respectively. CYP2D6 and P-gp inhibitors: Quinidine (strong P-gp and CYP2D6 inhibitor) had no effect on leniolisib systemic exposure. Leniolisib is not a sensitive substrate of P-gp and CYP2D6. Oral Contraceptives: When combined with a monophasic oral contraceptive containing levonorgestrel and ethinylestradiol, leniolisib increased ethinylestradiol exposure by approximately 25 to 30% in terms of both AUC and C max , but did not affect the C max or AUC of levonorgestrel. Efficacy of a combined oral contraceptive composed of ethinylestradiol and levonorgestrel is not expected to be compromised by concomitant use with leniolisib. Gastric Acid Reducing Agents : Leniolisib exhibits pH-dependent solubility (pH range of 1.2 to 4), with low solubility at higher pH values (≥ 5). However, PK results from APDS patients did not indicate that acid reducing agents (e.g., H2-antagonists, proton pump inhibitors) have a clinically relevant effect on leniolisib systemic exposure. BCRP, OATP1B1, and OATP1B3 substrates: When co-administered, leniolisib increased rosuvastatin (a substrate of BCRP, OATP1B1, and OATP1B3) systemic exposure by 2-fold. Other Drugs: No clinically relevant differences in the systemic exposure of midazolam (CYP3A4 substrate), caffeine (CYP1A2 substrate), furosemide (a substrate of OAT1 and OAT3), and metformin (a substrate of MATE1, MATE2-K, and OCT2) were observed following concomitant use with leniolisib.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE JOENJA is indicated for the treatment of activated phosphoinositide 3-kinase delta (PI3Kδ) syndrome (APDS) in adult and pediatric patients 4 years of age and older who weigh 27 kg or greater. ( 1 ) JOENJA is a kinase inhibitor indicated for the treatment of activated phosphoinositide 3-kinase delta (PI3Kδ) syndrome (APDS) in adult and pediatric patients 4 years of age and older who weigh 27 kg or greater.",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "Joenja"
+    ],
+    "openfda_generic_names": [
+      "LENIOLISIB"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=eefbcef8-2130-4654-8f29-b58077e08212",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "APDS",
+    "slug": "apds"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05438407",
+      "title": "Pediatric Patients Aged 4 to 11 Years With APDS",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05438407",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42750094",
+        "title": "Associations Between Short-Term Changes in Disease Activity and Long-Term Clinical Outcomes in Activated Phosphoinositide 3-Kinase Delta Syndrome.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42750094/"
+      },
+      {
+        "pmid": "39872539",
+        "title": "Expert insights on Hodgkin's lymphoma development in an activated PI3K delta syndrome patient undergoing leniolisib treatment.",
+        "pubdate": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39872539/"
+      },
+      {
+        "pmid": "39561927",
+        "title": "A randomised, placebo-controlled, phase III trial of leniolisib in activated phosphoinositide 3-kinase delta (PI3Kδ) syndrome (APDS): Adolescent and adult subgroup analysis.",
+        "pubdate": "2025 Jan",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39561927/"
+      },
+      {
+        "pmid": "38593221",
+        "title": "Long-term treatment with selective PI3Kδ inhibitor leniolisib in adults with activated PI3Kδ syndrome.",
+        "pubdate": "2024 Jun 25",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38593221/"
+      },
+      {
+        "pmid": "37797893",
+        "title": "Interim analysis: Open-label extension study of leniolisib for patients with APDS.",
+        "pubdate": "2024 Jan",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37797893/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "IDELALISIB",
+        "chembl_id": "CHEMBL2216870",
+        "reason": "same target: Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit delta isoform"
+      },
+      {
+        "name": "AMG-319",
+        "chembl_id": "CHEMBL4303596",
+        "reason": "same target: Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit delta isoform"
+      },
+      {
+        "name": "AZD-8186",
+        "chembl_id": "CHEMBL3408248",
+        "reason": "same target: Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit delta isoform"
+      },
+      {
+        "name": "CAL-263",
+        "chembl_id": "CHEMBL3545247",
+        "reason": "same target: Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit delta isoform"
+      },
+      {
+        "name": "FIMEPINOSTAT",
+        "chembl_id": "CHEMBL3622533",
+        "reason": "same target: Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit delta isoform"
+      },
+      {
+        "name": "TENALISIB",
+        "chembl_id": "CHEMBL4297584",
+        "reason": "same target: Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit delta isoform"
+      },
+      {
+        "name": "UMBRALISIB TOSYLATE",
+        "chembl_id": "CHEMBL3989869",
+        "reason": "same target: Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit delta isoform"
+      },
+      {
+        "name": "ZANDELISIB",
+        "chembl_id": "CHEMBL4650214",
+        "reason": "same target: Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit delta isoform"
+      },
+      {
+        "name": "ACALISIB",
+        "chembl_id": "CHEMBL4303323",
+        "reason": "same target: Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit delta isoform"
+      },
+      {
+        "name": "TG100-115",
+        "chembl_id": "CHEMBL230011",
+        "reason": "same target: Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit delta isoform"
+      }
+    ]
+  }
+}

@@ -1,7 +1,7 @@
 {
   "drug_name": "Investigational varicella vaccine",
   "slug": "investigational-varicella-vaccine",
-  "enriched_at": "2026-11-09T17:28:52Z",
+  "enriched_at": "2026-11-16T18:12:16Z",
   "source_trial_ids": [
     "NCT06693895"
   ],
@@ -21,10 +21,10 @@
     }
   },
   "mechanism": {
-    "chembl_id": null,
+    "chembl_id": "CHEMBL2108573",
     "target_chembl_id": null,
     "target_name": null,
-    "mechanism_of_action_chembl": null
+    "mechanism_of_action_chembl": "Biological vaccine - induces immune response"
   },
   "fda_label": {
     "has_label": false,

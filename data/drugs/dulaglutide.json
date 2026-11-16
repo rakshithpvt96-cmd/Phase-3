@@ -1,7 +1,7 @@
 {
   "drug_name": "Dulaglutide",
   "slug": "dulaglutide",
-  "enriched_at": "2026-10-17T12:46:11Z",
+  "enriched_at": "2026-11-16T18:02:32Z",
   "source_trial_ids": [
     "NCT06257966"
   ],
@@ -21,10 +21,10 @@
     }
   },
   "mechanism": {
-    "chembl_id": "CHEMBL2108027",
-    "target_chembl_id": "CHEMBL1784",
-    "target_name": "Glucagon-like peptide 1 receptor",
-    "mechanism_of_action_chembl": "Glucagon-like peptide 1 receptor agonist"
+    "chembl_id": null,
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
   },
   "fda_label": {
     "has_label": true,
@@ -60,6 +60,18 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42946127",
+        "title": "Semaglutide and Panic Attacks: Active-Comparator Disproportionality Analysis, Temporal Assessment of Notoriety Bias and Evidence Triangulation in Post-Marketing Pharmacovigilance.",
+        "pubdate": "2026 Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42946127/"
+      },
+      {
+        "pmid": "42902597",
+        "title": "Oral Versus Injectable Incretin-Based Anti-Obesity Therapies: An Integrated Computational and Evidence-Based Comparison of Orforglipron, Semaglutide, and Tirzepatide.",
+        "pubdate": "2026 Oct 20",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42902597/"
+      },
+      {
         "pmid": "42840232",
         "title": "Cardiovascular outcomes with tirzepatide versus semaglutide in type 2 diabetes.",
         "pubdate": "2026 Dec",
@@ -68,7 +80,7 @@
       {
         "pmid": "42754765",
         "title": "Exit Interviews Examining Patient Experiences with Tirzepatide and Dulaglutide for Treatment of Type 2 Diabetes in the SURPASS-CVOT Trial.",
-        "pubdate": "2026 Sep 17",
+        "pubdate": "2026 Nov",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42754765/"
       },
       {
@@ -76,75 +88,12 @@
         "title": "Sustained weight loss exceeding 100 kg with sequential incretin-based therapy in Prader-Willi syndrome.",
         "pubdate": "2026 Oct",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42751099/"
-      },
-      {
-        "pmid": "42608321",
-        "title": "Retatrutide-Associated Improvements in Cardiovascular Risk Biomarkers in Adults With Obesity With or Without Type 2 Diabetes.",
-        "pubdate": "2026 Nov",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42608321/"
-      },
-      {
-        "pmid": "42572119",
-        "title": "Predicted 10-Year Cardiovascular Disease Risk Reduction with Tirzepatide Use Over Three Years for Primary Prevention of Cardiovascular Disease in Obesity.",
-        "pubdate": "2026 Aug 10",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42572119/"
       }
     ]
   },
   "related_drugs": {
-    "method": "chembl_same_target",
+    "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": [
-      {
-        "name": "LIRAGLUTIDE",
-        "chembl_id": "CHEMBL4084119",
-        "reason": "same target: Glucagon-like peptide 1 receptor"
-      },
-      {
-        "name": "EXENATIDE",
-        "chembl_id": "CHEMBL414357",
-        "reason": "same target: Glucagon-like peptide 1 receptor"
-      },
-      {
-        "name": "ALBIGLUTIDE",
-        "chembl_id": "CHEMBL2107841",
-        "reason": "same target: Glucagon-like peptide 1 receptor"
-      },
-      {
-        "name": "TASPOGLUTIDE",
-        "chembl_id": "CHEMBL2107860",
-        "reason": "same target: Glucagon-like peptide 1 receptor"
-      },
-      {
-        "name": "SEMAGLUTIDE",
-        "chembl_id": "CHEMBL2108724",
-        "reason": "same target: Glucagon-like peptide 1 receptor"
-      },
-      {
-        "name": "LIXISENATIDE",
-        "chembl_id": "CHEMBL2108336",
-        "reason": "same target: Glucagon-like peptide 1 receptor"
-      },
-      {
-        "name": "DANUGLIPRON",
-        "chembl_id": "CHEMBL4518483",
-        "reason": "same target: Glucagon-like peptide 1 receptor"
-      },
-      {
-        "name": "COTADUTIDE",
-        "chembl_id": "CHEMBL4297630",
-        "reason": "same target: Glucagon-like peptide 1 receptor"
-      },
-      {
-        "name": "EFINOPEGDUTIDE",
-        "chembl_id": "CHEMBL4297576",
-        "reason": "same target: Glucagon-like peptide 1 receptor"
-      },
-      {
-        "name": "AVEXITIDE",
-        "chembl_id": "CHEMBL4297949",
-        "reason": "same target: Glucagon-like peptide 1 receptor"
-      }
-    ]
+    "items": []
   }
 }

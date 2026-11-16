@@ -1,13 +1,13 @@
 {
   "drug_name": "Anastrozole",
   "slug": "anastrozole",
-  "enriched_at": "2026-10-17T11:29:27Z",
+  "enriched_at": "2026-11-16T17:56:45Z",
   "source_trial_ids": [
     "NCT06016738"
   ],
   "sponsors": [
     {
-      "name": "Olema Pharmaceuticals, Inc.",
+      "name": "Olema Oncology, Inc.",
       "ticker": "OLMA",
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001750284&type=10-K&dateb=&owner=include&count=40"
@@ -29,7 +29,7 @@
   "mechanism": {
     "chembl_id": "CHEMBL1399",
     "target_chembl_id": "CHEMBL1978",
-    "target_name": "Aromatase",
+    "target_name": null,
     "mechanism_of_action_chembl": "Cytochrome P450 19A1 inhibitor"
   },
   "fda_label": {
@@ -45,7 +45,7 @@
     "openfda_generic_names": [
       "ANASTROZOLE"
     ],
-    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=362034e9-2830-19a5-e063-6394a90a8dfb",
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=da6ae05c-81e9-492a-a4c9-be3f1f367b59",
     "note": null,
     "further_reading": null
   },
@@ -66,6 +66,18 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42968162",
+        "title": "Safety and treatment duration of ribociclib + nonsteroidal aromatase inhibitor in HR+/HER2- early breast cancer: a phase 3 randomized controlled trial (NATALEE).",
+        "pubdate": "2026 Aug 4",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42968162/"
+      },
+      {
+        "pmid": "42918423",
+        "title": "Overall survival with adjuvant ribociclib plus nonsteroidal aromatase inhibitor in patients with high-risk HR+/HER2- early breast cancer: Six-year follow-up of the NATALEE trial.",
+        "pubdate": "2026 Oct 23",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42918423/"
+      },
+      {
         "pmid": "42442380",
         "title": "Switching to camizestrant at ESR1 mutation emergence before disease progression during first-line treatment of hormone receptor-positive advanced breast cancer (SERENA-6): extended analysis of a double-blind, placebo-controlled, randomised, phase 3 trial.",
         "pubdate": "2026 Aug",
@@ -82,18 +94,6 @@
         "title": "Fovinaciclib for First-Line Therapy of Advanced Breast Cancer: A Randomized Clinical Trial.",
         "pubdate": "2026 Aug 1",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42224659/"
-      },
-      {
-        "pmid": "41686189",
-        "title": "Cost-Effectiveness Analysis of Hormone Therapy for Breast Cancer in Japan.",
-        "pubdate": "2026 Aug",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41686189/"
-      },
-      {
-        "pmid": "41419364",
-        "title": "Strategies to Mitigate Breast-related Adverse Events in Patients with High-risk Biochemically Recurrent Prostate Cancer Receiving Enzalutamide Monotherapy: Perspectives and Challenges.",
-        "pubdate": "2026 Jan",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41419364/"
       }
     ]
   },
@@ -104,27 +104,27 @@
       {
         "name": "TESTOLACTONE",
         "chembl_id": "CHEMBL1571",
-        "reason": "same target: Aromatase"
+        "reason": "same target: CHEMBL1978"
       },
       {
         "name": "LETROZOLE",
         "chembl_id": "CHEMBL1444",
-        "reason": "same target: Aromatase"
+        "reason": "same target: CHEMBL1978"
       },
       {
         "name": "EXEMESTANE",
         "chembl_id": "CHEMBL1200374",
-        "reason": "same target: Aromatase"
+        "reason": "same target: CHEMBL1978"
       },
       {
         "name": "AMINOGLUTETHIMIDE",
         "chembl_id": "CHEMBL488",
-        "reason": "same target: Aromatase"
+        "reason": "same target: CHEMBL1978"
       },
       {
         "name": "FADROZOLE HYDROCHLORIDE",
         "chembl_id": "CHEMBL468419",
-        "reason": "same target: Aromatase"
+        "reason": "same target: CHEMBL1978"
       }
     ]
   }

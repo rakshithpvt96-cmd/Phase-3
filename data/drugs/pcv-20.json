@@ -1,7 +1,7 @@
 {
   "drug_name": "PCV 20",
   "slug": "pcv-20",
-  "enriched_at": "2026-11-09T17:33:29Z",
+  "enriched_at": "2026-11-16T18:13:12Z",
   "source_trial_ids": [
     "NCT06693895",
     "NCT06855160"
@@ -22,7 +22,7 @@
     }
   },
   "mechanism": {
-    "chembl_id": null,
+    "chembl_id": "CHEMBL3646171",
     "target_chembl_id": null,
     "target_name": null,
     "mechanism_of_action_chembl": null
@@ -69,8 +69,8 @@
     "pubmed_articles": [
       {
         "pmid": "42265800",
-        "title": "Safety and Immunogenicity of 20-valent Pneumococcal Conjugate Vaccine According to Number and Timing of Primary Series Doses.",
-        "pubdate": "2026 Jun 10",
+        "title": "Safety and Immunogenicity of 20-Valent Pneumococcal Conjugate Vaccine According to Number and Timing of Primary Series Doses.",
+        "pubdate": "2026 Dec 1",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42265800/"
       },
       {

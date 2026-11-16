@@ -1,18 +1,11 @@
 {
   "drug_name": "Venetoclax",
   "slug": "venetoclax",
-  "enriched_at": "2026-10-17T12:47:27Z",
+  "enriched_at": "2026-11-16T18:09:45Z",
   "source_trial_ids": [
-    "NCT03539744",
     "NCT04965493"
   ],
   "sponsors": [
-    {
-      "name": "AbbVie",
-      "ticker": "ABBV",
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001551152&type=10-K&dateb=&owner=include&count=40"
-    },
     {
       "name": "Loxo Oncology, Inc.",
       "ticker": null,
@@ -57,17 +50,10 @@
     "further_reading": null
   },
   "condition": {
-    "raw": "Multiple Myeloma",
-    "slug": "multiple-myeloma"
+    "raw": "Chronic Lymphocytic Leukemia",
+    "slug": "chronic-lymphocytic-leukemia"
   },
   "source_trials": [
-    {
-      "nct_id": "NCT03539744",
-      "title": "A Study Designed to Evaluate the Safety and Efficacy of Venetoclax Plus Dexamethasone (VenDex) Compared With Pomalidomide Plus Dexamethasone (PomDex) in Participants With t(11;14)-Positive Relapsed or Refractory Multiple Myeloma.",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT03539744",
-      "has_results": false
-    },
     {
       "nct_id": "NCT04965493",
       "title": "A Trial of Pirtobrutinib (LOXO-305) Plus Venetoclax and Rituximab (PVR) Versus Venetoclax and Rituximab (VR) in Previously Treated Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma (CLL/SLL)",
@@ -80,34 +66,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42942864",
+        "title": "Physiologically Based Pharmacokinetic Modeling of Venetoclax in Pediatric Acute Myeloid Leukemia: Food Effects, Age-Related Pharmacokinetics, and Voriconazole-Mediated Drug-Drug Interactions.",
+        "pubdate": "2026 Oct 21",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42942864/"
+      },
+      {
+        "pmid": "42920903",
+        "title": "Synergistic Activity of Venetoclax and Rituximab in Multiply Relapsed or Refractory Waldenström Macroglobulinaemia.",
+        "pubdate": "2026 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42920903/"
+      },
+      {
+        "pmid": "42910155",
+        "title": "Pulmonary Involvement in Chronic Lymphocytic Leukemia: A Structured Diagnostic Approach to Diffuse Infiltrates-A Case Report.",
+        "pubdate": "2026 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42910155/"
+      },
+      {
+        "pmid": "42890877",
+        "title": "Hematologic Malignancies With RUNX1::ZFPM2 Translocation: A Case Report and Literature Review.",
+        "pubdate": "2026 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42890877/"
+      },
+      {
         "pmid": "42854102",
         "title": "Menin inhibitors in acute leukemia: Advances and future directions.",
         "pubdate": "2026 Apr 1",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42854102/"
-      },
-      {
-        "pmid": "42757031",
-        "title": "A functional prognostic model predicts progression-free survival in patients with relapsed chronic lymphocytic leukemia treated with ibrutinib + venetoclax.",
-        "pubdate": "2026 Sep",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42757031/"
-      },
-      {
-        "pmid": "42736326",
-        "title": "Targeting CD38 with bispecific antibody XmAb 18968 in patients with relapsed/refractory acute myeloid leukemia and T-cell acute lymphoblastic leukemia.",
-        "pubdate": "2026 Sep 14",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42736326/"
-      },
-      {
-        "pmid": "42707370",
-        "title": "Venetoclax plus azacitidine in higher-risk myelodysplastic syndromes: a treatment-purpose framework for interpreting response depth.",
-        "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42707370/"
-      },
-      {
-        "pmid": "42658749",
-        "title": "Redefining Fitness in Chronic Lymphocytic Leukaemia: A Treatment-Specific Framework for the Targeted Therapy Era.",
-        "pubdate": "2026 Aug 27",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42658749/"
       }
     ]
   },

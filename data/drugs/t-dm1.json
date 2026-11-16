@@ -1,9 +1,10 @@
 {
   "drug_name": "T-DM1",
   "slug": "t-dm1",
-  "enriched_at": "2026-11-13T15:31:10Z",
+  "enriched_at": "2026-11-16T18:06:59Z",
   "source_trial_ids": [
-    "NCT06316531"
+    "NCT06316531",
+    "NCT06968585"
   ],
   "sponsors": [
     {
@@ -11,6 +12,12 @@
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Sichuan%20Baili%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Sichuan Kelun-Biotech Biopharmaceutical Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Sichuan%20Kelun-Biotech%20Biopharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
@@ -54,6 +61,13 @@
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT06316531",
       "has_results": false
+    },
+    {
+      "nct_id": "NCT06968585",
+      "title": "A Study of A166 Versus Trastuzumab Emtansine (T-DM1) in Patients With HER2-Positive Unresectable or Metastatic Breast Cancer Previously Treated With Trastuzumab and Taxane Therapy",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06968585",
+      "has_results": false
     }
   ],
   "prior_results": {
@@ -94,6 +108,12 @@
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": []
+    "items": [
+      {
+        "name": "A166",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Sichuan Kelun-Biotech Biopharmaceutical Co., Ltd."
+      }
+    ]
   }
 }
