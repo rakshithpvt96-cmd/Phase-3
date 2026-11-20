@@ -1,0 +1,87 @@
+{
+  "drug_name": "AK112",
+  "slug": "ak112",
+  "enriched_at": "2026-11-20T17:08:24Z",
+  "source_trial_ids": [
+    "NCT06767527"
+  ],
+  "sponsors": [
+    {
+      "name": "Akeso",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Akeso&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2686258",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL6068451",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=AK112+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=AK112+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=AK112+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Triple-Negative Breast Cancer (TNBC)",
+    "slug": "triple-negative-breast-cancer-tnbc"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06767527",
+      "title": "AK112 or Placebo Plus Nab-Paclitaxel as First-line Treatment in Inoperable Locally Advanced/ Metastatic Triple-negative Breast Cancer",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06767527",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "41584587",
+        "title": "AK112 (PD-1/VEGF-a bispecific antibody) combined with chemotherapy in locally advanced pancreatic cancer: a case report.",
+        "pubdate": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41584587/"
+      },
+      {
+        "pmid": "40192238",
+        "title": "Application and future prospects of bispecific antibodies in the treatment of non-small cell lung cancer.",
+        "pubdate": "2025 Apr 7",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40192238/"
+      },
+      {
+        "pmid": "37593227",
+        "title": "AK112, a novel PD-1/VEGF bispecific antibody, in combination with chemotherapy in patients with advanced non-small cell lung cancer (NSCLC): an open-label, multicenter, phase II trial.",
+        "pubdate": "2023 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37593227/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

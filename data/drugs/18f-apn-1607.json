@@ -1,0 +1,68 @@
+{
+  "drug_name": "[18F]-APN-1607",
+  "slug": "18f-apn-1607",
+  "enriched_at": "2026-11-20T17:07:03Z",
+  "source_trial_ids": [
+    "NCT07422857"
+  ],
+  "sponsors": [
+    {
+      "name": "JYAMS PET Research & Development Limited",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=JYAMS%20PET%20Research%20%26%20Development%20Limited&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1546273",
+      "generic_name": "fluoride ion F-18",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL5095045",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": "Diagnostic"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=%5B18F%5D-APN-1607+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=%5B18F%5D-APN-1607+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=%5B18F%5D-APN-1607+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Subjects With Mild Cognitive Impairment (MCI) of AD, Alzheimer's Disease (AD) Dementia",
+    "slug": "subjects-with-mild-cognitive-impairment-mci-of-ad-alzheimer-s-disease-ad-dementia"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07422857",
+      "title": "Evaluate the Use of [18F]-APN-1607 PET in Subjects With AD-related Cognitive Impairment and Subjects With Normal Cognitive Function",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07422857",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

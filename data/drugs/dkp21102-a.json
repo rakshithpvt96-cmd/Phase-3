@@ -1,0 +1,64 @@
+{
+  "drug_name": "DKP21102_A",
+  "slug": "dkp21102-a",
+  "enriched_at": "2026-11-20T17:12:40Z",
+  "source_trial_ids": [
+    "NCT05809687"
+  ],
+  "sponsors": [
+    {
+      "name": "Dongkwang Pharm. Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Dongkwang%20Pharm.%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": null
+  },
+  "mechanism": {
+    "chembl_id": null,
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=DKP21102_A+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=DKP21102_A+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=DKP21102_A+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Dyslipidemias",
+    "slug": "dyslipidemias"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05809687",
+      "title": "Phase 3 Trial to Evaluate the Efficacy and Safety of DKP21102_B Added on to DKP21102_A Compared With DKP21102_A",
+      "status": "WITHDRAWN",
+      "url": "https://clinicaltrials.gov/study/NCT05809687",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

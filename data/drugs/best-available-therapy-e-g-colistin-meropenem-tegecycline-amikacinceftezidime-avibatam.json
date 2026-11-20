@@ -1,0 +1,75 @@
+{
+  "drug_name": "Best Available Therapy (e.g., colistin, meropenem, tegecycline, amikacinceftezidime-avibatam)",
+  "slug": "best-available-therapy-e-g-colistin-meropenem-tegecycline-amikacinceftezidime-avibatam",
+  "enriched_at": "2026-11-20T17:09:15Z",
+  "source_trial_ids": [
+    "NCT07089186"
+  ],
+  "sponsors": [
+    {
+      "name": "Qilu Pharmaceutical Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Qilu%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2709",
+      "generic_name": "colistin",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2221249",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Best%20Available%20Therapy%20%28e.g.%2C%20colistin%2C%20meropenem%2C%20tegecycline%2C%20amikacinceftezidime-avibatam%29+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Best%20Available%20Therapy%20%28e.g.%2C%20colistin%2C%20meropenem%2C%20tegecycline%2C%20amikacinceftezidime-avibatam%29+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Best%20Available%20Therapy%20%28e.g.%2C%20colistin%2C%20meropenem%2C%20tegecycline%2C%20amikacinceftezidime-avibatam%29+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Hospital-acquired Bacterial Pneumonia (HABP)",
+    "slug": "hospital-acquired-bacterial-pneumonia-habp"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07089186",
+      "title": "Study to Assess the Efficacy and Safety of Meropenem and Pralurbactam in Carbapenem-Resistant Enterobacteriaceae Infections",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07089186",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "27885969",
+        "title": "36th International Symposium on Intensive Care and Emergency Medicine : Brussels, Belgium. 15-18 March 2016.",
+        "pubdate": "2016 Apr 20",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27885969/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "drug_name": "Vinorelbine injection",
+  "slug": "vinorelbine-injection",
+  "enriched_at": "2026-11-20T17:05:34Z",
+  "source_trial_ids": [
+    "NCT04639986"
+  ],
+  "sponsors": [
+    {
+      "name": "Gilead Sciences",
+      "ticker": "GILD",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000882095&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1729404",
+      "generic_name": "vinorelbine Injection",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL553025",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Vinorelbine%20injection+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Vinorelbine%20injection+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Vinorelbine%20injection+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Metastatic Breast Cancer",
+    "slug": "metastatic-breast-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04639986",
+      "title": "Asian Study of Sacituzumab Govitecan (IMMU-132) in HR+/HER2- Metastatic Breast Cancer (MBC)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04639986",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "39513033",
+        "title": "Inetetamab for injection in combination with vinorelbine weekly or every three weeks in HER2-positive metastatic breast cancer: A multicenter, randomized, phase II clinical trial.",
+        "pubdate": "2024 Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39513033/"
+      },
+      {
+        "pmid": "21517235",
+        "title": "A Cisplatin and vinorelbine (NP) regimen as a postoperative adjuvant chemotherapy for completely resected breast cancers in China: final results of a phase II clinical trial.",
+        "pubdate": "2011",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21517235/"
+      },
+      {
+        "pmid": "11557121",
+        "title": "Gemcitabine plus vinorelbine in stage IIIB or IV non-small cell lung cancer (NSCLC): a multicentre phase II clinical trial.",
+        "pubdate": "2001 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11557121/"
+      },
+      {
+        "pmid": "11185889",
+        "title": "A phase II study of a daily x4 schedule of vinorelbine plus cisplatin for advanced non-small cell lung cancer.",
+        "pubdate": "2000 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11185889/"
+      },
+      {
+        "pmid": "10858387",
+        "title": "A multicenter phase II trial of vinorelbine plus gemcitabine in previously untreated inoperable (Stage IIIB/IV) non-small cell lung cancer.",
+        "pubdate": "2000 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10858387/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "Palazestrant",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Olema Oncology, Inc."
+      },
+      {
+        "name": "Fulvestrant",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Olema Oncology, Inc."
+      },
+      {
+        "name": "Anastrozole",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Olema Oncology, Inc."
+      },
+      {
+        "name": "Letrozole",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Olema Oncology, Inc."
+      },
+      {
+        "name": "Exemestane",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Olema Oncology, Inc."
+      }
+    ]
+  }
+}

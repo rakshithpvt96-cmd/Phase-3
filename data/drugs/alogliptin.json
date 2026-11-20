@@ -1,0 +1,121 @@
+{
+  "drug_name": "Alogliptin",
+  "slug": "alogliptin",
+  "enriched_at": "2026-11-20T17:08:30Z",
+  "source_trial_ids": [
+    "NCT07093476"
+  ],
+  "sponsors": [
+    {
+      "name": "Celltrion",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Celltrion&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 11450633,
+    "iupac_name": "2-[[6-[(3R)-3-aminopiperidin-1-yl]-3-methyl-2,4-dioxopyrimidin-1-yl]methyl]benzonitrile",
+    "molecular_formula": "C18H21N5O2",
+    "molecular_weight": "339.4",
+    "canonical_smiles": null,
+    "inchikey": "ZSBOMTDTBDDKMP-OAHLLOKOSA-N",
+    "rxnorm": {
+      "rxcui": "1368001",
+      "generic_name": "alogliptin",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL376359",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Alogliptin and Metformin HCl Alogliptin and metformin HCl tablets combines two antihyperglycemic agents with complementary and distinct mechanisms of action to improve glycemic control in patients with type 2 diabetes mellitus: alogliptin, a selective inhibitor of DPP-4, and metformin HCl, a member of the biguanide class. Alogliptin Increased concentrations of the incretin hormones such as glucagon-like peptide-1 (GLP-1) and glucose-dependent insulinotropic polypeptide (GIP) are released into the bloodstream from the small intestine in response to meals. These hormones cause insulin release from the pancreatic beta cells in a glucose-dependent manner but are inactivated by the DPP-4 enzyme within minutes. GLP-1 also lowers glucagon secretion from pancreatic alpha cells, reducing hepatic glucose production. In patients with type 2 diabetes mellitus, concentrations of GLP-1 are reduced but the insulin response to GLP-1 is preserved. Alogliptin is a DPP-4 inhibitor that slows the inactivation of the incretin hormones, thereby increasing their bloodstream concentrations and reducing fasting and postprandial glucose concentrations in a glucose-dependent manner in patients with type 2 diabetes mellitus. Alogliptin selectively binds to and inhibits DPP-4 but not DPP-8 or DPP-9 activity in vitro at concentrations approximating therapeutic exposures. Metformin HCl Metformin is a biguanide that improves glucose tolerance in patients with type 2 diabetes mellitus, lowering both basal and postprandial plasma glucose. Metformin decreases hepatic glucose production, decreases intestinal absorption of glucose and improves insulin sensitivity by increasing peripheral glucose uptake and utilization. With metformin therapy, insulin secretion remains unchanged while fasting insulin levels and daylong plasma insulin response may actually decrease.",
+    "pharmacokinetics": "12.3 Pharmacokinetics Absorption Alogliptin and Metformin HCl There is no clinically meaningful difference in PK exposures (AUC and C max ) of alogliptin and metformin when taken a single dose of the combination tablet and individual alogliptin and metformin tablets taken concomitantly. Alogliptin After administration of single, oral doses up to 800 mg in healthy subjects, the peak plasma alogliptin concentration (median T max ) occurred one to two hours after dosing. The absolute bioavailability of alogliptin is approximately 100%. Metformin HCl Studies using single oral doses of metformin HCl tablets 500 mg to 1500 mg and 850 mg to 2550 mg indicate that there is a lack of dose proportionality with increasing doses, which is due to decreased absorption rather than an alteration in elimination. The absolute bioavailability of metformin following administration of a 500 mg metformin HCl tablet given under fasting conditions is approximately 50% to 60%. Effect of Food Alogliptin and Metformin HCl Administration of alogliptin and metformin HCl tablets with food resulted in no change in total exposure (AUC) of alogliptin and metformin. Mean peak plasma concentrations of alogliptin and metformin were decreased by 13% and 28%, respectively, when administered with food. There was no change in time to peak plasma concentrations (T max ) for alogliptin under fed conditions, however, there was a delayed T max for metformin of 1.5 hours. These changes are not likely to be clinically significant. Alogliptin Administration of alogliptin with a high-fat meal results in no significant change in total and peak exposure to alogliptin. Metformin HCl Food decreases the extent of and slightly delays the absorption of metformin, as shown by approximately a 40% lower mean peak plasma concentration (C max ), a 25% lower area under the plasma concentration versus time curve (AUC), and a 35-minute prolongation of time to peak plasma concentration (T max ) following administration of a single 850 mg tablet of metformin HCl with food compared to the same tablet strength administered fasting. The clinical relevance of these decreases is unknown. Distribution Alogliptin Following a single, 12.5 mg intravenous infusion of alogliptin to healthy subjects, the volume of distribution during the terminal phase was 417 L, indicating that the drug is well distributed into tissues. Alogliptin is 20% bound to plasma proteins. Metformin HCl The apparent volume of distribution (V/F) of metformin following single oral doses of immediate release metformin HCl tablets 850 mg averaged 654 ± 358 L. Metformin is negligibly bound to plasma proteins. Metformin partitions into erythrocytes, most likely as a function of time. Elimination Alogliptin Alogliptin was eliminated with a mean terminal half-life (t 1/2 ) of approximately 21 hours. The renal clearance of alogliptin (9.6 L/hr) indicates some active renal tubular secretion and systemic clearance was 14.0 L/hr. Metformin HCl In blood, the elimination half-life is approximately 17.6 hours, suggesting that the erythrocyte mass may be a compartment of distribution. The plasma elimination half-life is approximately 6.2 hours. Renal clearance is approximately 3.5 times greater than creatinine clearance, which indicates that tubular secretion is the major route of metformin excretion. Metabolism Alogliptin Alogliptin does not undergo extensive metabolism and 60% to 71% of the dose is excreted as unchanged drug in the urine. Two minor metabolites were detected following administration of an oral dose of [ 14 C] alogliptin, N -demethylated, M-I (less than 1% of the parent compound), and N -acetylated alogliptin, M-II (less than 6% of the parent compound). M-I is an active metabolite and is an inhibitor of DPP-4 similar to the parent molecule; M-II does not display any inhibitory activity toward DPP-4 or other DPP-related enzymes. In vitro data indicate that CYP2D6 and CYP3A4 contribute to the limited metabolism of alogliptin. Alogliptin exists predominantly as the ( R )-enantiomer (more than 99%) and undergoes little or no chiral conversion in vivo to the ( S )-enantiomer. The ( S )-enantiomer is not detectable at the 25 mg dose. Metformin HCl Intravenous single-dose studies in healthy subjects demonstrate that metformin is excreted unchanged in the urine and does not undergo hepatic metabolism (no metabolites have been identified in humans) or biliary excretion. Excretion Alogliptin The primary route of elimination of [ 14 C] alogliptin-derived radioactivity occurs via renal excretion (76%) with 13% recovered in the feces, achieving a total recovery of 89% of the administered radioactive dose. Metformin HCl Following oral administration, approximately 90% of the absorbed drug is eliminated via the renal route within the first 24 hours. Specific Populations Geriatric Patients Due to declining renal function in the elderly, measurement of creatinine clearance should be obtained prior to initiation of therapy. Alogliptin Age (18 to 80 years old) did not have any clinically meaningful effect on the pharmacokinetics of alogliptin. Metformin HCl Limited data from controlled pharmacokinetic studies of metformin in healthy elderly subjects suggest that total plasma clearance of metformin is decreased, the half-life is prolonged, and C max is increased, compared to healthy young subjects. From these data it appears that the change in metformin pharmacokinetics with aging is primarily accounted for by a change in renal function. Male and Female Patients Alogliptin Gender did not have any clinically meaningful effect on the pharmacokinetics of alogliptin. Metformin HCl Metformin pharmacokinetic parameters did not differ significantly between normal subjects and patients with type 2 diabetes mellitus when analyzed according to gender. Similarly, in controlled clinical studies in patients with type 2 diabetes mellitus, the antihyperglycemic effect of metformin HCl tablets was comparable in males and females. Racial or Ethnic Groups Alogliptin Race (White, Black or African American and Asian) did not have any clinically meaningful effect on the pharmacokinetics of alogliptin. Metformin HCl No studies of metformin pharmacokinetic parameters according to race have been performed. In controlled clinical studies of metformin in patients with type 2 diabetes mellitus, the antihyperglycemic effect was comparable in Whites (n=249), Blacks or African Americans (n=51) and Hispanics or Latino (n=24). Patients with Renal Impairment Metformin HCl In patients with decreased renal function (based on measured creatine clearance), the plasma and blood half-life of metformin is prolonged and the renal clearance is decreased [see Contraindications (4) , Warnings and Precautions (5.1) ] . Patients with Hepatic Impairment Alogliptin Total exposure to alogliptin was approximately 10% lower and peak exposure was approximately 8% lower in patients with moderate hepatic impairment (Child-Pugh Grade B) compared to healthy subjects. The magnitude of these reductions is not considered to be clinically meaningful. Patients with severe hepatic impairment (Child-Pugh Grade C) have not been studied. Metformin HCl No pharmacokinetic studies of metformin have been conducted in subjects with hepatic impairment. Drug Interaction Studies Alogliptin and Metformin HCl Administration of alogliptin 100 mg once daily with metformin HCl 1000 mg twice daily for six days had no meaningful effect on the pharmacokinetics of alogliptin or metformin. Specific pharmacokinetic drug interaction studies with alogliptin and metformin HCl tablets have not been performed, although such studies have been conducted with the individual components of alogliptin and metformin HCl tablets (alogliptin and metformin). Alogliptin Clinical Studies In Vivo Assessment of Drug Interactions Effects of Alogliptin on the Pharmacokinetics of Other Drugs In clinical studies, alogliptin did not meaningfully increase the systemic exposure to the following drugs that are metabolized by CYP isozymes or excreted unchanged in urine (Figure 1) . No dose adjustment of alogliptin is recommended based on results of the described pharmacokinetic studies. Figure 1. Effect of Alogliptin on the Pharmacokinetic Exposure to Other Drugs * Warfarin was given once daily at a stable dose in the range of 1 mg to 10 mg. Alogliptin had no significant effect on the prothrombin time (PT) or International Normalized Ratio (INR). ** Caffeine (1A2 substrate), tolbutamide (2C9 substrate), dextromethorphan (2D6 substrate), midazolam (3A4 substrate) and fexofenadine (P-gp substrate) were administered as a cocktail. Figure 1 Effects of Other Drugs on the Pharmacokinetics of Alogliptin There are no clinically meaningful changes in the pharmacokinetics of alogliptin when alogliptin is administered concomitantly with the drugs described below (Figure 2). Figure 2. Effect of Other Drugs on the Pharmacokinetic Exposure of Alogliptin Figure 2 Metformin HCl Pharmacokinetic drug interaction studies have been performed on metformin (Tables 4 and 5) . Table 4. Effect of Coadministered Drug on Plasma Metformin Systemic Exposure Coadministered Drug Dose of Coadministered Drug All metformin and coadministered drugs were given as single doses Dose of Metformin HCl Geometric Mean Ratio (ratio with/without coadministered drug) No effect = 1.00 AUC AUC = AUC 0˗∞ C max No dosing adjustments required for the following: Glyburide 5 mg 500 mg Metformin HCl extended-release tablets 500 mg 0.98 Ratio of arithmetic means 0.99 Furosemide 40 mg 850 mg 1.09 1.22 Nifedipine 10 mg 850 mg 1.16 1.21 Propranolol 40 mg 850 mg 0.90 0.94 Ibuprofen 400 mg 850 mg 1.05 1.07 Drugs that are eliminated by renal tubular secretion may increase the accumulation of metformin [see Warnings and Precautions (5) , Drug Interactions (7) ] Cimetidine 400 mg 850 mg 1.40 1.61 Carbonic anhydrase inhibitors may cause metabolic acidosis [see Warnings and Precautions (5) , Drug Interactions (7) ] Topiramate 100 mg At steady-state with topiramate 100 mg every 12 hours and metformin 500 mg every 12 hours; AUC = AUC 0-12h 500 mg 1.25 1.17 Table 5. Effect of Metformin on Coadministered Drug Systemic Exposure Coadministered Drug Dose of Coadministered Drug All metformin and coadministered drugs were given as single doses Dose of Metformin HCl Geometric Mean Ratio (ratio with/without coadministered drug) No effect = 1.00 AUC AUC = AUC 0˗∞ C max No dosing adjustments required for the following: Glyburide 5 mg 500 mg AUC 0-24 hr reported 0.78 Ratio of arithmetic means, p-value of difference <0.05 0.63 Furosemide 40 mg 850 mg 0.87 0.69 Nifedipine 10 mg 850 mg 1.10 1.08 Propranolol 40 mg 850 mg 1.01 0.94 Ibuprofen 400 mg 850 mg 0.97 Ratio of arithmetic means 1.01 Cimetidine 400 mg 850 mg 0.95 1.01",
+    "indications_and_usage": "1 INDICATIONS AND USAGE Alogliptin and metformin HCl tablets are indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus. Alogliptin and metformin HCl tablets are a combination of alogliptin, a dipeptidyl-peptidase-4 (DPP-4) inhibitor and metformin hydrochloride (HCl), a biguanide, indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus. ( 1 ) Limitations of Use: Should not be used in patients with type 1 diabetes mellitus. ( 1 ) Limitations of Use Alogliptin and metformin HCl tablets should not recommended for use in patients with type 1 diabetes mellitus.",
+    "boxed_warning": "WARNING: LACTIC ACIDOSIS Postmarketing cases of metformin-associated lactic acidosis have resulted in death, hypothermia, hypotension, and resistant bradyarrhythmia's. The onset of metformin-associated lactic acidosis is often subtle, accompanied only by nonspecific symptoms such as malaise, myalgias, respiratory distress, somnolence, and abdominal pain. Metformin-associated lactic acidosis was characterized by elevated blood lactate levels (greater than 5 mmol/L), anion gap acidosis (without evidence of ketonuria or ketonemia), an increased lactate/pyruvate ratio; and metformin plasma levels generally greater than 5 mcg/mL [see Warnings and Precautions (5.1) ]. Risk factors for metformin-associated lactic acidosis include renal impairment, concomitant use of certain drugs (e.g., carbonic anhydrase inhibitors such as topiramate), age 65 years old or greater, having a radiological study with contrast, surgery and other procedures, hypoxic states (e.g., acute congestive heart failure), excessive alcohol intake, hepatic impairment and mitochondrial diseases [see Warnings and Precautions (5.1) ]. Steps to reduce the risk of and manage metformin-associated lactic acidosis in these high risk groups are provided in the Full Prescribing Information [see Dosage and Administration (2.2) , Contraindications (4) , Warnings and Precautions (5.1) , Drug Interactions (7) , Use in Specific Populations (8.6 , 8.7) ]. If metformin-associated lactic acidosis is suspected, immediately discontinue alogliptin and metformin HCl tablets and institute general supportive measures in a hospital setting. Prompt hemodialysis is recommended [see Warnings and Precautions (5.1) ]. WARNING: LACTIC ACIDOSIS See full prescribing information for complete boxed warning. Postmarketing cases of metformin-associated lactic acidosis have resulted in death, hypothermia, hypotension, and resistant bradyarrhythmia's. Symptoms included malaise, myalgias, respiratory distress, somnolence, and abdominal pain. Laboratory abnormalities included elevated blood lactate levels, anion gap acidosis, increased lactate/pyruvate ratio; and metformin plasma levels generally greater than 5 mcg/mL. ( 5.1 ) Risk factors include renal impairment, concomitant use of certain drugs, age ≥65 years old, radiological studies with contrast, surgery and other procedures, hypoxic states, excessive alcohol intake, hepatic impairment, and mitochondrial diseases. Steps to reduce the risk of and manage metformin-associated lactic acidosis in these high risk groups are provided in the Full Prescribing Information. ( 5.1 ) If lactic acidosis is suspected, discontinue alogliptin and metformin HCl tablets and institute general supportive measures in a hospital setting. Prompt hemodialysis is recommended. ( 5.1 )",
+    "openfda_brand_names": [
+      "alogliptin and metformin hydrochloride"
+    ],
+    "openfda_generic_names": [
+      "ALOGLIPTIN AND METFORMIN HYDROCHLORIDE"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=14d98490-4f8f-4d2f-a4e9-7a3d7a0199ba",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "T2DM",
+    "slug": "t2dm"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07093476",
+      "title": "Efficacy and Safety of Add-On Therapy With Empagliflozin in Patients With Type 2 Diabetes on a Background of Alogliptin and Metformin",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07093476",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "41239448",
+        "title": "Comparative effectiveness of metformin and alogliptin combination therapy versus metformin monotherapy in patients with type 2 diabetes: an emulated target trial.",
+        "pubdate": "2025 Nov 14",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41239448/"
+      },
+      {
+        "pmid": "40032809",
+        "title": "A Randomized Phase 3 Study Evaluating the Efficacy and Safety of Alogliptin in Pediatric Participants with Type 2 Diabetes Mellitus.",
+        "pubdate": "2025 May",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40032809/"
+      },
+      {
+        "pmid": "38406268",
+        "title": "PRE1BRAZIL Protocol: A Randomized Controlled Trial to Evaluate the Effectiveness and Safety of the DPP-4 Inhibitor Alogliptin in Delaying the Progression of Stage 2 Type 1 Diabetes.",
+        "pubdate": "2024",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38406268/"
+      },
+      {
+        "pmid": "37814306",
+        "title": "Fotagliptin monotherapy with alogliptin as an active comparator in patients with uncontrolled type 2 diabetes mellitus: a randomized, multicenter, double-blind, placebo-controlled, phase 3 trial.",
+        "pubdate": "2023 Oct 9",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37814306/"
+      },
+      {
+        "pmid": "36468400",
+        "title": "Suspected adverse drug reactions of the type 2 antidiabetic drug class dipeptidyl-peptidase IV inhibitors (DPP4i): Can polypharmacology help explain?",
+        "pubdate": "2022 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36468400/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "RAY1225",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Guangdong Raynovent Biotech Co., Ltd"
+      },
+      {
+        "name": "placebo",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Guangdong Raynovent Biotech Co., Ltd"
+      },
+      {
+        "name": "Semaglutide",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Guangdong Raynovent Biotech Co., Ltd"
+      }
+    ]
+  }
+}

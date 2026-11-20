@@ -1,0 +1,156 @@
+{
+  "drug_name": "ZILRETTA",
+  "slug": "zilretta",
+  "enriched_at": "2026-11-20T17:06:03Z",
+  "source_trial_ids": [
+    "NCT06269705"
+  ],
+  "sponsors": [
+    {
+      "name": "Pacira Pharmaceuticals, Inc",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Pacira%20Pharmaceuticals%2C%20Inc&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 6436,
+    "iupac_name": "(1S,2S,4R,8S,9S,11S,12R,13S)-12-fluoro-11-hydroxy-8-(2-hydroxyacetyl)-6,6,9,13-tetramethyl-5,7-dioxapentacyclo[10.8.0.02,9.04,8.013,18]icosa-14,17-dien-16-one",
+    "molecular_formula": "C24H31FO6",
+    "molecular_weight": "434.5",
+    "canonical_smiles": null,
+    "inchikey": "YNDXUCZADRHECN-JNQJZLCISA-N",
+    "rxnorm": {
+      "rxcui": "1947125",
+      "generic_name": "Zilretta",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1504",
+    "target_chembl_id": "CHEMBL2034",
+    "target_name": "Glucocorticoid receptor",
+    "mechanism_of_action_chembl": "Glucocorticoid receptor agonist"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Triamcinolone acetonide is a corticosteroid with anti-inflammatory and immunomodulating properties. It binds to and activates the glucocorticoid receptor, leading to activation of anti-inflammatory transcription factors such as lipocortins and inhibition of inflammatory transduction pathways by blocking the release of arachidonic acid and preventing the synthesis of prostaglandins and leukotrienes.",
+    "pharmacokinetics": "12.3 Pharmacokinetics ZILRETTA is an extended-release dosage form consisting of microspheres of poly(lactic-co-glycolic acid) (PLGA) containing triamcinolone acetonide. Plasma pharmacokinetic parameters for triamcinolone acetonide following IA administration of ZILRETTA or 40 mg immediate-release triamcinolone acetonide into the knee are provided in Table 4. Table 4: Summary of Mean (SD) Plasma Pharmacokinetic Parameters for Triamcinolone Acetonide Following IA Administration of ZILRETTA or 40 mg Immediate-Release Triamcinolone Acetonide Triamcinolone Acetonide PK Parameters Median (min, max) values for t max ZILRETTA (N=60) Triamcinolone Acetonide (N=18) C max (pg/mL) 1,143.7 (611.06) 21,062.2 (18,466.79) AUC 0-24 hour (pg∙h/mL) 21,219.2 (11,325.62) 297,545.3 (222,402.77) AUC 0-inf (pg∙h/mL) 842,149.2 (1,062,004.97) 33 patients contributed to the analyses of these parameters 1,567,565.0 (1,246,330.95) 14 patients contributed to the analyses of these parameters t max (h) 7 (1, 1,008) 6 (2, 24) t 1/2 (h) 633.9 (893.0) 146.9 (213.29)",
+    "indications_and_usage": "1 INDICATIONS AND USAGE ZILRETTA (triamcinolone acetonide extended-release injectable suspension) is indicated as an intra-articular injection for the management of osteoarthritis pain of the knee. ZILRETTA is an extended-release synthetic corticosteroid indicated as an intra-articular injection for the management of osteoarthritis pain of the knee. ( 1 ) Limitation of Use The efficacy and safety of repeat administration of ZILRETTA have not been demonstrated. ( 2.1 ) Limitation of Use The efficacy and safety of repeat administration of ZILRETTA have not been demonstrated. [see Dosage and Administration (2.1) ] .",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "Zilretta"
+    ],
+    "openfda_generic_names": [
+      "TRIAMCINOLONE ACETONIDE EXTENDED-RELEASE INJECTABLE SUSPENSION"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cd5c4673-21f2-4126-9556-da847b3a228b",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Glenohumeral Osteoarthritis",
+    "slug": "glenohumeral-osteoarthritis"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06269705",
+      "title": "ZILRETTA in Subjects With Shoulder Osteoarthritis",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06269705",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42995031",
+        "title": "Efficacy and safety of herbal bath for mild-to-moderate atopic dermatitis: A randomized, double-blind, placebo-controlled trial.",
+        "pubdate": "2026 Oct 20",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42995031/"
+      },
+      {
+        "pmid": "42956710",
+        "title": "Adjunctive sub-tenon triamcinolone with Susanna glaucoma drainage device: a randomized clinical trial.",
+        "pubdate": "2026 Oct 29",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42956710/"
+      },
+      {
+        "pmid": "42914950",
+        "title": "Suprachoroidal triamcinolone acetonide for macular edema: A systematic review of efficacy and safety.",
+        "pubdate": "2026 Oct 23",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42914950/"
+      },
+      {
+        "pmid": "42899822",
+        "title": "Comparison of the Efficacy of Intralesional Methotrexate and Triamcinolone in the Treatment of Nail Psoriasis: A Randomized, Investigator-Blind, Controlled Trial.",
+        "pubdate": "2026 Nov 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42899822/"
+      },
+      {
+        "pmid": "42868544",
+        "title": "Assessment of a Tiger Milk Medicinal Mushroom (Lignosus rhinocerus TM02Â®)-Based Oral Gel for Pain Reduction and Healing in Minor Aphthous Stomatitis.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42868544/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "PREDNISONE",
+        "chembl_id": "CHEMBL635",
+        "reason": "same target: Glucocorticoid receptor"
+      },
+      {
+        "name": "HALCINONIDE",
+        "chembl_id": "CHEMBL1200845",
+        "reason": "same target: Glucocorticoid receptor"
+      },
+      {
+        "name": "MEDRYSONE",
+        "chembl_id": "CHEMBL1201173",
+        "reason": "same target: Glucocorticoid receptor"
+      },
+      {
+        "name": "DIFLUPREDNATE",
+        "chembl_id": "CHEMBL1201749",
+        "reason": "same target: Glucocorticoid receptor"
+      },
+      {
+        "name": "BETAMETHASONE",
+        "chembl_id": "CHEMBL632",
+        "reason": "same target: Glucocorticoid receptor"
+      },
+      {
+        "name": "HYDROCORTISONE",
+        "chembl_id": "CHEMBL389621",
+        "reason": "same target: Glucocorticoid receptor"
+      },
+      {
+        "name": "HYDROCORTISONE CYPIONATE",
+        "chembl_id": "CHEMBL1549",
+        "reason": "same target: Glucocorticoid receptor"
+      },
+      {
+        "name": "CLOBETASOL PROPIONATE",
+        "chembl_id": "CHEMBL1159650",
+        "reason": "same target: Glucocorticoid receptor"
+      },
+      {
+        "name": "HYDROCORTISONE SODIUM SUCCINATE",
+        "chembl_id": "CHEMBL1200495",
+        "reason": "same target: Glucocorticoid receptor"
+      },
+      {
+        "name": "FLUOROMETHOLONE",
+        "chembl_id": "CHEMBL1200600",
+        "reason": "same target: Glucocorticoid receptor"
+      }
+    ]
+  }
+}

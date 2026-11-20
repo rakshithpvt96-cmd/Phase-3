@@ -1,16 +1,16 @@
 {
-  "drug_name": "EMPAGLIFLOZIN",
+  "drug_name": "empagliflozin",
   "slug": "empagliflozin",
-  "enriched_at": "2026-09-15T12:38:43Z",
+  "enriched_at": "2026-11-20T17:13:52Z",
   "source_trial_ids": [
-    "NCT05028140"
+    "NCT07093476"
   ],
   "sponsors": [
     {
-      "name": "EMS",
+      "name": "Celltrion",
       "ticker": null,
       "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=EMS&type=10-K&dateb=&owner=include&count=40"
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Celltrion&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
@@ -45,20 +45,20 @@
     "openfda_generic_names": [
       "EMPAGLIFLOZIN AND METFORMIN HYDROCHLORIDE"
     ],
-    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0fdd0255-0055-65f3-b2c0-db8fbb87beae",
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=faf3dd6a-9cd0-39c2-0d2e-232cb3f67565",
     "note": null,
     "further_reading": null
   },
   "condition": {
-    "raw": "Type II Diabetes",
-    "slug": "type-ii-diabetes"
+    "raw": "T2DM",
+    "slug": "t2dm"
   },
   "source_trials": [
     {
-      "nct_id": "NCT05028140",
-      "title": "Efficacy and Safety of Piemonte Association in the Treatment of Type II Diabetes Mellitus",
+      "nct_id": "NCT07093476",
+      "title": "Efficacy and Safety of Add-On Therapy With Empagliflozin in Patients With Type 2 Diabetes on a Background of Alogliptin and Metformin",
       "status": "RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT05028140",
+      "url": "https://clinicaltrials.gov/study/NCT07093476",
       "has_results": false
     }
   ],
@@ -66,34 +66,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42679726",
-        "title": "Effects of semaglutide and empagliflozin on markers of endothelial function in persons with type 2 diabetes: A post hoc analysis of a randomized clinical trial.",
+        "pmid": "43032907",
+        "title": "Efficacy and safety of teneligliptin as add-on therapy in patients with type 2 diabetes treated with empagliflozin and metformin: A 24-week, randomized, double-blind, placebo-controlled phase 3 trial.",
+        "pubdate": "2026 Nov 14",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43032907/"
+      },
+      {
+        "pmid": "43020879",
+        "title": "A roadmap for therapeutic innovation in paediatric chronic kidney disease.",
+        "pubdate": "2026 Nov 12",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43020879/"
+      },
+      {
+        "pmid": "42998105",
+        "title": "EMAIL-HF: Can Digital Strategies Shorten the Path from Scientific Evidence to Clinical Practice in Heart Failure?",
+        "pubdate": "2026 Nov 7",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42998105/"
+      },
+      {
+        "pmid": "42986123",
+        "title": "Efficacy of empagliflozin in heart failure with preserved ejection fraction according to the presence of echocardiographic features of diastolic dysfunction in the EMPEROR-Preserved trial.",
+        "pubdate": "2026 Nov 5",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42986123/"
+      },
+      {
+        "pmid": "42959236",
+        "title": "Aldosterone synthase inhibition for treatment of people with chronic kidney disease.",
         "pubdate": "2026 Oct",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42679726/"
-      },
-      {
-        "pmid": "42571075",
-        "title": "Empagliflozin's Effects on Carotid Ultrasound Parameters in Type 2 Diabetes Patients Post-ST-Elevation Myocardial Infarction: A Randomized Controlled Trial.",
-        "pubdate": "2026 Jul",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42571075/"
-      },
-      {
-        "pmid": "42530392",
-        "title": "Feasibility of Decentralised Response-Guided Albuminuria Monitoring to Optimise Empagliflozin and Finerenone Therapy in Type 2 Diabetes and Chronic Kidney Disease.",
-        "pubdate": "2026 Oct",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42530392/"
-      },
-      {
-        "pmid": "42509550",
-        "title": "The cost-effectiveness of second line diabetes medication added to standard therapy in preventing type 2 diabetes related nephropathy in Germany.",
-        "pubdate": "2026 Jul 27",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42509550/"
-      },
-      {
-        "pmid": "42475513",
-        "title": "Healthcare cost offsets associated with empagliflozin for the treatment of chronic kidney disease in Italy: a budget impact analysis.",
-        "pubdate": "2026 Aug 20",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42475513/"
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42959236/"
       }
     ]
   },

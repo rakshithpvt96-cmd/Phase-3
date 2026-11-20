@@ -1,0 +1,99 @@
+{
+  "drug_name": "Bictegravir/emtricitabine/tenofovir alafenamide",
+  "slug": "bictegravir-emtricitabine-tenofovir-alafenamide",
+  "enriched_at": "2026-11-20T17:09:32Z",
+  "source_trial_ids": [
+    "NCT06544733"
+  ],
+  "sponsors": [
+    {
+      "name": "Gilead Sciences",
+      "ticker": "GILD",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000882095&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1996259",
+      "generic_name": "bictegravir / emtricitabine / tenofovir alafenamide",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4303549",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Bictegravir/emtricitabine/tenofovir%20alafenamide+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Bictegravir/emtricitabine/tenofovir%20alafenamide+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Bictegravir/emtricitabine/tenofovir%20alafenamide+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "HIV-1-Infection",
+    "slug": "hiv-1-infection"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06544733",
+      "title": "Study of Oral Weekly Lepetegravir (Formerly GS-1720) and Lenacapavir Pacfosacil (Formerly GS-4182) Versus Biktarvy in People With HIV-1 Who Are Virologically Suppressed",
+      "status": "TERMINATED",
+      "url": "https://clinicaltrials.gov/study/NCT06544733",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42973235",
+        "title": "Islatravir: a first-in-class nucleoside reverse transcriptase translocation inhibitor for HIV treatment.",
+        "pubdate": "2026 Oct 27",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42973235/"
+      },
+      {
+        "pmid": "42954667",
+        "title": "Bictegravir/Lenacapavir: A 2-Drug Regimen for the Treatment of HIV-1 Infection.",
+        "pubdate": "2026 Oct 29",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42954667/"
+      },
+      {
+        "pmid": "42597905",
+        "title": "VOGUE: Noninferior Efficacy of Dolutegravir/Lamivudine Versus Bictegravir/Emtricitabine/Tenofovir Alafenamide in Adults With HIV-1 Naive to Treatment.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42597905/"
+      },
+      {
+        "pmid": "42525925",
+        "title": "Phase 3 Trial of Weekly Oral Islatravir-Lenacapavir for HIV-1 Treatment.",
+        "pubdate": "2026 Oct 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42525925/"
+      },
+      {
+        "pmid": "42464361",
+        "title": "B/F/TAF in people with both HIV-1 and hepatitis B: outcomes from the ALLIANCE open-label extension phase.",
+        "pubdate": "2026 Jul 16",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42464361/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "drug_name": "Atenativ",
+  "slug": "atenativ",
+  "enriched_at": "2026-11-20T17:08:45Z",
+  "source_trial_ids": [
+    "NCT04918173"
+  ],
+  "sponsors": [
+    {
+      "name": "Octapharma",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Octapharma&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": null
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2108574",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Atenativ+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Atenativ+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Atenativ+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Congenital Antithrombin Deficiency",
+    "slug": "congenital-antithrombin-deficiency"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04918173",
+      "title": "Efficacy of Atenativ in Patients With Congenital Antithrombin Deficiency Undergoing Surgery or Delivery",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04918173",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42999715",
+        "title": "Fortuitous Discovery of Asymptomatic Homozygous Antithrombin Deficiency: A Rare p.Leu131Phe Heparin-Binding Site Mutation: A Case Report.",
+        "pubdate": "2026 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42999715/"
+      },
+      {
+        "pmid": "42516807",
+        "title": "Bayesian analysis of the early cold stored platelet transfusion following severe injury randomized clinical trial.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42516807/"
+      },
+      {
+        "pmid": "42289744",
+        "title": "TM and t-PAIC may be possible biomarkers to predict postoperative infection after cardiac surgery with cardiopulmonary bypass.",
+        "pubdate": "2026 Jun 14",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42289744/"
+      },
+      {
+        "pmid": "42221582",
+        "title": "Development and internal validation of a clinical prediction model for septic shock in pediatric respiratory syncytial virus bronchiolitis based on routine blood biomarkers and concomitant fungal infection.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42221582/"
+      },
+      {
+        "pmid": "40053895",
+        "title": "Safety and efficacy of a fitusiran antithrombin-based dose regimen in people with hemophilia A or B: the ATLAS-OLE study.",
+        "pubdate": "2025 Jun 19",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40053895/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

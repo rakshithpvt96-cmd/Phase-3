@@ -1,0 +1,99 @@
+{
+  "drug_name": "DKP21102_C",
+  "slug": "dkp21102-c",
+  "enriched_at": "2026-11-20T17:12:56Z",
+  "source_trial_ids": [
+    "NCT05809687"
+  ],
+  "sponsors": [
+    {
+      "name": "Dongkwang Pharm. Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Dongkwang%20Pharm.%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1297262",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": null,
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=DKP21102_C+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=DKP21102_C+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=DKP21102_C+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Dyslipidemias",
+    "slug": "dyslipidemias"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05809687",
+      "title": "Phase 3 Trial to Evaluate the Efficacy and Safety of DKP21102_B Added on to DKP21102_A Compared With DKP21102_A",
+      "status": "WITHDRAWN",
+      "url": "https://clinicaltrials.gov/study/NCT05809687",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "43061047",
+        "title": "Exploring cardiometabolic markers in adverse pregnancy outcomes: insights from the GROWell study.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43061047/"
+      },
+      {
+        "pmid": "43058872",
+        "title": "Phase IB trial of the BMI-1 inhibitor unesbulin plus neoadjuvant paclitaxel-carboplatin in advanced ovarian cancer.",
+        "pubdate": "2026 Aug 25",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43058872/"
+      },
+      {
+        "pmid": "43058741",
+        "title": "Unveiling the depth of the knowledge gap in the Universe of Rare Diseases: the PLUTO mission.",
+        "pubdate": "2026 Aug 27",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43058741/"
+      },
+      {
+        "pmid": "43058669",
+        "title": "Development and bootstrap-based internal validation of a prediction model for in-hospital mortality in patients with Fournier's gangrene.",
+        "pubdate": "2026 Aug 27",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43058669/"
+      },
+      {
+        "pmid": "43058666",
+        "title": "Hidden heterogeneity in complicated appendicitis: comparison of preoperative biomarker profiles across the histopathological spectrum of acute appendicitis.",
+        "pubdate": "2026 Aug 27",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43058666/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

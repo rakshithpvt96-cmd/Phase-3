@@ -1,7 +1,7 @@
 {
   "drug_name": "VX-121/TEZ/D-IVA",
   "slug": "vx-121-tez-d-iva",
-  "enriched_at": "2026-11-13T15:32:34Z",
+  "enriched_at": "2026-11-20T17:05:47Z",
   "source_trial_ids": [
     "NCT05444257"
   ],
@@ -58,7 +58,20 @@
   ],
   "prior_results": {
     "ctgov_results_urls": [],
-    "pubmed_articles": []
+    "pubmed_articles": [
+      {
+        "pmid": "42946579",
+        "title": "Evaluation of potential relationship between CFTR modulators, CFTR and neuropsychiatric symptoms in CF.",
+        "pubdate": "2026 Oct 27",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42946579/"
+      },
+      {
+        "pmid": "41350125",
+        "title": "Improvements in health-related quality of life in people with cystic fibrosis ≥6 years of age treated with vanzacaftor/tezacaftor/deutivacaftor.",
+        "pubdate": "2026 Mar",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41350125/"
+      }
+    ]
   },
   "related_drugs": {
     "method": "ctgov_same_condition",

@@ -1,0 +1,99 @@
+{
+  "drug_name": "DKP21102_B",
+  "slug": "dkp21102-b",
+  "enriched_at": "2026-11-20T17:12:49Z",
+  "source_trial_ids": [
+    "NCT05809687"
+  ],
+  "sponsors": [
+    {
+      "name": "Dongkwang Pharm. Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Dongkwang%20Pharm.%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "11248",
+      "generic_name": "vitamin B12",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": null,
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=DKP21102_B+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=DKP21102_B+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=DKP21102_B+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Dyslipidemias",
+    "slug": "dyslipidemias"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05809687",
+      "title": "Phase 3 Trial to Evaluate the Efficacy and Safety of DKP21102_B Added on to DKP21102_A Compared With DKP21102_A",
+      "status": "WITHDRAWN",
+      "url": "https://clinicaltrials.gov/study/NCT05809687",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "43061072",
+        "title": "A Multicenter Interventional Trial Using Blood Mucorales Polymerase Chain Reaction as a Screening Tool in High-Risk Hematology Patients (MUCOPS).",
+        "pubdate": "2026 Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43061072/"
+      },
+      {
+        "pmid": "43059020",
+        "title": "Comparison of the Efficacies of Micro-Osteoperforation and Piezocision on the Rates of Tooth Movement in En Masse Retraction: A Split-Mouth Study.",
+        "pubdate": "2026 Nov 19",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43059020/"
+      },
+      {
+        "pmid": "43058741",
+        "title": "Unveiling the depth of the knowledge gap in the Universe of Rare Diseases: the PLUTO mission.",
+        "pubdate": "2026 Aug 27",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43058741/"
+      },
+      {
+        "pmid": "43057528",
+        "title": "Reappraising the value of HBV genotypes B and C: comparative qHBsAg decline kinetics under standard-of-care and novel antiviral therapies.",
+        "pubdate": "2026 Nov 19",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43057528/"
+      },
+      {
+        "pmid": "43054864",
+        "title": "\"Despite the odds being stacked against me\": A qualitative analysis of client perceptions of radical healing and internalized stigma frameworks in therapy.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43054864/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

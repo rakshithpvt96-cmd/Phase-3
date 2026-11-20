@@ -1,0 +1,132 @@
+{
+  "drug_name": "Disitamab Vedotin Injection",
+  "slug": "disitamab-vedotin-injection",
+  "enriched_at": "2026-11-20T17:12:34Z",
+  "source_trial_ids": [
+    "NCT06221748"
+  ],
+  "sponsors": [
+    {
+      "name": "RemeGen Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=RemeGen%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2622201",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL5095273",
+    "target_chembl_id": "CHEMBL1824",
+    "target_name": "Receptor tyrosine-protein kinase erbB-2",
+    "mechanism_of_action_chembl": "Receptor tyrosine-protein kinase erbB-2 binding agent"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Disitamab%20Vedotin%20Injection+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Disitamab%20Vedotin%20Injection+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Disitamab%20Vedotin%20Injection+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Gastric Cancer",
+    "slug": "gastric-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06221748",
+      "title": "DV Combined With Cadonilimab in Subjects With HER2-expressing Gastric Cancer and Gastroesophageal Junction Adenocarcinoma After Progression on First-line Therapy",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06221748",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42848391",
+        "title": "Disitamab Vedotin Plus Tislelizumab in Transurethrally Unresectable, ERBB2-Positive, Non-Muscle-Invasive Bladder Cancer: A Nonrandomized Clinical Trial.",
+        "pubdate": "2026 Oct 8",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42848391/"
+      },
+      {
+        "pmid": "41823246",
+        "title": "Evaluation of RC48-ADC in Combination with PRaG Regimen: An Open-Label, Prospective, Multicentre Study Assessing Efficacy and Safety for Advanced Refractory HER2-Expressing Solid Tumors (PRaG3.0 Study Protocol).",
+        "pubdate": "2026 Jan-Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41823246/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "TRASTUZUMAB",
+        "chembl_id": "CHEMBL1201585",
+        "reason": "same target: Receptor tyrosine-protein kinase erbB-2"
+      },
+      {
+        "name": "PERTUZUMAB",
+        "chembl_id": "CHEMBL2007641",
+        "reason": "same target: Receptor tyrosine-protein kinase erbB-2"
+      },
+      {
+        "name": "TRASTUZUMAB EMTANSINE",
+        "chembl_id": "CHEMBL1743082",
+        "reason": "same target: Receptor tyrosine-protein kinase erbB-2"
+      },
+      {
+        "name": "LAPATINIB DITOSYLATE",
+        "chembl_id": "CHEMBL1201179",
+        "reason": "same target: Receptor tyrosine-protein kinase erbB-2"
+      },
+      {
+        "name": "AFATINIB DIMALEATE",
+        "chembl_id": "CHEMBL2105712",
+        "reason": "same target: Receptor tyrosine-protein kinase erbB-2"
+      },
+      {
+        "name": "AC-480",
+        "chembl_id": "CHEMBL1645462",
+        "reason": "same target: Receptor tyrosine-protein kinase erbB-2"
+      },
+      {
+        "name": "ALLITINIB",
+        "chembl_id": "CHEMBL1947204",
+        "reason": "same target: Receptor tyrosine-protein kinase erbB-2"
+      },
+      {
+        "name": "CP-724714",
+        "chembl_id": "CHEMBL483321",
+        "reason": "same target: Receptor tyrosine-protein kinase erbB-2"
+      },
+      {
+        "name": "CUDC-101",
+        "chembl_id": "CHEMBL598797",
+        "reason": "same target: Receptor tyrosine-protein kinase erbB-2"
+      },
+      {
+        "name": "JNJ-26483327",
+        "chembl_id": "CHEMBL3109738",
+        "reason": "same target: Receptor tyrosine-protein kinase erbB-2"
+      }
+    ]
+  }
+}

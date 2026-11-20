@@ -1,16 +1,16 @@
 {
   "drug_name": "Control",
   "slug": "control",
-  "enriched_at": "2026-09-15T12:32:34Z",
+  "enriched_at": "2026-11-20T17:12:05Z",
   "source_trial_ids": [
-    "NCT04850118"
+    "NCT07133178"
   ],
   "sponsors": [
     {
-      "name": "Beacon Therapeutics",
+      "name": "Valneva Austria GmbH",
       "ticker": null,
       "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Beacon%20Therapeutics&type=10-K&dateb=&owner=include&count=40"
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Valneva%20Austria%20GmbH&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
@@ -45,20 +45,20 @@
     "openfda_generic_names": [
       "ADVANCED STRESS CONTROL DRY SPRAY 72H ANTIPERSPIRANT DEODORANT"
     ],
-    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0cb9557b-d465-4c5a-80db-6f7d46afb05c",
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=17993a9f-0d44-43a1-8608-94ee8a08b539",
     "note": null,
     "further_reading": null
   },
   "condition": {
-    "raw": "X-Linked Retinitis Pigmentosa",
-    "slug": "x-linked-retinitis-pigmentosa"
+    "raw": "Chikungunya Virus Infection",
+    "slug": "chikungunya-virus-infection"
   },
   "source_trials": [
     {
-      "nct_id": "NCT04850118",
-      "title": "A Clinical Trial Evaluating the Safety and Efficacy of a Single Subretinal Injection of AGTC-501 in Participants With XLRP",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT04850118",
+      "nct_id": "NCT07133178",
+      "title": "A Trial to Evaluate the Safety and Immunogenicity of VLA1553 in Healthy Children",
+      "status": "WITHDRAWN",
+      "url": "https://clinicaltrials.gov/study/NCT07133178",
       "has_results": false
     }
   ],
@@ -66,34 +66,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42740907",
-        "title": "Avoidance of cardiac toxicity during the application of immune checkpoint inhibitors: a safety systematic review combining network meta-analysis and pharmacovigilance study.",
+        "pmid": "43062193",
+        "title": "1,25-Dihydroxyvitamin D3 Ameliorates High-Altitude Hypoxic Injury via Modulation of Short-Chain Fatty Acids to Exert a Coordinated Anti-Inflammatory Effect.",
+        "pubdate": "2026 Nov 20",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43062193/"
+      },
+      {
+        "pmid": "43061850",
+        "title": "Late Effects of (131)I-MIBG in Survivors of High-Risk Neuroblastoma: A Report From the Children's Oncology Group LEAHRN Study.",
+        "pubdate": "2026 Nov 20",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43061850/"
+      },
+      {
+        "pmid": "43061059",
+        "title": "Efficacy and Safety of a Supervised-to-Home Electro-Press Needling Intervention for Acute Postoperative Pain After Mandibular Third Molar Extraction: A Randomized Sham-Controlled Trial Protocol.",
         "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42740907/"
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43061059/"
       },
       {
-        "pmid": "42740672",
-        "title": "Use of a caudal intercostal block in horses undergoing surgery for colic.",
-        "pubdate": "2026 Sep 15",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42740672/"
+        "pmid": "43060992",
+        "title": "Effect of radiofrequency therapy in the treatment of de novo dyspareunia at 4 to 12 months postpartum: a randomized clinical trial.",
+        "pubdate": "2026 Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43060992/"
       },
       {
-        "pmid": "42740669",
-        "title": "Adding a Prevention Intervention to an Established App: The Blued+ HIV Prevention Pilot Study in Beijing and Chengdu, China.",
-        "pubdate": "2026 Sep",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42740669/"
-      },
-      {
-        "pmid": "42740668",
-        "title": "Comparing Approaches for Estimating Counterfactual HIV Incidence Among Populations With High Vulnerability to HIV in Lima, Peru: A Multi-Study Comparative Analysis.",
-        "pubdate": "2026 Sep",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42740668/"
-      },
-      {
-        "pmid": "42739526",
-        "title": "Safety and Efficacy of Brolucizumab in the Treatment of Patients with Diabetic Macular Edema and Diabetic Retinopathy: A Systematic Review and Meta-Analysis.",
-        "pubdate": "2026 Aug 23",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42739526/"
+        "pmid": "43060689",
+        "title": "Statistical design of Path to Prevention platform trial in early neuronal alpha-synuclein disease.",
+        "pubdate": "2026 Nov 6",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43060689/"
       }
     ]
   },
