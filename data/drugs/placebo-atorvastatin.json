@@ -1,0 +1,99 @@
+{
+  "drug_name": "Placebo, Atorvastatin",
+  "slug": "placebo-atorvastatin",
+  "enriched_at": "2026-11-20T17:46:02Z",
+  "source_trial_ids": [
+    "NCT06974084"
+  ],
+  "sponsors": [
+    {
+      "name": "HealthBio, Inc.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=HealthBio%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "8375",
+      "generic_name": "placebo",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1487",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Placebo%2C%20Atorvastatin+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Placebo%2C%20Atorvastatin+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Placebo%2C%20Atorvastatin+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Long COVID",
+    "slug": "long-covid"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06974084",
+      "title": "A Multi-Center, Individually-Randomized, Double-Blind, Placebo-Controlled, Parallel-Group, Superiority Trial to Evaluate the Efficacy of the Combination of Maraviroc and Atorvastatin for the Treatment of Subjects With Long COVID",
+      "status": "NOT_YET_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06974084",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42866928",
+        "title": "Efficacy of Standard Triple Therapy With or Without Statin in Helicobacter pylori Eradication: A Randomized Double-Blind Placebo-Controlled Trial.",
+        "pubdate": "2026 Sep-Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42866928/"
+      },
+      {
+        "pmid": "42521312",
+        "title": "BASTA trial: protocol for a randomised, double-blind, placebo-controlled, crossover trial investigating the effects of atorvastatin on bile acid diarrhoea.",
+        "pubdate": "2026 Jul 28",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42521312/"
+      },
+      {
+        "pmid": "42203164",
+        "title": "Design of VICTORION-2 Prevent: A randomized double-blind, placebo-controlled trial, assessing the impact of inclisiran on major adverse cardiovascular events in patients with established cardiovascular disease.",
+        "pubdate": "2026 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42203164/"
+      },
+      {
+        "pmid": "41875954",
+        "title": "Atorvastatin and left ventricular strain during anthracycline-based chemotherapy.",
+        "pubdate": "2026 Jul 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41875954/"
+      },
+      {
+        "pmid": "41865069",
+        "title": "Atorvastatin reduces recurrent decompensation events in advanced cirrhosis in a randomized placebo-controlled trial.",
+        "pubdate": "2026 Mar 21",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41865069/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

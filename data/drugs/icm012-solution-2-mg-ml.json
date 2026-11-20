@@ -1,0 +1,95 @@
+{
+  "drug_name": "iCM012 solution 2 mg/mL",
+  "slug": "icm012-solution-2-mg-ml",
+  "enriched_at": "2026-11-20T17:40:19Z",
+  "source_trial_ids": [
+    "NCT06582485"
+  ],
+  "sponsors": [
+    {
+      "name": "iCoat Medical AB",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=iCoat%20Medical%20AB&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": null
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1732375",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=iCM012%20solution%202%20mg/mL+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=iCM012%20solution%202%20mg/mL+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=iCM012%20solution%202%20mg/mL+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Ischemia-reperfusion Injury",
+    "slug": "ischemia-reperfusion-injury"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06582485",
+      "title": "A Trial to Assess Efficacy and Safety of ex Vivo Allograft Admin of iCM012 Solution 2 mg/ml to Improve Its Function in Recipients of DCD Kidneys",
+      "status": "NOT_YET_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06582485",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42752558",
+        "title": "Intrauterine Mepivacaine Instillation vs Placebo for Pain During IUD Placement: A Randomized Clinical Trial.",
+        "pubdate": "2026 Oct 27",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42752558/"
+      },
+      {
+        "pmid": "42087486",
+        "title": "Effectiveness and Safety of Recombinant Type III Humanized Collagen Solution Injection Combined With Collagen-III Multi-Peptide Serum in Improving Signs of Photoaging: A Prospective, Split-Face Controlled Clinical Trial.",
+        "pubdate": "2026 May",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42087486/"
+      },
+      {
+        "pmid": "41885126",
+        "title": "Effectiveness of cryotherapy versus dexamethasone in reducing postoperative pain in permanent mandibular molars with symptomatic irreversible pulpitis: a randomized controlled clinical trial.",
+        "pubdate": "2026 Jun 22",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41885126/"
+      },
+      {
+        "pmid": "41832513",
+        "title": "Third-generation cryotherapy reduces time to surgery and local complications in patients with ankle fractures: a prospective randomised controlled trial.",
+        "pubdate": "2026 Mar 14",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41832513/"
+      },
+      {
+        "pmid": "41750455",
+        "title": "Timing of Antimicrobial Lock Replacement for Gram-Positive Port Infections: Results of a Randomized Trial.",
+        "pubdate": "2026 Feb 2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41750455/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

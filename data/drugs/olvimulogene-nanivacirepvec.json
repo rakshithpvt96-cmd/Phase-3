@@ -1,0 +1,75 @@
+{
+  "drug_name": "olvimulogene nanivacirepvec",
+  "slug": "olvimulogene-nanivacirepvec",
+  "enriched_at": "2026-11-20T17:44:43Z",
+  "source_trial_ids": [
+    "NCT05281471"
+  ],
+  "sponsors": [
+    {
+      "name": "Genelux Corporation",
+      "ticker": "GNLX",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001231457&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2471659",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4594308",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=olvimulogene%20nanivacirepvec+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=olvimulogene%20nanivacirepvec+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=olvimulogene%20nanivacirepvec+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Platinum-resistant Ovarian Cancer",
+    "slug": "platinum-resistant-ovarian-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05281471",
+      "title": "Efficacy & Safety of Olvi-Vec and Platinum-doublet + Bevacizumab Compared to Physician's Choice of Chemotherapy and Bevacizumab in Platinum-Resistant/Refractory Ovarian Cancer (PRROC) (OnPrime, GOG-3076)",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05281471",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "37227734",
+        "title": "Clinical Activity of Olvimulogene Nanivacirepvec-Primed Immunochemotherapy in Heavily Pretreated Patients With Platinum-Resistant or Platinum-Refractory Ovarian Cancer: The Nonrandomized Phase 2 VIRO-15 Clinical Trial.",
+        "pubdate": "2023 Jul 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37227734/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "drug_name": "Lenacapavir pacfosacil",
+  "slug": "lenacapavir-pacfosacil",
+  "enriched_at": "2026-11-20T17:42:19Z",
+  "source_trial_ids": [
+    "NCT06544733"
+  ],
+  "sponsors": [
+    {
+      "name": "Gilead Sciences",
+      "ticker": "GILD",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000882095&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 168826121,
+    "iupac_name": "2-[2-[4-[[4-chloro-7-[2-[(1S)-2-(3,5-difluorophenyl)-1-[[2-[(2S,4R)-5,5-difluoro-9-(trifluoromethyl)-7,8-diazatricyclo[4.3.0.02,4]nona-1(6),8-dien-7-yl]acetyl]amino]ethyl]-6-(3-methyl-3-methylsulfonylbut-1-ynyl)-3-pyridinyl]-1-(2,2,2-trifluoroethyl)indazol-3-yl]-methylsulfonylamino]-2-methyl-4-oxobutan-2-yl]-5-methyl-3-phosphonooxyphenyl]acetic acid",
+    "molecular_formula": "C53H49ClF10N7O12PS2",
+    "molecular_weight": "1296.5",
+    "canonical_smiles": null,
+    "inchikey": "XXPJRIWJFUQOCT-LFBNJJMOSA-N",
+    "rxnorm": {
+      "rxcui": "2625651",
+      "generic_name": "lenacapavir",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4802249",
+    "target_chembl_id": "CHEMBL2366504",
+    "target_name": "Structural capsid protein",
+    "mechanism_of_action_chembl": "Structural capsid protein inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Lenacapavir%20pacfosacil+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Lenacapavir%20pacfosacil+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Lenacapavir%20pacfosacil+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "HIV-1-Infection",
+    "slug": "hiv-1-infection"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06544733",
+      "title": "Study of Oral Weekly Lepetegravir (Formerly GS-1720) and Lenacapavir Pacfosacil (Formerly GS-4182) Versus Biktarvy in People With HIV-1 Who Are Virologically Suppressed",
+      "status": "TERMINATED",
+      "url": "https://clinicaltrials.gov/study/NCT06544733",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "43025399",
+        "title": "Once-weekly oral islatravir/lenacapavir: Closer to clinical practice?",
+        "pubdate": "2026 Nov 13",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43025399/"
+      },
+      {
+        "pmid": "43011617",
+        "title": "Lenacapavir in the Treatment and Prevention of HIV-1 Infection: A Narrative Review of Clinical Efficacy and Resistance Selection Risk.",
+        "pubdate": "2026 Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43011617/"
+      },
+      {
+        "pmid": "42973235",
+        "title": "Islatravir: a first-in-class nucleoside reverse transcriptase translocation inhibitor for HIV treatment.",
+        "pubdate": "2026 Oct 27",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42973235/"
+      },
+      {
+        "pmid": "42954667",
+        "title": "Bictegravir/Lenacapavir: A 2-Drug Regimen for the Treatment of HIV-1 Infection.",
+        "pubdate": "2026 Oct 29",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42954667/"
+      },
+      {
+        "pmid": "42902155",
+        "title": "The LEN4PrEP study: protocol for a phase 3B, non-randomised clinical trial integrating lenacapavir PrEP within multi-product HIV prevention services in primary care clinics in South Africa.",
+        "pubdate": "2026 Jul 23",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42902155/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "LENACAPAVIR",
+        "chembl_id": "CHEMBL4594438",
+        "reason": "same target: Structural capsid protein"
+      }
+    ]
+  }
+}

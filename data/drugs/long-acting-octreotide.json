@@ -1,0 +1,99 @@
+{
+  "drug_name": "long-acting Octreotide",
+  "slug": "long-acting-octreotide",
+  "enriched_at": "2026-11-20T17:42:59Z",
+  "source_trial_ids": [
+    "NCT05884255"
+  ],
+  "sponsors": [
+    {
+      "name": "Jiangsu HengRui Medicine Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Jiangsu%20HengRui%20Medicine%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "218069",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1680",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=long-acting%20Octreotide+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=long-acting%20Octreotide+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=long-acting%20Octreotide+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Advanced Gastroenteropancreatic Neuroendocrine Tumor",
+    "slug": "advanced-gastroenteropancreatic-neuroendocrine-tumor"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05884255",
+      "title": "An Open-label Phase 3 Study of Lutetium (177Lu) Oxodotreotide Injection in Subjects With Advanced Gastrointestinal Pancreatic Neuroendocrine Tumors.",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05884255",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42712757",
+        "title": "A long-acting octreotide analog formed by conjugation with a peptide linker modified with two fatty acids.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42712757/"
+      },
+      {
+        "pmid": "42604001",
+        "title": "[(177)Lu]Lu-DOTA-TATE plus long-acting octreotide in patients with newly diagnosed, advanced, grade 2-3, gastroenteropancreatic neuroendocrine tumours: preplanned and post-hoc efficacy analyses from the randomised, phase 3 NETTER-2 trial.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42604001/"
+      },
+      {
+        "pmid": "41719493",
+        "title": "Axitinib and Long-Acting Octreotide in Advanced Extrapancreatic Neuroendocrine Tumors: A Randomized, Double-Blind, Placebo-Controlled, Phase III Clinical Trial (AXINET, GETNE 1107).",
+        "pubdate": "2026 Mar 20",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41719493/"
+      },
+      {
+        "pmid": "39378125",
+        "title": "Octreotide Subcutaneous Depot for Acromegaly: A Randomized, Double-blind, Placebo-controlled Phase 3 Trial, ACROINNOVA 1.",
+        "pubdate": "2025 May 19",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39378125/"
+      },
+      {
+        "pmid": "38851203",
+        "title": "[(177)Lu]Lu-DOTA-TATE plus long-acting octreotide versus high‑dose long-acting octreotide for the treatment of newly diagnosed, advanced grade 2-3, well-differentiated, gastroenteropancreatic neuroendocrine tumours (NETTER-2): an open-label, randomised, phase 3 study.",
+        "pubdate": "2024 Jun 29",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38851203/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

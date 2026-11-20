@@ -1,0 +1,68 @@
+{
+  "drug_name": "Placebo to Match BVY",
+  "slug": "placebo-to-match-bvy",
+  "enriched_at": "2026-11-20T17:47:20Z",
+  "source_trial_ids": [
+    "NCT06544733"
+  ],
+  "sponsors": [
+    {
+      "name": "Gilead Sciences",
+      "ticker": "GILD",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000882095&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "8375",
+      "generic_name": "placebo",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL6068498",
+    "target_chembl_id": "CHEMBL5498507",
+    "target_name": "Polysaccharide conjugated to Tetanus toxoid",
+    "mechanism_of_action_chembl": "Polysaccharide conjugated to Tetanus toxoid vaccine antigen"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Placebo%20to%20Match%20BVY+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Placebo%20to%20Match%20BVY+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Placebo%20to%20Match%20BVY+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "HIV-1-Infection",
+    "slug": "hiv-1-infection"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06544733",
+      "title": "Study of Oral Weekly Lepetegravir (Formerly GS-1720) and Lenacapavir Pacfosacil (Formerly GS-4182) Versus Biktarvy in People With HIV-1 Who Are Virologically Suppressed",
+      "status": "TERMINATED",
+      "url": "https://clinicaltrials.gov/study/NCT06544733",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

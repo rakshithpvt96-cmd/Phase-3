@@ -1,0 +1,99 @@
+{
+  "drug_name": "Placebo (Gel vehicle)",
+  "slug": "placebo-gel-vehicle",
+  "enriched_at": "2026-11-20T17:46:37Z",
+  "source_trial_ids": [
+    "NCT06568627"
+  ],
+  "sponsors": [
+    {
+      "name": "MediWound Ltd",
+      "ticker": "MDWD",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001593984&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "8375",
+      "generic_name": "placebo",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2108661",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Placebo%20%28Gel%20vehicle%29+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Placebo%20%28Gel%20vehicle%29+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Placebo%20%28Gel%20vehicle%29+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Venous Leg Ulcer (VLU)",
+    "slug": "venous-leg-ulcer-vlu"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06568627",
+      "title": "A Double Blind Study Performed to Evaluate the Efficacy and the Safety of EscharEx in Debridement of VLU (VALUE)",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06568627",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "41541550",
+        "title": "Topical Salbutamol Cutaneous Gel Is Safe in a Double-Blind, Placebo-Controlled, Randomized Trial of Scarring from Sutured Wound Margins on the Arms of Healthy Human Volunteers.",
+        "pubdate": "2026 Jan",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41541550/"
+      },
+      {
+        "pmid": "38306147",
+        "title": "Benefit of Topical Combination Therapy for Acne: Analyzing Effect Size Using Number Needed to Treat.",
+        "pubdate": "2024 Feb 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38306147/"
+      },
+      {
+        "pmid": "37775584",
+        "title": "Effect of a gel containing green tea extract and hyaluronic acid on palate pain scores and wound healing after free gingival graft: a quasi-randomized controlled clinical trial.",
+        "pubdate": "2023 Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37775584/"
+      },
+      {
+        "pmid": "37715999",
+        "title": "Early Enzymatic Burn Debridement: Results of the DETECT Multicenter Randomized Controlled Trial.",
+        "pubdate": "2024 Mar 4",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37715999/"
+      },
+      {
+        "pmid": "35553043",
+        "title": "Efficacy and safety of N-acetyl-GED-0507-34-LEVO gel in patients with moderate-to severe facial acne vulgaris: a phase IIb randomized double-blind, vehicle-controlled trial.",
+        "pubdate": "2022 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35553043/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

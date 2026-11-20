@@ -1,0 +1,150 @@
+{
+  "drug_name": "Placebo, Maraviroc",
+  "slug": "placebo-maraviroc",
+  "enriched_at": "2026-11-20T17:46:45Z",
+  "source_trial_ids": [
+    "NCT06974084"
+  ],
+  "sponsors": [
+    {
+      "name": "HealthBio, Inc.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=HealthBio%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "620216",
+      "generic_name": "maraviroc",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL256907",
+    "target_chembl_id": "CHEMBL274",
+    "target_name": "C-C chemokine receptor type 5",
+    "mechanism_of_action_chembl": "C-C chemokine receptor type 5 antagonist"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Placebo%2C%20Maraviroc+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Placebo%2C%20Maraviroc+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Placebo%2C%20Maraviroc+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Long COVID",
+    "slug": "long-covid"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06974084",
+      "title": "A Multi-Center, Individually-Randomized, Double-Blind, Placebo-Controlled, Parallel-Group, Superiority Trial to Evaluate the Efficacy of the Combination of Maraviroc and Atorvastatin for the Treatment of Subjects With Long COVID",
+      "status": "NOT_YET_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06974084",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42082248",
+        "title": "Maraviroc for Stroke Recovery (MASTER): protocol for a phase 2 double-blind placebo-controlled randomised clinical trial.",
+        "pubdate": "2026 May 3",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42082248/"
+      },
+      {
+        "pmid": "38844862",
+        "title": "Blocking CCR5 activity by maraviroc augmentation in post-stroke depression: a proof-of-concept clinical trial.",
+        "pubdate": "2024 Jun 6",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38844862/"
+      },
+      {
+        "pmid": "36082248",
+        "title": "Preventing post-stroke dementia. The MARCH Trial. Protocol and statistical analysis plan of a randomized clinical trial testing the safety and efficacy of Maraviroc in post-stroke cognitive impairment.",
+        "pubdate": "2022 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36082248/"
+      },
+      {
+        "pmid": "30586365",
+        "title": "Clonal analysis of HIV-1 genotype and function associated with virologic failure in treatment-experienced persons receiving maraviroc: Results from the MOTIVATE phase 3 randomized, placebo-controlled trials.",
+        "pubdate": "2018",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30586365/"
+      },
+      {
+        "pmid": "28736763",
+        "title": "Immunologic Effects of Maraviroc in HIV-Infected Patients with Severe CD4 Lymphopenia Starting Antiretroviral Therapy: A Sub-Study of the CADIRIS Trial.",
+        "pubdate": "2017",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28736763/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "CENICRIVIROC",
+        "chembl_id": "CHEMBL2110727",
+        "reason": "same target: C-C chemokine receptor type 5"
+      },
+      {
+        "name": "PF-04634817",
+        "chembl_id": "CHEMBL5095029",
+        "reason": "same target: C-C chemokine receptor type 5"
+      },
+      {
+        "name": "AZD5672",
+        "chembl_id": "CHEMBL1951914",
+        "reason": "same target: C-C chemokine receptor type 5"
+      },
+      {
+        "name": "INCB-9471",
+        "chembl_id": "CHEMBL1688243",
+        "reason": "same target: C-C chemokine receptor type 5"
+      },
+      {
+        "name": "APLAVIROC HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1668019",
+        "reason": "same target: C-C chemokine receptor type 5"
+      },
+      {
+        "name": "VICRIVIROC MALEATE",
+        "chembl_id": "CHEMBL2107384",
+        "reason": "same target: C-C chemokine receptor type 5"
+      },
+      {
+        "name": "LERONLIMAB",
+        "chembl_id": "CHEMBL2109343",
+        "reason": "same target: C-C chemokine receptor type 5"
+      },
+      {
+        "name": "HGS-1025",
+        "chembl_id": "CHEMBL2109342",
+        "reason": "same target: C-C chemokine receptor type 5"
+      },
+      {
+        "name": "CCR5MAB004",
+        "chembl_id": "CHEMBL2109341",
+        "reason": "same target: C-C chemokine receptor type 5"
+      },
+      {
+        "name": "BMS-813160",
+        "chembl_id": "CHEMBL4594419",
+        "reason": "same target: C-C chemokine receptor type 5"
+      }
+    ]
+  }
+}

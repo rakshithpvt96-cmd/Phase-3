@@ -1,0 +1,99 @@
+{
+  "drug_name": "Mesenchymal Stem Cells",
+  "slug": "mesenchymal-stem-cells",
+  "enriched_at": "2026-11-20T17:43:38Z",
+  "source_trial_ids": [
+    "NCT06570291"
+  ],
+  "sponsors": [
+    {
+      "name": "Wuxi Cellular Biopharmaceutical Group Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Wuxi%20Cellular%20Biopharmaceutical%20Group%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2393541",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL5315110",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": "Somatic cell supplemental therapy"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Mesenchymal%20Stem%20Cells+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Mesenchymal%20Stem%20Cells+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Mesenchymal%20Stem%20Cells+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Knee Osteoarthritis",
+    "slug": "knee-osteoarthritis"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06570291",
+      "title": "Allogenic Adipose-Derived Mesenchymal Stem Cells for the Treatment of Knee Osteoarthritis",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06570291",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "43058895",
+        "title": "Mesenchymal stromal cells for periventricular hemorrhagic infarction in extremely preterm infants: a double-blinded randomized controlled phase IIa clinical trial.",
+        "pubdate": "2026 Aug 24",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43058895/"
+      },
+      {
+        "pmid": "43034267",
+        "title": "Advanced drug delivery strategies for overcoming tumor-mediated molecular hijacking: Emerging nanotherapeutics, advanced biotherapeutics, and artificial intelligence.",
+        "pubdate": "2026 Nov 14",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43034267/"
+      },
+      {
+        "pmid": "43028168",
+        "title": "Mesenchymal Stem/Stromal Cell-Derived Extracellular Vesicles for Immunomodulation in Osteoarthritis.",
+        "pubdate": "2026 Nov 5",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43028168/"
+      },
+      {
+        "pmid": "42972476",
+        "title": "Multiple intra-articular injections of umbilical cord mesenchymal stem cells in treating severe knee osteoarthritis: a triple-blind randomized controlled trial.",
+        "pubdate": "2026 Aug 6",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42972476/"
+      },
+      {
+        "pmid": "42970715",
+        "title": "Stem cell therapies for chronic obstructive pulmonary disease: mapping the global clinical trial landscape.",
+        "pubdate": "2026 Oct 16",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42970715/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

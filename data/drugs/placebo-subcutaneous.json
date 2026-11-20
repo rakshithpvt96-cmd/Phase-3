@@ -1,0 +1,99 @@
+{
+  "drug_name": "Placebo subcutaneous",
+  "slug": "placebo-subcutaneous",
+  "enriched_at": "2026-11-20T17:47:08Z",
+  "source_trial_ids": [
+    "NCT04435990"
+  ],
+  "sponsors": [
+    {
+      "name": "Inmunotek S.L.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Inmunotek%20S.L.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "8375",
+      "generic_name": "placebo",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": null,
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Placebo%20subcutaneous+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Placebo%20subcutaneous+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Placebo%20subcutaneous+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Rhinitis, Allergic",
+    "slug": "rhinitis-allergic"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04435990",
+      "title": "Efficacy and Safety Evaluation for the Treatment of Allergy Against Mites",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04435990",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "43055667",
+        "title": "A Multicenter, Double-Blind, Phase 3 Study of the Efficacy and Safety of Anifrolumab in Myositis: Rationale and Design of the JASMINE Trial.",
+        "pubdate": "2026 Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43055667/"
+      },
+      {
+        "pmid": "43057472",
+        "title": "Efficacy and safety of anti-IL-4Rα stapokibart for adults with moderate-to-severe prurigo nodularis: results from a phase 3 randomized trial.",
+        "pubdate": "2026 Nov 19",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43057472/"
+      },
+      {
+        "pmid": "43050287",
+        "title": "Semaglutide Effect on Kidney, Cardiovascular, and Mortality Outcomes in Racial and Ethnic Groups: FLOW Trial Post Hoc Analyses.",
+        "pubdate": "2026 Nov 18",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43050287/"
+      },
+      {
+        "pmid": "43037562",
+        "title": "Semaglutide for the Treatment of Obesity in Children 6 to <12 Years of Age.",
+        "pubdate": "2026 Nov 16",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43037562/"
+      },
+      {
+        "pmid": "43035098",
+        "title": "Once-Weekly Ribupatide for Weight Loss in Adults in China With Overweight or Obesity: The GEMINI-1 Randomized Clinical Trial.",
+        "pubdate": "2026 Nov 15",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43035098/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

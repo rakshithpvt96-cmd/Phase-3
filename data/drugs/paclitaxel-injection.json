@@ -1,16 +1,16 @@
 {
   "drug_name": "Paclitaxel Injection",
   "slug": "paclitaxel-injection",
-  "enriched_at": "2026-09-28T15:50:36Z",
+  "enriched_at": "2026-11-20T17:45:19Z",
   "source_trial_ids": [
-    "NCT06738251"
+    "NCT06221748"
   ],
   "sponsors": [
     {
-      "name": "Shanghai Hengrui Pharmaceutical Co., Ltd.",
+      "name": "RemeGen Co., Ltd.",
       "ticker": null,
       "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Shanghai%20Hengrui%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=RemeGen%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
@@ -44,15 +44,15 @@
     }
   },
   "condition": {
-    "raw": "Advanced Urothelial Carcinoma",
-    "slug": "advanced-urothelial-carcinoma"
+    "raw": "Gastric Cancer",
+    "slug": "gastric-cancer"
   },
   "source_trials": [
     {
-      "nct_id": "NCT06738251",
-      "title": "A Phase III Study of SHR-A2102 Versus Investigator-selected Therapy in Advanced Urothelial Carcinoma",
+      "nct_id": "NCT06221748",
+      "title": "DV Combined With Cadonilimab in Subjects With HER2-expressing Gastric Cancer and Gastroesophageal Junction Adenocarcinoma After Progression on First-line Therapy",
       "status": "RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06738251",
+      "url": "https://clinicaltrials.gov/study/NCT06221748",
       "has_results": false
     }
   ],
@@ -94,17 +94,6 @@
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": [
-      {
-        "name": "9MW2821",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Mabwell (Shanghai) Bioscience Co., Ltd."
-      },
-      {
-        "name": "Chemotherapy",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Mabwell (Shanghai) Bioscience Co., Ltd."
-      }
-    ]
+    "items": []
   }
 }

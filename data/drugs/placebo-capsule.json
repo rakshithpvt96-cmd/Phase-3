@@ -1,0 +1,150 @@
+{
+  "drug_name": "Placebo capsule",
+  "slug": "placebo-capsule",
+  "enriched_at": "2026-11-20T17:46:09Z",
+  "source_trial_ids": [
+    "NCT03789552"
+  ],
+  "sponsors": [
+    {
+      "name": "Tasly Pharmaceuticals, Inc.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Tasly%20Pharmaceuticals%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "8375",
+      "generic_name": "placebo",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL206253",
+    "target_chembl_id": "CHEMBL249",
+    "target_name": "Substance-P receptor",
+    "mechanism_of_action_chembl": "Neurokinin 1 receptor antagonist"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Placebo%20capsule+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Placebo%20capsule+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Placebo%20capsule+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Chronic Stable Angina Pectoris",
+    "slug": "chronic-stable-angina-pectoris"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT03789552",
+      "title": "Outcome Research to Confirm the Anti-anginal Effect of T89 in Patients With Stable Angina",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT03789552",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "43037879",
+        "title": "A comparative analysis of the safety and tolerability of oral small-molecule versus injectable peptide GLP-1 receptor agonists.",
+        "pubdate": "2026 Nov 16",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43037879/"
+      },
+      {
+        "pmid": "43022524",
+        "title": "Non-operative management of distal radius fractures by mumiaee: a randomized clinical trial.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43022524/"
+      },
+      {
+        "pmid": "43015331",
+        "title": "Oral bacterial lysate treatment for prevention of recurrent wheeze following severe bronchiolitis: protocol for an international multicentre randomised, placebo-controlled trial (BLIPA).",
+        "pubdate": "2026 Nov 11",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43015331/"
+      },
+      {
+        "pmid": "43014822",
+        "title": "Effect of discontinuing antihypertensives on perioperative hypotension in older patients before non-cardiac surgery: multicentre, randomised, double blind, controlled trial.",
+        "pubdate": "2026 Nov 11",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43014822/"
+      },
+      {
+        "pmid": "43013501",
+        "title": "Sumac (Rhus coriaria L.) Capsules for the management of hypermenorrhea: Protocol for a randomized triple-blind trial.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43013501/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "APREPITANT",
+        "chembl_id": "CHEMBL1471",
+        "reason": "same target: Substance-P receptor"
+      },
+      {
+        "name": "FOSAPREPITANT DIMEGLUMINE",
+        "chembl_id": "CHEMBL1201782",
+        "reason": "same target: Substance-P receptor"
+      },
+      {
+        "name": "ROLAPITANT HYDROCHLORIDE",
+        "chembl_id": "CHEMBL3707330",
+        "reason": "same target: Substance-P receptor"
+      },
+      {
+        "name": "FIGOPITANT",
+        "chembl_id": "CHEMBL2104927",
+        "reason": "same target: Substance-P receptor"
+      },
+      {
+        "name": "DNK333",
+        "chembl_id": "CHEMBL105060",
+        "reason": "same target: Substance-P receptor"
+      },
+      {
+        "name": "VESTIPITANT MESYLATE",
+        "chembl_id": "CHEMBL2104992",
+        "reason": "same target: Substance-P receptor"
+      },
+      {
+        "name": "ORVEPITANT",
+        "chembl_id": "CHEMBL2105667",
+        "reason": "same target: Substance-P receptor"
+      },
+      {
+        "name": "SERLOPITANT",
+        "chembl_id": "CHEMBL447955",
+        "reason": "same target: Substance-P receptor"
+      },
+      {
+        "name": "TRADIPITANT",
+        "chembl_id": "CHEMBL3544984",
+        "reason": "same target: Substance-P receptor"
+      },
+      {
+        "name": "BURAPITANT",
+        "chembl_id": "CHEMBL3544947",
+        "reason": "same target: Substance-P receptor"
+      }
+    ]
+  }
+}

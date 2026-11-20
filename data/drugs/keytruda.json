@@ -1,0 +1,150 @@
+{
+  "drug_name": "Keytruda®",
+  "slug": "keytruda",
+  "enriched_at": "2026-11-20T17:42:03Z",
+  "source_trial_ids": [
+    "NCT06754644"
+  ],
+  "sponsors": [
+    {
+      "name": "Qilu Pharmaceutical Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Qilu%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1547550",
+      "generic_name": "Keytruda",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL3137343",
+    "target_chembl_id": "CHEMBL3307223",
+    "target_name": "Programmed cell death protein 1",
+    "mechanism_of_action_chembl": "Programmed cell death protein 1 inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "DailyMed",
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=097d166f-b73b-41d3-9b37-7653cd2a0c41",
+    "note": "A label exists in DailyMed but structured sections could not be parsed automatically -- see dailymed_url for the full label.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Keytruda%C2%AE+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Keytruda%C2%AE+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Keytruda%C2%AE+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "NSCLC",
+    "slug": "nsclc"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06754644",
+      "title": "A Study to Evaluate Efficacy, and Safety of QL2107 Plus Chemo and Compare With Keytruda in Participants With IV nqNSCLC",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06754644",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "43059839",
+        "title": "Deep Learning-Based Spatial Profiling Identifies MET-Associated Immune Exclusion and Therapeutic Vulnerability Underlying Racial Disparities in Head and Neck Cancer.",
+        "pubdate": "2026 Nov 10",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43059839/"
+      },
+      {
+        "pmid": "43051705",
+        "title": "French AFU Cancer Committee Guidelines - Update 2026-2028: Kidney cancer.",
+        "pubdate": "2026 Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43051705/"
+      },
+      {
+        "pmid": "43020000",
+        "title": "Real-world use of pembrolizumab in early-stage triple-negative breast cancer: Data from the French Early Access Program.",
+        "pubdate": "2026 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43020000/"
+      },
+      {
+        "pmid": "43018951",
+        "title": "Perioperative immunotherapy in muscle-invasive bladder cancer: a narrative review of neoadjuvant, adjuvant, and antibody-drug conjugate-based strategies.",
+        "pubdate": "2026 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43018951/"
+      },
+      {
+        "pmid": "43013837",
+        "title": "Intismeran Autogene plus Pembrolizumab for Resected Stage IIB to IV Melanoma.",
+        "pubdate": "2026 Nov 11",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43013837/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "NIVOLUMAB",
+        "chembl_id": "CHEMBL2108738",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "PIDILIZUMAB",
+        "chembl_id": "CHEMBL2108680",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "CEMIPLIMAB",
+        "chembl_id": "CHEMBL4297723",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "DOSTARLIMAB",
+        "chembl_id": "CHEMBL4298124",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "CAMRELIZUMAB",
+        "chembl_id": "CHEMBL4297715",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "SERPLULIMAB",
+        "chembl_id": "CHEMBL4594550",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "RETIFANLIMAB",
+        "chembl_id": "CHEMBL4298037",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "SPARTALIZUMAB",
+        "chembl_id": "CHEMBL4297831",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "SASANLIMAB",
+        "chembl_id": "CHEMBL4298191",
+        "reason": "same target: Programmed cell death protein 1"
+      },
+      {
+        "name": "SINTILIMAB",
+        "chembl_id": "CHEMBL4297829",
+        "reason": "same target: Programmed cell death protein 1"
+      }
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "drug_name": "Non-platinum chemotherapy: Physician's Choice of gemcitabine, taxane (paclitaxel, docetaxel or nab-paclitaxel) or pegylated liposomal doxorubicin",
+  "slug": "non-platinum-chemotherapy-physician-s-choice-of-gemcitabine-taxane-paclitaxel-docetaxel-or-nab-paclitaxel-or-pegylated-liposomal-doxorubicin",
+  "enriched_at": "2026-11-20T17:44:16Z",
+  "source_trial_ids": [
+    "NCT05281471"
+  ],
+  "sponsors": [
+    {
+      "name": "Genelux Corporation",
+      "ticker": "GNLX",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001231457&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "486610",
+      "generic_name": "paclitaxel protein-bound",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL124777",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Non-platinum%20chemotherapy%3A%20Physician%27s%20Choice%20of%20gemcitabine%2C%20taxane%20%28paclitaxel%2C%20docetaxel%20or%20nab-paclitaxel%29%20or%20pegylated%20liposomal%20doxorubicin+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Non-platinum%20chemotherapy%3A%20Physician%27s%20Choice%20of%20gemcitabine%2C%20taxane%20%28paclitaxel%2C%20docetaxel%20or%20nab-paclitaxel%29%20or%20pegylated%20liposomal%20doxorubicin+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Non-platinum%20chemotherapy%3A%20Physician%27s%20Choice%20of%20gemcitabine%2C%20taxane%20%28paclitaxel%2C%20docetaxel%20or%20nab-paclitaxel%29%20or%20pegylated%20liposomal%20doxorubicin+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Platinum-resistant Ovarian Cancer",
+    "slug": "platinum-resistant-ovarian-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05281471",
+      "title": "Efficacy & Safety of Olvi-Vec and Platinum-doublet + Bevacizumab Compared to Physician's Choice of Chemotherapy and Bevacizumab in Platinum-Resistant/Refractory Ovarian Cancer (PRROC) (OnPrime, GOG-3076)",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05281471",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "41951722",
+        "title": "Phase Ib trial of SL-172154, a bispecific CD47 inhibitor and CD40 agonist Fc-fusion protein, in combination with mirvetuximab soravtansine or pegylated liposomal doxorubicin in patients with platinum-resistant ovarian cancer.",
+        "pubdate": "2026 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41951722/"
+      },
+      {
+        "pmid": "41723568",
+        "title": "Nudge-based patient education by pharmacists to promote self-care behaviors for preventing and mitigating chemotherapy-induced skin toxicity: rationale, design, and study protocol of the PHARM-NUDGE trial.",
+        "pubdate": "2026 Feb 21",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41723568/"
+      },
+      {
+        "pmid": "41709925",
+        "title": "Pegylated liposomal doxorubicin plus carboplatin versus paclitaxel plus carboplatin as first-line therapy for epithelial ovarian cancer (CGCS-04): a multicenter, randomized clinical trial.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41709925/"
+      },
+      {
+        "pmid": "41552683",
+        "title": "Anthracycline-induced cardiotoxicity associated with myocardial energy metabolism: mechanisms revealed through an integration of (18)F-FDG PET/CT and data-independent acquisition proteomics.",
+        "pubdate": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41552683/"
+      },
+      {
+        "pmid": "41540835",
+        "title": "Mirvetuximab Soravtansine: Mechanism of Action, Clinical and Translational Science.",
+        "pubdate": "2026 Jan",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41540835/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

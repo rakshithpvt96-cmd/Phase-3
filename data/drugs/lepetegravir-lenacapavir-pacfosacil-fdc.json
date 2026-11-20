@@ -1,0 +1,81 @@
+{
+  "drug_name": "Lepetegravir/Lenacapavir pacfosacil FDC",
+  "slug": "lepetegravir-lenacapavir-pacfosacil-fdc",
+  "enriched_at": "2026-11-20T17:42:39Z",
+  "source_trial_ids": [
+    "NCT06544733"
+  ],
+  "sponsors": [
+    {
+      "name": "Gilead Sciences",
+      "ticker": "GILD",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000882095&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2625651",
+      "generic_name": "lenacapavir",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4802249",
+    "target_chembl_id": "CHEMBL2366504",
+    "target_name": "Structural capsid protein",
+    "mechanism_of_action_chembl": "Structural capsid protein inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Lepetegravir/Lenacapavir%20pacfosacil%20FDC+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Lepetegravir/Lenacapavir%20pacfosacil%20FDC+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Lepetegravir/Lenacapavir%20pacfosacil%20FDC+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "HIV-1-Infection",
+    "slug": "hiv-1-infection"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06544733",
+      "title": "Study of Oral Weekly Lepetegravir (Formerly GS-1720) and Lenacapavir Pacfosacil (Formerly GS-4182) Versus Biktarvy in People With HIV-1 Who Are Virologically Suppressed",
+      "status": "TERMINATED",
+      "url": "https://clinicaltrials.gov/study/NCT06544733",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42053471",
+        "title": "Evaluation of Relative Bioavailability and Food Effect of a Fixed-Dose Combination Tablet of Islatravir and Lenacapavir.",
+        "pubdate": "2026 May",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42053471/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "LENACAPAVIR",
+        "chembl_id": "CHEMBL4594438",
+        "reason": "same target: Structural capsid protein"
+      }
+    ]
+  }
+}

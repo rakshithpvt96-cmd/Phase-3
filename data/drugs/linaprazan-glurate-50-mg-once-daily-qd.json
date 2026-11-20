@@ -1,7 +1,7 @@
 {
   "drug_name": "Linaprazan Glurate 50 mg Once Daily (QD)",
   "slug": "linaprazan-glurate-50-mg-once-daily-qd",
-  "enriched_at": "2026-11-11T15:05:39Z",
+  "enriched_at": "2026-11-20T17:42:46Z",
   "source_trial_ids": [
     "NCT07037875"
   ],
@@ -63,6 +63,22 @@
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": []
+    "items": [
+      {
+        "name": "DW4421 20mg",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Daewon Pharmaceutical Co., Ltd."
+      },
+      {
+        "name": "DW4421 40mg",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Daewon Pharmaceutical Co., Ltd."
+      },
+      {
+        "name": "Esomeprazole 40mg",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Daewon Pharmaceutical Co., Ltd."
+      }
+    ]
   }
 }

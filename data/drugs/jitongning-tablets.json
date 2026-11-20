@@ -1,0 +1,82 @@
+{
+  "drug_name": "Jitongning tablets",
+  "slug": "jitongning-tablets",
+  "enriched_at": "2026-11-20T17:41:31Z",
+  "source_trial_ids": [
+    "NCT06000956"
+  ],
+  "sponsors": [
+    {
+      "name": "Tasly Pharmaceutical Group Co., Ltd",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Tasly%20Pharmaceutical%20Group%20Co.%2C%20Ltd&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": null
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL942",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": "Unknown"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Jitongning%20tablets+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Jitongning%20tablets+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Jitongning%20tablets+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Ankylosing Spondylitis",
+    "slug": "ankylosing-spondylitis"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06000956",
+      "title": "A Study of Comparing Overall Improvement of Patients With Spondyloarthritis Treated With Jitongning Tablets and Placebo",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06000956",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "36736112",
+        "title": "Deciphering in vivo metabolic profile and pharmacological mechanisms of Jitongning Tablet for the treatment of Ankylosing spondylitis.",
+        "pubdate": "2023 Apr 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36736112/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "LNK01001",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Lynk Pharmaceuticals Co., Ltd"
+      },
+      {
+        "name": "Placebo",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Lynk Pharmaceuticals Co., Ltd"
+      }
+    ]
+  }
+}

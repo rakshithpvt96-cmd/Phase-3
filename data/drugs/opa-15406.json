@@ -1,0 +1,156 @@
+{
+  "drug_name": "OPA-15406",
+  "slug": "opa-15406",
+  "enriched_at": "2026-11-20T17:44:57Z",
+  "source_trial_ids": [
+    "NCT07173478"
+  ],
+  "sponsors": [
+    {
+      "name": "Otsuka Pharmaceutical Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Otsuka%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 57855696,
+    "iupac_name": "N-[[2-[4-(difluoromethoxy)-3-propan-2-yloxyphenyl]-1,3-oxazol-4-yl]methyl]-2-ethoxybenzamide",
+    "molecular_formula": "C23H24F2N2O5",
+    "molecular_weight": "446.4",
+    "canonical_smiles": null,
+    "inchikey": "VFBILHPIHUPBPZ-UHFFFAOYSA-N",
+    "rxnorm": {
+      "rxcui": "2699207",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL3989968",
+    "target_chembl_id": "CHEMBL2093863",
+    "target_name": "Phosphodiesterase 4",
+    "mechanism_of_action_chembl": "Phosphodiesterase 4 inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=OPA-15406+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=OPA-15406+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=OPA-15406+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Atopic Dermatitis (AD)",
+    "slug": "atopic-dermatitis-ad"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07173478",
+      "title": "A Phase 3 Trial to Demonstrate the Superiority of 1% OPA-15406 Foam to the Vehicle in Adult Patients With Atopic Dermatitis",
+      "status": "NOT_YET_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07173478",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "41171590",
+        "title": "A Phase 3, Long-Term, Open-Label Study of Difamilast Ointment to Evaluate Efficacy and Safety in Japanese Infants with Atopic Dermatitis.",
+        "pubdate": "2026 Jan",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41171590/"
+      },
+      {
+        "pmid": "40864813",
+        "title": "Targeting Intracellular Pathways in Atopic Dermatitis with Small Molecule Therapeutics.",
+        "pubdate": "2025 Aug 15",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40864813/"
+      },
+      {
+        "pmid": "39367273",
+        "title": "Matching-Adjusted Indirect Comparison of the Efficacy and Safety of Difamilast 1% and Delgocitinib 0.5% in Patients with Moderate-to-Severe Atopic Dermatitis.",
+        "pubdate": "2024 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39367273/"
+      },
+      {
+        "pmid": "39075274",
+        "title": "An Interim Report of a Phase 3, Long-Term, Open-Label Study to Evaluate Efficacy and Safety of Difamilast Ointment in Japanese Infants with Atopic Dermatitis.",
+        "pubdate": "2024 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39075274/"
+      },
+      {
+        "pmid": "37389929",
+        "title": "Difamilast for the treatment of atopic dermatitis.",
+        "pubdate": "2023 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37389929/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "AMLEXANOX",
+        "chembl_id": "CHEMBL1096",
+        "reason": "same target: Phosphodiesterase 4"
+      },
+      {
+        "name": "DYPHYLLINE",
+        "chembl_id": "CHEMBL1752",
+        "reason": "same target: Phosphodiesterase 4"
+      },
+      {
+        "name": "ROFLUMILAST",
+        "chembl_id": "CHEMBL193240",
+        "reason": "same target: Phosphodiesterase 4"
+      },
+      {
+        "name": "THEOPHYLLINE",
+        "chembl_id": "CHEMBL1355736",
+        "reason": "same target: Phosphodiesterase 4"
+      },
+      {
+        "name": "THEOPHYLLINE SODIUM GLYCINATE",
+        "chembl_id": "CHEMBL1200578",
+        "reason": "same target: Phosphodiesterase 4"
+      },
+      {
+        "name": "FLAVOXATE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1200875",
+        "reason": "same target: Phosphodiesterase 4"
+      },
+      {
+        "name": "AMINOPHYLLINE",
+        "chembl_id": "CHEMBL1370561",
+        "reason": "same target: Phosphodiesterase 4"
+      },
+      {
+        "name": "APREMILAST",
+        "chembl_id": "CHEMBL514800",
+        "reason": "same target: Phosphodiesterase 4"
+      },
+      {
+        "name": "OXTRIPHYLLINE",
+        "chembl_id": "CHEMBL1200434",
+        "reason": "same target: Phosphodiesterase 4"
+      },
+      {
+        "name": "CRISABOROLE",
+        "chembl_id": "CHEMBL484785",
+        "reason": "same target: Phosphodiesterase 4"
+      }
+    ]
+  }
+}

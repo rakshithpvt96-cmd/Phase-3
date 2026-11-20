@@ -1,0 +1,79 @@
+{
+  "drug_name": "Lutetium (177Lu) Oxodotreotide Injection；long-acting Octreotide",
+  "slug": "lutetium-177lu-oxodotreotide-injection-long-acting-octreotide",
+  "enriched_at": "2026-11-20T17:43:13Z",
+  "source_trial_ids": [
+    "NCT05884255"
+  ],
+  "sponsors": [
+    {
+      "name": "Jiangsu HengRui Medicine Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Jiangsu%20HengRui%20Medicine%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "218069",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4297545",
+    "target_chembl_id": "CHEMBL2111436",
+    "target_name": "Somatostatin receptor",
+    "mechanism_of_action_chembl": "Somatostatin receptor binding agent"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Lutetium%20%28177Lu%29%20Oxodotreotide%20Injection%EF%BC%9Blong-acting%20Octreotide+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Lutetium%20%28177Lu%29%20Oxodotreotide%20Injection%EF%BC%9Blong-acting%20Octreotide+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Lutetium%20%28177Lu%29%20Oxodotreotide%20Injection%EF%BC%9Blong-acting%20Octreotide+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Advanced Gastroenteropancreatic Neuroendocrine Tumor",
+    "slug": "advanced-gastroenteropancreatic-neuroendocrine-tumor"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05884255",
+      "title": "An Open-label Phase 3 Study of Lutetium (177Lu) Oxodotreotide Injection in Subjects With Advanced Gastrointestinal Pancreatic Neuroendocrine Tumors.",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05884255",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "OCTREOTIDE ACETATE",
+        "chembl_id": "CHEMBL1200480",
+        "reason": "same target: Somatostatin receptor"
+      },
+      {
+        "name": "SOMATOSTATIN",
+        "chembl_id": "CHEMBL1823872",
+        "reason": "same target: Somatostatin receptor"
+      }
+    ]
+  }
+}
