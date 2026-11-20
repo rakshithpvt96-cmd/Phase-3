@@ -1,0 +1,99 @@
+{
+  "drug_name": "Selinexor (combination therapy)",
+  "slug": "selinexor-combination-therapy",
+  "enriched_at": "2026-11-20T16:48:36Z",
+  "source_trial_ids": [
+    "NCT04442022"
+  ],
+  "sponsors": [
+    {
+      "name": "Karyopharm Therapeutics Inc",
+      "ticker": "KPTIQ",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001503802&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2178390",
+      "generic_name": "selinexor",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL3545185",
+    "target_chembl_id": "CHEMBL5661",
+    "target_name": "Exportin-1",
+    "mechanism_of_action_chembl": "Exportin-1 inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Selinexor%20%28combination%20therapy%29+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Selinexor%20%28combination%20therapy%29+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Selinexor%20%28combination%20therapy%29+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Relapsed/Refractory Diffuse Large B-cell Lymphoma",
+    "slug": "relapsed-refractory-diffuse-large-b-cell-lymphoma"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04442022",
+      "title": "A Study of Rituximab-Gemcitabine-Dexamethasone-Platinum (R-GDP) With or Without Selinexor in Patients With Relapsed/Refractory Diffuse Large B-cell Lymphoma",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04442022",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42279279",
+        "title": "The Evolving Landscape of Systemic Therapy for Liposarcoma.",
+        "pubdate": "2026 May 22",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42279279/"
+      },
+      {
+        "pmid": "42169033",
+        "title": "FASN for diffuse malignant peritoneal mesothelioma: a prognostic biomarker after CRS+HIPEC and a therapeutic target.",
+        "pubdate": "2026 May 21",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42169033/"
+      },
+      {
+        "pmid": "42080900",
+        "title": "Nuclear export as a therapeutic vulnerability in ZFTA-RELA ependymoma.",
+        "pubdate": "2026 Oct 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42080900/"
+      },
+      {
+        "pmid": "42071259",
+        "title": "Targeting the nuclear export receptor exportin-1 in acute myeloid leukaemia: From biology to clinical translation.",
+        "pubdate": "2026 May",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42071259/"
+      },
+      {
+        "pmid": "41978554",
+        "title": "Benefit of selinexor dose reduction on outcomes with selinexor, bortezomib and dexamethasone in patients with lenalidomide-refractory multiple myeloma: Subgroup analysis of the BOSTON trial.",
+        "pubdate": "2026 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41978554/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

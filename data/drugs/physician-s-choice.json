@@ -1,0 +1,99 @@
+{
+  "drug_name": "Physician's Choice",
+  "slug": "physician-s-choice",
+  "enriched_at": "2026-11-20T16:43:52Z",
+  "source_trial_ids": [
+    "NCT05948475"
+  ],
+  "sponsors": [
+    {
+      "name": "TransThera Sciences (Nanjing), Inc.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=TransThera%20Sciences%20%28Nanjing%29%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1037027",
+      "generic_name": "Doctor's Choice",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1464",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Physician%27s%20Choice+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Physician%27s%20Choice+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Physician%27s%20Choice+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Cholangiocarcinoma",
+    "slug": "cholangiocarcinoma"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05948475",
+      "title": "Study of Tinengotinib VS. Physician's Choice a Treatment of Subjects With FGFR-altered in Cholangiocarcinoma",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05948475",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "43037986",
+        "title": "Study Rationale, Enrollment Characteristics, and Central Review of Clinical Stage: The INTACT Randomized Clinical Trial.",
+        "pubdate": "2026 Nov 2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43037986/"
+      },
+      {
+        "pmid": "43021276",
+        "title": "Association of mental health encounters in medical school with physician specialty in Ontario, Canada.",
+        "pubdate": "2026 Aug 17",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43021276/"
+      },
+      {
+        "pmid": "42933460",
+        "title": "Sacituzumab tirumotecan versus treatment of physician's choice in previously treated endometrial cancer (TroFuse-005/ENGOT-en23/GOG-3095): a randomised, open-label, phase 3 trial.",
+        "pubdate": "2026 Nov 21",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42933460/"
+      },
+      {
+        "pmid": "42933459",
+        "title": "Izalontamab brengitecan for HR+/HER2- breast cancer in China (PANKU-Breast01): a randomised, phase 3 trial.",
+        "pubdate": "2026 Oct 26",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42933459/"
+      },
+      {
+        "pmid": "42932789",
+        "title": "Patients' Views of Artificial Intelligence Across the Cancer Care Continuum: A Scenario-Based Attitudinal Assessment.",
+        "pubdate": "2026 Oct-Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42932789/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

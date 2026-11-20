@@ -1,10 +1,11 @@
 {
   "drug_name": "Semaglutide",
   "slug": "semaglutide",
-  "enriched_at": "2026-11-11T15:02:26Z",
+  "enriched_at": "2026-11-20T16:48:52Z",
   "source_trial_ids": [
     "NCT06260722",
-    "NCT06778967"
+    "NCT06778967",
+    "NCT07139548"
   ],
   "sponsors": [
     {
@@ -18,6 +19,12 @@
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Gan%20%26%20Lee%20Pharmaceuticals.&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Guangdong Raynovent Biotech Co., Ltd",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Guangdong%20Raynovent%20Biotech%20Co.%2C%20Ltd&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
@@ -75,40 +82,47 @@
       "status": "COMPLETED",
       "url": "https://clinicaltrials.gov/study/NCT06778967",
       "has_results": false
+    },
+    {
+      "nct_id": "NCT07139548",
+      "title": "A Study of RAY1225 Versus Semaglutide as Add-on Therapy to Oral Antidiabetic Drugs in Participants With Type 2 Diabetes",
+      "status": "NOT_YET_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07139548",
+      "has_results": false
     }
   ],
   "prior_results": {
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "43000472",
-        "title": "Hemodynamic effects of semaglutide in individuals with heart failure with preserved ejection fraction and obesity: a placebo-controlled randomized clinical trial.",
-        "pubdate": "2026 Nov 8",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43000472/"
+        "pmid": "43058048",
+        "title": "Effects of a Prebiotic Functional Soda on Gastrointestinal Symptoms in Adults Receiving GLP-1-Based Therapy for Weight Management: A Randomized Controlled Pilot Trial.",
+        "pubdate": "2026 Nov 19",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43058048/"
       },
       {
-        "pmid": "42998725",
-        "title": "Phase 3 clinical development of semaglutide (2015-2026): a comprehensive evidence-based review of trial designs, therapeutic outcomes and global clinical experience.",
-        "pubdate": "2026 Nov 7",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42998725/"
+        "pmid": "43057751",
+        "title": "The metabolic paradigm shift in gastroenterology and hepatology: Clinical applications of incretin-based co-agonists.",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43057751/"
       },
       {
-        "pmid": "42997320",
-        "title": "GLP-1 receptor agonists as potential disease-modifying agents in Parkinson's and Alzheimer's disease: mechanisms, clinical trial evidence, and the neuroprotection horizon.",
+        "pmid": "43057742",
+        "title": "Metabolic dysfunction associated fatty liver disease (MAFLD), metabolic dysfunction associated steatotic liver disease (MASLD), metabolic associated steatohepatitis (MASH) and obesity.",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43057742/"
+      },
+      {
+        "pmid": "43054852",
+        "title": "The Growing Role of Glucagon-Like Peptide-1 Receptor Agonists in Neuropsychiatry.",
         "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42997320/"
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43054852/"
       },
       {
-        "pmid": "42996399",
-        "title": "Will GLP-1-based therapies reshape the epidemiology of MASLD? An emerging public health perspective.",
-        "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42996399/"
-      },
-      {
-        "pmid": "42988221",
-        "title": "Semaglutide versus diet-based weight loss in obesity and heart failure with reduced ejection fraction (FIT-HF): Protocol for a randomized controlled trial.",
-        "pubdate": "2026 Nov 5",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42988221/"
+        "pmid": "43050287",
+        "title": "Semaglutide Effect on Kidney, Cardiovascular, and Mortality Outcomes in Racial and Ethnic Groups: FLOW Trial Post Hoc Analyses.",
+        "pubdate": "2026 Nov 18",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43050287/"
       }
     ]
   },

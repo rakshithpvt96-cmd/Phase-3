@@ -1,0 +1,150 @@
+{
+  "drug_name": "Ranibizumab (LUCENTIS®)",
+  "slug": "ranibizumab-lucentis",
+  "enriched_at": "2026-11-20T16:46:59Z",
+  "source_trial_ids": [
+    "NCT04704921"
+  ],
+  "sponsors": [
+    {
+      "name": "AbbVie",
+      "ticker": "ABBV",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001551152&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1724213",
+      "generic_name": "ranibizumab Injection [Lucentis]",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1201825",
+    "target_chembl_id": "CHEMBL1783",
+    "target_name": "Vascular endothelial growth factor A, long form",
+    "mechanism_of_action_chembl": "Vascular endothelial growth factor A inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Ranibizumab%20%28LUCENTIS%C2%AE%29+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Ranibizumab%20%28LUCENTIS%C2%AE%29+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Ranibizumab%20%28LUCENTIS%C2%AE%29+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "AMD",
+    "slug": "amd"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04704921",
+      "title": "Pivotal 1 Study of ABBV-RGX-314 (Also Known as RGX-314) Gene Therapy Administered Via Subretinal Delivery One Time in Participants With nAMD",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04704921",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "43004279",
+        "title": "Incidence rate and factors associated with periprocedural hypoxia during bedside intravitreal ranibizumab injection for retinopathy of prematurity: a multicenter retrospective study.",
+        "pubdate": "2026 Nov 9",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43004279/"
+      },
+      {
+        "pmid": "42988724",
+        "title": "First-in-Human Regulatory T Cell-Derived Exosomes Plus Ranibizumab for Refractory nAMD.",
+        "pubdate": "2026 Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42988724/"
+      },
+      {
+        "pmid": "42946032",
+        "title": "Time Course of Resolution of Diabetic Macular Edema by Sustained Suppression of VEGF-A with the Port Delivery Platform with Ranibizumab.",
+        "pubdate": "2026 Oct 27",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42946032/"
+      },
+      {
+        "pmid": "42850257",
+        "title": "Efficacy and safety of port delivery platform with ranibizumab (PDS) for diabetic macular oedema (Pagoda Randomised Clinical Trial).",
+        "pubdate": "2026 Oct 8",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42850257/"
+      },
+      {
+        "pmid": "42717542",
+        "title": "Renal Safety of Intravitreal Ranibizumab and the Effects of SGLT2 Inhibition in Diabetic Macular Oedema: A Post Hoc Analysis of the COMET Trial.",
+        "pubdate": "2026 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42717542/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "PEGAPTANIB SODIUM",
+        "chembl_id": "CHEMBL1201421",
+        "reason": "same target: Vascular endothelial growth factor A, long form"
+      },
+      {
+        "name": "AFLIBERCEPT",
+        "chembl_id": "CHEMBL1742982",
+        "reason": "same target: Vascular endothelial growth factor A, long form"
+      },
+      {
+        "name": "BEVACIZUMAB",
+        "chembl_id": "CHEMBL1201583",
+        "reason": "same target: Vascular endothelial growth factor A, long form"
+      },
+      {
+        "name": "BEVACIZUMAB 111IN",
+        "chembl_id": "CHEMBL3707253",
+        "reason": "same target: Vascular endothelial growth factor A, long form"
+      },
+      {
+        "name": "MUPARFOSTAT",
+        "chembl_id": "CHEMBL4297163",
+        "reason": "same target: Vascular endothelial growth factor A, long form"
+      },
+      {
+        "name": "CONBERCEPT",
+        "chembl_id": "CHEMBL2108313",
+        "reason": "same target: Vascular endothelial growth factor A, long form"
+      },
+      {
+        "name": "BROLUCIZUMAB",
+        "chembl_id": "CHEMBL3707357",
+        "reason": "same target: Vascular endothelial growth factor A, long form"
+      },
+      {
+        "name": "VANUCIZUMAB",
+        "chembl_id": "CHEMBL3545259",
+        "reason": "same target: Vascular endothelial growth factor A, long form"
+      },
+      {
+        "name": "FARICIMAB",
+        "chembl_id": "CHEMBL4297750",
+        "reason": "same target: Vascular endothelial growth factor A, long form"
+      },
+      {
+        "name": "ABICIPAR PEGOL",
+        "chembl_id": "CHEMBL4297684",
+        "reason": "same target: Vascular endothelial growth factor A, long form"
+      }
+    ]
+  }
+}

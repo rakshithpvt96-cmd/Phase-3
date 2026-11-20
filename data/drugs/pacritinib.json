@@ -1,7 +1,7 @@
 {
   "drug_name": "Pacritinib",
   "slug": "pacritinib",
-  "enriched_at": "2026-10-21T14:02:13Z",
+  "enriched_at": "2026-11-20T16:43:21Z",
   "source_trial_ids": [
     "NCT03165734"
   ],
@@ -29,7 +29,7 @@
   "mechanism": {
     "chembl_id": "CHEMBL2035187",
     "target_chembl_id": "CHEMBL2971",
-    "target_name": null,
+    "target_name": "Tyrosine-protein kinase JAK2",
     "mechanism_of_action_chembl": "Tyrosine-protein kinase JAK2 inhibitor"
   },
   "fda_label": {
@@ -66,6 +66,12 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "42800596",
+        "title": "Reassessing the clinical value of momelotinib in myelofibrosis: An ESMO-MCBS:H-based appraisal of SIMPLIFY-1 and MOMENTUM.",
+        "pubdate": "2026 Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42800596/"
+      },
+      {
         "pmid": "42601824",
         "title": "Janus kinase inhibitors after ruxolitinib failure in myelofibrosis: A systematic review and pooled analysis of phase 3 efficacy and integrated safety across clinical trials and real-world evidence.",
         "pubdate": "2026 Aug 14",
@@ -88,12 +94,6 @@
         "title": "POIESIS: a phase III study of add-on navtemadlin in JAK inhibitor-naïve myelofibrosis patients with a suboptimal response to ruxolitinib.",
         "pubdate": "2026 Mar",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41793151/"
-      },
-      {
-        "pmid": "41753113",
-        "title": "PAXIS: A Randomized, Double-Blind, Placebo-Controlled, Dose-Finding Phase 2 Study (Part 1) Followed by an Open-Label Period (Part 2) to Assess the Efficacy and Safety of Pacritinib in Patients with VEXAS Syndrome.",
-        "pubdate": "2026 Feb 11",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41753113/"
       }
     ]
   },
@@ -104,52 +104,52 @@
       {
         "name": "RUXOLITINIB PHOSPHATE",
         "chembl_id": "CHEMBL1795071",
-        "reason": "same target: CHEMBL2971"
+        "reason": "same target: Tyrosine-protein kinase JAK2"
       },
       {
         "name": "AC-430",
         "chembl_id": "CHEMBL3545241",
-        "reason": "same target: CHEMBL2971"
+        "reason": "same target: Tyrosine-protein kinase JAK2"
       },
       {
         "name": "CT-1578",
         "chembl_id": "CHEMBL2035185",
-        "reason": "same target: CHEMBL2971"
+        "reason": "same target: Tyrosine-protein kinase JAK2"
       },
       {
         "name": "LS-104",
         "chembl_id": "CHEMBL5095023",
-        "reason": "same target: CHEMBL2971"
+        "reason": "same target: Tyrosine-protein kinase JAK2"
       },
       {
         "name": "ZOTIRACICLIB",
         "chembl_id": "CHEMBL1944698",
-        "reason": "same target: CHEMBL2971"
+        "reason": "same target: Tyrosine-protein kinase JAK2"
       },
       {
         "name": "XL-019",
         "chembl_id": "CHEMBL3545328",
-        "reason": "same target: CHEMBL2971"
+        "reason": "same target: Tyrosine-protein kinase JAK2"
       },
       {
         "name": "AT-9283",
         "chembl_id": "CHEMBL495727",
-        "reason": "same target: CHEMBL2971"
+        "reason": "same target: Tyrosine-protein kinase JAK2"
       },
       {
         "name": "AZD-1480",
         "chembl_id": "CHEMBL1231124",
-        "reason": "same target: CHEMBL2971"
+        "reason": "same target: Tyrosine-protein kinase JAK2"
       },
       {
         "name": "BMS-911543",
         "chembl_id": "CHEMBL3545215",
-        "reason": "same target: CHEMBL2971"
+        "reason": "same target: Tyrosine-protein kinase JAK2"
       },
       {
         "name": "GANDOTINIB",
         "chembl_id": "CHEMBL2107823",
-        "reason": "same target: CHEMBL2971"
+        "reason": "same target: Tyrosine-protein kinase JAK2"
       }
     ]
   }

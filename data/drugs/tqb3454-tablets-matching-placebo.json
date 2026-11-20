@@ -1,0 +1,99 @@
+{
+  "drug_name": "TQB3454 tablets matching placebo",
+  "slug": "tqb3454-tablets-matching-placebo",
+  "enriched_at": "2026-11-20T16:51:19Z",
+  "source_trial_ids": [
+    "NCT05987358"
+  ],
+  "sponsors": [
+    {
+      "name": "Chia Tai Tianqing Pharmaceutical Group Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Chia%20Tai%20Tianqing%20Pharmaceutical%20Group%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "242771",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL942",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": "Unknown"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=TQB3454%20tablets%20matching%20placebo+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=TQB3454%20tablets%20matching%20placebo+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=TQB3454%20tablets%20matching%20placebo+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Biliary Carcinoma",
+    "slug": "biliary-carcinoma"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05987358",
+      "title": "A Clinical Study of TQB3454 Tablets in the Treatment of Advanced Biliary Carcinoma.",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05987358",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42525925",
+        "title": "Phase 3 Trial of Weekly Oral Islatravir-Lenacapavir for HIV-1 Treatment.",
+        "pubdate": "2026 Oct 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42525925/"
+      },
+      {
+        "pmid": "42486129",
+        "title": "Efficacy, safety, and acceptability of a child-friendly, chewable formulation of oxantel pamoate versus mebendazole for Trichuris spp infections in children aged 2-12 years in Tanzania: a randomised, single-blind, phase 2 trial.",
+        "pubdate": "2026 Jul 22",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42486129/"
+      },
+      {
+        "pmid": "42293218",
+        "title": "Effects of heat-treated Lactobacillus gasseri CP2305 on brain oscillatory activity and mental stress in healthy adults: a double-blind, randomized, crossover, placebo-controlled trial.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42293218/"
+      },
+      {
+        "pmid": "42259343",
+        "title": "Elecoglipron, an oral small molecule GLP-1 receptor agonist in adults with type 2 diabetes (SOLSTICE): a multicentre, phase 2b, randomised, placebo-controlled trial.",
+        "pubdate": "2026 Jun 20",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42259343/"
+      },
+      {
+        "pmid": "42259337",
+        "title": "Elecoglipron, an oral small molecule GLP-1 receptor agonist in adults with obesity or overweight (VISTA): a multicentre, phase 2, randomised, placebo-controlled clinical trial.",
+        "pubdate": "2026 Jun 20",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42259337/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "drug_name": "Sunitinib",
+  "slug": "sunitinib",
+  "enriched_at": "2026-11-20T16:50:06Z",
+  "source_trial_ids": [
+    "NCT05477576"
+  ],
+  "sponsors": [
+    {
+      "name": "RayzeBio, Inc.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=RayzeBio%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 5329102,
+    "iupac_name": "N-[2-(diethylamino)ethyl]-5-[(Z)-(5-fluoro-2-oxo-1H-indol-3-ylidene)methyl]-2,4-dimethyl-1H-pyrrole-3-carboxamide",
+    "molecular_formula": "C22H27FN4O2",
+    "molecular_weight": "398.5",
+    "canonical_smiles": null,
+    "inchikey": "WINHZLLDWRZWRT-ATVHPVEESA-N",
+    "rxnorm": {
+      "rxcui": "357977",
+      "generic_name": "sunitinib",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL597365",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Sunitinib is a small molecule that inhibits multiple receptor tyrosine kinases (RTKs), some of which are implicated in tumor growth, pathologic angiogenesis, and metastatic progression of cancer. Sunitinib was evaluated for its inhibitory activity against a variety of kinases (>80 kinases) and was identified as an inhibitor of platelet-derived growth factor receptors (PDGFRα and PDGFRβ), vascular endothelial growth factor receptors (VEGFR1, VEGFR2, and VEGFR3), stem cell factor receptor (KIT), Fms-like tyrosine kinase-3 (FLT3), colony stimulating factor receptor Type 1 (CSF-1R), and the glial cell-line derived neurotrophic factor receptor (RET). Sunitinib inhibition of the activity of these RTKs has been demonstrated in biochemical and cellular assays, and inhibition of function has been demonstrated in cell proliferation assays. The primary metabolite exhibits similar potency compared to sunitinib in biochemical and cellular assays. Sunitinib inhibited the phosphorylation of multiple RTKs (PDGFRβ, VEGFR2, KIT) in tumor xenografts expressing RTK targets in vivo and demonstrated inhibition of tumor growth or tumor regression and/or inhibited metastases in some experimental models of cancer. Sunitinib demonstrated the ability to inhibit growth of tumor cells expressing dysregulated target RTKs (PDGFR, RET, or KIT) in vitro and to inhibit PDGFRβ- and VEGFR2-dependent tumor angiogenesis in vivo .",
+    "pharmacokinetics": "12.3 Pharmacokinetics The pharmacokinetics of sunitinib and sunitinib malate have been evaluated in healthy subjects and in patients with solid tumors. Sunitinib AUC and C max increase proportionately over a dose range of 25 mg to 100 mg (0.5 times to 2 times the approved RDD of 50 mg). The pharmacokinetics were similar in healthy subjects and in patients with a solid tumor, including patients with GIST and RCC. No significant changes in the pharmacokinetics of sunitinib or the primary active metabolite were observed with repeated daily administration or with repeated cycles. With repeated daily administration, sunitinib accumulates 3-fold to 4-fold while the primary metabolite accumulates 7-fold to 10-fold. Steady-state concentrations of sunitinib and its primary active metabolite are achieved within 10 days to 14 days. By Day 14, combined plasma concentrations of sunitinib and its active metabolite ranged from 63 ng/mL to 101 ng/mL. Absorption Following oral administration of sunitinib, the time to maximum plasma concentration (T max ) ranged from 6 hours to 12 hours. Effect of Food The administration of a single dose of sunitinib malate 50 mg with a high-fat, high-calorie meal (consisting of approximately 150 protein calories and 500 to 600 fat calories) in healthy subjects had no clinically significant effect on sunitinib malate or active metabolites exposure. Distribution The apparent volume of distribution (Vd/F) for sunitinib is 2,230 L. Binding of sunitinib and its primary active metabolite to human plasma protein in vitro is 95% and 90%, respectively, with no concentration dependence in the range of 100 ng/mL to 4,000 ng/mL. Elimination Following administration of a single oral dose in healthy subjects, the terminal half-lives of sunitinib and its primary active metabolite are approximately 40 hours to 60 hours and 80 hours to 110 hours, respectively. Sunitinib total oral clearance (CL/F) ranged from 34 L/h to 62 L/h with an interpatient variability of 40%. Metabolism Sunitinib is metabolized primarily by CYP3A4 to its primary active metabolite, which is further metabolized by CYP3A4. The primary active metabolite comprises 23% to 37% of the total exposure. After a radio-labeled dose, sunitinib and its active metabolite were the major compounds identified in plasma, accounting for 92% of radioactivity. Excretion After a radio-labeled dose of sunitinib, approximately 61% of the dose was recovered in feces and 16% in urine. Sunitinib and its primary active metabolite were the major compounds identified in urine and feces, representing 86% and 74% of radioactivity, respectively. Specific Populations No clinically significant differences in the pharmacokinetics of sunitinib or the primary active metabolite were observed based on age (18 years to 84 years), body weight (34 kg to 168 kg), race (White, Black, or Asian), sex, Eastern Cooperative Oncology Group (ECOG) score, mild (Child-Pugh Class A) or moderate (Child-Pugh Class B) hepatic impairment. Patients with Renal Impairment No clinically significant differences in the pharmacokinetics of sunitinib or its active metabolite were predicted or observed in patients with mild (CLcr 50 mL/min to 80 mL/min), moderate (CLcr 30 mL/min to <50 mL/min), or severe (CLcr <30 mL/min) renal impairment who are not on dialysis, compared to patients with normal renal function (CLcr >80 mL/min). Although sunitinib was not eliminated through hemodialysis, the sunitinib systemic exposure was 47% lower in patients with end stage renal disease (ESRD) on hemodialysis compared to patients with normal renal function. Drug Interaction Studies Clinical Studies Effect of strong CYP3A4 inhibitors on sunitinib : Co-administration of a single sunitinib malate dose with ketoconazole (strong CYP3A4 inhibitor) increased the combined sunitinib and its active metabolite C max and AUC 0-inf by 49% and 51%, respectively, in healthy subjects. Effect of strong CYP3A4 inducers on sunitinib : Co-administration of a single sunitinib malate dose with rifampin (strong CYP3A4 inducer) reduced the combined sunitinib and its active metabolite C max and AUC 0-inf by 23% and 46%, respectively in healthy subjects. In Vitro Studies In vitro studies in human hepatocytes and microsomes indicated that sunitinib and the primary active metabolite do not induce CYP1A2, CYP2E1, and CYP3A4/5, or inhibit CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP2E1, CYP3A4/5, and CYP4A9/11 at clinically relevant concentrations.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE Sunitinib malate is a kinase inhibitor indicated for: treatment of adult patients with gastrointestinal stromal tumor (GIST) after disease progression on or intolerance to imatinib mesylate. ( 1.1 ) treatment of adult patients with advanced renal cell carcinoma (RCC). ( 1.2 ) adjuvant treatment of adult patients at high risk of recurrent RCC following nephrectomy. ( 1.3 ) treatment of progressive, well-differentiated pancreatic neuroendocrine tumors (pNET) in adult patients with unresectable locally advanced or metastatic disease. ( 1.4) 1.1 Gastrointestinal Stromal Tumor Sunitinib malate capsules are indicated for the treatment of adult patients with gastrointestinal stromal tumor (GIST) after disease progression on or intolerance to imatinib mesylate. 1.2 Advanced Renal Cell Carcinoma Sunitinib malate capsules are indicated for the treatment of adult patients with advanced renal cell carcinoma (RCC). 1.3 Adjuvant Treatment of Renal Cell Carcinoma Sunitinib malate capsules are indicated for the adjuvant treatment of adult patients at high risk of recurrent RCC following nephrectomy. 1.4 Advanced Pancreatic Neuroendocrine Tumors Sunitinib malate capsules are indicated for the treatment of progressive, well-differentiated pancreatic neuroendocrine tumors (pNET) in adult patients with unresectable locally advanced or metastatic disease.",
+    "boxed_warning": "WARNING: HEPATOTOXICITY Hepatotoxicity may be severe, and in some cases, fatal. Monitor hepatic function and interrupt, dose reduce, or discontinue sunitinib malate capsules as recommended [see Warnings and Precautions ( 5.1 )] . WARNING: HEPATOTOXICITY See full prescribing information for complete boxed warning. Hepatotoxicity may be severe, and in some cases fatal. Monitor hepatic function and interrupt, dose reduce, or discontinue sunitinib malate capsules as recommended [see Warnings and Precautions ( 5.1) ].",
+    "openfda_brand_names": [
+      "Sunitinib Malate"
+    ],
+    "openfda_generic_names": [
+      "SUNITINIB MALATE"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a9479e5f-914f-46ca-95c1-327c66457e47",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "GEP-NET",
+    "slug": "gep-net"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05477576",
+      "title": "Study of RYZ101 Compared With SOC in Pts w Inoperable SSTR+ Well-differentiated GEP-NET That Has Progressed Following 177Lu-SSA Therapy",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05477576",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "43036976",
+        "title": "Integrated evaluation of pharmacokinetics and pharmacogenomics of sunitinib and pazopanib in patients with metastatic renal carcinoma.",
+        "pubdate": "2026 Nov 16",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43036976/"
+      },
+      {
+        "pmid": "43009462",
+        "title": "Spatial transcriptomics tumor microenvironment determinants of tyrosine kinase inhibitor response in renal cell carcinoma: results from a phase 2 clinical trial.",
+        "pubdate": "2026 Nov 10",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43009462/"
+      },
+      {
+        "pmid": "42886006",
+        "title": "Target-Engagement Prediction From Molecular Structure, In Vitro and Animal Data: A Tutorial for Early Assessment of Clinical Drug Exposure and Therapeutic/Adverse Potential Using the ANDROMEDA and PLATO Software on the InSilicoTrials Platform.",
+        "pubdate": "2026 Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42886006/"
+      },
+      {
+        "pmid": "42848188",
+        "title": "Summary of Research: Health-Related Quality-of-Life Profile and Clinical Outcomes in First-Line Advanced Renal Cell Carcinoma: A Modeling Analysis Based on the CheckMate 9ER Study.",
+        "pubdate": "2026 Oct 8",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42848188/"
+      },
+      {
+        "pmid": "42848187",
+        "title": "Summary of Research: Two-Stage Estimation of Overall Survival in the Phase 3 CheckMate 9ER Trial, Adjusting for the Impact of Subsequent Therapy.",
+        "pubdate": "2026 Oct 8",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42848187/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

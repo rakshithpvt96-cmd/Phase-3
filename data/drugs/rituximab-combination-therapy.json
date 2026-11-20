@@ -1,0 +1,150 @@
+{
+  "drug_name": "Rituximab (combination therapy)",
+  "slug": "rituximab-combination-therapy",
+  "enriched_at": "2026-11-20T16:47:52Z",
+  "source_trial_ids": [
+    "NCT04442022"
+  ],
+  "sponsors": [
+    {
+      "name": "Karyopharm Therapeutics Inc",
+      "ticker": "KPTIQ",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001503802&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "121191",
+      "generic_name": "rituximab",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1201576",
+    "target_chembl_id": "CHEMBL2058",
+    "target_name": "B-lymphocyte antigen CD20",
+    "mechanism_of_action_chembl": "B-lymphocyte antigen CD20 binding agent"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Rituximab%20%28combination%20therapy%29+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Rituximab%20%28combination%20therapy%29+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Rituximab%20%28combination%20therapy%29+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Relapsed/Refractory Diffuse Large B-cell Lymphoma",
+    "slug": "relapsed-refractory-diffuse-large-b-cell-lymphoma"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04442022",
+      "title": "A Study of Rituximab-Gemcitabine-Dexamethasone-Platinum (R-GDP) With or Without Selinexor in Patients With Relapsed/Refractory Diffuse Large B-cell Lymphoma",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04442022",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42994959",
+        "title": "An inhibitor of the mitochondrial respiratory chain exerts synergistic anti-tumour effects when combined with alkylating agents.",
+        "pubdate": "2026 Nov 6",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42994959/"
+      },
+      {
+        "pmid": "42893919",
+        "title": "[Emerging research progress on Epstein-Barr virus-related clinical diseases].",
+        "pubdate": "2026 Oct 6",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42893919/"
+      },
+      {
+        "pmid": "42836361",
+        "title": "Targeted therapies in pemphigus vulgaris: Emerging horizons beyond rituximab.",
+        "pubdate": "2026 Oct 6",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42836361/"
+      },
+      {
+        "pmid": "42731397",
+        "title": "Shiheleucel, an allogeneic natural killer cell product expanded under chemically defined conditions, in combination with rituximab-based chemotherapy in relapsed/refractory diffuse large B-cell lymphoma: An exploratory clinical study.",
+        "pubdate": "2026 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42731397/"
+      },
+      {
+        "pmid": "42458868",
+        "title": "Cost-Effectiveness of Epcoritamab Plus Lenalidomide and Rituximab Versus Lenalidomide and Rituximab for Relapsed/Refractory Follicular Lymphoma: A US Payer Perspective.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42458868/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "YTTRIUM Y 90 IBRITUMOMAB TIUXETAN",
+        "chembl_id": "CHEMBL2108667",
+        "reason": "same target: B-lymphocyte antigen CD20"
+      },
+      {
+        "name": "OFATUMUMAB",
+        "chembl_id": "CHEMBL1201836",
+        "reason": "same target: B-lymphocyte antigen CD20"
+      },
+      {
+        "name": "TOSITUMOMAB",
+        "chembl_id": "CHEMBL1201604",
+        "reason": "same target: B-lymphocyte antigen CD20"
+      },
+      {
+        "name": "OBINUTUZUMAB",
+        "chembl_id": "CHEMBL1743048",
+        "reason": "same target: B-lymphocyte antigen CD20"
+      },
+      {
+        "name": "OCRELIZUMAB",
+        "chembl_id": "CHEMBL2108041",
+        "reason": "same target: B-lymphocyte antigen CD20"
+      },
+      {
+        "name": "UBLITUXIMAB",
+        "chembl_id": "CHEMBL2108354",
+        "reason": "same target: B-lymphocyte antigen CD20"
+      },
+      {
+        "name": "VELTUZUMAB",
+        "chembl_id": "CHEMBL1743088",
+        "reason": "same target: B-lymphocyte antigen CD20"
+      },
+      {
+        "name": "TOSITUMOMAB 131I",
+        "chembl_id": "CHEMBL3833304",
+        "reason": "same target: B-lymphocyte antigen CD20"
+      },
+      {
+        "name": "OCARATUZUMAB",
+        "chembl_id": "CHEMBL2109665",
+        "reason": "same target: B-lymphocyte antigen CD20"
+      },
+      {
+        "name": "LFB-R603",
+        "chembl_id": "CHEMBL2109348",
+        "reason": "same target: B-lymphocyte antigen CD20"
+      }
+    ]
+  }
+}

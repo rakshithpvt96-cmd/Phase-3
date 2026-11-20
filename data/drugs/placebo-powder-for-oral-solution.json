@@ -1,0 +1,99 @@
+{
+  "drug_name": "Placebo Powder for Oral Solution",
+  "slug": "placebo-powder-for-oral-solution",
+  "enriched_at": "2026-11-20T16:45:46Z",
+  "source_trial_ids": [
+    "NCT06721871"
+  ],
+  "sponsors": [
+    {
+      "name": "Napo Pharmaceuticals, Inc.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Napo%20Pharmaceuticals%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "8375",
+      "generic_name": "placebo",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2108778",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": "Biological vaccine - induces immune response"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Placebo%20Powder%20for%20Oral%20Solution+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Placebo%20Powder%20for%20Oral%20Solution+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Placebo%20Powder%20for%20Oral%20Solution+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Microvillus Inclusion Disease",
+    "slug": "microvillus-inclusion-disease"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06721871",
+      "title": "Ascending Doses of Crofelemer Powder for Oral Solution in Pediatric Microvillus Inclusion Disease (MVID)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06721871",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "41909037",
+        "title": "Effectiveness and safety of an ayurvedic nutraceutical for improving clinical parameters of liver function in participants with metabolic dysfunction-associated steatotic liver disease: a randomized, placebo-controlled, preliminary phase 2 exploratory clinical trial.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41909037/"
+      },
+      {
+        "pmid": "39519473",
+        "title": "Beneficial Effects of a Freeze-Dried Kale Bar on Type 2 Diabetes Patients: A Randomized, Double-Blinded, Placebo-Controlled Clinical Trial.",
+        "pubdate": "2024 Oct 26",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39519473/"
+      },
+      {
+        "pmid": "25027304",
+        "title": "Randomized study of the safety, pharmacokinetics, and bronchodilatory efficacy of a proprietary glycopyrronium metered-dose inhaler in study patients with chronic obstructive pulmonary disease.",
+        "pubdate": "2014 Jul 16",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25027304/"
+      },
+      {
+        "pmid": "24074841",
+        "title": "A double-blind block randomized clinical trial on the effect of zinc as a treatment for diarrhea in neonatal Holstein calves under natural challenge conditions.",
+        "pubdate": "2013 Nov 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24074841/"
+      },
+      {
+        "pmid": "20959428",
+        "title": "Efficacy and tolerability of a new powdered formulation of diclofenac potassium for oral solution for the acute treatment of migraine: results from the International Migraine Pain Assessment Clinical Trial (IMPACT).",
+        "pubdate": "2010 Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20959428/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

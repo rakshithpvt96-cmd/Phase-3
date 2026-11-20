@@ -1,12 +1,19 @@
 {
   "drug_name": "Nab-paclitaxel",
   "slug": "nab-paclitaxel",
-  "enriched_at": "2026-11-13T15:23:40Z",
+  "enriched_at": "2026-11-20T16:42:43Z",
   "source_trial_ids": [
     "NCT05116462",
-    "NCT05254171"
+    "NCT05254171",
+    "NCT06767527"
   ],
   "sponsors": [
+    {
+      "name": "Akeso",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Akeso&type=10-K&dateb=&owner=include&count=40"
+    },
     {
       "name": "Innovent Biologics (Suzhou) Co. Ltd.",
       "ticker": null,
@@ -74,11 +81,30 @@
       "status": "RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT05254171",
       "has_results": false
+    },
+    {
+      "nct_id": "NCT06767527",
+      "title": "AK112 or Placebo Plus Nab-Paclitaxel as First-line Treatment in Inoperable Locally Advanced/ Metastatic Triple-negative Breast Cancer",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06767527",
+      "has_results": false
     }
   ],
   "prior_results": {
     "ctgov_results_urls": [],
     "pubmed_articles": [
+      {
+        "pmid": "43054860",
+        "title": "Beyond organ-based therapy: Genome-directed treatment of metastatic gastric-type endocervical adenocarcinoma.",
+        "pubdate": "2026 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43054860/"
+      },
+      {
+        "pmid": "43024239",
+        "title": "Tumor Treating Fields and Quality of Life Among Patients With Locally Advanced Pancreatic Adenocarcinoma: A Secondary Analysis of a Randomized Clinical Trial.",
+        "pubdate": "2026 Nov 2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43024239/"
+      },
       {
         "pmid": "43018983",
         "title": "Perioperative Camrelizumab Plus Chemotherapy in Locally Advanced Head and Neck Squamous Cell Carcinoma: A Randomized Clinical Trial.",
@@ -87,7 +113,7 @@
       },
       {
         "pmid": "42996359",
-        "title": "Phase II study of pembrolizumab plus nab-paclitaxel in Hormone Receptor-positive, HER2- negative metastatic breast cancer: clinical and molecular insights into response.",
+        "title": "Phase II study of pembrolizumab plus nab-paclitaxel in Hormone Receptor-positive, HER2-negative metastatic breast cancer: clinical and molecular insights into response.",
         "pubdate": "2026 Oct 22",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42996359/"
       },
@@ -96,18 +122,6 @@
         "title": "Event-free survival in patients with early triple-negative breast cancer receiving platinum-free, de-escalated anti-PD-1 neoadjuvant therapy: an updated analysis of the NeoTENNIS trial.",
         "pubdate": "2026 Nov 5",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42982408/"
-      },
-      {
-        "pmid": "42962507",
-        "title": "Phase Ib-II study of ramucirumab combined with nab-paclitaxel and Gemcitabine as first-line treatment in patients with advanced pancreatic adenocarcinoma (RACING).",
-        "pubdate": "2026 Oct 30",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42962507/"
-      },
-      {
-        "pmid": "42931961",
-        "title": "Intensity-modulated radiotherapy combined with albumin-bound paclitaxel and platinum-based chemotherapy for locoregional recurrent cervical cancer: a single-institutional phase II investigator-initiated nonrandomized clinical trial.",
-        "pubdate": "2026 Jul 28",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42931961/"
       }
     ]
   },

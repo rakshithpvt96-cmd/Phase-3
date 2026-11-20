@@ -1,0 +1,74 @@
+{
+  "drug_name": "RYZ101",
+  "slug": "ryz101",
+  "enriched_at": "2026-11-20T16:48:05Z",
+  "source_trial_ids": [
+    "NCT05477576"
+  ],
+  "sponsors": [
+    {
+      "name": "RayzeBio, Inc.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=RayzeBio%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 171390016,
+    "iupac_name": "actinium-225;2-[4-[2-[[(2R)-1-[[(4R,7S,10S,13R,16S,19R)-10-(4-aminobutyl)-4-[[(1S,2R)-1-carboxy-2-hydroxypropyl]carbamoyl]-7-[(1R)-1-hydroxyethyl]-16-[(4-hydroxyphenyl)methyl]-13-(1H-indol-3-ylmethyl)-6,9,12,15,18-pentaoxo-1,2-dithia-5,8,11,14,17-pentazacycloicos-19-yl]amino]-1-oxo-3-phenylpropan-2-yl]amino]-2-oxoethyl]-7,10-bis(carboxylatomethyl)-1,4,7,10-tetrazacyclododec-1-yl]acetate",
+    "molecular_formula": "C65H87AcN14O19S2-3",
+    "molecular_weight": "1657.6",
+    "canonical_smiles": null,
+    "inchikey": "RKTOOMZGVJVHDD-WSCOIBMGSA-K",
+    "rxnorm": {
+      "rxcui": "2731642",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL6068416",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=RYZ101+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=RYZ101+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=RYZ101+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "GEP-NET",
+    "slug": "gep-net"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05477576",
+      "title": "Study of RYZ101 Compared With SOC in Pts w Inoperable SSTR+ Well-differentiated GEP-NET That Has Progressed Following 177Lu-SSA Therapy",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05477576",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

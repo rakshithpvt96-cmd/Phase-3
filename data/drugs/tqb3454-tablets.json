@@ -1,0 +1,95 @@
+{
+  "drug_name": "TQB3454 tablets",
+  "slug": "tqb3454-tablets",
+  "enriched_at": "2026-11-20T16:51:12Z",
+  "source_trial_ids": [
+    "NCT05987358"
+  ],
+  "sponsors": [
+    {
+      "name": "Chia Tai Tianqing Pharmaceutical Group Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Chia%20Tai%20Tianqing%20Pharmaceutical%20Group%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": null
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL942",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": "Unknown"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=TQB3454%20tablets+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=TQB3454%20tablets+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=TQB3454%20tablets+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Biliary Carcinoma",
+    "slug": "biliary-carcinoma"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05987358",
+      "title": "A Clinical Study of TQB3454 Tablets in the Treatment of Advanced Biliary Carcinoma.",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05987358",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "43058872",
+        "title": "Phase IB trial of the BMI-1 inhibitor unesbulin plus neoadjuvant paclitaxel-carboplatin in advanced ovarian cancer.",
+        "pubdate": "2026 Aug 25",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43058872/"
+      },
+      {
+        "pmid": "43052952",
+        "title": "Effects on patients postoperative morbidity and donor site wound healing of A-PRF and CGF application after free gingival graft harvesting: a comparative randomized clinical trial.",
+        "pubdate": "2026 Aug 24",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43052952/"
+      },
+      {
+        "pmid": "43042236",
+        "title": "Incidence and Clinical Relevance of Somnolence and Sedation with Brexpiprazole in Patients with Agitation Associated with Dementia Due to Alzheimer's Disease: Post Hoc Analysis of Clinical Trials.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43042236/"
+      },
+      {
+        "pmid": "43040524",
+        "title": "Effectiveness of vaginal versus oral progesterone therapy in patients with endometrial hyperplasia: a randomized clinical trial.",
+        "pubdate": "2026 Aug 21",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43040524/"
+      },
+      {
+        "pmid": "43037879",
+        "title": "A comparative analysis of the safety and tolerability of oral small-molecule versus injectable peptide GLP-1 receptor agonists.",
+        "pubdate": "2026 Nov 16",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43037879/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

@@ -1,16 +1,15 @@
 {
   "drug_name": "Paclitaxel",
   "slug": "paclitaxel",
-  "enriched_at": "2026-11-13T15:25:14Z",
+  "enriched_at": "2026-11-20T16:43:11Z",
   "source_trial_ids": [
     "NCT03981796",
     "NCT04634877",
     "NCT04704934",
     "NCT05116462",
-    "NCT05984277",
+    "NCT05654454",
     "NCT06341335",
-    "NCT06356311",
-    "NCT06619236"
+    "NCT06356311"
   ],
   "sponsors": [
     {
@@ -20,28 +19,22 @@
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Akeso&type=10-K&dateb=&owner=include&count=40"
     },
     {
-      "name": "AstraZeneca",
-      "ticker": "AZN",
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000901832&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
       "name": "Daiichi Sankyo",
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Daiichi%20Sankyo&type=10-K&dateb=&owner=include&count=40"
     },
     {
-      "name": "Genmab",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Genmab&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
       "name": "Innovent Biologics (Suzhou) Co. Ltd.",
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Innovent%20Biologics%20%28Suzhou%29%20Co.%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Mabscale, LLC",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Mabscale%2C%20LLC&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Merck Sharp & Dohme LLC",
@@ -93,8 +86,8 @@
     "further_reading": null
   },
   "condition": {
-    "raw": "Metastatic Non-small Cell Lung Cancer",
-    "slug": "metastatic-non-small-cell-lung-cancer"
+    "raw": "Gastric Cancer, Adenocarcinoma",
+    "slug": "gastric-cancer-adenocarcinoma"
   },
   "source_trials": [
     {
@@ -126,10 +119,10 @@
       "has_results": false
     },
     {
-      "nct_id": "NCT05984277",
-      "title": "A Global Study of Volrustomig (MEDI5752) Plus Chemotherapy Versus Pembrolizumab Plus Chemotherapy for Participants With Metastatic Non-small Cell Lung Cancer.",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT05984277",
+      "nct_id": "NCT05654454",
+      "title": "A Safety and Efficacy Study of Bevacizumab, Paclitaxel, Carboplatin Compared to Avastin® in Non-Small Cell Lung Cancer",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05654454",
       "has_results": false
     },
     {
@@ -145,47 +138,40 @@
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT06356311",
       "has_results": false
-    },
-    {
-      "nct_id": "NCT06619236",
-      "title": "Study to Assess the Efficacy of Rina-S Compared to Treatment of Investigator's Choice in Participants With Platinum Resistant Ovarian Cancer",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06619236",
-      "has_results": false
     }
   ],
   "prior_results": {
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "43058872",
+        "title": "Phase IB trial of the BMI-1 inhibitor unesbulin plus neoadjuvant paclitaxel-carboplatin in advanced ovarian cancer.",
+        "pubdate": "2026 Aug 25",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43058872/"
+      },
+      {
+        "pmid": "43054860",
+        "title": "Beyond organ-based therapy: Genome-directed treatment of metastatic gastric-type endocervical adenocarcinoma.",
+        "pubdate": "2026 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43054860/"
+      },
+      {
+        "pmid": "43040603",
+        "title": "Quality of Life Outcomes From the Phase 3 Study of Atezolizumab + Bevacizumab and Chemotherapy (ATTLAS, KCSG-LU19-04) in EGFR/ALK-Mutated Non-Small-Cell Lung Cancer.",
+        "pubdate": "2026 Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43040603/"
+      },
+      {
+        "pmid": "43024239",
+        "title": "Tumor Treating Fields and Quality of Life Among Patients With Locally Advanced Pancreatic Adenocarcinoma: A Secondary Analysis of a Randomized Clinical Trial.",
+        "pubdate": "2026 Nov 2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43024239/"
+      },
+      {
         "pmid": "43018983",
         "title": "Perioperative Camrelizumab Plus Chemotherapy in Locally Advanced Head and Neck Squamous Cell Carcinoma: A Randomized Clinical Trial.",
         "pubdate": "2026 Nov 12",
         "url": "https://pubmed.ncbi.nlm.nih.gov/43018983/"
-      },
-      {
-        "pmid": "43018949",
-        "title": "Izalontamab Brengitecan in Recurrent or Metastatic Esophageal Squamous Cell Carcinoma: The PANKU-Esophagus01 Randomized Clinical Trial.",
-        "pubdate": "2026 Nov 12",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43018949/"
-      },
-      {
-        "pmid": "42996359",
-        "title": "Phase II study of pembrolizumab plus nab-paclitaxel in Hormone Receptor-positive, HER2- negative metastatic breast cancer: clinical and molecular insights into response.",
-        "pubdate": "2026 Oct 22",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42996359/"
-      },
-      {
-        "pmid": "42986615",
-        "title": "HB0025 With Chemotherapy for Advanced Non-Small Cell Lung Cancer: A Phase 2 Nonrandomized Clinical Trial.",
-        "pubdate": "2026 Nov 5",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42986615/"
-      },
-      {
-        "pmid": "42982408",
-        "title": "Event-free survival in patients with early triple-negative breast cancer receiving platinum-free, de-escalated anti-PD-1 neoadjuvant therapy: an updated analysis of the NeoTENNIS trial.",
-        "pubdate": "2026 Nov 5",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42982408/"
       }
     ]
   },

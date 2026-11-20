@@ -1,9 +1,10 @@
 {
   "drug_name": "Metformin",
   "slug": "metformin",
-  "enriched_at": "2026-11-16T18:04:54Z",
+  "enriched_at": "2026-11-20T16:41:36Z",
   "source_trial_ids": [
-    "NCT06257966"
+    "NCT06257966",
+    "NCT07093476"
   ],
   "sponsors": [
     {
@@ -11,6 +12,12 @@
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Beijing%20Dongfang%20Biotech%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Celltrion",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Celltrion&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
@@ -45,7 +52,7 @@
     "openfda_generic_names": [
       "SITAGLIPTIN AND METFORMIN HYDROCHLORIDE"
     ],
-    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ec43efb2-8a50-4bac-9576-f4303841a497",
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=06ade2e1-5981-4e3d-b7e9-7ff083eb4551",
     "note": null,
     "further_reading": null
   },
@@ -60,11 +67,30 @@
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT06257966",
       "has_results": false
+    },
+    {
+      "nct_id": "NCT07093476",
+      "title": "Efficacy and Safety of Add-On Therapy With Empagliflozin in Patients With Type 2 Diabetes on a Background of Alogliptin and Metformin",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07093476",
+      "has_results": false
     }
   ],
   "prior_results": {
     "ctgov_results_urls": [],
     "pubmed_articles": [
+      {
+        "pmid": "43055874",
+        "title": "Beyond Bicarbonate: Renal Replacement Therapy in Refractory Diabetic Ketoacidosis: A Narrative Review.",
+        "pubdate": "2026 Nov 19",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43055874/"
+      },
+      {
+        "pmid": "43047029",
+        "title": "Comparison of the Efficacy of Kligman's Formula Combined With 30% Topical Metformin Versus Kligman's Formula Alone in the Treatment of Melasma.",
+        "pubdate": "2026 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43047029/"
+      },
       {
         "pmid": "43032907",
         "title": "Efficacy and safety of teneligliptin as add-on therapy in patients with type 2 diabetes treated with empagliflozin and metformin: A 24-week, randomized, double-blind, placebo-controlled phase 3 trial.",
@@ -82,18 +108,6 @@
         "title": "Metformin promotes placental adaptation to hypoxic stress through mitochondrial and translational pathways.",
         "pubdate": "2026 Aug 17",
         "url": "https://pubmed.ncbi.nlm.nih.gov/43021255/"
-      },
-      {
-        "pmid": "43015023",
-        "title": "Effects of henagliflozin proline tablets versus metformin extended-release tablets on body composition in geriatric patients with newly diagnosed type 2 diabetes mellitus (HABIT-GEMs): study protocol for a multicentre, randomised, open-label trial.",
-        "pubdate": "2026 Nov 11",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43015023/"
-      },
-      {
-        "pmid": "43010089",
-        "title": "Effects of continuous calorie restriction versus time-restricted intermittent fasting on glycemic variability in individuals with type 2 diabetes: a randomized crossover trial.",
-        "pubdate": "2026 Aug 13",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43010089/"
       }
     ]
   },

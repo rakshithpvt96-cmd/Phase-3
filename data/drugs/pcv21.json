@@ -1,11 +1,18 @@
 {
   "drug_name": "PCV21",
   "slug": "pcv21",
-  "enriched_at": "2026-11-13T15:57:07Z",
+  "enriched_at": "2026-11-20T16:43:28Z",
   "source_trial_ids": [
+    "NCT06838000",
     "NCT07284654"
   ],
   "sponsors": [
+    {
+      "name": "Sanofi Pasteur, a Sanofi Company",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Sanofi%20Pasteur%2C%20a%20Sanofi%20Company&type=10-K&dateb=&owner=include&count=40"
+    },
     {
       "name": "Vaxcyte, Inc.",
       "ticker": "PCVX",
@@ -49,6 +56,13 @@
   },
   "source_trials": [
     {
+      "nct_id": "NCT06838000",
+      "title": "Study of the Safety and Immunogenicity of Catch-up Vaccination With a 21-valent Pneumococcal Conjugate Vaccine (PCV21) in Healthy Infants, Toddlers, Children, and Adolescents",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06838000",
+      "has_results": false
+    },
+    {
       "nct_id": "NCT07284654",
       "title": "Safety, Tolerability, and Immunogenicity of VAX-31 in Adults ≥50 Years With Immunobridging to Adults 18-49",
       "status": "COMPLETED",
@@ -59,6 +73,12 @@
   "prior_results": {
     "ctgov_results_urls": [],
     "pubmed_articles": [
+      {
+        "pmid": "43030364",
+        "title": "Pneumococcal Vaccination as Cardiovascular and Cardiorespiratory Prevention in Adults with Heart Disease.",
+        "pubdate": "2026 Oct 22",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43030364/"
+      },
       {
         "pmid": "42160795",
         "title": "Streptococcus pneumoniae: Pathogenesis, virulence factors, antimicrobial resistance mechanisms, and therapeutic strategies.",

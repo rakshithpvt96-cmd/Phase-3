@@ -1,7 +1,7 @@
 {
   "drug_name": "Placebo oral tablet",
   "slug": "placebo-oral-tablet",
-  "enriched_at": "2026-11-13T15:28:27Z",
+  "enriched_at": "2026-11-20T16:45:38Z",
   "source_trial_ids": [
     "NCT05888922"
   ],
@@ -60,6 +60,12 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "43037879",
+        "title": "A comparative analysis of the safety and tolerability of oral small-molecule versus injectable peptide GLP-1 receptor agonists.",
+        "pubdate": "2026 Nov 16",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43037879/"
+      },
+      {
         "pmid": "43002161",
         "title": "Orforglipron for Obstructive Sleep Apnea: Results From 2 Randomized Clinical Trials (ATTAIN-OSA).",
         "pubdate": "2026 Nov 9",
@@ -82,18 +88,23 @@
         "title": "Evaluation of the preventive effect of intravenous trans-sodium crocetinate followed by oral crocetin on contrast-induced nephropathy in patients with chronic kidney disease undergoing coronary angioplasty: A randomized placebo-controlled triple-blind clinical trial.",
         "pubdate": "2026",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42920967/"
-      },
-      {
-        "pmid": "42836299",
-        "title": "Investigating the effect of buprenorphine on pain in the acute phase of patients with mild traumatic brain injury: a double-blind clinical trial.",
-        "pubdate": "2026 Oct 6",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42836299/"
       }
     ]
   },
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": []
+    "items": [
+      {
+        "name": "VDPHL01",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Veradermics, Inc."
+      },
+      {
+        "name": "Placebo",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Veradermics, Inc."
+      }
+    ]
   }
 }

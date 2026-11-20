@@ -1,0 +1,85 @@
+{
+  "drug_name": "VDPHL01",
+  "slug": "vdphl01",
+  "enriched_at": "2026-11-20T16:52:10Z",
+  "source_trial_ids": [
+    "NCT06972264"
+  ],
+  "sponsors": [
+    {
+      "name": "Veradermics, Inc.",
+      "ticker": "MANE",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001827635&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": null
+  },
+  "mechanism": {
+    "chembl_id": null,
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=VDPHL01+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=VDPHL01+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=VDPHL01+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Androgenetic Alopecia",
+    "slug": "androgenetic-alopecia"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06972264",
+      "title": "Safety and Efficacy of VDPHL01 in Males With AGA",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06972264",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "Minoxidil Tablets",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Industrial Farmacéutica Cantabria, S.A."
+      },
+      {
+        "name": "Minoxidil Topical",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Industrial Farmacéutica Cantabria, S.A."
+      },
+      {
+        "name": "Placebo oral tablet",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Industrial Farmacéutica Cantabria, S.A."
+      },
+      {
+        "name": "Vehicle solution",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Industrial Farmacéutica Cantabria, S.A."
+      }
+    ]
+  }
+}

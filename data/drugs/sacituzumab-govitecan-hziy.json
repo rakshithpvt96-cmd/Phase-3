@@ -1,0 +1,99 @@
+{
+  "drug_name": "Sacituzumab Govitecan-hziy",
+  "slug": "sacituzumab-govitecan-hziy",
+  "enriched_at": "2026-11-20T16:48:18Z",
+  "source_trial_ids": [
+    "NCT04639986"
+  ],
+  "sponsors": [
+    {
+      "name": "Gilead Sciences",
+      "ticker": "GILD",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000882095&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2360530",
+      "generic_name": "sacituzumab govitecan-hziy",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL3545262",
+    "target_chembl_id": "CHEMBL3856163",
+    "target_name": "Tumor-associated calcium signal transducer 2",
+    "mechanism_of_action_chembl": "Tumor-associated calcium signal transducer 2 binding agent"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Sacituzumab%20Govitecan-hziy+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Sacituzumab%20Govitecan-hziy+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Sacituzumab%20Govitecan-hziy+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Metastatic Breast Cancer",
+    "slug": "metastatic-breast-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04639986",
+      "title": "Asian Study of Sacituzumab Govitecan (IMMU-132) in HR+/HER2- Metastatic Breast Cancer (MBC)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04639986",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "34225076",
+        "title": "Sacituzumab govitecan and trastuzumab deruxtecan: two new antibody-drug conjugates in the breast cancer treatment landscape.",
+        "pubdate": "2021 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34225076/"
+      },
+      {
+        "pmid": "33070624",
+        "title": "Sacituzumab Govitecan-hziy: An Antibody-Drug Conjugate for the Treatment of Refractory, Metastatic, Triple-Negative Breast Cancer.",
+        "pubdate": "2021 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33070624/"
+      },
+      {
+        "pmid": "32713217",
+        "title": "Current and emerging biologic therapies for triple negative breast cancer.",
+        "pubdate": "2022 May",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32713217/"
+      },
+      {
+        "pmid": "32563561",
+        "title": "The evolving management of metastatic triple negative breast cancer.",
+        "pubdate": "2020 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32563561/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "DATOPOTAMAB DERUXTECAN",
+        "chembl_id": "CHEMBL4297939",
+        "reason": "same target: Tumor-associated calcium signal transducer 2"
+      }
+    ]
+  }
+}

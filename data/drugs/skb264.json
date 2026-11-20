@@ -1,9 +1,10 @@
 {
   "drug_name": "SKB264",
   "slug": "skb264",
-  "enriched_at": "2026-11-15T14:37:54Z",
+  "enriched_at": "2026-11-20T16:49:34Z",
   "source_trial_ids": [
-    "NCT06448312"
+    "NCT06448312",
+    "NCT06711900"
   ],
   "sponsors": [
     {
@@ -49,6 +50,13 @@
       "title": "A Study of SKB264 in Combination With Pembrolizumab Versus Pembrolizumab in Patients With Locally Advanced or Metastatic Non-Small Cell Lung Cancer",
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT06448312",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06711900",
+      "title": "A Study of SKB264 in Combination With Pembrolizumab Versus Chemotherapy in Combination With Pembrolizumab as First-Line Treatment for PD-L1 Negative Patients With Locally Advanced or Metastatic Non-Squamous Non-Small Cell Lung Cancer",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06711900",
       "has_results": false
     }
   ],

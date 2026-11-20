@@ -1,0 +1,126 @@
+{
+  "drug_name": "Ritlecitinib lower dose",
+  "slug": "ritlecitinib-lower-dose",
+  "enriched_at": "2026-11-20T16:47:43Z",
+  "source_trial_ids": [
+    "NCT07029711"
+  ],
+  "sponsors": [
+    {
+      "name": "Pfizer",
+      "ticker": "PFE",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000078003&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2641595",
+      "generic_name": "ritlecitinib",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL5314649",
+    "target_chembl_id": "CHEMBL2148",
+    "target_name": "Tyrosine-protein kinase JAK3",
+    "mechanism_of_action_chembl": "Tyrosine-protein kinase JAK3 inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Ritlecitinib%20lower%20dose+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Ritlecitinib%20lower%20dose+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Ritlecitinib%20lower%20dose+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Severe Alopecia Areata",
+    "slug": "severe-alopecia-areata"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07029711",
+      "title": "A Study to Learn About Medicine Called Ritlecitinib in Children Aged Between 6 to 12 Years With Severe Alopecia Areata",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07029711",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "39812238",
+        "title": "Using patient preference to inform ritlecitinib dose selection for alopecia areata treatment.",
+        "pubdate": "2025 Mar",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39812238/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "CERDULATINIB",
+        "chembl_id": "CHEMBL4116008",
+        "reason": "same target: Tyrosine-protein kinase JAK3"
+      },
+      {
+        "name": "R-348",
+        "chembl_id": "CHEMBL5314384",
+        "reason": "same target: Tyrosine-protein kinase JAK3"
+      },
+      {
+        "name": "TRICETAMIDE",
+        "chembl_id": "CHEMBL2106468",
+        "reason": "same target: Tyrosine-protein kinase JAK3"
+      },
+      {
+        "name": "WHI-P131",
+        "chembl_id": "CHEMBL405130",
+        "reason": "same target: Tyrosine-protein kinase JAK3"
+      },
+      {
+        "name": "AT-9283",
+        "chembl_id": "CHEMBL495727",
+        "reason": "same target: Tyrosine-protein kinase JAK3"
+      },
+      {
+        "name": "R-333",
+        "chembl_id": "CHEMBL3545159",
+        "reason": "same target: Tyrosine-protein kinase JAK3"
+      },
+      {
+        "name": "DECERNOTINIB",
+        "chembl_id": "CHEMBL3039513",
+        "reason": "same target: Tyrosine-protein kinase JAK3"
+      },
+      {
+        "name": "RITLECITINIB",
+        "chembl_id": "CHEMBL4085457",
+        "reason": "same target: Tyrosine-protein kinase JAK3"
+      },
+      {
+        "name": "FILGOTINIB",
+        "chembl_id": "CHEMBL3301607",
+        "reason": "same target: Tyrosine-protein kinase JAK3"
+      },
+      {
+        "name": "FILGOTINIB MALEATE",
+        "chembl_id": "CHEMBL4298167",
+        "reason": "same target: Tyrosine-protein kinase JAK3"
+      }
+    ]
+  }
+}

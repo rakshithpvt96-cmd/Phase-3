@@ -1,0 +1,94 @@
+{
+  "drug_name": "Placebo capsules, Letrozole, Anastrozole, Tamoxifen",
+  "slug": "placebo-capsules-letrozole-anastrozole-tamoxifen",
+  "enriched_at": "2026-11-20T16:44:35Z",
+  "source_trial_ids": [
+    "NCT05780567"
+  ],
+  "sponsors": [
+    {
+      "name": "Chia Tai Tianqing Pharmaceutical Group Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Chia%20Tai%20Tianqing%20Pharmaceutical%20Group%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "451888",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1444",
+    "target_chembl_id": "CHEMBL1978",
+    "target_name": "Aromatase",
+    "mechanism_of_action_chembl": "Cytochrome P450 19A1 inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Placebo%20capsules%2C%20Letrozole%2C%20Anastrozole%2C%20Tamoxifen+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Placebo%20capsules%2C%20Letrozole%2C%20Anastrozole%2C%20Tamoxifen+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Placebo%20capsules%2C%20Letrozole%2C%20Anastrozole%2C%20Tamoxifen+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Breast Cancer",
+    "slug": "breast-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05780567",
+      "title": "Clinical Study on Adjuvant Therapy of TQB3616 Combined With Endocrine Therapy Compared With Placebo Combined With Endocrine Therapy in Patients With Breast Cancer",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05780567",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "TESTOLACTONE",
+        "chembl_id": "CHEMBL1571",
+        "reason": "same target: Aromatase"
+      },
+      {
+        "name": "ANASTROZOLE",
+        "chembl_id": "CHEMBL1399",
+        "reason": "same target: Aromatase"
+      },
+      {
+        "name": "EXEMESTANE",
+        "chembl_id": "CHEMBL1200374",
+        "reason": "same target: Aromatase"
+      },
+      {
+        "name": "AMINOGLUTETHIMIDE",
+        "chembl_id": "CHEMBL488",
+        "reason": "same target: Aromatase"
+      },
+      {
+        "name": "FADROZOLE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL468419",
+        "reason": "same target: Aromatase"
+      }
+    ]
+  }
+}

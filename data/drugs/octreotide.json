@@ -1,0 +1,105 @@
+{
+  "drug_name": "Octreotide",
+  "slug": "octreotide",
+  "enriched_at": "2026-11-20T16:42:54Z",
+  "source_trial_ids": [
+    "NCT05477576"
+  ],
+  "sponsors": [
+    {
+      "name": "RayzeBio, Inc.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=RayzeBio%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 448601,
+    "iupac_name": "(4R,7S,10S,13R,16S,19R)-10-(4-aminobutyl)-19-[[(2R)-2-amino-3-phenylpropanoyl]amino]-16-benzyl-N-[(2R,3R)-1,3-dihydroxybutan-2-yl]-7-[(1R)-1-hydroxyethyl]-13-(1H-indol-3-ylmethyl)-6,9,12,15,18-pentaoxo-1,2-dithia-5,8,11,14,17-pentazacycloicosane-4-carboxamide",
+    "molecular_formula": "C49H66N10O10S2",
+    "molecular_weight": "1019.2",
+    "canonical_smiles": null,
+    "inchikey": "DEQANNDTNATYII-OULOTJBUSA-N",
+    "rxnorm": {
+      "rxcui": "7617",
+      "generic_name": "octreotide",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1680",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Octreotide acetate injection exerts pharmacologic actions similar to the natural hormone, somatostatin. It is an even more potent inhibitor of GH, glucagon, and insulin than somatostatin. Like somatostatin, it also suppresses luteinizing hormone (LH) response to gonadotropin releasing hormone (GnRH), decreases splanchnic blood flow, and inhibits release of serotonin, gastrin, VIP, secretin, motilin, and pancreatic polypeptide. By virtue of these pharmacological actions, octreotide has been used to treat the symptoms associated with metastatic carcinoid tumors (flushing and diarrhea), and VIP secreting adenomas (watery diarrhea).",
+    "pharmacokinetics": "12.3 Pharmacokinetics Absorption After subcutaneous injection, octreotide is absorbed rapidly and completely from the injection site. Peak concentrations of 5.2 ng/mL (100-mcg dose) were reached 0.4 hours after dosing. Using a specific radioimmunoassay, IV and subcutaneous doses were found to be bioequivalent. Peak concentrations and area under the curve (AUC) values were dose proportional after IV single doses up to 200 mcg and subcutaneous single doses up to 500 mcg and after subcutaneous multiple doses up to 500 mcg 3 times a day (1,500 mcg/day). In patients with acromegaly, a mean peak concentration of 2.8 ng/mL (100-mcg dose) was reached in 0.7 hours after subcutaneous dosing. Distribution In healthy volunteers, the distribution of octreotide from plasma was rapid (tα½ = 0.2 h), the volume of distribution (V dss ) was estimated to be 13.6 L, and the total body clearance ranged from 7 L/hr to 10 L/hr. In blood, the distribution into the erythrocytes was found to be negligible and about 65% was bound in the plasma in a concentration-independent manner. Binding was mainly to lipoprotein and, to a lesser extent, to albumin. In patients with acromegaly, the volume of distribution (V dss ) was estimated to be 21.6 ± 8.5 L, and the total body clearance was increased to 18 L/h. The mean percent of the drug bound was 41.2%. Elimination The elimination of octreotide from plasma had an apparent half-life of 1.7 to 1.9 hours compared with 1 to 3 minutes with the natural hormone. The duration of action of octreotide acetate injection is variable but extends up to 12 hours depending upon the type of tumor. About 32% of the dose is excreted unchanged into the urine. In an elderly population, dose adjustments may be necessary due to a significant increase in the half-life (46%) and a significant decrease in the clearance (26%) of the drug. In patients with acromegaly, the disposition and elimination half-lives were similar to normal subjects. Specific Populations Renal Impairment In patients with mild renal impairment (CL CR 40 to 60 mL/min), octreotide t 1/2 was 2.4 hours and total body clearance was 8.8 L/hr, in moderate impairment (CL CR 10 to 39 mL/min) t 1/2 was 3.0 hours and total body clearance 7.3 L/hr. In patients with severe renal impairment not requiring dialysis (CL CR < 10 mL/min), octreotide t 1/2 was 3.1 hours and total body clearance was 7.6 L/hr. In patients with severe renal failure requiring dialysis, total body clearance was reduced to about half that found in healthy subjects (from approximately 10 L/hr to 4.5 L/hr). Hepatic Impairment Patients with liver cirrhosis showed prolonged elimination of drug, with octreotide t 1/2 increasing to 3.7 hr and total body clearance decreasing to 5.9 L/hr, whereas patients with fatty liver disease showed t 1/2 increased to 3.4 hr and total body clearance of 8.2 L/hr.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE Octreotide Acetate Injection is a somatostatin analogue indicated: Acromegaly : To reduce blood levels of growth hormone (GH) and insulin growth factor-1 (IGF-1; somatomedin C) in acromegaly patients who have had inadequate response to or cannot be treated with surgical resection, pituitary irradiation, and bromocriptine mesylate at maximally tolerated doses. ( 1.1 ) Carcinoid Tumors : For the symptomatic treatment of patients with metastatic carcinoid tumors where it suppresses or inhibits the severe diarrhea and flushing episodes associated with the disease. ( 1.2 ) Vasoactive Intestinal Peptide Tumors (VIPomas) : For the treatment of profuse watery diarrhea associated with VIP-secreting tumors. ( 1.3 ) Limitations of Use Improvement in clinical signs and symptoms, or reduction in tumor size or rate of growth, were not shown in clinical trials performed with Octreotide Acetate Injection; these trials were not optimally designed to detect such effects. ( 1.4 ) 1.1 Acromegaly Octreotide Acetate Injection is indicated to reduce blood levels of growth hormone (GH) and insulin growth factor-1 (IGF-1; somatomedin C) in acromegaly patients who have had inadequate response to or cannot be treated with surgical resection, pituitary irradiation, and bromocriptine mesylate at maximally tolerated doses. 1.2 Carcinoid Tumors Octreotide Acetate Injection is indicated for treatment of severe diarrhea and flushing episodes associated with metastatic carcinoid tumors. 1.3 Vasoactive Intestinal Peptide Tumors Octreotide Acetate Injection is indicated for the treatment of the profuse watery diarrhea associated with vasoactive intestinal peptide tumors (VIPomas)-secreting tumors. 1.4 Important Limitations of Use Improvement in clinical signs and symptoms, or reduction in tumor size or rate of growth, were not shown in clinical trials performed with Octreotide Acetate Injection; these trials were not optimally designed to detect such effects.",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "Octreotide Acetate"
+    ],
+    "openfda_generic_names": [
+      "OCTREOTIDE ACETATE"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9502860d-0261-4d69-a4be-827a5376d356",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "GEP-NET",
+    "slug": "gep-net"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05477576",
+      "title": "Study of RYZ101 Compared With SOC in Pts w Inoperable SSTR+ Well-differentiated GEP-NET That Has Progressed Following 177Lu-SSA Therapy",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05477576",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "43046158",
+        "title": "Comparative detection rates and potential clinical management implications of (18)F-FDG PET/CT and (68)Ga-DOTATOC PET/CT in differentiated thyroid carcinoma patients with thyroglobulin-elevated negative iodine scintigraphy: a prospective exploratory study.",
+        "pubdate": "2026 Aug 22",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43046158/"
+      },
+      {
+        "pmid": "42958416",
+        "title": "Lanreotide for the prevention of postoperative pancreatic fistula (S2408): study protocol for a multicenter randomized controlled trial.",
+        "pubdate": "2026 Aug 3",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42958416/"
+      },
+      {
+        "pmid": "42814905",
+        "title": "[(177)Lu]Lu-DOTATATE Molecular Radiotherapy During Induction Chemotherapy for First-Line Stage 4 High-Risk Neuroblastoma in South African Children: Protocol for a Phase 1 Randomized Controlled Trial (LuDO-SA Trial).",
+        "pubdate": "2026 Sep 30",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42814905/"
+      },
+      {
+        "pmid": "42785954",
+        "title": "Optimizing the Therapeutic Index: Sequential Intraarterial-Intravenous PRRT with Personalized Volumetric-Adjusted Dosing.",
+        "pubdate": "2026 Nov 2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42785954/"
+      },
+      {
+        "pmid": "42712757",
+        "title": "A long-acting octreotide analog formed by conjugation with a peptide linker modified with two fatty acids.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42712757/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

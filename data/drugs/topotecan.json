@@ -1,23 +1,16 @@
 {
   "drug_name": "Topotecan",
   "slug": "topotecan",
-  "enriched_at": "2026-10-28T15:47:53Z",
+  "enriched_at": "2026-11-20T16:51:04Z",
   "source_trial_ids": [
-    "NCT06498479",
-    "NCT06619236"
+    "NCT06500026"
   ],
   "sponsors": [
     {
-      "name": "Genmab",
+      "name": "Sichuan Baili Pharmaceutical Co., Ltd.",
       "ticker": null,
       "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Genmab&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
-      "name": "Hansoh BioMedical R&D Company",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hansoh%20BioMedical%20R%26D%20Company&type=10-K&dateb=&owner=include&count=40"
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Sichuan%20Baili%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
@@ -57,34 +50,21 @@
     "further_reading": null
   },
   "condition": {
-    "raw": "Platinum-resistant Ovarian Cancer",
-    "slug": "platinum-resistant-ovarian-cancer"
+    "raw": "Small Cell Lung Cancer",
+    "slug": "small-cell-lung-cancer"
   },
   "source_trials": [
     {
-      "nct_id": "NCT06498479",
-      "title": "ARTEMIS-008：HS-20093 Compared With Topotecan in Subjects With Relapsed Small Cell Lung Cancer",
-      "status": "COMPLETED",
-      "url": "https://clinicaltrials.gov/study/NCT06498479",
-      "has_results": false
-    },
-    {
-      "nct_id": "NCT06619236",
-      "title": "Study to Assess the Efficacy of Rina-S Compared to Treatment of Investigator's Choice in Participants With Platinum Resistant Ovarian Cancer",
+      "nct_id": "NCT06500026",
+      "title": "A Study Comparing BL-B01D1 With Topotecan in Patients With Recurrent Small Cell Lung Cancer(PANKU-Lung03)",
       "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06619236",
+      "url": "https://clinicaltrials.gov/study/NCT06500026",
       "has_results": false
     }
   ],
   "prior_results": {
     "ctgov_results_urls": [],
     "pubmed_articles": [
-      {
-        "pmid": "42933636",
-        "title": "Extended follow-up of tarlatamab in patients with small-cell lung cancer after platinum-based chemotherapy in the randomized phase 3 DeLLphi-304 study.",
-        "pubdate": "2026 Dec 31",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42933636/"
-      },
       {
         "pmid": "42734213",
         "title": "Tambotatug Pelitecan in Small-Cell Lung Cancer after Platinum-Based Therapy.",
@@ -108,12 +88,29 @@
         "title": "Quadruple immunotherapy with allogeneic natural killer cell infusion for recurrent neuroblastoma.",
         "pubdate": "2026 Jul",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42202757/"
+      },
+      {
+        "pmid": "42028236",
+        "title": "Combination of metronomic oral pazopanib and topotecan for recurrent glioblastoma with and without previous bevacizumab: Results from a phase 2 clinical trial.",
+        "pubdate": "2026 Jan-Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42028236/"
       }
     ]
   },
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": []
+    "items": [
+      {
+        "name": "ETOPOSIDE - Usual",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Han Xu, M.D., Ph.D., FAPCR, Medical Director,, IRB Chair"
+      },
+      {
+        "name": "ETOPOSIDE - Study",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Han Xu, M.D., Ph.D., FAPCR, Medical Director,, IRB Chair"
+      }
+    ]
   }
 }

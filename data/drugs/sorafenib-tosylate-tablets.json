@@ -1,0 +1,130 @@
+{
+  "drug_name": "Sorafenib Tosylate Tablets",
+  "slug": "sorafenib-tosylate-tablets",
+  "enriched_at": "2026-11-20T16:50:00Z",
+  "source_trial_ids": [
+    "NCT04344158"
+  ],
+  "sponsors": [
+    {
+      "name": "Chia Tai Tianqing Pharmaceutical Group Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Chia%20Tai%20Tianqing%20Pharmaceutical%20Group%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "597744",
+      "generic_name": "sorafenib tosylate",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1200485",
+    "target_chembl_id": "CHEMBL1906",
+    "target_name": "RAF proto-oncogene serine/threonine-protein kinase",
+    "mechanism_of_action_chembl": "Serine/threonine-protein kinase RAF inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Sorafenib%20Tosylate%20Tablets+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Sorafenib%20Tosylate%20Tablets+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Sorafenib%20Tosylate%20Tablets+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Advanced Hepatocellular Carcinoma (HCC)",
+    "slug": "advanced-hepatocellular-carcinoma-hcc"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04344158",
+      "title": "A Phase III Clinical Trial of AK105 Injection Combined With Anlotinib Hydrochloride Capsules Versus Sorafenib in Subjects With Advanced Hepatocellular Carcinoma (HCC)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04344158",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "40298089",
+        "title": "Bioequivalence and safety assessment of sorafenib tosylate tablets in healthy Chinese subjects under fasting conditions.",
+        "pubdate": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40298089/"
+      },
+      {
+        "pmid": "38062732",
+        "title": "Increased Progression-Free Survival with Cabozantinib Versus Placebo in Patients with Radioiodine-Refractory Differentiated Thyroid Cancer Irrespective of Prior Vascular Endothelial Growth Factor Receptor-Targeted Therapy and Tumor Histology: A Subgroup Analysis of the COSMIC-311 Study.",
+        "pubdate": "2024 Mar",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38062732/"
+      },
+      {
+        "pmid": "36259380",
+        "title": "Cabozantinib for previously treated radioiodine-refractory differentiated thyroid cancer: Updated results from the phase 3 COSMIC-311 trial.",
+        "pubdate": "2022 Dec 15",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36259380/"
+      },
+      {
+        "pmid": "30767164",
+        "title": "Cabozantinib: A Review in Advanced Hepatocellular Carcinoma.",
+        "pubdate": "2019 Feb",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30767164/"
+      },
+      {
+        "pmid": "30575484",
+        "title": "Sorafenib for Advanced and Refractory Desmoid Tumors.",
+        "pubdate": "2018 Dec 20",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30575484/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "REGORAFENIB",
+        "chembl_id": "CHEMBL1946170",
+        "reason": "same target: RAF proto-oncogene serine/threonine-protein kinase"
+      },
+      {
+        "name": "ARQ-736",
+        "chembl_id": "CHEMBL5314407",
+        "reason": "same target: RAF proto-oncogene serine/threonine-protein kinase"
+      },
+      {
+        "name": "LGX-806",
+        "chembl_id": "CHEMBL3545263",
+        "reason": "same target: RAF proto-oncogene serine/threonine-protein kinase"
+      },
+      {
+        "name": "LY-3009120",
+        "chembl_id": "CHEMBL3577124",
+        "reason": "same target: RAF proto-oncogene serine/threonine-protein kinase"
+      },
+      {
+        "name": "RG-7376",
+        "chembl_id": "CHEMBL3545082",
+        "reason": "same target: RAF proto-oncogene serine/threonine-protein kinase"
+      },
+      {
+        "name": "XL-281",
+        "chembl_id": "CHEMBL3545027",
+        "reason": "same target: RAF proto-oncogene serine/threonine-protein kinase"
+      }
+    ]
+  }
+}

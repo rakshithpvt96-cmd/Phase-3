@@ -1,0 +1,116 @@
+{
+  "drug_name": "Resmetirom",
+  "slug": "resmetirom",
+  "enriched_at": "2026-11-20T16:47:13Z",
+  "source_trial_ids": [
+    "NCT05500222"
+  ],
+  "sponsors": [
+    {
+      "name": "Madrigal Pharmaceuticals, Inc.",
+      "ticker": "MDGL",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001157601&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 15981237,
+    "iupac_name": "2-[3,5-dichloro-4-[(6-oxo-5-propan-2-yl-1H-pyridazin-3-yl)oxy]phenyl]-3,5-dioxo-1,2,4-triazine-6-carbonitrile",
+    "molecular_formula": "C17H12Cl2N6O4",
+    "molecular_weight": "435.2",
+    "canonical_smiles": null,
+    "inchikey": "FDBYIYFVSAHJLY-UHFFFAOYSA-N",
+    "rxnorm": {
+      "rxcui": "2677894",
+      "generic_name": "resmetirom",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL3261331",
+    "target_chembl_id": "CHEMBL1947",
+    "target_name": "Thyroid hormone receptor beta",
+    "mechanism_of_action_chembl": "Thyroid hormone receptor beta-1 agonist"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": "1 INDICATIONS AND USAGE REZDIFFRA ® is indicated in conjunction with diet and exercise for the treatment of adults with noncirrhotic metabolic dysfunction-associated steatohepatitis (MASH), formerly known as nonalcoholic steatohepatitis (NASH), with moderate to advanced liver fibrosis (consistent with stages F2 to F3 fibrosis). This indication is approved under accelerated approval based on improvement of MASH and fibrosis [see Clinical Studies (14) ] . Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trials. Limitations of Use Avoid use of REZDIFFRA in patients with decompensated cirrhosis [see Use in Specific Populations (8.7) , Clinical Pharmacology (12.3) ] . REZDIFFRA ® is a thyroid hormone receptor-beta (THR-beta) agonist indicated in conjunction with diet and exercise for the treatment of adults with noncirrhotic metabolic dysfunction-associated steatohepatitis (MASH), formerly known as nonalcoholic steatohepatitis (NASH), with moderate to advanced liver fibrosis (consistent with stages F2 to F3 fibrosis). This indication is approved under accelerated approval based on improvement of MASH and fibrosis. Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trials. (1) Limitations of Use Avoid use of REZDIFFRA in patients with decompensated cirrhosis. (1)",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "REZDIFFRA"
+    ],
+    "openfda_generic_names": [
+      "RESMETIROM"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e67ea09f-a840-439c-86c8-f98585f978b2",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "NASH",
+    "slug": "nash"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05500222",
+      "title": "A Phase 3 Study to Evaluate the Effect of Resmetirom on Clinical Outcomes in Patients With Well-compensated NASH Cirrhosis (MAESTRO-NASH-OUTCOMES)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05500222",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "43057742",
+        "title": "Metabolic dysfunction associated fatty liver disease (MAFLD), metabolic dysfunction associated steatotic liver disease (MASLD), metabolic associated steatohepatitis (MASH) and obesity.",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43057742/"
+      },
+      {
+        "pmid": "43007925",
+        "title": "Current evidence of real-world experience with resmetirom in clinical practice in the United States: a targeted literature review.",
+        "pubdate": "2026 Nov 13",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43007925/"
+      },
+      {
+        "pmid": "42995030",
+        "title": "Potential for cardiovascular benefits of resmetirom based on LDL-cholesterol and lipoprotein(a) lowering consistent across statin subgroups, a secondary analysis of the MAESTRO-NASH phase 3 clinical trial.",
+        "pubdate": "2026 Oct 15",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42995030/"
+      },
+      {
+        "pmid": "42951905",
+        "title": "Machine learning models of noninvasive tests to predict metabolic dysfunction-associated steatohepatitis and fibrosis stage.",
+        "pubdate": "2026 Nov 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42951905/"
+      },
+      {
+        "pmid": "42943269",
+        "title": "Combination Therapy Potential of HTD1801 (Berberine Ursodeoxycholate) in MASLD/MASH and Cardiovascular-Kidney-Metabolic Disease: A Narrative Review.",
+        "pubdate": "2026 Oct 3",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42943269/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "MB07811",
+        "chembl_id": "CHEMBL471897",
+        "reason": "same target: Thyroid hormone receptor beta"
+      },
+      {
+        "name": "EPROTIROME",
+        "chembl_id": "CHEMBL2035874",
+        "reason": "same target: Thyroid hormone receptor beta"
+      }
+    ]
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "drug_name": "SHR-A2009 monotherapy",
+  "slug": "shr-a2009-monotherapy",
+  "enriched_at": "2026-11-20T16:49:21Z",
+  "source_trial_ids": [
+    "NCT06671379"
+  ],
+  "sponsors": [
+    {
+      "name": "Suzhou Suncadia Biopharmaceuticals Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Suzhou%20Suncadia%20Biopharmaceuticals%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2670812",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL6068589",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=SHR-A2009%20monotherapy+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=SHR-A2009%20monotherapy+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=SHR-A2009%20monotherapy+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Non-small Cell Lung Cancer",
+    "slug": "non-small-cell-lung-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06671379",
+      "title": "A Study of SHR-A2009 Versus Platinum-based Chemotherapy in EGFR-mutated, Advanced or Metastatic NSCLC",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06671379",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "43056694",
+        "title": "Model-based exploration of tamoxifen therapy: addressing exposure and the influence of albumin on proposed endoxifen threshold concentration levels.",
+        "pubdate": "2026 Oct 21",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43056694/"
+      },
+      {
+        "pmid": "43048454",
+        "title": "Comparison of bivalirudin and conventional anticoagulation therapy in percutaneous coronary intervention: a systematic review and meta-analysis.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43048454/"
+      },
+      {
+        "pmid": "43046532",
+        "title": "Ocular hyperemia with netarsudil/latanoprost fixed combination in glaucoma: an exploratory association analysis of tolerability outcomes by prior topical therapy and baseline ocular hyperemia.",
+        "pubdate": "2026 Nov 17",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43046532/"
+      },
+      {
+        "pmid": "43042754",
+        "title": "Edaravone Dexborneol via SLC33A1 Modulates Microglial Lipid Droplet Homeostasis to Suppress Neuronal Necroptosis in Acute Ischemic Stroke.",
+        "pubdate": "2026 Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43042754/"
+      },
+      {
+        "pmid": "43042366",
+        "title": "Microneedling-Assisted Delivery of Topical Adapalene vs Trichloroacetic Acid for the Treatment of Atrophic Postacne Scars: Randomized Controlled Clinical Trial.",
+        "pubdate": "2026 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43042366/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "JDQ443",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Novartis Pharmaceuticals"
+      },
+      {
+        "name": "docetaxel",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Novartis Pharmaceuticals"
+      },
+      {
+        "name": "Pemetrexed",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Innovent Biologics (Suzhou) Co. Ltd."
+      },
+      {
+        "name": "Carboplatin",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Innovent Biologics (Suzhou) Co. Ltd."
+      },
+      {
+        "name": "Paclitaxel",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Innovent Biologics (Suzhou) Co. Ltd."
+      },
+      {
+        "name": "Sintilimab",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Innovent Biologics (Suzhou) Co. Ltd."
+      },
+      {
+        "name": "Cisplatin",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Innovent Biologics (Suzhou) Co. Ltd."
+      },
+      {
+        "name": "Nab paclitaxel",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Innovent Biologics (Suzhou) Co. Ltd."
+      }
+    ]
+  }
+}

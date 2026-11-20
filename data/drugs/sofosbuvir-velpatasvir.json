@@ -1,0 +1,145 @@
+{
+  "drug_name": "Sofosbuvir-Velpatasvir",
+  "slug": "sofosbuvir-velpatasvir",
+  "enriched_at": "2026-11-20T16:49:43Z",
+  "source_trial_ids": [
+    "NCT07037277"
+  ],
+  "sponsors": [
+    {
+      "name": "Atea Pharmaceuticals, Inc.",
+      "ticker": "AVIR",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001593899&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1799211",
+      "generic_name": "sofosbuvir / velpatasvir",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL3545062",
+    "target_chembl_id": "CHEMBL3307224",
+    "target_name": "Nonstructural protein 5A",
+    "mechanism_of_action_chembl": "Nonstructural protein 5A inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action VOSEVI is a fixed-dose combination of sofosbuvir, velpatasvir, and voxilaprevir which are DAA agents against the hepatitis C virus [see Microbiology (12.4) ].",
+    "pharmacokinetics": "12.3 Pharmacokinetics The pharmacokinetic properties of the components of VOSEVI are provided in Table 4. The multiple dose pharmacokinetic parameters of sofosbuvir and its metabolite GS-331007, velpatasvir, and voxilaprevir are provided in Table 5. Table 4 Pharmacokinetic Properties of the Components of VOSEVI Sofosbuvir Velpatasvir Voxilaprevir CES1 = carboxylesterase 1; HINT1 = histidine triad nucleotide-binding protein 1. Absorption T max (h) 2 4 4 Effect of food (relative to fasting) Values refer to geometric mean systemic exposure. VOSEVI should be taken with food. ↑ 64% to 144% ↑ 40% to 166% ↑ 112% to 435% Distribution % Bound to human plasma proteins 61–65 >99 >99 Blood-to-plasma ratio 0.7 0.5–0.7 0.5–0.8 Metabolism Metabolism Cathepsin A CES1 HINT1 CYP2B6 CYP2C8 CYP3A4 CYP3A4 Elimination Major route of elimination SOF: metabolism GS-331007 GS-331007 is the primary circulating nucleotide metabolite of SOF. : glomerular filtration and active tubular secretion Biliary excretion Biliary excretion t 1/2 (h) t 1/2 values refer to median terminal plasma half-life. SOF: 0.5 GS-331007 : 29 17 33 % Of dose excreted in urine Single dose administration of [ 14 C] SOF, [ 14 C] VEL, [ 14 C] VOX in mass balance studies. 80 Predominantly as GS-331007. 0.4 0 % Of dose excreted in feces 14 94 (77% Percent of dose. as parent) 94 (40% as parent) Table 5 Multiple Dose Pharmacokinetic Parameters of Sofosbuvir and its Metabolite, GS-331007, Velpatasvir, and Voxilaprevir Following Oral Administration in HCV-Infected Adults Parameter Mean (%CV) Sofosbuvir From Population PK analysis, N = 1038 GS-331007 From Population PK analysis, N = 1593 Velpatasvir From Population PK analysis, N = 1595 Voxilaprevir From Population PK analysis, N = 1591 CV = coefficient of variation; NA = not applicable. C max (nanogram per mL) 678 (35.4) 744 (28.3) 311 (56.1) 192 (85.8) AUC tau (nanogram∙hr per mL) 1665 (30.1) 12834 (29.0) 4041 (48.6) 2577 (73.7) C trough (nanogram per mL) NA NA 51 (64.7) 47 (82.0) Sofosbuvir and GS-331007 AUC 0–24 and C max were similar in healthy adult subjects and subjects with HCV infection. Relative to healthy subjects (N=137), velpatasvir AUC 0–24 and C max were 41% lower and 39% lower, respectively, in HCV-infected subjects. Relative to healthy subjects (N=63), voxilaprevir AUC 0–24 and C max were both 260% higher in HCV-infected subjects. Sofosbuvir and GS-331007 AUCs are near dose-proportional over the dose range of 200 mg to 1200 mg. Velpatasvir AUC increases in a greater than proportional manner from 5 to 50 mg and in a less than proportional manner from 50 to 450 mg in healthy volunteers. However, velpatasvir exhibited near dose-proportional increase in exposures 25 mg to 150 mg in HCV-infected patients. Voxilaprevir AUC increases in a greater than proportional manner over the dose range of 100 to 900 mg when administered with food. Specific Populations Pediatric Patients: The pharmacokinetics of VOSEVI in pediatric patients has not been established [see Use in Specific Populations (8.4) ]. Geriatric Patients: Population pharmacokinetic analysis in HCV-infected subjects showed that within the age range (18 to 85 years) analyzed, age did not have a clinically relevant effect on the exposure to sofosbuvir, GS-331007, velpatasvir, or voxilaprevir [see Use in Specific Populations (8.5) ]. Patients with Renal Impairment: The pharmacokinetics of sofosbuvir were studied in HCV-negative subjects with mild (eGFR between 50 to less than 80 mL/min/1.73 m 2 ), moderate (eGFR between 30 to less than 50 mL/min/1.73 m 2 ), severe renal impairment (eGFR less than 30 mL/min/1.73 m 2 ), and subjects with ESRD requiring hemodialysis following a single 400 mg dose of sofosbuvir. Relative to subjects with normal renal function (eGFR greater than 80 mL/min/1.73 m 2 ), the sofosbuvir AUC 0–inf was 61%, 107%, and 171% higher in subjects with mild, moderate, and severe renal impairment, while the GS-331007 AUC 0–inf was 55%, 88%, and 451% higher, respectively. In subjects with ESRD, relative to subjects with normal renal function, sofosbuvir and GS-331007 AUC 0–inf was 28% and 1280% higher when sofosbuvir was dosed 1 hour before hemodialysis compared with 60% and 2070% higher when sofosbuvir was dosed 1 hour after hemodialysis, respectively. A 4-hour hemodialysis session removed approximately 18% of administered dose of sofosbuvir [see Dosage and Administration (2.3) and Use in Specific Populations (8.6) ]. The pharmacokinetics of velpatasvir were studied with a single dose of 100 mg velpatasvir in HCV-negative subjects with severe renal impairment (eGFR less than 30 mL/min by Cockcroft-Gault). No clinically relevant differences in velpatasvir pharmacokinetics were observed between healthy subjects and subjects with severe renal impairment. The pharmacokinetics of voxilaprevir were studied with a single dose of 100 mg voxilaprevir in HCV-negative subjects with severe renal impairment (eGFR < 30 mL/min by Cockcroft-Gault). No clinically relevant differences in voxilaprevir pharmacokinetics were observed between healthy subjects and subjects with severe renal impairment. The pharmacokinetics of sofosbuvir, GS-331007, and velpatasvir were studied in HCV-infected subjects with ESRD requiring dialysis treated with once daily sofosbuvir/velpatasvir 400/100 mg for 12 weeks. The results were consistent with those observed in HCV negative subjects with ESRD requiring dialysis. The pharmacokinetics of voxilaprevir have not been studied in subjects with ESRD. However, voxilaprevir exposure following administration of VOSEVI is not expected to be meaningfully altered in HCV-infected subjects with ESRD requiring dialysis compared to subjects with normal renal function. Patients with Hepatic Impairment: The pharmacokinetics of sofosbuvir were studied following 7-day dosing of 400 mg sofosbuvir in HCV-infected subjects with moderate and severe hepatic impairment (Child-Pugh B and C). Relative to subjects with normal hepatic function, the sofosbuvir AUC 0–24 was 126% and 143% higher in subjects with moderate and severe hepatic impairment, respectively, while the GS-331007 AUC 0–24 was 18% and 9% higher, respectively. Population pharmacokinetic analysis in HCV-infected subjects indicated that compensated cirrhosis (Child-Pugh A) had no clinically relevant effect on the exposure of sofosbuvir and GS-331007. The pharmacokinetics of velpatasvir were studied with a single dose of 100 mg velpatasvir in HCV-negative subjects with moderate and severe hepatic impairment (Child-Pugh B and C). Velpatasvir plasma exposure (AUC inf ) was similar in subjects with moderate hepatic impairment, severe hepatic impairment, and control subjects with normal hepatic function. Population pharmacokinetic analysis in HCV-infected subjects indicated that compensated cirrhosis (Child-Pugh A) had no clinically relevant effect on the exposure of velpatasvir. The pharmacokinetics of voxilaprevir were studied with a single dose of 100 mg voxilaprevir in HCV-negative subjects with moderate and severe hepatic impairment (Child-Pugh B and C). Relative to subjects with normal hepatic function, the voxilaprevir AUC inf was 299% and 500% higher in subjects with moderate and severe hepatic impairment, respectively. Population pharmacokinetic analysis in HCV-infected subjects indicated that subjects with compensated cirrhosis (Child-Pugh A) had 73% higher exposure of voxilaprevir than those without cirrhosis [see Dosage and Administration (2.4) and Use in Specific Populations (8.7) ]. Race and Gender: Population pharmacokinetics analysis in HCV-infected subjects indicated that race and gender had no clinically relevant effect on the exposure of sofosbuvir, GS-331007, velpatasvir, or voxilaprevir. Drug Interaction Studies After oral administration of VOSEVI, sofosbuvir is rapidly absorbed and subject to extensive first-pass hepatic extraction (hydrolysis followed by sequential phosphorylation) to form the pharmacologically active triphosphate. In clinical pharmacology studies, both sofosbuvir and the primary circulating metabolite GS-331007 (dephosphorylated nucleotide metabolite) were monitored for purposes of pharmacokinetic analyses. Sofosbuvir, velpatasvir, and voxilaprevir are substrates of drug transporters P-gp and BCRP while GS-331007 is not. Voxilaprevir, and to a lesser extent velpatasvir, are also substrates of OATP1B1 and OATP1B3. In vitro, slow metabolic turnover of velpatasvir by CYP2B6, CYP2C8, and CYP3A4 and of voxilaprevir by CYP1A2, CYP2C8, and primarily CYP3A4 was observed. Inducers of P-gp and/or moderate to strong inducers of CYP2B6, CYP2C8, or CYP3A4 (e.g., St. John's wort, carbamazepine) may significantly decrease plasma concentrations of sofosbuvir, velpatasvir, and/or voxilaprevir leading to reduced therapeutic effect of VOSEVI [see Contraindications (4) , Warnings and Precautions (5.4) , and Drug Interactions (7.3) ]. Coadministration with drugs that inhibit P-gp and/or BCRP may increase sofosbuvir, velpatasvir, and/or voxilaprevir plasma concentrations without increasing GS-331007 plasma concentration. Coadministration with drugs that inhibit OATP may increase voxilaprevir plasma concentrations. Drugs that inhibit CYP2B6, CYP2C8, or CYP3A4 may increase plasma concentration of velpatasvir and/or voxilaprevir. Sofosbuvir and GS-331007 are not inhibitors of drug transporters P-gp, BCRP, OATP1B1, OATP1B3, or OCT1 and GS-331007 is not an inhibitor of OAT1, OAT3, OCT2, or MATE1. Sofosbuvir and GS-331007 are not inhibitors or inducers of CYP or UGT1A1 enzymes. Velpatasvir is an inhibitor of drug transporters P-gp, BCRP, OATP1B1, OATP1B3, and OATP2B1, and its involvement in drug interactions with these transporters is primarily limited to the process of absorption. At clinically relevant concentrations, velpatasvir is not an inhibitor of hepatic transporters OATP1A2 or OCT1, renal transporters OCT2, OAT1, OAT3 or MATE1, or CYP or UGT1A1 enzymes. Voxilaprevir is an inhibitor of drug transporters P-gp, BCRP, OATP1B1, and OATP1B3, and its involvement in drug interactions with these transporters is primarily limited to the process of absorption. At clinically relevant concentrations, voxilaprevir is not an inhibitor of hepatic transporters OCT1, renal transporters OCT2, OAT1, OAT3, or MATE1, or CYP or UGT1A1 enzymes. The effects of coadministered drugs on the exposure of sofosbuvir, GS-331007, velpatasvir, and voxilaprevir are shown in Table 6. The effects of sofosbuvir, velpatasvir, voxilaprevir, sofosbuvir/velpatasvir, or VOSEVI on the exposure of coadministered drugs are shown in Table 7 [see Drug Interactions (7) ] . Table 6 Drug Interactions: Changes in Pharmacokinetic Parameters for Sofosbuvir, GS-331007, Velpatasvir, and Voxilaprevir in the Presence of the Coadministered Drug All interaction studies conducted in healthy volunteers. Coadministered Drug Sofosbuvir (SOF)/ Velpatasvir (VEL)/Voxilaprevir (VOX) N Geometric Mean Ratio (90% CI) of Sofosbuvir, GS-331007, Velpatasvir, and Voxilaprevir PK With/Without Coadministered Drug No Effect=1.00 Drug Dosage (mg) Active Component Dosage (mg) Component C max AUC C min NA = not available/not applicable, ND = not dosed. Atazanavir + ritonavir 300 + 100 single dose SOF/VEL/VOX 400/100/100 single dose 15 sofosbuvir 1.29 (1.09, 1.52) 1.40 (1.25, 1.57) NA GS-331007 1.05 (0.99, 1.12) 1.25 (1.16, 1.36) NA velpatasvir 1.29 (1.07, 1.56) 1.93 (1.58, 2.36) NA voxilaprevir 4.42 (3.65, 5.35) 4.31 (3.76, 4.93) NA Carbamazepine 300 twice daily SOF 400 single dose 24 sofosbuvir 0.52 (0.43, 0.62) 0.52 (0.46, 0.59) NA GS-331007 1.04 (0.97, 1.11) 0.99 (0.94, 1.04) NA Cyclosporine 600 single dose SOF 400 single dose 19 sofosbuvir 2.54 (1.87, 3.45) 4.53 (3.26, 6.30) NA GS-331007 0.60 (0.53, 0.69) 1.04 (0.90, 1.20) NA VEL 100 single dose 12 velpatasvir 1.56 (1.22, 2.01) 2.03 (1.51, 2.71) NA VOX 100 single dose 25 voxilaprevir 19.02 (14.12, 25.62) 9.39 (7.37, 11.96) NA Darunavir + ritonavir + emtricitabine/ tenofovir DF 800 + 100 + 200/300 once daily SOF/VEL/VOX + VOX 400/100/100 + 100 once daily 29 sofosbuvir 0.70 (0.62, 0.78) 0.78 (0.73, 0.83) NA GS-331007 1.06 (1.01, 1.10) 1.15 (1.12, 1.19) NA velpatasvir 0.78 (0.73, 0.84) 0.95 (0.88, 1.02) 1.16 (1.07, 1.26) voxilaprevir 1.72 (1.51, 1.97) 2.43 (2.15, 2.75) 4.00 (3.44, 4.65) Dolutegravir 50 once daily SOF/VEL 400/100 once daily 24 sofosbuvir 0.88 (0.80, 0.98) 0.92 (0.85, 0.99) NA GS-331007 1.01 (0.93, 1.10) 0.99 (0.97, 1.01) 0.99 (0.97, 1.01) velpatasvir 0.94 (0.86, 1.02) 0.91 (0.84, 0.98) 0.88 (0.82, 0.94) Efavirenz/emtricitabine/tenofovir DF Administered as ATRIPLA ® (efavirenz, emtricitabine, and tenofovir DF fixed-dose combination). 600/200/300 once daily SOF/VEL 400/100 once daily 14 sofosbuvir 1.38 (1.14, 1.67) 0.97 (0.83, 1.14) NA GS-331007 0.86 (0.80, 0.93) 0.90 (0.85, 0.96) 1.01 (0.95, 1.07) velpatasvir 0.53 (0.43, 0.64) 0.47 (0.39, 0.57) 0.43 (0.36, 0.52) Elvitegravir/cobicistat/ emtricitabine/tenofovir alafenamide Administered as GENVOYA ® (elvitegravir, cobicistat, emtricitabine, and tenofovir alafenamide fixed-dose combination). 150/150/200/ 10 once daily SOF/VEL/VOX + VOX 400/100/100 + 100 once daily 29 sofosbuvir 1.27 (1.09, 1.48) 1.22 (1.12, 1.32) NA GS-331007 1.28 (1.25, 1.32) 1.43 (1.39, 1.47) NA velpatasvir 0.96 (0.89, 1.04) 1.16 (1.06, 1.27) 1.46 (1.30, 1.64) voxilaprevir 1.92 (1.63, 2.26) 2.71 (2.30, 3.19) 4.50 (3.68, 5.50) Ketoconazole 200 twice daily VEL 100 single dose 12 velpatasvir 1.29 (1.02, 1.64) 1.71 (1.35, 2.18) NA Methadone 30 to 130 daily SOF 400 once daily 14 sofosbuvir 0.95 (0.68, 1.33) 1.30 (1.00, 1.69) NA GS-331007 0.73 (0.65, 0.83) 1.04 (0.89, 1.22) NA Omeprazole 20 once daily 2 hours prior to VOSEVI SOF/VEL/VOX 400/100/100 single dose 34 sofosbuvir 0.77 (0.65, 0.91) 0.73 (0.67, 0.79) NA GS-331007 1.27 (1.20, 1.34) 0.97 (0.94, 1.01) NA velpatasvir 0.43 (0.38, 0.49) 0.46 (0.41, 0.52) NA voxilaprevir 0.76 (0.69, 0.85) 0.80 (0.74, 0.87) NA 20 once daily 4 hours after VOSEVI SOF/VEL/ VOX 400/100/100 single dose 34 sofosbuvir 0.94 (0.83, 1.06) 0.82 (0.77, 0.87) NA GS-331007 1.19 (1.13, 1.26) 0.99 (0.97, 1.01) NA velpatasvir 0.49 (0.43, 0.55) 0.49 (0.43, 0.55) NA voxilaprevir 1.08 (0.96, 1.22) 0.95 (0.88, 1.03) NA Rifabutin 300 once daily SOF 400 single dose 20 Sofosbuvir 0.64 (0.53, 0.77) 0.76 (0.63, 0.91) NA GS-331007 1.15 (1.03, 1.27) 1.03 (0.95, 1.12) NA Rifampin 600 once daily SOF 400 single dose 17 sofosbuvir 0.23 (0.19, 0.29) 0.28 (0.24, 0.32) NA GS-331007 1.23 (1.14, 1.34) 0.95 (0.88, 1.03) NA VEL 100 single dose 12 velpatasvir 0.29 (0.23, 0.37) 0.18 (0.15, 0.22) NA VOX 100 single dose 24 voxilaprevir 0.91 (0.76, 1.10) 0.27 (0.23, 0.31) NA 600 single dose VEL 100 single dose 12 velpatasvir 1.28 (1.05, 1.56) 1.46 (1.17, 1.83) NA VOX 100 single dose 24 voxilaprevir 11.10 (8.23, 14.98) 7.91 (6.20, 10.09) NA Tacrolimus 5 single dose SOF 400 single dose 16 sofosbuvir 0.97 (0.65, 1.43) 1.13 (0.81, 1.57) NA GS-331007 0.97 (0.83, 1.14) 1.00 (0.87, 1.13) NA Voriconazole 200 twice daily VOX 100 single dose 24 voxilaprevir 1.13 (0.98, 1.31) 1.84 (1.66, 2.03) NA No effect on the pharmacokinetic parameters of sofosbuvir, GS-331007, velpatasvir, or voxilaprevir was observed with the combination of emtricitabine, rilpivirine, and tenofovir alafenamide; famotidine; gemfibrozil; or the combination of raltegravir, emtricitabine, and tenofovir DF. Table 7 Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of Sofosbuvir, Velpatasvir, Voxilaprevir, or VOSEVI All interaction studies conducted in healthy volunteers. Coadministered Drug Sofosbuvir (SOF)/ Velpatasvir (VEL)/Voxilaprevir (VOX) N Geometric Mean Ratio (90% CI) of Coadministered Drug PK With/Without Sofosbuvir, Velpatasvir, Voxilaprevir, or VOSEVI No Effect=1.00 Drug Dosage (mg) Active Component Dosage (mg) C max AUC C min NA = not available/not applicable. Atorvastatin 40 single dose SOF/VEL 400/100 once daily 26 1.68 (1.49, 1.89) 1.54 (1.45, 1.64) NA Cyclosporine 600 single dose SOF 400 single dose 19 1.06 (0.94, 1.18) 0.98 (0.85, 1.14) NA VEL 100 single dose 12 0.92 (0.82, 1.02) 0.88 (0.78, 1.00) NA VOX 100 single dose 24 0.95 (0.88, 1.03) 0.94 (0.84, 1.06) NA Dabigatran etexilate 75 single dose SOF/VEL/VOX + VOX 400/100/100 + 100 once daily 36 2.87 (2.61, 3.15) 2.61 (2.41, 2.82) NA Darunavir + ritonavir + emtricitabine/tenofovir DF Comparison based on exposures when administered as darunavir + ritonavir + emtricitabine/tenofovir DF. darunavir 800 once daily SOF/VEL/VOX + VOX 400/100/100 + 100 once daily 29 0.89 (0.85, 0.94) 0.86 (0.81, 0.91) 0.66 (0.58, 0.74) ritonavir 100 once daily 1.60 (1.47, 1.75) 1.45 (1.35, 1.57) 0.80 (0.72, 0.89) emtricitabine 200 once daily 0.88 (0.82, 0.94) 0.99 (0.96, 1.03) 1.20 (1.15, 1.26) tenofovir DF 300 once daily 1.48 (1.36, 1.61) 1.39 (1.32, 1.46) 1.47 (1.38, 1.56) Digoxin 0.25 single dose VEL 100 once daily 21 1.88 (1.71, 2.08) 1.34 (1.13, 1.60) NA Efavirenz/emtricitabine/tenofovir DF Administered as ATRIPLA (efavirenz, emtricitabine, and tenofovir DF fixed-dose combination). efavirenz 600 once daily SOF/VEL 400/100 once daily 15 0.81 (0.74, 0.89) 0.85 (0.80, 0.91) 0.90 (0.85, 0.95) emtricitabine 200 once daily 1.07 (0.98, 1.18) 1.07 (1.00, 1.14) 1.10 (0.97, 1.25) tenofovir DF 300 once daily 1.77 (1.53, 2.04) 1.81 (1.68, 1.94) 2.21 (2.00, 2.43) Elvitegravir/cobicistat/ emtricitabine/tenofovir alafenamide Administered as GENVOYA (elvitegravir, cobicistat, emtricitabine, and tenofovir alafenamide fixed-dose combination). elvitegravir 150 once daily SOF/VEL/VOX + VOX 400/100/100 + 100 once daily 29 0.79 (0.75, 0.85) 0.94 (0.88, 1.00) 1.32 (1.17, 1.49) cobicistat 150 once daily 1.23 (1.18, 1.28) 1.50 (1.44, 1.58) 3.50 (3.01, 4.07) emtricitabine 200 once daily 0.87 (0.84, 0.91) 0.96 (0.94, 0.99) 1.14 (1.09, 1.20) tenofovir alafenamide 10 once daily 0.79 (0.68, 0.92) 0.93 (0.85, 1.01) NA Emtricitabine/rilpivirine/tenofovir alafenamide Administered as ODEFSEY ® (emtricitabine, rilpivirine, and tenofovir alafenamide fixed-dose combination). emtricitabine 200 once daily SOF/VEL/VOX + VOX 400/100/100 + 100 once daily 30 0.88 (0.83, 0.93) 0.93 (0.90, 0.96) 1.07 (1.01, 1.14) rilpivirine 25 once daily 0.79 (0.74, 0.84) 0.80 (0.76, 0.85) 0.82 (0.77, 0.87) tenofovir alafenamide 25 once daily 1.32 (1.17, 1.48) 1.52 (1.43, 1.61) NA Pravastatin 40 single dose SOF/VEL/VOX + VOX 400/100/100 + 100 once daily 19 1.89 (1.53, 2.34) 2.16 (1.79, 2.60) NA Rosuvastatin 10 single dose SOF/VEL/VOX + VOX 400/100/100 + 100 once daily 19 18.88 (16.23, 21.96) 7.39 (6.68, 8.18) NA Raltegravir + emtricitabine/tenofovir DF emtricitabine 200 once daily SOF/VEL 400/100 once daily 30 1.08 (1.04, 1.12) 1.05 (1.03, 1.07) 1.02 (0.97, 1.08) tenofovir DF 300 once daily 1.46 (1.39, 1.54) 1.40 (1.34, 1.45) 1.70 (1.61, 1.79) raltegravir 400 twice daily 1.03 (0.74, 1.43) 0.97 (0.73, 1.28) 0.79 (0.42, 1.48) Tacrolimus 5 single dose SOF 400 once daily 16 0.73 (0.59, 0.90) 1.09 (0.84, 1.40) NA No effect on the pharmacokinetic parameters of the following coadministered drugs was observed with VOSEVI (ethinyl estradiol/norgestimate) or its components sofosbuvir/velpatasvir (dolutegravir) or sofosbuvir (methadone).",
+    "indications_and_usage": "1 INDICATIONS AND USAGE VOSEVI is indicated for the treatment of adult patients with chronic hepatitis C virus (HCV) infection without cirrhosis or with compensated cirrhosis (Child-Pugh A) who have [see Dosage and Administration (2.2) and Clinical Studies (14) ]: genotype 1, 2, 3, 4, 5, or 6 infection and have previously been treated with an HCV regimen containing an NS5A inhibitor. genotype 1a or 3 infection and have previously been treated with an HCV regimen containing sofosbuvir without an NS5A inhibitor. Additional benefit of VOSEVI over sofosbuvir/velpatasvir was not shown in adults with genotype 1b, 2, 4, 5, or 6 infection previously treated with sofosbuvir without an NS5A inhibitor. VOSEVI is a fixed-dose combination of sofosbuvir, a hepatitis C virus (HCV) nucleotide analog NS5B polymerase inhibitor, velpatasvir, an HCV NS5A inhibitor, and voxilaprevir, an HCV NS3/4A protease inhibitor, and is indicated for the treatment of adult patients with chronic HCV infection without cirrhosis or with compensated cirrhosis (Child-Pugh A) who have ( 1 , 2.2 , 14 ): genotype 1, 2, 3, 4, 5, or 6 infection and have previously been treated with an HCV regimen containing an NS5A inhibitor. genotype 1a or 3 infection and have previously been treated with an HCV regimen containing sofosbuvir without an NS5A inhibitor. Additional benefit of VOSEVI over sofosbuvir/velpatasvir was not shown in adults with genotype 1b, 2, 4, 5, or 6 infection previously treated with sofosbuvir without an NS5A inhibitor.",
+    "boxed_warning": "WARNING: RISK OF HEPATITIS B VIRUS REACTIVATION IN PATIENTS COINFECTED WITH HCV AND HBV Test all patients for evidence of current or prior hepatitis B virus (HBV) infection before initiating treatment with VOSEVI. HBV reactivation has been reported in HCV/HBV coinfected patients who were undergoing or had completed treatment with HCV direct-acting antivirals (DAA) and were not receiving HBV antiviral therapy. Some cases have resulted in fulminant hepatitis, hepatic failure, and death. Monitor HCV/HBV coinfected patients for hepatitis flare or HBV reactivation during HCV treatment and post-treatment follow-up. Initiate appropriate patient management for HBV infection as clinically indicated [see Warnings and Precautions (5.1) ]. WARNING: RISK OF HEPATITIS B VIRUS REACTIVATION IN PATIENTS COINFECTED WITH HCV AND HBV See full prescribing information for complete boxed warning. Hepatitis B virus (HBV) reactivation has been reported, in some cases resulting in fulminant hepatitis, hepatic failure, and death. ( 5.1 )",
+    "openfda_brand_names": [
+      "Vosevi"
+    ],
+    "openfda_generic_names": [
+      "SOFOSBUVIR, VELPATASVIR, AND VOXILAPREVIR"
+    ],
+    "dailymed_url": null,
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "HEPATITIS C VIRUS CHRONIC INFECTION",
+    "slug": "hepatitis-c-virus-chronic-infection"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07037277",
+      "title": "C-Forward: Efficacy and Safety of BEM/RZR vs SOF/VEL in Subjects With Chronic HCV",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07037277",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42922282",
+        "title": "Rare and Novel Hepatitis C Virus Genotype Subtypes and Response to Sofosbuvir/Velpatasvir in A5360 (MINMON) Clinical Trial.",
+        "pubdate": "2026 Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42922282/"
+      },
+      {
+        "pmid": "42815507",
+        "title": "8 weeks versus 12 weeks of sofosbuvir-velpatasvir for treatment-naive, non-cirrhotic, chronic hepatitis C (RESOLVE): a multicentre, open-label, non-inferiority, randomised controlled trial in India.",
+        "pubdate": "2026 Oct 17",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42815507/"
+      },
+      {
+        "pmid": "42558970",
+        "title": "Evaluation of the Safety and Efficacy of SOF/VEL Treatment and Pre-treatment of TAF in Patients with Chronic Hepatitis B Virus/Hepatitis C Virus Coinfection: A Multicenter Study.",
+        "pubdate": "2026 Jul 28",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42558970/"
+      },
+      {
+        "pmid": "42379314",
+        "title": "A precision randomized trial of hepatitis C treatment support among people who inject drugs in India: The STOP-C trial.",
+        "pubdate": "2026 Jun 30",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42379314/"
+      },
+      {
+        "pmid": "41754612",
+        "title": "Predictive Value of Sustained Virologic Response at Week 4 in Patients with Hepatitis C Virus Infection Treated with Sofosbuvir/Velpatasvir.",
+        "pubdate": "2026 Feb 21",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41754612/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "LEDIPASVIR",
+        "chembl_id": "CHEMBL2374220",
+        "reason": "same target: Nonstructural protein 5A"
+      },
+      {
+        "name": "OMBITASVIR",
+        "chembl_id": "CHEMBL3127326",
+        "reason": "same target: Nonstructural protein 5A"
+      },
+      {
+        "name": "DACLATASVIR DIHYDROCHLORIDE",
+        "chembl_id": "CHEMBL2303621",
+        "reason": "same target: Nonstructural protein 5A"
+      },
+      {
+        "name": "ELBASVIR",
+        "chembl_id": "CHEMBL3039514",
+        "reason": "same target: Nonstructural protein 5A"
+      },
+      {
+        "name": "PIBRENTASVIR",
+        "chembl_id": "CHEMBL3545123",
+        "reason": "same target: Nonstructural protein 5A"
+      },
+      {
+        "name": "RUZASVIR",
+        "chembl_id": "CHEMBL3971095",
+        "reason": "same target: Nonstructural protein 5A"
+      },
+      {
+        "name": "RAVIDASVIR",
+        "chembl_id": "CHEMBL3121849",
+        "reason": "same target: Nonstructural protein 5A"
+      },
+      {
+        "name": "ODALASVIR",
+        "chembl_id": "CHEMBL3544977",
+        "reason": "same target: Nonstructural protein 5A"
+      },
+      {
+        "name": "SAMATASVIR",
+        "chembl_id": "CHEMBL3039519",
+        "reason": "same target: Nonstructural protein 5A"
+      }
+    ]
+  }
+}
