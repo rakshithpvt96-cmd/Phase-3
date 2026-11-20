@@ -1,7 +1,7 @@
 {
   "drug_name": "Ianalumab",
   "slug": "ianalumab",
-  "enriched_at": "2026-11-13T15:20:41Z",
+  "enriched_at": "2026-11-20T16:18:19Z",
   "source_trial_ids": [
     "NCT05653349"
   ],
@@ -94,6 +94,12 @@
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": []
+    "items": [
+      {
+        "name": "Human immunoglobulin (pH4) for intravenous injection",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Grand Shuyang Life Sciences (Chengdu) Co., Ltd."
+      }
+    ]
   }
 }

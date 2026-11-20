@@ -1,14 +1,11 @@
 {
   "drug_name": "Capecitabine",
   "slug": "capecitabine",
-  "enriched_at": "2026-10-18T11:59:21Z",
+  "enriched_at": "2026-11-20T16:08:28Z",
   "source_trial_ids": [
     "NCT05568095",
     "NCT05717764",
-    "NCT06018337",
-    "NCT06118333",
-    "NCT06343948",
-    "NCT06519370"
+    "NCT06118333"
   ],
   "sponsors": [
     {
@@ -22,18 +19,6 @@
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=CSPC%20Zhongnuo%20Pharmaceutical%20%28Shijiazhuang%29%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
-      "name": "DualityBio Inc.",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=DualityBio%20Inc.&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
-      "name": "Shanghai Fudan-Zhangjiang Bio-Pharmaceutical Co., Ltd.",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Shanghai%20Fudan-Zhangjiang%20Bio-Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Sichuan Baili Pharmaceutical Co., Ltd.",
@@ -79,8 +64,8 @@
     "further_reading": null
   },
   "condition": {
-    "raw": "HR+HER2- Breast Cancer",
-    "slug": "hr-her2-breast-cancer"
+    "raw": "Advanced Upper Gastrointestinal Tract Adenocarcinoma",
+    "slug": "advanced-upper-gastrointestinal-tract-adenocarcinoma"
   },
   "source_trials": [
     {
@@ -98,31 +83,10 @@
       "has_results": false
     },
     {
-      "nct_id": "NCT06018337",
-      "title": "A Study of DB-1303/BNT323 vs Investigator's Choice Chemotherapy in HER2-Low, Hormone Receptor Positive Metastatic Breast Cancer (DYNASTY-Breast02)",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06018337",
-      "has_results": false
-    },
-    {
       "nct_id": "NCT06118333",
       "title": "A Study Comparing BL-B01D1 With Physician's Choice of Chemotherapy in Patients With Recurrent or Metastatic Nasopharyngeal Carcinoma(PANKU-NPC01)",
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT06118333",
-      "has_results": false
-    },
-    {
-      "nct_id": "NCT06343948",
-      "title": "A Study Comparing BL-B01D1 With Chemotherapy of Physician's Choice in Patients With Unresectable Locally Advanced, Recurrent, or Metastatic HR+HER2- Breast Cancer(PANKU-Breast01)",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06343948",
-      "has_results": false
-    },
-    {
-      "nct_id": "NCT06519370",
-      "title": "FDA018-ADC vs Investigator's Choice Chemotherapy to Treat Locally Advanced, Recurrent or Metastatic Triple-negative Breast Cancer",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06519370",
       "has_results": false
     }
   ],
@@ -130,34 +94,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42802176",
-        "title": "Disitamab vedotin for HER2-positive breast cancer with liver metastases: phase 3 results from the RC48-C006 phase 2/3 trial.",
-        "pubdate": "2026 Aug 27",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42802176/"
+        "pmid": "43025953",
+        "title": "Neoadjuvant chemotherapy followed by surgery versus upfront surgery for mid-to-high rectal cancer with cT3a-bN0-1 (NESAR): study protocol for a multicentre, randomised, phase 3 trial.",
+        "pubdate": "2026 Nov 13",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43025953/"
       },
       {
-        "pmid": "42781458",
-        "title": "HER2-directed therapy with Trastuzumab deruxtecan in recurrent mucinous ovarian carcinoma: complete clinical response and response to rechallenge.",
-        "pubdate": "2026 Oct",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42781458/"
+        "pmid": "43019770",
+        "title": "Interpretable Prediction of Lymphopenia Following Neoadjuvant Chemoradiotherapy for rectal Cancer: An Analysis of the ARISTOTLE randomized phase 3 Trial.",
+        "pubdate": "2026 Oct 14",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43019770/"
       },
       {
-        "pmid": "42733563",
-        "title": "Short-term versus long-course neoadjuvant chemotherapy for resectable and borderline resectable pancreatic ductal adenocarcinoma (PACT-21 CASSANDRA): results from the second randomisation analysis of a randomised, open-label, 2 × 2 factorial phase 3 trial.",
-        "pubdate": "2026 Sep",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42733563/"
+        "pmid": "42979888",
+        "title": "[Sustained disease control with sacituzumab govitecan in a patient with HR+/HER2- metastatic breast cancer resistant to endocrine therapy, with a high tumour burden and limited benefit from standard chemotherapy.].",
+        "pubdate": "2026 Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42979888/"
       },
       {
-        "pmid": "42682310",
-        "title": "The safety of laparoscopic D2 distal gastrectomy following neoadjuvant chemotherapy for locally advanced gastric cancer patients: a prospective multicenter trial (CLASS-03a).",
-        "pubdate": "2026 Apr",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42682310/"
+        "pmid": "42970014",
+        "title": "Glycoprotein nonmetastatic melanoma protein B overexpression-a marker of resistance to cyclin-dependent kinase 4 and 6 inhibitors.",
+        "pubdate": "2026 Nov 2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42970014/"
       },
       {
-        "pmid": "42675036",
-        "title": "First-line anlotinib versus bevacizumab plus CapeOX in RAS/BRAF wild-type unresectable metastatic colorectal cancer (ANCHOR): a multicenter, prospective, randomized, phase 3 trial.",
-        "pubdate": "2026 Sep 1",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42675036/"
+        "pmid": "42933459",
+        "title": "Izalontamab brengitecan for HR+/HER2- breast cancer in China (PANKU-Breast01): a randomised, phase 3 trial.",
+        "pubdate": "2026 Oct 26",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42933459/"
       }
     ]
   },

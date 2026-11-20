@@ -1,0 +1,119 @@
+{
+  "drug_name": "Crofelemer Powder for Oral Solution",
+  "slug": "crofelemer-powder-for-oral-solution",
+  "enriched_at": "2026-11-20T16:10:29Z",
+  "source_trial_ids": [
+    "NCT06721871"
+  ],
+  "sponsors": [
+    {
+      "name": "Napo Pharmaceuticals, Inc.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Napo%20Pharmaceuticals%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1364449",
+      "generic_name": "crofelemer",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2108184",
+    "target_chembl_id": "CHEMBL4051",
+    "target_name": "Cystic fibrosis transmembrane conductance regulator",
+    "mechanism_of_action_chembl": "Cystic fibrosis transmembrane conductance regulator inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Crofelemer%20Powder%20for%20Oral%20Solution+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Crofelemer%20Powder%20for%20Oral%20Solution+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Crofelemer%20Powder%20for%20Oral%20Solution+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Microvillus Inclusion Disease",
+    "slug": "microvillus-inclusion-disease"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06721871",
+      "title": "Ascending Doses of Crofelemer Powder for Oral Solution in Pediatric Microvillus Inclusion Disease (MVID)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06721871",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "IVACAFTOR",
+        "chembl_id": "CHEMBL2010601",
+        "reason": "same target: Cystic fibrosis transmembrane conductance regulator"
+      },
+      {
+        "name": "LUMACAFTOR",
+        "chembl_id": "CHEMBL2103870",
+        "reason": "same target: Cystic fibrosis transmembrane conductance regulator"
+      },
+      {
+        "name": "ICENTICAFTOR",
+        "chembl_id": "CHEMBL4650318",
+        "reason": "same target: Cystic fibrosis transmembrane conductance regulator"
+      },
+      {
+        "name": "TEZACAFTOR",
+        "chembl_id": "CHEMBL3544914",
+        "reason": "same target: Cystic fibrosis transmembrane conductance regulator"
+      },
+      {
+        "name": "ELEXACAFTOR",
+        "chembl_id": "CHEMBL4298128",
+        "reason": "same target: Cystic fibrosis transmembrane conductance regulator"
+      },
+      {
+        "name": "GALICAFTOR",
+        "chembl_id": "CHEMBL4101487",
+        "reason": "same target: Cystic fibrosis transmembrane conductance regulator"
+      },
+      {
+        "name": "OLACAFTOR",
+        "chembl_id": "CHEMBL4297649",
+        "reason": "same target: Cystic fibrosis transmembrane conductance regulator"
+      },
+      {
+        "name": "IOWH-032",
+        "chembl_id": "CHEMBL4297392",
+        "reason": "same target: Cystic fibrosis transmembrane conductance regulator"
+      },
+      {
+        "name": "BAMOCAFTOR",
+        "chembl_id": "CHEMBL4297849",
+        "reason": "same target: Cystic fibrosis transmembrane conductance regulator"
+      },
+      {
+        "name": "NAVOCAFTOR",
+        "chembl_id": "CHEMBL4802150",
+        "reason": "same target: Cystic fibrosis transmembrane conductance regulator"
+      }
+    ]
+  }
+}

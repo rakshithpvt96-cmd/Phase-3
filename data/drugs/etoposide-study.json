@@ -1,7 +1,7 @@
 {
   "drug_name": "ETOPOSIDE - Study",
   "slug": "etoposide-study",
-  "enriched_at": "2026-11-11T15:29:20Z",
+  "enriched_at": "2026-11-20T16:14:49Z",
   "source_trial_ids": [
     "NCT01064466"
   ],
@@ -60,9 +60,15 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "43026905",
+        "title": "Pulmonary Large-Cell Neuroendocrine Carcinoma: Molecular Heterogeneity, Current Treatment and the Emerging Precision-Oncology Paradigm.",
+        "pubdate": "2026 Nov 7",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43026905/"
+      },
+      {
         "pmid": "42911120",
         "title": "Durvalumab plus etoposide-carboplatin for advanced digestive neuroendocrine carcinoma: a phase III trial (JCOG2107E).",
-        "pubdate": "2026 Oct 22",
+        "pubdate": "2026 Oct",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42911120/"
       },
       {
@@ -82,12 +88,6 @@
         "title": "[(177)Lu]Lu-DOTATATE Molecular Radiotherapy During Induction Chemotherapy for First-Line Stage 4 High-Risk Neuroblastoma in South African Children: Protocol for a Phase 1 Randomized Controlled Trial (LuDO-SA Trial).",
         "pubdate": "2026 Sep 30",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42814905/"
-      },
-      {
-        "pmid": "42780413",
-        "title": "Deep and durable response to re-challenge with platinum-based therapy in a platinum-relapsed small cell lung cancer patient following Olvi-Vec oncolytic immunotherapy: a case report.",
-        "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42780413/"
       }
     ]
   },

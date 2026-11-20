@@ -1,0 +1,156 @@
+{
+  "drug_name": "Budesonide",
+  "slug": "budesonide",
+  "enriched_at": "2026-11-20T16:08:09Z",
+  "source_trial_ids": [
+    "NCT06596252"
+  ],
+  "sponsors": [
+    {
+      "name": "Dr. Falk Pharma GmbH",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Dr.%20Falk%20Pharma%20GmbH&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 5281004,
+    "iupac_name": "(1S,2S,4R,8S,9S,11S,12S,13R)-11-hydroxy-8-(2-hydroxyacetyl)-9,13-dimethyl-6-propyl-5,7-dioxapentacyclo[10.8.0.02,9.04,8.013,18]icosa-14,17-dien-16-one",
+    "molecular_formula": "C25H34O6",
+    "molecular_weight": "430.5",
+    "canonical_smiles": null,
+    "inchikey": "VOVIALXJUBGFJZ-KWVAZRHASA-N",
+    "rxnorm": {
+      "rxcui": "19831",
+      "generic_name": "budesonide",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1370",
+    "target_chembl_id": "CHEMBL2034",
+    "target_name": "Glucocorticoid receptor",
+    "mechanism_of_action_chembl": "Glucocorticoid receptor agonist"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": "Use s Temporarily relieves these symptoms of hay fever or other upper respiratory allergies: • nasal congestion • runny nose • itchy nose • sneezing",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "Budesonide"
+    ],
+    "openfda_generic_names": [
+      "BUDESONIDE"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9d519bf3-8d9b-5208-13c5-308edc24aca7",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Eosinophilic Esophagitis",
+    "slug": "eosinophilic-esophagitis"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06596252",
+      "title": "Once Daily Versus Twice Daily Budesonide Orodispersible Tablets for Induction of Remission in EoE",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06596252",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42978715",
+        "title": "Bioequivalence of budesonide inhalation suspension with and without activated charcoal in healthy Chinese subjects: two randomized four-period crossover trials.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42978715/"
+      },
+      {
+        "pmid": "42954986",
+        "title": "Nasal Obstruction and Treatment With Oxymetazoline and Corticosteroids: A Randomized Clinical Trial.",
+        "pubdate": "2026 Oct 29",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42954986/"
+      },
+      {
+        "pmid": "42954429",
+        "title": "Pharmacodynamic Equivalence and Safety of Budesonide/Glycopyrrolate/Formoterol Fumarate With a Next-Generation Propellant Versus Hydrofluoroalkane-134a Propellant: A Randomized Phase 3 Study in Chronic Obstructive Pulmonary Disease.",
+        "pubdate": "2026 Nov 19",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42954429/"
+      },
+      {
+        "pmid": "42941822",
+        "title": "Fidanacogene Elaparvovec Gene Therapy: Budesonide Treatment of a Late Decline in Factor IX Expression in a Patient with Hemophilia B.",
+        "pubdate": "2026 Oct 12",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42941822/"
+      },
+      {
+        "pmid": "42902159",
+        "title": "Effectiveness of oral and inhaled repurposed and antiviral pharmaceutical treatments for acute SARS-CoV-2 in outpatient settings: a systematic review of 124 randomized trials.",
+        "pubdate": "2026 Jul 23",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42902159/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "PREDNISONE",
+        "chembl_id": "CHEMBL635",
+        "reason": "same target: Glucocorticoid receptor"
+      },
+      {
+        "name": "HALCINONIDE",
+        "chembl_id": "CHEMBL1200845",
+        "reason": "same target: Glucocorticoid receptor"
+      },
+      {
+        "name": "MEDRYSONE",
+        "chembl_id": "CHEMBL1201173",
+        "reason": "same target: Glucocorticoid receptor"
+      },
+      {
+        "name": "DIFLUPREDNATE",
+        "chembl_id": "CHEMBL1201749",
+        "reason": "same target: Glucocorticoid receptor"
+      },
+      {
+        "name": "BETAMETHASONE",
+        "chembl_id": "CHEMBL632",
+        "reason": "same target: Glucocorticoid receptor"
+      },
+      {
+        "name": "HYDROCORTISONE",
+        "chembl_id": "CHEMBL389621",
+        "reason": "same target: Glucocorticoid receptor"
+      },
+      {
+        "name": "TRIAMCINOLONE ACETONIDE",
+        "chembl_id": "CHEMBL1504",
+        "reason": "same target: Glucocorticoid receptor"
+      },
+      {
+        "name": "HYDROCORTISONE CYPIONATE",
+        "chembl_id": "CHEMBL1549",
+        "reason": "same target: Glucocorticoid receptor"
+      },
+      {
+        "name": "CLOBETASOL PROPIONATE",
+        "chembl_id": "CHEMBL1159650",
+        "reason": "same target: Glucocorticoid receptor"
+      },
+      {
+        "name": "HYDROCORTISONE SODIUM SUCCINATE",
+        "chembl_id": "CHEMBL1200495",
+        "reason": "same target: Glucocorticoid receptor"
+      }
+    ]
+  }
+}

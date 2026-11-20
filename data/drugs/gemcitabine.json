@@ -1,32 +1,24 @@
 {
   "drug_name": "Gemcitabine",
   "slug": "gemcitabine",
-  "enriched_at": "2026-10-18T12:02:37Z",
+  "enriched_at": "2026-11-20T16:17:25Z",
   "source_trial_ids": [
+    "NCT04969731",
     "NCT05254171",
-    "NCT06118333",
-    "NCT06343948",
-    "NCT06519370",
-    "NCT06619236"
+    "NCT06118333"
   ],
   "sponsors": [
     {
-      "name": "Genmab",
+      "name": "GC Cell Corporation",
       "ticker": null,
       "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Genmab&type=10-K&dateb=&owner=include&count=40"
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=GC%20Cell%20Corporation&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Panbela Therapeutics, Inc.",
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Panbela%20Therapeutics%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
-      "name": "Shanghai Fudan-Zhangjiang Bio-Pharmaceutical Co., Ltd.",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Shanghai%20Fudan-Zhangjiang%20Bio-Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Sichuan Baili Pharmaceutical Co., Ltd.",
@@ -67,15 +59,22 @@
     "openfda_generic_names": [
       "GEMCITABINE HYDROCHLORIDE"
     ],
-    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=44bcc16c-341d-49e8-a1c6-95d084667aca",
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3aef8dbc-34d0-4150-89f0-3b16cf0fbfdb",
     "note": null,
     "further_reading": null
   },
   "condition": {
-    "raw": "HR+HER2- Breast Cancer",
-    "slug": "hr-her2-breast-cancer"
+    "raw": "Pancreatic Cancer Metastatic",
+    "slug": "pancreatic-cancer-metastatic"
   },
   "source_trials": [
+    {
+      "nct_id": "NCT04969731",
+      "title": "Safety and Efficacy of Immuncell-LC With Gemcitabine in Resectable Pancreatic Cancer",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04969731",
+      "has_results": false
+    },
     {
       "nct_id": "NCT05254171",
       "title": "Study of Nab-Paclitaxel and Gemcitabine With or Without SBP-101 in Pancreatic Cancer",
@@ -89,61 +88,40 @@
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT06118333",
       "has_results": false
-    },
-    {
-      "nct_id": "NCT06343948",
-      "title": "A Study Comparing BL-B01D1 With Chemotherapy of Physician's Choice in Patients With Unresectable Locally Advanced, Recurrent, or Metastatic HR+HER2- Breast Cancer(PANKU-Breast01)",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06343948",
-      "has_results": false
-    },
-    {
-      "nct_id": "NCT06519370",
-      "title": "FDA018-ADC vs Investigator's Choice Chemotherapy to Treat Locally Advanced, Recurrent or Metastatic Triple-negative Breast Cancer",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06519370",
-      "has_results": false
-    },
-    {
-      "nct_id": "NCT06619236",
-      "title": "Study to Assess the Efficacy of Rina-S Compared to Treatment of Investigator's Choice in Participants With Platinum Resistant Ovarian Cancer",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06619236",
-      "has_results": false
     }
   ],
   "prior_results": {
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42871417",
-        "title": "Editorial for PREOPANC-2, a multicenter, open-label, phase 3 randomized trial comparing neoadjuvant FOLFIRINOX vs. neoadjuvant gemcitabine based chemoradiotherapy in resectable and borderline resectable pancreatic cancer.",
-        "pubdate": "2026 Oct 1",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42871417/"
+        "pmid": "43054860",
+        "title": "Beyond organ-based therapy: Genome-directed treatment of metastatic gastric-type endocervical adenocarcinoma.",
+        "pubdate": "2026 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43054860/"
       },
       {
-        "pmid": "42862523",
-        "title": "Clinical Efficacy of Tislelizumab Plus Gemcitabine-Nab-Paclitaxel for Borderline Resectable Pancreatic Cancer and Chemoresistance Analysis: A Prospective Pilot Study.",
-        "pubdate": "2026 Oct 12",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42862523/"
+        "pmid": "43045680",
+        "title": "Cadonilimab plus gemcitabine and cisplatin as first-line treatment for unresectable locally advanced or metastatic biliary tract malignancies: the phase II bicureX clinical trial.",
+        "pubdate": "2026 Oct 19",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43045680/"
       },
       {
-        "pmid": "42861545",
-        "title": "Chemotherapy After Resection of Pancreatic Ductal Adenocarcinoma: Impact of Different Regimens in a Real-World Population.",
-        "pubdate": "2026 Oct 12",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42861545/"
+        "pmid": "43037986",
+        "title": "Study Rationale, Enrollment Characteristics, and Central Review of Clinical Stage: The INTACT Randomized Clinical Trial.",
+        "pubdate": "2026 Nov 2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43037986/"
       },
       {
-        "pmid": "42821609",
-        "title": "A Phase I Clinical Trial of Chemoimmunotherapy With Alternating Intravesical Gemcitabine and Bacillus Calmette-Guérin (GemBCG) for BCG-Exposed High-Grade Non-Muscle-Invasive Bladder Cancer.",
-        "pubdate": "2026 Oct 1",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42821609/"
+        "pmid": "43026905",
+        "title": "Pulmonary Large-Cell Neuroendocrine Carcinoma: Molecular Heterogeneity, Current Treatment and the Emerging Precision-Oncology Paradigm.",
+        "pubdate": "2026 Nov 7",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43026905/"
       },
       {
-        "pmid": "42816596",
-        "title": "Intravenous hyaluronidase-expressing oncolytic adenovirus with chemotherapy in metastatic pancreatic cancer: a randomized phase 2b trial.",
-        "pubdate": "2026 Sep 30",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42816596/"
+        "pmid": "43024239",
+        "title": "Tumor Treating Fields and Quality of Life Among Patients With Locally Advanced Pancreatic Adenocarcinoma: A Secondary Analysis of a Randomized Clinical Trial.",
+        "pubdate": "2026 Nov 2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43024239/"
       }
     ]
   },

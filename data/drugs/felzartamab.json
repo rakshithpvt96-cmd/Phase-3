@@ -1,0 +1,120 @@
+{
+  "drug_name": "Felzartamab",
+  "slug": "felzartamab",
+  "enriched_at": "2026-11-20T16:17:11Z",
+  "source_trial_ids": [
+    "NCT06685757"
+  ],
+  "sponsors": [
+    {
+      "name": "Biogen",
+      "ticker": "BIIB",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000875045&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2471516",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4594579",
+    "target_chembl_id": "CHEMBL4660",
+    "target_name": "ADP-ribosyl cyclase/cyclic ADP-ribose hydrolase 1",
+    "mechanism_of_action_chembl": "Lymphocyte differentiation antigen CD38 inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Felzartamab+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Felzartamab+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Felzartamab+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Antibody-mediated Rejection",
+    "slug": "antibody-mediated-rejection"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06685757",
+      "title": "A Study to Learn More About the Effects and Safety of Felzartamab Infusions in Adults With Kidney Transplants Who Have Antibody-Mediated Rejection (AMR)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06685757",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42822478",
+        "title": "Felzartamab plus lenalidomide-dexamethasone versus lenalidomide-dexamethasone for relapsed or refractory multiple myeloma: an open-label, parallel-controlled, randomised, phase 3 trial.",
+        "pubdate": "2026 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42822478/"
+      },
+      {
+        "pmid": "41573494",
+        "title": "Emerging Therapies in IgA Nephropathy: From A Proliferation-Inducing Ligand (APRIL) and B-cell Activating Factor (BAFF) Inhibitors to Precision Medicine.",
+        "pubdate": "2025 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41573494/"
+      },
+      {
+        "pmid": "40581166",
+        "title": "Randomized, double-blind, placebo-controlled phase 2a study assessing the efficacy and safety of felzartamab for IgA nephropathy.",
+        "pubdate": "2025 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40581166/"
+      },
+      {
+        "pmid": "40440205",
+        "title": "Antibody-mediated rejection-treatment standard.",
+        "pubdate": "2025 Aug 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40440205/"
+      },
+      {
+        "pmid": "40199388",
+        "title": "Microvascular inflammation in kidney allografts: New directions for patient management.",
+        "pubdate": "2025 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40199388/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "DARATUMUMAB",
+        "chembl_id": "CHEMBL1743007",
+        "reason": "same target: ADP-ribosyl cyclase/cyclic ADP-ribose hydrolase 1"
+      },
+      {
+        "name": "ISATUXIMAB",
+        "chembl_id": "CHEMBL3545131",
+        "reason": "same target: ADP-ribosyl cyclase/cyclic ADP-ribose hydrolase 1"
+      },
+      {
+        "name": "HUMAX-IL15",
+        "chembl_id": "CHEMBL2109468",
+        "reason": "same target: ADP-ribosyl cyclase/cyclic ADP-ribose hydrolase 1"
+      },
+      {
+        "name": "MEZAGITAMAB",
+        "chembl_id": "CHEMBL4297833",
+        "reason": "same target: ADP-ribosyl cyclase/cyclic ADP-ribose hydrolase 1"
+      }
+    ]
+  }
+}

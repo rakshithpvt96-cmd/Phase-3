@@ -1,0 +1,150 @@
+{
+  "drug_name": "Capecitabine Oral Product",
+  "slug": "capecitabine-oral-product",
+  "enriched_at": "2026-11-20T16:08:41Z",
+  "source_trial_ids": [
+    "NCT04639986"
+  ],
+  "sponsors": [
+    {
+      "name": "Gilead Sciences",
+      "ticker": "GILD",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000882095&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1158877",
+      "generic_name": "capecitabine Oral Product",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1773",
+    "target_chembl_id": "CHEMBL1952",
+    "target_name": "Thymidylate synthase",
+    "mechanism_of_action_chembl": "Thymidylate synthase inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Capecitabine%20Oral%20Product+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Capecitabine%20Oral%20Product+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Capecitabine%20Oral%20Product+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Metastatic Breast Cancer",
+    "slug": "metastatic-breast-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04639986",
+      "title": "Asian Study of Sacituzumab Govitecan (IMMU-132) in HR+/HER2- Metastatic Breast Cancer (MBC)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04639986",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42927765",
+        "title": "Neoadjuvant short-course radiotherapy followed by camrelizumab and chemotherapy versus standard of care for locally advanced rectal cancer (UNION): a prespecified interim analysis of a multicentre, open-label, randomised, phase 3 trial.",
+        "pubdate": "2026 Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42927765/"
+      },
+      {
+        "pmid": "40644418",
+        "title": "Biweekly CAPOX versus triweekly CAPOX in the adjuvant therapy of post-surgery CRC: A randomized controlled trial.",
+        "pubdate": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40644418/"
+      },
+      {
+        "pmid": "40066113",
+        "title": "Evaluation of Oral Nano-Silymarin Formulation Efficacy in the Prevention of Hand-Foot Syndrome and Neuropathy Induced by XELOX or m-FOLFOX6 Regimens in Metastatic Colorectal Cancer: A Triple-Blinded, Randomized Clinical Trial.",
+        "pubdate": "2024 Jan-Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40066113/"
+      },
+      {
+        "pmid": "32833164",
+        "title": "Effects of CAPTEM (Capecitabine and Temozolomide) on a Corticotroph Carcinoma and an Aggressive Corticotroph Tumor.",
+        "pubdate": "2021 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32833164/"
+      },
+      {
+        "pmid": "30922733",
+        "title": "Capecitabine compared with observation in resected biliary tract cancer (BILCAP): a randomised, controlled, multicentre, phase 3 study.",
+        "pubdate": "2019 May",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30922733/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "FLOXURIDINE",
+        "chembl_id": "CHEMBL917",
+        "reason": "same target: Thymidylate synthase"
+      },
+      {
+        "name": "PEMETREXED DISODIUM",
+        "chembl_id": "CHEMBL2360464",
+        "reason": "same target: Thymidylate synthase"
+      },
+      {
+        "name": "FLUOROURACIL",
+        "chembl_id": "CHEMBL185",
+        "reason": "same target: Thymidylate synthase"
+      },
+      {
+        "name": "RALTITREXED",
+        "chembl_id": "CHEMBL225071",
+        "reason": "same target: Thymidylate synthase"
+      },
+      {
+        "name": "OSI-7904",
+        "chembl_id": "CHEMBL169896",
+        "reason": "same target: Thymidylate synthase"
+      },
+      {
+        "name": "NOLATREXED",
+        "chembl_id": "CHEMBL320775",
+        "reason": "same target: Thymidylate synthase"
+      },
+      {
+        "name": "DOXIFLURIDINE",
+        "chembl_id": "CHEMBL1130",
+        "reason": "same target: Thymidylate synthase"
+      },
+      {
+        "name": "TEGAFUR",
+        "chembl_id": "CHEMBL20883",
+        "reason": "same target: Thymidylate synthase"
+      },
+      {
+        "name": "PEMETREXED",
+        "chembl_id": "CHEMBL225072",
+        "reason": "same target: Thymidylate synthase"
+      },
+      {
+        "name": "PEMETREXED MONOHYDRATE",
+        "chembl_id": "CHEMBL5315053",
+        "reason": "same target: Thymidylate synthase"
+      }
+    ]
+  }
+}

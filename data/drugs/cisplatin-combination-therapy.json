@@ -1,0 +1,99 @@
+{
+  "drug_name": "Cisplatin (combination therapy)",
+  "slug": "cisplatin-combination-therapy",
+  "enriched_at": "2026-11-20T16:09:41Z",
+  "source_trial_ids": [
+    "NCT04442022"
+  ],
+  "sponsors": [
+    {
+      "name": "Karyopharm Therapeutics Inc",
+      "ticker": "KPTIQ",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001503802&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2555",
+      "generic_name": "cisplatin",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL197201",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Cisplatin%20%28combination%20therapy%29+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Cisplatin%20%28combination%20therapy%29+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Cisplatin%20%28combination%20therapy%29+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Relapsed/Refractory Diffuse Large B-cell Lymphoma",
+    "slug": "relapsed-refractory-diffuse-large-b-cell-lymphoma"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04442022",
+      "title": "A Study of Rituximab-Gemcitabine-Dexamethasone-Platinum (R-GDP) With or Without Selinexor in Patients With Relapsed/Refractory Diffuse Large B-cell Lymphoma",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04442022",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "43045680",
+        "title": "Cadonilimab plus gemcitabine and cisplatin as first-line treatment for unresectable locally advanced or metastatic biliary tract malignancies: the phase II bicureX clinical trial.",
+        "pubdate": "2026 Oct 19",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43045680/"
+      },
+      {
+        "pmid": "43037986",
+        "title": "Study Rationale, Enrollment Characteristics, and Central Review of Clinical Stage: The INTACT Randomized Clinical Trial.",
+        "pubdate": "2026 Nov 2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43037986/"
+      },
+      {
+        "pmid": "43018951",
+        "title": "Perioperative immunotherapy in muscle-invasive bladder cancer: a narrative review of neoadjuvant, adjuvant, and antibody-drug conjugate-based strategies.",
+        "pubdate": "2026 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43018951/"
+      },
+      {
+        "pmid": "42964102",
+        "title": "Prospective evaluation of combination oral S-1 and intravenous cisplatin in cancer patients with severe hepatic dysfunction - a feasibility, safety, and pharmacokinetic study.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42964102/"
+      },
+      {
+        "pmid": "42931961",
+        "title": "Intensity-modulated radiotherapy combined with albumin-bound paclitaxel and platinum-based chemotherapy for locoregional recurrent cervical cancer: a single-institutional phase II investigator-initiated nonrandomized clinical trial.",
+        "pubdate": "2026 Jul 28",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42931961/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

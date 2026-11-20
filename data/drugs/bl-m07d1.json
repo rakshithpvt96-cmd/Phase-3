@@ -1,7 +1,7 @@
 {
   "drug_name": "BL-M07D1",
   "slug": "bl-m07d1",
-  "enriched_at": "2026-11-13T15:14:53Z",
+  "enriched_at": "2026-11-20T16:07:45Z",
   "source_trial_ids": [
     "NCT06316531"
   ],
@@ -63,6 +63,17 @@
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": []
+    "items": [
+      {
+        "name": "A166",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Sichuan Kelun-Biotech Biopharmaceutical Co., Ltd."
+      },
+      {
+        "name": "T-DM1",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Sichuan Kelun-Biotech Biopharmaceutical Co., Ltd."
+      }
+    ]
   }
 }

@@ -1,7 +1,7 @@
 {
   "drug_name": "Lenalidomide",
   "slug": "lenalidomide",
-  "enriched_at": "2026-10-18T12:37:01Z",
+  "enriched_at": "2026-11-20T16:19:48Z",
   "source_trial_ids": [
     "NCT04824092"
   ],
@@ -45,7 +45,7 @@
     "openfda_generic_names": [
       "LENALIDOMIDE"
     ],
-    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ed7a3099-ce31-4865-b212-358d9ff6261b",
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=76f6c1e7-985b-43d9-892c-849df50ae80e",
     "note": null,
     "further_reading": null
   },
@@ -65,6 +65,12 @@
   "prior_results": {
     "ctgov_results_urls": [],
     "pubmed_articles": [
+      {
+        "pmid": "42900545",
+        "title": "Vepdegestrant (ARV-471): pharmacokinetics, drug metabolism and clinical translation of an oral ERα-targeting PROTAC.",
+        "pubdate": "2026 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42900545/"
+      },
       {
         "pmid": "42881391",
         "title": "Novel antibody-based regimens for large B-cell lymphoma: latest updates from the 2026 ASCO Annual Meeting.",
@@ -88,12 +94,6 @@
         "title": "Selinexor plus lenalidomide versus lenalidomide alone as maintenance therapy after autologous haematopoietic stem cell transplantation in newly diagnosed multiple myeloma: Results of the phase 3 ALLG MM23 (SeaLAND) trial.",
         "pubdate": "2026 Sep 22",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42770812/"
-      },
-      {
-        "pmid": "42764159",
-        "title": "Physician Understanding and Perceptions of Risk Communication Related to Drugs Covered by Risk Evaluation and Mitigation Strategy Programs.",
-        "pubdate": "2026 Oct",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42764159/"
       }
     ]
   },

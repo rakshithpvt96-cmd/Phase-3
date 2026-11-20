@@ -1,7 +1,7 @@
 {
   "drug_name": "3-6mg QLM1016",
   "slug": "3-6mg-qlm1016",
-  "enriched_at": "2026-11-11T15:28:45Z",
+  "enriched_at": "2026-11-20T16:02:40Z",
   "source_trial_ids": [
     "NCT06799559"
   ],
@@ -21,7 +21,7 @@
     }
   },
   "mechanism": {
-    "chembl_id": "CHEMBL4297976",
+    "chembl_id": null,
     "target_chembl_id": null,
     "target_name": null,
     "mechanism_of_action_chembl": null
@@ -83,16 +83,6 @@
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
     "items": [
-      {
-        "name": "OLZ/SAM",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Alkermes, Inc."
-      },
-      {
-        "name": "Olanzapine",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Alkermes, Inc."
-      },
       {
         "name": "SEP-363856",
         "chembl_id": null,

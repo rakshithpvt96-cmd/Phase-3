@@ -1,0 +1,93 @@
+{
+  "drug_name": "Lutikizumab",
+  "slug": "lutikizumab",
+  "enriched_at": "2026-11-20T16:20:56Z",
+  "source_trial_ids": [
+    "NCT06468228"
+  ],
+  "sponsors": [
+    {
+      "name": "AbbVie",
+      "ticker": "ABBV",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001551152&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2352781",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4594518",
+    "target_chembl_id": "CHEMBL3580496",
+    "target_name": "Interleukin-1 alpha",
+    "mechanism_of_action_chembl": "Interleukin-1 alpha inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Lutikizumab+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Lutikizumab+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Lutikizumab+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Hidradenitis Suppurativa",
+    "slug": "hidradenitis-suppurativa"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06468228",
+      "title": "A Study to Assess Disease Activity and Safety of Lutikizumab in Adult and Adolescent Participants With Moderate to Severe Hidradenitis Suppurativa",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06468228",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42632595",
+        "title": "Disease-modifying antirheumatic drugs for hand osteoarthritis: A systematic review and network meta-analysis.",
+        "pubdate": "2026 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42632595/"
+      },
+      {
+        "pmid": "41848710",
+        "title": "Lutikizumab in Adults With Moderate to Severe Hidradenitis Suppurativa After Anti-TNF Therapy Failure: A Phase 2 Randomized Clinical Trial.",
+        "pubdate": "2026 May 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41848710/"
+      },
+      {
+        "pmid": "40002768",
+        "title": "Advances and Challenges in the Pursuit of Disease-Modifying Osteoarthritis Drugs: A Review of 2010-2024 Clinical Trials.",
+        "pubdate": "2025 Feb 4",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40002768/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "BERMEKIMAB",
+        "chembl_id": "CHEMBL2109653",
+        "reason": "same target: Interleukin-1 alpha"
+      }
+    ]
+  }
+}

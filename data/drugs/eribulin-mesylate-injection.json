@@ -1,0 +1,126 @@
+{
+  "drug_name": "Eribulin Mesylate Injection",
+  "slug": "eribulin-mesylate-injection",
+  "enriched_at": "2026-11-20T16:13:53Z",
+  "source_trial_ids": [
+    "NCT04639986"
+  ],
+  "sponsors": [
+    {
+      "name": "Gilead Sciences",
+      "ticker": "GILD",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000882095&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2645583",
+      "generic_name": "eribulin mesylate Injection",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1683544",
+    "target_chembl_id": "CHEMBL2095182",
+    "target_name": "Tubulin",
+    "mechanism_of_action_chembl": "Tubulin inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Eribulin%20Mesylate%20Injection+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Eribulin%20Mesylate%20Injection+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Eribulin%20Mesylate%20Injection+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Metastatic Breast Cancer",
+    "slug": "metastatic-breast-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04639986",
+      "title": "Asian Study of Sacituzumab Govitecan (IMMU-132) in HR+/HER2- Metastatic Breast Cancer (MBC)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04639986",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "31099446",
+        "title": "Eribulin penetrates brain tumor tissue and prolongs survival of mice harboring intracerebral glioblastoma xenografts.",
+        "pubdate": "2019 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31099446/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "TRASTUZUMAB EMTANSINE",
+        "chembl_id": "CHEMBL1743082",
+        "reason": "same target: Tubulin"
+      },
+      {
+        "name": "BRENTUXIMAB VEDOTIN",
+        "chembl_id": "CHEMBL1742994",
+        "reason": "same target: Tubulin"
+      },
+      {
+        "name": "PACLITAXEL",
+        "chembl_id": "CHEMBL428647",
+        "reason": "same target: Tubulin"
+      },
+      {
+        "name": "DOCETAXEL",
+        "chembl_id": "CHEMBL3545252",
+        "reason": "same target: Tubulin"
+      },
+      {
+        "name": "CABAZITAXEL",
+        "chembl_id": "CHEMBL1201748",
+        "reason": "same target: Tubulin"
+      },
+      {
+        "name": "COLCHICINE",
+        "chembl_id": "CHEMBL107",
+        "reason": "same target: Tubulin"
+      },
+      {
+        "name": "IXABEPILONE",
+        "chembl_id": "CHEMBL1201752",
+        "reason": "same target: Tubulin"
+      },
+      {
+        "name": "VINCRISTINE SULFATE",
+        "chembl_id": "CHEMBL501867",
+        "reason": "same target: Tubulin"
+      },
+      {
+        "name": "VINORELBINE TARTRATE",
+        "chembl_id": "CHEMBL538943",
+        "reason": "same target: Tubulin"
+      },
+      {
+        "name": "VINBLASTINE SULFATE",
+        "chembl_id": "CHEMBL378544",
+        "reason": "same target: Tubulin"
+      }
+    ]
+  }
+}

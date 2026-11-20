@@ -1,0 +1,125 @@
+{
+  "drug_name": "Gemcitabine Injection",
+  "slug": "gemcitabine-injection",
+  "enriched_at": "2026-11-20T16:17:41Z",
+  "source_trial_ids": [
+    "NCT04639986"
+  ],
+  "sponsors": [
+    {
+      "name": "Gilead Sciences",
+      "ticker": "GILD",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000882095&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1718999",
+      "generic_name": "gemcitabine Injection",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL3039516",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Gemcitabine%20Injection+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Gemcitabine%20Injection+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Gemcitabine%20Injection+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Metastatic Breast Cancer",
+    "slug": "metastatic-breast-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04639986",
+      "title": "Asian Study of Sacituzumab Govitecan (IMMU-132) in HR+/HER2- Metastatic Breast Cancer (MBC)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT04639986",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "43011677",
+        "title": "Randomized multicentre Phase 2 clinical trial of non-viral gene therapy for pancreatic cancer: clinical and molecular findings.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43011677/"
+      },
+      {
+        "pmid": "42365236",
+        "title": "Study protocol: targeted delivery of interleukin-12 in combination with hepatic artery infusion pump therapy for patients with adrenocortical carcinoma liver metastases.",
+        "pubdate": "2026 Jun 27",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42365236/"
+      },
+      {
+        "pmid": "42206900",
+        "title": "Computed tomography-derived extracellular volume fraction is associated with high-grade recurrence in non-muscle-invasive bladder cancer treated with intravesical gemcitabine and docetaxel.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42206900/"
+      },
+      {
+        "pmid": "42053989",
+        "title": "Tumor Microenvironment Gene Engineering with LOAd703 in Patients with Solid Malignancies: LOKON002 Phase I/IIb Clinical Trial.",
+        "pubdate": "2026 Aug 3",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42053989/"
+      },
+      {
+        "pmid": "38796193",
+        "title": "Oral azacitidine compared with standard therapy in patients with relapsed or refractory follicular helper T-cell lymphoma (ORACLE): an open-label randomised, phase 3 study.",
+        "pubdate": "2024 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38796193/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "Palazestrant",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Olema Oncology, Inc."
+      },
+      {
+        "name": "Fulvestrant",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Olema Oncology, Inc."
+      },
+      {
+        "name": "Anastrozole",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Olema Oncology, Inc."
+      },
+      {
+        "name": "Letrozole",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Olema Oncology, Inc."
+      },
+      {
+        "name": "Exemestane",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Olema Oncology, Inc."
+      }
+    ]
+  }
+}

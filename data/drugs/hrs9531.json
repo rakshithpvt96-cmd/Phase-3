@@ -1,0 +1,79 @@
+{
+  "drug_name": "HRS9531",
+  "slug": "hrs9531",
+  "enriched_at": "2026-11-20T16:17:48Z",
+  "source_trial_ids": [
+    "NCT06974851",
+    "NCT06994650"
+  ],
+  "sponsors": [
+    {
+      "name": "Fujian Shengdi Pharmaceutical Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Fujian%20Shengdi%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": null
+  },
+  "mechanism": {
+    "chembl_id": null,
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=HRS9531+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=HRS9531+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=HRS9531+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Bstructive Sleep Apnea (OSA) and Obesity",
+    "slug": "bstructive-sleep-apnea-osa-and-obesity"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06974851",
+      "title": "A Phase III Study Evaluating the Efficacy and Safety of HRS9531 Injection in Subjects With Obstructive Sleep Apnea (OSA) and Obesity",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06974851",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06994650",
+      "title": "A Multicenter, Randomized, Double-blind, Placebo-controlled Phase III Clinical Study to Evaluate the Efficacy and Safety of HRS9531 Injection in Subjects With Obstructive Sleep Apnea (OSA) and Obesity Who Are on Positive Airway Pressure Ventilation (PAP) Therapy",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06994650",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42764407",
+        "title": "Preclinical and First-In-Human Evaluation of Ribupatide (HRS9531), a Dual GLP-1/GIP Receptor Agonist.",
+        "pubdate": "2026 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42764407/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "drug_name": "Bulevirtide",
+  "slug": "bulevirtide",
+  "enriched_at": "2026-11-20T16:08:15Z",
+  "source_trial_ids": [
+    "NCT07128550"
+  ],
+  "sponsors": [
+    {
+      "name": "Vir Biotechnology, Inc.",
+      "ticker": "VIR",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001706431&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 134687648,
+    "iupac_name": "(4S)-4-[[(2S)-1-[(2S)-2-[[(2S)-2-[[(2S)-2-[[(2S)-6-amino-2-[[(2S)-4-amino-2-[[(2S)-1-[(2S)-4-amino-2-[[(2S)-2-[[(2S)-2-[[(2S)-2-[[(2S)-2-[[(2S)-1-[(2S)-4-amino-2-[[(2S)-4-amino-2-[[(2S)-2-[[(2S)-4-amino-2-[[(2S)-2-[[2-[[(2S)-2-[[(2S)-2-[[(2S)-1-[(2S)-2-[[(2S)-2-[[(2S)-5-amino-2-[[(2S)-2-[[(2S)-2-[[(2S)-1-[(2S)-2-[[(2S)-2-[[2-[[(2S)-2-[[(2S)-1-[(2S)-4-amino-2-[[(2S)-1-[(2S)-2-[[(2S)-2-[[(2S)-2-[[(2S)-4-amino-2-[[(2S,3R)-3-hydroxy-2-[[2-(tetradecanoylamino)acetyl]amino]butanoyl]amino]-4-oxobutanoyl]amino]-4-methylpentanoyl]amino]-3-hydroxypropanoyl]amino]-3-methylbutanoyl]pyrrolidine-2-carbonyl]amino]-4-oxobutanoyl]pyrrolidine-2-carbonyl]amino]-4-methylpentanoyl]amino]acetyl]amino]-3-phenylpropanoyl]amino]-3-phenylpropanoyl]pyrrolidine-2-carbonyl]amino]-3-carboxypropanoyl]amino]-3-(1H-imidazol-4-yl)propanoyl]amino]-5-oxopentanoyl]amino]-4-methylpentanoyl]amino]-3-carboxypropanoyl]pyrrolidine-2-carbonyl]amino]propanoyl]amino]-3-phenylpropanoyl]amino]acetyl]amino]propanoyl]amino]-4-oxobutanoyl]amino]-3-hydroxypropanoyl]amino]-4-oxobutanoyl]amino]-4-oxobutanoyl]pyrrolidine-2-carbonyl]amino]-3-carboxypropanoyl]amino]-3-(1H-indol-3-yl)propanoyl]amino]-3-carboxypropanoyl]amino]-3-phenylpropanoyl]amino]-4-oxobutanoyl]pyrrolidine-2-carbonyl]amino]-4-oxobutanoyl]amino]hexanoyl]amino]-3-carboxypropanoyl]amino]-3-(1H-imidazol-4-yl)propanoyl]amino]-3-(1H-indol-3-yl)propanoyl]pyrrolidine-2-carbonyl]amino]-5-[[(2S)-1-[[(2S)-4-amino-1-[[(2S)-6-amino-1-[[(2S)-1-[(2-amino-2-oxoethyl)amino]-3-methyl-1-oxobutan-2-yl]amino]-1-oxohexan-2-yl]amino]-1,4-dioxobutan-2-yl]amino]-1-oxopropan-2-yl]amino]-5-oxopentanoic acid",
+    "molecular_formula": "C248H355N65O72",
+    "molecular_weight": "5399",
+    "canonical_smiles": null,
+    "inchikey": "WQNDXLHKAMIGEX-WOAPPVHJSA-N",
+    "rxnorm": {
+      "rxcui": "2743603",
+      "generic_name": "bulevirtide",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4297711",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action HEPCLUDEX is an antiviral drug [see Microbiology (12.4) ].",
+    "pharmacokinetics": "12.3 Pharmacokinetics The pharmacokinetic properties of bulevirtide were characterized after intravenous administration in healthy participants, and after subcutaneous administration in healthy participants and participants with chronic HDV infection. The systemic exposure of bulevirtide increased in a more than proportional manner with increasing doses. At steady state, AUC and C max increased by approximately 2-fold compared to the AUC and C max after the first dose. The pharmacokinetic parameters of bulevirtide are provided in Table 2 . The steady-state PK parameters of bulevirtide (based on population PK analysis of participants with chronic HDV infection) are provided in Table 3 . Table 2 Pharmacokinetic Parameters of Bulevirtide Absorption % absolute bioavailability 57 T max (h) (range) 3.00 (1.00 - 4.00) Distribution % bound to human plasma proteins > 99 Elimination t 1/2 (h) t 1/2 values refer to mean terminal plasma half-life. (range) 3 (2 - 6) Metabolism Metabolic pathway Bulevirtide, a linear peptide consisting of L-amino acids, is expected to be degraded to smaller peptides and individual amino acids. No active metabolites are expected. Catabolized by peptidases to amino acids Excretion Major route of elimination Excreted as smaller peptides and amino acids Table 3 Steady-State Pharmacokinetic Parameters of Bulevirtide Following Subcutaneous Administration of HEPCLUDEX in Adults with HDV Infection Empirical Bayesian post hoc exposure estimates from Population pharmacokinetic analysis in MYR301 trial, N=100. Parameter Geometric Mean (90% CI) CI=Confidence Interval C max (ng/mL) 184 (160 - 211) AUC 0-24h (ng•h/mL) 1935 (1680 - 2230) Specific Populations Age (18 to 65 years), sex, race (87.5% White, 1.9% Black, 10.3% Asian, 0.2% Other), or body weight (39.7 to 110 kg) did not have a clinically relevant impact on the systemic exposure of bulevirtide. Geriatric Patients The pharmacokinetics of bulevirtide have not been evaluated in elderly participants with HDV infection (65 years of age and older) [see Use in Specific Populations (8.5) ]. Patients with Renal Impairment In a Phase 1, open-label study in participants without HDV infection, the steady state pharmacokinetics of bulevirtide were similar among participants with normal renal function and participants with severe renal impairment (CrCl 15 to less than 30 mL per minute), and no clinically relevant differences in total bile acid elevations were observed between the two groups. The pharmacokinetics of bulevirtide have not been evaluated in participants with end-stage renal disease (CrCl less than 15 mL per minute), including those on dialysis. As bulevirtide is greater than 99% protein bound, dialysis is not expected to alter exposures of bulevirtide [see Use in Specific Populations (8.6) ]. Patients with Hepatic Impairment In a Phase 1, open-label study in participants without HDV infection, the steady-state pharmacokinetics of bulevirtide were approximately 27% lower in participants with moderate hepatic impairment (Child-Pugh Class B) than participants with normal hepatic function. The steady state pharmacokinetics of bulevirtide were similar among participants with severe hepatic impairment (Child-Pugh Class C) and participants with normal hepatic function [see Use in Specific Populations (8.7) ]. Drug Interaction Studies Effect of Bulevirtide on Other Drugs Cytochrome P450 (CYP) Enzymes: In vitro studies have shown, bulevirtide is not an inhibitor of CYP1A2, CYP2A6, CYP2B6, CYP2C9, CYP2C19, CYP2D6, and CYP3A4. Bulevirtide is not an inducer of CYP1A2, CYP2B6, or CYP3A4. Consistent with in vitro results, bulevirtide at steady state did not impact the pharmacokinetics of the CYP3A4 probe substrate midazolam, administered as an oral 30 μg microdose, in clinical drug-interaction studies. Transporter Systems: In vitro studies have shown that no clinically relevant interactions are expected for efflux transporters including MDR1, BCRP, BSEP, MATE1, and MATE2K and uptake transporters including OATP2B1, OAT1, OAT3, OCT1, and OCT2. In vitro studies have shown that bulevirtide inhibits the organic anion transporting polypeptides, OATP1B1 and OATP1B3, with IC 50 values of 0.5 and 8.7 μM, respectively, and taurocholate uptake via NTCP receptors with an IC 50 value of 0.320 μM; however, no clinical drug interaction is expected for OATP1B or NTCP substrates at clinically relevant concentrations of bulevirtide. Steady state exposures of bulevirtide administered once daily did not impact the pharmacokinetics of TDF (at 300 mg) in a dedicated clinical drug-interaction study. Effect of Other Drugs on Bulevirtide Based on the population PK evaluation of drug interactions for bulevirtide, no clinically relevant drug interactions have been observed with PEG-IFNα and TAF or TDF.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE HEPCLUDEX is indicated for the treatment of chronic hepatitis delta virus (HDV) infection in adults without cirrhosis or with compensated cirrhosis. This indication is approved under accelerated approval based on a decrease in HDV RNA and alanine aminotransferase (ALT) normalization [see Clinical Studies (14) ] . An improvement in disease-related clinical outcomes has not been established. Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial(s). HEPCLUDEX is a sodium taurocholate co-transporting polypeptide (NTCP)-directed HDV attachment inhibitor indicated for the treatment of chronic HDV infection in adults without cirrhosis or with compensated cirrhosis. This indication is approved under accelerated approval based on participants who achieved a decrease in HDV RNA and alanine aminotransferase (ALT) normalization. Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial(s). ( 1 , 14 )",
+    "boxed_warning": "WARNING: POSTTREATMENT SEVERE ACUTE EXACERBATION OF HEPATITIS D and B Severe acute exacerbations of hepatitis D and hepatitis B may occur after HEPCLUDEX is discontinued, especially in patients with cirrhosis, who may be at increased risk of more severe flares or progression to hepatic decompensation. Monitor hepatic function closely with both clinical and laboratory follow-up, including hepatitis B virus (HBV) DNA and hepatitis delta virus (HDV) RNA viral load, for at least six months in patients who discontinue HEPCLUDEX. Resumption of antiviral therapy may be warranted [see Warnings and Precautions (5.1) ] . WARNING: POSTTREATMENT SEVERE ACUTE EXACERBATION OF HEPATITIS D and B See full prescribing information for complete boxed warning . Severe acute exacerbations of hepatitis D and hepatitis B may occur after HEPCLUDEX is discontinued, especially in patients with cirrhosis, who may be at increased risk of more severe flares or progression to hepatic decompensation. Monitor hepatic function closely with both clinical and laboratory follow-up, including hepatitis B virus (HBV) DNA and hepatitis delta virus (HDV) RNA viral load, for at least six months in patients who discontinue HEPCLUDEX. Resumption of antiviral therapy may be warranted. ( 5.1 )",
+    "openfda_brand_names": [
+      "HEPCLUDEX"
+    ],
+    "openfda_generic_names": [
+      "BULEVIRTIDE"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=12391cc2-38c2-4cf5-86d3-2be9370127fc",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Viral Hepatitis",
+    "slug": "viral-hepatitis"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07128550",
+      "title": "A Study to Evaluate Tobevibart+Elebsiran in Participants With Chronic HDV Infection Not Virologically Suppressed With Bulevirtide",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07128550",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42918455",
+        "title": "Therapeutic advances in chronic hepatitis B and Delta: where are we now and where are we headed?",
+        "pubdate": "2026 Oct 23",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42918455/"
+      },
+      {
+        "pmid": "42358056",
+        "title": "From Diagnosis to Durability: A Review of the European Bulevirtide Experience and Practical Learnings for CHD Management.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42358056/"
+      },
+      {
+        "pmid": "41969017",
+        "title": "Classification and sequencing of hepatitis D virus from a large cohort of chronically infected individuals paired with co-infecting hepatitis B virus sequencing: a genomic characterisation study.",
+        "pubdate": "2026 May",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41969017/"
+      },
+      {
+        "pmid": "41966308",
+        "title": "144 Weeks of bulevirtide monotherapy for chronic hepatitis D: Final and post-treatment results from a phase III randomized trial.",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41966308/"
+      },
+      {
+        "pmid": "42118873",
+        "title": "",
+        "pubdate": "2026 Jan",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42118873/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

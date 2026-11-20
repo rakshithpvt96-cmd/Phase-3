@@ -1,7 +1,7 @@
 {
   "drug_name": "Apitegromab",
   "slug": "apitegromab",
-  "enriched_at": "2026-10-18T11:58:48Z",
+  "enriched_at": "2026-11-20T16:07:02Z",
   "source_trial_ids": [
     "NCT05626855"
   ],
@@ -28,20 +28,20 @@
   },
   "fda_label": {
     "has_label": true,
-    "source": "DailyMed",
-    "mechanism_of_action": null,
-    "pharmacokinetics": null,
-    "indications_and_usage": null,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action ISEMBYLD is a fully human monoclonal IgG4 antibody that binds to promyostatin and latent myostatin and inhibits the activation of myostatin, blocking myostatin signaling.",
+    "pharmacokinetics": "12.3 Pharmacokinetics The PK of apitegromab-mstn were characterized in healthy adult subjects and in patients with SMA using population pharmacokinetic modeling. Pharmacokinetics of apitegromab-mstn were linear and dose-proportional in the range of 10 mg/kg to 20 mg/kg (twice the recommended dosage) in patients with SMA. Following administration of ISEMBYLD once every 4 weeks in patients with SMA, approximately 2-fold accumulation of apitegromab-mstn exposures were observed, and exposures reached steady state by approximately 16-20 weeks. Distribution The apitegromab-mstn mean (coefficient of variation % [CV%]) steady state volume of distribution in patients with SMA (2 to 21 years of age) was estimated to be 2.16 L (48%). Elimination Apitegromab-mstn is expected to be degraded into small peptides and amino acids via catabolism in the same manner as endogenous IgGs. The mean value (CV%) of clearance of apitegromab-mstn in patients with SMA (2 to 21 years of age) was estimated to be 0.055 L/day (50%). The mean value (CV%) of the terminal elimination half-life of apitegromab-mstn was estimated to be 31.2 days (32%). Specific Populations Pediatric Patients The PK of apitegromab-mstn was characterized in pediatric patients 2 years of age and older using a population pharmacokinetic model. Following weight-based dosing of ISEMBYLD 10 mg/kg, model-predicted steady state exposures (C max , C trough and AUC) of apitegromab-mstn was comparable between patients 2 to 12 years of age and 13 to 21 years of age. Male and Female Patients and Racial or Ethnic Groups Based on the population PK analysis, sex, race, and ethnicity had no effect on apitegromab-mstn PK in patients with SMA. Patients with Renal or Hepatic Impairment No clinical studies were conducted to evaluate the PK of apitegromab-mstn in patients with renal or hepatic impairment. Apitegromab-mstn is degraded by proteolytic enzymes and is not expected to undergo renal elimination or metabolism by hepatic enzymes. Drug Interaction Studies An effect of apitegromab-mstn on the PK of co-administered medications is not expected. Based on the population PK analysis, SMN-modulating therapies (nusinersen and risdiplam) had no effect on apitegromab-mstn PK in patients with SMA.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE ISEMBYLD is indicated for the treatment of spinal muscular atrophy (SMA) in adults and pediatric patients 2 years of age and older who are currently receiving a survival motor neuron 2 (SMN2)-targeted treatment. ISEMBYLD is a recombinant monoclonal antibody targeting proforms of myostatin, indicated for the treatment of spinal muscular atrophy (SMA) in adults and pediatric patients 2 years of age and older who are currently receiving a survival motor neuron 2 (SMN2)-targeted treatment. ( 1 )",
     "boxed_warning": null,
-    "openfda_brand_names": [],
-    "openfda_generic_names": [],
+    "openfda_brand_names": [
+      "ISEMBYLD"
+    ],
+    "openfda_generic_names": [
+      "APITEGROMAB-MSTN"
+    ],
     "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b1cd8ab8-8a10-48ed-9806-75a44f22b963",
-    "note": "A label exists in DailyMed but structured sections could not be parsed automatically -- see dailymed_url for the full label.",
-    "further_reading": {
-      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Apitegromab+mechanism+of+action",
-      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Apitegromab+pharmacokinetics",
-      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Apitegromab+efficacy+phase+3"
-    }
+    "note": null,
+    "further_reading": null
   },
   "condition": {
     "raw": "Spinal Muscular Atrophy",

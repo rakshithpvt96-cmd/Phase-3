@@ -1,0 +1,131 @@
+{
+  "drug_name": "Lanreotide",
+  "slug": "lanreotide",
+  "enriched_at": "2026-11-20T16:19:33Z",
+  "source_trial_ids": [
+    "NCT05477576"
+  ],
+  "sponsors": [
+    {
+      "name": "RayzeBio, Inc.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=RayzeBio%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 6918011,
+    "iupac_name": "(4R,7S,10S,13R,16S,19R)-10-(4-aminobutyl)-N-[(2S,3R)-1-amino-3-hydroxy-1-oxobutan-2-yl]-19-[[(2R)-2-amino-3-naphthalen-2-ylpropanoyl]amino]-16-[(4-hydroxyphenyl)methyl]-13-(1H-indol-3-ylmethyl)-6,9,12,15,18-pentaoxo-7-propan-2-yl-1,2-dithia-5,8,11,14,17-pentazacycloicosane-4-carboxamide",
+    "molecular_formula": "C54H69N11O10S2",
+    "molecular_weight": "1096.3",
+    "canonical_smiles": null,
+    "inchikey": "PUDHBTGHUJUUFI-SCTWWAJVSA-N",
+    "rxnorm": {
+      "rxcui": "68092",
+      "generic_name": "lanreotide",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1201184",
+    "target_chembl_id": "CHEMBL1792",
+    "target_name": "Somatostatin receptor type 5",
+    "mechanism_of_action_chembl": "Somatostatin receptor 5 agonist"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Lanreotide, the active component of Lanreotide Injection, is an octapeptide analog of natural somatostatin. The mechanism of action of lanreotide is believed to be similar to that of natural somatostatin.",
+    "pharmacokinetics": "12.3 Pharmacokinetics Lanreotide Injection is thought to form a drug depot at the injection site due to the interaction of the formulation with physiological fluids. The most likely mechanism of drug release is a passive diffusion of the precipitated drug from the depot towards the surrounding tissues, followed by the absorption to the bloodstream. After a single, deep subcutaneous administration, the mean absolute bioavailability of lanreotide in healthy subjects was 73.4, 69.0, and 78.4% for the 60 mg, 90 mg, and 120 mg doses, respectively. Mean Cmax values ranged from 4.3 to 8.4 ng/mL during the first day. Single-dose linearity was demonstrated with respect to AUC and Cmax and showed high inter-subject variability. Lanreotide showed sustained release of lanreotide with a half-life of 23 to 30 days. Mean serum concentrations were > 1 ng/mL throughout 28 days at 90 mg and 120 mg and > 0.9 ng/mL at 60 mg. In studies evaluating excretion, <5% of lanreotide was excreted in urine and less than 0.5% was recovered unchanged in feces, indicative of some biliary excretion. Acromegaly In a repeat-dose administration pharmacokinetics (PK) study in acromegalic patients, rapid initial release was seen giving peak levels during the first day after administration. At doses of lanreotide between 60 and 120 mg, linear pharmacokinetics were observed in acromegalic patients. At steady state, mean Cmax values were 3.8 ± 0.5, 5.7 ± 1.7, and 7.7 ± 2.5 ng/mL, increasing linearly with dose. The mean accumulation ratio index was 2.7, which is in line with the range of values for the half-life of lanreotide. The steady- state trough serum lanreotide concentrations in patients receiving lanreotide every 28 days were 1.8 ± 0.3; 2.5 ± 0.9 and 3.8 ± 1.0 ng/mL at 60 mg, 90 mg, and 120 mg doses, respectively. A limited initial burst effect and a low peak-to-trough fluctuation (81% to 108%) of the serum concentration at the plateau were observed. For the same doses, similar values were obtained in clinical studies after at least four administrations (2.3 ± 0.9, 3.2 ± 1.1, and 4.0 ± 1.4 ng/mL, respectively). Pharmacokinetic data from studies evaluating extended dosing use of lanreotide injection 120 mg demonstrated mean steady-state, Cmin values between 1.6 and 2.3 ng/mL for the 8- and 6-week treatment interval, respectively. Gastroenteropancreatic Neuroendocrine Tumors In patients with GEP-NETs treated with lanreotide 120 mg every 4 weeks, steady state concentrations were reached after 4 to 5 injections and the mean trough serum lanreotide concentrations at steady state ranged from 5.3 to 8.6 ng/mL. Specific Populations Lanreotide Injection has not been studied in specific populations. However, the pharmacokinetics of lanreotide in renal impaired, hepatic impaired, and geriatric subjects were evaluated after IV administration of lanreotide immediate release formulation (IRF) at 7 mcg/kg dose. Geriatric Patients Studies in healthy elderly subjects showed an 85% increase in half-life and a 65% increase in mean residence time (MRT) of lanreotide compared to those seen in healthy young subjects; however, there was no change in either AUC or Cmax of lanreotide in elderly as compared to healthy young subjects. Age has no effect on clearance of lanreotide based on population PK analysis in patients with GEP-NET which included 122 patients aged 65 to 85 years with neuroendocrine tumors. Patients with Renal Impairment An approximate 2-fold decrease in total serum clearance of lanreotide, with a consequent 2­fold increase in half-life and AUC was observed [see Dosage and Administration ( 2.2 ) and Use in Specific Populations ( 8.6 )]. Mild (CLcr 60-89 mL/min) or moderate (CLcr 30-59 mL/min) renal impairment has no effect on clearance of lanreotide in patients with GEP-NET based on population PK analysis which included 106 patients with mild and 59 patients with moderate renal impairment treated with lanreotide. GEP-NET patients with severe renal impairment (CLcr < 30 mL/min) were not studied. Patients with Hepatic Impairment In subjects with moderate to severe hepatic impairment, a 30% reduction in clearance of lanreotide was observed [see Dosage and Administration ( 2.3 ) and Use in Specific Populations ( 8.7 )]. The effect of hepatic impairment on clearance of lanreotide has not been studied in patients with GEP-NET.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE Lanreotide Injection is a somatostatin analog indicated for: the long-term treatment of acromegalic patients who have had an inadequate response to or cannot be treated with surgery and/or radiotherapy. ( 1.1 ) the treatment of adult patients with unresectable, well- or moderately- differentiated, locally advanced or metastatic gastroenteropancreatic neuroendocrine tumors (GEP-NETs) to improve progression-free survival. ( 1.2 ) the treatment of adults with carcinoid syndrome; when used, it reduces the frequency of short-acting somatostatin analog rescue therapy. ( 1.3 ) 1.1 Acromegaly Lanreotide Injection is indicated for the long-term treatment of acromegalic patients who have had an inadequate response to surgery and/or radiotherapy, or for whom surgery and/or radiotherapy is not an option. The goal of treatment in acromegaly is to reduce growth hormone (GH) and insulin growth factor-1 (IGF-1) levels to normal. 1.2 Gastroenteropancreatic Neuroendocrine Tumors Lanreotide Injection is indicated for the treatment of adult patients with unresectable, well or moderately differentiated, locally advanced or metastatic gastroenteropancreatic neuroendocrine tumors (GEP-NETs) to improve progression-free survival. 1.3 Carcinoid Syndrome Lanreotide Injection is indicated for the treatment of adults with carcinoid syndrome; when used, it reduces the frequency of short-acting somatostatin analog rescue therapy.",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "Lanreotide Acetate"
+    ],
+    "openfda_generic_names": [
+      "LANREOTIDE ACETATE"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e240b3b9-7a07-46b5-bacc-04e915d4ebd4",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "GEP-NET",
+    "slug": "gep-net"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05477576",
+      "title": "Study of RYZ101 Compared With SOC in Pts w Inoperable SSTR+ Well-differentiated GEP-NET That Has Progressed Following 177Lu-SSA Therapy",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05477576",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42958416",
+        "title": "Lanreotide for the prevention of postoperative pancreatic fistula (S2408): study protocol for a multicenter randomized controlled trial.",
+        "pubdate": "2026 Aug 3",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42958416/"
+      },
+      {
+        "pmid": "39415322",
+        "title": "The current status of somatostatin analogs in the treatment of neuroendocrine tumors and future perspectives.",
+        "pubdate": "2025 Feb",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39415322/"
+      },
+      {
+        "pmid": "39378125",
+        "title": "Octreotide Subcutaneous Depot for Acromegaly: A Randomized, Double-blind, Placebo-controlled Phase 3 Trial, ACROINNOVA 1.",
+        "pubdate": "2025 May 19",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39378125/"
+      },
+      {
+        "pmid": "39070749",
+        "title": "Lanreotide versus placebo for tumour reduction in patients with a (68)Ga-DOTATATE PET-positive, clinically non-functioning pituitary macroadenoma (GALANT study): a randomised, multicentre, phase 3 trial with blinded outcome assessment.",
+        "pubdate": "2024 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39070749/"
+      },
+      {
+        "pmid": "38993030",
+        "title": "Clinical trial: The effectiveness of long-acting somatostatin analogue for output reduction of high-output intestinal fistula or small bowel enterostomy. A randomised controlled trial.",
+        "pubdate": "2024 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38993030/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "PASIREOTIDE DIASPARTATE",
+        "chembl_id": "CHEMBL5314380",
+        "reason": "same target: Somatostatin receptor type 5"
+      },
+      {
+        "name": "PASIREOTIDE PAMOATE",
+        "chembl_id": "CHEMBL5314382",
+        "reason": "same target: Somatostatin receptor type 5"
+      },
+      {
+        "name": "VAPREOTIDE",
+        "chembl_id": "CHEMBL3349523",
+        "reason": "same target: Somatostatin receptor type 5"
+      },
+      {
+        "name": "VELDOREOTIDE",
+        "chembl_id": "CHEMBL3989911",
+        "reason": "same target: Somatostatin receptor type 5"
+      },
+      {
+        "name": "ONZIGOLIDE",
+        "chembl_id": "CHEMBL4650342",
+        "reason": "same target: Somatostatin receptor type 5"
+      }
+    ]
+  }
+}

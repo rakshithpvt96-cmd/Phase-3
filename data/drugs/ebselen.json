@@ -1,0 +1,105 @@
+{
+  "drug_name": "Ebselen",
+  "slug": "ebselen",
+  "enriched_at": "2026-11-20T16:13:34Z",
+  "source_trial_ids": [
+    "NCT06859788"
+  ],
+  "sponsors": [
+    {
+      "name": "Sound Pharmaceuticals, Incorporated",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Sound%20Pharmaceuticals%2C%20Incorporated&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 3194,
+    "iupac_name": "2-phenyl-1,2-benzoselenazol-3-one",
+    "molecular_formula": "C13H9NOSe",
+    "molecular_weight": "274.19",
+    "canonical_smiles": null,
+    "inchikey": "DYEFUKCXAQOFHX-UHFFFAOYSA-N",
+    "rxnorm": {
+      "rxcui": "23802",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL51085",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": "Antioxidant"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Ebselen+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Ebselen+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Ebselen+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Meniere's Disease",
+    "slug": "meniere-s-disease"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06859788",
+      "title": "SPI-1005 for the Treatment of Meniere's Disease (Open Label)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06859788",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42720312",
+        "title": "Vancomycin rescues sensitivity to isoniazid in clinical isolates of drug-resistant Mycobacterium tuberculosis.",
+        "pubdate": "2026 Oct 6",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42720312/"
+      },
+      {
+        "pmid": "42582108",
+        "title": "Innovations in conservative and surgical therapy for Ménière's disease-narrative review.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42582108/"
+      },
+      {
+        "pmid": "42178306",
+        "title": "Fructose 1-phosphate inhibits mannose phosphate isomerase to suppress hepatocellular carcinogenesis.",
+        "pubdate": "2026 May 25",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42178306/"
+      },
+      {
+        "pmid": "35149420",
+        "title": "Quantification of the major circulating metabolite of BS1801, an ebselen analog, in human plasma.",
+        "pubdate": "2022 Apr 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35149420/"
+      },
+      {
+        "pmid": "34907394",
+        "title": "A Delphi-method-based consensus guideline for definition of treatment-resistant depression for clinical trials.",
+        "pubdate": "2022 Mar",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34907394/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

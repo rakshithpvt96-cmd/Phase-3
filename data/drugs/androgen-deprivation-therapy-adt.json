@@ -1,8 +1,9 @@
 {
   "drug_name": "Androgen-deprivation Therapy (ADT)",
   "slug": "androgen-deprivation-therapy-adt",
-  "enriched_at": "2026-11-11T14:58:27Z",
+  "enriched_at": "2026-11-20T16:06:10Z",
   "source_trial_ids": [
+    "NCT03767244",
     "NCT05884398"
   ],
   "sponsors": [
@@ -49,6 +50,13 @@
   },
   "source_trials": [
     {
+      "nct_id": "NCT03767244",
+      "title": "A Study of Apalutamide in Participants With High-Risk, Localized or Locally Advanced Prostate Cancer Who Are Candidates for Radical Prostatectomy",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT03767244",
+      "has_results": false
+    },
+    {
       "nct_id": "NCT05884398",
       "title": "A Study of an Intermittent ADT Approach With Apalutamide Monotherapy in Participants With mCSPC",
       "status": "ACTIVE_NOT_RECRUITING",
@@ -60,16 +68,22 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "43025371",
+        "title": "Predicting efficacy and toxicity of drug combinations in salivary gland cancers: A model based on phase II trials.",
+        "pubdate": "2026 Nov 13",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43025371/"
+      },
+      {
+        "pmid": "43016316",
+        "title": "A prospective trial of a personalized exercise program in patients with advanced prostate cancer.",
+        "pubdate": "2026 Nov 12",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43016316/"
+      },
+      {
         "pmid": "42947754",
         "title": "Erdi Bazhen decoction for cancer-related fatigue due to qi and blood deficiency in prostate cancer patients receiving androgen deprivation therapy: an exploratory randomized, double-blind, placebo-controlled pilot clinical trial protocol.",
         "pubdate": "2026",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42947754/"
-      },
-      {
-        "pmid": "42921729",
-        "title": "ENZARAD (ANZUP 1303): Phase 3 Trial of Enzalutamide With Androgen Deprivation Therapy and Radiation Therapy in High-Risk Localized or Locally Advanced Prostate Cancer.",
-        "pubdate": "2026 Oct 24",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42921729/"
       },
       {
         "pmid": "42875365",
@@ -82,12 +96,6 @@
         "title": "Evaluation of Time to Metastasis After Prostatectomy as a Prognostic Factor in Patients With Metachronous mHSPC: A Secondary Analysis of the SWOG-1216 Phase 3 Trial.",
         "pubdate": "2026 Oct 6",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42837091/"
-      },
-      {
-        "pmid": "42801727",
-        "title": "Insulin-Like Growth Factor Axis and Survival in Metastatic Hormone-Sensitive Prostate Cancer: Post-Hoc Analysis From the ENZAMET Phase 3 Trial.",
-        "pubdate": "2026 Sep 27",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42801727/"
       }
     ]
   },

@@ -1,9 +1,11 @@
 {
   "drug_name": "BL-B01D1",
   "slug": "bl-b01d1",
-  "enriched_at": "2026-11-15T14:35:36Z",
+  "enriched_at": "2026-11-20T16:07:37Z",
   "source_trial_ids": [
-    "NCT06118333"
+    "NCT06118333",
+    "NCT06382129",
+    "NCT06500026"
   ],
   "sponsors": [
     {
@@ -53,6 +55,20 @@
       "title": "A Study Comparing BL-B01D1 With Physician's Choice of Chemotherapy in Patients With Recurrent or Metastatic Nasopharyngeal Carcinoma(PANKU-NPC01)",
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT06118333",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06382129",
+      "title": "A Study Comparing BL-B01D1 With Docetaxel in Patients With Unresectable Locally Advanced or Metastatic EGFR Wild-type Non-small Cell Lung Cancer(PANKU-Lung02)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06382129",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06500026",
+      "title": "A Study Comparing BL-B01D1 With Topotecan in Patients With Recurrent Small Cell Lung Cancer(PANKU-Lung03)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06500026",
       "has_results": false
     }
   ],

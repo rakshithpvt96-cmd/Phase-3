@@ -1,7 +1,7 @@
 {
   "drug_name": "Corticosteroids",
   "slug": "corticosteroids",
-  "enriched_at": "2026-11-13T15:16:38Z",
+  "enriched_at": "2026-11-20T16:10:07Z",
   "source_trial_ids": [
     "NCT05653349"
   ],
@@ -60,40 +60,46 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "43012536",
-        "title": "Safety and Efficacy of Efgartigimod for Generalized Myasthenia Gravis: A Systematic Review and Meta-Analysis.",
-        "pubdate": "2026 Nov",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43012536/"
+        "pmid": "43055442",
+        "title": "Disease-modifying treatment does not influence severity and recovery of the first relapse after treatment onset in RRMS: insights from four large-scale clinical trials.",
+        "pubdate": "2026 Nov 19",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43055442/"
       },
       {
-        "pmid": "43007675",
-        "title": "Inhaled Corticosteroids and Sickle Cell Disease Severity in Adults Without Asthma: A Randomized Clinical Trial.",
-        "pubdate": "2026 Nov 2",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43007675/"
+        "pmid": "43048703",
+        "title": "How We Use Corticosteroids in Immune Thrombocytopenia.",
+        "pubdate": "2026 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43048703/"
       },
       {
-        "pmid": "43003350",
-        "title": "Intravenous pulse methylprednisolone versus placebo for ethambutol-induced optic neuropathy (EtON): A double-blind randomized placebo-controlled trial.",
-        "pubdate": "2026 Nov 9",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43003350/"
-      },
-      {
-        "pmid": "42996603",
-        "title": "COPD: real-world evidence on single-inhaler triple therapy and the emergence of biologic therapy.",
+        "pmid": "43047389",
+        "title": "Grade 3 cholestatic immune-related hepatitis under cemiplimab for high-risk locally advanced cutaneous squamous cell carcinoma: a case report from Germany.",
         "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42996603/"
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43047389/"
       },
       {
-        "pmid": "42988724",
-        "title": "First-in-Human Regulatory T Cell-Derived Exosomes Plus Ranibizumab for Refractory nAMD.",
+        "pmid": "43047289",
+        "title": "Calcium-Based Antimicrobial Peptide Compounds as a Novel Treatment for Chronic Cheilitis: A Controlled Clinical Trial.",
         "pubdate": "2026 Nov",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42988724/"
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43047289/"
+      },
+      {
+        "pmid": "43044794",
+        "title": "Sexual Dysfunction Associated with Dermatologic Medications - A Comprehensive Review.",
+        "pubdate": "2026 Nov 17",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43044794/"
       }
     ]
   },
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": []
+    "items": [
+      {
+        "name": "Human immunoglobulin (pH4) for intravenous injection",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Grand Shuyang Life Sciences (Chengdu) Co., Ltd."
+      }
+    ]
   }
 }

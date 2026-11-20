@@ -1,9 +1,10 @@
 {
   "drug_name": "Bevacizumab",
   "slug": "bevacizumab",
-  "enriched_at": "2026-11-16T18:00:11Z",
+  "enriched_at": "2026-11-20T16:07:23Z",
   "source_trial_ids": [
     "NCT03148418",
+    "NCT05654454",
     "NCT06618664"
   ],
   "sponsors": [
@@ -12,6 +13,12 @@
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Hoffmann-La%20Roche&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Mabscale, LLC",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Mabscale%2C%20LLC&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Suzhou Suncadia Biopharmaceuticals Co., Ltd.",
@@ -63,6 +70,13 @@
       "has_results": false
     },
     {
+      "nct_id": "NCT05654454",
+      "title": "A Safety and Efficacy Study of Bevacizumab, Paclitaxel, Carboplatin Compared to Avastin® in Non-Small Cell Lung Cancer",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05654454",
+      "has_results": false
+    },
+    {
       "nct_id": "NCT06618664",
       "title": "A Clinical Study of SHR-8068 Combined With Adebrelimab and Bevacizumab Versus Sintilimab Combined With Bevacizumab for the Treatment of Advanced Hepatocellular Carcinoma (KYLIN-02)",
       "status": "RECRUITING",
@@ -74,6 +88,24 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "43056416",
+        "title": "Efficacy and safety of hepatic arterial infusion chemotherapy combined with palliative transarterial chemoembolization followed by targeted therapy and immunotherapy in patients with BCLC stage C hepatocellular carcinoma: Clinical trial protocol.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43056416/"
+      },
+      {
+        "pmid": "43048891",
+        "title": "Network proximity-based drug repurposing identifies anti-inflammatory therapies for Alzheimer's disease.",
+        "pubdate": "2026 Nov 18",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43048891/"
+      },
+      {
+        "pmid": "43040603",
+        "title": "Quality of Life Outcomes From the Phase 3 Study of Atezolizumab + Bevacizumab and Chemotherapy (ATTLAS, KCSG-LU19-04) in EGFR/ALK-Mutated Non-Small-Cell Lung Cancer.",
+        "pubdate": "2026 Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43040603/"
+      },
+      {
         "pmid": "43013925",
         "title": "BEHOLD phase 3 clinical development program of mocertatug rezetecan in ovarian and endometrial cancer.",
         "pubdate": "2026 Nov 11",
@@ -84,24 +116,6 @@
         "title": "Short-term effects of oral curcumin as adjunct to intravitreal bevacizumab in diabetic macular edema: a randomized clinical trial.",
         "pubdate": "2026 Aug 3",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42968188/"
-      },
-      {
-        "pmid": "42945979",
-        "title": "Pazopanib alternating with bevacizumab in patients with metastatic clear-cell renal cell carcinoma naive to treatment: a multicentre, single-arm, phase 1/2 trial.",
-        "pubdate": "2026 Oct 27",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42945979/"
-      },
-      {
-        "pmid": "42945772",
-        "title": "Immune checkpoint inhibitors in platinum-resistant ovarian cancer: Clinical disappointments, biological lessons, and the reopening of therapeutic opportunities.",
-        "pubdate": "2026 Oct 24",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42945772/"
-      },
-      {
-        "pmid": "42945508",
-        "title": "PARP Inhibitors in the Management of Ovarian Cancer: ASCO Living Guideline, Version 2026.1.0.",
-        "pubdate": "2026 Oct 27",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42945508/"
       }
     ]
   },
@@ -110,52 +124,52 @@
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
     "items": [
       {
-        "name": "CHEMBL1201421",
+        "name": "PEGAPTANIB SODIUM",
         "chembl_id": "CHEMBL1201421",
         "reason": "same target: Vascular endothelial growth factor A, long form"
       },
       {
-        "name": "CHEMBL1201825",
+        "name": "RANIBIZUMAB",
         "chembl_id": "CHEMBL1201825",
         "reason": "same target: Vascular endothelial growth factor A, long form"
       },
       {
-        "name": "CHEMBL1742982",
+        "name": "AFLIBERCEPT",
         "chembl_id": "CHEMBL1742982",
         "reason": "same target: Vascular endothelial growth factor A, long form"
       },
       {
-        "name": "CHEMBL3707253",
+        "name": "BEVACIZUMAB 111IN",
         "chembl_id": "CHEMBL3707253",
         "reason": "same target: Vascular endothelial growth factor A, long form"
       },
       {
-        "name": "CHEMBL4297163",
+        "name": "MUPARFOSTAT",
         "chembl_id": "CHEMBL4297163",
         "reason": "same target: Vascular endothelial growth factor A, long form"
       },
       {
-        "name": "CHEMBL2108313",
+        "name": "CONBERCEPT",
         "chembl_id": "CHEMBL2108313",
         "reason": "same target: Vascular endothelial growth factor A, long form"
       },
       {
-        "name": "CHEMBL3707357",
+        "name": "BROLUCIZUMAB",
         "chembl_id": "CHEMBL3707357",
         "reason": "same target: Vascular endothelial growth factor A, long form"
       },
       {
-        "name": "CHEMBL3545259",
+        "name": "VANUCIZUMAB",
         "chembl_id": "CHEMBL3545259",
         "reason": "same target: Vascular endothelial growth factor A, long form"
       },
       {
-        "name": "CHEMBL4297750",
+        "name": "FARICIMAB",
         "chembl_id": "CHEMBL4297750",
         "reason": "same target: Vascular endothelial growth factor A, long form"
       },
       {
-        "name": "CHEMBL4297684",
+        "name": "ABICIPAR PEGOL",
         "chembl_id": "CHEMBL4297684",
         "reason": "same target: Vascular endothelial growth factor A, long form"
       }

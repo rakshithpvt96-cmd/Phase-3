@@ -1,0 +1,99 @@
+{
+  "drug_name": "Donidalorsen",
+  "slug": "donidalorsen",
+  "enriched_at": "2026-11-20T16:12:07Z",
+  "source_trial_ids": [
+    "NCT05392114"
+  ],
+  "sponsors": [
+    {
+      "name": "Ionis Pharmaceuticals, Inc.",
+      "ticker": "IONS",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000874015&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2724361",
+      "generic_name": "donidalorsen",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4650235",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Donidalorsen is an ASO‑GalNAc conjugate that causes ribonuclease H1 (RNase H1)‑mediated degradation of PKK mRNA through binding to PKK mRNA, which results in reduced production of PKK protein. PKK is a pro‑enzyme for plasma kallikrein, which results in the release of bradykinin, a potent vasodilator causing swelling and pain in HAE. In patients with HAE, C1‑inhibitor (C1‑INH) deficiency or dysfunction leads to excessive plasma kallikrein activity, bradykinin generation, and angioedema attacks. Donidalorsen lowers PKK concentration, preventing excessive bradykinin production in patients with HAE.",
+    "pharmacokinetics": "12.3 Pharmacokinetics The pharmacokinetic properties of DAWNZERA were evaluated following subcutaneous administration of multiple doses every 4 weeks in healthy subjects and every 4 weeks or every 8 weeks in patients with HAE. The pharmacokinetics of DAWNZERA were similar between healthy subjects and patients with HAE. Donidalorsen exposure (area under the plasma concentration‑time curve [AUC]) at steady state following subcutaneous administration in healthy subjects increased in a greater than dose‑proportional manner over the dose range of 0.25 times the maximum recommended dosage to 80 mg every 4 weeks. Geometric Mean (Coefficient of Variation [CV%]) of steady‑state maximum plasma concentration (C max,ss ), trough plasma concentration (C trough,ss ), and area under the plasma concentration‑time curve over the dosing interval (AUC τ ,ss ) are presented in Table 2. No accumulation of donidalorsen C max and AUC was observed in plasma after repeated dosing every 4 weeks. However, a 2-fold increase of plasma donidalorsen C trough was observed following repeated dosing every 4 weeks. Table 2: Summary of Geometric Mean (CV%) Steady-State Donidalorsen Pharmacokinetic Parameters Following Dosage of DAWNZERA 80 mg Every 4 Weeks or 80 mg Every 8 Weeks in Patients with HAE AUC τ,ss = area under the plasma concentration time curve over each dosing interval at steady state; C max,ss = maximum plasma concentration at steady state; C trough,ss = trough plasma concentration at steady state; q4wks = every 4 weeks; q8wks = every 8 weeks. Pharmacokinetic Parameters (Geometric Mean) DAWNZERA 80 mg q4wks 80 mg q8wks C max,ss (ng/mL) 417 (81%) 416 (78%) C trough,ss (ng/mL) 0.755 (63%) 0.255 (73%) AUC τ,ss (ng·h/mL) 5240 (52%) 5210 (52%) Absorption Following subcutaneous administration, donidalorsen is absorbed with the median (range) time to maximum plasma concentration of approximately 2 (0.25, 8) hours post dose. Distribution Donidalorsen is expected to distribute primarily to the liver and kidney cortex after subcutaneous dosing. The apparent volume of distribution for the central (V c /F) and peripheral (V p /F) compartment were 69.8 L and 1840 L, respectively. Donidalorsen is highly bound to human plasma proteins (>98% bound) in vitro. Elimination The terminal plasma elimination half-life of donidalorsen in a typical patient with HAE is approximately 1 month. The half-life of the initial rapid clearance phase, reflecting tissue distribution, was approximately 5 hours. Metabolism The oligonucleotide moiety of donidalorsen is expected to be metabolized by endo‑ and exonucleases to short oligonucleotide fragments of varying sizes within the liver. Based on in vitro studies, donidalorsen is not a substrate of cytochrome P450 (CYP) enzymes. The linker that covalently connects the ASO to the GalNAc residues is cleaved via hydrolysis and undergoes dephosphorylation and subsequent oxidative metabolism to form inactive metabolites, which are minimally released in circulation. The most abundant linker-related metabolite (M8) is a substrate of CYP3A4. Excretion The mean fraction of unchanged ASO eliminated in urine was less than 1% of the administered dose in healthy subjects within 24 hours post-dose. The renal route of elimination is minor for linker-related metabolites. Specific Populations No clinically meaningful differences in the pharmacokinetics or pharmacodynamics of donidalorsen were observed based on age (12 to 68 years), body weight (37 to 152 kg), sex, race (68% White, 24% Black, and 4% Asian), ethnicity, disease status (healthy subjects or subjects with HAE), mild renal impairment (eGFR ≥60 to <90 mL/min/1.73 m 2 ), or mild hepatic impairment (defined using NCI-ODWG Criteria: total bilirubin ≤1 × ULN and AST >1 × ULN, or total bilirubin >1 to 1.5 × ULN and any AST). Donidalorsen has not been studied in patients with moderate or severe renal impairment, end‑stage renal disease, or moderate or severe hepatic impairment. Drug Interaction Studies No clinical drug‑drug interaction studies have been performed with donidalorsen. In vitro studies show that donidalorsen is not a substrate or inhibitor of transporters, does not interact with highly plasma protein bound drugs, and is not an inhibitor/inducer of CYP enzymes. In vitro studies show that linker-related metabolite M8 is not an inhibitor or inducer of CYP enzymes. M8 is a substrate of transporters bile salt export pump (BSEP) and organic anion transporting polypeptide 1B3 (OATP1B3), and is an inhibitor of multidrug and toxin extrusion protein 1 (MATE1) transporter.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE DAWNZERA™ is indicated for prophylaxis to prevent attacks of hereditary angioedema (HAE) in adult and pediatric patients 12 years of age and older. DAWNZERA is a prekallikrein directed antisense oligonucleotide indicated for prophylaxis to prevent attacks of hereditary angioedema (HAE) in adult and pediatric patients 12 years of age and older. ( 1 )",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "DAWNZERA"
+    ],
+    "openfda_generic_names": [
+      "DONIDALORSEN"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3ff501e0-f75f-07da-e063-6294a90a0cb7",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Hereditary Angioedema",
+    "slug": "hereditary-angioedema"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05392114",
+      "title": "A Study to Assess the Long-Term Safety and Efficacy of Donidalorsen in the Prophylactic Treatment of Hereditary Angioedema (HAE)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05392114",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42948982",
+        "title": "Advances in pharmacotherapy for children aged 2 to <12 years with hereditary angioedema: what is the current state of play?",
+        "pubdate": "2026 Oct 30",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42948982/"
+      },
+      {
+        "pmid": "42415941",
+        "title": "Donidalorsen for the Treatment of Hereditary Angioedema: A Review of Clinical Studies.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42415941/"
+      },
+      {
+        "pmid": "42319677",
+        "title": "Psychometric validation of the Angioedema Quality of Life Questionnaire (AE-QoL) for hereditary angioedema.",
+        "pubdate": "2026 Jun 19",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42319677/"
+      },
+      {
+        "pmid": "41783625",
+        "title": "Association of muscle instability and long-term prophylaxis in hereditary angioedema.",
+        "pubdate": "2026 Mar",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41783625/"
+      },
+      {
+        "pmid": "41767175",
+        "title": "Donidalorsen for Long-Term Prophylaxis of Hereditary Angioedema Attacks: Results from the OASISplus Open-Label Extension Cohort at Year 1.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41767175/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}
