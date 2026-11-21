@@ -1,7 +1,7 @@
 {
   "drug_name": "RBS-001 Solution for intravitreal injection",
   "slug": "rbs-001-solution-for-intravitreal-injection",
-  "enriched_at": "2026-11-14T16:14:38Z",
+  "enriched_at": "2026-11-21T16:23:55Z",
   "source_trial_ids": [
     "NCT06470373"
   ],
@@ -94,6 +94,17 @@
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": []
+    "items": [
+      {
+        "name": "QL1207H injection",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Qilu Pharmaceutical Co., Ltd."
+      },
+      {
+        "name": "Aflibercept 8 mg",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Qilu Pharmaceutical Co., Ltd."
+      }
+    ]
   }
 }

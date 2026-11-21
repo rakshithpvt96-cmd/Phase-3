@@ -1,7 +1,7 @@
 {
   "drug_name": "Lenalidomide placebo",
   "slug": "lenalidomide-placebo",
-  "enriched_at": "2026-11-14T15:57:38Z",
+  "enriched_at": "2026-11-21T16:18:55Z",
   "source_trial_ids": [
     "NCT04824092"
   ],
@@ -23,7 +23,7 @@
   "mechanism": {
     "chembl_id": "CHEMBL848",
     "target_chembl_id": "CHEMBL3833061",
-    "target_name": null,
+    "target_name": "CRL4(CRBN) E3 ubiquitin ligase",
     "mechanism_of_action_chembl": "CRL4(CRBN) E3 ubiquitin ligase inhibitor"
   },
   "fda_label": {
@@ -92,8 +92,29 @@
     ]
   },
   "related_drugs": {
-    "method": "ctgov_same_condition",
+    "method": "chembl_same_target",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": []
+    "items": [
+      {
+        "name": "THALIDOMIDE",
+        "chembl_id": "CHEMBL468",
+        "reason": "same target: CRL4(CRBN) E3 ubiquitin ligase"
+      },
+      {
+        "name": "POMALIDOMIDE",
+        "chembl_id": "CHEMBL43452",
+        "reason": "same target: CRL4(CRBN) E3 ubiquitin ligase"
+      },
+      {
+        "name": "IBERDOMIDE",
+        "chembl_id": "CHEMBL3989927",
+        "reason": "same target: CRL4(CRBN) E3 ubiquitin ligase"
+      },
+      {
+        "name": "LENALIDOMIDE HYDROCHLORIDE MONOHYDRATE",
+        "chembl_id": "CHEMBL6068337",
+        "reason": "same target: CRL4(CRBN) E3 ubiquitin ligase"
+      }
+    ]
   }
 }

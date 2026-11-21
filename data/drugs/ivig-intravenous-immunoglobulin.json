@@ -1,7 +1,7 @@
 {
   "drug_name": "IVIG (Intravenous Immunoglobulin)",
   "slug": "ivig-intravenous-immunoglobulin",
-  "enriched_at": "2026-11-14T15:56:24Z",
+  "enriched_at": "2026-11-21T16:18:43Z",
   "source_trial_ids": [
     "NCT06742190"
   ],
@@ -21,10 +21,10 @@
     }
   },
   "mechanism": {
-    "chembl_id": null,
+    "chembl_id": "CHEMBL1201599",
     "target_chembl_id": null,
     "target_name": null,
-    "mechanism_of_action_chembl": null
+    "mechanism_of_action_chembl": "Replacement therapy, immunomodulatory effects"
   },
   "fda_label": {
     "has_label": false,
