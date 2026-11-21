@@ -1,0 +1,77 @@
+{
+  "drug_name": "VLA15",
+  "slug": "vla15",
+  "enriched_at": "2026-11-21T15:25:21Z",
+  "source_trial_ids": [
+    "NCT07500506"
+  ],
+  "sponsors": [
+    {
+      "name": "Pfizer",
+      "ticker": "PFE",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000078003&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": null
+  },
+  "mechanism": {
+    "chembl_id": null,
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=VLA15+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=VLA15+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=VLA15+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Lyme Disease",
+    "slug": "lyme-disease"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07500506",
+      "title": "A Study to Learn About the Safety, Tolerability, and Immunogenicity of a Fifth Dose of 6-Valent OspA-Based Lyme Disease Vaccine",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07500506",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42646715",
+        "title": "Lessons Unlearned: The Barriers to Lyme Borreliosis Vaccination and the Risk of Repeating History.",
+        "pubdate": "2026 Aug 12",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42646715/"
+      },
+      {
+        "pmid": "39233712",
+        "title": "Preclinical Evidence for the Protective Capacity of Antibodies Induced by Lyme Vaccine Candidate VLA15 in People.",
+        "pubdate": "2024 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39233712/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

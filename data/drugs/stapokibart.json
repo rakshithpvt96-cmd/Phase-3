@@ -1,0 +1,99 @@
+{
+  "drug_name": "Stapokibart",
+  "slug": "stapokibart",
+  "enriched_at": "2026-11-21T15:22:29Z",
+  "source_trial_ids": [
+    "NCT07678931"
+  ],
+  "sponsors": [
+    {
+      "name": "Chengdu Kangnuoxing Biopharma,Inc.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Chengdu%20Kangnuoxing%20Biopharma%2CInc.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2686339",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL5095324",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Stapokibart+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Stapokibart+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Stapokibart+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Seasonal Allergic Rhinitis (SAR)",
+    "slug": "seasonal-allergic-rhinitis-sar"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07678931",
+      "title": "Study on the Treatment of Adolescent Patients With Seasonal Allergic Rhinitis",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07678931",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "43057472",
+        "title": "Efficacy and safety of anti-IL-4Rα stapokibart for adults with moderate-to-severe prurigo nodularis: results from a phase 3 randomized trial.",
+        "pubdate": "2026 Nov 19",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43057472/"
+      },
+      {
+        "pmid": "42858405",
+        "title": "Stapokibart (CM310) in Atopic Dermatitis: A Narrative Review of a Next-Generation IL-4Rα Antagonist.",
+        "pubdate": "2026 Jul 31",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42858405/"
+      },
+      {
+        "pmid": "42403221",
+        "title": "Stapokibart provides significant improvements in signs and symptoms of atopic dermatitis irrespective of prior systemic treatment: a post-hoc analysis of a phase 3 trial.",
+        "pubdate": "2026 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42403221/"
+      },
+      {
+        "pmid": "42402685",
+        "title": "[Quality of life improvement with stapokibart in chronic rhinosinusitis with nasal polyps: a post hoc analysis of phase 3 CROWNS-2 study].",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42402685/"
+      },
+      {
+        "pmid": "42402682",
+        "title": "[Early response to stapokibart predicts long-term efficacy in patients with chronic rhinosinusitis with nasal polyps].",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42402682/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "drug_name": "Platinum chemotherapy: carboplatin (preferred) or cisplatin",
+  "slug": "platinum-chemotherapy-carboplatin-preferred-or-cisplatin",
+  "enriched_at": "2026-11-21T15:10:22Z",
+  "source_trial_ids": [
+    "NCT05281471"
+  ],
+  "sponsors": [
+    {
+      "name": "Genelux Corporation",
+      "ticker": "GNLX",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001231457&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2066891",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1351",
+    "target_chembl_id": "CHEMBL2311221",
+    "target_name": "DNA",
+    "mechanism_of_action_chembl": "DNA inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Platinum%20chemotherapy%3A%20carboplatin%20%28preferred%29%20or%20cisplatin+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Platinum%20chemotherapy%3A%20carboplatin%20%28preferred%29%20or%20cisplatin+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Platinum%20chemotherapy%3A%20carboplatin%20%28preferred%29%20or%20cisplatin+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Platinum-resistant Ovarian Cancer",
+    "slug": "platinum-resistant-ovarian-cancer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05281471",
+      "title": "Efficacy & Safety of Olvi-Vec and Platinum-doublet + Bevacizumab Compared to Physician's Choice of Chemotherapy and Bevacizumab in Platinum-Resistant/Refractory Ovarian Cancer (PRROC) (OnPrime, GOG-3076)",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05281471",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "43063870",
+        "title": "Co-targeting VEGF and PD-(L)1 in gastrointestinal cancers: biology, clinical landscape, and therapeutic frontiers.",
+        "pubdate": "2026 Nov 18",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43063870/"
+      },
+      {
+        "pmid": "43045680",
+        "title": "Cadonilimab plus gemcitabine and cisplatin as first-line treatment for unresectable locally advanced or metastatic biliary tract malignancies: the phase II bicureX clinical trial.",
+        "pubdate": "2026 Oct 19",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43045680/"
+      },
+      {
+        "pmid": "43040603",
+        "title": "Quality of Life Outcomes From the Phase 3 Study of Atezolizumab + Bevacizumab and Chemotherapy (ATTLAS, KCSG-LU19-04) in EGFR/ALK-Mutated Non-Small-Cell Lung Cancer.",
+        "pubdate": "2026 Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43040603/"
+      },
+      {
+        "pmid": "43037986",
+        "title": "Study Rationale, Enrollment Characteristics, and Central Review of Clinical Stage: The INTACT Randomized Clinical Trial.",
+        "pubdate": "2026 Nov 2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43037986/"
+      },
+      {
+        "pmid": "43032392",
+        "title": "Optimising cost and treatment simplicity of PD-1 blockade in nasopharyngeal carcinoma: an economic analysis of three clinical trials in China.",
+        "pubdate": "2026 Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43032392/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "DORNASE ALFA",
+        "chembl_id": "CHEMBL1201431",
+        "reason": "same target: DNA"
+      },
+      {
+        "name": "DESOXYRIBONUCLEASE",
+        "chembl_id": "CHEMBL1201459",
+        "reason": "same target: DNA"
+      },
+      {
+        "name": "GEMTUZUMAB OZOGAMICIN",
+        "chembl_id": "CHEMBL1201506",
+        "reason": "same target: DNA"
+      },
+      {
+        "name": "BENDAMUSTINE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1201734",
+        "reason": "same target: DNA"
+      },
+      {
+        "name": "DACTINOMYCIN",
+        "chembl_id": "CHEMBL1554",
+        "reason": "same target: DNA"
+      },
+      {
+        "name": "CYCLOPHOSPHAMIDE",
+        "chembl_id": "CHEMBL1200796",
+        "reason": "same target: DNA"
+      },
+      {
+        "name": "MECHLORETHAMINE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1201001",
+        "reason": "same target: DNA"
+      },
+      {
+        "name": "STREPTOZOCIN",
+        "chembl_id": "CHEMBL1977579",
+        "reason": "same target: DNA"
+      },
+      {
+        "name": "NELARABINE",
+        "chembl_id": "CHEMBL1201112",
+        "reason": "same target: DNA"
+      },
+      {
+        "name": "EPIRUBICIN HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1200981",
+        "reason": "same target: DNA"
+      }
+    ]
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "drug_name": "Tradipitant",
+  "slug": "tradipitant",
+  "enriched_at": "2026-11-21T15:24:13Z",
+  "source_trial_ids": [
+    "NCT07446439"
+  ],
+  "sponsors": [
+    {
+      "name": "Vanda Pharmaceuticals",
+      "ticker": "VNDA",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001347178&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 9916461,
+    "iupac_name": "[2-[1-[[3,5-bis(trifluoromethyl)phenyl]methyl]-5-pyridin-4-yltriazol-4-yl]-3-pyridinyl]-(2-chlorophenyl)methanone",
+    "molecular_formula": "C28H16ClF6N5O",
+    "molecular_weight": "587.9",
+    "canonical_smiles": null,
+    "inchikey": "CAVRKWRKTNINFF-UHFFFAOYSA-N",
+    "rxnorm": {
+      "rxcui": "2739506",
+      "generic_name": "tradipitant",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL3544984",
+    "target_chembl_id": "CHEMBL249",
+    "target_name": "Substance-P receptor",
+    "mechanism_of_action_chembl": "Neurokinin 1 receptor antagonist"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Tradipitant is a selective, high-affinity antagonist of human substance P/neurokinin 1 (NK1) receptors. Tradipitant does not have affinity for NK2 and NK3 receptors, serotonin (5-HT3), dopamine (D2), cholinergic, or histamine (H1) receptors. Tradipitant has been shown in animal models to inhibit drug induced emesis. Human Positron Emission Tomography (PET) studies with tradipitant have shown that tradipitant crosses the blood brain barrier and occupies brain NK-1 receptors. The exact mechanism by which tradipitant exerts its therapeutic effect is not fully established.",
+    "pharmacokinetics": "12.3 Pharmacokinetics Absorption Absolute oral bioavailability has not been studied in humans. Following a single dose of 85 mg tradipitant in healthy subjects under fasting conditions, tradipitant geometric mean C max was 84.7 ng/mL, AUC 0-inf was 1839 ng*h/mL, and the median T max was 2.0 hours. Following a single dose of 170 mg tradipitant in healthy subjects under fasting conditions, tradipitant geometric mean C max was 112 ng/mL, AUC 0-inf was 3,526 ng*h/mL, and the median T max was 1.50 hours. Effect of food Tradipitant C max and AUC 0-inf increased approximately 4.7-fold and 2.4-fold, respectively, and T max was delayed by 2 hours, when 85 mg tradipitant was administered with a high-fat meal (800 to 1,000 calories, 50% fat) compared to fasted conditions in healthy subjects. After administration of 170 mg tradipitant with a high-fat meal, C max and AUC 0-inf increased approximately 6.9-fold and 2.9-fold, respectively, and T max was delayed by 2.5 hours [see Dosage and Administration (2.1) ] . Distribution The apparent volume of distribution (Vd/F) of tradipitant is 1956 L in healthy subjects. Tradipitant plasma protein binding ranged from 96% to >99% in vitro. Elimination The observed mean elimination half-life for tradipitant is approximately 34 hours and apparent oral clearance of tradipitant is 41.7 L/hour in healthy subjects. Metabolism Tradipitant is extensively metabolized; however, the metabolic pathways have not been fully characterized. In vitro findings suggest that non-CYP450-mediated processes and CYP enzymes (CYP3A4, CYP2C19, and to a lesser extent by CYP2C8) are involved in the metabolism of tradipitant. Tradipitant is also glucuronidated by UGT1A4 and UGT2B7. Four major metabolites (M2, M3, M4, and M8) were identified in plasma. Following a single dose of 85 mg tradipitant in healthy subjects under fasting conditions, the AUCs of M2, M3, M4, and M8 represent 40%, 33%, 43%, and 42% of the parent AUC, respectively. Excretion Following a single oral dose of radiolabeled tradipitant 25 mg, approximately 88% of the dose was recovered, with 80% of the dose in feces and 7% in urine. Unchanged tradipitant was minimal in feces and was not detected in urine. Specific Populations Patients with Renal Impairment Based on population pharmacokinetic analysis, no clinically significant difference was observed in pharmacokinetics of tradipitant between subjects with normal renal function and subjects with mild to moderate renal impairment (estimated glomerular filtration rate (eGFR) of at least 30 mL/minute/1.73m 2 ). The impact of severe renal impairment (eGFR ≤29 mL/min/1.73m 2 ) on the pharmacokinetics of tradipitant is unknown [see Use in Specific Populations (8.6) ] . Patients with Hepatic Impairment Tradipitant has not been studied in subjects with any degree of hepatic impairment (Child-Pugh Class A to C). The impact of mild, moderate, or severe hepatic impairment on the pharmacokinetics of tradipitant is unknown. [see Use in Specific Populations (8.7) ] Drug Interaction Studies Clinical Studies Midazolam (CYP3A4 Substrate) Co-administration of tradipitant did not result in clinically significant change in pharmacokinetics of midazolam or 1-OH-midazolam. Ethanol Co-administration of tradipitant with ethanol (20% w/v alcohol in orange juice (240 mL for men and 200 mL women) increased tradipitant C max by 9% and AUC 0-24s by 14%. This increase in exposure is not considered to be clinically relevant. In Vitro Studies Based on in vitro studies, tradipitant does not inhibit CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, nor induces CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19. Based on in vitro studies, tradipitant may inhibit and induce CYP3A4. However, an in vivo study showed no clinically significant differences in midazolam pharmacokinetics when co-administered with tradipitant. Tradipitant is a P-gp substrate and is not a substrate of BCRP, OATP1B1, OATP1B3, MATE1 or MATE2-K. In vitro, tradipitant did not inhibit P-gp, BCRP, OATP1B1, OATP1B3, OCT2, OAT1, OAT3, MATE1, and MATE2K at clinically relevant concentrations.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE NEREUS is indicated for the prevention of vomiting induced by motion in adults. NEREUS is a substance P/neurokinin 1 (NK1) receptor antagonist indicated for the prevention of vomiting induced by motion in adults. ( 1 )",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "NEREUS"
+    ],
+    "openfda_generic_names": [
+      "TRADIPITANT"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1a021ebd-16ac-4354-b4b2-1c3950c091e5",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Nausea and Vomiting",
+    "slug": "nausea-and-vomiting"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07446439",
+      "title": "A Study to Evaluate Tradipitant on Treating Nausea and Vomiting Induced by GLP-1R Agonist Use",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07446439",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42150111",
+        "title": "Tradipitant: A Novel Neurokinin-1 Receptor Antagonist for Motion Sickness.",
+        "pubdate": "2026 Jul-Aug 01",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42150111/"
+      },
+      {
+        "pmid": "40103934",
+        "title": "Motion Syros: tradipitant effective in the treatment of motion sickness; a multicenter, randomized, double-blind, placebo-controlled study.",
+        "pubdate": "2025",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40103934/"
+      },
+      {
+        "pmid": "39432308",
+        "title": "Communities That HEAL Intervention and Mortality Including Polysubstance Overdose Deaths: A Randomized Clinical Trial.",
+        "pubdate": "2024 Oct 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39432308/"
+      },
+      {
+        "pmid": "38916892",
+        "title": "Extended-Release Injection vs Sublingual Buprenorphine for Opioid Use Disorder With Fentanyl Use: A Post Hoc Analysis of a Randomized Clinical Trial.",
+        "pubdate": "2024 Jun 3",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38916892/"
+      },
+      {
+        "pmid": "38386322",
+        "title": "Impact of the Communities That HEAL Intervention on Buprenorphine-Waivered Practitioners and Buprenorphine Prescribing: A Prespecified Secondary Analysis of the HCS Randomized Clinical Trial.",
+        "pubdate": "2024 Feb 5",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38386322/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "APREPITANT",
+        "chembl_id": "CHEMBL1471",
+        "reason": "same target: Substance-P receptor"
+      },
+      {
+        "name": "FOSAPREPITANT DIMEGLUMINE",
+        "chembl_id": "CHEMBL1201782",
+        "reason": "same target: Substance-P receptor"
+      },
+      {
+        "name": "NETUPITANT",
+        "chembl_id": "CHEMBL206253",
+        "reason": "same target: Substance-P receptor"
+      },
+      {
+        "name": "ROLAPITANT HYDROCHLORIDE",
+        "chembl_id": "CHEMBL3707330",
+        "reason": "same target: Substance-P receptor"
+      },
+      {
+        "name": "FIGOPITANT",
+        "chembl_id": "CHEMBL2104927",
+        "reason": "same target: Substance-P receptor"
+      },
+      {
+        "name": "DNK333",
+        "chembl_id": "CHEMBL105060",
+        "reason": "same target: Substance-P receptor"
+      },
+      {
+        "name": "VESTIPITANT MESYLATE",
+        "chembl_id": "CHEMBL2104992",
+        "reason": "same target: Substance-P receptor"
+      },
+      {
+        "name": "ORVEPITANT",
+        "chembl_id": "CHEMBL2105667",
+        "reason": "same target: Substance-P receptor"
+      },
+      {
+        "name": "SERLOPITANT",
+        "chembl_id": "CHEMBL447955",
+        "reason": "same target: Substance-P receptor"
+      },
+      {
+        "name": "BURAPITANT",
+        "chembl_id": "CHEMBL3544947",
+        "reason": "same target: Substance-P receptor"
+      }
+    ]
+  }
+}

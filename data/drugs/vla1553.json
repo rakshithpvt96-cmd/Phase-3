@@ -1,0 +1,95 @@
+{
+  "drug_name": "VLA1553",
+  "slug": "vla1553",
+  "enriched_at": "2026-11-21T15:25:28Z",
+  "source_trial_ids": [
+    "NCT07133178"
+  ],
+  "sponsors": [
+    {
+      "name": "Valneva Austria GmbH",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Valneva%20Austria%20GmbH&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": null
+  },
+  "mechanism": {
+    "chembl_id": null,
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=VLA1553+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=VLA1553+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=VLA1553+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Chikungunya Virus Infection",
+    "slug": "chikungunya-virus-infection"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07133178",
+      "title": "A Trial to Evaluate the Safety and Immunogenicity of VLA1553 in Healthy Children",
+      "status": "WITHDRAWN",
+      "url": "https://clinicaltrials.gov/study/NCT07133178",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42250475",
+        "title": "Chikungunya virus-neutralizing antibody persistence four years after single-dose vaccination with VLA1553 (IXCHIQ®).",
+        "pubdate": "2026 Aug 13",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42250475/"
+      },
+      {
+        "pmid": "41564838",
+        "title": "Vaccination against chikungunya - a systematic review on the immunogenicity, tolerability, and safety of the live-attenuated vaccine (LAV) Ixchiq and the virus like particle (VLP) vaccine Vimkunya.",
+        "pubdate": "2026 Mar 7",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41564838/"
+      },
+      {
+        "pmid": "41380703",
+        "title": "Safety and immunogenicity of a live-attenuated chikungunya virus vaccine in adolescents: final results from a 12-month, double-blind, randomised, placebo-controlled, phase 3 trial in endemic areas of Brazil.",
+        "pubdate": "2026 Apr",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41380703/"
+      },
+      {
+        "pmid": "40355954",
+        "title": "Assessment of the transmission of live-attenuated chikungunya virus vaccine VLA1553 by Aedes albopictus mosquitoes.",
+        "pubdate": "2025 May 12",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40355954/"
+      },
+      {
+        "pmid": "40251607",
+        "title": "Safety, immunogenicity, and effectiveness of chikungunya vaccines in pregnant persons, children, and adolescents: a protocol for a living systematic review and meta-analysis.",
+        "pubdate": "2025 Apr 18",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40251607/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

@@ -1,8 +1,9 @@
 {
   "drug_name": "Vehicle",
   "slug": "vehicle",
-  "enriched_at": "2026-11-13T16:03:15Z",
+  "enriched_at": "2026-11-21T15:25:15Z",
   "source_trial_ids": [
+    "NCT07173478",
     "NCT07578363"
   ],
   "sponsors": [
@@ -11,6 +12,12 @@
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Alcon%20Research&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Otsuka Pharmaceutical Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Otsuka%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
     }
   ],
   "identity": {
@@ -49,6 +56,13 @@
   },
   "source_trials": [
     {
+      "nct_id": "NCT07173478",
+      "title": "A Phase 3 Trial to Demonstrate the Superiority of 1% OPA-15406 Foam to the Vehicle in Adult Patients With Atopic Dermatitis",
+      "status": "NOT_YET_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07173478",
+      "has_results": false
+    },
+    {
       "nct_id": "NCT07578363",
       "title": "An Investigation of FID 123472 Ophthalmic Solution to Vehicle for the Reduction of Ocular Redness in Adults",
       "status": "RECRUITING",
@@ -60,34 +74,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "43021012",
-        "title": "Adjunctive Panthenol-Enriched Balm during Oral Isotretinoin: Hydration and Barrier Outcomes.",
-        "pubdate": "2026 Nov 13",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43021012/"
+        "pmid": "43058444",
+        "title": "Clinicoepidemiological profile and outcome of geriatric trauma in the emergency department of tertiary care centre - an ambispective observational study.",
+        "pubdate": "2026 Aug 6",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43058444/"
       },
       {
-        "pmid": "43007542",
-        "title": "Measuring the Effect of Amphetamine Extended-Release (DYANAVEL® XR) on Driving Performance in Young Adult Drivers with ADHD Using a Sophisticated Driving Simulation.",
-        "pubdate": "2026 Nov 10",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43007542/"
+        "pmid": "43049345",
+        "title": "Topical Minoxidil for Female Pattern Hair Loss: Clinical Outcomes in Postmenopausal Women.",
+        "pubdate": "2026 Nov 19",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43049345/"
       },
       {
-        "pmid": "42988660",
-        "title": "Local treatments of psoriasis and atopic dermatitis: From pharmacological targets to meta-analyses.",
-        "pubdate": "2026 Oct 7",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42988660/"
+        "pmid": "43048825",
+        "title": "Emerging Nanocarrier-based Therapies and Advanced Formulating Approaches for Breast Cancer (BrCr): Insights Review into Clinical Trials and Patent Landscape.",
+        "pubdate": "2026 Nov 16",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43048825/"
       },
       {
-        "pmid": "42962926",
-        "title": "52-Week Safety and Disease Control With Ruxolitinib Cream in Children Aged 2 to 11 Years With Atopic Dermatitis: Results From the Phase 3 TRuE-AD3 Study.",
-        "pubdate": "2026 Oct 30",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42962926/"
+        "pmid": "43037917",
+        "title": "Nanoparticle therapeutics for infectious diseases integrating AI-guided design, crispr delivery, phage synergy, and immune modulation.",
+        "pubdate": "2026 Nov 16",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43037917/"
       },
       {
-        "pmid": "42930704",
-        "title": "In Vitro Terbinafine Susceptibility of Dermatophytes and Mycological Cure Outcomes from a Multicenter Phase III Onychomycosis Trial.",
-        "pubdate": "2026 Oct 2",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42930704/"
+        "pmid": "43034781",
+        "title": "Acoltremon Ophthalmic Solution 0.003% for Symptom Reduction in Dry Eye Disease: Integrated Analysis of the COMET-1, COMET-2, and COMET-3 Studies.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43034781/"
       }
     ]
   },

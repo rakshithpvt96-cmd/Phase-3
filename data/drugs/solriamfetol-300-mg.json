@@ -1,0 +1,107 @@
+{
+  "drug_name": "Solriamfetol 300 mg",
+  "slug": "solriamfetol-300-mg",
+  "enriched_at": "2026-11-21T15:21:43Z",
+  "source_trial_ids": [
+    "NCT06413433",
+    "NCT06568367"
+  ],
+  "sponsors": [
+    {
+      "name": "Axsome Therapeutics, Inc.",
+      "ticker": "AXSM",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001579428&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2121751",
+      "generic_name": "solriamfetol",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4297620",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Solriamfetol%20300%20mg+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Solriamfetol%20300%20mg+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Solriamfetol%20300%20mg+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Binge-Eating Disorder",
+    "slug": "binge-eating-disorder"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06413433",
+      "title": "Elucidating TAAR-1, Dopamine, and Norepinephrine in Binge Eating Disorder Using Solriamfetol",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06413433",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06568367",
+      "title": "Studying Solriamfetol Modulation of TAAR-1, Dopamine, and Norepinephrine in Shift Work Disorder (SUSTAIN)",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06568367",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "34606437",
+        "title": "Long-term effects of solriamfetol on quality of life and work productivity in participants with excessive daytime sleepiness associated with narcolepsy or obstructive sleep apnea.",
+        "pubdate": "2021 Oct 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34606437/"
+      },
+      {
+        "pmid": "34283019",
+        "title": "Incidence and duration of common early-onset adverse events in randomized controlled trials of solriamfetol for treatment of excessive daytime sleepiness in obstructive sleep apnea and narcolepsy.",
+        "pubdate": "2022 Jan 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34283019/"
+      },
+      {
+        "pmid": "33226332",
+        "title": "Clinically relevant effects of solriamfetol on excessive daytime sleepiness: a posthoc analysis of the magnitude of change in clinical trials in adults with narcolepsy or obstructive sleep apnea.",
+        "pubdate": "2021 Apr 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33226332/"
+      },
+      {
+        "pmid": "33179591",
+        "title": "Effects of solriamfetol in a long-term trial of participants with obstructive sleep apnea who are adherent or nonadherent to airway therapy.",
+        "pubdate": "2021 Apr 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33179591/"
+      },
+      {
+        "pmid": "32353246",
+        "title": "Effects of Solriamfetol on Quality-of-Life Measures from a 12-Week Phase 3 Randomized Controlled Trial.",
+        "pubdate": "2020 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32353246/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "drug_name": "Ramelteon",
+  "slug": "ramelteon",
+  "enriched_at": "2026-11-21T15:12:40Z",
+  "source_trial_ids": [
+    "NCT06512363"
+  ],
+  "sponsors": [
+    {
+      "name": "Nanjing Chia-tai Tianqing Pharmaceutical",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Nanjing%20Chia-tai%20Tianqing%20Pharmaceutical&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 208902,
+    "iupac_name": "N-[2-[(8S)-2,6,7,8-tetrahydro-1H-cyclopenta[e][1]benzofuran-8-yl]ethyl]propanamide",
+    "molecular_formula": "C16H21NO2",
+    "molecular_weight": "259.34",
+    "canonical_smiles": null,
+    "inchikey": "YLXDSYKOBKBWJQ-LBPRGKRZSA-N",
+    "rxnorm": {
+      "rxcui": "596205",
+      "generic_name": "ramelteon",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1218",
+    "target_chembl_id": "CHEMBL2094268",
+    "target_name": "Melatonin receptor",
+    "mechanism_of_action_chembl": "Melatonin receptor agonist"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Ramelteon is a melatonin receptor agonist with both high affinity for melatonin MT 1 and MT 2 receptors and relative selectivity over the MT 3 receptor. The activity of ramelteon at the MT 1 and MT 2 receptors is believed to contribute to its sleep- promoting properties, as these receptors, acted upon by endogenous melatonin, are thought to be involved in the maintenance of the circadian rhythm underlying the normal sleep-wake cycle. Ramelteon has no appreciable affinity for the GABA receptor complex or for receptors that bind neuropeptides, cytokines, serotonin, dopamine, noradrenaline, acetylcholine, and opiates. Ramelteon also does not interfere with the activity of a number of selected enzymes in a standard panel. The major metabolite of ramelteon, M-II, is pharmacologically active and has approximately one tenth and one fifth the binding affinity of the parent molecule for the human MT 1 and MT 2 receptors, respectively. However, M-II circulates at higher concentrations than the parent producing 20- to 100-fold greater mean systemic exposure when compared to ramelteon. Similar to ramelteon, M-II does not interfere with the activity of a number of endogenous enzymes. All other known metabolites of ramelteon are inactive.",
+    "pharmacokinetics": "12.3 Pharmacokinetics The pharmacokinetic profile of Ramelteon Tablets has been evaluated in healthy subjects as well as in subjects with hepatic or renal impairment. When administered orally to humans in doses ranging from 4 to 64 mg, ramelteon undergoes rapid, high first-pass metabolism, and exhibits linear pharmacokinetics. Maximal serum concentration (C max ) and area under the max concentration-time curve (AUC) data show substantial intersubject variability, consistent with the high first-pass effect; the coefficient of variation for these values is approximately 100%. Several metabolites have been identified in human serum and urine. Absorption Ramelteon is absorbed rapidly, with median peak concentrations occurring at approximately 0.75 hour (range, 0.5 to 1.5 hours) after fasted oral administration. Although the total absorption of ramelteon is at least 84%, the absolute oral bioavailability is only 1.8% due to extensive first-pass metabolism. Distribution In vitro protein binding of ramelteon is approximately 82% in human serum, independent of concentration. Binding to albumin accounts for most of that binding, since 70% of the drug is bound in human serum albumin. Ramelteon is not distributed selectively to red blood cells. Ramelteon has a mean volume of distribution after intravenous administration of 73.6 L, suggesting substantial tissue distribution. Metabolism Metabolism of ramelteon consists primarily of oxidation to hydroxyl and carbonyl derivatives, with secondary metabolism producing glucuronide conjugates. CYP1A2 is the major isozyme involved in the hepatic metabolism of ramelteon; the CYP2C subfamily and CYP3A4 isozymes are also involved to a minor degree. The rank order of the principal metabolites by prevalence in human serum is M-II, M-IV, M-I, and M-III. These metabolites are formed rapidly and exhibit a monophasic decline and rapid elimination. The overall mean systemic exposure of M-II is approximately 20- to 100-fold higher than parent drug. Elimination Following oral administration of radiolabeled ramelteon, 84% of total radioactivity was excreted in urine and approximately 4% in feces, resulting in a mean recovery of 88%. Less than 0.1% of the dose was excreted in urine and feces as the parent compound. Elimination was essentially complete by 96 hours post dose. Repeated once daily dosing with Ramelteon Tablets does not result in significant accumulation owing to the short elimination half-life of ramelteon (on average, approximately one to 2.6 hours). The half-life of M-II is two to five hours and independent of dose. Serum concentrations of the parent drug and its metabolites in humans are at or below the lower limits of quantitation within 24 hours. Effect of Food When administered with a high-fat meal, the AUC 0-inf for a single 16 mg dose of Ramelteon Tablets was 31% higher and the C max was 22% lower than when given in a fasted state. Median T max was delayed by approximately 45 minutes when Ramelteon Tablets were administered with food. Effects of food on the AUC values for M-II were similar. It is therefore recommended that Ramelteon Tablets not be taken with or immediately after a high-fat meal [see Dosage and Administration (2.1) ].",
+    "indications_and_usage": "1 INDICATIONS AND USAGE Ramelteon Tablets are indicated for the treatment of insomnia characterized by difficulty with sleep onset. The clinical trials performed in support of efficacy were up to six months in duration. The final formal assessments of sleep latency were performed after two days of treatment during the crossover study (elderly only), at five weeks in the six week studies (adults and elderly), and at the end of the six month study (adults and elderly) [see Clinical Studies (14) ] . Ramelteon Tablets are indicated for the treatment of insomnia characterized by difficulty with sleep onset. (1)",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "Ramelteon"
+    ],
+    "openfda_generic_names": [
+      "RAMELTEON"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4c48076c-565a-423b-9bad-eea84aa32746",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Chronic Insomnia",
+    "slug": "chronic-insomnia"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06512363",
+      "title": "A Study of Ramelteon in Chinese Patients With Chronic Insomnia",
+      "status": "NOT_YET_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06512363",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "40739187",
+        "title": "Association between sleep disorder and delirium in adult patients undergoing cardiac surgery: a retrospective cohort study.",
+        "pubdate": "2025 Jul 30",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40739187/"
+      },
+      {
+        "pmid": "40511987",
+        "title": "Efficacy of Ramelteon, Suvorexant, and Lemborexant for Delirium Prevention in Hospitalized Patients: A Systematic Review and Meta-Analysis.",
+        "pubdate": "2025 Sep 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40511987/"
+      },
+      {
+        "pmid": "37926586",
+        "title": "Effects of trazodone and dexmedetomidine on fentanyl-mediated reduction of isoflurane minimum alveolar concentration in cats.",
+        "pubdate": "2024 Jan",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37926586/"
+      },
+      {
+        "pmid": "36702822",
+        "title": "Actigraphy-based sleep and activity measurements in intensive care unit patients randomized to ramelteon or placebo for delirium prevention.",
+        "pubdate": "2023 Jan 26",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36702822/"
+      },
+      {
+        "pmid": "37193564",
+        "title": "Comparison of the effect of lemborexant and other insomnia treatments on driving performance: a systematic review and meta-analysis.",
+        "pubdate": "2021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37193564/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "TASIMELTEON",
+        "chembl_id": "CHEMBL2103822",
+        "reason": "same target: Melatonin receptor"
+      },
+      {
+        "name": "AGOMELATINE",
+        "chembl_id": "CHEMBL10878",
+        "reason": "same target: Melatonin receptor"
+      },
+      {
+        "name": "MELATONIN",
+        "chembl_id": "CHEMBL45",
+        "reason": "same target: Melatonin receptor"
+      },
+      {
+        "name": "PIROMELATINE",
+        "chembl_id": "CHEMBL4297523",
+        "reason": "same target: Melatonin receptor"
+      }
+    ]
+  }
+}

@@ -1,7 +1,7 @@
 {
   "drug_name": "tapinarof cream, 1%",
   "slug": "tapinarof-cream-1",
-  "enriched_at": "2026-11-13T16:01:55Z",
+  "enriched_at": "2026-11-21T15:23:10Z",
   "source_trial_ids": [
     "NCT05172726"
   ],
@@ -21,10 +21,10 @@
     }
   },
   "mechanism": {
-    "chembl_id": null,
-    "target_chembl_id": null,
-    "target_name": null,
-    "mechanism_of_action_chembl": null
+    "chembl_id": "CHEMBL259571",
+    "target_chembl_id": "CHEMBL3201",
+    "target_name": "Aryl hydrocarbon receptor",
+    "mechanism_of_action_chembl": "Aryl hydrocarbon receptor agonist"
   },
   "fda_label": {
     "has_label": false,

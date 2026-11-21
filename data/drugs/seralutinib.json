@@ -1,0 +1,144 @@
+{
+  "drug_name": "Seralutinib",
+  "slug": "seralutinib",
+  "enriched_at": "2026-11-21T15:20:37Z",
+  "source_trial_ids": [
+    "NCT06274801"
+  ],
+  "sponsors": [
+    {
+      "name": "Gossamer Bio USA, Inc.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Gossamer%20Bio%20USA%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 91663352,
+    "iupac_name": "N-[3-[(1S)-1-[[6-(3,4-dimethoxyphenyl)pyrazin-2-yl]amino]ethyl]phenyl]-5-methylpyridine-3-carboxamide",
+    "molecular_formula": "C27H27N5O3",
+    "molecular_weight": "469.5",
+    "canonical_smiles": null,
+    "inchikey": "JHJNPOSPVGRIAN-SFHVURJKSA-N",
+    "rxnorm": {
+      "rxcui": "2666523",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4650333",
+    "target_chembl_id": "CHEMBL1936",
+    "target_name": "Mast/stem cell growth factor receptor Kit",
+    "mechanism_of_action_chembl": "Stem cell growth factor receptor inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Seralutinib+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Seralutinib+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Seralutinib+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Pulmonary Arterial Hypertension",
+    "slug": "pulmonary-arterial-hypertension"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06274801",
+      "title": "Open-label Extension Study of Seralutinib in Adult Subjects With PAH (PROSERA-EXT)",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06274801",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "40788460",
+        "title": "Seralutinib for the Treatment of Pulmonary Arterial Hypertension in Adults: TORREY Open-Label Extension Study.",
+        "pubdate": "2025 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40788460/"
+      },
+      {
+        "pmid": "40341051",
+        "title": "Drugs targeting novel pathways in pulmonary arterial hypertension.",
+        "pubdate": "2025 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40341051/"
+      },
+      {
+        "pmid": "39991439",
+        "title": "New therapies in pulmonary arterial hypertension: Recent insights.",
+        "pubdate": "2025 Mar",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39991439/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "DASATINIB ANHYDROUS",
+        "chembl_id": "CHEMBL1421",
+        "reason": "same target: Mast/stem cell growth factor receptor Kit"
+      },
+      {
+        "name": "PAZOPANIB HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1201733",
+        "reason": "same target: Mast/stem cell growth factor receptor Kit"
+      },
+      {
+        "name": "REGORAFENIB",
+        "chembl_id": "CHEMBL1946170",
+        "reason": "same target: Mast/stem cell growth factor receptor Kit"
+      },
+      {
+        "name": "SORAFENIB TOSYLATE",
+        "chembl_id": "CHEMBL1200485",
+        "reason": "same target: Mast/stem cell growth factor receptor Kit"
+      },
+      {
+        "name": "SUNITINIB MALATE",
+        "chembl_id": "CHEMBL1567",
+        "reason": "same target: Mast/stem cell growth factor receptor Kit"
+      },
+      {
+        "name": "IMATINIB MESYLATE",
+        "chembl_id": "CHEMBL1642",
+        "reason": "same target: Mast/stem cell growth factor receptor Kit"
+      },
+      {
+        "name": "SU-014813",
+        "chembl_id": "CHEMBL1721885",
+        "reason": "same target: Mast/stem cell growth factor receptor Kit"
+      },
+      {
+        "name": "CM-082",
+        "chembl_id": "CHEMBL3545427",
+        "reason": "same target: Mast/stem cell growth factor receptor Kit"
+      },
+      {
+        "name": "OSI-930",
+        "chembl_id": "CHEMBL1614710",
+        "reason": "same target: Mast/stem cell growth factor receptor Kit"
+      },
+      {
+        "name": "CATEQUENTINIB",
+        "chembl_id": "CHEMBL4303201",
+        "reason": "same target: Mast/stem cell growth factor receptor Kit"
+      }
+    ]
+  }
+}

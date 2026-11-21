@@ -1,0 +1,120 @@
+{
+  "drug_name": "Ramelteon placebo",
+  "slug": "ramelteon-placebo",
+  "enriched_at": "2026-11-21T15:13:27Z",
+  "source_trial_ids": [
+    "NCT06512363"
+  ],
+  "sponsors": [
+    {
+      "name": "Nanjing Chia-tai Tianqing Pharmaceutical",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Nanjing%20Chia-tai%20Tianqing%20Pharmaceutical&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "596205",
+      "generic_name": "ramelteon",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL1218",
+    "target_chembl_id": "CHEMBL2094268",
+    "target_name": "Melatonin receptor",
+    "mechanism_of_action_chembl": "Melatonin receptor agonist"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Ramelteon%20placebo+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Ramelteon%20placebo+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Ramelteon%20placebo+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Chronic Insomnia",
+    "slug": "chronic-insomnia"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06512363",
+      "title": "A Study of Ramelteon in Chinese Patients With Chronic Insomnia",
+      "status": "NOT_YET_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06512363",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "36702822",
+        "title": "Actigraphy-based sleep and activity measurements in intensive care unit patients randomized to ramelteon or placebo for delirium prevention.",
+        "pubdate": "2023 Jan 26",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36702822/"
+      },
+      {
+        "pmid": "37193564",
+        "title": "Comparison of the effect of lemborexant and other insomnia treatments on driving performance: a systematic review and meta-analysis.",
+        "pubdate": "2021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37193564/"
+      },
+      {
+        "pmid": "34077032",
+        "title": "Lemborexant for the Treatment of Insomnia: Direct and Indirect Comparisons With Other Hypnotics Using Number Needed to Treat, Number Needed to Harm, and Likelihood to Be Helped or Harmed.",
+        "pubdate": "2021 Jun 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34077032/"
+      },
+      {
+        "pmid": "33319866",
+        "title": "Preventive effect of ramelteon on emergence agitation after general anaesthesia in paediatric patients undergoing tonsillectomy: a randomised, placebo-controlled clinical trial.",
+        "pubdate": "2020 Dec 15",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33319866/"
+      },
+      {
+        "pmid": "32617211",
+        "title": "Perspective on Melatonin Use for Sleep Problems in Autism and Attention-Deficit Hyperactivity Disorder: A Systematic Review of Randomized Clinical Trials.",
+        "pubdate": "2020 May 28",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32617211/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "TASIMELTEON",
+        "chembl_id": "CHEMBL2103822",
+        "reason": "same target: Melatonin receptor"
+      },
+      {
+        "name": "AGOMELATINE",
+        "chembl_id": "CHEMBL10878",
+        "reason": "same target: Melatonin receptor"
+      },
+      {
+        "name": "MELATONIN",
+        "chembl_id": "CHEMBL45",
+        "reason": "same target: Melatonin receptor"
+      },
+      {
+        "name": "PIROMELATINE",
+        "chembl_id": "CHEMBL4297523",
+        "reason": "same target: Melatonin receptor"
+      }
+    ]
+  }
+}

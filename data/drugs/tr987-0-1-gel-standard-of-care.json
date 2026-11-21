@@ -1,0 +1,99 @@
+{
+  "drug_name": "TR987 0.1% gel + Standard of Care",
+  "slug": "tr987-0-1-gel-standard-of-care",
+  "enriched_at": "2026-11-21T15:24:03Z",
+  "source_trial_ids": [
+    "NCT06707103"
+  ],
+  "sponsors": [
+    {
+      "name": "TR Therapeutics",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=TR%20Therapeutics&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2671305",
+      "generic_name": "benzalkonium chloride 0.001 MG/MG Topical Gel [Tridergel]",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL335019",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=TR987%200.1%25%20gel%20%2B%20Standard%20of%20Care+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=TR987%200.1%25%20gel%20%2B%20Standard%20of%20Care+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=TR987%200.1%25%20gel%20%2B%20Standard%20of%20Care+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Venous Leg Ulcer",
+    "slug": "venous-leg-ulcer"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06707103",
+      "title": "Tissue Repair Gel in Venous Leg Ulcers in AU/US",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06707103",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42718556",
+        "title": "Effect of platelet-rich fibrin gel combined with alginate dressing on healing of active venous leg ulcers: a randomized clinical trial.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42718556/"
+      },
+      {
+        "pmid": "40369354",
+        "title": "A randomized, double-blind, placebo-controlled phase III study evaluating the preventive effect of diclofenac cream on capecitabine-related hand-foot syndrome: study protocol of J-SUPPORT2401/JORTC-SUP06 (J-DIRECT).",
+        "pubdate": "2025 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40369354/"
+      },
+      {
+        "pmid": "32940653",
+        "title": "Efficacy of Timolol in a Novel Intranasal Thermosensitive Gel for Hereditary Hemorrhagic Telangiectasia-Associated Epistaxis: A Randomized Clinical Trial.",
+        "pubdate": "2020 Nov 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32940653/"
+      },
+      {
+        "pmid": "30994576",
+        "title": "Sexual frequency and pain in a randomized clinical trial of vaginal estradiol tablets, moisturizer, and placebo in postmenopausal women.",
+        "pubdate": "2019 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30994576/"
+      },
+      {
+        "pmid": "27257391",
+        "title": "A randomized, placebo-controlled, single-blinded, split-faced clinical trial evaluating the efficacy and safety of KLOX-001 gel formulation with KLOX light-emitting diode light on facial rejuvenation.",
+        "pubdate": "2016",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27257391/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

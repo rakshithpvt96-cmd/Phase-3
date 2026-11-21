@@ -1,0 +1,81 @@
+{
+  "drug_name": "Recombinant human tissue kallikrein",
+  "slug": "recombinant-human-tissue-kallikrein",
+  "enriched_at": "2026-11-21T15:15:10Z",
+  "source_trial_ids": [
+    "NCT05065216"
+  ],
+  "sponsors": [
+    {
+      "name": "DiaMedica Therapeutics Inc",
+      "ticker": "DMAC",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001401040&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2690047",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4297936",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Recombinant%20human%20tissue%20kallikrein+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Recombinant%20human%20tissue%20kallikrein+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Recombinant%20human%20tissue%20kallikrein+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Acute Stroke",
+    "slug": "acute-stroke"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05065216",
+      "title": "Treatment of Acute Ischemic Stroke (ReMEDy2 Trial)",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05065216",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "41407404",
+        "title": "Safety and potential efficacy of DM199, a tissue kallikrein-1 analogue, for treating pre-eclampsia and fetal growth restriction: study protocol for a South African, hospital-based phase I/II open-label trial.",
+        "pubdate": "2025 Dec 17",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41407404/"
+      },
+      {
+        "pmid": "40237565",
+        "title": "A Phase 1C, Open Label, Single Ascending Dose Study to Evaluate the Safety, Tolerability, and Pharmacokinetics of DM199 Administered Intravenously with a Polyvinyl Chloride Bag in Adult Healthy Subjects and Adults Recently Taking Angiotensin-Converting Enzyme Inhibitors.",
+        "pubdate": "2025 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40237565/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

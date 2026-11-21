@@ -1,0 +1,107 @@
+{
+  "drug_name": "Solriamfetol 150 mg",
+  "slug": "solriamfetol-150-mg",
+  "enriched_at": "2026-11-21T15:21:23Z",
+  "source_trial_ids": [
+    "NCT06413433",
+    "NCT06568367"
+  ],
+  "sponsors": [
+    {
+      "name": "Axsome Therapeutics, Inc.",
+      "ticker": "AXSM",
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001579428&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2121757",
+      "generic_name": "solriamfetol 150 MG",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4297620",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Solriamfetol%20150%20mg+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Solriamfetol%20150%20mg+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Solriamfetol%20150%20mg+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Binge-Eating Disorder",
+    "slug": "binge-eating-disorder"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06413433",
+      "title": "Elucidating TAAR-1, Dopamine, and Norepinephrine in Binge Eating Disorder Using Solriamfetol",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06413433",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06568367",
+      "title": "Studying Solriamfetol Modulation of TAAR-1, Dopamine, and Norepinephrine in Shift Work Disorder (SUSTAIN)",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06568367",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42423948",
+        "title": "Post Hoc Analysis of Solriamfetol Efficacy in Obstructive Sleep Apnea Patients with Excessive Daytime Sleepiness Stratified by Disease Severity.",
+        "pubdate": "2026 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42423948/"
+      },
+      {
+        "pmid": "41788715",
+        "title": "Impact of solriamfetol treatment on sleep quality in Chinese patients with OSA-EDS: results of a randomized controlled trial.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41788715/"
+      },
+      {
+        "pmid": "41706459",
+        "title": "Efficacy and Safety of the Neuroplastogen TSND-201 for the Treatment of PTSD: A Randomized Clinical Trial.",
+        "pubdate": "2026 May 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41706459/"
+      },
+      {
+        "pmid": "41128833",
+        "title": "Efficacy and Safety of Solriamfetol on Excessive Daytime Sleepiness Associated with Obstructive Sleep Apnea in China: A Phase 3, Multicenter, Double-Blind, Placebo-Controlled Randomized Clinical Trial.",
+        "pubdate": "2026 Jan",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41128833/"
+      },
+      {
+        "pmid": "40958377",
+        "title": "Solriamfetol improves daily fatigue symptoms in adults with myalgic encephalomyelitis/chronic fatigue syndrome after 8 weeks of treatment.",
+        "pubdate": "2025 Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40958377/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

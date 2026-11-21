@@ -1,0 +1,99 @@
+{
+  "drug_name": "Sodium Hyaluronate Injection",
+  "slug": "sodium-hyaluronate-injection",
+  "enriched_at": "2026-11-21T15:21:06Z",
+  "source_trial_ids": [
+    "NCT06570291"
+  ],
+  "sponsors": [
+    {
+      "name": "Wuxi Cellular Biopharmaceutical Group Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Wuxi%20Cellular%20Biopharmaceutical%20Group%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2649166",
+      "generic_name": "sodium hyaluronate Injection",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL4594244",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Sodium%20Hyaluronate%20Injection+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Sodium%20Hyaluronate%20Injection+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Sodium%20Hyaluronate%20Injection+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Knee Osteoarthritis",
+    "slug": "knee-osteoarthritis"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06570291",
+      "title": "Allogenic Adipose-Derived Mesenchymal Stem Cells for the Treatment of Knee Osteoarthritis",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06570291",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "43047077",
+        "title": "Efficacy and Safety of L-Carnosine-Containing Hyaluronate Injection for Facial Skin Hydration and Brightness: A Randomized, Controlled, Evaluator-Blinded Trial.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43047077/"
+      },
+      {
+        "pmid": "43047018",
+        "title": "The Application Prospects of Agarose as a Novel Skin Filler: A Narrative Review.",
+        "pubdate": "2026 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43047018/"
+      },
+      {
+        "pmid": "42972476",
+        "title": "Multiple intra-articular injections of umbilical cord mesenchymal stem cells in treating severe knee osteoarthritis: a triple-blind randomized controlled trial.",
+        "pubdate": "2026 Aug 6",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42972476/"
+      },
+      {
+        "pmid": "42878425",
+        "title": "Areas of High Risk and High Reward: Temple, Nose, Lip, and Jawline Filler.",
+        "pubdate": "2026 Nov 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42878425/"
+      },
+      {
+        "pmid": "42869969",
+        "title": "Efficacy and Safety of Non-Cross-Linked Sodium Hyaluronate Composite Solution Injection for Skin Condition Improvement: A Prospective, Multicenter, Randomized, Evaluator-Blinded, Blank-Controlled Superiority Trial.",
+        "pubdate": "2026 Oct 13",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42869969/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": []
+  }
+}

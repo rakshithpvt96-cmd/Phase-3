@@ -1,0 +1,79 @@
+{
+  "drug_name": "REL1017 (esmethadone HCI) (active drug)",
+  "slug": "rel1017-esmethadone-hci-active-drug",
+  "enriched_at": "2026-11-21T15:16:31Z",
+  "source_trial_ids": [
+    "NCT06735079"
+  ],
+  "sponsors": [
+    {
+      "name": "MGGM LLC",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=MGGM%20LLC&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "91247",
+      "generic_name": null,
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL350719",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=REL1017%20%28esmethadone%20HCI%29%20%28active%20drug%29+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=REL1017%20%28esmethadone%20HCI%29%20%28active%20drug%29+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=REL1017%20%28esmethadone%20HCI%29%20%28active%20drug%29+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Major Depressive Disorder (MDD)",
+    "slug": "major-depressive-disorder-mdd"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06735079",
+      "title": "A Study to Evaluate the Efficacy and Safety of REL-1017 As Adjunctive Treatment of Major Depressive Disorder (MDD)",
+      "status": "WITHDRAWN",
+      "url": "https://clinicaltrials.gov/study/NCT06735079",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": []
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "Dextromethorphan and Bupropion Sustained-Release Tablets",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: CSPC Ouyi Pharmaceutical Co., Ltd."
+      },
+      {
+        "name": "Placebo",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: CSPC Ouyi Pharmaceutical Co., Ltd."
+      }
+    ]
+  }
+}

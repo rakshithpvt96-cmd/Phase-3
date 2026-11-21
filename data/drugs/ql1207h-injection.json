@@ -1,0 +1,106 @@
+{
+  "drug_name": "QL1207H injection",
+  "slug": "ql1207h-injection",
+  "enriched_at": "2026-11-21T15:11:25Z",
+  "source_trial_ids": [
+    "NCT07489586"
+  ],
+  "sponsors": [
+    {
+      "name": "Qilu Pharmaceutical Co., Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Qilu%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": null
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2108760",
+    "target_chembl_id": null,
+    "target_name": null,
+    "mechanism_of_action_chembl": null
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=QL1207H%20injection+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=QL1207H%20injection+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=QL1207H%20injection+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Neovascular Age-Related Macular Degeneration (nAMD)",
+    "slug": "neovascular-age-related-macular-degeneration-namd"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07489586",
+      "title": "A Clinical Study of QL1207H Injection Versus Aflibercept for Neovascular Age-related Macular Degeneration",
+      "status": "NOT_YET_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07489586",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "43065084",
+        "title": "Combined effects of aerobic interval training and hesperidin supplementation on inflammatory and oxidative stress markers in a rat model of paclitaxel-induced neuropathy: evidence for additive therapeutic effects.",
+        "pubdate": "2026 Aug 25",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43065084/"
+      },
+      {
+        "pmid": "43053733",
+        "title": "Efficacy and safety of romiplostim in refractory aplastic anaemia: a plain language summary of phase II/III, multicentre, open-label study.",
+        "pubdate": "2026 Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43053733/"
+      },
+      {
+        "pmid": "43051615",
+        "title": "Scientific basis and methodological framework of a double-blinded prospective randomized clinical trial comparing euploidy rates among embryos created from sibling oocytes exposed to sperm after ultrashort abstinence compared to standard abstinence.",
+        "pubdate": "2026 Nov 18",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43051615/"
+      },
+      {
+        "pmid": "43051613",
+        "title": "Osteoarthritis year in review 2026: Imaging.",
+        "pubdate": "2026 Nov 18",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43051613/"
+      },
+      {
+        "pmid": "43050612",
+        "title": "Efficacy and safety of microfragmented autologous adipose tissue transplantation for perianal fistulas in Crohn's disease (ATTIC): a phase 3 multicenter randomized controlled trial.",
+        "pubdate": "2026 Nov 7",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43050612/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "ctgov_same_condition",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "RBS-001 Solution for intravitreal injection",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Rophibio, Inc."
+      },
+      {
+        "name": "Eylea® Solution for intravitreal injection",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Rophibio, Inc."
+      }
+    ]
+  }
+}
