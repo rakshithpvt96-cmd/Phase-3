@@ -1,7 +1,7 @@
 {
   "drug_name": "FOLFOX regimen",
   "slug": "folfox-regimen",
-  "enriched_at": "2026-11-15T14:39:16Z",
+  "enriched_at": "2026-11-22T15:10:38Z",
   "source_trial_ids": [
     "NCT05033522"
   ],
@@ -66,6 +66,12 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "43056416",
+        "title": "Efficacy and safety of hepatic arterial infusion chemotherapy combined with palliative transarterial chemoembolization followed by targeted therapy and immunotherapy in patients with BCLC stage C hepatocellular carcinoma: Clinical trial protocol.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43056416/"
+      },
+      {
         "pmid": "42731846",
         "title": "FOLFOX-based transarterial infusion chemotherapy for unresectable colorectal cancer: protocol of an open-label, multicentre, randomised, controlled, phase II trial.",
         "pubdate": "2026 Sep 11",
@@ -88,12 +94,6 @@
         "title": "Perioperative systemic therapy versus surgery alone for resectable colorectal peritoneal-only metastases (CAIRO6): a randomised, open-label, phase 3 trial.",
         "pubdate": "2026 Jul",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42372745/"
-      },
-      {
-        "pmid": "42371751",
-        "title": "Comparative efficacy of tislelizumab + FOLFOX or CAPOX for gastric/gastroesophageal junction adenocarcinoma: an exploratory matching-adjusted indirect comparison.",
-        "pubdate": "2026 May",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42371751/"
       }
     ]
   },

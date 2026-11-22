@@ -1,7 +1,7 @@
 {
   "drug_name": "Dupilumab",
   "slug": "dupilumab",
-  "enriched_at": "2026-10-23T12:42:52Z",
+  "enriched_at": "2026-11-22T15:10:08Z",
   "source_trial_ids": [
     "NCT02612454"
   ],
@@ -51,7 +51,7 @@
     {
       "nct_id": "NCT02612454",
       "title": "Study to Assess the Long-term Safety of Dupilumab Administered in Participants ≥6 Months to <18 Years of Age With Atopic Dermatitis (AD)",
-      "status": "ACTIVE_NOT_RECRUITING",
+      "status": "COMPLETED",
       "url": "https://clinicaltrials.gov/study/NCT02612454",
       "has_results": false
     }
@@ -60,34 +60,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42895209",
-        "title": "Long-term efficacy of lebrikizumab in treating head, neck and face involvement in patients with moderate-to-severe atopic dermatitis.",
-        "pubdate": "2026 Dec",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42895209/"
+        "pmid": "43064158",
+        "title": "Switching From Dupilumab to Upadacitinib in Moderate-to-Severe Atopic Dermatitis: 52-Week Safety and Efficacy Results From an Open-Label Extension of the Phase 3 Heads Up Study.",
+        "pubdate": "2026 Nov 20",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43064158/"
       },
       {
-        "pmid": "42836357",
-        "title": "Clinical Trial: Dupilumab Improves Eosinophilic Oesophagitis Outcomes Versus Placebo Regardless of Comorbidities or Treatment History in a Randomised Clinical Trial.",
-        "pubdate": "2026 Oct 6",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42836357/"
+        "pmid": "43024188",
+        "title": "Dupilumab Safety and Efficacy up to 3 Years in Children Aged 6 Months to 11 Years with Atopic Dermatitis: Results from a Phase III Open-Label Extension Study.",
+        "pubdate": "2026 Nov 13",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43024188/"
       },
       {
-        "pmid": "42825999",
-        "title": "Tralokinumab Versus Dupilumab for the Treatment of Atopic Dermatitis with Moderate-to-Severe Hand Involvement: A Matching-Adjusted Indirect Comparison.",
-        "pubdate": "2026 Oct 2",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42825999/"
+        "pmid": "43022000",
+        "title": "A progressive ODE model of seasonal allergic rhinitis: from core Th2 axis to 21-dimensional multi- pathway integration with seasonal dynamics and directional assessment.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43022000/"
       },
       {
-        "pmid": "42797344",
-        "title": "Chronic Spontaneous Urticaria in the Era of Targeted Therapy: From Pathogenic Mechanisms to Precision Medicine.",
-        "pubdate": "2026 Sep 16",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42797344/"
+        "pmid": "42996603",
+        "title": "COPD: real-world evidence on single-inhaler triple therapy and the emergence of biologic therapy.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42996603/"
       },
       {
-        "pmid": "42776801",
-        "title": "Targeted Therapy for Antihistamine-Refractory Chronic Spontaneous Urticaria: A Critical Narrative Review and an Evidence-Graded Approach to Agent Selection.",
-        "pubdate": "2026 Sep 17",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42776801/"
+        "pmid": "42980500",
+        "title": "Pharmacokinetics, efficacy and safety of dupilumab administered with prefilled pen devices in patients aged <12 years with atopic dermatitis.",
+        "pubdate": "2026 Nov 4",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42980500/"
       }
     ]
   },
@@ -95,16 +95,6 @@
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
     "items": [
-      {
-        "name": "Ruxolitinib",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Incyte Corporation"
-      },
-      {
-        "name": "Vehicle Cream",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Incyte Corporation"
-      },
       {
         "name": "CM310",
         "chembl_id": null,
@@ -134,6 +124,16 @@
         "name": "Upadacitinib 30mg Dose",
         "chembl_id": null,
         "reason": "same indication trial, sponsor: AbbVie"
+      },
+      {
+        "name": "ICP-332 Tablets",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Beijing InnoCare Pharma Tech Co., Ltd."
+      },
+      {
+        "name": "ICP-332 Placebo Tablets",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Beijing InnoCare Pharma Tech Co., Ltd."
       }
     ]
   }
