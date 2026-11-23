@@ -1,0 +1,126 @@
+{
+  "drug_name": "Cocaine Hydrochloride Nasal Solution",
+  "slug": "cocaine-hydrochloride-nasal-solution",
+  "enriched_at": "2026-11-23T20:10:51Z",
+  "source_trial_ids": [
+    "NCT04792034"
+  ],
+  "sponsors": [
+    {
+      "name": "LXO Ireland",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=LXO%20Ireland&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2646381",
+      "generic_name": "cocaine hydrochloride Nasal Solution",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL529437",
+    "target_chembl_id": "CHEMBL2331043",
+    "target_name": "Sodium channel alpha subunit",
+    "mechanism_of_action_chembl": "Sodium channel alpha subunit blocker"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Cocaine%20Hydrochloride%20Nasal%20Solution+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Cocaine%20Hydrochloride%20Nasal%20Solution+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Cocaine%20Hydrochloride%20Nasal%20Solution+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "ENT Disorder",
+    "slug": "ent-disorder"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT04792034",
+      "title": "Pharmacokinetics, Safety, and Tolerability Study of GOPRELTO® Nasal Solution and NUMBRINO™ Nasal Solution",
+      "status": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT04792034",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "35900386",
+        "title": "Efficacy of topical tranexamic acid to reduce bleeding in endoscopic sinus surgery for chronic rhinosinusitis with polyposis.",
+        "pubdate": "2023 Feb",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35900386/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "QUINIDINE POLYGALACTURONATE",
+        "chembl_id": "CHEMBL1201486",
+        "reason": "same target: Sodium channel alpha subunit"
+      },
+      {
+        "name": "ROPIVACAINE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1889140",
+        "reason": "same target: Sodium channel alpha subunit"
+      },
+      {
+        "name": "PHENACEMIDE",
+        "chembl_id": "CHEMBL918",
+        "reason": "same target: Sodium channel alpha subunit"
+      },
+      {
+        "name": "BENOXINATE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1200654",
+        "reason": "same target: Sodium channel alpha subunit"
+      },
+      {
+        "name": "CHLOROPROCAINE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL944",
+        "reason": "same target: Sodium channel alpha subunit"
+      },
+      {
+        "name": "MEXILETINE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1200606",
+        "reason": "same target: Sodium channel alpha subunit"
+      },
+      {
+        "name": "RILUZOLE",
+        "chembl_id": "CHEMBL744",
+        "reason": "same target: Sodium channel alpha subunit"
+      },
+      {
+        "name": "HEXYLCAINE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1200715",
+        "reason": "same target: Sodium channel alpha subunit"
+      },
+      {
+        "name": "PHENAZOPYRIDINE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1201022",
+        "reason": "same target: Sodium channel alpha subunit"
+      },
+      {
+        "name": "QUINIDINE GLUCONATE",
+        "chembl_id": "CHEMBL1200437",
+        "reason": "same target: Sodium channel alpha subunit"
+      }
+    ]
+  }
+}

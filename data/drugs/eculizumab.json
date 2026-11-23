@@ -1,11 +1,18 @@
 {
   "drug_name": "Eculizumab",
   "slug": "eculizumab",
-  "enriched_at": "2026-10-28T15:17:59Z",
+  "enriched_at": "2026-11-23T20:05:29Z",
   "source_trial_ids": [
-    "NCT05133531"
+    "NCT05133531",
+    "NCT06724809"
   ],
   "sponsors": [
+    {
+      "name": "Alexion Pharmaceuticals, Inc.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Alexion%20Pharmaceuticals%2C%20Inc.&type=10-K&dateb=&owner=include&count=40"
+    },
     {
       "name": "Regeneron Pharmaceuticals",
       "ticker": "REGN",
@@ -51,8 +58,15 @@
     {
       "nct_id": "NCT05133531",
       "title": "A Study to Evaluate How Safe Pozelimab + Cemdisiran Combination Therapy is and How Well it Works in Adult Patients With Paroxysmal Nocturnal Hemoglobinuria (PNH) Who Have Not Recently Received or Have Not Received Complement Inhibitor Treatment",
-      "status": "ACTIVE_NOT_RECRUITING",
+      "status": "COMPLETED",
       "url": "https://clinicaltrials.gov/study/NCT05133531",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06724809",
+      "title": "Efficacy, Safety, PK, PD, and ADA of Eculizumab in Chinese Adults With NMOSD",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06724809",
       "has_results": false
     }
   ],
