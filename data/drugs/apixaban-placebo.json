@@ -1,0 +1,150 @@
+{
+  "drug_name": "Apixaban Placebo",
+  "slug": "apixaban-placebo",
+  "enriched_at": "2026-11-24T18:44:09Z",
+  "source_trial_ids": [
+    "NCT05757869"
+  ],
+  "sponsors": [
+    {
+      "name": "Janssen Research & Development, LLC",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Janssen%20Research%20%26%20Development%2C%20LLC&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1364430",
+      "generic_name": "apixaban",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL231779",
+    "target_chembl_id": "CHEMBL244",
+    "target_name": "Coagulation factor X",
+    "mechanism_of_action_chembl": "Coagulation factor X inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Apixaban%20Placebo+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Apixaban%20Placebo+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Apixaban%20Placebo+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "Atrial Fibrillation",
+    "slug": "atrial-fibrillation"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05757869",
+      "title": "A Study of Milvexian Versus Apixaban in Participants With Atrial Fibrillation",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05757869",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42266819",
+        "title": "A Multicenter, Double-Blind, Placebo-Controlled, Randomized Clinical Trial of Oral Anticoagulation in Systemic Sclerosis-Related Pulmonary Arterial Hypertension-Results From the SPHInX Study.",
+        "pubdate": "2026 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42266819/"
+      },
+      {
+        "pmid": "42093017",
+        "title": "Reperfusion thrombolytic therapy for ischemic stroke in patients on non-vitamin K antagonist oral anticoagulants: study protocol of a phase II randomized clinical trial.",
+        "pubdate": "2026 May 7",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42093017/"
+      },
+      {
+        "pmid": "41791675",
+        "title": "Rationale for the milvexian dosing in the phase 3 LIBREXIA program.",
+        "pubdate": "2026 Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41791675/"
+      },
+      {
+        "pmid": "40750720",
+        "title": "Contemporary Oral Medication Use and Frequency in Patients with Transthyretin Amyloid Cardiomyopathy.",
+        "pubdate": "2025 Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40750720/"
+      },
+      {
+        "pmid": "40513753",
+        "title": "Extended Thromboprophylaxis in Patients Hospitalized with COVID-19 at Time of Discharge is Not Associated with Improvement in Quality of Life.",
+        "pubdate": "2025 Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40513753/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "RIVAROXABAN",
+        "chembl_id": "CHEMBL198362",
+        "reason": "same target: Coagulation factor X"
+      },
+      {
+        "name": "EDOXABAN TOSYLATE",
+        "chembl_id": "CHEMBL2105682",
+        "reason": "same target: Coagulation factor X"
+      },
+      {
+        "name": "BETRIXABAN",
+        "chembl_id": "CHEMBL512351",
+        "reason": "same target: Coagulation factor X"
+      },
+      {
+        "name": "IDRAPARINUX SODIUM",
+        "chembl_id": "CHEMBL5314374",
+        "reason": "same target: Coagulation factor X"
+      },
+      {
+        "name": "LETAXABAN",
+        "chembl_id": "CHEMBL1095032",
+        "reason": "same target: Coagulation factor X"
+      },
+      {
+        "name": "ANTITHROMBIN ALFA",
+        "chembl_id": "CHEMBL1201554",
+        "reason": "same target: Coagulation factor X"
+      },
+      {
+        "name": "OTAMIXABAN",
+        "chembl_id": "CHEMBL46618",
+        "reason": "same target: Coagulation factor X"
+      },
+      {
+        "name": "BEMIPARIN",
+        "chembl_id": "CHEMBL3707365",
+        "reason": "same target: Coagulation factor X"
+      },
+      {
+        "name": "DAREXABAN",
+        "chembl_id": "CHEMBL1922235",
+        "reason": "same target: Coagulation factor X"
+      },
+      {
+        "name": "IDRABIOTAPARINUX SODIUM",
+        "chembl_id": "CHEMBL4297768",
+        "reason": "same target: Coagulation factor X"
+      }
+    ]
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "drug_name": "Apixaban",
+  "slug": "apixaban",
+  "enriched_at": "2026-11-24T18:43:51Z",
+  "source_trial_ids": [
+    "NCT05757869"
+  ],
+  "sponsors": [
+    {
+      "name": "Janssen Research & Development, LLC",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Janssen%20Research%20%26%20Development%2C%20LLC&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "pubchem_cid": 10182969,
+    "iupac_name": "1-(4-methoxyphenyl)-7-oxo-6-[4-(2-oxopiperidin-1-yl)phenyl]-4,5-dihydropyrazolo[5,4-c]pyridine-3-carboxamide",
+    "molecular_formula": "C25H25N5O4",
+    "molecular_weight": "459.5",
+    "canonical_smiles": null,
+    "inchikey": "QNZCBYKSOIHPEH-UHFFFAOYSA-N",
+    "rxnorm": {
+      "rxcui": "1364430",
+      "generic_name": "apixaban",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL231779",
+    "target_chembl_id": "CHEMBL244",
+    "target_name": "Coagulation factor X",
+    "mechanism_of_action_chembl": "Coagulation factor X inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Apixaban is a selective inhibitor of FXa. It does not require antithrombin III for antithrombotic activity. Apixaban inhibits free and clot-bound FXa, and prothrombinase activity. Apixaban has no direct effect on platelet aggregation, but indirectly inhibits platelet aggregation induced by thrombin. By inhibiting FXa, apixaban decreases thrombin generation and thrombus development.",
+    "pharmacokinetics": "12.3 Pharmacokinetics Apixaban demonstrates linear pharmacokinetics with dose-proportional increases in exposure for oral doses up to 10 mg. Absorption The absolute bioavailability of apixaban is approximately 50% for doses up to 10 mg of apixaban. Food does not affect the bioavailability of apixaban. Maximum concentrations (Cmax) of apixaban appear 3 to 4 hours after oral administration of apixaban. At doses ≥25 mg, apixaban displays dissolution-limited absorption with decreased bioavailability. Following oral administration of 10 mg of apixaban as 2 crushed 5 mg tablets suspended in 30 mL of water, exposure was similar to that after oral administration of 2 intact 5 mg tablets. Following oral administration of 10 mg of apixaban as 2 crushed 5 mg tablets mixed with 30 g of applesauce, the Cmax and AUC were 20% and 16% lower, respectively, when compared to administration of 2 intact 5 mg tablets. Following administration of a crushed 5 mg apixaban tablet that was suspended in 60 mL D5W and delivered through a nasogastric tube, exposure was similar to that seen in other clinical trials involving healthy volunteers receiving a single oral 5 mg tablet dose. Distribution Plasma protein binding in humans is approximately 87%. The volume of distribution (Vss) is approximately 21 liters. Metabolism Approximately 25% of an orally administered apixaban dose is recovered in urine and feces as metabolites. Apixaban is metabolized mainly via CYP3A4 with minor contributions from CYP1A2, 2C8, 2C9, 2C19, and 2J2. O-demethylation and hydroxylation at the 3-oxopiperidinyl moiety are the major sites of biotransformation. Unchanged apixaban is the major drug-related component in human plasma; there are no active circulating metabolites. Elimination Apixaban is eliminated in both urine and feces. Renal excretion accounts for about 27% of total clearance. Biliary and direct intestinal excretion contributes to elimination of apixaban in the feces. Apixaban has a total clearance of approximately 3.3 L/hour and an apparent half-life of approximately 12 hours following oral administration. Apixaban is a substrate of transport proteins: P-gp and breast cancer resistance protein. Drug Interaction Studies In in vitro apixaban studies at concentrations significantly greater than therapeutic exposures, no inhibitory effect on the activity of CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2D6, CYP3A4/5, or CYP2C19, nor induction effect on the activity of CYP1A2, CYP2B6, or CYP3A4/5 were observed. Therefore, apixaban is not expected to alter the metabolic clearance of coadministered drugs that are metabolized by these enzymes. Apixaban is not a significant inhibitor of P-gp. The effects of coadministered drugs on the pharmacokinetics of apixaban are summarized in Figure 2 [see also Warnings and Precautions ( 5.2) and Drug Interactions ( 7) ]. Figure 2: Effect of Coadministered Drugs on the Pharmacokinetics of Apixaban In dedicated studies conducted in healthy subjects, famotidine, atenolol, prasugrel, and enoxaparin did not meaningfully alter the pharmacokinetics of apixaban. In studies conducted in healthy subjects, apixaban did not meaningfully alter the pharmacokinetics of digoxin, naproxen, atenolol, prasugrel, or acetylsalicylic acid. Specific Populations The effects of level of renal impairment, age, body weight, and level of hepatic impairment on the pharmacokinetics of apixaban are summarized in Figure 3. Figure 3: Effect of Specific Populations on the Pharmacokinetics of Apixaban * ESRD subjects treated with intermittent hemodialysis; reported PK findings are following single dose of apixaban post hemodialysis. † Results reflect CrCl of 15 mL/min based on regression analysis. ‡ Dashed vertical lines illustrate pharmacokinetic changes that were used to inform dosing recommendations. § No dose adjustment is recommended for nonvalvular atrial fibrillation patients unless at least 2 of the following patient characteristics (age greater than or equal to 80 years, body weight less than or equal to 60 kg, or serum creatinine greater than or equal to 1.5 mg/dL) are present. Gender: A study in healthy subjects comparing the pharmacokinetics in males and females showed no meaningful difference. Race: The results across pharmacokinetic studies in normal subjects showed no differences in apixaban pharmacokinetics among White/Caucasian, Asian, and Black/African American subjects. No dose adjustment is required based on race/ethnicity. Hemodialysis in ESRD subjects: Systemic exposure to apixaban administered as a single 5 mg dose in ESRD subjects dosed immediately after the completion of a 4-hour hemodialysis session (post-dialysis) is 36% higher when compared to subjects with normal renal function (Figure 3). The systemic exposure to apixaban administered 2 hours prior to a 4-hour hemodialysis session with a dialysate flow rate of 500 mL/min and a blood flow rate in the range of 350 to 500 mL/min is 17% higher compared to those with normal renal function. The dialysis clearance of apixaban is approximately 18 mL/min. The systemic exposure of apixaban is 14% lower on dialysis when compared to not on dialysis. Protein binding was similar (92%-94%) between healthy controls and ESRD subjects during the on-dialysis and off-dialysis periods. fig2 fig3",
+    "indications_and_usage": "1 INDICATIONS & USAGE Apixaban is a factor Xa inhibitor indicated: to reduce the risk of stroke and systemic embolism in patients with nonvalvular atrial fibrillation. ( 1.1 ) for the prophylaxis of deep vein thrombosis (DVT), which may lead to pulmonary embolism (PE), in patients who have undergone hip or knee replacement surgery. ( 1.2 ) for the treatment of DVT and PE, and for the reduction in the risk of recurrent DVT and PE following initial therapy. ( 1.3 , 1.4 , 1.5 ) 1.1 Reduction of Risk of Stroke and Systemic Embolism in Nonvalvular Atrial Fibrillation Apixaban tablets are indicated to reduce the risk of stroke and systemic embolism in patients with nonvalvular atrial fibrillation. 1.2 Prophylaxis of Deep Vein Thrombosis Following Hip or Knee Replacement Surgery Apixaban tablets are indicated for the prophylaxis of deep vein thrombosis (DVT), which may lead to pulmonary embolism (PE), in patients who have undergone hip or knee replacement surgery. 1.3 Treatment of Deep Vein Thrombosis Apixaban tablets are indicated for the treatment of DVT. 1.4 Treatment of Pulmonary Embolism Apixaban tablets are indicated for the treatment of PE. 1.5 Reduction in the Risk of Recurrence of DVT and PE Apixaban tablets are indicated to reduce the risk of recurrent DVT and PE following initial therapy.",
+    "boxed_warning": "BOXED WARNING WARNING: (A) PREMATURE DISCONTINUATION OF APIXABAN INCREASES THE RISK OF THROMBOTIC EVENTS (B) SPINAL/EPIDURAL HEMATOMA (A) PREMATURE DISCONTINUATION OF APIXABAN INCREASES THE RISK OF THROMBOTIC EVENTS Premature discontinuation of any oral anticoagulant, including apixaban, increases the risk of thrombotic events. If anticoagulation with apixaban is discontinued for a reason other than pathological bleeding or completion of a course of therapy, consider coverage with another anticoagulant [see Dosage and Administration (2.4), Warnings and Precautions (5.1), and Clinical Studies ( 14.1)] . (B) SPINAL/EPIDURAL HEMATOMA Epidural or spinal hematomas may occur in patients treated with apixaban who are receiving neuraxial anesthesia or undergoing spinal puncture. These hematomas may result in long-term or permanent paralysis. Consider these risks when scheduling patients for spinal procedures. Factors that can increase the risk of developing epidural or spinal hematomas in these patients include: • use of indwelling epidural catheters • concomitant use of other drugs that affect hemostasis, such as nonsteroidal anti-inflammatory drugs (NSAIDs), platelet inhibitors, other anticoagulants • a history of traumatic or repeated epidural or spinal punctures • a history of spinal deformity or spinal surgery • optimal timing between the administration of apixaban and neuraxial procedures is not known [see Warnings and Precautions ( 5.3 )] Monitor patients frequently for signs and symptoms of neurological impairment. If neurological compromise is noted, urgent treatment is necessary [see Warnings and Precautions ( 5.3 )]. Consider the benefits and risks before neuraxial intervention in patients anticoagulated or to be anticoagulated [see Warnings and Precautions ( 5.3 )]. WARNING: (A) PREMATURE DISCONTINUATION OF APIXABAN INCREASES THE RISK OF THROMBOTIC EVENTS (B) SPINAL/EPIDURAL HEMATOMA See full prescribing information for complete boxed warning. (A) PREMATURE DISCONTINUATION OF APIXABAN INCREASES THE RISK OF THROMBOTIC EVENTS: Premature discontinuation of any oral anticoagulant, including apixaban, increases the risk of thrombotic events. To reduce this risk, consider coverage with another anticoagulant if apixaban is discontinued for a reason other than pathological bleeding or completion of a course of therapy. ( 2.4 , 5.1 , 14.1 ) (B) SPINAL/EPIDURAL HEMATOMA: Epidural or spinal hematomas may occur in patients treated with apixaban who are receiving neuraxial anesthesia or undergoing spinal puncture. These hematomas may result in long-term or permanent paralysis. Consider these risks when scheduling patients for spinal procedures. ( 5.3 )",
+    "openfda_brand_names": [
+      "apixaban"
+    ],
+    "openfda_generic_names": [
+      "APIXABAN"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e9481622-7cc6-418a-acb6-c5450daae9b0",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Atrial Fibrillation",
+    "slug": "atrial-fibrillation"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT05757869",
+      "title": "A Study of Milvexian Versus Apixaban in Participants With Atrial Fibrillation",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05757869",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "43004015",
+        "title": "Efficacy and safety of apixaban versus rivaroxaban in acute venous thromboembolism: a systematic review and meta-analysis.",
+        "pubdate": "2026 Nov 10",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43004015/"
+      },
+      {
+        "pmid": "42953941",
+        "title": "Comparative Safety and Efficacy of Oral Anticoagulants in Patients With Atrial Fibrillation and Prior Ischemic Stroke: A Systematic Review and Network Meta-Analysis of Randomized-Controlled Clinical Trials.",
+        "pubdate": "2026 Oct 29",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42953941/"
+      },
+      {
+        "pmid": "42929312",
+        "title": "FXIa inhibitors and secondary stroke prevention.",
+        "pubdate": "2026 Oct 27",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42929312/"
+      },
+      {
+        "pmid": "42914740",
+        "title": "Apixaban for thromboprophylaxis in paediatric cardiology patients: Real-world data from a single institution.",
+        "pubdate": "2026 Oct 19",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42914740/"
+      },
+      {
+        "pmid": "42620909",
+        "title": "Direct oral anticoagulants in cancer-associated venous thromboembolism: trial robustness and clinical trade-offs.",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42620909/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "RIVAROXABAN",
+        "chembl_id": "CHEMBL198362",
+        "reason": "same target: Coagulation factor X"
+      },
+      {
+        "name": "EDOXABAN TOSYLATE",
+        "chembl_id": "CHEMBL2105682",
+        "reason": "same target: Coagulation factor X"
+      },
+      {
+        "name": "BETRIXABAN",
+        "chembl_id": "CHEMBL512351",
+        "reason": "same target: Coagulation factor X"
+      },
+      {
+        "name": "IDRAPARINUX SODIUM",
+        "chembl_id": "CHEMBL5314374",
+        "reason": "same target: Coagulation factor X"
+      },
+      {
+        "name": "LETAXABAN",
+        "chembl_id": "CHEMBL1095032",
+        "reason": "same target: Coagulation factor X"
+      },
+      {
+        "name": "ANTITHROMBIN ALFA",
+        "chembl_id": "CHEMBL1201554",
+        "reason": "same target: Coagulation factor X"
+      },
+      {
+        "name": "OTAMIXABAN",
+        "chembl_id": "CHEMBL46618",
+        "reason": "same target: Coagulation factor X"
+      },
+      {
+        "name": "BEMIPARIN",
+        "chembl_id": "CHEMBL3707365",
+        "reason": "same target: Coagulation factor X"
+      },
+      {
+        "name": "DAREXABAN",
+        "chembl_id": "CHEMBL1922235",
+        "reason": "same target: Coagulation factor X"
+      },
+      {
+        "name": "IDRABIOTAPARINUX SODIUM",
+        "chembl_id": "CHEMBL4297768",
+        "reason": "same target: Coagulation factor X"
+      }
+    ]
+  }
+}

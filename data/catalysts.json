@@ -1,144 +1,12 @@
 {
-  "generated_at": "2026-11-23T20:57:58Z",
+  "generated_at": "2026-11-24T18:43:08Z",
   "window_upcoming_days": 14,
   "window_lookback_days": [
     1,
     90
   ],
-  "trial_count": 359,
+  "trial_count": 357,
   "trials": [
-    {
-      "nct_id": "NCT06716216",
-      "title": "A Study of BGM0504 in Participants With Type 2 Diabetes",
-      "status": "COMPLETED",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "BrightGene Bio-Medical Technology Co., Ltd.",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-08-25",
-      "primary_completion_date_type": "ACTUAL",
-      "window": "lookback",
-      "conditions": [
-        "Type 2 Diabetes Mellitus (T2DM)"
-      ],
-      "interventions": [
-        {
-          "name": "Drug: 5 mg BGM0504 Administered SC",
-          "type": "DRUG"
-        },
-        {
-          "name": "Drug:10 mg BGM0504 Administered SC",
-          "type": "DRUG"
-        },
-        {
-          "name": "Drug: Semaglutide Administered SC",
-          "type": "DRUG"
-        }
-      ],
-      "drug_names": [
-        "Drug: 5 mg BGM0504 Administered SC",
-        "Drug:10 mg BGM0504 Administered SC",
-        "Drug: Semaglutide Administered SC"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT06716216",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "BrightGene Bio-Medical Technology Co., Ltd.",
-        "ticker": null,
-        "cik": null,
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=BrightGene%20Bio-Medical%20Technology%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-21T15:53:41Z"
-      }
-    },
-    {
-      "nct_id": "NCT06790966",
-      "title": "Phase 3 Study of PDS0101 and Pembrolizumab in HPV16+ Recurrent/Metastatic Head and Neck Squamous Cell Carcinoma",
-      "status": "TERMINATED",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "PDS Biotechnology Corp.",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-08-25",
-      "primary_completion_date_type": "ACTUAL",
-      "window": "lookback",
-      "conditions": [
-        "Recurrent Head and Neck Cancer",
-        "Metastatic Head and Neck Cancer",
-        "HPV Positive Oropharyngeal Squamous Cell Carcinoma",
-        "Neoplasms, Head and Neck",
-        "Unresectable Head and Neck Squamous Cell Carcinoma"
-      ],
-      "interventions": [
-        {
-          "name": "Combination Treatment of PDS0101 and Pembrolizumab",
-          "type": "COMBINATION_PRODUCT"
-        },
-        {
-          "name": "Pembrolizumab Monotherapy",
-          "type": "DRUG"
-        }
-      ],
-      "drug_names": [
-        "Pembrolizumab Monotherapy"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT06790966",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "PDS Biotechnology Corp.",
-        "ticker": "PDSB",
-        "cik": "0001472091",
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001472091&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-20T15:57:44Z"
-      }
-    },
-    {
-      "nct_id": "NCT07543380",
-      "title": "A Study to Learn Safety and Immune Response to Study Vaccine -RSVpreF in Adults at High Risk of Severe RSV Disease.",
-      "status": "COMPLETED",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "Pfizer",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-08-25",
-      "primary_completion_date_type": "ACTUAL",
-      "window": "lookback",
-      "conditions": [
-        "Respiratory Syncytial Virus (RSV)"
-      ],
-      "interventions": [
-        {
-          "name": "RSVpreF",
-          "type": "BIOLOGICAL"
-        }
-      ],
-      "drug_names": [
-        "RSVpreF"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT07543380",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "Pfizer",
-        "ticker": "PFE",
-        "cik": "0000078003",
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000078003&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-23T20:03:58Z"
-      }
-    },
     {
       "nct_id": "NCT06152575",
       "title": "MagnetisMM-32: A Study to Learn About the Study Medicine Called Elranatamab in People With Multiple Myeloma (MM) That Has Come Back After Taking Other Treatments (Including Prior Treatment With an Anti-CD38 Antibody and Lenalidomide)",
@@ -850,7 +718,7 @@
     {
       "nct_id": "NCT06081894",
       "title": "A Trial to Evaluate the Efficacy and Safety of Aficamten Compared to Placebo in Adults With Symptomatic Non-Obstructive Hypertrophic Cardiomyopathy (nHCM)",
-      "status": "ACTIVE_NOT_RECRUITING",
+      "status": "COMPLETED",
       "phases": [
         "PHASE3"
       ],
@@ -10814,7 +10682,7 @@
       "sponsor_class": "INDUSTRY",
       "primary_completion_date": "2026-11-23",
       "primary_completion_date_type": "ESTIMATED",
-      "window": "upcoming",
+      "window": "lookback",
       "conditions": [
         "Chickenpox"
       ],
@@ -10882,7 +10750,7 @@
       "sponsor_class": "INDUSTRY",
       "primary_completion_date": "2026-11-23",
       "primary_completion_date_type": "ESTIMATED",
-      "window": "upcoming",
+      "window": "lookback",
       "conditions": [
         "Diphtheria-Tetanus-acellular Pertussis Vaccines"
       ],
@@ -16212,6 +16080,59 @@
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Alexion%20Pharmaceuticals%2C%20Inc.&type=10-K&dateb=&owner=include&count=40",
         "cached_at": "2026-11-23T20:03:44Z"
+      }
+    },
+    {
+      "nct_id": "NCT05757869",
+      "title": "A Study of Milvexian Versus Apixaban in Participants With Atrial Fibrillation",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Janssen Research & Development, LLC",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-12-08",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Atrial Fibrillation"
+      ],
+      "interventions": [
+        {
+          "name": "Milvexian",
+          "type": "DRUG"
+        },
+        {
+          "name": "Apixaban",
+          "type": "DRUG"
+        },
+        {
+          "name": "Placebo",
+          "type": "DRUG"
+        },
+        {
+          "name": "Apixaban Placebo",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "Milvexian",
+        "Apixaban",
+        "Placebo",
+        "Apixaban Placebo"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT05757869",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Janssen Research & Development, LLC",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Janssen%20Research%20%26%20Development%2C%20LLC&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-11-20T15:57:36Z"
       }
     }
   ]

@@ -1,7 +1,7 @@
 {
   "drug_name": "Placebo",
   "slug": "placebo",
-  "enriched_at": "2026-11-20T16:44:22Z",
+  "enriched_at": "2026-11-24T18:44:39Z",
   "source_trial_ids": [
     "NCT02914535",
     "NCT03767244",
@@ -26,6 +26,7 @@
     "NCT05653349",
     "NCT05677451",
     "NCT05702034",
+    "NCT05757869",
     "NCT05778188",
     "NCT06081894",
     "NCT06125951",
@@ -668,6 +669,13 @@
       "has_results": false
     },
     {
+      "nct_id": "NCT05757869",
+      "title": "A Study of Milvexian Versus Apixaban in Participants With Atrial Fibrillation",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT05757869",
+      "has_results": false
+    },
+    {
       "nct_id": "NCT05778188",
       "title": "A Study to Evaluate the Safety, Tolerability, Pharmacokinetics, and Efficacy of RLS-0071 in Newborns With Moderate or Severe Hypoxic-Ischemic Encephalopathy Undergoing Therapeutic Hypothermia",
       "status": "RECRUITING",
@@ -677,7 +685,7 @@
     {
       "nct_id": "NCT06081894",
       "title": "A Trial to Evaluate the Efficacy and Safety of Aficamten Compared to Placebo in Adults With Symptomatic Non-Obstructive Hypertrophic Cardiomyopathy (nHCM)",
-      "status": "ACTIVE_NOT_RECRUITING",
+      "status": "COMPLETED",
       "url": "https://clinicaltrials.gov/study/NCT06081894",
       "has_results": false
     },
@@ -1120,34 +1128,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "43062193",
-        "title": "1,25-Dihydroxyvitamin D3 Ameliorates High-Altitude Hypoxic Injury via Modulation of Short-Chain Fatty Acids to Exert a Coordinated Anti-Inflammatory Effect.",
-        "pubdate": "2026 Nov 20",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43062193/"
+        "pmid": "43076208",
+        "title": "Prehospital Fluid Resuscitation for Patients With Suspected Sepsis: The PITSTOP-Fluids Factorial Randomized Clinical Trial.",
+        "pubdate": "2026 Nov 24",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43076208/"
       },
       {
-        "pmid": "43060689",
-        "title": "Statistical design of Path to Prevention platform trial in early neuronal alpha-synuclein disease.",
-        "pubdate": "2026 Nov 6",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43060689/"
+        "pmid": "43076168",
+        "title": "Prehospital Antibiotics for Patients With Suspected Sepsis: The PITSTOP-Antibiotics Factorial Randomized Clinical Trial.",
+        "pubdate": "2026 Nov 24",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43076168/"
       },
       {
-        "pmid": "43059979",
-        "title": "Fungal Ulcer Treatment Augmented with Natamycin and Cyclosporine (FANCY): study protocol for a randomized, double-masked, parallel-arm clinical trial comparing 0.1% cyclosporine A, 2% cyclosporine A, and placebo as adjunctive therapy to natamycin for mild to moderate fungal keratitis.",
-        "pubdate": "2026 Nov 11",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43059979/"
+        "pmid": "43075589",
+        "title": "Identifying clinical markers of imminent risk: the challenge of deciding which patients are about to have a crisis.",
+        "pubdate": "2026 Jan",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43075589/"
       },
       {
-        "pmid": "43058990",
-        "title": "Clinically Meaningful Response on the Rett Syndrome Behavior Questionnaire: A Responder Analysis of Patients Treated with Trofinetide Versus Placebo in the 12-Week LAVENDER Trial.",
+        "pmid": "43074906",
+        "title": "Bifidobacterium supplementation preserves gut microbiota stability and enhances wellbeing during short-term international travel: a randomized, double-blind, placebo-controlled trial.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43074906/"
+      },
+      {
+        "pmid": "43074150",
+        "title": "Clinical and Demographic Factors Associated With Treatment Response in a Tinnitus Clinical Trial.",
         "pubdate": "2026 Nov 19",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43058990/"
-      },
-      {
-        "pmid": "43058897",
-        "title": "Study protocol: efficacy and safety of Limosilactobacillus fermentum WIS32 as an adjunctive treatment for major depressive disorder-a randomized, double-blind, placebo-controlled trial.",
-        "pubdate": "2026 Aug 26",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43058897/"
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43074150/"
       }
     ]
   },
