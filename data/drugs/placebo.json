@@ -1,7 +1,7 @@
 {
   "drug_name": "Placebo",
   "slug": "placebo",
-  "enriched_at": "2026-11-24T18:44:39Z",
+  "enriched_at": "2026-11-25T17:51:28Z",
   "source_trial_ids": [
     "NCT02914535",
     "NCT03767244",
@@ -30,6 +30,7 @@
     "NCT05778188",
     "NCT06081894",
     "NCT06125951",
+    "NCT06126224",
     "NCT06132893",
     "NCT06200207",
     "NCT06208306",
@@ -41,7 +42,6 @@
     "NCT06341335",
     "NCT06413433",
     "NCT06468228",
-    "NCT06468956",
     "NCT06516952",
     "NCT06516965",
     "NCT06534723",
@@ -74,7 +74,6 @@
     "NCT07029711",
     "NCT07139535",
     "NCT07193459",
-    "NCT07221578",
     "NCT07237568",
     "NCT07251309",
     "NCT07265284",
@@ -84,7 +83,6 @@
     "NCT07392125",
     "NCT07435428",
     "NCT07446439",
-    "NCT07473960",
     "NCT07500506",
     "NCT07555392",
     "NCT07669454",
@@ -230,12 +228,6 @@
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Fujian%20Shengdi%20Pharmaceutical%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
-      "name": "Guangdong Hengrui Pharmaceutical Co., Ltd",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Guangdong%20Hengrui%20Pharmaceutical%20Co.%2C%20Ltd&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Guangdong Raynovent Biotech Co., Ltd",
@@ -503,8 +495,8 @@
     }
   },
   "condition": {
-    "raw": "Moderate to Severe Atopic Dermatitis",
-    "slug": "moderate-to-severe-atopic-dermatitis"
+    "raw": "Clostridioides Difficile Infection",
+    "slug": "clostridioides-difficile-infection"
   },
   "source_trials": [
     {
@@ -697,6 +689,13 @@
       "has_results": false
     },
     {
+      "nct_id": "NCT06126224",
+      "title": "A Study to Assess Efficacy and Safety of KarXT for the Treatment of Psychosis Associated With Alzheimer's Disease (ADEPT-2)",
+      "status": "RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06126224",
+      "has_results": false
+    },
+    {
       "nct_id": "NCT06132893",
       "title": "A Study to Determine if BHV-7000 is Effective and Safe in Adults With Refractory Focal Onset Epilepsy",
       "status": "ACTIVE_NOT_RECRUITING",
@@ -771,13 +770,6 @@
       "title": "A Study to Assess Disease Activity and Safety of Lutikizumab in Adult and Adolescent Participants With Moderate to Severe Hidradenitis Suppurativa",
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT06468228",
-      "has_results": false
-    },
-    {
-      "nct_id": "NCT06468956",
-      "title": "Efficacy and Safety Study of SHR-1819 Injection in Adult Patients With Severe Atopic Dermatitis",
-      "status": "COMPLETED",
-      "url": "https://clinicaltrials.gov/study/NCT06468956",
       "has_results": false
     },
     {
@@ -1005,13 +997,6 @@
       "has_results": false
     },
     {
-      "nct_id": "NCT07221578",
-      "title": "Study to Evaluate the Efficacy and Safety of VQW-765 for the On-Demand Treatment of Social Anxiety Disorder",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT07221578",
-      "has_results": false
-    },
-    {
       "nct_id": "NCT07237568",
       "title": "A Study to Evaluate Efficacy and Safety of LNK01001 in Adults With Ankylosing Spondylitis",
       "status": "RECRUITING",
@@ -1070,15 +1055,8 @@
     {
       "nct_id": "NCT07446439",
       "title": "A Study to Evaluate Tradipitant on Treating Nausea and Vomiting Induced by GLP-1R Agonist Use",
-      "status": "RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT07446439",
-      "has_results": false
-    },
-    {
-      "nct_id": "NCT07473960",
-      "title": "IBI306 Monotherapy in Non-Familial Hypercholesterolemia and Mixed Hyperlipidemia",
       "status": "COMPLETED",
-      "url": "https://clinicaltrials.gov/study/NCT07473960",
+      "url": "https://clinicaltrials.gov/study/NCT07446439",
       "has_results": false
     },
     {
@@ -1128,46 +1106,40 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "43076208",
-        "title": "Prehospital Fluid Resuscitation for Patients With Suspected Sepsis: The PITSTOP-Fluids Factorial Randomized Clinical Trial.",
-        "pubdate": "2026 Nov 24",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43076208/"
-      },
-      {
-        "pmid": "43076168",
-        "title": "Prehospital Antibiotics for Patients With Suspected Sepsis: The PITSTOP-Antibiotics Factorial Randomized Clinical Trial.",
-        "pubdate": "2026 Nov 24",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43076168/"
-      },
-      {
-        "pmid": "43075589",
-        "title": "Identifying clinical markers of imminent risk: the challenge of deciding which patients are about to have a crisis.",
-        "pubdate": "2026 Jan",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43075589/"
-      },
-      {
-        "pmid": "43074906",
-        "title": "Bifidobacterium supplementation preserves gut microbiota stability and enhances wellbeing during short-term international travel: a randomized, double-blind, placebo-controlled trial.",
+        "pmid": "43082199",
+        "title": "Effects of risedronate on volumetric bone mineral density and CT-derived muscle-bone associations after sleeve gastrectomy: a pilot randomized controlled trial.",
         "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43074906/"
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43082199/"
       },
       {
-        "pmid": "43074150",
-        "title": "Clinical and Demographic Factors Associated With Treatment Response in a Tinnitus Clinical Trial.",
-        "pubdate": "2026 Nov 19",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43074150/"
+        "pmid": "43078855",
+        "title": "Empirical assessment of constraints and credibility when emulating a placebo-controlled trial with the clone-censor-weight approach.",
+        "pubdate": "2026 Jul 30",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43078855/"
+      },
+      {
+        "pmid": "43078575",
+        "title": "Effect of esketamine on postoperative sleep disturbance in patients undergoing spine surgery: a randomized, double-blinded, placebo-controlled clinical trial.",
+        "pubdate": "2026 Nov 24",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43078575/"
+      },
+      {
+        "pmid": "43078450",
+        "title": "Effects of daily wild blueberry consumption for 12 weeks on cardiometabolic health in middle-aged/older adults with above-normal blood pressure: results from a randomized clinical trial.",
+        "pubdate": "2026 Nov 24",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43078450/"
+      },
+      {
+        "pmid": "43078204",
+        "title": "Trial-level associations of treatment-induced changes in NT-proBNP, patient-reported health status, and exercise capacity with clinical outcomes in transthyretin amyloid cardiomyopathy.",
+        "pubdate": "2026 Nov 24",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43078204/"
       }
     ]
   },
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": [
-      {
-        "name": "Methotrexate",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: medac GmbH"
-      }
-    ]
+    "items": []
   }
 }
