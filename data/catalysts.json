@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T19:01:00Z",
+  "generated_at": "2026-11-26T17:35:48Z",
   "window_upcoming_days": 14,
   "window_lookback_days": [
     1,
@@ -7,49 +7,6 @@
   ],
   "trial_count": 349,
   "trials": [
-    {
-      "nct_id": "NCT06260722",
-      "title": "Effect of Retatrutide Compared With Semaglutide in Adult Participants With Type 2 Diabetes and Inadequate Glycemic Control With Metformin With or Without SGLT2 Inhibitor (TRANSCEND-T2D-2)",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "Eli Lilly and Company",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-08-27",
-      "primary_completion_date_type": "ACTUAL",
-      "window": "lookback",
-      "conditions": [
-        "Diabetes Mellitus, Type 2"
-      ],
-      "interventions": [
-        {
-          "name": "Retatrutide",
-          "type": "DRUG"
-        },
-        {
-          "name": "Semaglutide",
-          "type": "DRUG"
-        }
-      ],
-      "drug_names": [
-        "Retatrutide",
-        "Semaglutide"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT06260722",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "Eli Lilly and Company",
-        "ticker": null,
-        "cik": null,
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Eli%20Lilly%20and%20Company&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-23T20:03:55Z"
-      }
-    },
     {
       "nct_id": "NCT05522231",
       "title": "Efficacy and Safety of Fruquintinib in Combination With Sintilimab in Advanced Renal Cell Carcinoma (FRUSICA-2)",
@@ -10611,7 +10568,7 @@
       "sponsor_class": "INDUSTRY",
       "primary_completion_date": "2026-11-25",
       "primary_completion_date_type": "ESTIMATED",
-      "window": "upcoming",
+      "window": "lookback",
       "conditions": [
         "Atopic Dermatitis"
       ],
@@ -10654,7 +10611,7 @@
       "sponsor_class": "INDUSTRY",
       "primary_completion_date": "2026-11-25",
       "primary_completion_date_type": "ESTIMATED",
-      "window": "upcoming",
+      "window": "lookback",
       "conditions": [
         "Immune Thrombocytopenia"
       ],
@@ -15745,6 +15702,64 @@
         "market_cap_asof": null,
         "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Karuna%20Therapeutics%2C%20Inc.%2C%20a%20Bristol%20Myers%20Squibb%20company&type=10-K&dateb=&owner=include&count=40",
         "cached_at": "2026-11-20T15:57:36Z"
+      }
+    },
+    {
+      "nct_id": "NCT06151574",
+      "title": "Beamion LUNG-2: A Study to Test Whether Zongertinib (BI 1810631) Helps People With Advanced Non-small Cell Lung Cancer With HER2 Mutations Compared With Standard Treatment",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-12-10",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
+      "conditions": [
+        "Lung Cancer, Non-squamous, Non-small Cell"
+      ],
+      "interventions": [
+        {
+          "name": "zongertinib",
+          "type": "DRUG"
+        },
+        {
+          "name": "pembrolizumab",
+          "type": "DRUG"
+        },
+        {
+          "name": "cisplatin",
+          "type": "DRUG"
+        },
+        {
+          "name": "carboplatin",
+          "type": "DRUG"
+        },
+        {
+          "name": "pemetrexed",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "zongertinib",
+        "pembrolizumab",
+        "cisplatin",
+        "carboplatin",
+        "pemetrexed"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06151574",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Boehringer Ingelheim",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Boehringer%20Ingelheim&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-11-26T17:35:48Z"
       }
     }
   ]

@@ -1,12 +1,13 @@
 {
   "drug_name": "Cisplatin",
   "slug": "cisplatin",
-  "enriched_at": "2026-11-06T14:52:09Z",
+  "enriched_at": "2026-11-26T17:36:04Z",
   "source_trial_ids": [
     "NCT04129502",
     "NCT04634877",
     "NCT05116462",
     "NCT06123884",
+    "NCT06151574",
     "NCT06687369"
   ],
   "sponsors": [
@@ -15,6 +16,12 @@
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Bio-Thera%20Solutions&type=10-K&dateb=&owner=include&count=40"
+    },
+    {
+      "name": "Boehringer Ingelheim",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Boehringer%20Ingelheim&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Innovent Biologics (Suzhou) Co. Ltd.",
@@ -111,6 +118,13 @@
       "has_results": false
     },
     {
+      "nct_id": "NCT06151574",
+      "title": "Beamion LUNG-2: A Study to Test Whether Zongertinib (BI 1810631) Helps People With Advanced Non-small Cell Lung Cancer With HER2 Mutations Compared With Standard Treatment",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06151574",
+      "has_results": false
+    },
+    {
       "nct_id": "NCT06687369",
       "title": "A Study to Compare Pharmacokinetics, Efficacy, Safety, and Immunogenicity of MB12 (Proposed Pembrolizumab Biosimilar) to Keytruda® in Non-small Cell Lung Cancer (BENITO Study)",
       "status": "ACTIVE_NOT_RECRUITING",
@@ -122,34 +136,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "42964102",
-        "title": "Prospective evaluation of combination oral S-1 and intravenous cisplatin in cancer patients with severe hepatic dysfunction - a feasibility, safety, and pharmacokinetic study.",
-        "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42964102/"
+        "pmid": "43082482",
+        "title": "Update on the Systemic Treatment of Biliary Tract Cancer in Canada.",
+        "pubdate": "2026 Nov 19",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43082482/"
       },
       {
-        "pmid": "42963929",
-        "title": "The evolving role of perioperative systemic therapy in bladder cancer.",
-        "pubdate": "2026 Nov 1",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42963929/"
+        "pmid": "43063870",
+        "title": "Co-targeting VEGF and PD-(L)1 in gastrointestinal cancers: biology, clinical landscape, and therapeutic frontiers.",
+        "pubdate": "2026 Nov 18",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43063870/"
       },
       {
-        "pmid": "42945191",
-        "title": "Dual-Targeted Agent Improves Advanced BTC Survival.",
-        "pubdate": "2026 Oct 27",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42945191/"
+        "pmid": "43045680",
+        "title": "Cadonilimab plus gemcitabine and cisplatin as first-line treatment for unresectable locally advanced or metastatic biliary tract malignancies: the phase II bicureX clinical trial.",
+        "pubdate": "2026 Oct 19",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43045680/"
       },
       {
-        "pmid": "42940080",
-        "title": "Utility of Chemotherapy for Metastatic Melanoma in the Contemporary Era and Experience with Modified Vinblastine-Cisplatin-Temozolomide at a Tertiary Care Center.",
-        "pubdate": "2026 Oct 8",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42940080/"
+        "pmid": "43040603",
+        "title": "Quality of Life Outcomes From the Phase 3 Study of Atezolizumab + Bevacizumab and Chemotherapy (ATTLAS, KCSG-LU19-04) in EGFR/ALK-Mutated Non-Small-Cell Lung Cancer.",
+        "pubdate": "2026 Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43040603/"
       },
       {
-        "pmid": "42936389",
-        "title": "Comparison of Mirtazapine versus Olanzapine for the Prevention of Chemotherapy-induced Nausea and Vomiting in Highly Emetogenic Chemotherapy: A Double-blind Randomized Crossover Trial.",
-        "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42936389/"
+        "pmid": "43037986",
+        "title": "Study Rationale, Enrollment Characteristics, and Central Review of Clinical Stage: The INTACT Randomized Clinical Trial.",
+        "pubdate": "2026 Nov 2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43037986/"
       }
     ]
   },

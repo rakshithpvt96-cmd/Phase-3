@@ -1,15 +1,22 @@
 {
   "drug_name": "Pemetrexed",
   "slug": "pemetrexed",
-  "enriched_at": "2026-11-20T16:43:45Z",
+  "enriched_at": "2026-11-26T17:36:35Z",
   "source_trial_ids": [
     "NCT04129502",
     "NCT05116462",
+    "NCT06151574",
     "NCT06687369",
     "NCT06711900",
     "NCT06754644"
   ],
   "sponsors": [
+    {
+      "name": "Boehringer Ingelheim",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Boehringer%20Ingelheim&type=10-K&dateb=&owner=include&count=40"
+    },
     {
       "name": "Innovent Biologics (Suzhou) Co. Ltd.",
       "ticker": null,
@@ -94,6 +101,13 @@
       "title": "Neoadjuvant and Adjuvant Therapy Studies of Sindilizumab in Resectable Lung Cancer",
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT05116462",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06151574",
+      "title": "Beamion LUNG-2: A Study to Test Whether Zongertinib (BI 1810631) Helps People With Advanced Non-small Cell Lung Cancer With HER2 Mutations Compared With Standard Treatment",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT06151574",
       "has_results": false
     },
     {

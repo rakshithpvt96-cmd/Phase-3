@@ -1,7 +1,7 @@
 {
   "drug_name": "Irinotecan",
   "slug": "irinotecan",
-  "enriched_at": "2026-10-27T13:06:54Z",
+  "enriched_at": "2026-11-26T17:36:14Z",
   "source_trial_ids": [
     "NCT06351020",
     "NCT06356311"
@@ -52,7 +52,7 @@
     "openfda_generic_names": [
       "IRINOTECAN HYDROCHLORIDE"
     ],
-    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b66dbd6d-6ccb-ce9d-e053-2995a90a4c3c",
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b3526a9e-9408-4be5-bac7-8b9cf1babdab",
     "note": null,
     "further_reading": null
   },
@@ -80,34 +80,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "43019770",
+        "title": "Interpretable Prediction of Lymphopenia Following Neoadjuvant Chemoradiotherapy for rectal Cancer: An Analysis of the ARISTOTLE randomized phase 3 Trial.",
+        "pubdate": "2026 Oct 14",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43019770/"
+      },
+      {
+        "pmid": "43018949",
+        "title": "Izalontamab Brengitecan in Recurrent or Metastatic Esophageal Squamous Cell Carcinoma: The PANKU-Esophagus01 Randomized Clinical Trial.",
+        "pubdate": "2026 Nov 12",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43018949/"
+      },
+      {
+        "pmid": "42971611",
+        "title": "Chidamide combined with dinutuximab beta, irinotecan and temozolomide for relapsed or refractory neuroblastoma in children: protocol for a prospective, single-centre, open-label, single-arm, phase II study in China.",
+        "pubdate": "2026 Nov 2",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42971611/"
+      },
+      {
+        "pmid": "42955495",
+        "title": "Treatment Options After Recurrence Following Perioperative Durvalumab Plus FLOT for Gastric and Gastroesophageal Junction Adenocarcinoma: A Biology-First Sequencing Framework.",
+        "pubdate": "2026 Oct 28",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42955495/"
+      },
+      {
         "pmid": "42914998",
         "title": "Perioperative chemotherapy and stereotactic body radiotherapy versus perioperative chemotherapy alone in patients with high-risk, localised pancreatic cancer (MASTERPLAN): an open-label, phase 2, multicentre, randomised trial of the Australasian Gastro-Intestinal Trials Group.",
         "pubdate": "2026 Oct 23",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42914998/"
-      },
-      {
-        "pmid": "42861545",
-        "title": "Chemotherapy After Resection of Pancreatic Ductal Adenocarcinoma: Impact of Different Regimens in a Real-World Population.",
-        "pubdate": "2026 Oct 12",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42861545/"
-      },
-      {
-        "pmid": "42743886",
-        "title": "Circulating free bacterial DNA as a novel biomarker for monitoring therapy response in patients with advanced pancreatic cancer.",
-        "pubdate": "2026 Oct 16",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42743886/"
-      },
-      {
-        "pmid": "42735452",
-        "title": "Lurbinectedin plus irinotecan in pretreated gastroenteropancreatic neuroendocrine neoplasms: results of a phase II expansion cohort.",
-        "pubdate": "2026 Oct",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42735452/"
-      },
-      {
-        "pmid": "42733563",
-        "title": "Short-term versus long-course neoadjuvant chemotherapy for resectable and borderline resectable pancreatic ductal adenocarcinoma (PACT-21 CASSANDRA): results from the second randomisation analysis of a randomised, open-label, 2 × 2 factorial phase 3 trial.",
-        "pubdate": "2026 Sep",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42733563/"
       }
     ]
   },
