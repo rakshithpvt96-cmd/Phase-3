@@ -1,7 +1,7 @@
 {
   "drug_name": "10-20 mg Aripiprazole oral solution film",
   "slug": "10-20-mg-aripiprazole-oral-solution-film",
-  "enriched_at": "2026-11-20T16:01:07Z",
+  "enriched_at": "2026-11-27T18:49:10Z",
   "source_trial_ids": [
     "NCT06799559"
   ],
@@ -22,9 +22,9 @@
   },
   "mechanism": {
     "chembl_id": "CHEMBL1112",
-    "target_chembl_id": null,
-    "target_name": null,
-    "mechanism_of_action_chembl": null
+    "target_chembl_id": "CHEMBL217",
+    "target_name": "D(2) dopamine receptor",
+    "mechanism_of_action_chembl": "Dopamine D2 receptor partial agonist"
   },
   "fda_label": {
     "has_label": false,
@@ -61,13 +61,58 @@
     "pubmed_articles": []
   },
   "related_drugs": {
-    "method": "ctgov_same_condition",
+    "method": "chembl_same_target",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
     "items": [
       {
-        "name": "SEP-363856",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Otsuka Pharmaceutical Development & Commercialization, Inc."
+        "name": "THIETHYLPERAZINE MALATE",
+        "chembl_id": "CHEMBL2359670",
+        "reason": "same target: D(2) dopamine receptor"
+      },
+      {
+        "name": "THIETHYLPERAZINE MALEATE",
+        "chembl_id": "CHEMBL3989478",
+        "reason": "same target: D(2) dopamine receptor"
+      },
+      {
+        "name": "FLUPHENAZINE ENANTHATE",
+        "chembl_id": "CHEMBL1200951",
+        "reason": "same target: D(2) dopamine receptor"
+      },
+      {
+        "name": "PERPHENAZINE",
+        "chembl_id": "CHEMBL567",
+        "reason": "same target: D(2) dopamine receptor"
+      },
+      {
+        "name": "BENZQUINAMIDE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1200707",
+        "reason": "same target: D(2) dopamine receptor"
+      },
+      {
+        "name": "PROCHLORPERAZINE",
+        "chembl_id": "CHEMBL728",
+        "reason": "same target: D(2) dopamine receptor"
+      },
+      {
+        "name": "FLUPHENAZINE HYDROCHLORIDE",
+        "chembl_id": "CHEMBL1448187",
+        "reason": "same target: D(2) dopamine receptor"
+      },
+      {
+        "name": "CABERGOLINE",
+        "chembl_id": "CHEMBL1201087",
+        "reason": "same target: D(2) dopamine receptor"
+      },
+      {
+        "name": "PROCHLORPERAZINE MALEATE",
+        "chembl_id": "CHEMBL1314751",
+        "reason": "same target: D(2) dopamine receptor"
+      },
+      {
+        "name": "FLUPHENAZINE DECANOATE",
+        "chembl_id": "CHEMBL1200854",
+        "reason": "same target: D(2) dopamine receptor"
       }
     ]
   }

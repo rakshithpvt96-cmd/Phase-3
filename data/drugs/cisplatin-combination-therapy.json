@@ -1,7 +1,7 @@
 {
   "drug_name": "Cisplatin (combination therapy)",
   "slug": "cisplatin-combination-therapy",
-  "enriched_at": "2026-11-20T16:09:41Z",
+  "enriched_at": "2026-11-27T18:51:48Z",
   "source_trial_ids": [
     "NCT04442022"
   ],
@@ -60,6 +60,12 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "43063870",
+        "title": "Co-targeting VEGF and PD-(L)1 in gastrointestinal cancers: biology, clinical landscape, and therapeutic frontiers.",
+        "pubdate": "2026 Nov 18",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43063870/"
+      },
+      {
         "pmid": "43045680",
         "title": "Cadonilimab plus gemcitabine and cisplatin as first-line treatment for unresectable locally advanced or metastatic biliary tract malignancies: the phase II bicureX clinical trial.",
         "pubdate": "2026 Oct 19",
@@ -82,12 +88,6 @@
         "title": "Prospective evaluation of combination oral S-1 and intravenous cisplatin in cancer patients with severe hepatic dysfunction - a feasibility, safety, and pharmacokinetic study.",
         "pubdate": "2026",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42964102/"
-      },
-      {
-        "pmid": "42931961",
-        "title": "Intensity-modulated radiotherapy combined with albumin-bound paclitaxel and platinum-based chemotherapy for locoregional recurrent cervical cancer: a single-institutional phase II investigator-initiated nonrandomized clinical trial.",
-        "pubdate": "2026 Jul 28",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42931961/"
       }
     ]
   },

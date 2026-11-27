@@ -1,7 +1,7 @@
 {
   "drug_name": "Nab-paclitaxel",
   "slug": "nab-paclitaxel",
-  "enriched_at": "2026-11-20T16:42:43Z",
+  "enriched_at": "2026-11-27T18:56:12Z",
   "source_trial_ids": [
     "NCT05116462",
     "NCT05254171",
@@ -94,6 +94,18 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "43101000",
+        "title": "Efficacy and safety of neoadjuvant camrelizumab plus albumin-bound paclitaxel and carboplatin in stage II-IIIB lung squamous cell carcinoma: a single-arm, single-center, phase II trial.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43101000/"
+      },
+      {
+        "pmid": "43077437",
+        "title": "EPIK-B3: A phase 3 randomized trial of alpelisib and nab-paclitaxel in patients with advanced triple-negative breast cancer with PIK3CA mutation or PTEN loss.",
+        "pubdate": "2026 Nov 24",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43077437/"
+      },
+      {
         "pmid": "43054860",
         "title": "Beyond organ-based therapy: Genome-directed treatment of metastatic gastric-type endocervical adenocarcinoma.",
         "pubdate": "2026 Oct",
@@ -110,18 +122,6 @@
         "title": "Perioperative Camrelizumab Plus Chemotherapy in Locally Advanced Head and Neck Squamous Cell Carcinoma: A Randomized Clinical Trial.",
         "pubdate": "2026 Nov 12",
         "url": "https://pubmed.ncbi.nlm.nih.gov/43018983/"
-      },
-      {
-        "pmid": "42996359",
-        "title": "Phase II study of pembrolizumab plus nab-paclitaxel in Hormone Receptor-positive, HER2-negative metastatic breast cancer: clinical and molecular insights into response.",
-        "pubdate": "2026 Oct 22",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42996359/"
-      },
-      {
-        "pmid": "42982408",
-        "title": "Event-free survival in patients with early triple-negative breast cancer receiving platinum-free, de-escalated anti-PD-1 neoadjuvant therapy: an updated analysis of the NeoTENNIS trial.",
-        "pubdate": "2026 Nov 5",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42982408/"
       }
     ]
   },

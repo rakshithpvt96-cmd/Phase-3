@@ -1,7 +1,7 @@
 {
   "drug_name": "Placebo",
   "slug": "placebo",
-  "enriched_at": "2026-11-25T17:51:28Z",
+  "enriched_at": "2026-11-27T18:56:56Z",
   "source_trial_ids": [
     "NCT02914535",
     "NCT03767244",
@@ -20,7 +20,6 @@
     "NCT05397639",
     "NCT05431179",
     "NCT05500222",
-    "NCT05511363",
     "NCT05531565",
     "NCT05636176",
     "NCT05653349",
@@ -30,7 +29,6 @@
     "NCT05778188",
     "NCT06081894",
     "NCT06125951",
-    "NCT06126224",
     "NCT06132893",
     "NCT06200207",
     "NCT06208306",
@@ -48,7 +46,6 @@
     "NCT06564818",
     "NCT06568367",
     "NCT06582485",
-    "NCT06585787",
     "NCT06588855",
     "NCT06660992",
     "NCT06664619",
@@ -58,6 +55,7 @@
     "NCT06767527",
     "NCT06775379",
     "NCT06783114",
+    "NCT06813911",
     "NCT06834347",
     "NCT06834360",
     "NCT06842823",
@@ -294,12 +292,6 @@
       "ticker": null,
       "market_cap_display": null,
       "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Jiangsu%20HengRui%20Medicine%20Co.%2C%20Ltd.&type=10-K&dateb=&owner=include&count=40"
-    },
-    {
-      "name": "Karuna Therapeutics, Inc., a Bristol Myers Squibb company",
-      "ticker": null,
-      "market_cap_display": null,
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Karuna%20Therapeutics%2C%20Inc.%2C%20a%20Bristol%20Myers%20Squibb%20company&type=10-K&dateb=&owner=include&count=40"
     },
     {
       "name": "Krystal Biotech, Inc.",
@@ -619,13 +611,6 @@
       "has_results": false
     },
     {
-      "nct_id": "NCT05511363",
-      "title": "A Study to Assess Efficacy and Safety of KarXT for the Treatment of Psychosis Associated With Alzheimer's Disease (ADEPT-1)",
-      "status": "RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT05511363",
-      "has_results": false
-    },
-    {
       "nct_id": "NCT05531565",
       "title": "A 2-Part Study to Learn Whether Litifilimab (BIIB059) Injections Can Improve Symptoms of Adult Participants Who Have Active Cutaneous Lupus Erythematosus",
       "status": "ACTIVE_NOT_RECRUITING",
@@ -686,13 +671,6 @@
       "title": "Effect of 10 mg Xanamem on Dementia Due to Alzheimer's Disease",
       "status": "ACTIVE_NOT_RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT06125951",
-      "has_results": false
-    },
-    {
-      "nct_id": "NCT06126224",
-      "title": "A Study to Assess Efficacy and Safety of KarXT for the Treatment of Psychosis Associated With Alzheimer's Disease (ADEPT-2)",
-      "status": "RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06126224",
       "has_results": false
     },
     {
@@ -815,13 +793,6 @@
       "has_results": false
     },
     {
-      "nct_id": "NCT06585787",
-      "title": "A Study to Evaluate KarXT as a Treatment for Psychosis Associated With Alzheimer's Disease (ADEPT-4)",
-      "status": "RECRUITING",
-      "url": "https://clinicaltrials.gov/study/NCT06585787",
-      "has_results": false
-    },
-    {
       "nct_id": "NCT06588855",
       "title": "A Study to Assess the Efficacy and Safety of Induction Therapy With Afimkibart (Also Known as RO7790121) in Participants With Moderately to Severely Active Ulcerative Colitis",
       "status": "ACTIVE_NOT_RECRUITING",
@@ -882,6 +853,13 @@
       "title": "A Clinical Study on Recombinant Botulinum Toxin Type A (YY001) for Injection in The Treatment of Upper Limb Spasticity in Adults",
       "status": "RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT06783114",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06813911",
+      "title": "Lp(a) Lowering Study of Pelacarsen (TQJ230) With Background Inclisiran in Participants With Elevated Lp(a) and Established ASCVD",
+      "status": "TERMINATED",
+      "url": "https://clinicaltrials.gov/study/NCT06813911",
       "has_results": false
     },
     {
@@ -1106,34 +1084,34 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
-        "pmid": "43082199",
-        "title": "Effects of risedronate on volumetric bone mineral density and CT-derived muscle-bone associations after sleeve gastrectomy: a pilot randomized controlled trial.",
+        "pmid": "43102091",
+        "title": "Hyperimmune immunoglobulin for people with COVID-19.",
+        "pubdate": "2026 Nov 27",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43102091/"
+      },
+      {
+        "pmid": "43101994",
+        "title": "Buccal Esketamine Combined With Intranasal Dexmedetomidine for Venipuncture Sedation in Preschool Children Undergoing Day-Case Surgery: A Randomized, Double-Blind, Placebo-Controlled Trial.",
+        "pubdate": "2026 Nov 27",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43101994/"
+      },
+      {
+        "pmid": "43100686",
+        "title": "Oral Lactobacillus crispatus M247 as add-on prophylaxis for recurrent cystitis in women: a randomized pilot trial.",
         "pubdate": "2026",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43082199/"
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43100686/"
       },
       {
-        "pmid": "43078855",
-        "title": "Empirical assessment of constraints and credibility when emulating a placebo-controlled trial with the clone-censor-weight approach.",
-        "pubdate": "2026 Jul 30",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43078855/"
+        "pmid": "43100608",
+        "title": "Exploratory Biomarker and Imaging Outcome Signals in the Singaporean Trial of CN‑105 Treatment for Acute Supratentorial Intracerebral Hemorrhage (S-CATCH) ​.",
+        "pubdate": "2026 Nov 20",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43100608/"
       },
       {
-        "pmid": "43078575",
-        "title": "Effect of esketamine on postoperative sleep disturbance in patients undergoing spine surgery: a randomized, double-blinded, placebo-controlled clinical trial.",
-        "pubdate": "2026 Nov 24",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43078575/"
-      },
-      {
-        "pmid": "43078450",
-        "title": "Effects of daily wild blueberry consumption for 12 weeks on cardiometabolic health in middle-aged/older adults with above-normal blood pressure: results from a randomized clinical trial.",
-        "pubdate": "2026 Nov 24",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43078450/"
-      },
-      {
-        "pmid": "43078204",
-        "title": "Trial-level associations of treatment-induced changes in NT-proBNP, patient-reported health status, and exercise capacity with clinical outcomes in transthyretin amyloid cardiomyopathy.",
-        "pubdate": "2026 Nov 24",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/43078204/"
+        "pmid": "43100288",
+        "title": "Plasma Proteomic Identifies GDF15 as a Candidate Lithium Treatment Response Biomarker in Mild Cognitive Impairment: A Secondary Analysis of the LATTICE Randomized Clinical Trial.",
+        "pubdate": "2026 Nov 17",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43100288/"
       }
     ]
   },

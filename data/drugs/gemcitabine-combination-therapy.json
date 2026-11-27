@@ -1,7 +1,7 @@
 {
   "drug_name": "Gemcitabine (combination therapy)",
   "slug": "gemcitabine-combination-therapy",
-  "enriched_at": "2026-11-20T16:17:33Z",
+  "enriched_at": "2026-11-27T18:53:56Z",
   "source_trial_ids": [
     "NCT04442022"
   ],
@@ -60,6 +60,12 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "43063870",
+        "title": "Co-targeting VEGF and PD-(L)1 in gastrointestinal cancers: biology, clinical landscape, and therapeutic frontiers.",
+        "pubdate": "2026 Nov 18",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43063870/"
+      },
+      {
         "pmid": "43045680",
         "title": "Cadonilimab plus gemcitabine and cisplatin as first-line treatment for unresectable locally advanced or metastatic biliary tract malignancies: the phase II bicureX clinical trial.",
         "pubdate": "2026 Oct 19",
@@ -78,16 +84,10 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/43024239/"
       },
       {
-        "pmid": "42861545",
-        "title": "Chemotherapy After Resection of Pancreatic Ductal Adenocarcinoma: Impact of Different Regimens in a Real-World Population.",
-        "pubdate": "2026 Oct 12",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42861545/"
-      },
-      {
-        "pmid": "42804084",
-        "title": "Patient Characteristics and Treatment Patterns of Advanced Biliary Tract Cancer (BTC): A Chinese Physician Survey.",
-        "pubdate": "2026 Sep 28",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42804084/"
+        "pmid": "43002828",
+        "title": "daNIS-2: a phase III, randomized, double-blind study of the anti-TGF-β monoclonal antibody NIS793 or placebo in combination with nab-paclitaxel/gemcitabine as first-line treatment in patients with metastatic pancreatic ductal adenocarcinoma.",
+        "pubdate": "2026 Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43002828/"
       }
     ]
   },

@@ -1,7 +1,7 @@
 {
   "drug_name": "AK112, Gemcitabine, Cisplatin",
   "slug": "ak112-gemcitabine-cisplatin",
-  "enriched_at": "2026-11-20T16:05:34Z",
+  "enriched_at": "2026-11-27T18:50:24Z",
   "source_trial_ids": [
     "NCT06591520"
   ],
@@ -58,7 +58,14 @@
   ],
   "prior_results": {
     "ctgov_results_urls": [],
-    "pubmed_articles": []
+    "pubmed_articles": [
+      {
+        "pmid": "43063870",
+        "title": "Co-targeting VEGF and PD-(L)1 in gastrointestinal cancers: biology, clinical landscape, and therapeutic frontiers.",
+        "pubdate": "2026 Nov 18",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43063870/"
+      }
+    ]
   },
   "related_drugs": {
     "method": "ctgov_same_condition",

@@ -1,6 +1,100 @@
 {
-  "generated_at": "2026-11-26T18:52:42Z",
-  "new_trial_count": 0,
-  "new_trials": [],
-  "removed_trial_ids": []
+  "generated_at": "2026-11-27T18:48:51Z",
+  "new_trial_count": 2,
+  "new_trials": [
+    {
+      "nct_id": "NCT06875973",
+      "title": "Pelacarsen Roll-over Extension Program",
+      "status": "TERMINATED",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Novartis Pharmaceuticals",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-10-23",
+      "primary_completion_date_type": "ACTUAL",
+      "window": "lookback",
+      "conditions": [
+        "Atherosclerotic Cardiovascular Disease"
+      ],
+      "interventions": [
+        {
+          "name": "Pelacarsen (TQJ230)",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "Pelacarsen (TQJ230)"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06875973",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Novartis Pharmaceuticals",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Novartis%20Pharmaceuticals&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-11-23T20:03:56Z"
+      }
+    },
+    {
+      "nct_id": "NCT06813911",
+      "title": "Lp(a) Lowering Study of Pelacarsen (TQJ230) With Background Inclisiran in Participants With Elevated Lp(a) and Established ASCVD",
+      "status": "TERMINATED",
+      "phases": [
+        "PHASE3"
+      ],
+      "sponsor": "Novartis Pharmaceuticals",
+      "sponsor_class": "INDUSTRY",
+      "primary_completion_date": "2026-10-25",
+      "primary_completion_date_type": "ACTUAL",
+      "window": "lookback",
+      "conditions": [
+        "Atherosclerotic Cardiovascular Disease (ASCVD)"
+      ],
+      "interventions": [
+        {
+          "name": "Pelacarsen",
+          "type": "DRUG"
+        },
+        {
+          "name": "Placebo",
+          "type": "DRUG"
+        },
+        {
+          "name": "Inclisiran",
+          "type": "DRUG"
+        }
+      ],
+      "drug_names": [
+        "Pelacarsen",
+        "Placebo",
+        "Inclisiran"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06813911",
+      "has_results": false,
+      "results_first_post_date": null,
+      "company_info": {
+        "sponsor": "Novartis Pharmaceuticals",
+        "ticker": null,
+        "cik": null,
+        "market_cap": null,
+        "market_cap_display": null,
+        "market_cap_asof": null,
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Novartis%20Pharmaceuticals&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-11-23T20:03:56Z"
+      }
+    }
+  ],
+  "removed_trial_ids": [
+    "NCT05392114",
+    "NCT05511363",
+    "NCT05522231",
+    "NCT05568095",
+    "NCT06126224",
+    "NCT06585787"
+  ]
 }
