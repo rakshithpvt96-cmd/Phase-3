@@ -1,7 +1,7 @@
 {
   "drug_name": "QL2107",
   "slug": "ql2107",
-  "enriched_at": "2026-11-21T15:11:35Z",
+  "enriched_at": "2026-11-28T16:46:57Z",
   "source_trial_ids": [
     "NCT06754644"
   ],
@@ -59,6 +59,22 @@
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": []
+    "items": [
+      {
+        "name": "SYS6010",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: CSPC Megalith Biopharmaceutical Co.,Ltd."
+      },
+      {
+        "name": "Osimertinib",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: CSPC Megalith Biopharmaceutical Co.,Ltd."
+      },
+      {
+        "name": "platinum-pemetrexed",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: CSPC Megalith Biopharmaceutical Co.,Ltd."
+      }
+    ]
   }
 }

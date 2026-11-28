@@ -1,7 +1,7 @@
 {
   "drug_name": "Placebo+G-CSF",
   "slug": "placebo-g-csf",
-  "enriched_at": "2026-11-20T17:46:31Z",
+  "enriched_at": "2026-11-28T16:44:30Z",
   "source_trial_ids": [
     "NCT06514508"
   ],
@@ -76,37 +76,6 @@
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": [
-      {
-        "name": "Elranatamab",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Pfizer"
-      },
-      {
-        "name": "Elotuzumab",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Pfizer"
-      },
-      {
-        "name": "Pomalidomide",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Pfizer"
-      },
-      {
-        "name": "Dexamethasone",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Pfizer"
-      },
-      {
-        "name": "Bortezomib",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Pfizer"
-      },
-      {
-        "name": "Carfilzomib",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Pfizer"
-      }
-    ]
+    "items": []
   }
 }

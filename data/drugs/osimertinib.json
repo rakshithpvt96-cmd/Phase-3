@@ -1,11 +1,18 @@
 {
   "drug_name": "Osimertinib",
   "slug": "osimertinib",
-  "enriched_at": "2026-11-15T14:39:53Z",
+  "enriched_at": "2026-11-28T16:42:38Z",
   "source_trial_ids": [
-    "NCT06735391"
+    "NCT06735391",
+    "NCT07376382"
   ],
   "sponsors": [
+    {
+      "name": "CSPC Megalith Biopharmaceutical Co.,Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=CSPC%20Megalith%20Biopharmaceutical%20Co.%2CLtd.&type=10-K&dateb=&owner=include&count=40"
+    },
     {
       "name": "Shanghai JMT-Bio Inc.",
       "ticker": null,
@@ -59,6 +66,13 @@
       "title": "A Clinical Study of JMT101 in Combination With Osimertinib Versus Osimertinib Alone as First-Line Treatment for Patients With Locally Advanced or Metastatic Non-Squamous Non-Small Cell Lung Cancer (NSCLC) Harboring Epidermal Growth Factor Receptor (EGFR) Sensitive Mutations",
       "status": "RECRUITING",
       "url": "https://clinicaltrials.gov/study/NCT06735391",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT07376382",
+      "title": "A Phase Ⅲ Clinical Study of SYS6010 in Combination With Osimertinib in Patients With Locally Advanced or Metastatic NSCLC",
+      "status": "NOT_YET_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07376382",
       "has_results": false
     }
   ],

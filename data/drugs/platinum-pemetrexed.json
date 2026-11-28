@@ -1,0 +1,150 @@
+{
+  "drug_name": "platinum-pemetrexed",
+  "slug": "platinum-pemetrexed",
+  "enriched_at": "2026-11-28T16:45:51Z",
+  "source_trial_ids": [
+    "NCT07376382"
+  ],
+  "sponsors": [
+    {
+      "name": "CSPC Megalith Biopharmaceutical Co.,Ltd.",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=CSPC%20Megalith%20Biopharmaceutical%20Co.%2CLtd.&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "1311280",
+      "generic_name": "platinum",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL2360464",
+    "target_chembl_id": "CHEMBL1952",
+    "target_name": "Thymidylate synthase",
+    "mechanism_of_action_chembl": "Thymidylate synthase inhibitor"
+  },
+  "fda_label": {
+    "has_label": false,
+    "source": null,
+    "mechanism_of_action": null,
+    "pharmacokinetics": null,
+    "indications_and_usage": null,
+    "boxed_warning": null,
+    "openfda_brand_names": [],
+    "openfda_generic_names": [],
+    "dailymed_url": null,
+    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "further_reading": {
+      "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=platinum-pemetrexed+mechanism+of+action",
+      "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=platinum-pemetrexed+pharmacokinetics",
+      "efficacy_search": "https://pubmed.ncbi.nlm.nih.gov/?term=platinum-pemetrexed+efficacy+phase+3"
+    }
+  },
+  "condition": {
+    "raw": "NSCLC",
+    "slug": "nsclc"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT07376382",
+      "title": "A Phase Ⅲ Clinical Study of SYS6010 in Combination With Osimertinib in Patients With Locally Advanced or Metastatic NSCLC",
+      "status": "NOT_YET_RECRUITING",
+      "url": "https://clinicaltrials.gov/study/NCT07376382",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42929693",
+        "title": "Osimertinib-Savolitinib in Advanced NSCLC after Progression during EGFR-TKI Therapy.",
+        "pubdate": "2026 Oct 25",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42929693/"
+      },
+      {
+        "pmid": "42735369",
+        "title": "P-Loop/αC-Helix Compressing Mutations and Exon 20 Insertions in EGFR-Mutant NSCLC: A Rapidly Evolving Therapeutic Landscape.",
+        "pubdate": "2026 Nov 10",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42735369/"
+      },
+      {
+        "pmid": "42728535",
+        "title": "Osimertinib Plus Platinum-Pemetrexed: A Review in Previously Untreated, EGFR-Mutated, Locally Advanced or Metastatic NSCLC.",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42728535/"
+      },
+      {
+        "pmid": "42728193",
+        "title": "Long-term safety of first-line osimertinib plus platinum-pemetrexed in EGFR-mutated advanced NSCLC: FLAURA2.",
+        "pubdate": "2026 Sep 14",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42728193/"
+      },
+      {
+        "pmid": "42667515",
+        "title": "Risk-adapted first-line therapy selection in advanced EGFR-mutant NSCLC: a practical clinical algorithm integrating tumor biology and patient factors.",
+        "pubdate": "2026 Aug 29",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42667515/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "FLOXURIDINE",
+        "chembl_id": "CHEMBL917",
+        "reason": "same target: Thymidylate synthase"
+      },
+      {
+        "name": "CAPECITABINE",
+        "chembl_id": "CHEMBL1773",
+        "reason": "same target: Thymidylate synthase"
+      },
+      {
+        "name": "FLUOROURACIL",
+        "chembl_id": "CHEMBL185",
+        "reason": "same target: Thymidylate synthase"
+      },
+      {
+        "name": "RALTITREXED",
+        "chembl_id": "CHEMBL225071",
+        "reason": "same target: Thymidylate synthase"
+      },
+      {
+        "name": "OSI-7904",
+        "chembl_id": "CHEMBL169896",
+        "reason": "same target: Thymidylate synthase"
+      },
+      {
+        "name": "NOLATREXED",
+        "chembl_id": "CHEMBL320775",
+        "reason": "same target: Thymidylate synthase"
+      },
+      {
+        "name": "DOXIFLURIDINE",
+        "chembl_id": "CHEMBL1130",
+        "reason": "same target: Thymidylate synthase"
+      },
+      {
+        "name": "TEGAFUR",
+        "chembl_id": "CHEMBL20883",
+        "reason": "same target: Thymidylate synthase"
+      },
+      {
+        "name": "PEMETREXED",
+        "chembl_id": "CHEMBL225072",
+        "reason": "same target: Thymidylate synthase"
+      },
+      {
+        "name": "PEMETREXED MONOHYDRATE",
+        "chembl_id": "CHEMBL5315053",
+        "reason": "same target: Thymidylate synthase"
+      }
+    ]
+  }
+}

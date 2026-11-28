@@ -1,9 +1,10 @@
 {
   "drug_name": "Pelacarsen",
   "slug": "pelacarsen",
-  "enriched_at": "2026-11-20T17:45:31Z",
+  "enriched_at": "2026-11-28T16:43:29Z",
   "source_trial_ids": [
-    "NCT05900141"
+    "NCT05900141",
+    "NCT06813911"
   ],
   "sponsors": [
     {
@@ -53,6 +54,13 @@
       "title": "An Open Label Extension (OLE) Study to Evaluate Long-term Safety and Tolerability of Pelacarsen (TQJ230)",
       "status": "TERMINATED",
       "url": "https://clinicaltrials.gov/study/NCT05900141",
+      "has_results": false
+    },
+    {
+      "nct_id": "NCT06813911",
+      "title": "Lp(a) Lowering Study of Pelacarsen (TQJ230) With Background Inclisiran in Participants With Elevated Lp(a) and Established ASCVD",
+      "status": "TERMINATED",
+      "url": "https://clinicaltrials.gov/study/NCT06813911",
       "has_results": false
     }
   ],

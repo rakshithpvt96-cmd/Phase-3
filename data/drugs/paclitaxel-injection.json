@@ -1,7 +1,7 @@
 {
   "drug_name": "Paclitaxel Injection",
   "slug": "paclitaxel-injection",
-  "enriched_at": "2026-11-20T17:45:19Z",
+  "enriched_at": "2026-11-28T16:43:10Z",
   "source_trial_ids": [
     "NCT06221748"
   ],
@@ -60,6 +60,12 @@
     "ctgov_results_urls": [],
     "pubmed_articles": [
       {
+        "pmid": "43065084",
+        "title": "Combined effects of aerobic interval training and hesperidin supplementation on inflammatory and oxidative stress markers in a rat model of paclitaxel-induced neuropathy: evidence for additive therapeutic effects.",
+        "pubdate": "2026 Aug 25",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43065084/"
+      },
+      {
         "pmid": "41538720",
         "title": "Evaluation of the protective effect of chamomile oral solution on the incidence of neurotoxicity caused by paclitaxel in breast cancer patients.",
         "pubdate": "2026 Aug 1",
@@ -82,12 +88,6 @@
         "title": "What matters for drug delivery to tumor by nanoparticles: Gaining insights from PBPK/PD simulation of drug nanocrystals.",
         "pubdate": "2024",
         "url": "https://pubmed.ncbi.nlm.nih.gov/39524219/"
-      },
-      {
-        "pmid": "39410011",
-        "title": "Phase I Clinical Trial on Pleural Mesothelioma Using Neoadjuvant Local Administration of Paclitaxel-Loaded Mesenchymal Stromal Cells (PACLIMES Trial): Study Rationale and Design.",
-        "pubdate": "2024 Oct 4",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/39410011/"
       }
     ]
   },
