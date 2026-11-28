@@ -1,7 +1,7 @@
 {
   "drug_name": "AK112",
   "slug": "ak112",
-  "enriched_at": "2026-11-20T17:08:24Z",
+  "enriched_at": "2026-11-28T16:09:58Z",
   "source_trial_ids": [
     "NCT06767527"
   ],
@@ -59,6 +59,12 @@
   "prior_results": {
     "ctgov_results_urls": [],
     "pubmed_articles": [
+      {
+        "pmid": "43063870",
+        "title": "Co-targeting VEGF and PD-(L)1 in gastrointestinal cancers: biology, clinical landscape, and therapeutic frontiers.",
+        "pubdate": "2026 Nov 18",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/43063870/"
+      },
       {
         "pmid": "41584587",
         "title": "AK112 (PD-1/VEGF-a bispecific antibody) combined with chemotherapy in locally advanced pancreatic cancer: a case report.",

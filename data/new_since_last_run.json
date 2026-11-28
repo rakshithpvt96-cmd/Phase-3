@@ -1,100 +1,58 @@
 {
-  "generated_at": "2026-11-27T18:48:51Z",
-  "new_trial_count": 2,
+  "generated_at": "2026-11-28T16:01:26Z",
+  "new_trial_count": 1,
   "new_trials": [
     {
-      "nct_id": "NCT06875973",
-      "title": "Pelacarsen Roll-over Extension Program",
-      "status": "TERMINATED",
+      "nct_id": "NCT07376382",
+      "title": "A Phase Ⅲ Clinical Study of SYS6010 in Combination With Osimertinib in Patients With Locally Advanced or Metastatic NSCLC",
+      "status": "NOT_YET_RECRUITING",
       "phases": [
         "PHASE3"
       ],
-      "sponsor": "Novartis Pharmaceuticals",
+      "sponsor": "CSPC Megalith Biopharmaceutical Co.,Ltd.",
       "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-10-23",
-      "primary_completion_date_type": "ACTUAL",
-      "window": "lookback",
+      "primary_completion_date": "2026-12-12",
+      "primary_completion_date_type": "ESTIMATED",
+      "window": "upcoming",
       "conditions": [
-        "Atherosclerotic Cardiovascular Disease"
+        "NSCLC"
       ],
       "interventions": [
         {
-          "name": "Pelacarsen (TQJ230)",
+          "name": "SYS6010",
+          "type": "DRUG"
+        },
+        {
+          "name": "Osimertinib",
+          "type": "DRUG"
+        },
+        {
+          "name": "platinum-pemetrexed",
           "type": "DRUG"
         }
       ],
       "drug_names": [
-        "Pelacarsen (TQJ230)"
+        "SYS6010",
+        "Osimertinib",
+        "platinum-pemetrexed"
       ],
-      "url": "https://clinicaltrials.gov/study/NCT06875973",
+      "url": "https://clinicaltrials.gov/study/NCT07376382",
       "has_results": false,
       "results_first_post_date": null,
       "company_info": {
-        "sponsor": "Novartis Pharmaceuticals",
+        "sponsor": "CSPC Megalith Biopharmaceutical Co.,Ltd.",
         "ticker": null,
         "cik": null,
         "market_cap": null,
         "market_cap_display": null,
         "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Novartis%20Pharmaceuticals&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-23T20:03:56Z"
-      }
-    },
-    {
-      "nct_id": "NCT06813911",
-      "title": "Lp(a) Lowering Study of Pelacarsen (TQJ230) With Background Inclisiran in Participants With Elevated Lp(a) and Established ASCVD",
-      "status": "TERMINATED",
-      "phases": [
-        "PHASE3"
-      ],
-      "sponsor": "Novartis Pharmaceuticals",
-      "sponsor_class": "INDUSTRY",
-      "primary_completion_date": "2026-10-25",
-      "primary_completion_date_type": "ACTUAL",
-      "window": "lookback",
-      "conditions": [
-        "Atherosclerotic Cardiovascular Disease (ASCVD)"
-      ],
-      "interventions": [
-        {
-          "name": "Pelacarsen",
-          "type": "DRUG"
-        },
-        {
-          "name": "Placebo",
-          "type": "DRUG"
-        },
-        {
-          "name": "Inclisiran",
-          "type": "DRUG"
-        }
-      ],
-      "drug_names": [
-        "Pelacarsen",
-        "Placebo",
-        "Inclisiran"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT06813911",
-      "has_results": false,
-      "results_first_post_date": null,
-      "company_info": {
-        "sponsor": "Novartis Pharmaceuticals",
-        "ticker": null,
-        "cik": null,
-        "market_cap": null,
-        "market_cap_display": null,
-        "market_cap_asof": null,
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Novartis%20Pharmaceuticals&type=10-K&dateb=&owner=include&count=40",
-        "cached_at": "2026-11-23T20:03:56Z"
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=CSPC%20Megalith%20Biopharmaceutical%20Co.%2CLtd.&type=10-K&dateb=&owner=include&count=40",
+        "cached_at": "2026-11-28T16:01:20Z"
       }
     }
   ],
   "removed_trial_ids": [
-    "NCT05392114",
-    "NCT05511363",
-    "NCT05522231",
-    "NCT05568095",
-    "NCT06126224",
-    "NCT06585787"
+    "NCT05254171",
+    "NCT06400004"
   ]
 }
