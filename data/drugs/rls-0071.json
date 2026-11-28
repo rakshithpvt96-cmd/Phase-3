@@ -1,7 +1,7 @@
 {
   "drug_name": "RLS-0071",
   "slug": "rls-0071",
-  "enriched_at": "2026-11-21T15:18:39Z",
+  "enriched_at": "2026-11-28T17:06:15Z",
   "source_trial_ids": [
     "NCT05778188"
   ],
@@ -14,6 +14,12 @@
     }
   ],
   "identity": {
+    "pubchem_cid": 172677524,
+    "iupac_name": "(4S)-4-[[(2S)-5-amino-2-[[(2R)-2-[[(2R)-2-[[(2S,3S)-2-[[(2S)-1-[(2S)-2-[[(2S)-2-[[(2S,3S)-2-[[(2S)-2-[[(2S)-2-[[(2S,3S)-2-amino-3-methylpentanoyl]amino]propanoyl]amino]-4-methylpentanoyl]amino]-3-methylpentanoyl]amino]-4-methylpentanoyl]amino]-4-carboxybutanoyl]pyrrolidine-2-carbonyl]amino]-3-methylpentanoyl]amino]-3-sulfanylpropanoyl]amino]-3-sulfanylpropanoyl]amino]-5-oxopentanoyl]amino]-5-[[(2S)-1-[[(2S)-1-[[(2S)-1-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-(2-carboxyethoxy)ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethylamino]-1-oxopropan-2-yl]amino]-1-oxopropan-2-yl]amino]-5-(diaminomethylideneamino)-1-oxopentan-2-yl]amino]-5-oxopentanoic acid",
+    "molecular_formula": "C122H224N20O46S2",
+    "molecular_weight": "2771.3",
+    "canonical_smiles": null,
+    "inchikey": "RHYRSQJYHDQJHH-OZXJSYINSA-N",
     "rxnorm": {
       "rxcui": "99435",
       "generic_name": null,
