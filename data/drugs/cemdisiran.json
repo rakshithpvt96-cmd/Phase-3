@@ -1,7 +1,7 @@
 {
   "drug_name": "Cemdisiran",
   "slug": "cemdisiran",
-  "enriched_at": "2026-11-20T17:10:55Z",
+  "enriched_at": "2026-11-28T16:18:10Z",
   "source_trial_ids": [
     "NCT05133531"
   ],
@@ -33,16 +33,16 @@
     "mechanism_of_action_chembl": "Complement C5 mRNA RNAi inhibitor"
   },
   "fda_label": {
-    "has_label": false,
-    "source": null,
+    "has_label": true,
+    "source": "DailyMed",
     "mechanism_of_action": null,
     "pharmacokinetics": null,
     "indications_and_usage": null,
     "boxed_warning": null,
     "openfda_brand_names": [],
     "openfda_generic_names": [],
-    "dailymed_url": null,
-    "note": "No FDA label found -- likely investigational/unapproved. Data intentionally left blank rather than guessed.",
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=122beaf9-5add-45ae-9a2e-457af1a7dddf",
+    "note": "A label exists in DailyMed but structured sections could not be parsed automatically -- see dailymed_url for the full label.",
     "further_reading": {
       "mechanism_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Cemdisiran+mechanism+of+action",
       "pharmacokinetics_search": "https://pubmed.ncbi.nlm.nih.gov/?term=Cemdisiran+pharmacokinetics",
@@ -102,11 +102,6 @@
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
     "items": [
       {
-        "name": "Danicopan",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Alexion Pharmaceuticals, Inc."
-      },
-      {
         "name": "NTQ5082 capsules 200 mg",
         "chembl_id": null,
         "reason": "same indication trial, sponsor: Nanjing Chia-tai Tianqing Pharmaceutical"
@@ -115,6 +110,11 @@
         "name": "Eculizumab Injection",
         "chembl_id": null,
         "reason": "same indication trial, sponsor: Nanjing Chia-tai Tianqing Pharmaceutical"
+      },
+      {
+        "name": "Danicopan",
+        "chembl_id": null,
+        "reason": "same indication trial, sponsor: Alexion Pharmaceuticals, Inc."
       }
     ]
   }

@@ -1,7 +1,7 @@
 {
   "drug_name": "Immuncell-LC",
   "slug": "immuncell-lc",
-  "enriched_at": "2026-11-20T17:40:44Z",
+  "enriched_at": "2026-11-28T16:23:49Z",
   "source_trial_ids": [
     "NCT04969731"
   ],
@@ -63,22 +63,6 @@
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": [
-      {
-        "name": "SBP-101",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Panbela Therapeutics, Inc."
-      },
-      {
-        "name": "Nab-paclitaxel",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Panbela Therapeutics, Inc."
-      },
-      {
-        "name": "Gemcitabine",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: Panbela Therapeutics, Inc."
-      }
-    ]
+    "items": []
   }
 }

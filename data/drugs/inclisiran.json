@@ -1,0 +1,105 @@
+{
+  "drug_name": "Inclisiran",
+  "slug": "inclisiran",
+  "enriched_at": "2026-11-28T16:23:57Z",
+  "source_trial_ids": [
+    "NCT06813911"
+  ],
+  "sponsors": [
+    {
+      "name": "Novartis Pharmaceuticals",
+      "ticker": null,
+      "market_cap_display": null,
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=Novartis%20Pharmaceuticals&type=10-K&dateb=&owner=include&count=40"
+    }
+  ],
+  "identity": {
+    "rxnorm": {
+      "rxcui": "2588243",
+      "generic_name": "inclisiran",
+      "brand_names": []
+    }
+  },
+  "mechanism": {
+    "chembl_id": "CHEMBL3990033",
+    "target_chembl_id": "CHEMBL4630662",
+    "target_name": "PCSK9 mRNA",
+    "mechanism_of_action_chembl": "PCSK9 mRNA RNAi inhibitor"
+  },
+  "fda_label": {
+    "has_label": true,
+    "source": "openFDA",
+    "mechanism_of_action": "12.1 Mechanism of Action Inclisiran is a double-stranded small interfering ribonucleic acid (siRNA), conjugated on the sense strand with triantennary N-Acetylgalactosamine (GalNAc) to facilitate uptake by hepatocytes. In hepatocytes, inclisiran utilizes the RNA interference mechanism and directs catalytic breakdown of mRNA for PCSK9. This increases LDL-C receptor recycling and expression on the hepatocyte cell surface, which increases LDL-C uptake and lowers LDL-C levels in the circulation.",
+    "pharmacokinetics": "12.3 Pharmacokinetics Absorption Following a single subcutaneous administration, systemic exposure to inclisiran increased in a linear and dose proportional manner over a range from 25 mg to 800 mg of inclisiran sodium. At the recommended dosing regimen of 284 mg of LEQVIO, plasma concentrations reached peak in approximately 4 hours post dose with a mean C max of 509 ng/mL. Concentrations reached undetectable levels after 24 to 48 hours post dosing. The mean area under the plasma concentration-time curve from dosing extrapolated to infinity was 7,980 ng*h/mL. Pharmacokinetic findings following multiple subcutaneous administrations of LEQVIO were similar to single-dose administration. Distribution Inclisiran is 87% protein bound in vitro at the relevant clinical plasma concentrations. Following a single subcutaneous 284 mg dose of LEQVIO to healthy adults, the apparent volume of distribution is approximately 500 L. Inclisiran has been shown to have high uptake into, and selectively for the liver, the target organ for cholesterol lowering. Elimination The terminal elimination half-life of LEQVIO is approximately 9 hours, and no accumulation occurs with multiple dosing. Metabolism Inclisiran is primarily metabolized by nucleases to shorter nucleotides of varying length. Inclisiran is not a substrate for CYP450 or transporters. Excretion Approximately 16% of LEQVIO is cleared through the kidney. Specific Populations Male and Female Patients and Racial or Ethnic Groups A population pharmacodynamic analysis was conducted on data from 4,328 patients. Age, body weight, gender, race, and creatinine clearance were found not to significantly influence inclisiran pharmacokinetics. Pediatric Patients The pharmacokinetics of LEQVIO were evaluated in pediatric patients aged 12 years and older with HeFH (Trial 4) or HoFH (Trial 5) [see Use in Specific Populations (8.4), Clinical Studies (14)] . Inclisiran plasma concentrations in pediatric patients at the clinically recommended dose were similar to adults. Patients with Renal Impairment Pharmacokinetic analysis of data from a dedicated renal impairment study reported increases in inclisiran C max and AUC of approximately 2.3 to 3.3-fold and 1.6 to 2.3-fold, respectively, in patients with mild, moderate or severe renal impairment, relative to patients with normal renal function. Despite the higher plasma exposures, reductions in LDL-C were similar across all groups based on renal function. Patients with Hepatic Impairment Pharmacokinetic analysis of data from a dedicated hepatic impairment study reported increases in inclisiran C max and AUC of approximately 1.1- to 2.1-fold and 1.3- to 2.0-fold, respectively, in patients with mild and moderate hepatic impairment, relative to patients with normal hepatic function. Despite the higher plasma inclisiran exposures, reductions in LDL-C were similar between the groups of patients administered inclisiran with normal hepatic function and mild hepatic impairment. In patients with moderate hepatic impairment, baseline PCSK9 levels were lower and reductions in LDL-C were less than those observed in patients with normal hepatic function. LEQVIO has not been studied in patients with severe hepatic impairment. Drug Interaction Studies No formal clinical drug interaction studies have been performed. The components of LEQVIO are not substrates, inhibitors or inducers of cytochrome P450 enzymes or transporters. In a population pharmacokinetic analysis, concomitant use of inclisiran did not have a clinically significant impact on atorvastatin or rosuvastatin concentrations. LEQVIO is not expected to cause drug-drug interactions or to be affected by inhibitors or inducers of cytochrome P450 enzymes or transporters.",
+    "indications_and_usage": "1 INDICATIONS AND USAGE LEQVIO ® is indicated as an adjunct to diet and exercise to reduce low-density lipoprotein cholesterol (LDL-C) in: adults with hypercholesterolemia. adults and pediatric patients aged 12 years and older with heterozygous familial hypercholesterolemia (HeFH). pediatric patients aged 12 years and older with homozygous familial hypercholesterolemia (HoFH). Cardiovascular outcomes trials have demonstrated that reducing LDL-C lowers the risk for major adverse cardiovascular events (MACE) in adults at increased risk when treated with statins or monoclonal antibody proprotein convertase subtilisin kexin type 9 (PCSK9) inhibitors as an add-on to statin therapy. LEQVIO is a small interfering RNA (siRNA) directed to proprotein convertase subtilisin kexin type 9 (PCSK9) mRNA indicated as an adjunct to diet and exercise to reduce low-density lipoprotein cholesterol (LDL-C) in: adults with hypercholesterolemia. ( 1 ) adults and pediatric patients aged 12 years and older with heterozygous familial hypercholesterolemia (HeFH). ( 1 ) pediatric patients aged 12 years and older with homozygous familial hypercholesterolemia (HoFH). ( 1 ) Cardiovascular outcomes trials have demonstrated that reducing LDL-C lowers the risk for major adverse cardiovascular events (MACE) in adults at increased risk when treated with statins or monoclonal antibody PCSK9 inhibitors as an add-on to statin therapy. ( 1 )",
+    "boxed_warning": null,
+    "openfda_brand_names": [
+      "LEQVIO"
+    ],
+    "openfda_generic_names": [
+      "INCLISIRAN"
+    ],
+    "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6fc0afca-4513-4c35-b594-6544aee29a44",
+    "note": null,
+    "further_reading": null
+  },
+  "condition": {
+    "raw": "Atherosclerotic Cardiovascular Disease (ASCVD)",
+    "slug": "atherosclerotic-cardiovascular-disease-ascvd"
+  },
+  "source_trials": [
+    {
+      "nct_id": "NCT06813911",
+      "title": "Lp(a) Lowering Study of Pelacarsen (TQJ230) With Background Inclisiran in Participants With Elevated Lp(a) and Established ASCVD",
+      "status": "TERMINATED",
+      "url": "https://clinicaltrials.gov/study/NCT06813911",
+      "has_results": false
+    }
+  ],
+  "prior_results": {
+    "ctgov_results_urls": [],
+    "pubmed_articles": [
+      {
+        "pmid": "42694622",
+        "title": "A New Option for the Management of Dyslipidemias: Advances in Research on the Small Interfering RNA Drug Inclisiran.",
+        "pubdate": "2026 Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42694622/"
+      },
+      {
+        "pmid": "42568963",
+        "title": "Real-world efficacy of inclisiran: data from a tertiary lipid clinic.",
+        "pubdate": "2026",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42568963/"
+      },
+      {
+        "pmid": "42538188",
+        "title": "Efficacy and safety of inclisiran monotherapy in Chinese adults with elevated low-density lipoprotein cholesterol: Results from the VICTORION-Mono China trial.",
+        "pubdate": "2026 Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42538188/"
+      },
+      {
+        "pmid": "42391098",
+        "title": "A Comprehensive Review of PCSK9 Inhibitor Therapy.",
+        "pubdate": "2026 Oct 1",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42391098/"
+      },
+      {
+        "pmid": "42641030",
+        "title": "",
+        "pubdate": "2026 Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42641030/"
+      }
+    ]
+  },
+  "related_drugs": {
+    "method": "chembl_same_target",
+    "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
+    "items": [
+      {
+        "name": "INCLISIRAN SODIUM",
+        "chembl_id": "CHEMBL5095052",
+        "reason": "same target: PCSK9 mRNA"
+      }
+    ]
+  }
+}

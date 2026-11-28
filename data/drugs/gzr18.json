@@ -1,7 +1,7 @@
 {
   "drug_name": "GZR18",
   "slug": "gzr18",
-  "enriched_at": "2026-11-20T17:38:48Z",
+  "enriched_at": "2026-11-28T16:22:00Z",
   "source_trial_ids": [
     "NCT06778967"
   ],
@@ -59,22 +59,6 @@
   "related_drugs": {
     "method": "ctgov_same_condition",
     "label": "Drugs with related mechanism or same indication -- not a curated competitive analysis",
-    "items": [
-      {
-        "name": "Drug: 5 mg BGM0504 Administered SC",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: BrightGene Bio-Medical Technology Co., Ltd."
-      },
-      {
-        "name": "Drug:10 mg BGM0504 Administered SC",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: BrightGene Bio-Medical Technology Co., Ltd."
-      },
-      {
-        "name": "Drug: Semaglutide Administered SC",
-        "chembl_id": null,
-        "reason": "same indication trial, sponsor: BrightGene Bio-Medical Technology Co., Ltd."
-      }
-    ]
+    "items": []
   }
 }
